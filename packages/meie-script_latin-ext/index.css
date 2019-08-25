@@ -1,0 +1,13 @@
+/* meie-script-400normal - latin-ext */
+@font-face {
+  font-family: 'Meie Script';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Meie Script Regular '),
+    local('Meie Script-Regular'),
+    url('./files/meie-script-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/meie-script-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+}
+

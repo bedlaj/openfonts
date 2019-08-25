@@ -1,0 +1,13 @@
+/* berkshire-swash-400normal - latin-ext */
+@font-face {
+  font-family: 'Berkshire Swash';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Berkshire Swash Regular '),
+    local('Berkshire Swash-Regular'),
+    url('./files/berkshire-swash-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/berkshire-swash-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+}
+

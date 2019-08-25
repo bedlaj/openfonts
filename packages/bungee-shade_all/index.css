@@ -1,0 +1,13 @@
+/* bungee-shade-400normal - all */
+@font-face {
+  font-family: 'Bungee Shade';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Bungee Shade Regular '),
+    local('Bungee Shade-Regular'),
+    url('./files/bungee-shade-all-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/bungee-shade-all-400.woff') format('woff'); /* Modern Browsers */
+}
+

@@ -1,0 +1,13 @@
+/* sriracha-400normal - thai */
+@font-face {
+  font-family: 'Sriracha';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Sriracha Regular '),
+    local('Sriracha-Regular'),
+    url('./files/sriracha-thai-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/sriracha-thai-400.woff') format('woff'); /* Modern Browsers */
+}
+

@@ -1,0 +1,26 @@
+/* sarala-400normal - latin-ext */
+@font-face {
+  font-family: 'Sarala';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Sarala Regular '),
+    local('Sarala-Regular'),
+    url('./files/sarala-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/sarala-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* sarala-700normal - latin-ext */
+@font-face {
+  font-family: 'Sarala';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Sarala Bold '),
+    local('Sarala-Bold'),
+    url('./files/sarala-latin-ext-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/sarala-latin-ext-700.woff') format('woff'); /* Modern Browsers */
+}
+

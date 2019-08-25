@@ -1,0 +1,13 @@
+/* ruslan-display-400normal - cyrillic */
+@font-face {
+  font-family: 'Ruslan Display';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Ruslan Display Regular '),
+    local('Ruslan Display-Regular'),
+    url('./files/ruslan-display-cyrillic-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/ruslan-display-cyrillic-400.woff') format('woff'); /* Modern Browsers */
+}
+

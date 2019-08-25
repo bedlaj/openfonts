@@ -1,0 +1,13 @@
+/* lancelot-400normal - latin-ext */
+@font-face {
+  font-family: 'Lancelot';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Lancelot Regular '),
+    local('Lancelot-Regular'),
+    url('./files/lancelot-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/lancelot-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+}
+

@@ -1,0 +1,104 @@
+/* chivo-300normal - latin-ext */
+@font-face {
+  font-family: 'Chivo';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Chivo Light '),
+    local('Chivo-Light'),
+    url('./files/chivo-latin-ext-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/chivo-latin-ext-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* chivo-300italic - latin-ext */
+@font-face {
+  font-family: 'Chivo';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Chivo Light italic'),
+    local('Chivo-Lightitalic'),
+    url('./files/chivo-latin-ext-300-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/chivo-latin-ext-300-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* chivo-400normal - latin-ext */
+@font-face {
+  font-family: 'Chivo';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Chivo Regular '),
+    local('Chivo-Regular'),
+    url('./files/chivo-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/chivo-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* chivo-400italic - latin-ext */
+@font-face {
+  font-family: 'Chivo';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Chivo Regular italic'),
+    local('Chivo-Regularitalic'),
+    url('./files/chivo-latin-ext-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/chivo-latin-ext-400-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* chivo-700normal - latin-ext */
+@font-face {
+  font-family: 'Chivo';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Chivo Bold '),
+    local('Chivo-Bold'),
+    url('./files/chivo-latin-ext-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/chivo-latin-ext-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* chivo-700italic - latin-ext */
+@font-face {
+  font-family: 'Chivo';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Chivo Bold italic'),
+    local('Chivo-Bolditalic'),
+    url('./files/chivo-latin-ext-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/chivo-latin-ext-700-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* chivo-900normal - latin-ext */
+@font-face {
+  font-family: 'Chivo';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Chivo Black '),
+    local('Chivo-Black'),
+    url('./files/chivo-latin-ext-900.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/chivo-latin-ext-900.woff') format('woff'); /* Modern Browsers */
+}
+
+/* chivo-900italic - latin-ext */
+@font-face {
+  font-family: 'Chivo';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Chivo Black italic'),
+    local('Chivo-Blackitalic'),
+    url('./files/chivo-latin-ext-900-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/chivo-latin-ext-900-italic.woff') format('woff'); /* Modern Browsers */
+}
+

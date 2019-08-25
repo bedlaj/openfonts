@@ -1,0 +1,104 @@
+/* merriweather-300normal - cyrillic */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Merriweather Light '),
+    local('Merriweather-Light'),
+    url('./files/merriweather-cyrillic-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/merriweather-cyrillic-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* merriweather-300italic - cyrillic */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Merriweather Light italic'),
+    local('Merriweather-Lightitalic'),
+    url('./files/merriweather-cyrillic-300-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/merriweather-cyrillic-300-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* merriweather-400normal - cyrillic */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Merriweather Regular '),
+    local('Merriweather-Regular'),
+    url('./files/merriweather-cyrillic-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/merriweather-cyrillic-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* merriweather-400italic - cyrillic */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Merriweather Regular italic'),
+    local('Merriweather-Regularitalic'),
+    url('./files/merriweather-cyrillic-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/merriweather-cyrillic-400-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* merriweather-700normal - cyrillic */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Merriweather Bold '),
+    local('Merriweather-Bold'),
+    url('./files/merriweather-cyrillic-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/merriweather-cyrillic-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* merriweather-700italic - cyrillic */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Merriweather Bold italic'),
+    local('Merriweather-Bolditalic'),
+    url('./files/merriweather-cyrillic-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/merriweather-cyrillic-700-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* merriweather-900normal - cyrillic */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Merriweather Black '),
+    local('Merriweather-Black'),
+    url('./files/merriweather-cyrillic-900.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/merriweather-cyrillic-900.woff') format('woff'); /* Modern Browsers */
+}
+
+/* merriweather-900italic - cyrillic */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Merriweather Black italic'),
+    local('Merriweather-Blackitalic'),
+    url('./files/merriweather-cyrillic-900-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/merriweather-cyrillic-900-italic.woff') format('woff'); /* Modern Browsers */
+}
+

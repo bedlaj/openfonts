@@ -1,0 +1,65 @@
+/* laila-300normal - all */
+@font-face {
+  font-family: 'Laila';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Laila Light '),
+    local('Laila-Light'),
+    url('./files/laila-all-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/laila-all-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* laila-400normal - all */
+@font-face {
+  font-family: 'Laila';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Laila Regular '),
+    local('Laila-Regular'),
+    url('./files/laila-all-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/laila-all-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* laila-500normal - all */
+@font-face {
+  font-family: 'Laila';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Laila Medium '),
+    local('Laila-Medium'),
+    url('./files/laila-all-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/laila-all-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* laila-600normal - all */
+@font-face {
+  font-family: 'Laila';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Laila SemiBold '),
+    local('Laila-SemiBold'),
+    url('./files/laila-all-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/laila-all-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* laila-700normal - all */
+@font-face {
+  font-family: 'Laila';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Laila Bold '),
+    local('Laila-Bold'),
+    url('./files/laila-all-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/laila-all-700.woff') format('woff'); /* Modern Browsers */
+}
+

@@ -1,0 +1,13 @@
+/* rum-raisin-400normal - latin-ext */
+@font-face {
+  font-family: 'Rum Raisin';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Rum Raisin Regular '),
+    local('Rum Raisin-Regular'),
+    url('./files/rum-raisin-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/rum-raisin-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+}
+

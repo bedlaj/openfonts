@@ -1,0 +1,13 @@
+/* bilbo-swash-caps-400normal - latin-ext */
+@font-face {
+  font-family: 'Bilbo Swash Caps';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Bilbo Swash Caps Regular '),
+    local('Bilbo Swash Caps-Regular'),
+    url('./files/bilbo-swash-caps-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/bilbo-swash-caps-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+}
+

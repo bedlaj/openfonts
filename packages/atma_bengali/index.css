@@ -1,0 +1,65 @@
+/* atma-300normal - bengali */
+@font-face {
+  font-family: 'Atma';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Atma Light '),
+    local('Atma-Light'),
+    url('./files/atma-bengali-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/atma-bengali-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* atma-400normal - bengali */
+@font-face {
+  font-family: 'Atma';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Atma Regular '),
+    local('Atma-Regular'),
+    url('./files/atma-bengali-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/atma-bengali-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* atma-500normal - bengali */
+@font-face {
+  font-family: 'Atma';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Atma Medium '),
+    local('Atma-Medium'),
+    url('./files/atma-bengali-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/atma-bengali-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* atma-600normal - bengali */
+@font-face {
+  font-family: 'Atma';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Atma SemiBold '),
+    local('Atma-SemiBold'),
+    url('./files/atma-bengali-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/atma-bengali-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* atma-700normal - bengali */
+@font-face {
+  font-family: 'Atma';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Atma Bold '),
+    local('Atma-Bold'),
+    url('./files/atma-bengali-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/atma-bengali-700.woff') format('woff'); /* Modern Browsers */
+}
+

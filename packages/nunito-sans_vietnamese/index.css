@@ -1,0 +1,182 @@
+/* nunito-sans-200normal - vietnamese */
+@font-face {
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Nunito Sans Extra Light '),
+    local('Nunito Sans-Extra Light'),
+    url('./files/nunito-sans-vietnamese-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/nunito-sans-vietnamese-200.woff') format('woff'); /* Modern Browsers */
+}
+
+/* nunito-sans-200italic - vietnamese */
+@font-face {
+  font-family: 'Nunito Sans';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Nunito Sans Extra Light italic'),
+    local('Nunito Sans-Extra Lightitalic'),
+    url('./files/nunito-sans-vietnamese-200-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/nunito-sans-vietnamese-200-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* nunito-sans-300normal - vietnamese */
+@font-face {
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Nunito Sans Light '),
+    local('Nunito Sans-Light'),
+    url('./files/nunito-sans-vietnamese-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/nunito-sans-vietnamese-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* nunito-sans-300italic - vietnamese */
+@font-face {
+  font-family: 'Nunito Sans';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Nunito Sans Light italic'),
+    local('Nunito Sans-Lightitalic'),
+    url('./files/nunito-sans-vietnamese-300-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/nunito-sans-vietnamese-300-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* nunito-sans-400normal - vietnamese */
+@font-face {
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Nunito Sans Regular '),
+    local('Nunito Sans-Regular'),
+    url('./files/nunito-sans-vietnamese-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/nunito-sans-vietnamese-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* nunito-sans-400italic - vietnamese */
+@font-face {
+  font-family: 'Nunito Sans';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Nunito Sans Regular italic'),
+    local('Nunito Sans-Regularitalic'),
+    url('./files/nunito-sans-vietnamese-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/nunito-sans-vietnamese-400-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* nunito-sans-600normal - vietnamese */
+@font-face {
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Nunito Sans SemiBold '),
+    local('Nunito Sans-SemiBold'),
+    url('./files/nunito-sans-vietnamese-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/nunito-sans-vietnamese-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* nunito-sans-600italic - vietnamese */
+@font-face {
+  font-family: 'Nunito Sans';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Nunito Sans SemiBold italic'),
+    local('Nunito Sans-SemiBolditalic'),
+    url('./files/nunito-sans-vietnamese-600-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/nunito-sans-vietnamese-600-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* nunito-sans-700normal - vietnamese */
+@font-face {
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Nunito Sans Bold '),
+    local('Nunito Sans-Bold'),
+    url('./files/nunito-sans-vietnamese-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/nunito-sans-vietnamese-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* nunito-sans-700italic - vietnamese */
+@font-face {
+  font-family: 'Nunito Sans';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Nunito Sans Bold italic'),
+    local('Nunito Sans-Bolditalic'),
+    url('./files/nunito-sans-vietnamese-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/nunito-sans-vietnamese-700-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* nunito-sans-800normal - vietnamese */
+@font-face {
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Nunito Sans ExtraBold '),
+    local('Nunito Sans-ExtraBold'),
+    url('./files/nunito-sans-vietnamese-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/nunito-sans-vietnamese-800.woff') format('woff'); /* Modern Browsers */
+}
+
+/* nunito-sans-800italic - vietnamese */
+@font-face {
+  font-family: 'Nunito Sans';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Nunito Sans ExtraBold italic'),
+    local('Nunito Sans-ExtraBolditalic'),
+    url('./files/nunito-sans-vietnamese-800-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/nunito-sans-vietnamese-800-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* nunito-sans-900normal - vietnamese */
+@font-face {
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Nunito Sans Black '),
+    local('Nunito Sans-Black'),
+    url('./files/nunito-sans-vietnamese-900.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/nunito-sans-vietnamese-900.woff') format('woff'); /* Modern Browsers */
+}
+
+/* nunito-sans-900italic - vietnamese */
+@font-face {
+  font-family: 'Nunito Sans';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Nunito Sans Black italic'),
+    local('Nunito Sans-Blackitalic'),
+    url('./files/nunito-sans-vietnamese-900-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/nunito-sans-vietnamese-900-italic.woff') format('woff'); /* Modern Browsers */
+}
+

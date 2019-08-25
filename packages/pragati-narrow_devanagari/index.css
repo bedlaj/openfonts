@@ -1,0 +1,26 @@
+/* pragati-narrow-400normal - devanagari */
+@font-face {
+  font-family: 'Pragati Narrow';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Pragati Narrow Regular '),
+    local('Pragati Narrow-Regular'),
+    url('./files/pragati-narrow-devanagari-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/pragati-narrow-devanagari-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* pragati-narrow-700normal - devanagari */
+@font-face {
+  font-family: 'Pragati Narrow';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Pragati Narrow Bold '),
+    local('Pragati Narrow-Bold'),
+    url('./files/pragati-narrow-devanagari-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/pragati-narrow-devanagari-700.woff') format('woff'); /* Modern Browsers */
+}
+

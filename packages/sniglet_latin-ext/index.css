@@ -1,0 +1,26 @@
+/* sniglet-400normal - latin-ext */
+@font-face {
+  font-family: 'Sniglet';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Sniglet Regular '),
+    local('Sniglet-Regular'),
+    url('./files/sniglet-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/sniglet-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* sniglet-800normal - latin-ext */
+@font-face {
+  font-family: 'Sniglet';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Sniglet ExtraBold '),
+    local('Sniglet-ExtraBold'),
+    url('./files/sniglet-latin-ext-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/sniglet-latin-ext-800.woff') format('woff'); /* Modern Browsers */
+}
+

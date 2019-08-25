@@ -1,0 +1,234 @@
+/* fira-sans-condensed-100normal - vietnamese */
+@font-face {
+  font-family: 'Fira Sans Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Fira Sans Condensed Thin '),
+    local('Fira Sans Condensed-Thin'),
+    url('./files/fira-sans-condensed-vietnamese-100.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/fira-sans-condensed-vietnamese-100.woff') format('woff'); /* Modern Browsers */
+}
+
+/* fira-sans-condensed-100italic - vietnamese */
+@font-face {
+  font-family: 'Fira Sans Condensed';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Fira Sans Condensed Thin italic'),
+    local('Fira Sans Condensed-Thinitalic'),
+    url('./files/fira-sans-condensed-vietnamese-100-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/fira-sans-condensed-vietnamese-100-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* fira-sans-condensed-200normal - vietnamese */
+@font-face {
+  font-family: 'Fira Sans Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Fira Sans Condensed Extra Light '),
+    local('Fira Sans Condensed-Extra Light'),
+    url('./files/fira-sans-condensed-vietnamese-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/fira-sans-condensed-vietnamese-200.woff') format('woff'); /* Modern Browsers */
+}
+
+/* fira-sans-condensed-200italic - vietnamese */
+@font-face {
+  font-family: 'Fira Sans Condensed';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Fira Sans Condensed Extra Light italic'),
+    local('Fira Sans Condensed-Extra Lightitalic'),
+    url('./files/fira-sans-condensed-vietnamese-200-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/fira-sans-condensed-vietnamese-200-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* fira-sans-condensed-300normal - vietnamese */
+@font-face {
+  font-family: 'Fira Sans Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Fira Sans Condensed Light '),
+    local('Fira Sans Condensed-Light'),
+    url('./files/fira-sans-condensed-vietnamese-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/fira-sans-condensed-vietnamese-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* fira-sans-condensed-300italic - vietnamese */
+@font-face {
+  font-family: 'Fira Sans Condensed';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Fira Sans Condensed Light italic'),
+    local('Fira Sans Condensed-Lightitalic'),
+    url('./files/fira-sans-condensed-vietnamese-300-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/fira-sans-condensed-vietnamese-300-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* fira-sans-condensed-400normal - vietnamese */
+@font-face {
+  font-family: 'Fira Sans Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Fira Sans Condensed Regular '),
+    local('Fira Sans Condensed-Regular'),
+    url('./files/fira-sans-condensed-vietnamese-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/fira-sans-condensed-vietnamese-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* fira-sans-condensed-400italic - vietnamese */
+@font-face {
+  font-family: 'Fira Sans Condensed';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Fira Sans Condensed Regular italic'),
+    local('Fira Sans Condensed-Regularitalic'),
+    url('./files/fira-sans-condensed-vietnamese-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/fira-sans-condensed-vietnamese-400-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* fira-sans-condensed-500normal - vietnamese */
+@font-face {
+  font-family: 'Fira Sans Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Fira Sans Condensed Medium '),
+    local('Fira Sans Condensed-Medium'),
+    url('./files/fira-sans-condensed-vietnamese-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/fira-sans-condensed-vietnamese-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* fira-sans-condensed-500italic - vietnamese */
+@font-face {
+  font-family: 'Fira Sans Condensed';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Fira Sans Condensed Medium italic'),
+    local('Fira Sans Condensed-Mediumitalic'),
+    url('./files/fira-sans-condensed-vietnamese-500-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/fira-sans-condensed-vietnamese-500-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* fira-sans-condensed-600normal - vietnamese */
+@font-face {
+  font-family: 'Fira Sans Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Fira Sans Condensed SemiBold '),
+    local('Fira Sans Condensed-SemiBold'),
+    url('./files/fira-sans-condensed-vietnamese-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/fira-sans-condensed-vietnamese-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* fira-sans-condensed-600italic - vietnamese */
+@font-face {
+  font-family: 'Fira Sans Condensed';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Fira Sans Condensed SemiBold italic'),
+    local('Fira Sans Condensed-SemiBolditalic'),
+    url('./files/fira-sans-condensed-vietnamese-600-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/fira-sans-condensed-vietnamese-600-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* fira-sans-condensed-700normal - vietnamese */
+@font-face {
+  font-family: 'Fira Sans Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Fira Sans Condensed Bold '),
+    local('Fira Sans Condensed-Bold'),
+    url('./files/fira-sans-condensed-vietnamese-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/fira-sans-condensed-vietnamese-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* fira-sans-condensed-700italic - vietnamese */
+@font-face {
+  font-family: 'Fira Sans Condensed';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Fira Sans Condensed Bold italic'),
+    local('Fira Sans Condensed-Bolditalic'),
+    url('./files/fira-sans-condensed-vietnamese-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/fira-sans-condensed-vietnamese-700-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* fira-sans-condensed-800normal - vietnamese */
+@font-face {
+  font-family: 'Fira Sans Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Fira Sans Condensed ExtraBold '),
+    local('Fira Sans Condensed-ExtraBold'),
+    url('./files/fira-sans-condensed-vietnamese-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/fira-sans-condensed-vietnamese-800.woff') format('woff'); /* Modern Browsers */
+}
+
+/* fira-sans-condensed-800italic - vietnamese */
+@font-face {
+  font-family: 'Fira Sans Condensed';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Fira Sans Condensed ExtraBold italic'),
+    local('Fira Sans Condensed-ExtraBolditalic'),
+    url('./files/fira-sans-condensed-vietnamese-800-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/fira-sans-condensed-vietnamese-800-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* fira-sans-condensed-900normal - vietnamese */
+@font-face {
+  font-family: 'Fira Sans Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Fira Sans Condensed Black '),
+    local('Fira Sans Condensed-Black'),
+    url('./files/fira-sans-condensed-vietnamese-900.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/fira-sans-condensed-vietnamese-900.woff') format('woff'); /* Modern Browsers */
+}
+
+/* fira-sans-condensed-900italic - vietnamese */
+@font-face {
+  font-family: 'Fira Sans Condensed';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Fira Sans Condensed Black italic'),
+    local('Fira Sans Condensed-Blackitalic'),
+    url('./files/fira-sans-condensed-vietnamese-900-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/fira-sans-condensed-vietnamese-900-italic.woff') format('woff'); /* Modern Browsers */
+}
+

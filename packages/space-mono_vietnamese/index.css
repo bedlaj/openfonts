@@ -1,0 +1,52 @@
+/* space-mono-400normal - vietnamese */
+@font-face {
+  font-family: 'Space Mono';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Space Mono Regular '),
+    local('Space Mono-Regular'),
+    url('./files/space-mono-vietnamese-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/space-mono-vietnamese-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* space-mono-400italic - vietnamese */
+@font-face {
+  font-family: 'Space Mono';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Space Mono Regular italic'),
+    local('Space Mono-Regularitalic'),
+    url('./files/space-mono-vietnamese-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/space-mono-vietnamese-400-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* space-mono-700normal - vietnamese */
+@font-face {
+  font-family: 'Space Mono';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Space Mono Bold '),
+    local('Space Mono-Bold'),
+    url('./files/space-mono-vietnamese-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/space-mono-vietnamese-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* space-mono-700italic - vietnamese */
+@font-face {
+  font-family: 'Space Mono';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Space Mono Bold italic'),
+    local('Space Mono-Bolditalic'),
+    url('./files/space-mono-vietnamese-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/space-mono-vietnamese-700-italic.woff') format('woff'); /* Modern Browsers */
+}
+

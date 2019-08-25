@@ -1,0 +1,104 @@
+/* archivo-400normal - latin */
+@font-face {
+  font-family: 'Archivo';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Archivo Regular '),
+    local('Archivo-Regular'),
+    url('./files/archivo-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/archivo-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* archivo-400italic - latin */
+@font-face {
+  font-family: 'Archivo';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Archivo Regular italic'),
+    local('Archivo-Regularitalic'),
+    url('./files/archivo-latin-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/archivo-latin-400-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* archivo-500normal - latin */
+@font-face {
+  font-family: 'Archivo';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Archivo Medium '),
+    local('Archivo-Medium'),
+    url('./files/archivo-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/archivo-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* archivo-500italic - latin */
+@font-face {
+  font-family: 'Archivo';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Archivo Medium italic'),
+    local('Archivo-Mediumitalic'),
+    url('./files/archivo-latin-500-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/archivo-latin-500-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* archivo-600normal - latin */
+@font-face {
+  font-family: 'Archivo';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Archivo SemiBold '),
+    local('Archivo-SemiBold'),
+    url('./files/archivo-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/archivo-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* archivo-600italic - latin */
+@font-face {
+  font-family: 'Archivo';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Archivo SemiBold italic'),
+    local('Archivo-SemiBolditalic'),
+    url('./files/archivo-latin-600-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/archivo-latin-600-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* archivo-700normal - latin */
+@font-face {
+  font-family: 'Archivo';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Archivo Bold '),
+    local('Archivo-Bold'),
+    url('./files/archivo-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/archivo-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* archivo-700italic - latin */
+@font-face {
+  font-family: 'Archivo';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Archivo Bold italic'),
+    local('Archivo-Bolditalic'),
+    url('./files/archivo-latin-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/archivo-latin-700-italic.woff') format('woff'); /* Modern Browsers */
+}
+

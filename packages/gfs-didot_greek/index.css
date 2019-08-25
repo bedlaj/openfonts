@@ -1,0 +1,13 @@
+/* gfs-didot-400normal - greek */
+@font-face {
+  font-family: 'GFS Didot';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('GFS Didot Regular '),
+    local('GFS Didot-Regular'),
+    url('./files/gfs-didot-greek-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/gfs-didot-greek-400.woff') format('woff'); /* Modern Browsers */
+}
+

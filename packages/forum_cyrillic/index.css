@@ -1,0 +1,13 @@
+/* forum-400normal - cyrillic */
+@font-face {
+  font-family: 'Forum';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Forum Regular '),
+    local('Forum-Regular'),
+    url('./files/forum-cyrillic-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/forum-cyrillic-400.woff') format('woff'); /* Modern Browsers */
+}
+

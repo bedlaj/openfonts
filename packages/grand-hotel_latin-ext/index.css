@@ -1,0 +1,13 @@
+/* grand-hotel-400normal - latin-ext */
+@font-face {
+  font-family: 'Grand Hotel';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Grand Hotel Regular '),
+    local('Grand Hotel-Regular'),
+    url('./files/grand-hotel-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/grand-hotel-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+}
+

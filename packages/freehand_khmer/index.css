@@ -1,0 +1,13 @@
+/* freehand-400normal - khmer */
+@font-face {
+  font-family: 'Freehand';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Freehand Regular '),
+    local('Freehand-Regular'),
+    url('./files/freehand-khmer-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/freehand-khmer-400.woff') format('woff'); /* Modern Browsers */
+}
+

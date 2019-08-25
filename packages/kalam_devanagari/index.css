@@ -1,0 +1,39 @@
+/* kalam-300normal - devanagari */
+@font-face {
+  font-family: 'Kalam';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Kalam Light '),
+    local('Kalam-Light'),
+    url('./files/kalam-devanagari-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/kalam-devanagari-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* kalam-400normal - devanagari */
+@font-face {
+  font-family: 'Kalam';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Kalam Regular '),
+    local('Kalam-Regular'),
+    url('./files/kalam-devanagari-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/kalam-devanagari-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* kalam-700normal - devanagari */
+@font-face {
+  font-family: 'Kalam';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Kalam Bold '),
+    local('Kalam-Bold'),
+    url('./files/kalam-devanagari-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/kalam-devanagari-700.woff') format('woff'); /* Modern Browsers */
+}
+

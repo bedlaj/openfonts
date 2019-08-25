@@ -3,34 +3,35 @@ const _ = require(`lodash`)
 exports.packageJson = _.template(
   `
 {
-  "name": "typeface-<%= typefaceId %>",
+  "name": "@openfonts/<%= typefaceId %>_<%= typefaceSubset %>",
   "version": "0.0.0",
-  "description": "<%= typefaceName %> typeface",
+  "description": "<%= typefaceName %> <%= typefaceSubset %> typeface",
   "main": "index.css",
   "keywords": [
     "typeface",
     "font",
     "font family",
     "google fonts",
-    "<%= typefaceId %>"
+    "<%= typefaceId %>",
+    "<%= typefaceSubset %>"
   ],
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Jan Bednar <openfonts@janbednar.eu>",
   "license": "MIT",
-  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/<%= typefaceId %>"
+  "repository": "https://github.com/bedlaj/openfonts/tree/master/packages/<%= typefaceId %>_<%= typefaceSubset %>"
 }
 `
 )
 
 exports.fontFace = _.template(
-  `/* <%= typefaceId %>-<%= weight %><%= styleWithNormal %> - latin */
+  `/* <%= typefaceId %>-<%= weight %><%= styleWithNormal %> - <%= typefaceSubset %> */
 @font-face {
   font-family: '<%= typefaceName %>';
   font-style: <%= styleWithNormal %>;
   font-display: swap;
   font-weight: <%= weight %>;
   src:
-    local('<%= typefaceLocalName %>'),
-    local('<%= typefaceLocalName2 %>'),
+    local('<%= typefaceName %> <%= commonWeightName %> <%= style %>'),
+    local('<%= typefaceName %>-<%= commonWeightName %><%= style %>'),
     url('<%= woff2Path %>') format('woff2'), /* Super Modern Browsers */
     url('<%= woffPath %>') format('woff'); /* Modern Browsers */
 }
@@ -40,13 +41,13 @@ exports.fontFace = _.template(
 
 exports.readme = _.template(
   `
-# typeface-<%= typefaceId %>
+# <%= typefaceId %>_<%= typefaceSubset %>
 
-The CSS and web font files to easily self-host “<%= typefaceName %>”.
+The CSS and web font files to easily self-host “<%= typefaceName %>” with subset "<%= typefaceSubset %>".
 
 ## Install
 
-\`npm install --save typeface-<%= typefaceId %>\`
+\`npm install --save @openfonts/<%= typefaceId %>_<%= typefaceSubset %>\`
 
 ## Use
 
@@ -62,27 +63,7 @@ To use, simply require the package in your project’s entry file e.g.
 
 \`\`\`javascript
 // Load <%= typefaceName %> typeface
-require('typeface-<%= typefaceId %>')
+require('@openfonts/<%= typefaceId %>_<%= typefaceSubset %>')
 \`\`\`
-
-By default only basic subset of characters is included in the font file (it's Latin in most cases).
-To add another one along the default, import specific CSS file.
-
-\`\`\`javascript
-// Load <%= typefaceName %> typeface with Latin plus Latin Extended subset
-require('typeface-<%= typefaceId %>/latin-ext.css')
-
-// Default subset is Latin
-require('typeface-<%= typefaceId %>/latin.css') === require('typeface-<%= typefaceId %>')
-\`\`\`
-
-## About the Typefaces project.
-
-Our goal is to add all open source fonts to NPM to simplify using great fonts in
-our web projects. We’re currently maintaining <%= count %> typeface packages
-including all typefaces on Google Fonts.
-
-If your favorite typeface isn’t published yet, [let us know](https://github.com/KyleAMathews/typefaces)
-and we’ll add it!
 `
 )

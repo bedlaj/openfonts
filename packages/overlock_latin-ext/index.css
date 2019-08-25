@@ -1,0 +1,78 @@
+/* overlock-400normal - latin-ext */
+@font-face {
+  font-family: 'Overlock';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Overlock Regular '),
+    local('Overlock-Regular'),
+    url('./files/overlock-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/overlock-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* overlock-400italic - latin-ext */
+@font-face {
+  font-family: 'Overlock';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Overlock Regular italic'),
+    local('Overlock-Regularitalic'),
+    url('./files/overlock-latin-ext-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/overlock-latin-ext-400-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* overlock-700normal - latin-ext */
+@font-face {
+  font-family: 'Overlock';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Overlock Bold '),
+    local('Overlock-Bold'),
+    url('./files/overlock-latin-ext-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/overlock-latin-ext-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* overlock-700italic - latin-ext */
+@font-face {
+  font-family: 'Overlock';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Overlock Bold italic'),
+    local('Overlock-Bolditalic'),
+    url('./files/overlock-latin-ext-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/overlock-latin-ext-700-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* overlock-900normal - latin-ext */
+@font-face {
+  font-family: 'Overlock';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Overlock Black '),
+    local('Overlock-Black'),
+    url('./files/overlock-latin-ext-900.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/overlock-latin-ext-900.woff') format('woff'); /* Modern Browsers */
+}
+
+/* overlock-900italic - latin-ext */
+@font-face {
+  font-family: 'Overlock';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Overlock Black italic'),
+    local('Overlock-Blackitalic'),
+    url('./files/overlock-latin-ext-900-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/overlock-latin-ext-900-italic.woff') format('woff'); /* Modern Browsers */
+}
+

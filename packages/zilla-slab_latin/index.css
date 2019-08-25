@@ -1,0 +1,130 @@
+/* zilla-slab-300normal - latin */
+@font-face {
+  font-family: 'Zilla Slab';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Zilla Slab Light '),
+    local('Zilla Slab-Light'),
+    url('./files/zilla-slab-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/zilla-slab-latin-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* zilla-slab-300italic - latin */
+@font-face {
+  font-family: 'Zilla Slab';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Zilla Slab Light italic'),
+    local('Zilla Slab-Lightitalic'),
+    url('./files/zilla-slab-latin-300-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/zilla-slab-latin-300-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* zilla-slab-400normal - latin */
+@font-face {
+  font-family: 'Zilla Slab';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Zilla Slab Regular '),
+    local('Zilla Slab-Regular'),
+    url('./files/zilla-slab-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/zilla-slab-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* zilla-slab-400italic - latin */
+@font-face {
+  font-family: 'Zilla Slab';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Zilla Slab Regular italic'),
+    local('Zilla Slab-Regularitalic'),
+    url('./files/zilla-slab-latin-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/zilla-slab-latin-400-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* zilla-slab-500normal - latin */
+@font-face {
+  font-family: 'Zilla Slab';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Zilla Slab Medium '),
+    local('Zilla Slab-Medium'),
+    url('./files/zilla-slab-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/zilla-slab-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* zilla-slab-500italic - latin */
+@font-face {
+  font-family: 'Zilla Slab';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Zilla Slab Medium italic'),
+    local('Zilla Slab-Mediumitalic'),
+    url('./files/zilla-slab-latin-500-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/zilla-slab-latin-500-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* zilla-slab-600normal - latin */
+@font-face {
+  font-family: 'Zilla Slab';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Zilla Slab SemiBold '),
+    local('Zilla Slab-SemiBold'),
+    url('./files/zilla-slab-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/zilla-slab-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* zilla-slab-600italic - latin */
+@font-face {
+  font-family: 'Zilla Slab';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Zilla Slab SemiBold italic'),
+    local('Zilla Slab-SemiBolditalic'),
+    url('./files/zilla-slab-latin-600-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/zilla-slab-latin-600-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* zilla-slab-700normal - latin */
+@font-face {
+  font-family: 'Zilla Slab';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Zilla Slab Bold '),
+    local('Zilla Slab-Bold'),
+    url('./files/zilla-slab-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/zilla-slab-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* zilla-slab-700italic - latin */
+@font-face {
+  font-family: 'Zilla Slab';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Zilla Slab Bold italic'),
+    local('Zilla Slab-Bolditalic'),
+    url('./files/zilla-slab-latin-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/zilla-slab-latin-700-italic.woff') format('woff'); /* Modern Browsers */
+}
+

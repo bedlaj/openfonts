@@ -1,0 +1,65 @@
+/* khula-300normal - all */
+@font-face {
+  font-family: 'Khula';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Khula Light '),
+    local('Khula-Light'),
+    url('./files/khula-all-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/khula-all-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* khula-400normal - all */
+@font-face {
+  font-family: 'Khula';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Khula Regular '),
+    local('Khula-Regular'),
+    url('./files/khula-all-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/khula-all-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* khula-600normal - all */
+@font-face {
+  font-family: 'Khula';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Khula SemiBold '),
+    local('Khula-SemiBold'),
+    url('./files/khula-all-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/khula-all-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* khula-700normal - all */
+@font-face {
+  font-family: 'Khula';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Khula Bold '),
+    local('Khula-Bold'),
+    url('./files/khula-all-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/khula-all-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* khula-800normal - all */
+@font-face {
+  font-family: 'Khula';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Khula ExtraBold '),
+    local('Khula-ExtraBold'),
+    url('./files/khula-all-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/khula-all-800.woff') format('woff'); /* Modern Browsers */
+}
+

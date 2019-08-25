@@ -1,0 +1,13 @@
+/* odor-mean-chey-400normal - khmer */
+@font-face {
+  font-family: 'Odor Mean Chey';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Odor Mean Chey Regular '),
+    local('Odor Mean Chey-Regular'),
+    url('./files/odor-mean-chey-khmer-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/odor-mean-chey-khmer-400.woff') format('woff'); /* Modern Browsers */
+}
+

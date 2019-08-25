@@ -1,0 +1,13 @@
+/* abril-fatface-400normal - latin-ext */
+@font-face {
+  font-family: 'Abril Fatface';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Abril Fatface Regular '),
+    local('Abril Fatface-Regular'),
+    url('./files/abril-fatface-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/abril-fatface-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+}
+

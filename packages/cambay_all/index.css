@@ -1,0 +1,52 @@
+/* cambay-400normal - all */
+@font-face {
+  font-family: 'Cambay';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Cambay Regular '),
+    local('Cambay-Regular'),
+    url('./files/cambay-all-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/cambay-all-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* cambay-400italic - all */
+@font-face {
+  font-family: 'Cambay';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Cambay Regular italic'),
+    local('Cambay-Regularitalic'),
+    url('./files/cambay-all-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/cambay-all-400-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* cambay-700normal - all */
+@font-face {
+  font-family: 'Cambay';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Cambay Bold '),
+    local('Cambay-Bold'),
+    url('./files/cambay-all-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/cambay-all-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* cambay-700italic - all */
+@font-face {
+  font-family: 'Cambay';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Cambay Bold italic'),
+    local('Cambay-Bolditalic'),
+    url('./files/cambay-all-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/cambay-all-700-italic.woff') format('woff'); /* Modern Browsers */
+}
+

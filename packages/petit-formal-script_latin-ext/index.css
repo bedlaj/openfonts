@@ -1,0 +1,13 @@
+/* petit-formal-script-400normal - latin-ext */
+@font-face {
+  font-family: 'Petit Formal Script';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Petit Formal Script Regular '),
+    local('Petit Formal Script-Regular'),
+    url('./files/petit-formal-script-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/petit-formal-script-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+}
+

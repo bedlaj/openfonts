@@ -1,0 +1,13 @@
+/* shadows-into-light-two-400normal - latin-ext */
+@font-face {
+  font-family: 'Shadows Into Light Two';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Shadows Into Light Two Regular '),
+    local('Shadows Into Light Two-Regular'),
+    url('./files/shadows-into-light-two-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/shadows-into-light-two-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+}
+

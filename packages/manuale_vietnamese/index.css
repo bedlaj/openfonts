@@ -1,0 +1,104 @@
+/* manuale-400normal - vietnamese */
+@font-face {
+  font-family: 'Manuale';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Manuale Regular '),
+    local('Manuale-Regular'),
+    url('./files/manuale-vietnamese-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/manuale-vietnamese-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* manuale-400italic - vietnamese */
+@font-face {
+  font-family: 'Manuale';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Manuale Regular italic'),
+    local('Manuale-Regularitalic'),
+    url('./files/manuale-vietnamese-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/manuale-vietnamese-400-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* manuale-500normal - vietnamese */
+@font-face {
+  font-family: 'Manuale';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Manuale Medium '),
+    local('Manuale-Medium'),
+    url('./files/manuale-vietnamese-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/manuale-vietnamese-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* manuale-500italic - vietnamese */
+@font-face {
+  font-family: 'Manuale';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Manuale Medium italic'),
+    local('Manuale-Mediumitalic'),
+    url('./files/manuale-vietnamese-500-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/manuale-vietnamese-500-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* manuale-600normal - vietnamese */
+@font-face {
+  font-family: 'Manuale';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Manuale SemiBold '),
+    local('Manuale-SemiBold'),
+    url('./files/manuale-vietnamese-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/manuale-vietnamese-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* manuale-600italic - vietnamese */
+@font-face {
+  font-family: 'Manuale';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Manuale SemiBold italic'),
+    local('Manuale-SemiBolditalic'),
+    url('./files/manuale-vietnamese-600-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/manuale-vietnamese-600-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* manuale-700normal - vietnamese */
+@font-face {
+  font-family: 'Manuale';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Manuale Bold '),
+    local('Manuale-Bold'),
+    url('./files/manuale-vietnamese-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/manuale-vietnamese-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* manuale-700italic - vietnamese */
+@font-face {
+  font-family: 'Manuale';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Manuale Bold italic'),
+    local('Manuale-Bolditalic'),
+    url('./files/manuale-vietnamese-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/manuale-vietnamese-700-italic.woff') format('woff'); /* Modern Browsers */
+}
+

@@ -1,0 +1,52 @@
+/* enriqueta-400normal - latin-ext */
+@font-face {
+  font-family: 'Enriqueta';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Enriqueta Regular '),
+    local('Enriqueta-Regular'),
+    url('./files/enriqueta-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/enriqueta-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* enriqueta-500normal - latin-ext */
+@font-face {
+  font-family: 'Enriqueta';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Enriqueta Medium '),
+    local('Enriqueta-Medium'),
+    url('./files/enriqueta-latin-ext-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/enriqueta-latin-ext-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* enriqueta-600normal - latin-ext */
+@font-face {
+  font-family: 'Enriqueta';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Enriqueta SemiBold '),
+    local('Enriqueta-SemiBold'),
+    url('./files/enriqueta-latin-ext-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/enriqueta-latin-ext-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* enriqueta-700normal - latin-ext */
+@font-face {
+  font-family: 'Enriqueta';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Enriqueta Bold '),
+    local('Enriqueta-Bold'),
+    url('./files/enriqueta-latin-ext-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/enriqueta-latin-ext-700.woff') format('woff'); /* Modern Browsers */
+}
+

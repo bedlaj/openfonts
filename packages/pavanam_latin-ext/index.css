@@ -1,0 +1,13 @@
+/* pavanam-400normal - latin-ext */
+@font-face {
+  font-family: 'Pavanam';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Pavanam Regular '),
+    local('Pavanam-Regular'),
+    url('./files/pavanam-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/pavanam-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+}
+

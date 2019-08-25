@@ -1,0 +1,13 @@
+/* romanesco-400normal - latin-ext */
+@font-face {
+  font-family: 'Romanesco';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Romanesco Regular '),
+    local('Romanesco-Regular'),
+    url('./files/romanesco-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/romanesco-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+}
+

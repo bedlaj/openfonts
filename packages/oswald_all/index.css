@@ -1,0 +1,78 @@
+/* oswald-200normal - all */
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Oswald Extra Light '),
+    local('Oswald-Extra Light'),
+    url('./files/oswald-all-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/oswald-all-200.woff') format('woff'); /* Modern Browsers */
+}
+
+/* oswald-300normal - all */
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Oswald Light '),
+    local('Oswald-Light'),
+    url('./files/oswald-all-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/oswald-all-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* oswald-400normal - all */
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Oswald Regular '),
+    local('Oswald-Regular'),
+    url('./files/oswald-all-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/oswald-all-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* oswald-500normal - all */
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Oswald Medium '),
+    local('Oswald-Medium'),
+    url('./files/oswald-all-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/oswald-all-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* oswald-600normal - all */
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Oswald SemiBold '),
+    local('Oswald-SemiBold'),
+    url('./files/oswald-all-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/oswald-all-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* oswald-700normal - all */
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Oswald Bold '),
+    local('Oswald-Bold'),
+    url('./files/oswald-all-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/oswald-all-700.woff') format('woff'); /* Modern Browsers */
+}
+

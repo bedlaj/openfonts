@@ -1,0 +1,13 @@
+/* bahiana-400normal - latin-ext */
+@font-face {
+  font-family: 'Bahiana';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Bahiana Regular '),
+    local('Bahiana-Regular'),
+    url('./files/bahiana-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/bahiana-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+}
+

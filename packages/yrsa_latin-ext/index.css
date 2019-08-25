@@ -1,0 +1,65 @@
+/* yrsa-300normal - latin-ext */
+@font-face {
+  font-family: 'Yrsa';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Yrsa Light '),
+    local('Yrsa-Light'),
+    url('./files/yrsa-latin-ext-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/yrsa-latin-ext-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* yrsa-400normal - latin-ext */
+@font-face {
+  font-family: 'Yrsa';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Yrsa Regular '),
+    local('Yrsa-Regular'),
+    url('./files/yrsa-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/yrsa-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* yrsa-500normal - latin-ext */
+@font-face {
+  font-family: 'Yrsa';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Yrsa Medium '),
+    local('Yrsa-Medium'),
+    url('./files/yrsa-latin-ext-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/yrsa-latin-ext-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* yrsa-600normal - latin-ext */
+@font-face {
+  font-family: 'Yrsa';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Yrsa SemiBold '),
+    local('Yrsa-SemiBold'),
+    url('./files/yrsa-latin-ext-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/yrsa-latin-ext-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* yrsa-700normal - latin-ext */
+@font-face {
+  font-family: 'Yrsa';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Yrsa Bold '),
+    local('Yrsa-Bold'),
+    url('./files/yrsa-latin-ext-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/yrsa-latin-ext-700.woff') format('woff'); /* Modern Browsers */
+}
+

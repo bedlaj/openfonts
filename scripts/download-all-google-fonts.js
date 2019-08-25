@@ -4,6 +4,7 @@ const async = require(`async`)
 const requestSync = require(`sync-request`)
 
 const baseurl = `https://google-webfonts-helper.herokuapp.com/api/fonts/`
+//const baseurl = `http://localhost:9000/api/fonts/`
 const res = requestSync(`GET`, baseurl)
 const typefaces = JSON.parse(res.getBody(`UTF-8`))
 

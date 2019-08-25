@@ -1,0 +1,65 @@
+/* hind-vadodara-300normal - gujarati */
+@font-face {
+  font-family: 'Hind Vadodara';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Hind Vadodara Light '),
+    local('Hind Vadodara-Light'),
+    url('./files/hind-vadodara-gujarati-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/hind-vadodara-gujarati-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* hind-vadodara-400normal - gujarati */
+@font-face {
+  font-family: 'Hind Vadodara';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Hind Vadodara Regular '),
+    local('Hind Vadodara-Regular'),
+    url('./files/hind-vadodara-gujarati-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/hind-vadodara-gujarati-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* hind-vadodara-500normal - gujarati */
+@font-face {
+  font-family: 'Hind Vadodara';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Hind Vadodara Medium '),
+    local('Hind Vadodara-Medium'),
+    url('./files/hind-vadodara-gujarati-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/hind-vadodara-gujarati-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* hind-vadodara-600normal - gujarati */
+@font-face {
+  font-family: 'Hind Vadodara';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Hind Vadodara SemiBold '),
+    local('Hind Vadodara-SemiBold'),
+    url('./files/hind-vadodara-gujarati-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/hind-vadodara-gujarati-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* hind-vadodara-700normal - gujarati */
+@font-face {
+  font-family: 'Hind Vadodara';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Hind Vadodara Bold '),
+    local('Hind Vadodara-Bold'),
+    url('./files/hind-vadodara-gujarati-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/hind-vadodara-gujarati-700.woff') format('woff'); /* Modern Browsers */
+}
+

@@ -1,0 +1,65 @@
+/* abhaya-libre-400normal - all */
+@font-face {
+  font-family: 'Abhaya Libre';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Abhaya Libre Regular '),
+    local('Abhaya Libre-Regular'),
+    url('./files/abhaya-libre-all-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/abhaya-libre-all-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* abhaya-libre-500normal - all */
+@font-face {
+  font-family: 'Abhaya Libre';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Abhaya Libre Medium '),
+    local('Abhaya Libre-Medium'),
+    url('./files/abhaya-libre-all-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/abhaya-libre-all-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* abhaya-libre-600normal - all */
+@font-face {
+  font-family: 'Abhaya Libre';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Abhaya Libre SemiBold '),
+    local('Abhaya Libre-SemiBold'),
+    url('./files/abhaya-libre-all-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/abhaya-libre-all-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* abhaya-libre-700normal - all */
+@font-face {
+  font-family: 'Abhaya Libre';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Abhaya Libre Bold '),
+    local('Abhaya Libre-Bold'),
+    url('./files/abhaya-libre-all-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/abhaya-libre-all-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* abhaya-libre-800normal - all */
+@font-face {
+  font-family: 'Abhaya Libre';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Abhaya Libre ExtraBold '),
+    local('Abhaya Libre-ExtraBold'),
+    url('./files/abhaya-libre-all-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/abhaya-libre-all-800.woff') format('woff'); /* Modern Browsers */
+}
+

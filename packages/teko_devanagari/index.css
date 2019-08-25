@@ -1,0 +1,65 @@
+/* teko-300normal - devanagari */
+@font-face {
+  font-family: 'Teko';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Teko Light '),
+    local('Teko-Light'),
+    url('./files/teko-devanagari-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/teko-devanagari-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* teko-400normal - devanagari */
+@font-face {
+  font-family: 'Teko';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Teko Regular '),
+    local('Teko-Regular'),
+    url('./files/teko-devanagari-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/teko-devanagari-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* teko-500normal - devanagari */
+@font-face {
+  font-family: 'Teko';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Teko Medium '),
+    local('Teko-Medium'),
+    url('./files/teko-devanagari-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/teko-devanagari-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* teko-600normal - devanagari */
+@font-face {
+  font-family: 'Teko';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Teko SemiBold '),
+    local('Teko-SemiBold'),
+    url('./files/teko-devanagari-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/teko-devanagari-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* teko-700normal - devanagari */
+@font-face {
+  font-family: 'Teko';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Teko Bold '),
+    local('Teko-Bold'),
+    url('./files/teko-devanagari-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/teko-devanagari-700.woff') format('woff'); /* Modern Browsers */
+}
+

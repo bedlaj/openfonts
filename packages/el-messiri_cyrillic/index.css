@@ -1,0 +1,52 @@
+/* el-messiri-400normal - cyrillic */
+@font-face {
+  font-family: 'El Messiri';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('El Messiri Regular '),
+    local('El Messiri-Regular'),
+    url('./files/el-messiri-cyrillic-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/el-messiri-cyrillic-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* el-messiri-500normal - cyrillic */
+@font-face {
+  font-family: 'El Messiri';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('El Messiri Medium '),
+    local('El Messiri-Medium'),
+    url('./files/el-messiri-cyrillic-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/el-messiri-cyrillic-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* el-messiri-600normal - cyrillic */
+@font-face {
+  font-family: 'El Messiri';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('El Messiri SemiBold '),
+    local('El Messiri-SemiBold'),
+    url('./files/el-messiri-cyrillic-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/el-messiri-cyrillic-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* el-messiri-700normal - cyrillic */
+@font-face {
+  font-family: 'El Messiri';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('El Messiri Bold '),
+    local('El Messiri-Bold'),
+    url('./files/el-messiri-cyrillic-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/el-messiri-cyrillic-700.woff') format('woff'); /* Modern Browsers */
+}
+

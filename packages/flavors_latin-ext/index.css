@@ -1,0 +1,13 @@
+/* flavors-400normal - latin-ext */
+@font-face {
+  font-family: 'Flavors';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Flavors Regular '),
+    local('Flavors-Regular'),
+    url('./files/flavors-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/flavors-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+}
+

@@ -1,0 +1,78 @@
+/* maitree-200normal - latin-ext */
+@font-face {
+  font-family: 'Maitree';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Maitree Extra Light '),
+    local('Maitree-Extra Light'),
+    url('./files/maitree-latin-ext-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/maitree-latin-ext-200.woff') format('woff'); /* Modern Browsers */
+}
+
+/* maitree-300normal - latin-ext */
+@font-face {
+  font-family: 'Maitree';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Maitree Light '),
+    local('Maitree-Light'),
+    url('./files/maitree-latin-ext-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/maitree-latin-ext-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* maitree-400normal - latin-ext */
+@font-face {
+  font-family: 'Maitree';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Maitree Regular '),
+    local('Maitree-Regular'),
+    url('./files/maitree-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/maitree-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* maitree-500normal - latin-ext */
+@font-face {
+  font-family: 'Maitree';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Maitree Medium '),
+    local('Maitree-Medium'),
+    url('./files/maitree-latin-ext-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/maitree-latin-ext-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* maitree-600normal - latin-ext */
+@font-face {
+  font-family: 'Maitree';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Maitree SemiBold '),
+    local('Maitree-SemiBold'),
+    url('./files/maitree-latin-ext-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/maitree-latin-ext-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* maitree-700normal - latin-ext */
+@font-face {
+  font-family: 'Maitree';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Maitree Bold '),
+    local('Maitree-Bold'),
+    url('./files/maitree-latin-ext-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/maitree-latin-ext-700.woff') format('woff'); /* Modern Browsers */
+}
+

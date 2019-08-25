@@ -1,0 +1,13 @@
+/* ravi-prakash-400normal - telugu */
+@font-face {
+  font-family: 'Ravi Prakash';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Ravi Prakash Regular '),
+    local('Ravi Prakash-Regular'),
+    url('./files/ravi-prakash-telugu-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/ravi-prakash-telugu-400.woff') format('woff'); /* Modern Browsers */
+}
+

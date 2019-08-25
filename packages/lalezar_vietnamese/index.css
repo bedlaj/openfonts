@@ -1,0 +1,13 @@
+/* lalezar-400normal - vietnamese */
+@font-face {
+  font-family: 'Lalezar';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Lalezar Regular '),
+    local('Lalezar-Regular'),
+    url('./files/lalezar-vietnamese-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/lalezar-vietnamese-400.woff') format('woff'); /* Modern Browsers */
+}
+

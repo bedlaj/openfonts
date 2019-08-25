@@ -1,0 +1,52 @@
+/* mirza-400normal - all */
+@font-face {
+  font-family: 'Mirza';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Mirza Regular '),
+    local('Mirza-Regular'),
+    url('./files/mirza-all-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mirza-all-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* mirza-500normal - all */
+@font-face {
+  font-family: 'Mirza';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Mirza Medium '),
+    local('Mirza-Medium'),
+    url('./files/mirza-all-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mirza-all-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* mirza-600normal - all */
+@font-face {
+  font-family: 'Mirza';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Mirza SemiBold '),
+    local('Mirza-SemiBold'),
+    url('./files/mirza-all-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mirza-all-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* mirza-700normal - all */
+@font-face {
+  font-family: 'Mirza';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Mirza Bold '),
+    local('Mirza-Bold'),
+    url('./files/mirza-all-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mirza-all-700.woff') format('woff'); /* Modern Browsers */
+}
+

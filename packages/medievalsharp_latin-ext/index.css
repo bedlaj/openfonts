@@ -1,0 +1,13 @@
+/* medievalsharp-400normal - latin-ext */
+@font-face {
+  font-family: 'MedievalSharp';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('MedievalSharp Regular '),
+    local('MedievalSharp-Regular'),
+    url('./files/medievalsharp-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/medievalsharp-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+}
+

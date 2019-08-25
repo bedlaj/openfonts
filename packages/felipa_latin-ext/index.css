@@ -1,0 +1,13 @@
+/* felipa-400normal - latin-ext */
+@font-face {
+  font-family: 'Felipa';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Felipa Regular '),
+    local('Felipa-Regular'),
+    url('./files/felipa-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/felipa-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+}
+

@@ -1,0 +1,104 @@
+/* literata-400normal - cyrillic */
+@font-face {
+  font-family: 'Literata';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Literata Regular '),
+    local('Literata-Regular'),
+    url('./files/literata-cyrillic-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/literata-cyrillic-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* literata-400italic - cyrillic */
+@font-face {
+  font-family: 'Literata';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Literata Regular italic'),
+    local('Literata-Regularitalic'),
+    url('./files/literata-cyrillic-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/literata-cyrillic-400-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* literata-500normal - cyrillic */
+@font-face {
+  font-family: 'Literata';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Literata Medium '),
+    local('Literata-Medium'),
+    url('./files/literata-cyrillic-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/literata-cyrillic-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* literata-500italic - cyrillic */
+@font-face {
+  font-family: 'Literata';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Literata Medium italic'),
+    local('Literata-Mediumitalic'),
+    url('./files/literata-cyrillic-500-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/literata-cyrillic-500-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* literata-600normal - cyrillic */
+@font-face {
+  font-family: 'Literata';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Literata SemiBold '),
+    local('Literata-SemiBold'),
+    url('./files/literata-cyrillic-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/literata-cyrillic-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* literata-600italic - cyrillic */
+@font-face {
+  font-family: 'Literata';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Literata SemiBold italic'),
+    local('Literata-SemiBolditalic'),
+    url('./files/literata-cyrillic-600-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/literata-cyrillic-600-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* literata-700normal - cyrillic */
+@font-face {
+  font-family: 'Literata';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Literata Bold '),
+    local('Literata-Bold'),
+    url('./files/literata-cyrillic-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/literata-cyrillic-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* literata-700italic - cyrillic */
+@font-face {
+  font-family: 'Literata';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Literata Bold italic'),
+    local('Literata-Bolditalic'),
+    url('./files/literata-cyrillic-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/literata-cyrillic-700-italic.woff') format('woff'); /* Modern Browsers */
+}
+

@@ -1,0 +1,65 @@
+/* eczar-400normal - all */
+@font-face {
+  font-family: 'Eczar';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Eczar Regular '),
+    local('Eczar-Regular'),
+    url('./files/eczar-all-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/eczar-all-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* eczar-500normal - all */
+@font-face {
+  font-family: 'Eczar';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Eczar Medium '),
+    local('Eczar-Medium'),
+    url('./files/eczar-all-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/eczar-all-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* eczar-600normal - all */
+@font-face {
+  font-family: 'Eczar';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Eczar SemiBold '),
+    local('Eczar-SemiBold'),
+    url('./files/eczar-all-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/eczar-all-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* eczar-700normal - all */
+@font-face {
+  font-family: 'Eczar';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Eczar Bold '),
+    local('Eczar-Bold'),
+    url('./files/eczar-all-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/eczar-all-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* eczar-800normal - all */
+@font-face {
+  font-family: 'Eczar';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Eczar ExtraBold '),
+    local('Eczar-ExtraBold'),
+    url('./files/eczar-all-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/eczar-all-800.woff') format('woff'); /* Modern Browsers */
+}
+

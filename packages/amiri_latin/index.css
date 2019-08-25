@@ -1,0 +1,52 @@
+/* amiri-400normal - latin */
+@font-face {
+  font-family: 'Amiri';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Amiri Regular '),
+    local('Amiri-Regular'),
+    url('./files/amiri-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/amiri-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* amiri-400italic - latin */
+@font-face {
+  font-family: 'Amiri';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Amiri Regular italic'),
+    local('Amiri-Regularitalic'),
+    url('./files/amiri-latin-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/amiri-latin-400-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* amiri-700normal - latin */
+@font-face {
+  font-family: 'Amiri';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Amiri Bold '),
+    local('Amiri-Bold'),
+    url('./files/amiri-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/amiri-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* amiri-700italic - latin */
+@font-face {
+  font-family: 'Amiri';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Amiri Bold italic'),
+    local('Amiri-Bolditalic'),
+    url('./files/amiri-latin-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/amiri-latin-700-italic.woff') format('woff'); /* Modern Browsers */
+}
+

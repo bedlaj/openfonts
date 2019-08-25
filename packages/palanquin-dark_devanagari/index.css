@@ -1,0 +1,52 @@
+/* palanquin-dark-400normal - devanagari */
+@font-face {
+  font-family: 'Palanquin Dark';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Palanquin Dark Regular '),
+    local('Palanquin Dark-Regular'),
+    url('./files/palanquin-dark-devanagari-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/palanquin-dark-devanagari-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* palanquin-dark-500normal - devanagari */
+@font-face {
+  font-family: 'Palanquin Dark';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Palanquin Dark Medium '),
+    local('Palanquin Dark-Medium'),
+    url('./files/palanquin-dark-devanagari-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/palanquin-dark-devanagari-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* palanquin-dark-600normal - devanagari */
+@font-face {
+  font-family: 'Palanquin Dark';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Palanquin Dark SemiBold '),
+    local('Palanquin Dark-SemiBold'),
+    url('./files/palanquin-dark-devanagari-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/palanquin-dark-devanagari-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* palanquin-dark-700normal - devanagari */
+@font-face {
+  font-family: 'Palanquin Dark';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Palanquin Dark Bold '),
+    local('Palanquin Dark-Bold'),
+    url('./files/palanquin-dark-devanagari-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/palanquin-dark-devanagari-700.woff') format('woff'); /* Modern Browsers */
+}
+

@@ -1,0 +1,13 @@
+/* rakkas-400normal - arabic */
+@font-face {
+  font-family: 'Rakkas';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Rakkas Regular '),
+    local('Rakkas-Regular'),
+    url('./files/rakkas-arabic-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/rakkas-arabic-400.woff') format('woff'); /* Modern Browsers */
+}
+

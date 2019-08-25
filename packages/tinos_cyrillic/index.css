@@ -1,0 +1,52 @@
+/* tinos-400normal - cyrillic */
+@font-face {
+  font-family: 'Tinos';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Tinos Regular '),
+    local('Tinos-Regular'),
+    url('./files/tinos-cyrillic-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/tinos-cyrillic-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* tinos-400italic - cyrillic */
+@font-face {
+  font-family: 'Tinos';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Tinos Regular italic'),
+    local('Tinos-Regularitalic'),
+    url('./files/tinos-cyrillic-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/tinos-cyrillic-400-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* tinos-700normal - cyrillic */
+@font-face {
+  font-family: 'Tinos';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Tinos Bold '),
+    local('Tinos-Bold'),
+    url('./files/tinos-cyrillic-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/tinos-cyrillic-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* tinos-700italic - cyrillic */
+@font-face {
+  font-family: 'Tinos';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Tinos Bold italic'),
+    local('Tinos-Bolditalic'),
+    url('./files/tinos-cyrillic-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/tinos-cyrillic-700-italic.woff') format('woff'); /* Modern Browsers */
+}
+

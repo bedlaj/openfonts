@@ -1,0 +1,13 @@
+/* aguafina-script-400normal - latin-ext */
+@font-face {
+  font-family: 'Aguafina Script';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Aguafina Script Regular '),
+    local('Aguafina Script-Regular'),
+    url('./files/aguafina-script-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/aguafina-script-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+}
+

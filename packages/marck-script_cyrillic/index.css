@@ -1,0 +1,13 @@
+/* marck-script-400normal - cyrillic */
+@font-face {
+  font-family: 'Marck Script';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Marck Script Regular '),
+    local('Marck Script-Regular'),
+    url('./files/marck-script-cyrillic-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/marck-script-cyrillic-400.woff') format('woff'); /* Modern Browsers */
+}
+

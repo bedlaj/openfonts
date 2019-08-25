@@ -1,0 +1,13 @@
+/* chicle-400normal - latin-ext */
+@font-face {
+  font-family: 'Chicle';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Chicle Regular '),
+    local('Chicle-Regular'),
+    url('./files/chicle-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/chicle-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+}
+

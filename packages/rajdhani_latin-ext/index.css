@@ -1,0 +1,65 @@
+/* rajdhani-300normal - latin-ext */
+@font-face {
+  font-family: 'Rajdhani';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Rajdhani Light '),
+    local('Rajdhani-Light'),
+    url('./files/rajdhani-latin-ext-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/rajdhani-latin-ext-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* rajdhani-400normal - latin-ext */
+@font-face {
+  font-family: 'Rajdhani';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Rajdhani Regular '),
+    local('Rajdhani-Regular'),
+    url('./files/rajdhani-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/rajdhani-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* rajdhani-500normal - latin-ext */
+@font-face {
+  font-family: 'Rajdhani';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Rajdhani Medium '),
+    local('Rajdhani-Medium'),
+    url('./files/rajdhani-latin-ext-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/rajdhani-latin-ext-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* rajdhani-600normal - latin-ext */
+@font-face {
+  font-family: 'Rajdhani';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Rajdhani SemiBold '),
+    local('Rajdhani-SemiBold'),
+    url('./files/rajdhani-latin-ext-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/rajdhani-latin-ext-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* rajdhani-700normal - latin-ext */
+@font-face {
+  font-family: 'Rajdhani';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Rajdhani Bold '),
+    local('Rajdhani-Bold'),
+    url('./files/rajdhani-latin-ext-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/rajdhani-latin-ext-700.woff') format('woff'); /* Modern Browsers */
+}
+

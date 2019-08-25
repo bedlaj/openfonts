@@ -1,0 +1,26 @@
+/* im-fell-french-canon-400normal - latin */
+@font-face {
+  font-family: 'IM Fell French Canon';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('IM Fell French Canon Regular '),
+    local('IM Fell French Canon-Regular'),
+    url('./files/im-fell-french-canon-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/im-fell-french-canon-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* im-fell-french-canon-400italic - latin */
+@font-face {
+  font-family: 'IM Fell French Canon';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('IM Fell French Canon Regular italic'),
+    local('IM Fell French Canon-Regularitalic'),
+    url('./files/im-fell-french-canon-latin-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/im-fell-french-canon-latin-400-italic.woff') format('woff'); /* Modern Browsers */
+}
+

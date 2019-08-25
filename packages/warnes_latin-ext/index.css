@@ -1,0 +1,13 @@
+/* warnes-400normal - latin-ext */
+@font-face {
+  font-family: 'Warnes';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Warnes Regular '),
+    local('Warnes-Regular'),
+    url('./files/warnes-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/warnes-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+}
+

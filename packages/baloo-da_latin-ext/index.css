@@ -1,0 +1,13 @@
+/* baloo-da-400normal - latin-ext */
+@font-face {
+  font-family: 'Baloo Da';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Baloo Da Regular '),
+    local('Baloo Da-Regular'),
+    url('./files/baloo-da-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/baloo-da-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+}
+

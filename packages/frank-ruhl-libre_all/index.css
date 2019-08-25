@@ -1,0 +1,65 @@
+/* frank-ruhl-libre-300normal - all */
+@font-face {
+  font-family: 'Frank Ruhl Libre';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Frank Ruhl Libre Light '),
+    local('Frank Ruhl Libre-Light'),
+    url('./files/frank-ruhl-libre-all-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/frank-ruhl-libre-all-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* frank-ruhl-libre-400normal - all */
+@font-face {
+  font-family: 'Frank Ruhl Libre';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Frank Ruhl Libre Regular '),
+    local('Frank Ruhl Libre-Regular'),
+    url('./files/frank-ruhl-libre-all-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/frank-ruhl-libre-all-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* frank-ruhl-libre-500normal - all */
+@font-face {
+  font-family: 'Frank Ruhl Libre';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Frank Ruhl Libre Medium '),
+    local('Frank Ruhl Libre-Medium'),
+    url('./files/frank-ruhl-libre-all-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/frank-ruhl-libre-all-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* frank-ruhl-libre-700normal - all */
+@font-face {
+  font-family: 'Frank Ruhl Libre';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Frank Ruhl Libre Bold '),
+    local('Frank Ruhl Libre-Bold'),
+    url('./files/frank-ruhl-libre-all-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/frank-ruhl-libre-all-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* frank-ruhl-libre-900normal - all */
+@font-face {
+  font-family: 'Frank Ruhl Libre';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Frank Ruhl Libre Black '),
+    local('Frank Ruhl Libre-Black'),
+    url('./files/frank-ruhl-libre-all-900.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/frank-ruhl-libre-all-900.woff') format('woff'); /* Modern Browsers */
+}
+

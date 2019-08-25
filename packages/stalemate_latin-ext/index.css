@@ -1,0 +1,13 @@
+/* stalemate-400normal - latin-ext */
+@font-face {
+  font-family: 'Stalemate';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Stalemate Regular '),
+    local('Stalemate-Regular'),
+    url('./files/stalemate-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/stalemate-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+}
+

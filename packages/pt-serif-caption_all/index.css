@@ -1,0 +1,26 @@
+/* pt-serif-caption-400normal - all */
+@font-face {
+  font-family: 'PT Serif Caption';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('PT Serif Caption Regular '),
+    local('PT Serif Caption-Regular'),
+    url('./files/pt-serif-caption-all-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/pt-serif-caption-all-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* pt-serif-caption-400italic - all */
+@font-face {
+  font-family: 'PT Serif Caption';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('PT Serif Caption Regular italic'),
+    local('PT Serif Caption-Regularitalic'),
+    url('./files/pt-serif-caption-all-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/pt-serif-caption-all-400-italic.woff') format('woff'); /* Modern Browsers */
+}
+

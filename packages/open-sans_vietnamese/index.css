@@ -1,0 +1,130 @@
+/* open-sans-300normal - vietnamese */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Open Sans Light '),
+    local('Open Sans-Light'),
+    url('./files/open-sans-vietnamese-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/open-sans-vietnamese-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* open-sans-300italic - vietnamese */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Open Sans Light italic'),
+    local('Open Sans-Lightitalic'),
+    url('./files/open-sans-vietnamese-300-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/open-sans-vietnamese-300-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* open-sans-400normal - vietnamese */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Open Sans Regular '),
+    local('Open Sans-Regular'),
+    url('./files/open-sans-vietnamese-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/open-sans-vietnamese-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* open-sans-400italic - vietnamese */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Open Sans Regular italic'),
+    local('Open Sans-Regularitalic'),
+    url('./files/open-sans-vietnamese-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/open-sans-vietnamese-400-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* open-sans-600normal - vietnamese */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Open Sans SemiBold '),
+    local('Open Sans-SemiBold'),
+    url('./files/open-sans-vietnamese-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/open-sans-vietnamese-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* open-sans-600italic - vietnamese */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Open Sans SemiBold italic'),
+    local('Open Sans-SemiBolditalic'),
+    url('./files/open-sans-vietnamese-600-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/open-sans-vietnamese-600-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* open-sans-700normal - vietnamese */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Open Sans Bold '),
+    local('Open Sans-Bold'),
+    url('./files/open-sans-vietnamese-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/open-sans-vietnamese-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* open-sans-700italic - vietnamese */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Open Sans Bold italic'),
+    local('Open Sans-Bolditalic'),
+    url('./files/open-sans-vietnamese-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/open-sans-vietnamese-700-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* open-sans-800normal - vietnamese */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Open Sans ExtraBold '),
+    local('Open Sans-ExtraBold'),
+    url('./files/open-sans-vietnamese-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/open-sans-vietnamese-800.woff') format('woff'); /* Modern Browsers */
+}
+
+/* open-sans-800italic - vietnamese */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Open Sans ExtraBold italic'),
+    local('Open Sans-ExtraBolditalic'),
+    url('./files/open-sans-vietnamese-800-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/open-sans-vietnamese-800-italic.woff') format('woff'); /* Modern Browsers */
+}
+

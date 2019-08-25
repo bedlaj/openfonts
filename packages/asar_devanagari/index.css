@@ -1,0 +1,13 @@
+/* asar-400normal - devanagari */
+@font-face {
+  font-family: 'Asar';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Asar Regular '),
+    local('Asar-Regular'),
+    url('./files/asar-devanagari-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/asar-devanagari-400.woff') format('woff'); /* Modern Browsers */
+}
+

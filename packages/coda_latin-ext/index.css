@@ -1,0 +1,26 @@
+/* coda-400normal - latin-ext */
+@font-face {
+  font-family: 'Coda';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Coda Regular '),
+    local('Coda-Regular'),
+    url('./files/coda-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/coda-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* coda-800normal - latin-ext */
+@font-face {
+  font-family: 'Coda';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Coda ExtraBold '),
+    local('Coda-ExtraBold'),
+    url('./files/coda-latin-ext-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/coda-latin-ext-800.woff') format('woff'); /* Modern Browsers */
+}
+

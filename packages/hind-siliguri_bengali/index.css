@@ -1,0 +1,65 @@
+/* hind-siliguri-300normal - bengali */
+@font-face {
+  font-family: 'Hind Siliguri';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Hind Siliguri Light '),
+    local('Hind Siliguri-Light'),
+    url('./files/hind-siliguri-bengali-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/hind-siliguri-bengali-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* hind-siliguri-400normal - bengali */
+@font-face {
+  font-family: 'Hind Siliguri';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Hind Siliguri Regular '),
+    local('Hind Siliguri-Regular'),
+    url('./files/hind-siliguri-bengali-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/hind-siliguri-bengali-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* hind-siliguri-500normal - bengali */
+@font-face {
+  font-family: 'Hind Siliguri';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Hind Siliguri Medium '),
+    local('Hind Siliguri-Medium'),
+    url('./files/hind-siliguri-bengali-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/hind-siliguri-bengali-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* hind-siliguri-600normal - bengali */
+@font-face {
+  font-family: 'Hind Siliguri';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Hind Siliguri SemiBold '),
+    local('Hind Siliguri-SemiBold'),
+    url('./files/hind-siliguri-bengali-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/hind-siliguri-bengali-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* hind-siliguri-700normal - bengali */
+@font-face {
+  font-family: 'Hind Siliguri';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Hind Siliguri Bold '),
+    local('Hind Siliguri-Bold'),
+    url('./files/hind-siliguri-bengali-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/hind-siliguri-bengali-700.woff') format('woff'); /* Modern Browsers */
+}
+

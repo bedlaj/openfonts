@@ -1,0 +1,65 @@
+/* halant-300normal - latin-ext */
+@font-face {
+  font-family: 'Halant';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Halant Light '),
+    local('Halant-Light'),
+    url('./files/halant-latin-ext-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/halant-latin-ext-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* halant-400normal - latin-ext */
+@font-face {
+  font-family: 'Halant';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Halant Regular '),
+    local('Halant-Regular'),
+    url('./files/halant-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/halant-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* halant-500normal - latin-ext */
+@font-face {
+  font-family: 'Halant';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Halant Medium '),
+    local('Halant-Medium'),
+    url('./files/halant-latin-ext-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/halant-latin-ext-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* halant-600normal - latin-ext */
+@font-face {
+  font-family: 'Halant';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Halant SemiBold '),
+    local('Halant-SemiBold'),
+    url('./files/halant-latin-ext-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/halant-latin-ext-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* halant-700normal - latin-ext */
+@font-face {
+  font-family: 'Halant';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Halant Bold '),
+    local('Halant-Bold'),
+    url('./files/halant-latin-ext-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/halant-latin-ext-700.woff') format('woff'); /* Modern Browsers */
+}
+

@@ -1,0 +1,13 @@
+/* alice-400normal - cyrillic-ext */
+@font-face {
+  font-family: 'Alice';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Alice Regular '),
+    local('Alice-Regular'),
+    url('./files/alice-cyrillic-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/alice-cyrillic-ext-400.woff') format('woff'); /* Modern Browsers */
+}
+

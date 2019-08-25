@@ -1,0 +1,39 @@
+/* old-standard-tt-400normal - cyrillic */
+@font-face {
+  font-family: 'Old Standard TT';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Old Standard TT Regular '),
+    local('Old Standard TT-Regular'),
+    url('./files/old-standard-tt-cyrillic-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/old-standard-tt-cyrillic-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* old-standard-tt-400italic - cyrillic */
+@font-face {
+  font-family: 'Old Standard TT';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Old Standard TT Regular italic'),
+    local('Old Standard TT-Regularitalic'),
+    url('./files/old-standard-tt-cyrillic-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/old-standard-tt-cyrillic-400-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* old-standard-tt-700normal - cyrillic */
+@font-face {
+  font-family: 'Old Standard TT';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Old Standard TT Bold '),
+    local('Old Standard TT-Bold'),
+    url('./files/old-standard-tt-cyrillic-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/old-standard-tt-cyrillic-700.woff') format('woff'); /* Modern Browsers */
+}
+

@@ -1,0 +1,104 @@
+/* archivo-400normal - vietnamese */
+@font-face {
+  font-family: 'Archivo';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Archivo Regular '),
+    local('Archivo-Regular'),
+    url('./files/archivo-vietnamese-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/archivo-vietnamese-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* archivo-400italic - vietnamese */
+@font-face {
+  font-family: 'Archivo';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Archivo Regular italic'),
+    local('Archivo-Regularitalic'),
+    url('./files/archivo-vietnamese-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/archivo-vietnamese-400-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* archivo-500normal - vietnamese */
+@font-face {
+  font-family: 'Archivo';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Archivo Medium '),
+    local('Archivo-Medium'),
+    url('./files/archivo-vietnamese-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/archivo-vietnamese-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* archivo-500italic - vietnamese */
+@font-face {
+  font-family: 'Archivo';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Archivo Medium italic'),
+    local('Archivo-Mediumitalic'),
+    url('./files/archivo-vietnamese-500-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/archivo-vietnamese-500-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* archivo-600normal - vietnamese */
+@font-face {
+  font-family: 'Archivo';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Archivo SemiBold '),
+    local('Archivo-SemiBold'),
+    url('./files/archivo-vietnamese-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/archivo-vietnamese-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* archivo-600italic - vietnamese */
+@font-face {
+  font-family: 'Archivo';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Archivo SemiBold italic'),
+    local('Archivo-SemiBolditalic'),
+    url('./files/archivo-vietnamese-600-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/archivo-vietnamese-600-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* archivo-700normal - vietnamese */
+@font-face {
+  font-family: 'Archivo';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Archivo Bold '),
+    local('Archivo-Bold'),
+    url('./files/archivo-vietnamese-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/archivo-vietnamese-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* archivo-700italic - vietnamese */
+@font-face {
+  font-family: 'Archivo';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Archivo Bold italic'),
+    local('Archivo-Bolditalic'),
+    url('./files/archivo-vietnamese-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/archivo-vietnamese-700-italic.woff') format('woff'); /* Modern Browsers */
+}
+

@@ -1,0 +1,117 @@
+/* saira-100normal - vietnamese */
+@font-face {
+  font-family: 'Saira';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Saira Thin '),
+    local('Saira-Thin'),
+    url('./files/saira-vietnamese-100.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/saira-vietnamese-100.woff') format('woff'); /* Modern Browsers */
+}
+
+/* saira-200normal - vietnamese */
+@font-face {
+  font-family: 'Saira';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Saira Extra Light '),
+    local('Saira-Extra Light'),
+    url('./files/saira-vietnamese-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/saira-vietnamese-200.woff') format('woff'); /* Modern Browsers */
+}
+
+/* saira-300normal - vietnamese */
+@font-face {
+  font-family: 'Saira';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Saira Light '),
+    local('Saira-Light'),
+    url('./files/saira-vietnamese-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/saira-vietnamese-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* saira-400normal - vietnamese */
+@font-face {
+  font-family: 'Saira';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Saira Regular '),
+    local('Saira-Regular'),
+    url('./files/saira-vietnamese-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/saira-vietnamese-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* saira-500normal - vietnamese */
+@font-face {
+  font-family: 'Saira';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Saira Medium '),
+    local('Saira-Medium'),
+    url('./files/saira-vietnamese-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/saira-vietnamese-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* saira-600normal - vietnamese */
+@font-face {
+  font-family: 'Saira';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Saira SemiBold '),
+    local('Saira-SemiBold'),
+    url('./files/saira-vietnamese-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/saira-vietnamese-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* saira-700normal - vietnamese */
+@font-face {
+  font-family: 'Saira';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Saira Bold '),
+    local('Saira-Bold'),
+    url('./files/saira-vietnamese-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/saira-vietnamese-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* saira-800normal - vietnamese */
+@font-face {
+  font-family: 'Saira';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Saira ExtraBold '),
+    local('Saira-ExtraBold'),
+    url('./files/saira-vietnamese-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/saira-vietnamese-800.woff') format('woff'); /* Modern Browsers */
+}
+
+/* saira-900normal - vietnamese */
+@font-face {
+  font-family: 'Saira';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Saira Black '),
+    local('Saira-Black'),
+    url('./files/saira-vietnamese-900.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/saira-vietnamese-900.woff') format('woff'); /* Modern Browsers */
+}
+

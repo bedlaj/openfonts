@@ -1,0 +1,13 @@
+/* chango-400normal - latin-ext */
+@font-face {
+  font-family: 'Chango';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Chango Regular '),
+    local('Chango-Regular'),
+    url('./files/chango-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/chango-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+}
+

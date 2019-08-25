@@ -1,0 +1,13 @@
+/* gilda-display-400normal - latin-ext */
+@font-face {
+  font-family: 'Gilda Display';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Gilda Display Regular '),
+    local('Gilda Display-Regular'),
+    url('./files/gilda-display-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/gilda-display-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+}
+

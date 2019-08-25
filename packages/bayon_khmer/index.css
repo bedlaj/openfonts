@@ -1,0 +1,13 @@
+/* bayon-400normal - khmer */
+@font-face {
+  font-family: 'Bayon';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Bayon Regular '),
+    local('Bayon-Regular'),
+    url('./files/bayon-khmer-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/bayon-khmer-400.woff') format('woff'); /* Modern Browsers */
+}
+

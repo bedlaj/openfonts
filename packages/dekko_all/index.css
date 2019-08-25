@@ -1,0 +1,13 @@
+/* dekko-400normal - all */
+@font-face {
+  font-family: 'Dekko';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Dekko Regular '),
+    local('Dekko-Regular'),
+    url('./files/dekko-all-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/dekko-all-400.woff') format('woff'); /* Modern Browsers */
+}
+

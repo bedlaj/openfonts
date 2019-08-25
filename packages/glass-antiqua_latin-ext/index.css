@@ -1,0 +1,13 @@
+/* glass-antiqua-400normal - latin-ext */
+@font-face {
+  font-family: 'Glass Antiqua';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Glass Antiqua Regular '),
+    local('Glass Antiqua-Regular'),
+    url('./files/glass-antiqua-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/glass-antiqua-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+}
+

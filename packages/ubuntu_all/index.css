@@ -1,0 +1,104 @@
+/* ubuntu-300normal - all */
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Ubuntu Light '),
+    local('Ubuntu-Light'),
+    url('./files/ubuntu-all-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/ubuntu-all-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* ubuntu-300italic - all */
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Ubuntu Light italic'),
+    local('Ubuntu-Lightitalic'),
+    url('./files/ubuntu-all-300-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/ubuntu-all-300-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* ubuntu-400normal - all */
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Ubuntu Regular '),
+    local('Ubuntu-Regular'),
+    url('./files/ubuntu-all-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/ubuntu-all-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* ubuntu-400italic - all */
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Ubuntu Regular italic'),
+    local('Ubuntu-Regularitalic'),
+    url('./files/ubuntu-all-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/ubuntu-all-400-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* ubuntu-500normal - all */
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Ubuntu Medium '),
+    local('Ubuntu-Medium'),
+    url('./files/ubuntu-all-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/ubuntu-all-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* ubuntu-500italic - all */
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Ubuntu Medium italic'),
+    local('Ubuntu-Mediumitalic'),
+    url('./files/ubuntu-all-500-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/ubuntu-all-500-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* ubuntu-700normal - all */
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Ubuntu Bold '),
+    local('Ubuntu-Bold'),
+    url('./files/ubuntu-all-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/ubuntu-all-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* ubuntu-700italic - all */
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Ubuntu Bold italic'),
+    local('Ubuntu-Bolditalic'),
+    url('./files/ubuntu-all-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/ubuntu-all-700-italic.woff') format('woff'); /* Modern Browsers */
+}
+

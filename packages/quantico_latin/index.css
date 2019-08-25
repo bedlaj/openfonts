@@ -1,0 +1,52 @@
+/* quantico-400normal - latin */
+@font-face {
+  font-family: 'Quantico';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Quantico Regular '),
+    local('Quantico-Regular'),
+    url('./files/quantico-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/quantico-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* quantico-400italic - latin */
+@font-face {
+  font-family: 'Quantico';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Quantico Regular italic'),
+    local('Quantico-Regularitalic'),
+    url('./files/quantico-latin-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/quantico-latin-400-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* quantico-700normal - latin */
+@font-face {
+  font-family: 'Quantico';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Quantico Bold '),
+    local('Quantico-Bold'),
+    url('./files/quantico-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/quantico-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* quantico-700italic - latin */
+@font-face {
+  font-family: 'Quantico';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Quantico Bold italic'),
+    local('Quantico-Bolditalic'),
+    url('./files/quantico-latin-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/quantico-latin-700-italic.woff') format('woff'); /* Modern Browsers */
+}
+

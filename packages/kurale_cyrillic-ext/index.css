@@ -1,0 +1,13 @@
+/* kurale-400normal - cyrillic-ext */
+@font-face {
+  font-family: 'Kurale';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Kurale Regular '),
+    local('Kurale-Regular'),
+    url('./files/kurale-cyrillic-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/kurale-cyrillic-ext-400.woff') format('woff'); /* Modern Browsers */
+}
+

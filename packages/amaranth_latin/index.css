@@ -1,0 +1,52 @@
+/* amaranth-400normal - latin */
+@font-face {
+  font-family: 'Amaranth';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Amaranth Regular '),
+    local('Amaranth-Regular'),
+    url('./files/amaranth-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/amaranth-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* amaranth-400italic - latin */
+@font-face {
+  font-family: 'Amaranth';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Amaranth Regular italic'),
+    local('Amaranth-Regularitalic'),
+    url('./files/amaranth-latin-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/amaranth-latin-400-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* amaranth-700normal - latin */
+@font-face {
+  font-family: 'Amaranth';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Amaranth Bold '),
+    local('Amaranth-Bold'),
+    url('./files/amaranth-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/amaranth-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* amaranth-700italic - latin */
+@font-face {
+  font-family: 'Amaranth';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Amaranth Bold italic'),
+    local('Amaranth-Bolditalic'),
+    url('./files/amaranth-latin-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/amaranth-latin-700-italic.woff') format('woff'); /* Modern Browsers */
+}
+

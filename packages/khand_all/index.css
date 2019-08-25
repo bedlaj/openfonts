@@ -1,0 +1,65 @@
+/* khand-300normal - all */
+@font-face {
+  font-family: 'Khand';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Khand Light '),
+    local('Khand-Light'),
+    url('./files/khand-all-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/khand-all-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* khand-400normal - all */
+@font-face {
+  font-family: 'Khand';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Khand Regular '),
+    local('Khand-Regular'),
+    url('./files/khand-all-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/khand-all-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* khand-500normal - all */
+@font-face {
+  font-family: 'Khand';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Khand Medium '),
+    local('Khand-Medium'),
+    url('./files/khand-all-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/khand-all-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* khand-600normal - all */
+@font-face {
+  font-family: 'Khand';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Khand SemiBold '),
+    local('Khand-SemiBold'),
+    url('./files/khand-all-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/khand-all-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* khand-700normal - all */
+@font-face {
+  font-family: 'Khand';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Khand Bold '),
+    local('Khand-Bold'),
+    url('./files/khand-all-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/khand-all-700.woff') format('woff'); /* Modern Browsers */
+}
+

@@ -1,0 +1,65 @@
+/* cormorant-unicase-300normal - cyrillic-ext */
+@font-face {
+  font-family: 'Cormorant Unicase';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Cormorant Unicase Light '),
+    local('Cormorant Unicase-Light'),
+    url('./files/cormorant-unicase-cyrillic-ext-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/cormorant-unicase-cyrillic-ext-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* cormorant-unicase-400normal - cyrillic-ext */
+@font-face {
+  font-family: 'Cormorant Unicase';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Cormorant Unicase Regular '),
+    local('Cormorant Unicase-Regular'),
+    url('./files/cormorant-unicase-cyrillic-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/cormorant-unicase-cyrillic-ext-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* cormorant-unicase-500normal - cyrillic-ext */
+@font-face {
+  font-family: 'Cormorant Unicase';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Cormorant Unicase Medium '),
+    local('Cormorant Unicase-Medium'),
+    url('./files/cormorant-unicase-cyrillic-ext-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/cormorant-unicase-cyrillic-ext-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* cormorant-unicase-600normal - cyrillic-ext */
+@font-face {
+  font-family: 'Cormorant Unicase';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Cormorant Unicase SemiBold '),
+    local('Cormorant Unicase-SemiBold'),
+    url('./files/cormorant-unicase-cyrillic-ext-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/cormorant-unicase-cyrillic-ext-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* cormorant-unicase-700normal - cyrillic-ext */
+@font-face {
+  font-family: 'Cormorant Unicase';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Cormorant Unicase Bold '),
+    local('Cormorant Unicase-Bold'),
+    url('./files/cormorant-unicase-cyrillic-ext-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/cormorant-unicase-cyrillic-ext-700.woff') format('woff'); /* Modern Browsers */
+}
+

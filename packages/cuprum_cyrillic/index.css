@@ -1,0 +1,52 @@
+/* cuprum-400normal - cyrillic */
+@font-face {
+  font-family: 'Cuprum';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Cuprum Regular '),
+    local('Cuprum-Regular'),
+    url('./files/cuprum-cyrillic-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/cuprum-cyrillic-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* cuprum-400italic - cyrillic */
+@font-face {
+  font-family: 'Cuprum';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Cuprum Regular italic'),
+    local('Cuprum-Regularitalic'),
+    url('./files/cuprum-cyrillic-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/cuprum-cyrillic-400-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* cuprum-700normal - cyrillic */
+@font-face {
+  font-family: 'Cuprum';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Cuprum Bold '),
+    local('Cuprum-Bold'),
+    url('./files/cuprum-cyrillic-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/cuprum-cyrillic-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* cuprum-700italic - cyrillic */
+@font-face {
+  font-family: 'Cuprum';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Cuprum Bold italic'),
+    local('Cuprum-Bolditalic'),
+    url('./files/cuprum-cyrillic-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/cuprum-cyrillic-700-italic.woff') format('woff'); /* Modern Browsers */
+}
+

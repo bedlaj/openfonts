@@ -1,0 +1,130 @@
+/* rubik-300normal - cyrillic */
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Rubik Light '),
+    local('Rubik-Light'),
+    url('./files/rubik-cyrillic-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/rubik-cyrillic-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* rubik-300italic - cyrillic */
+@font-face {
+  font-family: 'Rubik';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Rubik Light italic'),
+    local('Rubik-Lightitalic'),
+    url('./files/rubik-cyrillic-300-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/rubik-cyrillic-300-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* rubik-400normal - cyrillic */
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Rubik Regular '),
+    local('Rubik-Regular'),
+    url('./files/rubik-cyrillic-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/rubik-cyrillic-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* rubik-400italic - cyrillic */
+@font-face {
+  font-family: 'Rubik';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Rubik Regular italic'),
+    local('Rubik-Regularitalic'),
+    url('./files/rubik-cyrillic-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/rubik-cyrillic-400-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* rubik-500normal - cyrillic */
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Rubik Medium '),
+    local('Rubik-Medium'),
+    url('./files/rubik-cyrillic-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/rubik-cyrillic-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* rubik-500italic - cyrillic */
+@font-face {
+  font-family: 'Rubik';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Rubik Medium italic'),
+    local('Rubik-Mediumitalic'),
+    url('./files/rubik-cyrillic-500-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/rubik-cyrillic-500-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* rubik-700normal - cyrillic */
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Rubik Bold '),
+    local('Rubik-Bold'),
+    url('./files/rubik-cyrillic-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/rubik-cyrillic-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* rubik-700italic - cyrillic */
+@font-face {
+  font-family: 'Rubik';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Rubik Bold italic'),
+    local('Rubik-Bolditalic'),
+    url('./files/rubik-cyrillic-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/rubik-cyrillic-700-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* rubik-900normal - cyrillic */
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Rubik Black '),
+    local('Rubik-Black'),
+    url('./files/rubik-cyrillic-900.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/rubik-cyrillic-900.woff') format('woff'); /* Modern Browsers */
+}
+
+/* rubik-900italic - cyrillic */
+@font-face {
+  font-family: 'Rubik';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Rubik Black italic'),
+    local('Rubik-Blackitalic'),
+    url('./files/rubik-cyrillic-900-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/rubik-cyrillic-900-italic.woff') format('woff'); /* Modern Browsers */
+}
+

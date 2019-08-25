@@ -1,0 +1,13 @@
+/* andika-400normal - all */
+@font-face {
+  font-family: 'Andika';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Andika Regular '),
+    local('Andika-Regular'),
+    url('./files/andika-all-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/andika-all-400.woff') format('woff'); /* Modern Browsers */
+}
+

@@ -1,0 +1,130 @@
+/* cormorant-infant-300normal - cyrillic */
+@font-face {
+  font-family: 'Cormorant Infant';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Cormorant Infant Light '),
+    local('Cormorant Infant-Light'),
+    url('./files/cormorant-infant-cyrillic-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/cormorant-infant-cyrillic-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* cormorant-infant-300italic - cyrillic */
+@font-face {
+  font-family: 'Cormorant Infant';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Cormorant Infant Light italic'),
+    local('Cormorant Infant-Lightitalic'),
+    url('./files/cormorant-infant-cyrillic-300-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/cormorant-infant-cyrillic-300-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* cormorant-infant-400normal - cyrillic */
+@font-face {
+  font-family: 'Cormorant Infant';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Cormorant Infant Regular '),
+    local('Cormorant Infant-Regular'),
+    url('./files/cormorant-infant-cyrillic-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/cormorant-infant-cyrillic-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* cormorant-infant-400italic - cyrillic */
+@font-face {
+  font-family: 'Cormorant Infant';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Cormorant Infant Regular italic'),
+    local('Cormorant Infant-Regularitalic'),
+    url('./files/cormorant-infant-cyrillic-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/cormorant-infant-cyrillic-400-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* cormorant-infant-500normal - cyrillic */
+@font-face {
+  font-family: 'Cormorant Infant';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Cormorant Infant Medium '),
+    local('Cormorant Infant-Medium'),
+    url('./files/cormorant-infant-cyrillic-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/cormorant-infant-cyrillic-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* cormorant-infant-500italic - cyrillic */
+@font-face {
+  font-family: 'Cormorant Infant';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Cormorant Infant Medium italic'),
+    local('Cormorant Infant-Mediumitalic'),
+    url('./files/cormorant-infant-cyrillic-500-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/cormorant-infant-cyrillic-500-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* cormorant-infant-600normal - cyrillic */
+@font-face {
+  font-family: 'Cormorant Infant';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Cormorant Infant SemiBold '),
+    local('Cormorant Infant-SemiBold'),
+    url('./files/cormorant-infant-cyrillic-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/cormorant-infant-cyrillic-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* cormorant-infant-600italic - cyrillic */
+@font-face {
+  font-family: 'Cormorant Infant';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Cormorant Infant SemiBold italic'),
+    local('Cormorant Infant-SemiBolditalic'),
+    url('./files/cormorant-infant-cyrillic-600-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/cormorant-infant-cyrillic-600-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* cormorant-infant-700normal - cyrillic */
+@font-face {
+  font-family: 'Cormorant Infant';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Cormorant Infant Bold '),
+    local('Cormorant Infant-Bold'),
+    url('./files/cormorant-infant-cyrillic-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/cormorant-infant-cyrillic-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* cormorant-infant-700italic - cyrillic */
+@font-face {
+  font-family: 'Cormorant Infant';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Cormorant Infant Bold italic'),
+    local('Cormorant Infant-Bolditalic'),
+    url('./files/cormorant-infant-cyrillic-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/cormorant-infant-cyrillic-700-italic.woff') format('woff'); /* Modern Browsers */
+}
+

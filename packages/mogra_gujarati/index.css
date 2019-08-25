@@ -1,0 +1,13 @@
+/* mogra-400normal - gujarati */
+@font-face {
+  font-family: 'Mogra';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Mogra Regular '),
+    local('Mogra-Regular'),
+    url('./files/mogra-gujarati-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/mogra-gujarati-400.woff') format('woff'); /* Modern Browsers */
+}
+

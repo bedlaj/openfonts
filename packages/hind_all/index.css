@@ -1,0 +1,65 @@
+/* hind-300normal - all */
+@font-face {
+  font-family: 'Hind';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Hind Light '),
+    local('Hind-Light'),
+    url('./files/hind-all-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/hind-all-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* hind-400normal - all */
+@font-face {
+  font-family: 'Hind';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Hind Regular '),
+    local('Hind-Regular'),
+    url('./files/hind-all-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/hind-all-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* hind-500normal - all */
+@font-face {
+  font-family: 'Hind';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Hind Medium '),
+    local('Hind-Medium'),
+    url('./files/hind-all-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/hind-all-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* hind-600normal - all */
+@font-face {
+  font-family: 'Hind';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Hind SemiBold '),
+    local('Hind-SemiBold'),
+    url('./files/hind-all-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/hind-all-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* hind-700normal - all */
+@font-face {
+  font-family: 'Hind';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Hind Bold '),
+    local('Hind-Bold'),
+    url('./files/hind-all-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/hind-all-700.woff') format('woff'); /* Modern Browsers */
+}
+

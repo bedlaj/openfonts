@@ -1,0 +1,13 @@
+/* shrikhand-400normal - latin-ext */
+@font-face {
+  font-family: 'Shrikhand';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Shrikhand Regular '),
+    local('Shrikhand-Regular'),
+    url('./files/shrikhand-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/shrikhand-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+}
+

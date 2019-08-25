@@ -1,0 +1,13 @@
+/* ribeye-400normal - latin-ext */
+@font-face {
+  font-family: 'Ribeye';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Ribeye Regular '),
+    local('Ribeye-Regular'),
+    url('./files/ribeye-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/ribeye-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+}
+

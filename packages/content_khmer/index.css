@@ -1,0 +1,26 @@
+/* content-400normal - khmer */
+@font-face {
+  font-family: 'Content';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Content Regular '),
+    local('Content-Regular'),
+    url('./files/content-khmer-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/content-khmer-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* content-700normal - khmer */
+@font-face {
+  font-family: 'Content';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Content Bold '),
+    local('Content-Bold'),
+    url('./files/content-khmer-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/content-khmer-700.woff') format('woff'); /* Modern Browsers */
+}
+

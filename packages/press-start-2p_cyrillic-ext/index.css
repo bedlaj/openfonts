@@ -1,0 +1,13 @@
+/* press-start-2p-400normal - cyrillic-ext */
+@font-face {
+  font-family: 'Press Start 2P';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Press Start 2P Regular '),
+    local('Press Start 2P-Regular'),
+    url('./files/press-start-2p-cyrillic-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/press-start-2p-cyrillic-ext-400.woff') format('woff'); /* Modern Browsers */
+}
+

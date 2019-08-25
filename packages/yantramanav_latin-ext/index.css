@@ -1,0 +1,78 @@
+/* yantramanav-100normal - latin-ext */
+@font-face {
+  font-family: 'Yantramanav';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Yantramanav Thin '),
+    local('Yantramanav-Thin'),
+    url('./files/yantramanav-latin-ext-100.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/yantramanav-latin-ext-100.woff') format('woff'); /* Modern Browsers */
+}
+
+/* yantramanav-300normal - latin-ext */
+@font-face {
+  font-family: 'Yantramanav';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Yantramanav Light '),
+    local('Yantramanav-Light'),
+    url('./files/yantramanav-latin-ext-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/yantramanav-latin-ext-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* yantramanav-400normal - latin-ext */
+@font-face {
+  font-family: 'Yantramanav';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Yantramanav Regular '),
+    local('Yantramanav-Regular'),
+    url('./files/yantramanav-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/yantramanav-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* yantramanav-500normal - latin-ext */
+@font-face {
+  font-family: 'Yantramanav';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Yantramanav Medium '),
+    local('Yantramanav-Medium'),
+    url('./files/yantramanav-latin-ext-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/yantramanav-latin-ext-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* yantramanav-700normal - latin-ext */
+@font-face {
+  font-family: 'Yantramanav';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Yantramanav Bold '),
+    local('Yantramanav-Bold'),
+    url('./files/yantramanav-latin-ext-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/yantramanav-latin-ext-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* yantramanav-900normal - latin-ext */
+@font-face {
+  font-family: 'Yantramanav';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Yantramanav Black '),
+    local('Yantramanav-Black'),
+    url('./files/yantramanav-latin-ext-900.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/yantramanav-latin-ext-900.woff') format('woff'); /* Modern Browsers */
+}
+

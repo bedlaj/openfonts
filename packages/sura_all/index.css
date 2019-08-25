@@ -1,0 +1,26 @@
+/* sura-400normal - all */
+@font-face {
+  font-family: 'Sura';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Sura Regular '),
+    local('Sura-Regular'),
+    url('./files/sura-all-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/sura-all-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* sura-700normal - all */
+@font-face {
+  font-family: 'Sura';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Sura Bold '),
+    local('Sura-Bold'),
+    url('./files/sura-all-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/sura-all-700.woff') format('woff'); /* Modern Browsers */
+}
+

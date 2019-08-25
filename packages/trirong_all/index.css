@@ -1,0 +1,234 @@
+/* trirong-100normal - all */
+@font-face {
+  font-family: 'Trirong';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Trirong Thin '),
+    local('Trirong-Thin'),
+    url('./files/trirong-all-100.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/trirong-all-100.woff') format('woff'); /* Modern Browsers */
+}
+
+/* trirong-100italic - all */
+@font-face {
+  font-family: 'Trirong';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Trirong Thin italic'),
+    local('Trirong-Thinitalic'),
+    url('./files/trirong-all-100-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/trirong-all-100-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* trirong-200normal - all */
+@font-face {
+  font-family: 'Trirong';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Trirong Extra Light '),
+    local('Trirong-Extra Light'),
+    url('./files/trirong-all-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/trirong-all-200.woff') format('woff'); /* Modern Browsers */
+}
+
+/* trirong-200italic - all */
+@font-face {
+  font-family: 'Trirong';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Trirong Extra Light italic'),
+    local('Trirong-Extra Lightitalic'),
+    url('./files/trirong-all-200-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/trirong-all-200-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* trirong-300normal - all */
+@font-face {
+  font-family: 'Trirong';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Trirong Light '),
+    local('Trirong-Light'),
+    url('./files/trirong-all-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/trirong-all-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* trirong-300italic - all */
+@font-face {
+  font-family: 'Trirong';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Trirong Light italic'),
+    local('Trirong-Lightitalic'),
+    url('./files/trirong-all-300-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/trirong-all-300-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* trirong-400normal - all */
+@font-face {
+  font-family: 'Trirong';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Trirong Regular '),
+    local('Trirong-Regular'),
+    url('./files/trirong-all-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/trirong-all-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* trirong-400italic - all */
+@font-face {
+  font-family: 'Trirong';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Trirong Regular italic'),
+    local('Trirong-Regularitalic'),
+    url('./files/trirong-all-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/trirong-all-400-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* trirong-500normal - all */
+@font-face {
+  font-family: 'Trirong';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Trirong Medium '),
+    local('Trirong-Medium'),
+    url('./files/trirong-all-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/trirong-all-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* trirong-500italic - all */
+@font-face {
+  font-family: 'Trirong';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Trirong Medium italic'),
+    local('Trirong-Mediumitalic'),
+    url('./files/trirong-all-500-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/trirong-all-500-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* trirong-600normal - all */
+@font-face {
+  font-family: 'Trirong';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Trirong SemiBold '),
+    local('Trirong-SemiBold'),
+    url('./files/trirong-all-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/trirong-all-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* trirong-600italic - all */
+@font-face {
+  font-family: 'Trirong';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Trirong SemiBold italic'),
+    local('Trirong-SemiBolditalic'),
+    url('./files/trirong-all-600-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/trirong-all-600-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* trirong-700normal - all */
+@font-face {
+  font-family: 'Trirong';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Trirong Bold '),
+    local('Trirong-Bold'),
+    url('./files/trirong-all-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/trirong-all-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* trirong-700italic - all */
+@font-face {
+  font-family: 'Trirong';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Trirong Bold italic'),
+    local('Trirong-Bolditalic'),
+    url('./files/trirong-all-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/trirong-all-700-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* trirong-800normal - all */
+@font-face {
+  font-family: 'Trirong';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Trirong ExtraBold '),
+    local('Trirong-ExtraBold'),
+    url('./files/trirong-all-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/trirong-all-800.woff') format('woff'); /* Modern Browsers */
+}
+
+/* trirong-800italic - all */
+@font-face {
+  font-family: 'Trirong';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Trirong ExtraBold italic'),
+    local('Trirong-ExtraBolditalic'),
+    url('./files/trirong-all-800-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/trirong-all-800-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* trirong-900normal - all */
+@font-face {
+  font-family: 'Trirong';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Trirong Black '),
+    local('Trirong-Black'),
+    url('./files/trirong-all-900.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/trirong-all-900.woff') format('woff'); /* Modern Browsers */
+}
+
+/* trirong-900italic - all */
+@font-face {
+  font-family: 'Trirong';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Trirong Black italic'),
+    local('Trirong-Blackitalic'),
+    url('./files/trirong-all-900-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/trirong-all-900-italic.woff') format('woff'); /* Modern Browsers */
+}
+

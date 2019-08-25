@@ -1,0 +1,26 @@
+/* corben-400normal - latin-ext */
+@font-face {
+  font-family: 'Corben';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Corben Regular '),
+    local('Corben-Regular'),
+    url('./files/corben-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/corben-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* corben-700normal - latin-ext */
+@font-face {
+  font-family: 'Corben';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Corben Bold '),
+    local('Corben-Bold'),
+    url('./files/corben-latin-ext-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/corben-latin-ext-700.woff') format('woff'); /* Modern Browsers */
+}
+

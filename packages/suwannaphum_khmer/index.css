@@ -1,0 +1,13 @@
+/* suwannaphum-400normal - khmer */
+@font-face {
+  font-family: 'Suwannaphum';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Suwannaphum Regular '),
+    local('Suwannaphum-Regular'),
+    url('./files/suwannaphum-khmer-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/suwannaphum-khmer-400.woff') format('woff'); /* Modern Browsers */
+}
+

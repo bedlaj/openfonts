@@ -1,0 +1,52 @@
+/* arsenal-400normal - latin */
+@font-face {
+  font-family: 'Arsenal';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Arsenal Regular '),
+    local('Arsenal-Regular'),
+    url('./files/arsenal-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/arsenal-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* arsenal-400italic - latin */
+@font-face {
+  font-family: 'Arsenal';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Arsenal Regular italic'),
+    local('Arsenal-Regularitalic'),
+    url('./files/arsenal-latin-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/arsenal-latin-400-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* arsenal-700normal - latin */
+@font-face {
+  font-family: 'Arsenal';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Arsenal Bold '),
+    local('Arsenal-Bold'),
+    url('./files/arsenal-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/arsenal-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* arsenal-700italic - latin */
+@font-face {
+  font-family: 'Arsenal';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Arsenal Bold italic'),
+    local('Arsenal-Bolditalic'),
+    url('./files/arsenal-latin-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/arsenal-latin-700-italic.woff') format('woff'); /* Modern Browsers */
+}
+

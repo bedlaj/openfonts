@@ -1,0 +1,26 @@
+/* miriam-libre-400normal - all */
+@font-face {
+  font-family: 'Miriam Libre';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Miriam Libre Regular '),
+    local('Miriam Libre-Regular'),
+    url('./files/miriam-libre-all-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/miriam-libre-all-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* miriam-libre-700normal - all */
+@font-face {
+  font-family: 'Miriam Libre';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Miriam Libre Bold '),
+    local('Miriam Libre-Bold'),
+    url('./files/miriam-libre-all-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/miriam-libre-all-700.woff') format('woff'); /* Modern Browsers */
+}
+

@@ -1,0 +1,52 @@
+/* lemonada-300normal - vietnamese */
+@font-face {
+  font-family: 'Lemonada';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Lemonada Light '),
+    local('Lemonada-Light'),
+    url('./files/lemonada-vietnamese-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/lemonada-vietnamese-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* lemonada-400normal - vietnamese */
+@font-face {
+  font-family: 'Lemonada';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Lemonada Regular '),
+    local('Lemonada-Regular'),
+    url('./files/lemonada-vietnamese-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/lemonada-vietnamese-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* lemonada-600normal - vietnamese */
+@font-face {
+  font-family: 'Lemonada';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Lemonada SemiBold '),
+    local('Lemonada-SemiBold'),
+    url('./files/lemonada-vietnamese-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/lemonada-vietnamese-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* lemonada-700normal - vietnamese */
+@font-face {
+  font-family: 'Lemonada';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Lemonada Bold '),
+    local('Lemonada-Bold'),
+    url('./files/lemonada-vietnamese-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/lemonada-vietnamese-700.woff') format('woff'); /* Modern Browsers */
+}
+

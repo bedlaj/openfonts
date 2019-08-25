@@ -1,0 +1,13 @@
+/* baloo-400normal - devanagari */
+@font-face {
+  font-family: 'Baloo';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Baloo Regular '),
+    local('Baloo-Regular'),
+    url('./files/baloo-devanagari-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/baloo-devanagari-400.woff') format('woff'); /* Modern Browsers */
+}
+

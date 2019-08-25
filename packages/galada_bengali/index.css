@@ -1,0 +1,13 @@
+/* galada-400normal - bengali */
+@font-face {
+  font-family: 'Galada';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Galada Regular '),
+    local('Galada-Regular'),
+    url('./files/galada-bengali-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/galada-bengali-400.woff') format('woff'); /* Modern Browsers */
+}
+

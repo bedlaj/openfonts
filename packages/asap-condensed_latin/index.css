@@ -1,0 +1,104 @@
+/* asap-condensed-400normal - latin */
+@font-face {
+  font-family: 'Asap Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Asap Condensed Regular '),
+    local('Asap Condensed-Regular'),
+    url('./files/asap-condensed-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/asap-condensed-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* asap-condensed-400italic - latin */
+@font-face {
+  font-family: 'Asap Condensed';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Asap Condensed Regular italic'),
+    local('Asap Condensed-Regularitalic'),
+    url('./files/asap-condensed-latin-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/asap-condensed-latin-400-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* asap-condensed-500normal - latin */
+@font-face {
+  font-family: 'Asap Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Asap Condensed Medium '),
+    local('Asap Condensed-Medium'),
+    url('./files/asap-condensed-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/asap-condensed-latin-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* asap-condensed-500italic - latin */
+@font-face {
+  font-family: 'Asap Condensed';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Asap Condensed Medium italic'),
+    local('Asap Condensed-Mediumitalic'),
+    url('./files/asap-condensed-latin-500-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/asap-condensed-latin-500-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* asap-condensed-600normal - latin */
+@font-face {
+  font-family: 'Asap Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Asap Condensed SemiBold '),
+    local('Asap Condensed-SemiBold'),
+    url('./files/asap-condensed-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/asap-condensed-latin-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* asap-condensed-600italic - latin */
+@font-face {
+  font-family: 'Asap Condensed';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Asap Condensed SemiBold italic'),
+    local('Asap Condensed-SemiBolditalic'),
+    url('./files/asap-condensed-latin-600-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/asap-condensed-latin-600-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* asap-condensed-700normal - latin */
+@font-face {
+  font-family: 'Asap Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Asap Condensed Bold '),
+    local('Asap Condensed-Bold'),
+    url('./files/asap-condensed-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/asap-condensed-latin-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* asap-condensed-700italic - latin */
+@font-face {
+  font-family: 'Asap Condensed';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Asap Condensed Bold italic'),
+    local('Asap Condensed-Bolditalic'),
+    url('./files/asap-condensed-latin-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/asap-condensed-latin-700-italic.woff') format('woff'); /* Modern Browsers */
+}
+

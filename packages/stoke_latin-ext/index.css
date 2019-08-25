@@ -1,0 +1,26 @@
+/* stoke-300normal - latin-ext */
+@font-face {
+  font-family: 'Stoke';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Stoke Light '),
+    local('Stoke-Light'),
+    url('./files/stoke-latin-ext-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/stoke-latin-ext-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* stoke-400normal - latin-ext */
+@font-face {
+  font-family: 'Stoke';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Stoke Regular '),
+    local('Stoke-Regular'),
+    url('./files/stoke-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/stoke-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+}
+

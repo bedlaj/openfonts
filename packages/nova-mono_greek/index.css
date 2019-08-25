@@ -1,0 +1,13 @@
+/* nova-mono-400normal - greek */
+@font-face {
+  font-family: 'Nova Mono';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Nova Mono Regular '),
+    local('Nova Mono-Regular'),
+    url('./files/nova-mono-greek-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/nova-mono-greek-400.woff') format('woff'); /* Modern Browsers */
+}
+

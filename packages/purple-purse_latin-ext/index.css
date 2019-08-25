@@ -1,0 +1,13 @@
+/* purple-purse-400normal - latin-ext */
+@font-face {
+  font-family: 'Purple Purse';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Purple Purse Regular '),
+    local('Purple Purse-Regular'),
+    url('./files/purple-purse-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/purple-purse-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+}
+

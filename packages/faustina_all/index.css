@@ -1,0 +1,104 @@
+/* faustina-400normal - all */
+@font-face {
+  font-family: 'Faustina';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Faustina Regular '),
+    local('Faustina-Regular'),
+    url('./files/faustina-all-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/faustina-all-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* faustina-400italic - all */
+@font-face {
+  font-family: 'Faustina';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Faustina Regular italic'),
+    local('Faustina-Regularitalic'),
+    url('./files/faustina-all-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/faustina-all-400-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* faustina-500normal - all */
+@font-face {
+  font-family: 'Faustina';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Faustina Medium '),
+    local('Faustina-Medium'),
+    url('./files/faustina-all-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/faustina-all-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* faustina-500italic - all */
+@font-face {
+  font-family: 'Faustina';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Faustina Medium italic'),
+    local('Faustina-Mediumitalic'),
+    url('./files/faustina-all-500-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/faustina-all-500-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* faustina-600normal - all */
+@font-face {
+  font-family: 'Faustina';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Faustina SemiBold '),
+    local('Faustina-SemiBold'),
+    url('./files/faustina-all-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/faustina-all-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* faustina-600italic - all */
+@font-face {
+  font-family: 'Faustina';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Faustina SemiBold italic'),
+    local('Faustina-SemiBolditalic'),
+    url('./files/faustina-all-600-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/faustina-all-600-italic.woff') format('woff'); /* Modern Browsers */
+}
+
+/* faustina-700normal - all */
+@font-face {
+  font-family: 'Faustina';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Faustina Bold '),
+    local('Faustina-Bold'),
+    url('./files/faustina-all-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/faustina-all-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* faustina-700italic - all */
+@font-face {
+  font-family: 'Faustina';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Faustina Bold italic'),
+    local('Faustina-Bolditalic'),
+    url('./files/faustina-all-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/faustina-all-700-italic.woff') format('woff'); /* Modern Browsers */
+}
+

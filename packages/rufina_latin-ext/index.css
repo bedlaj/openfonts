@@ -1,0 +1,26 @@
+/* rufina-400normal - latin-ext */
+@font-face {
+  font-family: 'Rufina';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Rufina Regular '),
+    local('Rufina-Regular'),
+    url('./files/rufina-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/rufina-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* rufina-700normal - latin-ext */
+@font-face {
+  font-family: 'Rufina';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Rufina Bold '),
+    local('Rufina-Bold'),
+    url('./files/rufina-latin-ext-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/rufina-latin-ext-700.woff') format('woff'); /* Modern Browsers */
+}
+

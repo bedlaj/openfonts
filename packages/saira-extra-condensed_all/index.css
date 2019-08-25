@@ -1,0 +1,117 @@
+/* saira-extra-condensed-100normal - all */
+@font-face {
+  font-family: 'Saira Extra Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Saira Extra Condensed Thin '),
+    local('Saira Extra Condensed-Thin'),
+    url('./files/saira-extra-condensed-all-100.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/saira-extra-condensed-all-100.woff') format('woff'); /* Modern Browsers */
+}
+
+/* saira-extra-condensed-200normal - all */
+@font-face {
+  font-family: 'Saira Extra Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Saira Extra Condensed Extra Light '),
+    local('Saira Extra Condensed-Extra Light'),
+    url('./files/saira-extra-condensed-all-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/saira-extra-condensed-all-200.woff') format('woff'); /* Modern Browsers */
+}
+
+/* saira-extra-condensed-300normal - all */
+@font-face {
+  font-family: 'Saira Extra Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Saira Extra Condensed Light '),
+    local('Saira Extra Condensed-Light'),
+    url('./files/saira-extra-condensed-all-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/saira-extra-condensed-all-300.woff') format('woff'); /* Modern Browsers */
+}
+
+/* saira-extra-condensed-400normal - all */
+@font-face {
+  font-family: 'Saira Extra Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Saira Extra Condensed Regular '),
+    local('Saira Extra Condensed-Regular'),
+    url('./files/saira-extra-condensed-all-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/saira-extra-condensed-all-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* saira-extra-condensed-500normal - all */
+@font-face {
+  font-family: 'Saira Extra Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Saira Extra Condensed Medium '),
+    local('Saira Extra Condensed-Medium'),
+    url('./files/saira-extra-condensed-all-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/saira-extra-condensed-all-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* saira-extra-condensed-600normal - all */
+@font-face {
+  font-family: 'Saira Extra Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Saira Extra Condensed SemiBold '),
+    local('Saira Extra Condensed-SemiBold'),
+    url('./files/saira-extra-condensed-all-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/saira-extra-condensed-all-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* saira-extra-condensed-700normal - all */
+@font-face {
+  font-family: 'Saira Extra Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Saira Extra Condensed Bold '),
+    local('Saira Extra Condensed-Bold'),
+    url('./files/saira-extra-condensed-all-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/saira-extra-condensed-all-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* saira-extra-condensed-800normal - all */
+@font-face {
+  font-family: 'Saira Extra Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Saira Extra Condensed ExtraBold '),
+    local('Saira Extra Condensed-ExtraBold'),
+    url('./files/saira-extra-condensed-all-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/saira-extra-condensed-all-800.woff') format('woff'); /* Modern Browsers */
+}
+
+/* saira-extra-condensed-900normal - all */
+@font-face {
+  font-family: 'Saira Extra Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Saira Extra Condensed Black '),
+    local('Saira Extra Condensed-Black'),
+    url('./files/saira-extra-condensed-all-900.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/saira-extra-condensed-all-900.woff') format('woff'); /* Modern Browsers */
+}
+

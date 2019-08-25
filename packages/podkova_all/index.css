@@ -1,0 +1,65 @@
+/* podkova-400normal - all */
+@font-face {
+  font-family: 'Podkova';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Podkova Regular '),
+    local('Podkova-Regular'),
+    url('./files/podkova-all-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/podkova-all-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* podkova-500normal - all */
+@font-face {
+  font-family: 'Podkova';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Podkova Medium '),
+    local('Podkova-Medium'),
+    url('./files/podkova-all-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/podkova-all-500.woff') format('woff'); /* Modern Browsers */
+}
+
+/* podkova-600normal - all */
+@font-face {
+  font-family: 'Podkova';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Podkova SemiBold '),
+    local('Podkova-SemiBold'),
+    url('./files/podkova-all-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/podkova-all-600.woff') format('woff'); /* Modern Browsers */
+}
+
+/* podkova-700normal - all */
+@font-face {
+  font-family: 'Podkova';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Podkova Bold '),
+    local('Podkova-Bold'),
+    url('./files/podkova-all-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/podkova-all-700.woff') format('woff'); /* Modern Browsers */
+}
+
+/* podkova-800normal - all */
+@font-face {
+  font-family: 'Podkova';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Podkova ExtraBold '),
+    local('Podkova-ExtraBold'),
+    url('./files/podkova-all-800.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/podkova-all-800.woff') format('woff'); /* Modern Browsers */
+}
+

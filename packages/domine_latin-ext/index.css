@@ -1,0 +1,26 @@
+/* domine-400normal - latin-ext */
+@font-face {
+  font-family: 'Domine';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Domine Regular '),
+    local('Domine-Regular'),
+    url('./files/domine-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/domine-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+}
+
+/* domine-700normal - latin-ext */
+@font-face {
+  font-family: 'Domine';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Domine Bold '),
+    local('Domine-Bold'),
+    url('./files/domine-latin-ext-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/domine-latin-ext-700.woff') format('woff'); /* Modern Browsers */
+}
+

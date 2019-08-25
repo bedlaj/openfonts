@@ -1,0 +1,13 @@
+/* bellefair-400normal - latin-ext */
+@font-face {
+  font-family: 'Bellefair';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Bellefair Regular '),
+    local('Bellefair-Regular'),
+    url('./files/bellefair-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/bellefair-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+}
+

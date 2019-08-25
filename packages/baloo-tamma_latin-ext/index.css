@@ -1,0 +1,13 @@
+/* baloo-tamma-400normal - latin-ext */
+@font-face {
+  font-family: 'Baloo Tamma';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Baloo Tamma Regular '),
+    local('Baloo Tamma-Regular'),
+    url('./files/baloo-tamma-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/baloo-tamma-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+}
+
