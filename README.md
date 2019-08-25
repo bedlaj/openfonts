@@ -1,5 +1,7 @@
 ## What
 
+This is fork of awesome project [typefaces](https://github.com/KyleAMathews/typefaces), allowing to use different character subsets.
+
 Each typeface package ships with all the necessary font files and css to
 self-host an open source typeface.
 
