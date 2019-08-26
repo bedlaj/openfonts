@@ -24,10 +24,10 @@ if (!id) {
 
 // Get current count of packages to put in the package README
 const dirs = p =>
-  fs.readdirSync(p).filter(f => fs.statSync(p + "/" + f).isDirectory())
+    fs.readdirSync(p).filter(f => fs.statSync(p + "/" + f).isDirectory())
 const packagesCount = dirs(`./packages`).length
 
-const res = requestSync(`GET`, baseurl + id)
+const res = requestSync(`GET`, baseurl + id, {retry: true})
 const defSubsetTypeface = JSON.parse(res.getBody(`UTF-8`))
 const subsetsWithoutDefault = defSubsetTypeface.subsets.filter((subset) => subset !== defSubsetTypeface.defSubset)
 
@@ -35,14 +35,14 @@ const subsets = [[
   defSubsetTypeface.defSubset,
   defSubsetTypeface
 ]].concat(subsetsWithoutDefault.map((subset) => {
-  const subsetRes = requestSync(`GET`, baseurl + id + '?subsets=' + defSubsetTypeface.defSubset + ',' + subset)
+  const subsetRes = requestSync(`GET`, baseurl + id + '?subsets=' + defSubsetTypeface.defSubset + ',' + subset, {retry: true})
   return [subset, JSON.parse(subsetRes.getBody(`UTF-8`))]
 }))
 
 if(subsetsWithoutDefault.length > 1) {
   subsets.push([
     'all',
-    JSON.parse(requestSync(`GET`, baseurl + id + '?subsets=' + defSubsetTypeface.defSubset + ',' + subsetsWithoutDefault.join()).getBody(`UTF-8`))]
+    JSON.parse(requestSync(`GET`, baseurl + id + '?subsets=' + defSubsetTypeface.defSubset + ',' + subsetsWithoutDefault.join()).getBody(`UTF-8`)), {retry: true}]
   )
 }
 
@@ -107,28 +107,27 @@ subsets.forEach(subset => {
         md5Dir(`${typefaceDir}/files`, (err, filesHash) => {
           // If a hash file already exists, check if anything has changed. If it has
           // then update the hash, otherwise exit.
+          let changed = true
           if (fs.existsSync(`${typefaceDir}/files-hash.json`)) {
             const filesHashJson = JSON.parse(
                 fs.readFileSync(`${typefaceDir}/files-hash.json`, `utf-8`)
             )
-            if (filesHashJson.hash === filesHash) {
-              // Exit
-              // console.log(
-              // `The md5 hash of the new font files haven't changed (meaning no font files have changed) so exiting`
-              // )
-              process.exit()
-            } else {
-            }
+            changed = filesHashJson.hash !== filesHash
           }
 
           // Either the files hash file needs updated or written new.
-          fs.writeFileSync(
-              `${typefaceDir}/files-hash.json`,
-              JSON.stringify({
-                hash: filesHash,
-                updatedAt: new Date().toJSON(),
-              })
-          )
+          if (changed) {
+            console.log("font changed", defSubsetTypeface.family, subset[0], subset[1].storeID)
+            fs.writeFileSync(
+                `${typefaceDir}/files-hash.json`,
+                JSON.stringify({
+                  hash: filesHash,
+                  updatedAt: new Date().toJSON(),
+                })
+            )
+          }
+
+          //Even if font not changed, write files so eventual changes in templates are reflected
 
           // Write out the README.md
           const packageReadme = readme({
@@ -150,7 +149,7 @@ subsets.forEach(subset => {
           fs.writeFileSync(`${typefaceDir}/package.json`, packageJSON)
 
           // Write out index.css file
-          const variants = _.sortBy(defSubsetTypeface.variants, item => {
+          const variants = _.sortBy(subset[1].variants, item => {
             let sortString = item.fontWeight
             if (item.fontStyle === `italic`) {
               sortString += item.fontStyle
@@ -185,3 +184,5 @@ subsets.forEach(subset => {
       }
   )
 })
+
+

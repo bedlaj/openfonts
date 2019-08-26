@@ -35,7 +35,6 @@ exports.fontFace = _.template(
     url('<%= woff2Path %>') format('woff2'), /* Super Modern Browsers */
     url('<%= woffPath %>') format('woff'); /* Modern Browsers */
 }
-
 `
 )
 
