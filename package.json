@@ -1,22 +1,22 @@
 {
   "devDependencies": {
-    "eslint": "^3.17.1",
-    "lerna": "^2.6.0"
+    "eslint": "^6.2.2",
+    "lerna": "^3.16.4"
   },
   "dependencies": {
-    "async": "^2.1.5",
-    "bluebird": "^3.5.0",
-    "fs-extra": "^2.0.0",
-    "glob": "^7.1.2",
-    "lodash": "^4.17.4",
-    "md5-dir": "^0.1.0",
+    "async": "^3.1.0",
+    "bluebird": "^3.5.5",
+    "fs-extra": "^8.1.0",
+    "glob": "^7.1.4",
+    "lodash": "^4.17.15",
+    "md5-dir": "^0.2.0",
     "mt-files-downloader": "^0.2.5",
-    "request": "^2.81.0",
-    "request-promise": "^4.2.1",
-    "shelljs": "^0.7.8",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "shelljs": "^0.8.3",
     "single-line-log": "^1.1.2",
-    "sync-request": "^4.1.0",
-    "ttf2woff2": "^2.0.3"
+    "sync-request": "^6.1.0",
+    "ttf2woff2": "^3.0.0"
   },
   "scripts": {
     "publish": "lerna publish"
