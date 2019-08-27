@@ -10,7 +10,6 @@
     url('./files/inknut-antiqua-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/inknut-antiqua-latin-300.woff') format('woff'); /* Modern Browsers */
 }
-
 /* inknut-antiqua-400normal - latin */
 @font-face {
   font-family: 'Inknut Antiqua';
@@ -23,7 +22,6 @@
     url('./files/inknut-antiqua-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/inknut-antiqua-latin-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* inknut-antiqua-500normal - latin */
 @font-face {
   font-family: 'Inknut Antiqua';
@@ -36,7 +34,6 @@
     url('./files/inknut-antiqua-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/inknut-antiqua-latin-500.woff') format('woff'); /* Modern Browsers */
 }
-
 /* inknut-antiqua-600normal - latin */
 @font-face {
   font-family: 'Inknut Antiqua';
@@ -49,7 +46,6 @@
     url('./files/inknut-antiqua-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/inknut-antiqua-latin-600.woff') format('woff'); /* Modern Browsers */
 }
-
 /* inknut-antiqua-700normal - latin */
 @font-face {
   font-family: 'Inknut Antiqua';
@@ -62,7 +58,6 @@
     url('./files/inknut-antiqua-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/inknut-antiqua-latin-700.woff') format('woff'); /* Modern Browsers */
 }
-
 /* inknut-antiqua-800normal - latin */
 @font-face {
   font-family: 'Inknut Antiqua';
@@ -75,7 +70,6 @@
     url('./files/inknut-antiqua-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/inknut-antiqua-latin-800.woff') format('woff'); /* Modern Browsers */
 }
-
 /* inknut-antiqua-900normal - latin */
 @font-face {
   font-family: 'Inknut Antiqua';
@@ -88,4 +82,3 @@
     url('./files/inknut-antiqua-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/inknut-antiqua-latin-900.woff') format('woff'); /* Modern Browsers */
 }
-

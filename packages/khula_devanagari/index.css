@@ -10,7 +10,6 @@
     url('./files/khula-devanagari-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/khula-devanagari-300.woff') format('woff'); /* Modern Browsers */
 }
-
 /* khula-400normal - devanagari */
 @font-face {
   font-family: 'Khula';
@@ -23,7 +22,6 @@
     url('./files/khula-devanagari-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/khula-devanagari-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* khula-600normal - devanagari */
 @font-face {
   font-family: 'Khula';
@@ -36,7 +34,6 @@
     url('./files/khula-devanagari-600.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/khula-devanagari-600.woff') format('woff'); /* Modern Browsers */
 }
-
 /* khula-700normal - devanagari */
 @font-face {
   font-family: 'Khula';
@@ -49,7 +46,6 @@
     url('./files/khula-devanagari-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/khula-devanagari-700.woff') format('woff'); /* Modern Browsers */
 }
-
 /* khula-800normal - devanagari */
 @font-face {
   font-family: 'Khula';
@@ -62,4 +58,3 @@
     url('./files/khula-devanagari-800.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/khula-devanagari-800.woff') format('woff'); /* Modern Browsers */
 }
-

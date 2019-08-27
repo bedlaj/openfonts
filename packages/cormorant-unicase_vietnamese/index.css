@@ -10,7 +10,6 @@
     url('./files/cormorant-unicase-vietnamese-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/cormorant-unicase-vietnamese-300.woff') format('woff'); /* Modern Browsers */
 }
-
 /* cormorant-unicase-400normal - vietnamese */
 @font-face {
   font-family: 'Cormorant Unicase';
@@ -23,7 +22,6 @@
     url('./files/cormorant-unicase-vietnamese-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/cormorant-unicase-vietnamese-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* cormorant-unicase-500normal - vietnamese */
 @font-face {
   font-family: 'Cormorant Unicase';
@@ -36,7 +34,6 @@
     url('./files/cormorant-unicase-vietnamese-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/cormorant-unicase-vietnamese-500.woff') format('woff'); /* Modern Browsers */
 }
-
 /* cormorant-unicase-600normal - vietnamese */
 @font-face {
   font-family: 'Cormorant Unicase';
@@ -49,7 +46,6 @@
     url('./files/cormorant-unicase-vietnamese-600.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/cormorant-unicase-vietnamese-600.woff') format('woff'); /* Modern Browsers */
 }
-
 /* cormorant-unicase-700normal - vietnamese */
 @font-face {
   font-family: 'Cormorant Unicase';
@@ -62,4 +58,3 @@
     url('./files/cormorant-unicase-vietnamese-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/cormorant-unicase-vietnamese-700.woff') format('woff'); /* Modern Browsers */
 }
-

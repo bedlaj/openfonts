@@ -10,7 +10,6 @@
     url('./files/unkempt-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/unkempt-latin-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* unkempt-700normal - latin */
 @font-face {
   font-family: 'Unkempt';
@@ -23,4 +22,3 @@
     url('./files/unkempt-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/unkempt-latin-700.woff') format('woff'); /* Modern Browsers */
 }
-

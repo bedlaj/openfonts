@@ -10,7 +10,6 @@
     url('./files/vollkorn-greek-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/vollkorn-greek-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* vollkorn-400italic - greek */
 @font-face {
   font-family: 'Vollkorn';
@@ -23,7 +22,6 @@
     url('./files/vollkorn-greek-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/vollkorn-greek-400-italic.woff') format('woff'); /* Modern Browsers */
 }
-
 /* vollkorn-600normal - greek */
 @font-face {
   font-family: 'Vollkorn';
@@ -36,7 +34,6 @@
     url('./files/vollkorn-greek-600.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/vollkorn-greek-600.woff') format('woff'); /* Modern Browsers */
 }
-
 /* vollkorn-600italic - greek */
 @font-face {
   font-family: 'Vollkorn';
@@ -49,7 +46,6 @@
     url('./files/vollkorn-greek-600-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/vollkorn-greek-600-italic.woff') format('woff'); /* Modern Browsers */
 }
-
 /* vollkorn-700normal - greek */
 @font-face {
   font-family: 'Vollkorn';
@@ -62,7 +58,6 @@
     url('./files/vollkorn-greek-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/vollkorn-greek-700.woff') format('woff'); /* Modern Browsers */
 }
-
 /* vollkorn-700italic - greek */
 @font-face {
   font-family: 'Vollkorn';
@@ -75,7 +70,6 @@
     url('./files/vollkorn-greek-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/vollkorn-greek-700-italic.woff') format('woff'); /* Modern Browsers */
 }
-
 /* vollkorn-900normal - greek */
 @font-face {
   font-family: 'Vollkorn';
@@ -88,7 +82,6 @@
     url('./files/vollkorn-greek-900.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/vollkorn-greek-900.woff') format('woff'); /* Modern Browsers */
 }
-
 /* vollkorn-900italic - greek */
 @font-face {
   font-family: 'Vollkorn';
@@ -101,4 +94,3 @@
     url('./files/vollkorn-greek-900-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/vollkorn-greek-900-italic.woff') format('woff'); /* Modern Browsers */
 }
-

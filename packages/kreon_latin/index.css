@@ -10,7 +10,6 @@
     url('./files/kreon-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/kreon-latin-300.woff') format('woff'); /* Modern Browsers */
 }
-
 /* kreon-400normal - latin */
 @font-face {
   font-family: 'Kreon';
@@ -23,7 +22,6 @@
     url('./files/kreon-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/kreon-latin-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* kreon-500normal - latin */
 @font-face {
   font-family: 'Kreon';
@@ -36,7 +34,6 @@
     url('./files/kreon-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/kreon-latin-500.woff') format('woff'); /* Modern Browsers */
 }
-
 /* kreon-600normal - latin */
 @font-face {
   font-family: 'Kreon';
@@ -49,7 +46,6 @@
     url('./files/kreon-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/kreon-latin-600.woff') format('woff'); /* Modern Browsers */
 }
-
 /* kreon-700normal - latin */
 @font-face {
   font-family: 'Kreon';
@@ -62,4 +58,3 @@
     url('./files/kreon-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/kreon-latin-700.woff') format('woff'); /* Modern Browsers */
 }
-

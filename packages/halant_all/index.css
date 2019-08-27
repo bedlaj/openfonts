@@ -10,7 +10,6 @@
     url('./files/halant-all-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/halant-all-300.woff') format('woff'); /* Modern Browsers */
 }
-
 /* halant-400normal - all */
 @font-face {
   font-family: 'Halant';
@@ -23,7 +22,6 @@
     url('./files/halant-all-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/halant-all-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* halant-500normal - all */
 @font-face {
   font-family: 'Halant';
@@ -36,7 +34,6 @@
     url('./files/halant-all-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/halant-all-500.woff') format('woff'); /* Modern Browsers */
 }
-
 /* halant-600normal - all */
 @font-face {
   font-family: 'Halant';
@@ -49,7 +46,6 @@
     url('./files/halant-all-600.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/halant-all-600.woff') format('woff'); /* Modern Browsers */
 }
-
 /* halant-700normal - all */
 @font-face {
   font-family: 'Halant';
@@ -62,4 +58,3 @@
     url('./files/halant-all-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/halant-all-700.woff') format('woff'); /* Modern Browsers */
 }
-

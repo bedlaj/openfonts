@@ -10,7 +10,6 @@
     url('./files/titillium-web-latin-ext-200.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/titillium-web-latin-ext-200.woff') format('woff'); /* Modern Browsers */
 }
-
 /* titillium-web-200italic - latin-ext */
 @font-face {
   font-family: 'Titillium Web';
@@ -23,7 +22,6 @@
     url('./files/titillium-web-latin-ext-200-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/titillium-web-latin-ext-200-italic.woff') format('woff'); /* Modern Browsers */
 }
-
 /* titillium-web-300normal - latin-ext */
 @font-face {
   font-family: 'Titillium Web';
@@ -36,7 +34,6 @@
     url('./files/titillium-web-latin-ext-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/titillium-web-latin-ext-300.woff') format('woff'); /* Modern Browsers */
 }
-
 /* titillium-web-300italic - latin-ext */
 @font-face {
   font-family: 'Titillium Web';
@@ -49,7 +46,6 @@
     url('./files/titillium-web-latin-ext-300-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/titillium-web-latin-ext-300-italic.woff') format('woff'); /* Modern Browsers */
 }
-
 /* titillium-web-400normal - latin-ext */
 @font-face {
   font-family: 'Titillium Web';
@@ -62,7 +58,6 @@
     url('./files/titillium-web-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/titillium-web-latin-ext-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* titillium-web-400italic - latin-ext */
 @font-face {
   font-family: 'Titillium Web';
@@ -75,7 +70,6 @@
     url('./files/titillium-web-latin-ext-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/titillium-web-latin-ext-400-italic.woff') format('woff'); /* Modern Browsers */
 }
-
 /* titillium-web-600normal - latin-ext */
 @font-face {
   font-family: 'Titillium Web';
@@ -88,7 +82,6 @@
     url('./files/titillium-web-latin-ext-600.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/titillium-web-latin-ext-600.woff') format('woff'); /* Modern Browsers */
 }
-
 /* titillium-web-600italic - latin-ext */
 @font-face {
   font-family: 'Titillium Web';
@@ -101,7 +94,6 @@
     url('./files/titillium-web-latin-ext-600-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/titillium-web-latin-ext-600-italic.woff') format('woff'); /* Modern Browsers */
 }
-
 /* titillium-web-700normal - latin-ext */
 @font-face {
   font-family: 'Titillium Web';
@@ -114,7 +106,6 @@
     url('./files/titillium-web-latin-ext-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/titillium-web-latin-ext-700.woff') format('woff'); /* Modern Browsers */
 }
-
 /* titillium-web-700italic - latin-ext */
 @font-face {
   font-family: 'Titillium Web';
@@ -127,7 +118,6 @@
     url('./files/titillium-web-latin-ext-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/titillium-web-latin-ext-700-italic.woff') format('woff'); /* Modern Browsers */
 }
-
 /* titillium-web-900normal - latin-ext */
 @font-face {
   font-family: 'Titillium Web';
@@ -140,4 +130,3 @@
     url('./files/titillium-web-latin-ext-900.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/titillium-web-latin-ext-900.woff') format('woff'); /* Modern Browsers */
 }
-

@@ -10,7 +10,6 @@
     url('./files/fira-code-all-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/fira-code-all-300.woff') format('woff'); /* Modern Browsers */
 }
-
 /* fira-code-400normal - all */
 @font-face {
   font-family: 'Fira Code';
@@ -23,7 +22,6 @@
     url('./files/fira-code-all-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/fira-code-all-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* fira-code-500normal - all */
 @font-face {
   font-family: 'Fira Code';
@@ -36,7 +34,6 @@
     url('./files/fira-code-all-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/fira-code-all-500.woff') format('woff'); /* Modern Browsers */
 }
-
 /* fira-code-600normal - all */
 @font-face {
   font-family: 'Fira Code';
@@ -49,7 +46,6 @@
     url('./files/fira-code-all-600.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/fira-code-all-600.woff') format('woff'); /* Modern Browsers */
 }
-
 /* fira-code-700normal - all */
 @font-face {
   font-family: 'Fira Code';
@@ -62,4 +58,3 @@
     url('./files/fira-code-all-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/fira-code-all-700.woff') format('woff'); /* Modern Browsers */
 }
-

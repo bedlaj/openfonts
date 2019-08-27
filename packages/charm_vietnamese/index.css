@@ -10,7 +10,6 @@
     url('./files/charm-vietnamese-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/charm-vietnamese-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* charm-700normal - vietnamese */
 @font-face {
   font-family: 'Charm';
@@ -23,4 +22,3 @@
     url('./files/charm-vietnamese-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/charm-vietnamese-700.woff') format('woff'); /* Modern Browsers */
 }
-

@@ -10,7 +10,6 @@
     url('./files/khand-devanagari-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/khand-devanagari-300.woff') format('woff'); /* Modern Browsers */
 }
-
 /* khand-400normal - devanagari */
 @font-face {
   font-family: 'Khand';
@@ -23,7 +22,6 @@
     url('./files/khand-devanagari-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/khand-devanagari-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* khand-500normal - devanagari */
 @font-face {
   font-family: 'Khand';
@@ -36,7 +34,6 @@
     url('./files/khand-devanagari-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/khand-devanagari-500.woff') format('woff'); /* Modern Browsers */
 }
-
 /* khand-600normal - devanagari */
 @font-face {
   font-family: 'Khand';
@@ -49,7 +46,6 @@
     url('./files/khand-devanagari-600.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/khand-devanagari-600.woff') format('woff'); /* Modern Browsers */
 }
-
 /* khand-700normal - devanagari */
 @font-face {
   font-family: 'Khand';
@@ -62,4 +58,3 @@
     url('./files/khand-devanagari-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/khand-devanagari-700.woff') format('woff'); /* Modern Browsers */
 }
-

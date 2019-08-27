@@ -10,7 +10,6 @@
     url('./files/signika-negative-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/signika-negative-latin-300.woff') format('woff'); /* Modern Browsers */
 }
-
 /* signika-negative-400normal - latin */
 @font-face {
   font-family: 'Signika Negative';
@@ -23,7 +22,6 @@
     url('./files/signika-negative-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/signika-negative-latin-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* signika-negative-600normal - latin */
 @font-face {
   font-family: 'Signika Negative';
@@ -36,7 +34,6 @@
     url('./files/signika-negative-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/signika-negative-latin-600.woff') format('woff'); /* Modern Browsers */
 }
-
 /* signika-negative-700normal - latin */
 @font-face {
   font-family: 'Signika Negative';
@@ -49,4 +46,3 @@
     url('./files/signika-negative-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/signika-negative-latin-700.woff') format('woff'); /* Modern Browsers */
 }
-

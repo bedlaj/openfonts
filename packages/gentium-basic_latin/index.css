@@ -10,7 +10,6 @@
     url('./files/gentium-basic-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/gentium-basic-latin-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* gentium-basic-400italic - latin */
 @font-face {
   font-family: 'Gentium Basic';
@@ -23,7 +22,6 @@
     url('./files/gentium-basic-latin-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/gentium-basic-latin-400-italic.woff') format('woff'); /* Modern Browsers */
 }
-
 /* gentium-basic-700normal - latin */
 @font-face {
   font-family: 'Gentium Basic';
@@ -36,7 +34,6 @@
     url('./files/gentium-basic-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/gentium-basic-latin-700.woff') format('woff'); /* Modern Browsers */
 }
-
 /* gentium-basic-700italic - latin */
 @font-face {
   font-family: 'Gentium Basic';
@@ -49,4 +46,3 @@
     url('./files/gentium-basic-latin-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/gentium-basic-latin-700-italic.woff') format('woff'); /* Modern Browsers */
 }
-

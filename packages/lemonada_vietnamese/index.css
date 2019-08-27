@@ -10,7 +10,6 @@
     url('./files/lemonada-vietnamese-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/lemonada-vietnamese-300.woff') format('woff'); /* Modern Browsers */
 }
-
 /* lemonada-400normal - vietnamese */
 @font-face {
   font-family: 'Lemonada';
@@ -23,7 +22,6 @@
     url('./files/lemonada-vietnamese-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/lemonada-vietnamese-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* lemonada-600normal - vietnamese */
 @font-face {
   font-family: 'Lemonada';
@@ -36,7 +34,6 @@
     url('./files/lemonada-vietnamese-600.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/lemonada-vietnamese-600.woff') format('woff'); /* Modern Browsers */
 }
-
 /* lemonada-700normal - vietnamese */
 @font-face {
   font-family: 'Lemonada';
@@ -49,4 +46,3 @@
     url('./files/lemonada-vietnamese-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/lemonada-vietnamese-700.woff') format('woff'); /* Modern Browsers */
 }
-

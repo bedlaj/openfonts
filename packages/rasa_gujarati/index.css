@@ -10,7 +10,6 @@
     url('./files/rasa-gujarati-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/rasa-gujarati-300.woff') format('woff'); /* Modern Browsers */
 }
-
 /* rasa-400normal - gujarati */
 @font-face {
   font-family: 'Rasa';
@@ -23,7 +22,6 @@
     url('./files/rasa-gujarati-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/rasa-gujarati-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* rasa-500normal - gujarati */
 @font-face {
   font-family: 'Rasa';
@@ -36,7 +34,6 @@
     url('./files/rasa-gujarati-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/rasa-gujarati-500.woff') format('woff'); /* Modern Browsers */
 }
-
 /* rasa-600normal - gujarati */
 @font-face {
   font-family: 'Rasa';
@@ -49,7 +46,6 @@
     url('./files/rasa-gujarati-600.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/rasa-gujarati-600.woff') format('woff'); /* Modern Browsers */
 }
-
 /* rasa-700normal - gujarati */
 @font-face {
   font-family: 'Rasa';
@@ -62,4 +58,3 @@
     url('./files/rasa-gujarati-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/rasa-gujarati-700.woff') format('woff'); /* Modern Browsers */
 }
-

@@ -10,7 +10,6 @@
     url('./files/abhaya-libre-all-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/abhaya-libre-all-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* abhaya-libre-500normal - all */
 @font-face {
   font-family: 'Abhaya Libre';
@@ -23,7 +22,6 @@
     url('./files/abhaya-libre-all-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/abhaya-libre-all-500.woff') format('woff'); /* Modern Browsers */
 }
-
 /* abhaya-libre-600normal - all */
 @font-face {
   font-family: 'Abhaya Libre';
@@ -36,7 +34,6 @@
     url('./files/abhaya-libre-all-600.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/abhaya-libre-all-600.woff') format('woff'); /* Modern Browsers */
 }
-
 /* abhaya-libre-700normal - all */
 @font-face {
   font-family: 'Abhaya Libre';
@@ -49,7 +46,6 @@
     url('./files/abhaya-libre-all-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/abhaya-libre-all-700.woff') format('woff'); /* Modern Browsers */
 }
-
 /* abhaya-libre-800normal - all */
 @font-face {
   font-family: 'Abhaya Libre';
@@ -62,4 +58,3 @@
     url('./files/abhaya-libre-all-800.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/abhaya-libre-all-800.woff') format('woff'); /* Modern Browsers */
 }
-

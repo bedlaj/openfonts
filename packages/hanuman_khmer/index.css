@@ -10,7 +10,6 @@
     url('./files/hanuman-khmer-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/hanuman-khmer-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* hanuman-700normal - khmer */
 @font-face {
   font-family: 'Hanuman';
@@ -23,4 +22,3 @@
     url('./files/hanuman-khmer-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/hanuman-khmer-700.woff') format('woff'); /* Modern Browsers */
 }
-

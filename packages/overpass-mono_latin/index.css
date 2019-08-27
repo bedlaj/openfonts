@@ -10,7 +10,6 @@
     url('./files/overpass-mono-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/overpass-mono-latin-300.woff') format('woff'); /* Modern Browsers */
 }
-
 /* overpass-mono-400normal - latin */
 @font-face {
   font-family: 'Overpass Mono';
@@ -23,7 +22,6 @@
     url('./files/overpass-mono-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/overpass-mono-latin-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* overpass-mono-600normal - latin */
 @font-face {
   font-family: 'Overpass Mono';
@@ -36,7 +34,6 @@
     url('./files/overpass-mono-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/overpass-mono-latin-600.woff') format('woff'); /* Modern Browsers */
 }
-
 /* overpass-mono-700normal - latin */
 @font-face {
   font-family: 'Overpass Mono';
@@ -49,4 +46,3 @@
     url('./files/overpass-mono-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/overpass-mono-latin-700.woff') format('woff'); /* Modern Browsers */
 }
-

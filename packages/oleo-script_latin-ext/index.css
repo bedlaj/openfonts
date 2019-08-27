@@ -10,7 +10,6 @@
     url('./files/oleo-script-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/oleo-script-latin-ext-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* oleo-script-700normal - latin-ext */
 @font-face {
   font-family: 'Oleo Script';
@@ -23,4 +22,3 @@
     url('./files/oleo-script-latin-ext-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/oleo-script-latin-ext-700.woff') format('woff'); /* Modern Browsers */
 }
-

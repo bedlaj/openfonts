@@ -10,7 +10,6 @@
     url('./files/hind-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/hind-latin-300.woff') format('woff'); /* Modern Browsers */
 }
-
 /* hind-400normal - latin */
 @font-face {
   font-family: 'Hind';
@@ -23,7 +22,6 @@
     url('./files/hind-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/hind-latin-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* hind-500normal - latin */
 @font-face {
   font-family: 'Hind';
@@ -36,7 +34,6 @@
     url('./files/hind-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/hind-latin-500.woff') format('woff'); /* Modern Browsers */
 }
-
 /* hind-600normal - latin */
 @font-face {
   font-family: 'Hind';
@@ -49,7 +46,6 @@
     url('./files/hind-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/hind-latin-600.woff') format('woff'); /* Modern Browsers */
 }
-
 /* hind-700normal - latin */
 @font-face {
   font-family: 'Hind';
@@ -62,4 +58,3 @@
     url('./files/hind-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/hind-latin-700.woff') format('woff'); /* Modern Browsers */
 }
-

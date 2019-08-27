@@ -10,7 +10,6 @@
     url('./files/ropa-sans-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/ropa-sans-latin-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* ropa-sans-400italic - latin */
 @font-face {
   font-family: 'Ropa Sans';
@@ -23,4 +22,3 @@
     url('./files/ropa-sans-latin-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/ropa-sans-latin-400-italic.woff') format('woff'); /* Modern Browsers */
 }
-

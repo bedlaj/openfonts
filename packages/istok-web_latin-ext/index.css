@@ -10,7 +10,6 @@
     url('./files/istok-web-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/istok-web-latin-ext-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* istok-web-400italic - latin-ext */
 @font-face {
   font-family: 'Istok Web';
@@ -23,7 +22,6 @@
     url('./files/istok-web-latin-ext-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/istok-web-latin-ext-400-italic.woff') format('woff'); /* Modern Browsers */
 }
-
 /* istok-web-700normal - latin-ext */
 @font-face {
   font-family: 'Istok Web';
@@ -36,7 +34,6 @@
     url('./files/istok-web-latin-ext-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/istok-web-latin-ext-700.woff') format('woff'); /* Modern Browsers */
 }
-
 /* istok-web-700italic - latin-ext */
 @font-face {
   font-family: 'Istok Web';
@@ -49,4 +46,3 @@
     url('./files/istok-web-latin-ext-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/istok-web-latin-ext-700-italic.woff') format('woff'); /* Modern Browsers */
 }
-

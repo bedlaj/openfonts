@@ -1,0 +1,144 @@
+/* fahkwang-200normal - all */
+@font-face {
+  font-family: 'Fahkwang';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Fahkwang Extra Light '),
+    local('Fahkwang-Extra Light'),
+    url('./files/fahkwang-all-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/fahkwang-all-200.woff') format('woff'); /* Modern Browsers */
+}
+/* fahkwang-200italic - all */
+@font-face {
+  font-family: 'Fahkwang';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Fahkwang Extra Light italic'),
+    local('Fahkwang-Extra Lightitalic'),
+    url('./files/fahkwang-all-200-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/fahkwang-all-200-italic.woff') format('woff'); /* Modern Browsers */
+}
+/* fahkwang-300normal - all */
+@font-face {
+  font-family: 'Fahkwang';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Fahkwang Light '),
+    local('Fahkwang-Light'),
+    url('./files/fahkwang-all-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/fahkwang-all-300.woff') format('woff'); /* Modern Browsers */
+}
+/* fahkwang-300italic - all */
+@font-face {
+  font-family: 'Fahkwang';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Fahkwang Light italic'),
+    local('Fahkwang-Lightitalic'),
+    url('./files/fahkwang-all-300-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/fahkwang-all-300-italic.woff') format('woff'); /* Modern Browsers */
+}
+/* fahkwang-400normal - all */
+@font-face {
+  font-family: 'Fahkwang';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Fahkwang Regular '),
+    local('Fahkwang-Regular'),
+    url('./files/fahkwang-all-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/fahkwang-all-400.woff') format('woff'); /* Modern Browsers */
+}
+/* fahkwang-400italic - all */
+@font-face {
+  font-family: 'Fahkwang';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Fahkwang Regular italic'),
+    local('Fahkwang-Regularitalic'),
+    url('./files/fahkwang-all-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/fahkwang-all-400-italic.woff') format('woff'); /* Modern Browsers */
+}
+/* fahkwang-500normal - all */
+@font-face {
+  font-family: 'Fahkwang';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Fahkwang Medium '),
+    local('Fahkwang-Medium'),
+    url('./files/fahkwang-all-500.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/fahkwang-all-500.woff') format('woff'); /* Modern Browsers */
+}
+/* fahkwang-500italic - all */
+@font-face {
+  font-family: 'Fahkwang';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Fahkwang Medium italic'),
+    local('Fahkwang-Mediumitalic'),
+    url('./files/fahkwang-all-500-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/fahkwang-all-500-italic.woff') format('woff'); /* Modern Browsers */
+}
+/* fahkwang-600normal - all */
+@font-face {
+  font-family: 'Fahkwang';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Fahkwang SemiBold '),
+    local('Fahkwang-SemiBold'),
+    url('./files/fahkwang-all-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/fahkwang-all-600.woff') format('woff'); /* Modern Browsers */
+}
+/* fahkwang-600italic - all */
+@font-face {
+  font-family: 'Fahkwang';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Fahkwang SemiBold italic'),
+    local('Fahkwang-SemiBolditalic'),
+    url('./files/fahkwang-all-600-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/fahkwang-all-600-italic.woff') format('woff'); /* Modern Browsers */
+}
+/* fahkwang-700normal - all */
+@font-face {
+  font-family: 'Fahkwang';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Fahkwang Bold '),
+    local('Fahkwang-Bold'),
+    url('./files/fahkwang-all-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/fahkwang-all-700.woff') format('woff'); /* Modern Browsers */
+}
+/* fahkwang-700italic - all */
+@font-face {
+  font-family: 'Fahkwang';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Fahkwang Bold italic'),
+    local('Fahkwang-Bolditalic'),
+    url('./files/fahkwang-all-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./files/fahkwang-all-700-italic.woff') format('woff'); /* Modern Browsers */
+}

@@ -10,7 +10,6 @@
     url('./files/tillana-all-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/tillana-all-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* tillana-500normal - all */
 @font-face {
   font-family: 'Tillana';
@@ -23,7 +22,6 @@
     url('./files/tillana-all-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/tillana-all-500.woff') format('woff'); /* Modern Browsers */
 }
-
 /* tillana-600normal - all */
 @font-face {
   font-family: 'Tillana';
@@ -36,7 +34,6 @@
     url('./files/tillana-all-600.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/tillana-all-600.woff') format('woff'); /* Modern Browsers */
 }
-
 /* tillana-700normal - all */
 @font-face {
   font-family: 'Tillana';
@@ -49,7 +46,6 @@
     url('./files/tillana-all-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/tillana-all-700.woff') format('woff'); /* Modern Browsers */
 }
-
 /* tillana-800normal - all */
 @font-face {
   font-family: 'Tillana';
@@ -62,4 +58,3 @@
     url('./files/tillana-all-800.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/tillana-all-800.woff') format('woff'); /* Modern Browsers */
 }
-

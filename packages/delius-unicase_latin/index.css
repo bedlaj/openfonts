@@ -10,7 +10,6 @@
     url('./files/delius-unicase-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/delius-unicase-latin-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* delius-unicase-700normal - latin */
 @font-face {
   font-family: 'Delius Unicase';
@@ -23,4 +22,3 @@
     url('./files/delius-unicase-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/delius-unicase-latin-700.woff') format('woff'); /* Modern Browsers */
 }
-

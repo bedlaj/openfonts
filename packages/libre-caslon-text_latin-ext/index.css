@@ -10,7 +10,6 @@
     url('./files/libre-caslon-text-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/libre-caslon-text-latin-ext-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* libre-caslon-text-400italic - latin-ext */
 @font-face {
   font-family: 'Libre Caslon Text';
@@ -23,7 +22,6 @@
     url('./files/libre-caslon-text-latin-ext-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/libre-caslon-text-latin-ext-400-italic.woff') format('woff'); /* Modern Browsers */
 }
-
 /* libre-caslon-text-700normal - latin-ext */
 @font-face {
   font-family: 'Libre Caslon Text';
@@ -36,4 +34,3 @@
     url('./files/libre-caslon-text-latin-ext-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/libre-caslon-text-latin-ext-700.woff') format('woff'); /* Modern Browsers */
 }
-

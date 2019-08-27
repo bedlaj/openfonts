@@ -10,7 +10,6 @@
     url('./files/athiti-all-200.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/athiti-all-200.woff') format('woff'); /* Modern Browsers */
 }
-
 /* athiti-300normal - all */
 @font-face {
   font-family: 'Athiti';
@@ -23,7 +22,6 @@
     url('./files/athiti-all-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/athiti-all-300.woff') format('woff'); /* Modern Browsers */
 }
-
 /* athiti-400normal - all */
 @font-face {
   font-family: 'Athiti';
@@ -36,7 +34,6 @@
     url('./files/athiti-all-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/athiti-all-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* athiti-500normal - all */
 @font-face {
   font-family: 'Athiti';
@@ -49,7 +46,6 @@
     url('./files/athiti-all-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/athiti-all-500.woff') format('woff'); /* Modern Browsers */
 }
-
 /* athiti-600normal - all */
 @font-face {
   font-family: 'Athiti';
@@ -62,7 +58,6 @@
     url('./files/athiti-all-600.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/athiti-all-600.woff') format('woff'); /* Modern Browsers */
 }
-
 /* athiti-700normal - all */
 @font-face {
   font-family: 'Athiti';
@@ -75,4 +70,3 @@
     url('./files/athiti-all-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/athiti-all-700.woff') format('woff'); /* Modern Browsers */
 }
-

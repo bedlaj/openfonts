@@ -10,7 +10,6 @@
     url('./files/vollkorn-sc-all-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/vollkorn-sc-all-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* vollkorn-sc-600normal - all */
 @font-face {
   font-family: 'Vollkorn SC';
@@ -23,7 +22,6 @@
     url('./files/vollkorn-sc-all-600.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/vollkorn-sc-all-600.woff') format('woff'); /* Modern Browsers */
 }
-
 /* vollkorn-sc-700normal - all */
 @font-face {
   font-family: 'Vollkorn SC';
@@ -36,7 +34,6 @@
     url('./files/vollkorn-sc-all-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/vollkorn-sc-all-700.woff') format('woff'); /* Modern Browsers */
 }
-
 /* vollkorn-sc-900normal - all */
 @font-face {
   font-family: 'Vollkorn SC';
@@ -49,4 +46,3 @@
     url('./files/vollkorn-sc-all-900.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/vollkorn-sc-all-900.woff') format('woff'); /* Modern Browsers */
 }
-

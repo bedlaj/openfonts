@@ -10,7 +10,6 @@
     url('./files/blinker-latin-ext-100.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/blinker-latin-ext-100.woff') format('woff'); /* Modern Browsers */
 }
-
 /* blinker-200normal - latin-ext */
 @font-face {
   font-family: 'Blinker';
@@ -23,7 +22,6 @@
     url('./files/blinker-latin-ext-200.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/blinker-latin-ext-200.woff') format('woff'); /* Modern Browsers */
 }
-
 /* blinker-300normal - latin-ext */
 @font-face {
   font-family: 'Blinker';
@@ -36,7 +34,6 @@
     url('./files/blinker-latin-ext-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/blinker-latin-ext-300.woff') format('woff'); /* Modern Browsers */
 }
-
 /* blinker-400normal - latin-ext */
 @font-face {
   font-family: 'Blinker';
@@ -49,7 +46,6 @@
     url('./files/blinker-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/blinker-latin-ext-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* blinker-600normal - latin-ext */
 @font-face {
   font-family: 'Blinker';
@@ -62,7 +58,6 @@
     url('./files/blinker-latin-ext-600.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/blinker-latin-ext-600.woff') format('woff'); /* Modern Browsers */
 }
-
 /* blinker-700normal - latin-ext */
 @font-face {
   font-family: 'Blinker';
@@ -75,7 +70,6 @@
     url('./files/blinker-latin-ext-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/blinker-latin-ext-700.woff') format('woff'); /* Modern Browsers */
 }
-
 /* blinker-800normal - latin-ext */
 @font-face {
   font-family: 'Blinker';
@@ -88,7 +82,6 @@
     url('./files/blinker-latin-ext-800.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/blinker-latin-ext-800.woff') format('woff'); /* Modern Browsers */
 }
-
 /* blinker-900normal - latin-ext */
 @font-face {
   font-family: 'Blinker';
@@ -101,4 +94,3 @@
     url('./files/blinker-latin-ext-900.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/blinker-latin-ext-900.woff') format('woff'); /* Modern Browsers */
 }
-

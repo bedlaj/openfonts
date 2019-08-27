@@ -10,7 +10,6 @@
     url('./files/eb-garamond-cyrillic-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/eb-garamond-cyrillic-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* eb-garamond-400italic - cyrillic */
 @font-face {
   font-family: 'EB Garamond';
@@ -23,7 +22,6 @@
     url('./files/eb-garamond-cyrillic-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/eb-garamond-cyrillic-400-italic.woff') format('woff'); /* Modern Browsers */
 }
-
 /* eb-garamond-500normal - cyrillic */
 @font-face {
   font-family: 'EB Garamond';
@@ -36,7 +34,6 @@
     url('./files/eb-garamond-cyrillic-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/eb-garamond-cyrillic-500.woff') format('woff'); /* Modern Browsers */
 }
-
 /* eb-garamond-500italic - cyrillic */
 @font-face {
   font-family: 'EB Garamond';
@@ -49,7 +46,6 @@
     url('./files/eb-garamond-cyrillic-500-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/eb-garamond-cyrillic-500-italic.woff') format('woff'); /* Modern Browsers */
 }
-
 /* eb-garamond-600normal - cyrillic */
 @font-face {
   font-family: 'EB Garamond';
@@ -62,7 +58,6 @@
     url('./files/eb-garamond-cyrillic-600.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/eb-garamond-cyrillic-600.woff') format('woff'); /* Modern Browsers */
 }
-
 /* eb-garamond-600italic - cyrillic */
 @font-face {
   font-family: 'EB Garamond';
@@ -75,7 +70,6 @@
     url('./files/eb-garamond-cyrillic-600-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/eb-garamond-cyrillic-600-italic.woff') format('woff'); /* Modern Browsers */
 }
-
 /* eb-garamond-700normal - cyrillic */
 @font-face {
   font-family: 'EB Garamond';
@@ -88,7 +82,6 @@
     url('./files/eb-garamond-cyrillic-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/eb-garamond-cyrillic-700.woff') format('woff'); /* Modern Browsers */
 }
-
 /* eb-garamond-700italic - cyrillic */
 @font-face {
   font-family: 'EB Garamond';
@@ -101,7 +94,6 @@
     url('./files/eb-garamond-cyrillic-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/eb-garamond-cyrillic-700-italic.woff') format('woff'); /* Modern Browsers */
 }
-
 /* eb-garamond-800normal - cyrillic */
 @font-face {
   font-family: 'EB Garamond';
@@ -114,7 +106,6 @@
     url('./files/eb-garamond-cyrillic-800.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/eb-garamond-cyrillic-800.woff') format('woff'); /* Modern Browsers */
 }
-
 /* eb-garamond-800italic - cyrillic */
 @font-face {
   font-family: 'EB Garamond';
@@ -127,4 +118,3 @@
     url('./files/eb-garamond-cyrillic-800-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/eb-garamond-cyrillic-800-italic.woff') format('woff'); /* Modern Browsers */
 }
-

@@ -10,7 +10,6 @@
     url('./files/pt-serif-all-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/pt-serif-all-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* pt-serif-400italic - all */
 @font-face {
   font-family: 'PT Serif';
@@ -23,7 +22,6 @@
     url('./files/pt-serif-all-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/pt-serif-all-400-italic.woff') format('woff'); /* Modern Browsers */
 }
-
 /* pt-serif-700normal - all */
 @font-face {
   font-family: 'PT Serif';
@@ -36,7 +34,6 @@
     url('./files/pt-serif-all-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/pt-serif-all-700.woff') format('woff'); /* Modern Browsers */
 }
-
 /* pt-serif-700italic - all */
 @font-face {
   font-family: 'PT Serif';
@@ -49,4 +46,3 @@
     url('./files/pt-serif-all-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/pt-serif-all-700-italic.woff') format('woff'); /* Modern Browsers */
 }
-

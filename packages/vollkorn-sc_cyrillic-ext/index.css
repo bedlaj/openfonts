@@ -10,7 +10,6 @@
     url('./files/vollkorn-sc-cyrillic-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/vollkorn-sc-cyrillic-ext-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* vollkorn-sc-600normal - cyrillic-ext */
 @font-face {
   font-family: 'Vollkorn SC';
@@ -23,7 +22,6 @@
     url('./files/vollkorn-sc-cyrillic-ext-600.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/vollkorn-sc-cyrillic-ext-600.woff') format('woff'); /* Modern Browsers */
 }
-
 /* vollkorn-sc-700normal - cyrillic-ext */
 @font-face {
   font-family: 'Vollkorn SC';
@@ -36,7 +34,6 @@
     url('./files/vollkorn-sc-cyrillic-ext-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/vollkorn-sc-cyrillic-ext-700.woff') format('woff'); /* Modern Browsers */
 }
-
 /* vollkorn-sc-900normal - cyrillic-ext */
 @font-face {
   font-family: 'Vollkorn SC';
@@ -49,4 +46,3 @@
     url('./files/vollkorn-sc-cyrillic-ext-900.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/vollkorn-sc-cyrillic-ext-900.woff') format('woff'); /* Modern Browsers */
 }
-

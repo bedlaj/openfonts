@@ -10,7 +10,6 @@
     url('./files/podkova-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/podkova-latin-ext-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* podkova-500normal - latin-ext */
 @font-face {
   font-family: 'Podkova';
@@ -23,7 +22,6 @@
     url('./files/podkova-latin-ext-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/podkova-latin-ext-500.woff') format('woff'); /* Modern Browsers */
 }
-
 /* podkova-600normal - latin-ext */
 @font-face {
   font-family: 'Podkova';
@@ -36,7 +34,6 @@
     url('./files/podkova-latin-ext-600.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/podkova-latin-ext-600.woff') format('woff'); /* Modern Browsers */
 }
-
 /* podkova-700normal - latin-ext */
 @font-face {
   font-family: 'Podkova';
@@ -49,7 +46,6 @@
     url('./files/podkova-latin-ext-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/podkova-latin-ext-700.woff') format('woff'); /* Modern Browsers */
 }
-
 /* podkova-800normal - latin-ext */
 @font-face {
   font-family: 'Podkova';
@@ -62,4 +58,3 @@
     url('./files/podkova-latin-ext-800.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/podkova-latin-ext-800.woff') format('woff'); /* Modern Browsers */
 }
-
