@@ -115,17 +115,17 @@ subsets.forEach(subset => {
                     changed = filesHashJson.hash !== filesHash
                 }
 
-                if (!changed) {
-                    return
+                if (changed) {
+                    console.log("font changed", defSubsetTypeface.family, subset[0], subset[1].storeID)
+                } else {
+                    console.log("font not changed", defSubsetTypeface.family, subset[0], subset[1].storeID)
                 }
 
-                // Either the files hash file needs updated or written new.
-                console.log("font changed", defSubsetTypeface.family, subset[0], subset[1].storeID)
                 fs.writeFileSync(
                     `${typefaceDir}/files-hash.json`,
                     JSON.stringify({
                         hash: filesHash,
-                        updatedAt: new Date().toJSON(),
+                        lastModified: subset[1].lastModified,
                     })
                 )
 
