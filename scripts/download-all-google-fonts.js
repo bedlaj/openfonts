@@ -3,8 +3,8 @@ const async = require(`async`)
 //require('shelljs').config.silent = true
 const requestSync = require(`sync-request`)
 
-//const baseurl = `https://google-webfonts-helper.herokuapp.com/api/fonts/`
-const baseurl = `http://localhost:9000/api/fonts/`
+const baseurl = `https://google-webfonts-helper.herokuapp.com/api/fonts/`
+//const baseurl = `http://localhost:9000/api/fonts/`
 const res = requestSync(`GET`, baseurl, {retry: true})
 const typefaces = JSON.parse(res.getBody(`UTF-8`))
 
