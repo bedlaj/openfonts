@@ -149,14 +149,16 @@ subsets.forEach(subset => {
 
                 fs.writeFileSync(`${typefaceDir}/README.md`, packageReadme)
 
-                // Write out package.json file
-                const packageJSON = packageJson({
-                    typefaceId: defSubsetTypeface.id,
-                    typefaceSubset: subset[0],
-                    typefaceName: defSubsetTypeface.family,
-                })
+                if (changed) {
+                    // Write out package.json file
+                    const packageJSON = packageJson({
+                        typefaceId: defSubsetTypeface.id,
+                        typefaceSubset: subset[0],
+                        typefaceName: defSubsetTypeface.family,
+                    })
 
-                fs.writeFileSync(`${typefaceDir}/package.json`, packageJSON)
+                    fs.writeFileSync(`${typefaceDir}/package.json`, packageJSON)
+                }
 
                 // Write out index.css file
                 const variants = _.sortBy(subset[1].variants, item => {
