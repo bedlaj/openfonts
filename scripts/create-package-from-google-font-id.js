@@ -115,19 +115,19 @@ subsets.forEach(subset => {
             changed = filesHashJson.hash !== filesHash
           }
 
-          // Either the files hash file needs updated or written new.
-          if (changed) {
-            console.log("font changed", defSubsetTypeface.family, subset[0], subset[1].storeID)
-            fs.writeFileSync(
-                `${typefaceDir}/files-hash.json`,
-                JSON.stringify({
-                  hash: filesHash,
-                  updatedAt: new Date().toJSON(),
-                })
-            )
+          if (!changed) {
+            return
           }
 
-          //Even if font not changed, write files so eventual changes in templates are reflected
+          // Either the files hash file needs updated or written new.
+          console.log("font changed", defSubsetTypeface.family, subset[0], subset[1].storeID)
+          fs.writeFileSync(
+              `${typefaceDir}/files-hash.json`,
+              JSON.stringify({
+                hash: filesHash,
+                updatedAt: new Date().toJSON(),
+              })
+          )
 
           // Write out the README.md
           const packageReadme = readme({
