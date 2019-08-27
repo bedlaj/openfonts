@@ -10,7 +10,6 @@
     url('./files/overlock-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/overlock-latin-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* overlock-400italic - latin */
 @font-face {
   font-family: 'Overlock';
@@ -23,7 +22,6 @@
     url('./files/overlock-latin-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/overlock-latin-400-italic.woff') format('woff'); /* Modern Browsers */
 }
-
 /* overlock-700normal - latin */
 @font-face {
   font-family: 'Overlock';
@@ -36,7 +34,6 @@
     url('./files/overlock-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/overlock-latin-700.woff') format('woff'); /* Modern Browsers */
 }
-
 /* overlock-700italic - latin */
 @font-face {
   font-family: 'Overlock';
@@ -49,7 +46,6 @@
     url('./files/overlock-latin-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/overlock-latin-700-italic.woff') format('woff'); /* Modern Browsers */
 }
-
 /* overlock-900normal - latin */
 @font-face {
   font-family: 'Overlock';
@@ -62,7 +58,6 @@
     url('./files/overlock-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/overlock-latin-900.woff') format('woff'); /* Modern Browsers */
 }
-
 /* overlock-900italic - latin */
 @font-face {
   font-family: 'Overlock';
@@ -75,4 +70,3 @@
     url('./files/overlock-latin-900-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/overlock-latin-900-italic.woff') format('woff'); /* Modern Browsers */
 }
-

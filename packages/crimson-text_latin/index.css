@@ -10,7 +10,6 @@
     url('./files/crimson-text-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/crimson-text-latin-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* crimson-text-400italic - latin */
 @font-face {
   font-family: 'Crimson Text';
@@ -23,7 +22,6 @@
     url('./files/crimson-text-latin-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/crimson-text-latin-400-italic.woff') format('woff'); /* Modern Browsers */
 }
-
 /* crimson-text-600normal - latin */
 @font-face {
   font-family: 'Crimson Text';
@@ -36,7 +34,6 @@
     url('./files/crimson-text-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/crimson-text-latin-600.woff') format('woff'); /* Modern Browsers */
 }
-
 /* crimson-text-600italic - latin */
 @font-face {
   font-family: 'Crimson Text';
@@ -49,7 +46,6 @@
     url('./files/crimson-text-latin-600-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/crimson-text-latin-600-italic.woff') format('woff'); /* Modern Browsers */
 }
-
 /* crimson-text-700normal - latin */
 @font-face {
   font-family: 'Crimson Text';
@@ -62,7 +58,6 @@
     url('./files/crimson-text-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/crimson-text-latin-700.woff') format('woff'); /* Modern Browsers */
 }
-
 /* crimson-text-700italic - latin */
 @font-face {
   font-family: 'Crimson Text';
@@ -75,4 +70,3 @@
     url('./files/crimson-text-latin-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/crimson-text-latin-700-italic.woff') format('woff'); /* Modern Browsers */
 }
-

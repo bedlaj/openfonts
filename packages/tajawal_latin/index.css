@@ -10,7 +10,6 @@
     url('./files/tajawal-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/tajawal-latin-200.woff') format('woff'); /* Modern Browsers */
 }
-
 /* tajawal-300normal - latin */
 @font-face {
   font-family: 'Tajawal';
@@ -23,7 +22,6 @@
     url('./files/tajawal-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/tajawal-latin-300.woff') format('woff'); /* Modern Browsers */
 }
-
 /* tajawal-400normal - latin */
 @font-face {
   font-family: 'Tajawal';
@@ -36,7 +34,6 @@
     url('./files/tajawal-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/tajawal-latin-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* tajawal-500normal - latin */
 @font-face {
   font-family: 'Tajawal';
@@ -49,7 +46,6 @@
     url('./files/tajawal-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/tajawal-latin-500.woff') format('woff'); /* Modern Browsers */
 }
-
 /* tajawal-700normal - latin */
 @font-face {
   font-family: 'Tajawal';
@@ -62,7 +58,6 @@
     url('./files/tajawal-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/tajawal-latin-700.woff') format('woff'); /* Modern Browsers */
 }
-
 /* tajawal-800normal - latin */
 @font-face {
   font-family: 'Tajawal';
@@ -75,7 +70,6 @@
     url('./files/tajawal-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/tajawal-latin-800.woff') format('woff'); /* Modern Browsers */
 }
-
 /* tajawal-900normal - latin */
 @font-face {
   font-family: 'Tajawal';
@@ -88,4 +82,3 @@
     url('./files/tajawal-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/tajawal-latin-900.woff') format('woff'); /* Modern Browsers */
 }
-

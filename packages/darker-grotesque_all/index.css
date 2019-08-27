@@ -10,7 +10,6 @@
     url('./files/darker-grotesque-all-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/darker-grotesque-all-300.woff') format('woff'); /* Modern Browsers */
 }
-
 /* darker-grotesque-400normal - all */
 @font-face {
   font-family: 'Darker Grotesque';
@@ -23,7 +22,6 @@
     url('./files/darker-grotesque-all-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/darker-grotesque-all-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* darker-grotesque-500normal - all */
 @font-face {
   font-family: 'Darker Grotesque';
@@ -36,7 +34,6 @@
     url('./files/darker-grotesque-all-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/darker-grotesque-all-500.woff') format('woff'); /* Modern Browsers */
 }
-
 /* darker-grotesque-600normal - all */
 @font-face {
   font-family: 'Darker Grotesque';
@@ -49,7 +46,6 @@
     url('./files/darker-grotesque-all-600.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/darker-grotesque-all-600.woff') format('woff'); /* Modern Browsers */
 }
-
 /* darker-grotesque-700normal - all */
 @font-face {
   font-family: 'Darker Grotesque';
@@ -62,7 +58,6 @@
     url('./files/darker-grotesque-all-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/darker-grotesque-all-700.woff') format('woff'); /* Modern Browsers */
 }
-
 /* darker-grotesque-800normal - all */
 @font-face {
   font-family: 'Darker Grotesque';
@@ -75,7 +70,6 @@
     url('./files/darker-grotesque-all-800.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/darker-grotesque-all-800.woff') format('woff'); /* Modern Browsers */
 }
-
 /* darker-grotesque-900normal - all */
 @font-face {
   font-family: 'Darker Grotesque';
@@ -88,4 +82,3 @@
     url('./files/darker-grotesque-all-900.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/darker-grotesque-all-900.woff') format('woff'); /* Modern Browsers */
 }
-

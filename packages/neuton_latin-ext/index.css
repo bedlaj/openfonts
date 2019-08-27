@@ -10,7 +10,6 @@
     url('./files/neuton-latin-ext-200.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/neuton-latin-ext-200.woff') format('woff'); /* Modern Browsers */
 }
-
 /* neuton-300normal - latin-ext */
 @font-face {
   font-family: 'Neuton';
@@ -23,7 +22,6 @@
     url('./files/neuton-latin-ext-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/neuton-latin-ext-300.woff') format('woff'); /* Modern Browsers */
 }
-
 /* neuton-400normal - latin-ext */
 @font-face {
   font-family: 'Neuton';
@@ -36,7 +34,6 @@
     url('./files/neuton-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/neuton-latin-ext-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* neuton-400italic - latin-ext */
 @font-face {
   font-family: 'Neuton';
@@ -49,7 +46,6 @@
     url('./files/neuton-latin-ext-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/neuton-latin-ext-400-italic.woff') format('woff'); /* Modern Browsers */
 }
-
 /* neuton-700normal - latin-ext */
 @font-face {
   font-family: 'Neuton';
@@ -62,7 +58,6 @@
     url('./files/neuton-latin-ext-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/neuton-latin-ext-700.woff') format('woff'); /* Modern Browsers */
 }
-
 /* neuton-800normal - latin-ext */
 @font-face {
   font-family: 'Neuton';
@@ -75,4 +70,3 @@
     url('./files/neuton-latin-ext-800.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/neuton-latin-ext-800.woff') format('woff'); /* Modern Browsers */
 }
-

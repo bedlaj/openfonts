@@ -10,7 +10,6 @@
     url('./files/sunflower-korean-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/sunflower-korean-300.woff') format('woff'); /* Modern Browsers */
 }
-
 /* sunflower-500normal - korean */
 @font-face {
   font-family: 'Sunflower';
@@ -23,7 +22,6 @@
     url('./files/sunflower-korean-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/sunflower-korean-500.woff') format('woff'); /* Modern Browsers */
 }
-
 /* sunflower-700normal - korean */
 @font-face {
   font-family: 'Sunflower';
@@ -36,4 +34,3 @@
     url('./files/sunflower-korean-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/sunflower-korean-700.woff') format('woff'); /* Modern Browsers */
 }
-

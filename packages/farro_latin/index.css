@@ -10,7 +10,6 @@
     url('./files/farro-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/farro-latin-300.woff') format('woff'); /* Modern Browsers */
 }
-
 /* farro-400normal - latin */
 @font-face {
   font-family: 'Farro';
@@ -23,7 +22,6 @@
     url('./files/farro-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/farro-latin-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* farro-500normal - latin */
 @font-face {
   font-family: 'Farro';
@@ -36,7 +34,6 @@
     url('./files/farro-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/farro-latin-500.woff') format('woff'); /* Modern Browsers */
 }
-
 /* farro-700normal - latin */
 @font-face {
   font-family: 'Farro';
@@ -49,4 +46,3 @@
     url('./files/farro-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/farro-latin-700.woff') format('woff'); /* Modern Browsers */
 }
-

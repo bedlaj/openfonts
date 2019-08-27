@@ -10,7 +10,6 @@
     url('./files/b612-mono-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/b612-mono-latin-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* b612-mono-400italic - latin */
 @font-face {
   font-family: 'B612 Mono';
@@ -23,7 +22,6 @@
     url('./files/b612-mono-latin-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/b612-mono-latin-400-italic.woff') format('woff'); /* Modern Browsers */
 }
-
 /* b612-mono-700normal - latin */
 @font-face {
   font-family: 'B612 Mono';
@@ -36,7 +34,6 @@
     url('./files/b612-mono-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/b612-mono-latin-700.woff') format('woff'); /* Modern Browsers */
 }
-
 /* b612-mono-700italic - latin */
 @font-face {
   font-family: 'B612 Mono';
@@ -49,4 +46,3 @@
     url('./files/b612-mono-latin-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/b612-mono-latin-700-italic.woff') format('woff'); /* Modern Browsers */
 }
-

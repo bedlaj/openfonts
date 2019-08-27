@@ -10,7 +10,6 @@
     url('./files/noto-serif-kr-korean-200.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/noto-serif-kr-korean-200.woff') format('woff'); /* Modern Browsers */
 }
-
 /* noto-serif-kr-300normal - korean */
 @font-face {
   font-family: 'Noto Serif KR';
@@ -23,7 +22,6 @@
     url('./files/noto-serif-kr-korean-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/noto-serif-kr-korean-300.woff') format('woff'); /* Modern Browsers */
 }
-
 /* noto-serif-kr-400normal - korean */
 @font-face {
   font-family: 'Noto Serif KR';
@@ -36,7 +34,6 @@
     url('./files/noto-serif-kr-korean-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/noto-serif-kr-korean-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* noto-serif-kr-500normal - korean */
 @font-face {
   font-family: 'Noto Serif KR';
@@ -49,7 +46,6 @@
     url('./files/noto-serif-kr-korean-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/noto-serif-kr-korean-500.woff') format('woff'); /* Modern Browsers */
 }
-
 /* noto-serif-kr-600normal - korean */
 @font-face {
   font-family: 'Noto Serif KR';
@@ -62,7 +58,6 @@
     url('./files/noto-serif-kr-korean-600.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/noto-serif-kr-korean-600.woff') format('woff'); /* Modern Browsers */
 }
-
 /* noto-serif-kr-700normal - korean */
 @font-face {
   font-family: 'Noto Serif KR';
@@ -75,7 +70,6 @@
     url('./files/noto-serif-kr-korean-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/noto-serif-kr-korean-700.woff') format('woff'); /* Modern Browsers */
 }
-
 /* noto-serif-kr-900normal - korean */
 @font-face {
   font-family: 'Noto Serif KR';
@@ -88,4 +82,3 @@
     url('./files/noto-serif-kr-korean-900.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/noto-serif-kr-korean-900.woff') format('woff'); /* Modern Browsers */
 }
-

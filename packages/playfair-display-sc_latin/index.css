@@ -10,7 +10,6 @@
     url('./files/playfair-display-sc-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/playfair-display-sc-latin-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* playfair-display-sc-400italic - latin */
 @font-face {
   font-family: 'Playfair Display SC';
@@ -23,7 +22,6 @@
     url('./files/playfair-display-sc-latin-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/playfair-display-sc-latin-400-italic.woff') format('woff'); /* Modern Browsers */
 }
-
 /* playfair-display-sc-700normal - latin */
 @font-face {
   font-family: 'Playfair Display SC';
@@ -36,7 +34,6 @@
     url('./files/playfair-display-sc-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/playfair-display-sc-latin-700.woff') format('woff'); /* Modern Browsers */
 }
-
 /* playfair-display-sc-700italic - latin */
 @font-face {
   font-family: 'Playfair Display SC';
@@ -49,7 +46,6 @@
     url('./files/playfair-display-sc-latin-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/playfair-display-sc-latin-700-italic.woff') format('woff'); /* Modern Browsers */
 }
-
 /* playfair-display-sc-900normal - latin */
 @font-face {
   font-family: 'Playfair Display SC';
@@ -62,7 +58,6 @@
     url('./files/playfair-display-sc-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/playfair-display-sc-latin-900.woff') format('woff'); /* Modern Browsers */
 }
-
 /* playfair-display-sc-900italic - latin */
 @font-face {
   font-family: 'Playfair Display SC';
@@ -75,4 +70,3 @@
     url('./files/playfair-display-sc-latin-900-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/playfair-display-sc-latin-900-italic.woff') format('woff'); /* Modern Browsers */
 }
-

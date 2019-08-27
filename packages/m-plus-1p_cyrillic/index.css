@@ -10,7 +10,6 @@
     url('./files/m-plus-1p-cyrillic-100.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/m-plus-1p-cyrillic-100.woff') format('woff'); /* Modern Browsers */
 }
-
 /* m-plus-1p-300normal - cyrillic */
 @font-face {
   font-family: 'M PLUS 1p';
@@ -23,7 +22,6 @@
     url('./files/m-plus-1p-cyrillic-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/m-plus-1p-cyrillic-300.woff') format('woff'); /* Modern Browsers */
 }
-
 /* m-plus-1p-400normal - cyrillic */
 @font-face {
   font-family: 'M PLUS 1p';
@@ -36,7 +34,6 @@
     url('./files/m-plus-1p-cyrillic-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/m-plus-1p-cyrillic-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* m-plus-1p-500normal - cyrillic */
 @font-face {
   font-family: 'M PLUS 1p';
@@ -49,7 +46,6 @@
     url('./files/m-plus-1p-cyrillic-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/m-plus-1p-cyrillic-500.woff') format('woff'); /* Modern Browsers */
 }
-
 /* m-plus-1p-700normal - cyrillic */
 @font-face {
   font-family: 'M PLUS 1p';
@@ -62,7 +58,6 @@
     url('./files/m-plus-1p-cyrillic-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/m-plus-1p-cyrillic-700.woff') format('woff'); /* Modern Browsers */
 }
-
 /* m-plus-1p-800normal - cyrillic */
 @font-face {
   font-family: 'M PLUS 1p';
@@ -75,7 +70,6 @@
     url('./files/m-plus-1p-cyrillic-800.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/m-plus-1p-cyrillic-800.woff') format('woff'); /* Modern Browsers */
 }
-
 /* m-plus-1p-900normal - cyrillic */
 @font-face {
   font-family: 'M PLUS 1p';
@@ -88,4 +82,3 @@
     url('./files/m-plus-1p-cyrillic-900.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/m-plus-1p-cyrillic-900.woff') format('woff'); /* Modern Browsers */
 }
-

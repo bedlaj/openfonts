@@ -10,7 +10,6 @@
     url('./files/heebo-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/heebo-latin-100.woff') format('woff'); /* Modern Browsers */
 }
-
 /* heebo-300normal - latin */
 @font-face {
   font-family: 'Heebo';
@@ -23,7 +22,6 @@
     url('./files/heebo-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/heebo-latin-300.woff') format('woff'); /* Modern Browsers */
 }
-
 /* heebo-400normal - latin */
 @font-face {
   font-family: 'Heebo';
@@ -36,7 +34,6 @@
     url('./files/heebo-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/heebo-latin-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* heebo-500normal - latin */
 @font-face {
   font-family: 'Heebo';
@@ -49,7 +46,6 @@
     url('./files/heebo-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/heebo-latin-500.woff') format('woff'); /* Modern Browsers */
 }
-
 /* heebo-700normal - latin */
 @font-face {
   font-family: 'Heebo';
@@ -62,7 +58,6 @@
     url('./files/heebo-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/heebo-latin-700.woff') format('woff'); /* Modern Browsers */
 }
-
 /* heebo-800normal - latin */
 @font-face {
   font-family: 'Heebo';
@@ -75,7 +70,6 @@
     url('./files/heebo-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/heebo-latin-800.woff') format('woff'); /* Modern Browsers */
 }
-
 /* heebo-900normal - latin */
 @font-face {
   font-family: 'Heebo';
@@ -88,4 +82,3 @@
     url('./files/heebo-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/heebo-latin-900.woff') format('woff'); /* Modern Browsers */
 }
-

@@ -10,7 +10,6 @@
     url('./files/yanone-kaffeesatz-all-200.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/yanone-kaffeesatz-all-200.woff') format('woff'); /* Modern Browsers */
 }
-
 /* yanone-kaffeesatz-300normal - all */
 @font-face {
   font-family: 'Yanone Kaffeesatz';
@@ -23,7 +22,6 @@
     url('./files/yanone-kaffeesatz-all-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/yanone-kaffeesatz-all-300.woff') format('woff'); /* Modern Browsers */
 }
-
 /* yanone-kaffeesatz-400normal - all */
 @font-face {
   font-family: 'Yanone Kaffeesatz';
@@ -36,7 +34,6 @@
     url('./files/yanone-kaffeesatz-all-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/yanone-kaffeesatz-all-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* yanone-kaffeesatz-700normal - all */
 @font-face {
   font-family: 'Yanone Kaffeesatz';
@@ -49,4 +46,3 @@
     url('./files/yanone-kaffeesatz-all-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/yanone-kaffeesatz-all-700.woff') format('woff'); /* Modern Browsers */
 }
-

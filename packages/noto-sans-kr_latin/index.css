@@ -10,7 +10,6 @@
     url('./files/noto-sans-kr-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/noto-sans-kr-latin-100.woff') format('woff'); /* Modern Browsers */
 }
-
 /* noto-sans-kr-300normal - latin */
 @font-face {
   font-family: 'Noto Sans KR';
@@ -23,7 +22,6 @@
     url('./files/noto-sans-kr-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/noto-sans-kr-latin-300.woff') format('woff'); /* Modern Browsers */
 }
-
 /* noto-sans-kr-400normal - latin */
 @font-face {
   font-family: 'Noto Sans KR';
@@ -36,7 +34,6 @@
     url('./files/noto-sans-kr-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/noto-sans-kr-latin-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* noto-sans-kr-500normal - latin */
 @font-face {
   font-family: 'Noto Sans KR';
@@ -49,7 +46,6 @@
     url('./files/noto-sans-kr-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/noto-sans-kr-latin-500.woff') format('woff'); /* Modern Browsers */
 }
-
 /* noto-sans-kr-700normal - latin */
 @font-face {
   font-family: 'Noto Sans KR';
@@ -62,7 +58,6 @@
     url('./files/noto-sans-kr-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/noto-sans-kr-latin-700.woff') format('woff'); /* Modern Browsers */
 }
-
 /* noto-sans-kr-900normal - latin */
 @font-face {
   font-family: 'Noto Sans KR';
@@ -75,4 +70,3 @@
     url('./files/noto-sans-kr-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/noto-sans-kr-latin-900.woff') format('woff'); /* Modern Browsers */
 }
-

@@ -10,7 +10,6 @@
     url('./files/krub-all-200.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/krub-all-200.woff') format('woff'); /* Modern Browsers */
 }
-
 /* krub-200italic - all */
 @font-face {
   font-family: 'Krub';
@@ -23,7 +22,6 @@
     url('./files/krub-all-200-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/krub-all-200-italic.woff') format('woff'); /* Modern Browsers */
 }
-
 /* krub-300normal - all */
 @font-face {
   font-family: 'Krub';
@@ -36,7 +34,6 @@
     url('./files/krub-all-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/krub-all-300.woff') format('woff'); /* Modern Browsers */
 }
-
 /* krub-300italic - all */
 @font-face {
   font-family: 'Krub';
@@ -49,7 +46,6 @@
     url('./files/krub-all-300-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/krub-all-300-italic.woff') format('woff'); /* Modern Browsers */
 }
-
 /* krub-400normal - all */
 @font-face {
   font-family: 'Krub';
@@ -62,7 +58,6 @@
     url('./files/krub-all-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/krub-all-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* krub-400italic - all */
 @font-face {
   font-family: 'Krub';
@@ -75,7 +70,6 @@
     url('./files/krub-all-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/krub-all-400-italic.woff') format('woff'); /* Modern Browsers */
 }
-
 /* krub-500normal - all */
 @font-face {
   font-family: 'Krub';
@@ -88,7 +82,6 @@
     url('./files/krub-all-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/krub-all-500.woff') format('woff'); /* Modern Browsers */
 }
-
 /* krub-500italic - all */
 @font-face {
   font-family: 'Krub';
@@ -101,7 +94,6 @@
     url('./files/krub-all-500-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/krub-all-500-italic.woff') format('woff'); /* Modern Browsers */
 }
-
 /* krub-600normal - all */
 @font-face {
   font-family: 'Krub';
@@ -114,7 +106,6 @@
     url('./files/krub-all-600.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/krub-all-600.woff') format('woff'); /* Modern Browsers */
 }
-
 /* krub-600italic - all */
 @font-face {
   font-family: 'Krub';
@@ -127,7 +118,6 @@
     url('./files/krub-all-600-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/krub-all-600-italic.woff') format('woff'); /* Modern Browsers */
 }
-
 /* krub-700normal - all */
 @font-face {
   font-family: 'Krub';
@@ -140,7 +130,6 @@
     url('./files/krub-all-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/krub-all-700.woff') format('woff'); /* Modern Browsers */
 }
-
 /* krub-700italic - all */
 @font-face {
   font-family: 'Krub';
@@ -153,4 +142,3 @@
     url('./files/krub-all-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/krub-all-700-italic.woff') format('woff'); /* Modern Browsers */
 }
-

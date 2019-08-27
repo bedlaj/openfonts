@@ -10,7 +10,6 @@
     url('./files/volkhov-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/volkhov-latin-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* volkhov-400italic - latin */
 @font-face {
   font-family: 'Volkhov';
@@ -23,7 +22,6 @@
     url('./files/volkhov-latin-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/volkhov-latin-400-italic.woff') format('woff'); /* Modern Browsers */
 }
-
 /* volkhov-700normal - latin */
 @font-face {
   font-family: 'Volkhov';
@@ -36,7 +34,6 @@
     url('./files/volkhov-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/volkhov-latin-700.woff') format('woff'); /* Modern Browsers */
 }
-
 /* volkhov-700italic - latin */
 @font-face {
   font-family: 'Volkhov';
@@ -49,4 +46,3 @@
     url('./files/volkhov-latin-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/volkhov-latin-700-italic.woff') format('woff'); /* Modern Browsers */
 }
-

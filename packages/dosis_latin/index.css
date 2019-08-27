@@ -10,7 +10,6 @@
     url('./files/dosis-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/dosis-latin-200.woff') format('woff'); /* Modern Browsers */
 }
-
 /* dosis-300normal - latin */
 @font-face {
   font-family: 'Dosis';
@@ -23,7 +22,6 @@
     url('./files/dosis-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/dosis-latin-300.woff') format('woff'); /* Modern Browsers */
 }
-
 /* dosis-400normal - latin */
 @font-face {
   font-family: 'Dosis';
@@ -36,7 +34,6 @@
     url('./files/dosis-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/dosis-latin-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* dosis-500normal - latin */
 @font-face {
   font-family: 'Dosis';
@@ -49,7 +46,6 @@
     url('./files/dosis-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/dosis-latin-500.woff') format('woff'); /* Modern Browsers */
 }
-
 /* dosis-600normal - latin */
 @font-face {
   font-family: 'Dosis';
@@ -62,7 +58,6 @@
     url('./files/dosis-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/dosis-latin-600.woff') format('woff'); /* Modern Browsers */
 }
-
 /* dosis-700normal - latin */
 @font-face {
   font-family: 'Dosis';
@@ -75,7 +70,6 @@
     url('./files/dosis-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/dosis-latin-700.woff') format('woff'); /* Modern Browsers */
 }
-
 /* dosis-800normal - latin */
 @font-face {
   font-family: 'Dosis';
@@ -88,4 +82,3 @@
     url('./files/dosis-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/dosis-latin-800.woff') format('woff'); /* Modern Browsers */
 }
-

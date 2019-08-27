@@ -10,7 +10,6 @@
     url('./files/anonymous-pro-cyrillic-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/anonymous-pro-cyrillic-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* anonymous-pro-400italic - cyrillic */
 @font-face {
   font-family: 'Anonymous Pro';
@@ -23,7 +22,6 @@
     url('./files/anonymous-pro-cyrillic-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/anonymous-pro-cyrillic-400-italic.woff') format('woff'); /* Modern Browsers */
 }
-
 /* anonymous-pro-700normal - cyrillic */
 @font-face {
   font-family: 'Anonymous Pro';
@@ -36,7 +34,6 @@
     url('./files/anonymous-pro-cyrillic-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/anonymous-pro-cyrillic-700.woff') format('woff'); /* Modern Browsers */
 }
-
 /* anonymous-pro-700italic - cyrillic */
 @font-face {
   font-family: 'Anonymous Pro';
@@ -49,4 +46,3 @@
     url('./files/anonymous-pro-cyrillic-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/anonymous-pro-cyrillic-700-italic.woff') format('woff'); /* Modern Browsers */
 }
-

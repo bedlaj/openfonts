@@ -10,7 +10,6 @@
     url('./files/open-sans-condensed-cyrillic-ext-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/open-sans-condensed-cyrillic-ext-300.woff') format('woff'); /* Modern Browsers */
 }
-
 /* open-sans-condensed-300italic - cyrillic-ext */
 @font-face {
   font-family: 'Open Sans Condensed';
@@ -23,7 +22,6 @@
     url('./files/open-sans-condensed-cyrillic-ext-300-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/open-sans-condensed-cyrillic-ext-300-italic.woff') format('woff'); /* Modern Browsers */
 }
-
 /* open-sans-condensed-700normal - cyrillic-ext */
 @font-face {
   font-family: 'Open Sans Condensed';
@@ -36,4 +34,3 @@
     url('./files/open-sans-condensed-cyrillic-ext-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/open-sans-condensed-cyrillic-ext-700.woff') format('woff'); /* Modern Browsers */
 }
-

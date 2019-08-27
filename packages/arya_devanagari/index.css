@@ -10,7 +10,6 @@
     url('./files/arya-devanagari-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/arya-devanagari-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* arya-700normal - devanagari */
 @font-face {
   font-family: 'Arya';
@@ -23,4 +22,3 @@
     url('./files/arya-devanagari-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/arya-devanagari-700.woff') format('woff'); /* Modern Browsers */
 }
-

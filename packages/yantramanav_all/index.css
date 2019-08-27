@@ -10,7 +10,6 @@
     url('./files/yantramanav-all-100.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/yantramanav-all-100.woff') format('woff'); /* Modern Browsers */
 }
-
 /* yantramanav-300normal - all */
 @font-face {
   font-family: 'Yantramanav';
@@ -23,7 +22,6 @@
     url('./files/yantramanav-all-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/yantramanav-all-300.woff') format('woff'); /* Modern Browsers */
 }
-
 /* yantramanav-400normal - all */
 @font-face {
   font-family: 'Yantramanav';
@@ -36,7 +34,6 @@
     url('./files/yantramanav-all-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/yantramanav-all-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* yantramanav-500normal - all */
 @font-face {
   font-family: 'Yantramanav';
@@ -49,7 +46,6 @@
     url('./files/yantramanav-all-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/yantramanav-all-500.woff') format('woff'); /* Modern Browsers */
 }
-
 /* yantramanav-700normal - all */
 @font-face {
   font-family: 'Yantramanav';
@@ -62,7 +58,6 @@
     url('./files/yantramanav-all-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/yantramanav-all-700.woff') format('woff'); /* Modern Browsers */
 }
-
 /* yantramanav-900normal - all */
 @font-face {
   font-family: 'Yantramanav';
@@ -75,4 +70,3 @@
     url('./files/yantramanav-all-900.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/yantramanav-all-900.woff') format('woff'); /* Modern Browsers */
 }
-

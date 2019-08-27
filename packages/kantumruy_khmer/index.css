@@ -10,7 +10,6 @@
     url('./files/kantumruy-khmer-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/kantumruy-khmer-300.woff') format('woff'); /* Modern Browsers */
 }
-
 /* kantumruy-400normal - khmer */
 @font-face {
   font-family: 'Kantumruy';
@@ -23,7 +22,6 @@
     url('./files/kantumruy-khmer-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/kantumruy-khmer-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* kantumruy-700normal - khmer */
 @font-face {
   font-family: 'Kantumruy';
@@ -36,4 +34,3 @@
     url('./files/kantumruy-khmer-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/kantumruy-khmer-700.woff') format('woff'); /* Modern Browsers */
 }
-

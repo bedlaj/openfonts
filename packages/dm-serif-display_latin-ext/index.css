@@ -10,7 +10,6 @@
     url('./files/dm-serif-display-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/dm-serif-display-latin-ext-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* dm-serif-display-400italic - latin-ext */
 @font-face {
   font-family: 'DM Serif Display';
@@ -23,4 +22,3 @@
     url('./files/dm-serif-display-latin-ext-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/dm-serif-display-latin-ext-400-italic.woff') format('woff'); /* Modern Browsers */
 }
-

@@ -10,7 +10,6 @@
     url('./files/cousine-greek-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/cousine-greek-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* cousine-400italic - greek */
 @font-face {
   font-family: 'Cousine';
@@ -23,7 +22,6 @@
     url('./files/cousine-greek-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/cousine-greek-400-italic.woff') format('woff'); /* Modern Browsers */
 }
-
 /* cousine-700normal - greek */
 @font-face {
   font-family: 'Cousine';
@@ -36,7 +34,6 @@
     url('./files/cousine-greek-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/cousine-greek-700.woff') format('woff'); /* Modern Browsers */
 }
-
 /* cousine-700italic - greek */
 @font-face {
   font-family: 'Cousine';
@@ -49,4 +46,3 @@
     url('./files/cousine-greek-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/cousine-greek-700-italic.woff') format('woff'); /* Modern Browsers */
 }
-

@@ -10,7 +10,6 @@
     url('./files/red-hat-text-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/red-hat-text-latin-ext-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* red-hat-text-400italic - latin-ext */
 @font-face {
   font-family: 'Red Hat Text';
@@ -23,7 +22,6 @@
     url('./files/red-hat-text-latin-ext-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/red-hat-text-latin-ext-400-italic.woff') format('woff'); /* Modern Browsers */
 }
-
 /* red-hat-text-500normal - latin-ext */
 @font-face {
   font-family: 'Red Hat Text';
@@ -36,7 +34,6 @@
     url('./files/red-hat-text-latin-ext-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/red-hat-text-latin-ext-500.woff') format('woff'); /* Modern Browsers */
 }
-
 /* red-hat-text-500italic - latin-ext */
 @font-face {
   font-family: 'Red Hat Text';
@@ -49,7 +46,6 @@
     url('./files/red-hat-text-latin-ext-500-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/red-hat-text-latin-ext-500-italic.woff') format('woff'); /* Modern Browsers */
 }
-
 /* red-hat-text-700normal - latin-ext */
 @font-face {
   font-family: 'Red Hat Text';
@@ -62,7 +58,6 @@
     url('./files/red-hat-text-latin-ext-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/red-hat-text-latin-ext-700.woff') format('woff'); /* Modern Browsers */
 }
-
 /* red-hat-text-700italic - latin-ext */
 @font-face {
   font-family: 'Red Hat Text';
@@ -75,4 +70,3 @@
     url('./files/red-hat-text-latin-ext-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/red-hat-text-latin-ext-700-italic.woff') format('woff'); /* Modern Browsers */
 }
-

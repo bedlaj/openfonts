@@ -10,7 +10,6 @@
     url('./files/tinos-cyrillic-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/tinos-cyrillic-ext-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* tinos-400italic - cyrillic-ext */
 @font-face {
   font-family: 'Tinos';
@@ -23,7 +22,6 @@
     url('./files/tinos-cyrillic-ext-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/tinos-cyrillic-ext-400-italic.woff') format('woff'); /* Modern Browsers */
 }
-
 /* tinos-700normal - cyrillic-ext */
 @font-face {
   font-family: 'Tinos';
@@ -36,7 +34,6 @@
     url('./files/tinos-cyrillic-ext-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/tinos-cyrillic-ext-700.woff') format('woff'); /* Modern Browsers */
 }
-
 /* tinos-700italic - cyrillic-ext */
 @font-face {
   font-family: 'Tinos';
@@ -49,4 +46,3 @@
     url('./files/tinos-cyrillic-ext-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/tinos-cyrillic-ext-700-italic.woff') format('woff'); /* Modern Browsers */
 }
-

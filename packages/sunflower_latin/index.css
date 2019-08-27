@@ -10,7 +10,6 @@
     url('./files/sunflower-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/sunflower-latin-300.woff') format('woff'); /* Modern Browsers */
 }
-
 /* sunflower-500normal - latin */
 @font-face {
   font-family: 'Sunflower';
@@ -23,7 +22,6 @@
     url('./files/sunflower-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/sunflower-latin-500.woff') format('woff'); /* Modern Browsers */
 }
-
 /* sunflower-700normal - latin */
 @font-face {
   font-family: 'Sunflower';
@@ -36,4 +34,3 @@
     url('./files/sunflower-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/sunflower-latin-700.woff') format('woff'); /* Modern Browsers */
 }
-

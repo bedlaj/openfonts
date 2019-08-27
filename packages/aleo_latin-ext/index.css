@@ -10,7 +10,6 @@
     url('./files/aleo-latin-ext-300.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/aleo-latin-ext-300.woff') format('woff'); /* Modern Browsers */
 }
-
 /* aleo-300italic - latin-ext */
 @font-face {
   font-family: 'Aleo';
@@ -23,7 +22,6 @@
     url('./files/aleo-latin-ext-300-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/aleo-latin-ext-300-italic.woff') format('woff'); /* Modern Browsers */
 }
-
 /* aleo-400normal - latin-ext */
 @font-face {
   font-family: 'Aleo';
@@ -36,7 +34,6 @@
     url('./files/aleo-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/aleo-latin-ext-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* aleo-400italic - latin-ext */
 @font-face {
   font-family: 'Aleo';
@@ -49,7 +46,6 @@
     url('./files/aleo-latin-ext-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/aleo-latin-ext-400-italic.woff') format('woff'); /* Modern Browsers */
 }
-
 /* aleo-700normal - latin-ext */
 @font-face {
   font-family: 'Aleo';
@@ -62,7 +58,6 @@
     url('./files/aleo-latin-ext-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/aleo-latin-ext-700.woff') format('woff'); /* Modern Browsers */
 }
-
 /* aleo-700italic - latin-ext */
 @font-face {
   font-family: 'Aleo';
@@ -75,4 +70,3 @@
     url('./files/aleo-latin-ext-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/aleo-latin-ext-700-italic.woff') format('woff'); /* Modern Browsers */
 }
-

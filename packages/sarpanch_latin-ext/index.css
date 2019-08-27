@@ -10,7 +10,6 @@
     url('./files/sarpanch-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/sarpanch-latin-ext-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* sarpanch-500normal - latin-ext */
 @font-face {
   font-family: 'Sarpanch';
@@ -23,7 +22,6 @@
     url('./files/sarpanch-latin-ext-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/sarpanch-latin-ext-500.woff') format('woff'); /* Modern Browsers */
 }
-
 /* sarpanch-600normal - latin-ext */
 @font-face {
   font-family: 'Sarpanch';
@@ -36,7 +34,6 @@
     url('./files/sarpanch-latin-ext-600.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/sarpanch-latin-ext-600.woff') format('woff'); /* Modern Browsers */
 }
-
 /* sarpanch-700normal - latin-ext */
 @font-face {
   font-family: 'Sarpanch';
@@ -49,7 +46,6 @@
     url('./files/sarpanch-latin-ext-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/sarpanch-latin-ext-700.woff') format('woff'); /* Modern Browsers */
 }
-
 /* sarpanch-800normal - latin-ext */
 @font-face {
   font-family: 'Sarpanch';
@@ -62,7 +58,6 @@
     url('./files/sarpanch-latin-ext-800.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/sarpanch-latin-ext-800.woff') format('woff'); /* Modern Browsers */
 }
-
 /* sarpanch-900normal - latin-ext */
 @font-face {
   font-family: 'Sarpanch';
@@ -75,4 +70,3 @@
     url('./files/sarpanch-latin-ext-900.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/sarpanch-latin-ext-900.woff') format('woff'); /* Modern Browsers */
 }
-

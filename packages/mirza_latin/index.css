@@ -10,7 +10,6 @@
     url('./files/mirza-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/mirza-latin-400.woff') format('woff'); /* Modern Browsers */
 }
-
 /* mirza-500normal - latin */
 @font-face {
   font-family: 'Mirza';
@@ -23,7 +22,6 @@
     url('./files/mirza-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/mirza-latin-500.woff') format('woff'); /* Modern Browsers */
 }
-
 /* mirza-600normal - latin */
 @font-face {
   font-family: 'Mirza';
@@ -36,7 +34,6 @@
     url('./files/mirza-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/mirza-latin-600.woff') format('woff'); /* Modern Browsers */
 }
-
 /* mirza-700normal - latin */
 @font-face {
   font-family: 'Mirza';
@@ -49,4 +46,3 @@
     url('./files/mirza-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
     url('./files/mirza-latin-700.woff') format('woff'); /* Modern Browsers */
 }
-
