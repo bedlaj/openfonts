@@ -6,6 +6,7 @@ const async = require(`async`)
 const fs = require(`fs-extra`)
 const path = require(`path`)
 const md5Dir = require(`md5-dir`)
+const md5File = require('md5-file')
 const log = require("single-line-log").stdout
 const _ = require("lodash")
 const util = require('util')
@@ -54,6 +55,7 @@ subsets.forEach(subset => {
     // Create the directories for this typeface.
     fs.ensureDirSync(typefaceDir)
     fs.ensureDirSync(typefaceDir + `/files`)
+    fs.ensureDirSync(typefaceDir + `/gstatic`)
 
     // Make git ignore typeface files so we're not checking in GBs of data.
     fs.writeFileSync(typefaceDir + `/.gitignore`, "/files")
@@ -61,12 +63,16 @@ subsets.forEach(subset => {
     fs.writeFileSync(typefaceDir + `/files/.gitignore`, "")
 
     const makeFontFilePath = (item, subsetName, extension) => {
+        return makeFontFilePathInDirectory(item, subsetName, extension, './files')
+    }
+
+    const makeFontFilePathInDirectory = (item, subsetName, extension, directory) => {
         let style = ""
         if (item.fontStyle !== `normal`) {
             style = item.fontStyle
         }
         //console.log(`./files/${defSubsetTypeface.id}-${subsetName}-${item.fontWeight}${style ? '-' + style : ''}.${extension}`)
-        return `./files/${defSubsetTypeface.id}-${subsetName}-${item.fontWeight}${style ? '-' + style : ''}.${extension}`
+        return `${directory}/${defSubsetTypeface.id}-${subsetName}-${item.fontWeight}${style ? '-' + style : ''}.${extension}`
     }
 
     // Download all font files.
@@ -93,6 +99,10 @@ subsets.forEach(subset => {
                             console.log("error downloading", defSubsetTypeface.id, url, err)
                             // Track if a download errored.
                             item.errored = true
+                        } else {
+                            const urlMarkerFile = path.join(typefaceDir, makeFontFilePathInDirectory(item, subset[0], extension, './gstatic'))
+                            fs.writeFileSync(urlMarkerFile+'.link', url)
+                            fs.writeFileSync(urlMarkerFile+'.md5', md5File.sync(dest))
                         }
                         // log(`Finished downloading "${url}" to "${dest}"`)
                         downloadDone()
