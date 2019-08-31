@@ -23,17 +23,17 @@ exports.packageJson = _.template(
 )
 
 exports.fontFace = _.template(
-  `/* <%= typefaceId %>-<%= weight %><%= styleWithNormal %> - <%= typefaceSubset %> */
+  `/* <%= typefaceId %>-<%= weight %><%= style %> - <%= typefaceSubset %> */
 @font-face {
   font-family: '<%= typefaceName %>';
-  font-style: <%= styleWithNormal %>;
+  font-style: <%= style %>;
   font-display: swap;
   font-weight: <%= weight %>;
-  src:
-    local('<%= typefaceName %> <%= commonWeightName %> <%= style %>'),
-    local('<%= typefaceName %>-<%= commonWeightName %><%= style %>'),
-    url('<%= woff2Path %>') format('woff2'), /* Super Modern Browsers */
-    url('<%= woffPath %>') format('woff'); /* Modern Browsers */
+  src:<% _.each(locals, function(localName) { %>
+    local('<%= localName %>'),<% });
+    %> 
+    url('<%= woff2Path %>') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('<%= woffPath %>') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 `
 )
