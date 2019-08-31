@@ -1,9 +1,8 @@
 {
+  "name": "@openfonts/parent",
   "devDependencies": {
     "eslint": "^6.2.2",
-    "lerna": "^3.16.4"
-  },
-  "dependencies": {
+    "lerna": "^3.16.4",
     "async": "^3.1.0",
     "bluebird": "^3.5.5",
     "fs-extra": "^8.1.0",
@@ -21,5 +20,10 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "license": "MIT",
+  "private": true
 }
