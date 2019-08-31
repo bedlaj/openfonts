@@ -5,10 +5,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Cabin Regular '),
-    local('Cabin-Regular'),
-    url('./files/cabin-vietnamese-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cabin-vietnamese-400.woff') format('woff'); /* Modern Browsers */
+    local('Cabin'),
+    local('Cabin-Regular'), 
+    url('./files/cabin-vietnamese-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/cabin-vietnamese-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* cabin-400italic - vietnamese */
 @font-face {
@@ -17,10 +17,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Cabin Regular italic'),
-    local('Cabin-Regularitalic'),
-    url('./files/cabin-vietnamese-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cabin-vietnamese-400-italic.woff') format('woff'); /* Modern Browsers */
+    local('Cabin Italic'),
+    local('Cabin-Italic'), 
+    url('./files/cabin-vietnamese-400-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/cabin-vietnamese-400-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* cabin-500normal - vietnamese */
 @font-face {
@@ -29,10 +29,10 @@
   font-display: swap;
   font-weight: 500;
   src:
-    local('Cabin Medium '),
-    local('Cabin-Medium'),
-    url('./files/cabin-vietnamese-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cabin-vietnamese-500.woff') format('woff'); /* Modern Browsers */
+    local('Cabin Medium'),
+    local('Cabin-Medium'), 
+    url('./files/cabin-vietnamese-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/cabin-vietnamese-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* cabin-500italic - vietnamese */
 @font-face {
@@ -41,10 +41,10 @@
   font-display: swap;
   font-weight: 500;
   src:
-    local('Cabin Medium italic'),
-    local('Cabin-Mediumitalic'),
-    url('./files/cabin-vietnamese-500-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cabin-vietnamese-500-italic.woff') format('woff'); /* Modern Browsers */
+    local('Cabin Medium Italic'),
+    local('Cabin-MediumItalic'), 
+    url('./files/cabin-vietnamese-500-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/cabin-vietnamese-500-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* cabin-600normal - vietnamese */
 @font-face {
@@ -53,10 +53,10 @@
   font-display: swap;
   font-weight: 600;
   src:
-    local('Cabin SemiBold '),
-    local('Cabin-SemiBold'),
-    url('./files/cabin-vietnamese-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cabin-vietnamese-600.woff') format('woff'); /* Modern Browsers */
+    local('Cabin SemiBold'),
+    local('Cabin-SemiBold'), 
+    url('./files/cabin-vietnamese-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/cabin-vietnamese-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* cabin-600italic - vietnamese */
 @font-face {
@@ -65,10 +65,10 @@
   font-display: swap;
   font-weight: 600;
   src:
-    local('Cabin SemiBold italic'),
-    local('Cabin-SemiBolditalic'),
-    url('./files/cabin-vietnamese-600-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cabin-vietnamese-600-italic.woff') format('woff'); /* Modern Browsers */
+    local('Cabin SemiBold Italic'),
+    local('Cabin-SemiBoldItalic'), 
+    url('./files/cabin-vietnamese-600-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/cabin-vietnamese-600-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* cabin-700normal - vietnamese */
 @font-face {
@@ -77,10 +77,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Cabin Bold '),
-    local('Cabin-Bold'),
-    url('./files/cabin-vietnamese-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cabin-vietnamese-700.woff') format('woff'); /* Modern Browsers */
+    local('Cabin Bold'),
+    local('Cabin-Bold'), 
+    url('./files/cabin-vietnamese-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/cabin-vietnamese-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* cabin-700italic - vietnamese */
 @font-face {
@@ -89,8 +89,8 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Cabin Bold italic'),
-    local('Cabin-Bolditalic'),
-    url('./files/cabin-vietnamese-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cabin-vietnamese-700-italic.woff') format('woff'); /* Modern Browsers */
+    local('Cabin Bold Italic'),
+    local('Cabin-BoldItalic'), 
+    url('./files/cabin-vietnamese-700-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/cabin-vietnamese-700-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

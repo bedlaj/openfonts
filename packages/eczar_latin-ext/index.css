@@ -5,10 +5,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Eczar Regular '),
-    local('Eczar-Regular'),
-    url('./files/eczar-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/eczar-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+    local('Eczar Regular'),
+    local('Eczar-Regular'), 
+    url('./files/eczar-latin-ext-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/eczar-latin-ext-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* eczar-500normal - latin-ext */
 @font-face {
@@ -17,10 +17,10 @@
   font-display: swap;
   font-weight: 500;
   src:
-    local('Eczar Medium '),
-    local('Eczar-Medium'),
-    url('./files/eczar-latin-ext-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/eczar-latin-ext-500.woff') format('woff'); /* Modern Browsers */
+    local('Eczar Medium'),
+    local('Eczar-Medium'), 
+    url('./files/eczar-latin-ext-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/eczar-latin-ext-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* eczar-600normal - latin-ext */
 @font-face {
@@ -29,10 +29,10 @@
   font-display: swap;
   font-weight: 600;
   src:
-    local('Eczar SemiBold '),
-    local('Eczar-SemiBold'),
-    url('./files/eczar-latin-ext-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/eczar-latin-ext-600.woff') format('woff'); /* Modern Browsers */
+    local('Eczar SemiBold'),
+    local('Eczar-SemiBold'), 
+    url('./files/eczar-latin-ext-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/eczar-latin-ext-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* eczar-700normal - latin-ext */
 @font-face {
@@ -41,10 +41,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Eczar Bold '),
-    local('Eczar-Bold'),
-    url('./files/eczar-latin-ext-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/eczar-latin-ext-700.woff') format('woff'); /* Modern Browsers */
+    local('Eczar Bold'),
+    local('Eczar-Bold'), 
+    url('./files/eczar-latin-ext-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/eczar-latin-ext-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* eczar-800normal - latin-ext */
 @font-face {
@@ -53,8 +53,8 @@
   font-display: swap;
   font-weight: 800;
   src:
-    local('Eczar ExtraBold '),
-    local('Eczar-ExtraBold'),
-    url('./files/eczar-latin-ext-800.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/eczar-latin-ext-800.woff') format('woff'); /* Modern Browsers */
+    local('Eczar ExtraBold'),
+    local('Eczar-ExtraBold'), 
+    url('./files/eczar-latin-ext-800.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/eczar-latin-ext-800.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

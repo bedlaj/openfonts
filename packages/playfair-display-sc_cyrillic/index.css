@@ -5,10 +5,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Playfair Display SC Regular '),
-    local('Playfair Display SC-Regular'),
-    url('./files/playfair-display-sc-cyrillic-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/playfair-display-sc-cyrillic-400.woff') format('woff'); /* Modern Browsers */
+    local('Playfair Display SC Regular'),
+    local('PlayfairDisplaySC-Regular'), 
+    url('./files/playfair-display-sc-cyrillic-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/playfair-display-sc-cyrillic-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* playfair-display-sc-400italic - cyrillic */
 @font-face {
@@ -17,10 +17,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Playfair Display SC Regular italic'),
-    local('Playfair Display SC-Regularitalic'),
-    url('./files/playfair-display-sc-cyrillic-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/playfair-display-sc-cyrillic-400-italic.woff') format('woff'); /* Modern Browsers */
+    local('Playfair Display SC Italic'),
+    local('PlayfairDisplaySC-Italic'), 
+    url('./files/playfair-display-sc-cyrillic-400-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/playfair-display-sc-cyrillic-400-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* playfair-display-sc-700normal - cyrillic */
 @font-face {
@@ -29,10 +29,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Playfair Display SC Bold '),
-    local('Playfair Display SC-Bold'),
-    url('./files/playfair-display-sc-cyrillic-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/playfair-display-sc-cyrillic-700.woff') format('woff'); /* Modern Browsers */
+    local('Playfair Display SC Bold'),
+    local('PlayfairDisplaySC-Bold'), 
+    url('./files/playfair-display-sc-cyrillic-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/playfair-display-sc-cyrillic-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* playfair-display-sc-700italic - cyrillic */
 @font-face {
@@ -41,10 +41,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Playfair Display SC Bold italic'),
-    local('Playfair Display SC-Bolditalic'),
-    url('./files/playfair-display-sc-cyrillic-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/playfair-display-sc-cyrillic-700-italic.woff') format('woff'); /* Modern Browsers */
+    local('Playfair Display SC Bold Italic'),
+    local('PlayfairDisplaySC-BoldItalic'), 
+    url('./files/playfair-display-sc-cyrillic-700-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/playfair-display-sc-cyrillic-700-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* playfair-display-sc-900normal - cyrillic */
 @font-face {
@@ -53,10 +53,10 @@
   font-display: swap;
   font-weight: 900;
   src:
-    local('Playfair Display SC Black '),
-    local('Playfair Display SC-Black'),
-    url('./files/playfair-display-sc-cyrillic-900.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/playfair-display-sc-cyrillic-900.woff') format('woff'); /* Modern Browsers */
+    local('Playfair Display SC Black'),
+    local('PlayfairDisplaySC-Black'), 
+    url('./files/playfair-display-sc-cyrillic-900.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/playfair-display-sc-cyrillic-900.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* playfair-display-sc-900italic - cyrillic */
 @font-face {
@@ -65,8 +65,8 @@
   font-display: swap;
   font-weight: 900;
   src:
-    local('Playfair Display SC Black italic'),
-    local('Playfair Display SC-Blackitalic'),
-    url('./files/playfair-display-sc-cyrillic-900-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/playfair-display-sc-cyrillic-900-italic.woff') format('woff'); /* Modern Browsers */
+    local('Playfair Display SC Black Italic'),
+    local('PlayfairDisplaySC-BlackItalic'), 
+    url('./files/playfair-display-sc-cyrillic-900-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/playfair-display-sc-cyrillic-900-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

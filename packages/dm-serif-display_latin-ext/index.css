@@ -5,10 +5,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('DM Serif Display Regular '),
-    local('DM Serif Display-Regular'),
-    url('./files/dm-serif-display-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/dm-serif-display-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+    local('DM Serif Display Regular'),
+    local('DMSerifDisplay-Regular'), 
+    url('./files/dm-serif-display-latin-ext-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/dm-serif-display-latin-ext-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* dm-serif-display-400italic - latin-ext */
 @font-face {
@@ -17,8 +17,8 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('DM Serif Display Regular italic'),
-    local('DM Serif Display-Regularitalic'),
-    url('./files/dm-serif-display-latin-ext-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/dm-serif-display-latin-ext-400-italic.woff') format('woff'); /* Modern Browsers */
+    local('DM Serif Display Italic'),
+    local('DMSerifDisplay-Italic'), 
+    url('./files/dm-serif-display-latin-ext-400-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/dm-serif-display-latin-ext-400-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

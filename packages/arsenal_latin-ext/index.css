@@ -5,10 +5,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Arsenal Regular '),
-    local('Arsenal-Regular'),
-    url('./files/arsenal-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/arsenal-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+    local('Arsenal Regular'),
+    local('Arsenal-Regular'), 
+    url('./files/arsenal-latin-ext-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/arsenal-latin-ext-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* arsenal-400italic - latin-ext */
 @font-face {
@@ -17,10 +17,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Arsenal Regular italic'),
-    local('Arsenal-Regularitalic'),
-    url('./files/arsenal-latin-ext-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/arsenal-latin-ext-400-italic.woff') format('woff'); /* Modern Browsers */
+    local('Arsenal Italic'),
+    local('Arsenal-Italic'), 
+    url('./files/arsenal-latin-ext-400-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/arsenal-latin-ext-400-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* arsenal-700normal - latin-ext */
 @font-face {
@@ -29,10 +29,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Arsenal Bold '),
-    local('Arsenal-Bold'),
-    url('./files/arsenal-latin-ext-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/arsenal-latin-ext-700.woff') format('woff'); /* Modern Browsers */
+    local('Arsenal Bold'),
+    local('Arsenal-Bold'), 
+    url('./files/arsenal-latin-ext-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/arsenal-latin-ext-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* arsenal-700italic - latin-ext */
 @font-face {
@@ -41,8 +41,8 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Arsenal Bold italic'),
-    local('Arsenal-Bolditalic'),
-    url('./files/arsenal-latin-ext-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/arsenal-latin-ext-700-italic.woff') format('woff'); /* Modern Browsers */
+    local('Arsenal Bold Italic'),
+    local('Arsenal-BoldItalic'), 
+    url('./files/arsenal-latin-ext-700-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/arsenal-latin-ext-700-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

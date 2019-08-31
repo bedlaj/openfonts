@@ -5,10 +5,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('PT Serif Regular '),
-    local('PT Serif-Regular'),
-    url('./files/pt-serif-all-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/pt-serif-all-400.woff') format('woff'); /* Modern Browsers */
+    local('PT Serif'),
+    local('PTSerif-Regular'), 
+    url('./files/pt-serif-all-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/pt-serif-all-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* pt-serif-400italic - all */
 @font-face {
@@ -17,10 +17,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('PT Serif Regular italic'),
-    local('PT Serif-Regularitalic'),
-    url('./files/pt-serif-all-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/pt-serif-all-400-italic.woff') format('woff'); /* Modern Browsers */
+    local('PT Serif Italic'),
+    local('PTSerif-Italic'), 
+    url('./files/pt-serif-all-400-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/pt-serif-all-400-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* pt-serif-700normal - all */
 @font-face {
@@ -29,10 +29,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('PT Serif Bold '),
-    local('PT Serif-Bold'),
-    url('./files/pt-serif-all-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/pt-serif-all-700.woff') format('woff'); /* Modern Browsers */
+    local('PT Serif Bold'),
+    local('PTSerif-Bold'), 
+    url('./files/pt-serif-all-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/pt-serif-all-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* pt-serif-700italic - all */
 @font-face {
@@ -41,8 +41,8 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('PT Serif Bold italic'),
-    local('PT Serif-Bolditalic'),
-    url('./files/pt-serif-all-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/pt-serif-all-700-italic.woff') format('woff'); /* Modern Browsers */
+    local('PT Serif Bold Italic'),
+    local('PTSerif-BoldItalic'), 
+    url('./files/pt-serif-all-700-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/pt-serif-all-700-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

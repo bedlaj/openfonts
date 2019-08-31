@@ -5,10 +5,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Maven Pro Regular '),
-    local('Maven Pro-Regular'),
-    url('./files/maven-pro-all-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/maven-pro-all-400.woff') format('woff'); /* Modern Browsers */
+    local('Maven Pro Regular'),
+    local('MavenPro-Regular'), 
+    url('./files/maven-pro-all-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/maven-pro-all-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* maven-pro-500normal - all */
 @font-face {
@@ -17,10 +17,10 @@
   font-display: swap;
   font-weight: 500;
   src:
-    local('Maven Pro Medium '),
-    local('Maven Pro-Medium'),
-    url('./files/maven-pro-all-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/maven-pro-all-500.woff') format('woff'); /* Modern Browsers */
+    local('Maven Pro Medium'),
+    local('MavenPro-Medium'), 
+    url('./files/maven-pro-all-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/maven-pro-all-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* maven-pro-700normal - all */
 @font-face {
@@ -29,10 +29,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Maven Pro Bold '),
-    local('Maven Pro-Bold'),
-    url('./files/maven-pro-all-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/maven-pro-all-700.woff') format('woff'); /* Modern Browsers */
+    local('Maven Pro Bold'),
+    local('MavenPro-Bold'), 
+    url('./files/maven-pro-all-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/maven-pro-all-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* maven-pro-900normal - all */
 @font-face {
@@ -41,8 +41,8 @@
   font-display: swap;
   font-weight: 900;
   src:
-    local('Maven Pro Black '),
-    local('Maven Pro-Black'),
-    url('./files/maven-pro-all-900.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/maven-pro-all-900.woff') format('woff'); /* Modern Browsers */
+    local('Maven Pro Black'),
+    local('MavenPro-Black'), 
+    url('./files/maven-pro-all-900.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/maven-pro-all-900.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

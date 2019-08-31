@@ -5,8 +5,8 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Black And White Picture Regular '),
-    local('Black And White Picture-Regular'),
-    url('./files/black-and-white-picture-korean-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/black-and-white-picture-korean-400.woff') format('woff'); /* Modern Browsers */
+    local('Black And White Picture Regular'),
+    local('BlackAndWhitePicture-Regular'), 
+    url('./files/black-and-white-picture-korean-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/black-and-white-picture-korean-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

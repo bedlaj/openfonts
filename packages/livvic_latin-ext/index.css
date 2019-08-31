@@ -5,10 +5,10 @@
   font-display: swap;
   font-weight: 100;
   src:
-    local('Livvic Thin '),
-    local('Livvic-Thin'),
-    url('./files/livvic-latin-ext-100.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/livvic-latin-ext-100.woff') format('woff'); /* Modern Browsers */
+    local('Livvic Thin'),
+    local('Livvic-Thin'), 
+    url('./files/livvic-latin-ext-100.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/livvic-latin-ext-100.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* livvic-100italic - latin-ext */
 @font-face {
@@ -17,10 +17,10 @@
   font-display: swap;
   font-weight: 100;
   src:
-    local('Livvic Thin italic'),
-    local('Livvic-Thinitalic'),
-    url('./files/livvic-latin-ext-100-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/livvic-latin-ext-100-italic.woff') format('woff'); /* Modern Browsers */
+    local('Livvic Thin Italic'),
+    local('Livvic-ThinItalic'), 
+    url('./files/livvic-latin-ext-100-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/livvic-latin-ext-100-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* livvic-200normal - latin-ext */
 @font-face {
@@ -29,10 +29,10 @@
   font-display: swap;
   font-weight: 200;
   src:
-    local('Livvic Extra Light '),
-    local('Livvic-Extra Light'),
-    url('./files/livvic-latin-ext-200.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/livvic-latin-ext-200.woff') format('woff'); /* Modern Browsers */
+    local('Livvic ExtraLight'),
+    local('Livvic-ExtraLight'), 
+    url('./files/livvic-latin-ext-200.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/livvic-latin-ext-200.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* livvic-200italic - latin-ext */
 @font-face {
@@ -41,10 +41,10 @@
   font-display: swap;
   font-weight: 200;
   src:
-    local('Livvic Extra Light italic'),
-    local('Livvic-Extra Lightitalic'),
-    url('./files/livvic-latin-ext-200-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/livvic-latin-ext-200-italic.woff') format('woff'); /* Modern Browsers */
+    local('Livvic ExtraLight Italic'),
+    local('Livvic-ExtraLightItalic'), 
+    url('./files/livvic-latin-ext-200-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/livvic-latin-ext-200-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* livvic-300normal - latin-ext */
 @font-face {
@@ -53,10 +53,10 @@
   font-display: swap;
   font-weight: 300;
   src:
-    local('Livvic Light '),
-    local('Livvic-Light'),
-    url('./files/livvic-latin-ext-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/livvic-latin-ext-300.woff') format('woff'); /* Modern Browsers */
+    local('Livvic Light'),
+    local('Livvic-Light'), 
+    url('./files/livvic-latin-ext-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/livvic-latin-ext-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* livvic-300italic - latin-ext */
 @font-face {
@@ -65,10 +65,10 @@
   font-display: swap;
   font-weight: 300;
   src:
-    local('Livvic Light italic'),
-    local('Livvic-Lightitalic'),
-    url('./files/livvic-latin-ext-300-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/livvic-latin-ext-300-italic.woff') format('woff'); /* Modern Browsers */
+    local('Livvic Light Italic'),
+    local('Livvic-LightItalic'), 
+    url('./files/livvic-latin-ext-300-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/livvic-latin-ext-300-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* livvic-400normal - latin-ext */
 @font-face {
@@ -77,10 +77,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Livvic Regular '),
-    local('Livvic-Regular'),
-    url('./files/livvic-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/livvic-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+    local('Livvic Regular'),
+    local('Livvic-Regular'), 
+    url('./files/livvic-latin-ext-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/livvic-latin-ext-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* livvic-400italic - latin-ext */
 @font-face {
@@ -89,10 +89,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Livvic Regular italic'),
-    local('Livvic-Regularitalic'),
-    url('./files/livvic-latin-ext-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/livvic-latin-ext-400-italic.woff') format('woff'); /* Modern Browsers */
+    local('Livvic Italic'),
+    local('Livvic-Italic'), 
+    url('./files/livvic-latin-ext-400-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/livvic-latin-ext-400-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* livvic-500normal - latin-ext */
 @font-face {
@@ -101,10 +101,10 @@
   font-display: swap;
   font-weight: 500;
   src:
-    local('Livvic Medium '),
-    local('Livvic-Medium'),
-    url('./files/livvic-latin-ext-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/livvic-latin-ext-500.woff') format('woff'); /* Modern Browsers */
+    local('Livvic Medium'),
+    local('Livvic-Medium'), 
+    url('./files/livvic-latin-ext-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/livvic-latin-ext-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* livvic-500italic - latin-ext */
 @font-face {
@@ -113,10 +113,10 @@
   font-display: swap;
   font-weight: 500;
   src:
-    local('Livvic Medium italic'),
-    local('Livvic-Mediumitalic'),
-    url('./files/livvic-latin-ext-500-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/livvic-latin-ext-500-italic.woff') format('woff'); /* Modern Browsers */
+    local('Livvic Medium Italic'),
+    local('Livvic-MediumItalic'), 
+    url('./files/livvic-latin-ext-500-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/livvic-latin-ext-500-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* livvic-600normal - latin-ext */
 @font-face {
@@ -125,10 +125,10 @@
   font-display: swap;
   font-weight: 600;
   src:
-    local('Livvic SemiBold '),
-    local('Livvic-SemiBold'),
-    url('./files/livvic-latin-ext-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/livvic-latin-ext-600.woff') format('woff'); /* Modern Browsers */
+    local('Livvic SemiBold'),
+    local('Livvic-SemiBold'), 
+    url('./files/livvic-latin-ext-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/livvic-latin-ext-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* livvic-600italic - latin-ext */
 @font-face {
@@ -137,10 +137,10 @@
   font-display: swap;
   font-weight: 600;
   src:
-    local('Livvic SemiBold italic'),
-    local('Livvic-SemiBolditalic'),
-    url('./files/livvic-latin-ext-600-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/livvic-latin-ext-600-italic.woff') format('woff'); /* Modern Browsers */
+    local('Livvic SemiBold Italic'),
+    local('Livvic-SemiBoldItalic'), 
+    url('./files/livvic-latin-ext-600-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/livvic-latin-ext-600-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* livvic-700normal - latin-ext */
 @font-face {
@@ -149,10 +149,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Livvic Bold '),
-    local('Livvic-Bold'),
-    url('./files/livvic-latin-ext-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/livvic-latin-ext-700.woff') format('woff'); /* Modern Browsers */
+    local('Livvic Bold'),
+    local('Livvic-Bold'), 
+    url('./files/livvic-latin-ext-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/livvic-latin-ext-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* livvic-700italic - latin-ext */
 @font-face {
@@ -161,10 +161,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Livvic Bold italic'),
-    local('Livvic-Bolditalic'),
-    url('./files/livvic-latin-ext-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/livvic-latin-ext-700-italic.woff') format('woff'); /* Modern Browsers */
+    local('Livvic Bold Italic'),
+    local('Livvic-BoldItalic'), 
+    url('./files/livvic-latin-ext-700-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/livvic-latin-ext-700-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* livvic-900normal - latin-ext */
 @font-face {
@@ -173,10 +173,10 @@
   font-display: swap;
   font-weight: 900;
   src:
-    local('Livvic Black '),
-    local('Livvic-Black'),
-    url('./files/livvic-latin-ext-900.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/livvic-latin-ext-900.woff') format('woff'); /* Modern Browsers */
+    local('Livvic Black'),
+    local('Livvic-Black'), 
+    url('./files/livvic-latin-ext-900.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/livvic-latin-ext-900.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* livvic-900italic - latin-ext */
 @font-face {
@@ -185,8 +185,8 @@
   font-display: swap;
   font-weight: 900;
   src:
-    local('Livvic Black italic'),
-    local('Livvic-Blackitalic'),
-    url('./files/livvic-latin-ext-900-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/livvic-latin-ext-900-italic.woff') format('woff'); /* Modern Browsers */
+    local('Livvic Black Italic'),
+    local('Livvic-BlackItalic'), 
+    url('./files/livvic-latin-ext-900-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/livvic-latin-ext-900-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

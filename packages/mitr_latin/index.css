@@ -5,10 +5,10 @@
   font-display: swap;
   font-weight: 200;
   src:
-    local('Mitr Extra Light '),
-    local('Mitr-Extra Light'),
-    url('./files/mitr-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/mitr-latin-200.woff') format('woff'); /* Modern Browsers */
+    local('Mitr ExtraLight'),
+    local('Mitr-ExtraLight'), 
+    url('./files/mitr-latin-200.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/mitr-latin-200.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* mitr-300normal - latin */
 @font-face {
@@ -17,10 +17,10 @@
   font-display: swap;
   font-weight: 300;
   src:
-    local('Mitr Light '),
-    local('Mitr-Light'),
-    url('./files/mitr-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/mitr-latin-300.woff') format('woff'); /* Modern Browsers */
+    local('Mitr Light'),
+    local('Mitr-Light'), 
+    url('./files/mitr-latin-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/mitr-latin-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* mitr-400normal - latin */
 @font-face {
@@ -29,10 +29,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Mitr Regular '),
-    local('Mitr-Regular'),
-    url('./files/mitr-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/mitr-latin-400.woff') format('woff'); /* Modern Browsers */
+    local('Mitr Regular'),
+    local('Mitr-Regular'), 
+    url('./files/mitr-latin-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/mitr-latin-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* mitr-500normal - latin */
 @font-face {
@@ -41,10 +41,10 @@
   font-display: swap;
   font-weight: 500;
   src:
-    local('Mitr Medium '),
-    local('Mitr-Medium'),
-    url('./files/mitr-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/mitr-latin-500.woff') format('woff'); /* Modern Browsers */
+    local('Mitr Medium'),
+    local('Mitr-Medium'), 
+    url('./files/mitr-latin-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/mitr-latin-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* mitr-600normal - latin */
 @font-face {
@@ -53,10 +53,10 @@
   font-display: swap;
   font-weight: 600;
   src:
-    local('Mitr SemiBold '),
-    local('Mitr-SemiBold'),
-    url('./files/mitr-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/mitr-latin-600.woff') format('woff'); /* Modern Browsers */
+    local('Mitr SemiBold'),
+    local('Mitr-SemiBold'), 
+    url('./files/mitr-latin-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/mitr-latin-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* mitr-700normal - latin */
 @font-face {
@@ -65,8 +65,8 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Mitr Bold '),
-    local('Mitr-Bold'),
-    url('./files/mitr-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/mitr-latin-700.woff') format('woff'); /* Modern Browsers */
+    local('Mitr Bold'),
+    local('Mitr-Bold'), 
+    url('./files/mitr-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/mitr-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

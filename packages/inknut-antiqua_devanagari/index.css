@@ -5,10 +5,10 @@
   font-display: swap;
   font-weight: 300;
   src:
-    local('Inknut Antiqua Light '),
-    local('Inknut Antiqua-Light'),
-    url('./files/inknut-antiqua-devanagari-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/inknut-antiqua-devanagari-300.woff') format('woff'); /* Modern Browsers */
+    local('Inknut Antiqua Light'),
+    local('InknutAntiqua-Light'), 
+    url('./files/inknut-antiqua-devanagari-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/inknut-antiqua-devanagari-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* inknut-antiqua-400normal - devanagari */
 @font-face {
@@ -17,10 +17,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Inknut Antiqua Regular '),
-    local('Inknut Antiqua-Regular'),
-    url('./files/inknut-antiqua-devanagari-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/inknut-antiqua-devanagari-400.woff') format('woff'); /* Modern Browsers */
+    local('Inknut Antiqua Regular'),
+    local('InknutAntiqua-Regular'), 
+    url('./files/inknut-antiqua-devanagari-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/inknut-antiqua-devanagari-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* inknut-antiqua-500normal - devanagari */
 @font-face {
@@ -29,10 +29,10 @@
   font-display: swap;
   font-weight: 500;
   src:
-    local('Inknut Antiqua Medium '),
-    local('Inknut Antiqua-Medium'),
-    url('./files/inknut-antiqua-devanagari-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/inknut-antiqua-devanagari-500.woff') format('woff'); /* Modern Browsers */
+    local('Inknut Antiqua Medium'),
+    local('InknutAntiqua-Medium'), 
+    url('./files/inknut-antiqua-devanagari-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/inknut-antiqua-devanagari-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* inknut-antiqua-600normal - devanagari */
 @font-face {
@@ -41,10 +41,10 @@
   font-display: swap;
   font-weight: 600;
   src:
-    local('Inknut Antiqua SemiBold '),
-    local('Inknut Antiqua-SemiBold'),
-    url('./files/inknut-antiqua-devanagari-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/inknut-antiqua-devanagari-600.woff') format('woff'); /* Modern Browsers */
+    local('Inknut Antiqua SemiBold'),
+    local('InknutAntiqua-SemiBold'), 
+    url('./files/inknut-antiqua-devanagari-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/inknut-antiqua-devanagari-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* inknut-antiqua-700normal - devanagari */
 @font-face {
@@ -53,10 +53,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Inknut Antiqua Bold '),
-    local('Inknut Antiqua-Bold'),
-    url('./files/inknut-antiqua-devanagari-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/inknut-antiqua-devanagari-700.woff') format('woff'); /* Modern Browsers */
+    local('Inknut Antiqua Bold'),
+    local('InknutAntiqua-Bold'), 
+    url('./files/inknut-antiqua-devanagari-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/inknut-antiqua-devanagari-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* inknut-antiqua-800normal - devanagari */
 @font-face {
@@ -65,10 +65,10 @@
   font-display: swap;
   font-weight: 800;
   src:
-    local('Inknut Antiqua ExtraBold '),
-    local('Inknut Antiqua-ExtraBold'),
-    url('./files/inknut-antiqua-devanagari-800.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/inknut-antiqua-devanagari-800.woff') format('woff'); /* Modern Browsers */
+    local('Inknut Antiqua ExtraBold'),
+    local('InknutAntiqua-ExtraBold'), 
+    url('./files/inknut-antiqua-devanagari-800.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/inknut-antiqua-devanagari-800.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* inknut-antiqua-900normal - devanagari */
 @font-face {
@@ -77,8 +77,8 @@
   font-display: swap;
   font-weight: 900;
   src:
-    local('Inknut Antiqua Black '),
-    local('Inknut Antiqua-Black'),
-    url('./files/inknut-antiqua-devanagari-900.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/inknut-antiqua-devanagari-900.woff') format('woff'); /* Modern Browsers */
+    local('Inknut Antiqua Black'),
+    local('InknutAntiqua-Black'), 
+    url('./files/inknut-antiqua-devanagari-900.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/inknut-antiqua-devanagari-900.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

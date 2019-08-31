@@ -5,10 +5,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Noto Sans Regular '),
-    local('Noto Sans-Regular'),
-    url('./files/noto-sans-cyrillic-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/noto-sans-cyrillic-ext-400.woff') format('woff'); /* Modern Browsers */
+    local('Noto Sans'),
+    local('NotoSans'), 
+    url('./files/noto-sans-cyrillic-ext-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/noto-sans-cyrillic-ext-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* noto-sans-400italic - cyrillic-ext */
 @font-face {
@@ -17,10 +17,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Noto Sans Regular italic'),
-    local('Noto Sans-Regularitalic'),
-    url('./files/noto-sans-cyrillic-ext-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/noto-sans-cyrillic-ext-400-italic.woff') format('woff'); /* Modern Browsers */
+    local('Noto Sans Italic'),
+    local('NotoSans-Italic'), 
+    url('./files/noto-sans-cyrillic-ext-400-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/noto-sans-cyrillic-ext-400-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* noto-sans-700normal - cyrillic-ext */
 @font-face {
@@ -29,10 +29,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Noto Sans Bold '),
-    local('Noto Sans-Bold'),
-    url('./files/noto-sans-cyrillic-ext-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/noto-sans-cyrillic-ext-700.woff') format('woff'); /* Modern Browsers */
+    local('Noto Sans Bold'),
+    local('NotoSans-Bold'), 
+    url('./files/noto-sans-cyrillic-ext-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/noto-sans-cyrillic-ext-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* noto-sans-700italic - cyrillic-ext */
 @font-face {
@@ -41,8 +41,8 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Noto Sans Bold italic'),
-    local('Noto Sans-Bolditalic'),
-    url('./files/noto-sans-cyrillic-ext-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/noto-sans-cyrillic-ext-700-italic.woff') format('woff'); /* Modern Browsers */
+    local('Noto Sans Bold Italic'),
+    local('NotoSans-BoldItalic'), 
+    url('./files/noto-sans-cyrillic-ext-700-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/noto-sans-cyrillic-ext-700-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

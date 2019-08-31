@@ -5,10 +5,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Alegreya SC Regular '),
-    local('Alegreya SC-Regular'),
-    url('./files/alegreya-sc-cyrillic-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/alegreya-sc-cyrillic-400.woff') format('woff'); /* Modern Browsers */
+    local('Alegreya SC Regular'),
+    local('AlegreyaSC-Regular'), 
+    url('./files/alegreya-sc-cyrillic-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/alegreya-sc-cyrillic-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* alegreya-sc-400italic - cyrillic */
 @font-face {
@@ -17,10 +17,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Alegreya SC Regular italic'),
-    local('Alegreya SC-Regularitalic'),
-    url('./files/alegreya-sc-cyrillic-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/alegreya-sc-cyrillic-400-italic.woff') format('woff'); /* Modern Browsers */
+    local('Alegreya SC Italic'),
+    local('AlegreyaSC-Italic'), 
+    url('./files/alegreya-sc-cyrillic-400-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/alegreya-sc-cyrillic-400-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* alegreya-sc-500normal - cyrillic */
 @font-face {
@@ -29,10 +29,10 @@
   font-display: swap;
   font-weight: 500;
   src:
-    local('Alegreya SC Medium '),
-    local('Alegreya SC-Medium'),
-    url('./files/alegreya-sc-cyrillic-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/alegreya-sc-cyrillic-500.woff') format('woff'); /* Modern Browsers */
+    local('Alegreya SC Medium'),
+    local('AlegreyaSC-Medium'), 
+    url('./files/alegreya-sc-cyrillic-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/alegreya-sc-cyrillic-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* alegreya-sc-500italic - cyrillic */
 @font-face {
@@ -41,10 +41,10 @@
   font-display: swap;
   font-weight: 500;
   src:
-    local('Alegreya SC Medium italic'),
-    local('Alegreya SC-Mediumitalic'),
-    url('./files/alegreya-sc-cyrillic-500-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/alegreya-sc-cyrillic-500-italic.woff') format('woff'); /* Modern Browsers */
+    local('Alegreya SC Medium Italic'),
+    local('AlegreyaSC-MediumItalic'), 
+    url('./files/alegreya-sc-cyrillic-500-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/alegreya-sc-cyrillic-500-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* alegreya-sc-700normal - cyrillic */
 @font-face {
@@ -53,10 +53,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Alegreya SC Bold '),
-    local('Alegreya SC-Bold'),
-    url('./files/alegreya-sc-cyrillic-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/alegreya-sc-cyrillic-700.woff') format('woff'); /* Modern Browsers */
+    local('Alegreya SC Bold'),
+    local('AlegreyaSC-Bold'), 
+    url('./files/alegreya-sc-cyrillic-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/alegreya-sc-cyrillic-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* alegreya-sc-700italic - cyrillic */
 @font-face {
@@ -65,10 +65,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Alegreya SC Bold italic'),
-    local('Alegreya SC-Bolditalic'),
-    url('./files/alegreya-sc-cyrillic-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/alegreya-sc-cyrillic-700-italic.woff') format('woff'); /* Modern Browsers */
+    local('Alegreya SC Bold Italic'),
+    local('AlegreyaSC-BoldItalic'), 
+    url('./files/alegreya-sc-cyrillic-700-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/alegreya-sc-cyrillic-700-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* alegreya-sc-800normal - cyrillic */
 @font-face {
@@ -77,10 +77,10 @@
   font-display: swap;
   font-weight: 800;
   src:
-    local('Alegreya SC ExtraBold '),
-    local('Alegreya SC-ExtraBold'),
-    url('./files/alegreya-sc-cyrillic-800.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/alegreya-sc-cyrillic-800.woff') format('woff'); /* Modern Browsers */
+    local('Alegreya SC ExtraBold'),
+    local('AlegreyaSC-ExtraBold'), 
+    url('./files/alegreya-sc-cyrillic-800.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/alegreya-sc-cyrillic-800.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* alegreya-sc-800italic - cyrillic */
 @font-face {
@@ -89,10 +89,10 @@
   font-display: swap;
   font-weight: 800;
   src:
-    local('Alegreya SC ExtraBold italic'),
-    local('Alegreya SC-ExtraBolditalic'),
-    url('./files/alegreya-sc-cyrillic-800-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/alegreya-sc-cyrillic-800-italic.woff') format('woff'); /* Modern Browsers */
+    local('Alegreya SC ExtraBold Italic'),
+    local('AlegreyaSC-ExtraBoldItalic'), 
+    url('./files/alegreya-sc-cyrillic-800-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/alegreya-sc-cyrillic-800-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* alegreya-sc-900normal - cyrillic */
 @font-face {
@@ -101,10 +101,10 @@
   font-display: swap;
   font-weight: 900;
   src:
-    local('Alegreya SC Black '),
-    local('Alegreya SC-Black'),
-    url('./files/alegreya-sc-cyrillic-900.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/alegreya-sc-cyrillic-900.woff') format('woff'); /* Modern Browsers */
+    local('Alegreya SC Black'),
+    local('AlegreyaSC-Black'), 
+    url('./files/alegreya-sc-cyrillic-900.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/alegreya-sc-cyrillic-900.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* alegreya-sc-900italic - cyrillic */
 @font-face {
@@ -113,8 +113,8 @@
   font-display: swap;
   font-weight: 900;
   src:
-    local('Alegreya SC Black italic'),
-    local('Alegreya SC-Blackitalic'),
-    url('./files/alegreya-sc-cyrillic-900-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/alegreya-sc-cyrillic-900-italic.woff') format('woff'); /* Modern Browsers */
+    local('Alegreya SC Black Italic'),
+    local('AlegreyaSC-BlackItalic'), 
+    url('./files/alegreya-sc-cyrillic-900-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/alegreya-sc-cyrillic-900-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

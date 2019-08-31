@@ -5,10 +5,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Asap Condensed Regular '),
-    local('Asap Condensed-Regular'),
-    url('./files/asap-condensed-vietnamese-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/asap-condensed-vietnamese-400.woff') format('woff'); /* Modern Browsers */
+    local('Asap Condensed Regular'),
+    local('AsapCondensed-Regular'), 
+    url('./files/asap-condensed-vietnamese-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/asap-condensed-vietnamese-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* asap-condensed-400italic - vietnamese */
 @font-face {
@@ -17,10 +17,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Asap Condensed Regular italic'),
-    local('Asap Condensed-Regularitalic'),
-    url('./files/asap-condensed-vietnamese-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/asap-condensed-vietnamese-400-italic.woff') format('woff'); /* Modern Browsers */
+    local('Asap Condensed Italic'),
+    local('AsapCondensed-Italic'), 
+    url('./files/asap-condensed-vietnamese-400-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/asap-condensed-vietnamese-400-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* asap-condensed-500normal - vietnamese */
 @font-face {
@@ -29,10 +29,10 @@
   font-display: swap;
   font-weight: 500;
   src:
-    local('Asap Condensed Medium '),
-    local('Asap Condensed-Medium'),
-    url('./files/asap-condensed-vietnamese-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/asap-condensed-vietnamese-500.woff') format('woff'); /* Modern Browsers */
+    local('Asap Condensed Medium'),
+    local('AsapCondensed-Medium'), 
+    url('./files/asap-condensed-vietnamese-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/asap-condensed-vietnamese-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* asap-condensed-500italic - vietnamese */
 @font-face {
@@ -41,10 +41,10 @@
   font-display: swap;
   font-weight: 500;
   src:
-    local('Asap Condensed Medium italic'),
-    local('Asap Condensed-Mediumitalic'),
-    url('./files/asap-condensed-vietnamese-500-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/asap-condensed-vietnamese-500-italic.woff') format('woff'); /* Modern Browsers */
+    local('Asap Condensed Medium Italic'),
+    local('AsapCondensed-MediumItalic'), 
+    url('./files/asap-condensed-vietnamese-500-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/asap-condensed-vietnamese-500-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* asap-condensed-600normal - vietnamese */
 @font-face {
@@ -53,10 +53,10 @@
   font-display: swap;
   font-weight: 600;
   src:
-    local('Asap Condensed SemiBold '),
-    local('Asap Condensed-SemiBold'),
-    url('./files/asap-condensed-vietnamese-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/asap-condensed-vietnamese-600.woff') format('woff'); /* Modern Browsers */
+    local('Asap Condensed SemiBold'),
+    local('AsapCondensed-SemiBold'), 
+    url('./files/asap-condensed-vietnamese-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/asap-condensed-vietnamese-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* asap-condensed-600italic - vietnamese */
 @font-face {
@@ -65,10 +65,10 @@
   font-display: swap;
   font-weight: 600;
   src:
-    local('Asap Condensed SemiBold italic'),
-    local('Asap Condensed-SemiBolditalic'),
-    url('./files/asap-condensed-vietnamese-600-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/asap-condensed-vietnamese-600-italic.woff') format('woff'); /* Modern Browsers */
+    local('Asap Condensed SemiBold Italic'),
+    local('AsapCondensed-SemiBoldItalic'), 
+    url('./files/asap-condensed-vietnamese-600-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/asap-condensed-vietnamese-600-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* asap-condensed-700normal - vietnamese */
 @font-face {
@@ -77,10 +77,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Asap Condensed Bold '),
-    local('Asap Condensed-Bold'),
-    url('./files/asap-condensed-vietnamese-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/asap-condensed-vietnamese-700.woff') format('woff'); /* Modern Browsers */
+    local('Asap Condensed Bold'),
+    local('AsapCondensed-Bold'), 
+    url('./files/asap-condensed-vietnamese-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/asap-condensed-vietnamese-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* asap-condensed-700italic - vietnamese */
 @font-face {
@@ -89,8 +89,8 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Asap Condensed Bold italic'),
-    local('Asap Condensed-Bolditalic'),
-    url('./files/asap-condensed-vietnamese-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/asap-condensed-vietnamese-700-italic.woff') format('woff'); /* Modern Browsers */
+    local('Asap Condensed Bold Italic'),
+    local('AsapCondensed-BoldItalic'), 
+    url('./files/asap-condensed-vietnamese-700-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/asap-condensed-vietnamese-700-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

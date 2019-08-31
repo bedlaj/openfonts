@@ -4,11 +4,9 @@
   font-style: normal;
   font-display: swap;
   font-weight: 300;
-  src:
-    local('Comfortaa Light '),
-    local('Comfortaa-Light'),
-    url('./files/comfortaa-cyrillic-ext-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/comfortaa-cyrillic-ext-300.woff') format('woff'); /* Modern Browsers */
+  src: 
+    url('./files/comfortaa-cyrillic-ext-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/comfortaa-cyrillic-ext-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* comfortaa-400normal - cyrillic-ext */
 @font-face {
@@ -16,11 +14,9 @@
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src:
-    local('Comfortaa Regular '),
-    local('Comfortaa-Regular'),
-    url('./files/comfortaa-cyrillic-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/comfortaa-cyrillic-ext-400.woff') format('woff'); /* Modern Browsers */
+  src: 
+    url('./files/comfortaa-cyrillic-ext-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/comfortaa-cyrillic-ext-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* comfortaa-500normal - cyrillic-ext */
 @font-face {
@@ -28,11 +24,9 @@
   font-style: normal;
   font-display: swap;
   font-weight: 500;
-  src:
-    local('Comfortaa Medium '),
-    local('Comfortaa-Medium'),
-    url('./files/comfortaa-cyrillic-ext-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/comfortaa-cyrillic-ext-500.woff') format('woff'); /* Modern Browsers */
+  src: 
+    url('./files/comfortaa-cyrillic-ext-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/comfortaa-cyrillic-ext-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* comfortaa-600normal - cyrillic-ext */
 @font-face {
@@ -40,11 +34,9 @@
   font-style: normal;
   font-display: swap;
   font-weight: 600;
-  src:
-    local('Comfortaa SemiBold '),
-    local('Comfortaa-SemiBold'),
-    url('./files/comfortaa-cyrillic-ext-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/comfortaa-cyrillic-ext-600.woff') format('woff'); /* Modern Browsers */
+  src: 
+    url('./files/comfortaa-cyrillic-ext-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/comfortaa-cyrillic-ext-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* comfortaa-700normal - cyrillic-ext */
 @font-face {
@@ -52,9 +44,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 700;
-  src:
-    local('Comfortaa Bold '),
-    local('Comfortaa-Bold'),
-    url('./files/comfortaa-cyrillic-ext-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/comfortaa-cyrillic-ext-700.woff') format('woff'); /* Modern Browsers */
+  src: 
+    url('./files/comfortaa-cyrillic-ext-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/comfortaa-cyrillic-ext-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

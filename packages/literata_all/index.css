@@ -4,11 +4,9 @@
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src:
-    local('Literata Regular '),
-    local('Literata-Regular'),
-    url('./files/literata-all-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/literata-all-400.woff') format('woff'); /* Modern Browsers */
+  src: 
+    url('./files/literata-all-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/literata-all-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* literata-400italic - all */
 @font-face {
@@ -16,11 +14,9 @@
   font-style: italic;
   font-display: swap;
   font-weight: 400;
-  src:
-    local('Literata Regular italic'),
-    local('Literata-Regularitalic'),
-    url('./files/literata-all-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/literata-all-400-italic.woff') format('woff'); /* Modern Browsers */
+  src: 
+    url('./files/literata-all-400-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/literata-all-400-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* literata-500normal - all */
 @font-face {
@@ -28,11 +24,9 @@
   font-style: normal;
   font-display: swap;
   font-weight: 500;
-  src:
-    local('Literata Medium '),
-    local('Literata-Medium'),
-    url('./files/literata-all-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/literata-all-500.woff') format('woff'); /* Modern Browsers */
+  src: 
+    url('./files/literata-all-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/literata-all-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* literata-500italic - all */
 @font-face {
@@ -40,11 +34,9 @@
   font-style: italic;
   font-display: swap;
   font-weight: 500;
-  src:
-    local('Literata Medium italic'),
-    local('Literata-Mediumitalic'),
-    url('./files/literata-all-500-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/literata-all-500-italic.woff') format('woff'); /* Modern Browsers */
+  src: 
+    url('./files/literata-all-500-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/literata-all-500-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* literata-600normal - all */
 @font-face {
@@ -52,11 +44,9 @@
   font-style: normal;
   font-display: swap;
   font-weight: 600;
-  src:
-    local('Literata SemiBold '),
-    local('Literata-SemiBold'),
-    url('./files/literata-all-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/literata-all-600.woff') format('woff'); /* Modern Browsers */
+  src: 
+    url('./files/literata-all-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/literata-all-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* literata-600italic - all */
 @font-face {
@@ -64,11 +54,9 @@
   font-style: italic;
   font-display: swap;
   font-weight: 600;
-  src:
-    local('Literata SemiBold italic'),
-    local('Literata-SemiBolditalic'),
-    url('./files/literata-all-600-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/literata-all-600-italic.woff') format('woff'); /* Modern Browsers */
+  src: 
+    url('./files/literata-all-600-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/literata-all-600-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* literata-700normal - all */
 @font-face {
@@ -76,11 +64,9 @@
   font-style: normal;
   font-display: swap;
   font-weight: 700;
-  src:
-    local('Literata Bold '),
-    local('Literata-Bold'),
-    url('./files/literata-all-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/literata-all-700.woff') format('woff'); /* Modern Browsers */
+  src: 
+    url('./files/literata-all-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/literata-all-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* literata-700italic - all */
 @font-face {
@@ -88,9 +74,7 @@
   font-style: italic;
   font-display: swap;
   font-weight: 700;
-  src:
-    local('Literata Bold italic'),
-    local('Literata-Bolditalic'),
-    url('./files/literata-all-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/literata-all-700-italic.woff') format('woff'); /* Modern Browsers */
+  src: 
+    url('./files/literata-all-700-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/literata-all-700-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

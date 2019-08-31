@@ -5,10 +5,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Nobile Regular '),
-    local('Nobile-Regular'),
-    url('./files/nobile-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/nobile-latin-400.woff') format('woff'); /* Modern Browsers */
+    local('Nobile'),
+    local('Nobile-Regular'), 
+    url('./files/nobile-latin-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/nobile-latin-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* nobile-400italic - latin */
 @font-face {
@@ -17,10 +17,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Nobile Regular italic'),
-    local('Nobile-Regularitalic'),
-    url('./files/nobile-latin-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/nobile-latin-400-italic.woff') format('woff'); /* Modern Browsers */
+    local('Nobile Italic'),
+    local('Nobile-Italic'), 
+    url('./files/nobile-latin-400-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/nobile-latin-400-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* nobile-500normal - latin */
 @font-face {
@@ -29,10 +29,10 @@
   font-display: swap;
   font-weight: 500;
   src:
-    local('Nobile Medium '),
-    local('Nobile-Medium'),
-    url('./files/nobile-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/nobile-latin-500.woff') format('woff'); /* Modern Browsers */
+    local('Nobile Medium'),
+    local('Nobile-Medium'), 
+    url('./files/nobile-latin-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/nobile-latin-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* nobile-500italic - latin */
 @font-face {
@@ -41,10 +41,10 @@
   font-display: swap;
   font-weight: 500;
   src:
-    local('Nobile Medium italic'),
-    local('Nobile-Mediumitalic'),
-    url('./files/nobile-latin-500-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/nobile-latin-500-italic.woff') format('woff'); /* Modern Browsers */
+    local('Nobile Medium Italic'),
+    local('Nobile-MediumItalic'), 
+    url('./files/nobile-latin-500-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/nobile-latin-500-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* nobile-700normal - latin */
 @font-face {
@@ -53,10 +53,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Nobile Bold '),
-    local('Nobile-Bold'),
-    url('./files/nobile-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/nobile-latin-700.woff') format('woff'); /* Modern Browsers */
+    local('Nobile Bold'),
+    local('Nobile-Bold'), 
+    url('./files/nobile-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/nobile-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* nobile-700italic - latin */
 @font-face {
@@ -65,8 +65,8 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Nobile Bold italic'),
-    local('Nobile-Bolditalic'),
-    url('./files/nobile-latin-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/nobile-latin-700-italic.woff') format('woff'); /* Modern Browsers */
+    local('Nobile Bold Italic'),
+    local('Nobile-BoldItalic'), 
+    url('./files/nobile-latin-700-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/nobile-latin-700-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

@@ -5,10 +5,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Cambay Regular '),
-    local('Cambay-Regular'),
-    url('./files/cambay-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cambay-latin-400.woff') format('woff'); /* Modern Browsers */
+    local('Cambay Regular'),
+    local('Cambay-Regular'), 
+    url('./files/cambay-latin-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/cambay-latin-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* cambay-400italic - latin */
 @font-face {
@@ -17,10 +17,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Cambay Regular italic'),
-    local('Cambay-Regularitalic'),
-    url('./files/cambay-latin-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cambay-latin-400-italic.woff') format('woff'); /* Modern Browsers */
+    local('Cambay Italic'),
+    local('Cambay-Italic'), 
+    url('./files/cambay-latin-400-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/cambay-latin-400-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* cambay-700normal - latin */
 @font-face {
@@ -29,10 +29,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Cambay Bold '),
-    local('Cambay-Bold'),
-    url('./files/cambay-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cambay-latin-700.woff') format('woff'); /* Modern Browsers */
+    local('Cambay Bold'),
+    local('Cambay-Bold'), 
+    url('./files/cambay-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/cambay-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* cambay-700italic - latin */
 @font-face {
@@ -41,8 +41,8 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Cambay Bold italic'),
-    local('Cambay-Bolditalic'),
-    url('./files/cambay-latin-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cambay-latin-700-italic.woff') format('woff'); /* Modern Browsers */
+    local('Cambay Bold Italic'),
+    local('Cambay-BoldItalic'), 
+    url('./files/cambay-latin-700-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/cambay-latin-700-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

@@ -5,10 +5,10 @@
   font-display: swap;
   font-weight: 200;
   src:
-    local('Source Code Pro Extra Light '),
-    local('Source Code Pro-Extra Light'),
-    url('./files/source-code-pro-cyrillic-200.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/source-code-pro-cyrillic-200.woff') format('woff'); /* Modern Browsers */
+    local('Source Code Pro ExtraLight'),
+    local('SourceCodePro-ExtraLight'), 
+    url('./files/source-code-pro-cyrillic-200.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/source-code-pro-cyrillic-200.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* source-code-pro-200italic - cyrillic */
 @font-face {
@@ -17,10 +17,10 @@
   font-display: swap;
   font-weight: 200;
   src:
-    local('Source Code Pro Extra Light italic'),
-    local('Source Code Pro-Extra Lightitalic'),
-    url('./files/source-code-pro-cyrillic-200-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/source-code-pro-cyrillic-200-italic.woff') format('woff'); /* Modern Browsers */
+    local('Source Code Pro ExtraLight Italic'),
+    local('SourceCodePro-ExtraLightIt'), 
+    url('./files/source-code-pro-cyrillic-200-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/source-code-pro-cyrillic-200-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* source-code-pro-300normal - cyrillic */
 @font-face {
@@ -29,10 +29,10 @@
   font-display: swap;
   font-weight: 300;
   src:
-    local('Source Code Pro Light '),
-    local('Source Code Pro-Light'),
-    url('./files/source-code-pro-cyrillic-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/source-code-pro-cyrillic-300.woff') format('woff'); /* Modern Browsers */
+    local('Source Code Pro Light'),
+    local('SourceCodePro-Light'), 
+    url('./files/source-code-pro-cyrillic-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/source-code-pro-cyrillic-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* source-code-pro-300italic - cyrillic */
 @font-face {
@@ -41,10 +41,10 @@
   font-display: swap;
   font-weight: 300;
   src:
-    local('Source Code Pro Light italic'),
-    local('Source Code Pro-Lightitalic'),
-    url('./files/source-code-pro-cyrillic-300-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/source-code-pro-cyrillic-300-italic.woff') format('woff'); /* Modern Browsers */
+    local('Source Code Pro Light Italic'),
+    local('SourceCodePro-LightIt'), 
+    url('./files/source-code-pro-cyrillic-300-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/source-code-pro-cyrillic-300-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* source-code-pro-400normal - cyrillic */
 @font-face {
@@ -53,10 +53,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Source Code Pro Regular '),
-    local('Source Code Pro-Regular'),
-    url('./files/source-code-pro-cyrillic-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/source-code-pro-cyrillic-400.woff') format('woff'); /* Modern Browsers */
+    local('Source Code Pro Regular'),
+    local('SourceCodePro-Regular'), 
+    url('./files/source-code-pro-cyrillic-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/source-code-pro-cyrillic-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* source-code-pro-400italic - cyrillic */
 @font-face {
@@ -65,10 +65,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Source Code Pro Regular italic'),
-    local('Source Code Pro-Regularitalic'),
-    url('./files/source-code-pro-cyrillic-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/source-code-pro-cyrillic-400-italic.woff') format('woff'); /* Modern Browsers */
+    local('Source Code Pro Italic'),
+    local('SourceCodePro-It'), 
+    url('./files/source-code-pro-cyrillic-400-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/source-code-pro-cyrillic-400-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* source-code-pro-500normal - cyrillic */
 @font-face {
@@ -77,10 +77,10 @@
   font-display: swap;
   font-weight: 500;
   src:
-    local('Source Code Pro Medium '),
-    local('Source Code Pro-Medium'),
-    url('./files/source-code-pro-cyrillic-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/source-code-pro-cyrillic-500.woff') format('woff'); /* Modern Browsers */
+    local('Source Code Pro Medium'),
+    local('SourceCodePro-Medium'), 
+    url('./files/source-code-pro-cyrillic-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/source-code-pro-cyrillic-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* source-code-pro-500italic - cyrillic */
 @font-face {
@@ -89,10 +89,10 @@
   font-display: swap;
   font-weight: 500;
   src:
-    local('Source Code Pro Medium italic'),
-    local('Source Code Pro-Mediumitalic'),
-    url('./files/source-code-pro-cyrillic-500-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/source-code-pro-cyrillic-500-italic.woff') format('woff'); /* Modern Browsers */
+    local('Source Code Pro Medium Italic'),
+    local('SourceCodePro-MediumIt'), 
+    url('./files/source-code-pro-cyrillic-500-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/source-code-pro-cyrillic-500-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* source-code-pro-600normal - cyrillic */
 @font-face {
@@ -101,10 +101,10 @@
   font-display: swap;
   font-weight: 600;
   src:
-    local('Source Code Pro SemiBold '),
-    local('Source Code Pro-SemiBold'),
-    url('./files/source-code-pro-cyrillic-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/source-code-pro-cyrillic-600.woff') format('woff'); /* Modern Browsers */
+    local('Source Code Pro SemiBold'),
+    local('SourceCodePro-SemiBold'), 
+    url('./files/source-code-pro-cyrillic-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/source-code-pro-cyrillic-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* source-code-pro-600italic - cyrillic */
 @font-face {
@@ -113,10 +113,10 @@
   font-display: swap;
   font-weight: 600;
   src:
-    local('Source Code Pro SemiBold italic'),
-    local('Source Code Pro-SemiBolditalic'),
-    url('./files/source-code-pro-cyrillic-600-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/source-code-pro-cyrillic-600-italic.woff') format('woff'); /* Modern Browsers */
+    local('Source Code Pro SemiBold Italic'),
+    local('SourceCodePro-SemiBoldIt'), 
+    url('./files/source-code-pro-cyrillic-600-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/source-code-pro-cyrillic-600-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* source-code-pro-700normal - cyrillic */
 @font-face {
@@ -125,10 +125,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Source Code Pro Bold '),
-    local('Source Code Pro-Bold'),
-    url('./files/source-code-pro-cyrillic-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/source-code-pro-cyrillic-700.woff') format('woff'); /* Modern Browsers */
+    local('Source Code Pro Bold'),
+    local('SourceCodePro-Bold'), 
+    url('./files/source-code-pro-cyrillic-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/source-code-pro-cyrillic-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* source-code-pro-700italic - cyrillic */
 @font-face {
@@ -137,10 +137,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Source Code Pro Bold italic'),
-    local('Source Code Pro-Bolditalic'),
-    url('./files/source-code-pro-cyrillic-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/source-code-pro-cyrillic-700-italic.woff') format('woff'); /* Modern Browsers */
+    local('Source Code Pro Bold Italic'),
+    local('SourceCodePro-BoldIt'), 
+    url('./files/source-code-pro-cyrillic-700-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/source-code-pro-cyrillic-700-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* source-code-pro-900normal - cyrillic */
 @font-face {
@@ -149,10 +149,10 @@
   font-display: swap;
   font-weight: 900;
   src:
-    local('Source Code Pro Black '),
-    local('Source Code Pro-Black'),
-    url('./files/source-code-pro-cyrillic-900.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/source-code-pro-cyrillic-900.woff') format('woff'); /* Modern Browsers */
+    local('Source Code Pro Black'),
+    local('SourceCodePro-Black'), 
+    url('./files/source-code-pro-cyrillic-900.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/source-code-pro-cyrillic-900.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* source-code-pro-900italic - cyrillic */
 @font-face {
@@ -161,8 +161,8 @@
   font-display: swap;
   font-weight: 900;
   src:
-    local('Source Code Pro Black italic'),
-    local('Source Code Pro-Blackitalic'),
-    url('./files/source-code-pro-cyrillic-900-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/source-code-pro-cyrillic-900-italic.woff') format('woff'); /* Modern Browsers */
+    local('Source Code Pro Black Italic'),
+    local('SourceCodePro-BlackIt'), 
+    url('./files/source-code-pro-cyrillic-900-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/source-code-pro-cyrillic-900-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

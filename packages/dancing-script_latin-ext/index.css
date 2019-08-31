@@ -5,10 +5,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Dancing Script Regular '),
-    local('Dancing Script-Regular'),
-    url('./files/dancing-script-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/dancing-script-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+    local('Dancing Script Regular'),
+    local('DancingScript-Regular'), 
+    url('./files/dancing-script-latin-ext-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/dancing-script-latin-ext-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* dancing-script-700normal - latin-ext */
 @font-face {
@@ -17,8 +17,8 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Dancing Script Bold '),
-    local('Dancing Script-Bold'),
-    url('./files/dancing-script-latin-ext-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/dancing-script-latin-ext-700.woff') format('woff'); /* Modern Browsers */
+    local('Dancing Script Bold'),
+    local('DancingScript-Bold'), 
+    url('./files/dancing-script-latin-ext-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/dancing-script-latin-ext-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

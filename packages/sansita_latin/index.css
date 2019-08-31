@@ -5,10 +5,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Sansita Regular '),
-    local('Sansita-Regular'),
-    url('./files/sansita-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/sansita-latin-400.woff') format('woff'); /* Modern Browsers */
+    local('Sansita Regular'),
+    local('Sansita-Regular'), 
+    url('./files/sansita-latin-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/sansita-latin-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* sansita-400italic - latin */
 @font-face {
@@ -17,10 +17,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Sansita Regular italic'),
-    local('Sansita-Regularitalic'),
-    url('./files/sansita-latin-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/sansita-latin-400-italic.woff') format('woff'); /* Modern Browsers */
+    local('Sansita Italic'),
+    local('Sansita-Italic'), 
+    url('./files/sansita-latin-400-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/sansita-latin-400-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* sansita-700normal - latin */
 @font-face {
@@ -29,10 +29,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Sansita Bold '),
-    local('Sansita-Bold'),
-    url('./files/sansita-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/sansita-latin-700.woff') format('woff'); /* Modern Browsers */
+    local('Sansita Bold'),
+    local('Sansita-Bold'), 
+    url('./files/sansita-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/sansita-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* sansita-700italic - latin */
 @font-face {
@@ -41,10 +41,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Sansita Bold italic'),
-    local('Sansita-Bolditalic'),
-    url('./files/sansita-latin-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/sansita-latin-700-italic.woff') format('woff'); /* Modern Browsers */
+    local('Sansita Bold Italic'),
+    local('Sansita-BoldItalic'), 
+    url('./files/sansita-latin-700-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/sansita-latin-700-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* sansita-800normal - latin */
 @font-face {
@@ -53,10 +53,10 @@
   font-display: swap;
   font-weight: 800;
   src:
-    local('Sansita ExtraBold '),
-    local('Sansita-ExtraBold'),
-    url('./files/sansita-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/sansita-latin-800.woff') format('woff'); /* Modern Browsers */
+    local('Sansita ExtraBold'),
+    local('Sansita-ExtraBold'), 
+    url('./files/sansita-latin-800.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/sansita-latin-800.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* sansita-800italic - latin */
 @font-face {
@@ -65,10 +65,10 @@
   font-display: swap;
   font-weight: 800;
   src:
-    local('Sansita ExtraBold italic'),
-    local('Sansita-ExtraBolditalic'),
-    url('./files/sansita-latin-800-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/sansita-latin-800-italic.woff') format('woff'); /* Modern Browsers */
+    local('Sansita ExtraBold Italic'),
+    local('Sansita-ExtraBoldItalic'), 
+    url('./files/sansita-latin-800-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/sansita-latin-800-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* sansita-900normal - latin */
 @font-face {
@@ -77,10 +77,10 @@
   font-display: swap;
   font-weight: 900;
   src:
-    local('Sansita Black '),
-    local('Sansita-Black'),
-    url('./files/sansita-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/sansita-latin-900.woff') format('woff'); /* Modern Browsers */
+    local('Sansita Black'),
+    local('Sansita-Black'), 
+    url('./files/sansita-latin-900.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/sansita-latin-900.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* sansita-900italic - latin */
 @font-face {
@@ -89,8 +89,8 @@
   font-display: swap;
   font-weight: 900;
   src:
-    local('Sansita Black italic'),
-    local('Sansita-Blackitalic'),
-    url('./files/sansita-latin-900-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/sansita-latin-900-italic.woff') format('woff'); /* Modern Browsers */
+    local('Sansita Black Italic'),
+    local('Sansita-BlackItalic'), 
+    url('./files/sansita-latin-900-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/sansita-latin-900-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

@@ -5,10 +5,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Gentium Book Basic Regular '),
-    local('Gentium Book Basic-Regular'),
-    url('./files/gentium-book-basic-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/gentium-book-basic-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+    local('Gentium Book Basic'),
+    local('GentiumBookBasic'), 
+    url('./files/gentium-book-basic-latin-ext-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/gentium-book-basic-latin-ext-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* gentium-book-basic-400italic - latin-ext */
 @font-face {
@@ -17,10 +17,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Gentium Book Basic Regular italic'),
-    local('Gentium Book Basic-Regularitalic'),
-    url('./files/gentium-book-basic-latin-ext-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/gentium-book-basic-latin-ext-400-italic.woff') format('woff'); /* Modern Browsers */
+    local('Gentium Book Basic Italic'),
+    local('GentiumBookBasic-Italic'), 
+    url('./files/gentium-book-basic-latin-ext-400-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/gentium-book-basic-latin-ext-400-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* gentium-book-basic-700normal - latin-ext */
 @font-face {
@@ -29,10 +29,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Gentium Book Basic Bold '),
-    local('Gentium Book Basic-Bold'),
-    url('./files/gentium-book-basic-latin-ext-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/gentium-book-basic-latin-ext-700.woff') format('woff'); /* Modern Browsers */
+    local('Gentium Book Basic Bold'),
+    local('GentiumBookBasic-Bold'), 
+    url('./files/gentium-book-basic-latin-ext-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/gentium-book-basic-latin-ext-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* gentium-book-basic-700italic - latin-ext */
 @font-face {
@@ -41,8 +41,8 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Gentium Book Basic Bold italic'),
-    local('Gentium Book Basic-Bolditalic'),
-    url('./files/gentium-book-basic-latin-ext-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/gentium-book-basic-latin-ext-700-italic.woff') format('woff'); /* Modern Browsers */
+    local('Gentium Book Basic Bold Italic'),
+    local('GentiumBookBasic-BoldItalic'), 
+    url('./files/gentium-book-basic-latin-ext-700-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/gentium-book-basic-latin-ext-700-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

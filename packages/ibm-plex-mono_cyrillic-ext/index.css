@@ -5,10 +5,10 @@
   font-display: swap;
   font-weight: 100;
   src:
-    local('IBM Plex Mono Thin '),
-    local('IBM Plex Mono-Thin'),
-    url('./files/ibm-plex-mono-cyrillic-ext-100.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/ibm-plex-mono-cyrillic-ext-100.woff') format('woff'); /* Modern Browsers */
+    local('IBM Plex Mono Thin'),
+    local('IBMPlexMono-Thin'), 
+    url('./files/ibm-plex-mono-cyrillic-ext-100.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/ibm-plex-mono-cyrillic-ext-100.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* ibm-plex-mono-100italic - cyrillic-ext */
 @font-face {
@@ -17,10 +17,10 @@
   font-display: swap;
   font-weight: 100;
   src:
-    local('IBM Plex Mono Thin italic'),
-    local('IBM Plex Mono-Thinitalic'),
-    url('./files/ibm-plex-mono-cyrillic-ext-100-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/ibm-plex-mono-cyrillic-ext-100-italic.woff') format('woff'); /* Modern Browsers */
+    local('IBM Plex Mono Thin Italic'),
+    local('IBMPlexMono-ThinItalic'), 
+    url('./files/ibm-plex-mono-cyrillic-ext-100-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/ibm-plex-mono-cyrillic-ext-100-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* ibm-plex-mono-200normal - cyrillic-ext */
 @font-face {
@@ -29,10 +29,10 @@
   font-display: swap;
   font-weight: 200;
   src:
-    local('IBM Plex Mono Extra Light '),
-    local('IBM Plex Mono-Extra Light'),
-    url('./files/ibm-plex-mono-cyrillic-ext-200.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/ibm-plex-mono-cyrillic-ext-200.woff') format('woff'); /* Modern Browsers */
+    local('IBM Plex Mono ExtraLight'),
+    local('IBMPlexMono-ExtraLight'), 
+    url('./files/ibm-plex-mono-cyrillic-ext-200.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/ibm-plex-mono-cyrillic-ext-200.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* ibm-plex-mono-200italic - cyrillic-ext */
 @font-face {
@@ -41,10 +41,10 @@
   font-display: swap;
   font-weight: 200;
   src:
-    local('IBM Plex Mono Extra Light italic'),
-    local('IBM Plex Mono-Extra Lightitalic'),
-    url('./files/ibm-plex-mono-cyrillic-ext-200-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/ibm-plex-mono-cyrillic-ext-200-italic.woff') format('woff'); /* Modern Browsers */
+    local('IBM Plex Mono ExtraLight Italic'),
+    local('IBMPlexMono-ExtraLightItalic'), 
+    url('./files/ibm-plex-mono-cyrillic-ext-200-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/ibm-plex-mono-cyrillic-ext-200-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* ibm-plex-mono-300normal - cyrillic-ext */
 @font-face {
@@ -53,10 +53,10 @@
   font-display: swap;
   font-weight: 300;
   src:
-    local('IBM Plex Mono Light '),
-    local('IBM Plex Mono-Light'),
-    url('./files/ibm-plex-mono-cyrillic-ext-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/ibm-plex-mono-cyrillic-ext-300.woff') format('woff'); /* Modern Browsers */
+    local('IBM Plex Mono Light'),
+    local('IBMPlexMono-Light'), 
+    url('./files/ibm-plex-mono-cyrillic-ext-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/ibm-plex-mono-cyrillic-ext-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* ibm-plex-mono-300italic - cyrillic-ext */
 @font-face {
@@ -65,10 +65,10 @@
   font-display: swap;
   font-weight: 300;
   src:
-    local('IBM Plex Mono Light italic'),
-    local('IBM Plex Mono-Lightitalic'),
-    url('./files/ibm-plex-mono-cyrillic-ext-300-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/ibm-plex-mono-cyrillic-ext-300-italic.woff') format('woff'); /* Modern Browsers */
+    local('IBM Plex Mono Light Italic'),
+    local('IBMPlexMono-LightItalic'), 
+    url('./files/ibm-plex-mono-cyrillic-ext-300-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/ibm-plex-mono-cyrillic-ext-300-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* ibm-plex-mono-400normal - cyrillic-ext */
 @font-face {
@@ -77,10 +77,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('IBM Plex Mono Regular '),
-    local('IBM Plex Mono-Regular'),
-    url('./files/ibm-plex-mono-cyrillic-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/ibm-plex-mono-cyrillic-ext-400.woff') format('woff'); /* Modern Browsers */
+    local('IBM Plex Mono'),
+    local('IBMPlexMono'), 
+    url('./files/ibm-plex-mono-cyrillic-ext-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/ibm-plex-mono-cyrillic-ext-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* ibm-plex-mono-400italic - cyrillic-ext */
 @font-face {
@@ -89,10 +89,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('IBM Plex Mono Regular italic'),
-    local('IBM Plex Mono-Regularitalic'),
-    url('./files/ibm-plex-mono-cyrillic-ext-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/ibm-plex-mono-cyrillic-ext-400-italic.woff') format('woff'); /* Modern Browsers */
+    local('IBM Plex Mono Italic'),
+    local('IBMPlexMono-Italic'), 
+    url('./files/ibm-plex-mono-cyrillic-ext-400-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/ibm-plex-mono-cyrillic-ext-400-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* ibm-plex-mono-500normal - cyrillic-ext */
 @font-face {
@@ -101,10 +101,10 @@
   font-display: swap;
   font-weight: 500;
   src:
-    local('IBM Plex Mono Medium '),
-    local('IBM Plex Mono-Medium'),
-    url('./files/ibm-plex-mono-cyrillic-ext-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/ibm-plex-mono-cyrillic-ext-500.woff') format('woff'); /* Modern Browsers */
+    local('IBM Plex Mono Medium'),
+    local('IBMPlexMono-Medium'), 
+    url('./files/ibm-plex-mono-cyrillic-ext-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/ibm-plex-mono-cyrillic-ext-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* ibm-plex-mono-500italic - cyrillic-ext */
 @font-face {
@@ -113,10 +113,10 @@
   font-display: swap;
   font-weight: 500;
   src:
-    local('IBM Plex Mono Medium italic'),
-    local('IBM Plex Mono-Mediumitalic'),
-    url('./files/ibm-plex-mono-cyrillic-ext-500-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/ibm-plex-mono-cyrillic-ext-500-italic.woff') format('woff'); /* Modern Browsers */
+    local('IBM Plex Mono Medium Italic'),
+    local('IBMPlexMono-MediumItalic'), 
+    url('./files/ibm-plex-mono-cyrillic-ext-500-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/ibm-plex-mono-cyrillic-ext-500-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* ibm-plex-mono-600normal - cyrillic-ext */
 @font-face {
@@ -125,10 +125,10 @@
   font-display: swap;
   font-weight: 600;
   src:
-    local('IBM Plex Mono SemiBold '),
-    local('IBM Plex Mono-SemiBold'),
-    url('./files/ibm-plex-mono-cyrillic-ext-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/ibm-plex-mono-cyrillic-ext-600.woff') format('woff'); /* Modern Browsers */
+    local('IBM Plex Mono SemiBold'),
+    local('IBMPlexMono-SemiBold'), 
+    url('./files/ibm-plex-mono-cyrillic-ext-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/ibm-plex-mono-cyrillic-ext-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* ibm-plex-mono-600italic - cyrillic-ext */
 @font-face {
@@ -137,10 +137,10 @@
   font-display: swap;
   font-weight: 600;
   src:
-    local('IBM Plex Mono SemiBold italic'),
-    local('IBM Plex Mono-SemiBolditalic'),
-    url('./files/ibm-plex-mono-cyrillic-ext-600-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/ibm-plex-mono-cyrillic-ext-600-italic.woff') format('woff'); /* Modern Browsers */
+    local('IBM Plex Mono SemiBold Italic'),
+    local('IBMPlexMono-SemiBoldItalic'), 
+    url('./files/ibm-plex-mono-cyrillic-ext-600-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/ibm-plex-mono-cyrillic-ext-600-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* ibm-plex-mono-700normal - cyrillic-ext */
 @font-face {
@@ -149,10 +149,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('IBM Plex Mono Bold '),
-    local('IBM Plex Mono-Bold'),
-    url('./files/ibm-plex-mono-cyrillic-ext-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/ibm-plex-mono-cyrillic-ext-700.woff') format('woff'); /* Modern Browsers */
+    local('IBM Plex Mono Bold'),
+    local('IBMPlexMono-Bold'), 
+    url('./files/ibm-plex-mono-cyrillic-ext-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/ibm-plex-mono-cyrillic-ext-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* ibm-plex-mono-700italic - cyrillic-ext */
 @font-face {
@@ -161,8 +161,8 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('IBM Plex Mono Bold italic'),
-    local('IBM Plex Mono-Bolditalic'),
-    url('./files/ibm-plex-mono-cyrillic-ext-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/ibm-plex-mono-cyrillic-ext-700-italic.woff') format('woff'); /* Modern Browsers */
+    local('IBM Plex Mono Bold Italic'),
+    local('IBMPlexMono-BoldItalic'), 
+    url('./files/ibm-plex-mono-cyrillic-ext-700-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/ibm-plex-mono-cyrillic-ext-700-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

@@ -5,10 +5,9 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Nanum Myeongjo Regular '),
-    local('Nanum Myeongjo-Regular'),
-    url('./files/nanum-myeongjo-korean-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/nanum-myeongjo-korean-400.woff') format('woff'); /* Modern Browsers */
+    local('NanumMyeongjo'), 
+    url('./files/nanum-myeongjo-korean-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/nanum-myeongjo-korean-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* nanum-myeongjo-700normal - korean */
 @font-face {
@@ -17,10 +16,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Nanum Myeongjo Bold '),
-    local('Nanum Myeongjo-Bold'),
-    url('./files/nanum-myeongjo-korean-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/nanum-myeongjo-korean-700.woff') format('woff'); /* Modern Browsers */
+    local('NanumMyeongjo Bold'),
+    local('NanumMyeongjoBold'), 
+    url('./files/nanum-myeongjo-korean-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/nanum-myeongjo-korean-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* nanum-myeongjo-800normal - korean */
 @font-face {
@@ -29,8 +28,8 @@
   font-display: swap;
   font-weight: 800;
   src:
-    local('Nanum Myeongjo ExtraBold '),
-    local('Nanum Myeongjo-ExtraBold'),
-    url('./files/nanum-myeongjo-korean-800.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/nanum-myeongjo-korean-800.woff') format('woff'); /* Modern Browsers */
+    local('NanumMyeongjo ExtraBold'),
+    local('NanumMyeongjoExtraBold'), 
+    url('./files/nanum-myeongjo-korean-800.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/nanum-myeongjo-korean-800.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
