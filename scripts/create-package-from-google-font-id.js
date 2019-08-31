@@ -1,15 +1,10 @@
 require("shelljs/global")
 require("shelljs").config.silent = true
 const requestSync = require(`sync-request`)
-const request = require(`request`)
 const async = require(`async`)
 const fs = require(`fs-extra`)
 const path = require(`path`)
-const md5Dir = require(`md5-dir`)
-const md5File = require('md5-file')
-const log = require("single-line-log").stdout
 const _ = require("lodash")
-const util = require('util')
 
 const {packageJson, fontFace, readme} = require(`./templates`)
 const download = require(`./download-file`)
@@ -59,7 +54,7 @@ subsets.forEach(subset => {
 
     // Make git ignore typeface files so we're not checking in GBs of data.
     fs.writeFileSync(typefaceDir + `/.gitignore`, "/files")
-    fs.writeFileSync(typefaceDir + `/.npmignore`, "")
+    fs.writeFileSync(typefaceDir + `/.npmignore`, "/gstatic")
     fs.writeFileSync(typefaceDir + `/files/.gitignore`, "")
 
     const makeFontFilePath = (item, subsetName, extension) => {
@@ -102,7 +97,6 @@ subsets.forEach(subset => {
                         } else {
                             const urlMarkerFile = path.join(typefaceDir, makeFontFilePathInDirectory(item, subset[0], extension, './gstatic'))
                             fs.writeFileSync(urlMarkerFile+'.link', url)
-                            fs.writeFileSync(urlMarkerFile+'.md5', md5File.sync(dest))
                         }
                         // log(`Finished downloading "${url}" to "${dest}"`)
                         downloadDone()
@@ -112,87 +106,84 @@ subsets.forEach(subset => {
             )
         },
         (err, results) => {
-            // Create md5 hash of directory and write this out so git/lerna knows if anything
-            // has changed.
-            md5Dir(`${typefaceDir}/files`, (err, filesHash) => {
-                // If a hash file already exists, check if anything has changed. If it has
-                // then update the hash, otherwise exit.
-                let changed = true
-                if (fs.existsSync(`${typefaceDir}/files-hash.json`)) {
-                    const filesHashJson = JSON.parse(
-                        fs.readFileSync(`${typefaceDir}/files-hash.json`, `utf-8`)
-                    )
-                    changed = filesHashJson.hash !== filesHash
-                }
-
-                if (changed) {
-                    console.log("font changed", defSubsetTypeface.family, subset[0], subset[1].storeID)
-                } else {
-                    console.log("font not changed", defSubsetTypeface.family, subset[0], subset[1].storeID)
-                }
-
-                fs.writeFileSync(
-                    `${typefaceDir}/files-hash.json`,
-                    JSON.stringify({
-                        hash: filesHash,
-                        lastModified: subset[1].lastModified,
-                    })
+            // If a hash file already exists, check if anything has changed. If it has
+            // then update the hash, otherwise exit.
+            let changed = true
+            if (fs.existsSync(`${typefaceDir}/files-last-modified.json`)) {
+                const filesHashJson = JSON.parse(
+                    fs.readFileSync(`${typefaceDir}/files-last-modified.json`, `utf-8`)
                 )
+                changed = filesHashJson.lastModified !== subset[1].lastModified
+            }
 
-                // Write out the README.md
-                const packageReadme = readme({
+            if (changed) {
+                console.log("font changed", defSubsetTypeface.family, subset[0], subset[1].storeID)
+            } else {
+                console.log("font not changed", defSubsetTypeface.family, subset[0], subset[1].storeID)
+            }
+
+            fs.writeFileSync(
+                `${typefaceDir}/files-last-modified.json`,
+                JSON.stringify({
+                    storeID: subset[1].storeID,
+                    lastModified: subset[1].lastModified,
+                    version: subset[1].version
+                })
+            )
+
+            // Write out the README.md
+            const packageReadme = readme({
+                typefaceId: defSubsetTypeface.id,
+                typefaceSubset: subset[0],
+                typefaceName: defSubsetTypeface.family,
+                count: packagesCount,
+            })
+
+            fs.writeFileSync(`${typefaceDir}/README.md`, packageReadme)
+
+            if (changed) {
+                // Write out package.json file
+                const packageJSON = packageJson({
                     typefaceId: defSubsetTypeface.id,
                     typefaceSubset: subset[0],
                     typefaceName: defSubsetTypeface.family,
-                    count: packagesCount,
                 })
 
-                fs.writeFileSync(`${typefaceDir}/README.md`, packageReadme)
+                fs.writeFileSync(`${typefaceDir}/package.json`, packageJSON)
+            }
 
-                if (changed) {
-                    // Write out package.json file
-                    const packageJSON = packageJson({
-                        typefaceId: defSubsetTypeface.id,
-                        typefaceSubset: subset[0],
-                        typefaceName: defSubsetTypeface.family,
-                    })
-
-                    fs.writeFileSync(`${typefaceDir}/package.json`, packageJSON)
+            // Write out index.css file
+            const variants = _.sortBy(subset[1].variants, item => {
+                let sortString = item.fontWeight
+                if (item.fontStyle === `italic`) {
+                    sortString += item.fontStyle
                 }
-
-                // Write out index.css file
-                const variants = _.sortBy(subset[1].variants, item => {
-                    let sortString = item.fontWeight
-                    if (item.fontStyle === `italic`) {
-                        sortString += item.fontStyle
-                    }
-                    return sortString
-                })
-                css = variants.map(item => {
-                    if (item.errored) {
-                        return false
-                    }
-                    let style = ""
-                    if (item.fontStyle !== `normal`) {
-                        style = item.fontStyle
-                    }
-                    return fontFace({
-                        typefaceId: defSubsetTypeface.id,
-                        typefaceSubset: subset[0],
-                        typefaceName: defSubsetTypeface.family,
-                        style,
-                        styleWithNormal: item.fontStyle,
-                        weight: item.fontWeight,
-                        commonWeightName: commonWeightNameMap(item.fontWeight),
-                        woffPath: makeFontFilePath(item, subset[0], "woff"),
-                        woff2Path: makeFontFilePath(item, subset[0], "woff2"),
-                    })
-                })
-
-                const cssPath = `${typefaceDir}/index.css`
-                fs.writeFileSync(cssPath, css.join(""))
-                console.log("finished downloading", defSubsetTypeface.family, subset[0], subset[1].storeID)
+                return sortString
             })
+            const css = variants.map(item => {
+                if (item.errored) {
+                    return false
+                }
+                let style = ""
+                if (item.fontStyle !== `normal`) {
+                    style = item.fontStyle
+                }
+                return fontFace({
+                    typefaceId: defSubsetTypeface.id,
+                    typefaceSubset: subset[0],
+                    typefaceName: defSubsetTypeface.family,
+                    style,
+                    styleWithNormal: item.fontStyle,
+                    weight: item.fontWeight,
+                    commonWeightName: commonWeightNameMap(item.fontWeight),
+                    woffPath: makeFontFilePath(item, subset[0], "woff"),
+                    woff2Path: makeFontFilePath(item, subset[0], "woff2"),
+                })
+            })
+
+            const cssPath = `${typefaceDir}/index.css`
+            fs.writeFileSync(cssPath, css.join(""))
+            console.log("finished downloading", defSubsetTypeface.family, subset[0], subset[1].storeID)
         }
     )
 })
