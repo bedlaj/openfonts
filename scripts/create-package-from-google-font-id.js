@@ -66,7 +66,6 @@ subsets.forEach(subset => {
         if (item.fontStyle !== `normal`) {
             style = item.fontStyle
         }
-        //console.log(`./files/${defSubsetTypeface.id}-${subsetName}-${item.fontWeight}${style ? '-' + style : ''}.${extension}`)
         return `${directory}/${defSubsetTypeface.id}-${subsetName}-${item.fontWeight}${style ? '-' + style : ''}.${extension}`
     }
 
@@ -98,7 +97,6 @@ subsets.forEach(subset => {
                             const urlMarkerFile = path.join(typefaceDir, makeFontFilePathInDirectory(item, subset[0], extension, './gstatic'))
                             fs.writeFileSync(urlMarkerFile+'.link', url)
                         }
-                        // log(`Finished downloading "${url}" to "${dest}"`)
                         downloadDone()
                     })
                 },
@@ -106,29 +104,9 @@ subsets.forEach(subset => {
             )
         },
         (err, results) => {
-            // If a hash file already exists, check if anything has changed. If it has
-            // then update the hash, otherwise exit.
-            let changed = true
-            if (fs.existsSync(`${typefaceDir}/files-last-modified.json`)) {
-                const filesHashJson = JSON.parse(
-                    fs.readFileSync(`${typefaceDir}/files-last-modified.json`, `utf-8`)
-                )
-                changed = filesHashJson.lastModified !== subset[1].lastModified
-            }
-
-            if (changed) {
-                console.log("font changed", defSubsetTypeface.family, subset[0], subset[1].storeID)
-            } else {
-                console.log("font not changed", defSubsetTypeface.family, subset[0], subset[1].storeID)
-            }
-
             fs.writeFileSync(
-                `${typefaceDir}/files-last-modified.json`,
-                JSON.stringify({
-                    storeID: subset[1].storeID,
-                    lastModified: subset[1].lastModified,
-                    version: subset[1].version
-                })
+                `${typefaceDir}/font-descriptor.json`,
+                JSON.stringify(subset[1])
             )
 
             // Write out the README.md
@@ -141,16 +119,14 @@ subsets.forEach(subset => {
 
             fs.writeFileSync(`${typefaceDir}/README.md`, packageReadme)
 
-            if (changed) {
-                // Write out package.json file
-                const packageJSON = packageJson({
-                    typefaceId: defSubsetTypeface.id,
-                    typefaceSubset: subset[0],
-                    typefaceName: defSubsetTypeface.family,
-                })
+            // Write out package.json file
+            const packageJSON = packageJson({
+                typefaceId: defSubsetTypeface.id,
+                typefaceSubset: subset[0],
+                typefaceName: defSubsetTypeface.family,
+            })
 
-                fs.writeFileSync(`${typefaceDir}/package.json`, packageJSON)
-            }
+            fs.writeFileSync(`${typefaceDir}/package.json`, packageJSON)
 
             // Write out index.css file
             const variants = _.sortBy(subset[1].variants, item => {
