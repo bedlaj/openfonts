@@ -1,0 +1,89 @@
+{
+  "id": "anonymous-pro",
+  "family": "Anonymous Pro",
+  "variants": [
+    {
+      "id": "regular",
+      "ttf": "https://fonts.gstatic.com/s/anonymouspro/v13/rP2Bp2a15UIB7Un-bOeISG3pHlg28A.ttf",
+      "fontFamily": "'Anonymous Pro'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Anonymous Pro Regular",
+        "AnonymousPro-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/anonymouspro/v13/rP2Bp2a15UIB7Un-bOeISG3pHlg28Q.eot",
+      "woff": "https://fonts.gstatic.com/s/anonymouspro/v13/rP2Bp2a15UIB7Un-bOeISG3pHlg28w.woff",
+      "woff2": "https://fonts.gstatic.com/s/anonymouspro/v13/rP2Bp2a15UIB7Un-bOeISG3pHlg29Q.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=rP2Bp2a15UIB7Un-bOeISG3pHlg28g&skey=5f69fa382b387122&v=v13#AnonymousPro",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/anonymouspro/v13/rP2cp2a15UIB7Un-bOeISG3pFuAT4C3c6Q.eot",
+      "fontFamily": "'Anonymous Pro'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/anonymouspro/v13/rP2cp2a15UIB7Un-bOeISG3pFuAT4C3c6w.woff",
+      "local": [
+        "Anonymous Pro Bold",
+        "AnonymousPro-Bold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/anonymouspro/v13/rP2cp2a15UIB7Un-bOeISG3pFuAT4C3c7Q.woff2",
+      "ttf": "https://fonts.gstatic.com/s/anonymouspro/v13/rP2cp2a15UIB7Un-bOeISG3pFuAT4C3c6A.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=rP2cp2a15UIB7Un-bOeISG3pFuAT4C3c6g&skey=64760cc364a151ce&v=v13#AnonymousPro",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "eot": "https://fonts.gstatic.com/s/anonymouspro/v13/rP2fp2a15UIB7Un-bOeISG3pHl4G9An9.eot",
+      "fontFamily": "'Anonymous Pro'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/anonymouspro/v13/rP2fp2a15UIB7Un-bOeISG3pHl4G9An5.woff2",
+      "local": [
+        "Anonymous Pro Italic",
+        "AnonymousPro-Italic"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=rP2fp2a15UIB7Un-bOeISG3pHl4G9An-&skey=8184eb3e0bc66eda&v=v13#AnonymousPro",
+      "ttf": "https://fonts.gstatic.com/s/anonymouspro/v13/rP2fp2a15UIB7Un-bOeISG3pHl4G9An8.ttf",
+      "woff": "https://fonts.gstatic.com/s/anonymouspro/v13/rP2fp2a15UIB7Un-bOeISG3pHl4G9An_.woff",
+      "errored": false
+    },
+    {
+      "id": "700italic",
+      "woff": "https://fonts.gstatic.com/s/anonymouspro/v13/rP2ap2a15UIB7Un-bOeISG3pHl4OTCzs7Iuw.woff",
+      "fontFamily": "'Anonymous Pro'",
+      "fontStyle": "italic",
+      "fontWeight": "700",
+      "local": [
+        "Anonymous Pro Bold Italic",
+        "AnonymousPro-BoldItalic"
+      ],
+      "eot": "https://fonts.gstatic.com/s/anonymouspro/v13/rP2ap2a15UIB7Un-bOeISG3pHl4OTCzs7Iuy.eot",
+      "woff2": "https://fonts.gstatic.com/s/anonymouspro/v13/rP2ap2a15UIB7Un-bOeISG3pHl4OTCzs7Iu2.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=rP2ap2a15UIB7Un-bOeISG3pHl4OTCzs7Iux&skey=eade76c5c69b9140&v=v13#AnonymousPro",
+      "ttf": "https://fonts.gstatic.com/s/anonymouspro/v13/rP2ap2a15UIB7Un-bOeISG3pHl4OTCzs7Iuz.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "greek",
+    "latin",
+    "latin-ext",
+    "cyrillic"
+  ],
+  "category": "monospace",
+  "version": "v13",
+  "lastModified": "2019-07-16",
+  "popularity": 370,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "greek": true,
+    "latin": true,
+    "latin-ext": false,
+    "cyrillic": false
+  },
+  "storeID": "latin_greek"
+}

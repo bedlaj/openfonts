@@ -1,0 +1,95 @@
+{
+  "id": "roboto-slab",
+  "family": "Roboto Slab",
+  "variants": [
+    {
+      "id": "100",
+      "woff": "https://fonts.gstatic.com/s/robotoslab/v9/BngOUXZYTXPIvIBgJJSb6u-u1qOh4g.woff",
+      "fontFamily": "'Roboto Slab'",
+      "fontStyle": "normal",
+      "fontWeight": "100",
+      "local": [
+        "Roboto Slab Thin",
+        "RobotoSlab-Thin"
+      ],
+      "eot": "https://fonts.gstatic.com/s/robotoslab/v9/BngOUXZYTXPIvIBgJJSb6u-u1qOh4A.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=BngOUXZYTXPIvIBgJJSb6u-u1qOh4w&skey=483faf1f3fd8dc4d&v=v9#RobotoSlab",
+      "woff2": "https://fonts.gstatic.com/s/robotoslab/v9/BngOUXZYTXPIvIBgJJSb6u-u1qOh5A.woff2",
+      "ttf": "https://fonts.gstatic.com/s/robotoslab/v9/BngOUXZYTXPIvIBgJJSb6u-u1qOh4Q.ttf",
+      "errored": false
+    },
+    {
+      "id": "300",
+      "eot": "https://fonts.gstatic.com/s/robotoslab/v9/BngRUXZYTXPIvIBgJJSb6u9mxLCCwRk.eot",
+      "fontFamily": "'Roboto Slab'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "woff": "https://fonts.gstatic.com/s/robotoslab/v9/BngRUXZYTXPIvIBgJJSb6u9mxLCCwRs.woff",
+      "local": [
+        "Roboto Slab Light",
+        "RobotoSlab-Light"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/robotoslab/v9/BngRUXZYTXPIvIBgJJSb6u9mxLCCwR0.woff2",
+      "ttf": "https://fonts.gstatic.com/s/robotoslab/v9/BngRUXZYTXPIvIBgJJSb6u9mxLCCwRg.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=BngRUXZYTXPIvIBgJJSb6u9mxLCCwRo&skey=5b48fccf0dc70db6&v=v9#RobotoSlab",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/robotoslab/v9/BngMUXZYTXPIvIBgJJSb6ufJ5qE.eot",
+      "fontFamily": "'Roboto Slab'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/robotoslab/v9/BngMUXZYTXPIvIBgJJSb6ufJ5qU.woff2",
+      "local": [
+        "Roboto Slab Regular",
+        "RobotoSlab-Regular"
+      ],
+      "woff": "https://fonts.gstatic.com/s/robotoslab/v9/BngMUXZYTXPIvIBgJJSb6ufJ5qM.woff",
+      "ttf": "https://fonts.gstatic.com/s/robotoslab/v9/BngMUXZYTXPIvIBgJJSb6ufJ5qA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=BngMUXZYTXPIvIBgJJSb6ufJ5qI&skey=a9ad6a4717e923f0&v=v9#RobotoSlab",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff2": "https://fonts.gstatic.com/s/robotoslab/v9/BngRUXZYTXPIvIBgJJSb6u92w7CCwR0.woff2",
+      "fontFamily": "'Roboto Slab'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Roboto Slab Bold",
+        "RobotoSlab-Bold"
+      ],
+      "eot": "https://fonts.gstatic.com/s/robotoslab/v9/BngRUXZYTXPIvIBgJJSb6u92w7CCwRk.eot",
+      "woff": "https://fonts.gstatic.com/s/robotoslab/v9/BngRUXZYTXPIvIBgJJSb6u92w7CCwRs.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=BngRUXZYTXPIvIBgJJSb6u92w7CCwRo&skey=481cfd96f5185089&v=v9#RobotoSlab",
+      "ttf": "https://fonts.gstatic.com/s/robotoslab/v9/BngRUXZYTXPIvIBgJJSb6u92w7CCwRg.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "greek-ext",
+    "vietnamese",
+    "greek",
+    "latin",
+    "latin-ext",
+    "cyrillic",
+    "cyrillic-ext"
+  ],
+  "category": "serif",
+  "version": "v9",
+  "lastModified": "2019-07-22",
+  "popularity": 11,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "greek-ext": false,
+    "vietnamese": false,
+    "greek": false,
+    "latin": true,
+    "latin-ext": false,
+    "cyrillic": true,
+    "cyrillic-ext": false
+  },
+  "storeID": "cyrillic_latin"
+}

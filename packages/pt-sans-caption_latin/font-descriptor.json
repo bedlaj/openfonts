@@ -1,0 +1,57 @@
+{
+  "id": "pt-sans-caption",
+  "family": "PT Sans Caption",
+  "variants": [
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/ptsanscaption/v12/0FlMVP6Hrxmt7-fsUFhlFXNIlpcaeg_1.eot",
+      "fontFamily": "'PT Sans Caption'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "ttf": "https://fonts.gstatic.com/s/ptsanscaption/v12/0FlMVP6Hrxmt7-fsUFhlFXNIlpcaeg_0.ttf",
+      "local": [
+        "PT Sans Caption",
+        "PTSans-Caption"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=0FlMVP6Hrxmt7-fsUFhlFXNIlpcaeg_2&skey=3b791ca205af4a6f&v=v12#PTSansCaption",
+      "woff2": "https://fonts.gstatic.com/s/ptsanscaption/v12/0FlMVP6Hrxmt7-fsUFhlFXNIlpcaeg_x.woff2",
+      "woff": "https://fonts.gstatic.com/s/ptsanscaption/v12/0FlMVP6Hrxmt7-fsUFhlFXNIlpcaeg_3.woff",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "svg": "https://fonts.gstatic.com/l/font?kit=0FlJVP6Hrxmt7-fsUFhlFXNIlpcSwSrkTA-o&skey=dca78bc6106fe068&v=v12#PTSansCaption",
+      "fontFamily": "'PT Sans Caption'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "PT Sans Caption Bold",
+        "PTSans-CaptionBold"
+      ],
+      "eot": "https://fonts.gstatic.com/s/ptsanscaption/v12/0FlJVP6Hrxmt7-fsUFhlFXNIlpcSwSrkTA-r.eot",
+      "woff2": "https://fonts.gstatic.com/s/ptsanscaption/v12/0FlJVP6Hrxmt7-fsUFhlFXNIlpcSwSrkTA-v.woff2",
+      "ttf": "https://fonts.gstatic.com/s/ptsanscaption/v12/0FlJVP6Hrxmt7-fsUFhlFXNIlpcSwSrkTA-q.ttf",
+      "woff": "https://fonts.gstatic.com/s/ptsanscaption/v12/0FlJVP6Hrxmt7-fsUFhlFXNIlpcSwSrkTA-p.woff",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "cyrillic",
+    "cyrillic-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v12",
+  "lastModified": "2019-07-17",
+  "popularity": 114,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false,
+    "cyrillic": false,
+    "cyrillic-ext": false
+  },
+  "storeID": "latin"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "cute-font",
+  "family": "Cute Font",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/cutefont/v8/Noaw6Uny2oWPbSHMrY6flZlS.woff",
+      "fontFamily": "'Cute Font'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Cute Font Regular",
+        "CuteFont-Regular"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=Noaw6Uny2oWPbSHMrY6flZlT&skey=ff5dcd67a08b1822&v=v8#CuteFont",
+      "eot": "https://fonts.gstatic.com/s/cutefont/v8/Noaw6Uny2oWPbSHMrY6flZlQ.eot",
+      "ttf": "https://fonts.gstatic.com/s/cutefont/v8/Noaw6Uny2oWPbSHMrY6flZlR.ttf",
+      "woff2": "https://fonts.gstatic.com/s/cutefont/v8/Noaw6Uny2oWPbSHMrY6flZlU.woff2",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "korean",
+    "latin"
+  ],
+  "category": "display",
+  "version": "v8",
+  "lastModified": "2019-07-16",
+  "popularity": 919,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "korean": true,
+    "latin": true
+  },
+  "storeID": "latin_korean"
+}

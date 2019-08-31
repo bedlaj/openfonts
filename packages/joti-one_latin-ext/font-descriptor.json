@@ -1,0 +1,37 @@
+{
+  "id": "joti-one",
+  "family": "Joti One",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/jotione/v8/Z9XVDmdJQAmWm9TwabTX6Ow.woff2",
+      "fontFamily": "'Joti One'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Joti One",
+        "JotiOne-Regular"
+      ],
+      "woff": "https://fonts.gstatic.com/s/jotione/v8/Z9XVDmdJQAmWm9TwabTX6Oo.woff",
+      "eot": "https://fonts.gstatic.com/s/jotione/v8/Z9XVDmdJQAmWm9TwabTX6Og.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Z9XVDmdJQAmWm9TwabTX6Os&skey=62c1bf261cc3b314&v=v8#JotiOne",
+      "ttf": "https://fonts.gstatic.com/s/jotione/v8/Z9XVDmdJQAmWm9TwabTX6Ok.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "display",
+  "version": "v8",
+  "lastModified": "2019-07-16",
+  "popularity": 792,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin"
+}

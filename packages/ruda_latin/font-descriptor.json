@@ -1,0 +1,69 @@
+{
+  "id": "ruda",
+  "family": "Ruda",
+  "variants": [
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/ruda/v11/k3kfo8YQJOpFqngdbA.eot",
+      "fontFamily": "'Ruda'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "svg": "https://fonts.gstatic.com/l/font?kit=k3kfo8YQJOpFqngdbw&skey=260e836d3140a70d&v=v11#Ruda",
+      "local": [
+        "Ruda Regular",
+        "Ruda-Regular"
+      ],
+      "woff": "https://fonts.gstatic.com/s/ruda/v11/k3kfo8YQJOpFqngdbg.woff",
+      "ttf": "https://fonts.gstatic.com/s/ruda/v11/k3kfo8YQJOpFqngdbQ.ttf",
+      "woff2": "https://fonts.gstatic.com/s/ruda/v11/k3kfo8YQJOpFqngdaA.woff2",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "ttf": "https://fonts.gstatic.com/s/ruda/v11/k3kQo8YQJOpFosM4fdnoKw.ttf",
+      "fontFamily": "'Ruda'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Ruda Bold",
+        "Ruda-Bold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/ruda/v11/k3kQo8YQJOpFosM4fdnoLg.woff2",
+      "eot": "https://fonts.gstatic.com/s/ruda/v11/k3kQo8YQJOpFosM4fdnoKg.eot",
+      "woff": "https://fonts.gstatic.com/s/ruda/v11/k3kQo8YQJOpFosM4fdnoKA.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=k3kQo8YQJOpFosM4fdnoKQ&skey=a4a4647a62db112f&v=v11#Ruda",
+      "errored": false
+    },
+    {
+      "id": "900",
+      "woff2": "https://fonts.gstatic.com/s/ruda/v11/k3kQo8YQJOpFovs6fdnoLg.woff2",
+      "fontFamily": "'Ruda'",
+      "fontStyle": "normal",
+      "fontWeight": "900",
+      "local": [
+        "Ruda Black",
+        "Ruda-Black"
+      ],
+      "woff": "https://fonts.gstatic.com/s/ruda/v11/k3kQo8YQJOpFovs6fdnoKA.woff",
+      "eot": "https://fonts.gstatic.com/s/ruda/v11/k3kQo8YQJOpFovs6fdnoKg.eot",
+      "ttf": "https://fonts.gstatic.com/s/ruda/v11/k3kQo8YQJOpFovs6fdnoKw.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=k3kQo8YQJOpFovs6fdnoKQ&skey=a7dab1b3ec1bf526&v=v11#Ruda",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v11",
+  "lastModified": "2019-07-16",
+  "popularity": 180,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

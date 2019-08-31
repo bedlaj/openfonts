@@ -1,0 +1,51 @@
+{
+  "id": "abeezee",
+  "family": "ABeeZee",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/abeezee/v13/esDR31xSG-6AGleN2tWklg.woff",
+      "fontFamily": "'ABeeZee'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "ABeeZee Regular",
+        "ABeeZee-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/abeezee/v13/esDR31xSG-6AGleN2tWklA.eot",
+      "woff2": "https://fonts.gstatic.com/s/abeezee/v13/esDR31xSG-6AGleN2tWkkA.woff2",
+      "ttf": "https://fonts.gstatic.com/s/abeezee/v13/esDR31xSG-6AGleN2tWklQ.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=esDR31xSG-6AGleN2tWklw&skey=abecda27d5b3409a&v=v13#ABeeZee",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "ttf": "https://fonts.gstatic.com/s/abeezee/v13/esDT31xSG-6AGleN2tCUkp8G.ttf",
+      "fontFamily": "'ABeeZee'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "local": [
+        "ABeeZee Italic",
+        "ABeeZee-Italic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/abeezee/v13/esDT31xSG-6AGleN2tCUkp8D.woff2",
+      "eot": "https://fonts.gstatic.com/s/abeezee/v13/esDT31xSG-6AGleN2tCUkp8H.eot",
+      "woff": "https://fonts.gstatic.com/s/abeezee/v13/esDT31xSG-6AGleN2tCUkp8F.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=esDT31xSG-6AGleN2tCUkp8E&skey=7e1629e194fe8b7a&v=v13#ABeeZee",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "category": "sans-serif",
+  "version": "v13",
+  "lastModified": "2019-07-17",
+  "popularity": 107,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true
+  },
+  "storeID": "latin"
+}

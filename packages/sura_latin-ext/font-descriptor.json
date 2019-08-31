@@ -1,0 +1,55 @@
+{
+  "id": "sura",
+  "family": "Sura",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/sura/v4/SZc23FL5PbyzJfdeXA.woff",
+      "fontFamily": "'Sura'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Sura",
+        "Sura-Regular"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=SZc23FL5PbyzJfdeXQ&skey=ef535c3779017afa&v=v4#Sura",
+      "woff2": "https://fonts.gstatic.com/s/sura/v4/SZc23FL5PbyzJfdeWg.woff2",
+      "ttf": "https://fonts.gstatic.com/s/sura/v4/SZc23FL5PbyzJfdeXw.ttf",
+      "eot": "https://fonts.gstatic.com/s/sura/v4/SZc23FL5PbyzJfdeXg.eot",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff2": "https://fonts.gstatic.com/s/sura/v4/SZc53FL5PbyzLUJ7TzTMkA.woff2",
+      "fontFamily": "'Sura'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Sura Bold",
+        "Sura-Bold"
+      ],
+      "woff": "https://fonts.gstatic.com/s/sura/v4/SZc53FL5PbyzLUJ7TzTMlg.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=SZc53FL5PbyzLUJ7TzTMlw&skey=ec0c744fd09d77e7&v=v4#Sura",
+      "ttf": "https://fonts.gstatic.com/s/sura/v4/SZc53FL5PbyzLUJ7TzTMlQ.ttf",
+      "eot": "https://fonts.gstatic.com/s/sura/v4/SZc53FL5PbyzLUJ7TzTMlA.eot",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "devanagari",
+    "latin-ext"
+  ],
+  "category": "serif",
+  "version": "v4",
+  "lastModified": "2019-07-16",
+  "popularity": 729,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "devanagari": false,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin"
+}

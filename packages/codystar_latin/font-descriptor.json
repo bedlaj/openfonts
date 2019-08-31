@@ -1,0 +1,52 @@
+{
+  "id": "codystar",
+  "family": "Codystar",
+  "variants": [
+    {
+      "id": "300",
+      "woff2": "https://fonts.gstatic.com/s/codystar/v7/FwZf7-Q1xVk-40qxOuYsytyshUY.woff2",
+      "fontFamily": "'Codystar'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "local": [
+        "Codystar Light",
+        "Codystar-Light"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/codystar/v7/FwZf7-Q1xVk-40qxOuYsytyshUM.ttf",
+      "eot": "https://fonts.gstatic.com/s/codystar/v7/FwZf7-Q1xVk-40qxOuYsytyshUI.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=FwZf7-Q1xVk-40qxOuYsytyshUE&skey=6c4a048055cc7f7b&v=v7#Codystar",
+      "woff": "https://fonts.gstatic.com/s/codystar/v7/FwZf7-Q1xVk-40qxOuYsytyshUA.woff",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "svg": "https://fonts.gstatic.com/l/font?kit=FwZY7-Q1xVk-40qxOu6H6M4&skey=5d796f9025f59d2&v=v7#Codystar",
+      "fontFamily": "'Codystar'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Codystar"
+      ],
+      "woff": "https://fonts.gstatic.com/s/codystar/v7/FwZY7-Q1xVk-40qxOu6H6M8.woff",
+      "woff2": "https://fonts.gstatic.com/s/codystar/v7/FwZY7-Q1xVk-40qxOu6H6Mk.woff2",
+      "ttf": "https://fonts.gstatic.com/s/codystar/v7/FwZY7-Q1xVk-40qxOu6H6Mw.ttf",
+      "eot": "https://fonts.gstatic.com/s/codystar/v7/FwZY7-Q1xVk-40qxOu6H6M0.eot",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "display",
+  "version": "v7",
+  "lastModified": "2019-07-16",
+  "popularity": 613,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

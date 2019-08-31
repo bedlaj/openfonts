@@ -1,0 +1,55 @@
+{
+  "id": "inconsolata",
+  "family": "Inconsolata",
+  "variants": [
+    {
+      "id": "regular",
+      "ttf": "https://fonts.gstatic.com/s/inconsolata/v18/QldKNThLqRwH-OJ1UHjlKGlW5q0.ttf",
+      "fontFamily": "'Inconsolata'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Inconsolata Regular",
+        "Inconsolata-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/inconsolata/v18/QldKNThLqRwH-OJ1UHjlKGlW5qg.woff2",
+      "woff": "https://fonts.gstatic.com/s/inconsolata/v18/QldKNThLqRwH-OJ1UHjlKGlW5q4.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=QldKNThLqRwH-OJ1UHjlKGlW5q8&skey=20fa6569a31c71ee&v=v18#Inconsolata",
+      "eot": "https://fonts.gstatic.com/s/inconsolata/v18/QldKNThLqRwH-OJ1UHjlKGlW5qw.eot",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff": "https://fonts.gstatic.com/s/inconsolata/v18/QldXNThLqRwH-OJ1UHjlKGHiw71m5_o.woff",
+      "fontFamily": "'Inconsolata'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Inconsolata Bold",
+        "Inconsolata-Bold"
+      ],
+      "eot": "https://fonts.gstatic.com/s/inconsolata/v18/QldXNThLqRwH-OJ1UHjlKGHiw71m5_g.eot",
+      "ttf": "https://fonts.gstatic.com/s/inconsolata/v18/QldXNThLqRwH-OJ1UHjlKGHiw71m5_k.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=QldXNThLqRwH-OJ1UHjlKGHiw71m5_s&skey=92483760c58cd80&v=v18#Inconsolata",
+      "woff2": "https://fonts.gstatic.com/s/inconsolata/v18/QldXNThLqRwH-OJ1UHjlKGHiw71m5_w.woff2",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "vietnamese",
+    "latin",
+    "latin-ext"
+  ],
+  "category": "monospace",
+  "version": "v18",
+  "lastModified": "2019-07-22",
+  "popularity": 32,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "vietnamese": true,
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin_vietnamese"
+}

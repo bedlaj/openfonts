@@ -1,0 +1,87 @@
+{
+  "id": "space-mono",
+  "family": "Space Mono",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/spacemono/v5/i7dPIFZifjKcF5UAWdDRYEF8RQ.woff2",
+      "fontFamily": "'Space Mono'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Space Mono",
+        "SpaceMono-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/spacemono/v5/i7dPIFZifjKcF5UAWdDRYEF8QQ.eot",
+      "ttf": "https://fonts.gstatic.com/s/spacemono/v5/i7dPIFZifjKcF5UAWdDRYEF8QA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=i7dPIFZifjKcF5UAWdDRYEF8Qg&skey=5e801b58db657470&v=v5#SpaceMono",
+      "woff": "https://fonts.gstatic.com/s/spacemono/v5/i7dPIFZifjKcF5UAWdDRYEF8Qw.woff",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "ttf": "https://fonts.gstatic.com/s/spacemono/v5/i7dNIFZifjKcF5UAWdDRYERMR3K6.ttf",
+      "fontFamily": "'Space Mono'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "local": [
+        "Space Mono Italic",
+        "SpaceMono-Italic"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=i7dNIFZifjKcF5UAWdDRYERMR3K4&skey=f2396f001f60c566&v=v5#SpaceMono",
+      "woff2": "https://fonts.gstatic.com/s/spacemono/v5/i7dNIFZifjKcF5UAWdDRYERMR3K_.woff2",
+      "eot": "https://fonts.gstatic.com/s/spacemono/v5/i7dNIFZifjKcF5UAWdDRYERMR3K7.eot",
+      "woff": "https://fonts.gstatic.com/s/spacemono/v5/i7dNIFZifjKcF5UAWdDRYERMR3K5.woff",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "svg": "https://fonts.gstatic.com/l/font?kit=i7dMIFZifjKcF5UAWdDRaPpZUFWaGQ&skey=a27e16c9683017d3&v=v5#SpaceMono",
+      "fontFamily": "'Space Mono'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Space Mono Bold",
+        "SpaceMono-Bold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/spacemono/v5/i7dMIFZifjKcF5UAWdDRaPpZUFWaHg.woff2",
+      "ttf": "https://fonts.gstatic.com/s/spacemono/v5/i7dMIFZifjKcF5UAWdDRaPpZUFWaGw.ttf",
+      "woff": "https://fonts.gstatic.com/s/spacemono/v5/i7dMIFZifjKcF5UAWdDRaPpZUFWaGA.woff",
+      "eot": "https://fonts.gstatic.com/s/spacemono/v5/i7dMIFZifjKcF5UAWdDRaPpZUFWaGg.eot",
+      "errored": false
+    },
+    {
+      "id": "700italic",
+      "ttf": "https://fonts.gstatic.com/s/spacemono/v5/i7dSIFZifjKcF5UAWdDRYERE_FeqHCSU.ttf",
+      "fontFamily": "'Space Mono'",
+      "fontStyle": "italic",
+      "fontWeight": "700",
+      "local": [
+        "Space Mono Bold Italic",
+        "SpaceMono-BoldItalic"
+      ],
+      "eot": "https://fonts.gstatic.com/s/spacemono/v5/i7dSIFZifjKcF5UAWdDRYERE_FeqHCSV.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=i7dSIFZifjKcF5UAWdDRYERE_FeqHCSW&skey=b23f6109ee1a67f7&v=v5#SpaceMono",
+      "woff": "https://fonts.gstatic.com/s/spacemono/v5/i7dSIFZifjKcF5UAWdDRYERE_FeqHCSX.woff",
+      "woff2": "https://fonts.gstatic.com/s/spacemono/v5/i7dSIFZifjKcF5UAWdDRYERE_FeqHCSR.woff2",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "vietnamese",
+    "latin",
+    "latin-ext"
+  ],
+  "category": "monospace",
+  "version": "v5",
+  "lastModified": "2019-07-16",
+  "popularity": 339,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "vietnamese": false,
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

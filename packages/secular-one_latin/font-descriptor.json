@@ -1,0 +1,39 @@
+{
+  "id": "secular-one",
+  "family": "Secular One",
+  "variants": [
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/secularone/v4/8QINdiTajsj_87rMuMdKyqDiOOw.eot",
+      "fontFamily": "'Secular One'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/secularone/v4/8QINdiTajsj_87rMuMdKyqDiOO4.woff",
+      "local": [
+        "Secular One",
+        "SecularOne-Regular"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/secularone/v4/8QINdiTajsj_87rMuMdKyqDiOO0.ttf",
+      "woff2": "https://fonts.gstatic.com/s/secularone/v4/8QINdiTajsj_87rMuMdKyqDiOOg.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=8QINdiTajsj_87rMuMdKyqDiOO8&skey=ea87c9794f8de46c&v=v4#SecularOne",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "hebrew",
+    "latin",
+    "latin-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v4",
+  "lastModified": "2019-07-16",
+  "popularity": 450,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "hebrew": false,
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

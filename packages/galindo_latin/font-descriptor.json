@@ -1,0 +1,37 @@
+{
+  "id": "galindo",
+  "family": "Galindo",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/galindo/v7/HI_KiYMeLqVKqwyuc5boRw.woff2",
+      "fontFamily": "'Galindo'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Galindo",
+        "Galindo-Regular"
+      ],
+      "woff": "https://fonts.gstatic.com/s/galindo/v7/HI_KiYMeLqVKqwyuc5boQQ.woff",
+      "ttf": "https://fonts.gstatic.com/s/galindo/v7/HI_KiYMeLqVKqwyuc5boQg.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=HI_KiYMeLqVKqwyuc5boQA&skey=62f7a52c71aba32&v=v7#Galindo",
+      "eot": "https://fonts.gstatic.com/s/galindo/v7/HI_KiYMeLqVKqwyuc5boQw.eot",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "display",
+  "version": "v7",
+  "lastModified": "2019-07-16",
+  "popularity": 881,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

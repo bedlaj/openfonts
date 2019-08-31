@@ -1,0 +1,35 @@
+{
+  "id": "angkor",
+  "family": "Angkor",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/angkor/v12/H4cmBXyAlsPdnlbO_iY_.woff2",
+      "fontFamily": "'Angkor'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Angkor Regular",
+        "Angkor-Regular"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=H4cmBXyAlsPdnlbO_iY4&skey=92624971dae6a2d2&v=v12#Angkor",
+      "eot": "https://fonts.gstatic.com/s/angkor/v12/H4cmBXyAlsPdnlbO_iY7.eot",
+      "ttf": "https://fonts.gstatic.com/s/angkor/v12/H4cmBXyAlsPdnlbO_iY6.ttf",
+      "woff": "https://fonts.gstatic.com/s/angkor/v12/H4cmBXyAlsPdnlbO_iY5.woff",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "khmer"
+  ],
+  "category": "display",
+  "version": "v12",
+  "lastModified": "2019-07-16",
+  "popularity": 733,
+  "defSubset": "khmer",
+  "defVariant": "regular",
+  "subsetMap": {
+    "khmer": true
+  },
+  "storeID": "khmer"
+}

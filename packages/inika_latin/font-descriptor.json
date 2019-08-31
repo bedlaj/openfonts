@@ -1,0 +1,52 @@
+{
+  "id": "inika",
+  "family": "Inika",
+  "variants": [
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/inika/v8/rnCm-x5X3QP-piTAT8I.eot",
+      "fontFamily": "'Inika'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/inika/v8/rnCm-x5X3QP-piTAT8Y.woff2",
+      "local": [
+        "Inika"
+      ],
+      "woff": "https://fonts.gstatic.com/s/inika/v8/rnCm-x5X3QP-piTAT8A.woff",
+      "ttf": "https://fonts.gstatic.com/s/inika/v8/rnCm-x5X3QP-piTAT8M.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=rnCm-x5X3QP-piTAT8E&skey=4a5fa8e3d9422bfa&v=v8#Inika",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "ttf": "https://fonts.gstatic.com/s/inika/v8/rnCr-x5X3QP-pix7atM5kn0.ttf",
+      "fontFamily": "'Inika'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Inika Bold",
+        "Inika-Bold"
+      ],
+      "eot": "https://fonts.gstatic.com/s/inika/v8/rnCr-x5X3QP-pix7atM5knw.eot",
+      "woff": "https://fonts.gstatic.com/s/inika/v8/rnCr-x5X3QP-pix7atM5kn4.woff",
+      "woff2": "https://fonts.gstatic.com/s/inika/v8/rnCr-x5X3QP-pix7atM5kng.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=rnCr-x5X3QP-pix7atM5kn8&skey=cb57b1b3fdfec5ca&v=v8#Inika",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "serif",
+  "version": "v8",
+  "lastModified": "2019-07-16",
+  "popularity": 760,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "vollkorn-sc",
+  "family": "Vollkorn SC",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/vollkornsc/v3/j8_v6-zQ3rXpceZj9cqnViFxPn4.woff2",
+      "fontFamily": "'Vollkorn SC'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Vollkorn SC Regular",
+        "VollkornSC-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/vollkornsc/v3/j8_v6-zQ3rXpceZj9cqnViFxPno.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=j8_v6-zQ3rXpceZj9cqnViFxPnk&skey=da610b8dbfbf0570&v=v3#VollkornSC",
+      "woff": "https://fonts.gstatic.com/s/vollkornsc/v3/j8_v6-zQ3rXpceZj9cqnViFxPng.woff",
+      "ttf": "https://fonts.gstatic.com/s/vollkornsc/v3/j8_v6-zQ3rXpceZj9cqnViFxPns.ttf",
+      "errored": false
+    },
+    {
+      "id": "600",
+      "svg": "https://fonts.gstatic.com/l/font?kit=j8_y6-zQ3rXpceZj9cqnVimhGmuia7U&skey=b5d9ca42fccc701c&v=v3#VollkornSC",
+      "fontFamily": "'Vollkorn SC'",
+      "fontStyle": "normal",
+      "fontWeight": "600",
+      "local": [
+        "Vollkorn SC SemiBold",
+        "VollkornSC-SemiBold"
+      ],
+      "woff": "https://fonts.gstatic.com/s/vollkornsc/v3/j8_y6-zQ3rXpceZj9cqnVimhGmuia7Q.woff",
+      "eot": "https://fonts.gstatic.com/s/vollkornsc/v3/j8_y6-zQ3rXpceZj9cqnVimhGmuia7Y.eot",
+      "ttf": "https://fonts.gstatic.com/s/vollkornsc/v3/j8_y6-zQ3rXpceZj9cqnVimhGmuia7c.ttf",
+      "woff2": "https://fonts.gstatic.com/s/vollkornsc/v3/j8_y6-zQ3rXpceZj9cqnVimhGmuia7I.woff2",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/vollkornsc/v3/j8_y6-zQ3rXpceZj9cqnVinFG2uia7Y.eot",
+      "fontFamily": "'Vollkorn SC'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/vollkornsc/v3/j8_y6-zQ3rXpceZj9cqnVinFG2uia7Q.woff",
+      "local": [
+        "Vollkorn SC Bold",
+        "VollkornSC-Bold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/vollkornsc/v3/j8_y6-zQ3rXpceZj9cqnVinFG2uia7I.woff2",
+      "ttf": "https://fonts.gstatic.com/s/vollkornsc/v3/j8_y6-zQ3rXpceZj9cqnVinFG2uia7c.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=j8_y6-zQ3rXpceZj9cqnVinFG2uia7U&skey=d18e281a62eab1e4&v=v3#VollkornSC",
+      "errored": false
+    },
+    {
+      "id": "900",
+      "woff2": "https://fonts.gstatic.com/s/vollkornsc/v3/j8_y6-zQ3rXpceZj9cqnVin9GWuia7I.woff2",
+      "fontFamily": "'Vollkorn SC'",
+      "fontStyle": "normal",
+      "fontWeight": "900",
+      "local": [
+        "Vollkorn SC Black",
+        "VollkornSC-Black"
+      ],
+      "eot": "https://fonts.gstatic.com/s/vollkornsc/v3/j8_y6-zQ3rXpceZj9cqnVin9GWuia7Y.eot",
+      "woff": "https://fonts.gstatic.com/s/vollkornsc/v3/j8_y6-zQ3rXpceZj9cqnVin9GWuia7Q.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=j8_y6-zQ3rXpceZj9cqnVin9GWuia7U&skey=a4bb4f23b53b9ad8&v=v3#VollkornSC",
+      "ttf": "https://fonts.gstatic.com/s/vollkornsc/v3/j8_y6-zQ3rXpceZj9cqnVin9GWuia7c.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "vietnamese",
+    "latin",
+    "latin-ext",
+    "cyrillic",
+    "cyrillic-ext"
+  ],
+  "category": "serif",
+  "version": "v3",
+  "lastModified": "2019-07-16",
+  "popularity": 802,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "vietnamese": true,
+    "latin": true,
+    "latin-ext": false,
+    "cyrillic": false,
+    "cyrillic-ext": false
+  },
+  "storeID": "latin_vietnamese"
+}

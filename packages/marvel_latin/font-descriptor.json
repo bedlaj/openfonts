@@ -1,0 +1,83 @@
+{
+  "id": "marvel",
+  "family": "Marvel",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/marvel/v9/nwpVtKeoNgBV0qa4llTD.woff",
+      "fontFamily": "'Marvel'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Marvel",
+        "Marvel-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/marvel/v9/nwpVtKeoNgBV0qa4llTB.eot",
+      "ttf": "https://fonts.gstatic.com/s/marvel/v9/nwpVtKeoNgBV0qa4llTA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=nwpVtKeoNgBV0qa4llTC&skey=52bf62c6b0bbc269&v=v9#Marvel",
+      "woff2": "https://fonts.gstatic.com/s/marvel/v9/nwpVtKeoNgBV0qa4llTF.woff2",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "svg": "https://fonts.gstatic.com/l/font?kit=nwpXtKeoNgBV0qa4k2THJ30&skey=2a8e91ba4420dbf4&v=v9#Marvel",
+      "fontFamily": "'Marvel'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "local": [
+        "Marvel Italic",
+        "Marvel-Italic"
+      ],
+      "eot": "https://fonts.gstatic.com/s/marvel/v9/nwpXtKeoNgBV0qa4k2THJ34.eot",
+      "ttf": "https://fonts.gstatic.com/s/marvel/v9/nwpXtKeoNgBV0qa4k2THJ38.ttf",
+      "woff2": "https://fonts.gstatic.com/s/marvel/v9/nwpXtKeoNgBV0qa4k2THJ3o.woff2",
+      "woff": "https://fonts.gstatic.com/s/marvel/v9/nwpXtKeoNgBV0qa4k2THJ3w.woff",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/marvel/v9/nwpWtKeoNgBV0qawLXHQAF-j.eot",
+      "fontFamily": "'Marvel'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/marvel/v9/nwpWtKeoNgBV0qawLXHQAF-h.woff",
+      "local": [
+        "Marvel Bold",
+        "Marvel-Bold"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/marvel/v9/nwpWtKeoNgBV0qawLXHQAF-i.ttf",
+      "woff2": "https://fonts.gstatic.com/s/marvel/v9/nwpWtKeoNgBV0qawLXHQAF-n.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=nwpWtKeoNgBV0qawLXHQAF-g&skey=552ff73ffe8c31bc&v=v9#Marvel",
+      "errored": false
+    },
+    {
+      "id": "700italic",
+      "eot": "https://fonts.gstatic.com/s/marvel/v9/nwpQtKeoNgBV0qa4k2x8Am-l7wk.eot",
+      "fontFamily": "'Marvel'",
+      "fontStyle": "italic",
+      "fontWeight": "700",
+      "ttf": "https://fonts.gstatic.com/s/marvel/v9/nwpQtKeoNgBV0qa4k2x8Am-l7wg.ttf",
+      "local": [
+        "Marvel Bold Italic",
+        "Marvel-BoldItalic"
+      ],
+      "woff": "https://fonts.gstatic.com/s/marvel/v9/nwpQtKeoNgBV0qa4k2x8Am-l7ws.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=nwpQtKeoNgBV0qa4k2x8Am-l7wo&skey=5857b1551737f8b5&v=v9#Marvel",
+      "woff2": "https://fonts.gstatic.com/s/marvel/v9/nwpQtKeoNgBV0qa4k2x8Am-l7w0.woff2",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "category": "sans-serif",
+  "version": "v9",
+  "lastModified": "2019-07-16",
+  "popularity": 319,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true
+  },
+  "storeID": "latin"
+}

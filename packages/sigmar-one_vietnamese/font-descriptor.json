@@ -1,0 +1,39 @@
+{
+  "id": "sigmar-one",
+  "family": "Sigmar One",
+  "variants": [
+    {
+      "id": "regular",
+      "svg": "https://fonts.gstatic.com/l/font?kit=co3DmWZ8kjZuErj9Ta3do6vpoQ&skey=1faaf69a761e7c1&v=v10#SigmarOne",
+      "fontFamily": "'Sigmar One'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Sigmar One Regular",
+        "SigmarOne-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/sigmarone/v10/co3DmWZ8kjZuErj9Ta3do6vpog.eot",
+      "woff": "https://fonts.gstatic.com/s/sigmarone/v10/co3DmWZ8kjZuErj9Ta3do6vpoA.woff",
+      "woff2": "https://fonts.gstatic.com/s/sigmarone/v10/co3DmWZ8kjZuErj9Ta3do6vppg.woff2",
+      "ttf": "https://fonts.gstatic.com/s/sigmarone/v10/co3DmWZ8kjZuErj9Ta3do6vpow.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "vietnamese",
+    "latin",
+    "latin-ext"
+  ],
+  "category": "display",
+  "version": "v10",
+  "lastModified": "2019-07-16",
+  "popularity": 201,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "vietnamese": true,
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin_vietnamese"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "varela-round",
+  "family": "Varela Round",
+  "variants": [
+    {
+      "id": "regular",
+      "svg": "https://fonts.gstatic.com/l/font?kit=w8gdH283Tvk__Lua32TysjIfpcuI&skey=f4466053e3923597&v=v12#VarelaRound",
+      "fontFamily": "'Varela Round'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Varela Round Regular",
+        "VarelaRound-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/varelaround/v12/w8gdH283Tvk__Lua32TysjIfpcuL.eot",
+      "woff": "https://fonts.gstatic.com/s/varelaround/v12/w8gdH283Tvk__Lua32TysjIfpcuJ.woff",
+      "woff2": "https://fonts.gstatic.com/s/varelaround/v12/w8gdH283Tvk__Lua32TysjIfpcuP.woff2",
+      "ttf": "https://fonts.gstatic.com/s/varelaround/v12/w8gdH283Tvk__Lua32TysjIfpcuK.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "hebrew",
+    "vietnamese",
+    "latin",
+    "latin-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v12",
+  "lastModified": "2019-07-17",
+  "popularity": 58,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "hebrew": true,
+    "vietnamese": false,
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin_hebrew"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "david-libre",
+  "family": "David Libre",
+  "variants": [
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/davidlibre/v4/snfus0W_99N64iuYSvp4W_l9.eot",
+      "fontFamily": "'David Libre'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "ttf": "https://fonts.gstatic.com/s/davidlibre/v4/snfus0W_99N64iuYSvp4W_l8.ttf",
+      "local": [
+        "David Libre",
+        "DavidLibre-Regular"
+      ],
+      "woff": "https://fonts.gstatic.com/s/davidlibre/v4/snfus0W_99N64iuYSvp4W_l_.woff",
+      "woff2": "https://fonts.gstatic.com/s/davidlibre/v4/snfus0W_99N64iuYSvp4W_l5.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=snfus0W_99N64iuYSvp4W_l-&skey=3edeced652c7f867&v=v4#DavidLibre",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff": "https://fonts.gstatic.com/s/davidlibre/v4/snfzs0W_99N64iuYSvp4W8HAxbqY.woff",
+      "fontFamily": "'David Libre'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "David Libre Bold",
+        "DavidLibre-Bold"
+      ],
+      "eot": "https://fonts.gstatic.com/s/davidlibre/v4/snfzs0W_99N64iuYSvp4W8HAxbqa.eot",
+      "woff2": "https://fonts.gstatic.com/s/davidlibre/v4/snfzs0W_99N64iuYSvp4W8HAxbqe.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=snfzs0W_99N64iuYSvp4W8HAxbqZ&skey=d1ee03efca576c07&v=v4#DavidLibre",
+      "ttf": "https://fonts.gstatic.com/s/davidlibre/v4/snfzs0W_99N64iuYSvp4W8HAxbqb.ttf",
+      "errored": false
+    },
+    {
+      "id": "500",
+      "eot": "https://fonts.gstatic.com/s/davidlibre/v4/snfzs0W_99N64iuYSvp4W8GIw7qa.eot",
+      "fontFamily": "'David Libre'",
+      "fontStyle": "normal",
+      "fontWeight": "500",
+      "woff": "https://fonts.gstatic.com/s/davidlibre/v4/snfzs0W_99N64iuYSvp4W8GIw7qY.woff",
+      "local": [
+        "David Libre Medium",
+        "DavidLibre-Medium"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=snfzs0W_99N64iuYSvp4W8GIw7qZ&skey=68ec32da19b248d3&v=v4#DavidLibre",
+      "ttf": "https://fonts.gstatic.com/s/davidlibre/v4/snfzs0W_99N64iuYSvp4W8GIw7qb.ttf",
+      "woff2": "https://fonts.gstatic.com/s/davidlibre/v4/snfzs0W_99N64iuYSvp4W8GIw7qe.woff2",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "hebrew",
+    "vietnamese",
+    "latin",
+    "latin-ext"
+  ],
+  "category": "serif",
+  "version": "v4",
+  "lastModified": "2019-07-16",
+  "popularity": 479,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "hebrew": true,
+    "vietnamese": true,
+    "latin": true,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin_vietnamese_hebrew"
+}

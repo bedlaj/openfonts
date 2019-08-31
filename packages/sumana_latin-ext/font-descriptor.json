@@ -1,0 +1,55 @@
+{
+  "id": "sumana",
+  "family": "Sumana",
+  "variants": [
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/sumana/v4/4UaDrE5TqRBjGj-2-RLn.eot",
+      "fontFamily": "'Sumana'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/sumana/v4/4UaDrE5TqRBjGj-2-RLl.woff",
+      "local": [
+        "Sumana",
+        "Sumana-Regular"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/sumana/v4/4UaDrE5TqRBjGj-2-RLm.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=4UaDrE5TqRBjGj-2-RLk&skey=ff811f3a505c3082&v=v4#Sumana",
+      "woff2": "https://fonts.gstatic.com/s/sumana/v4/4UaDrE5TqRBjGj-2-RLj.woff2",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/sumana/v4/4UaArE5TqRBjGj--TDf27o3I.eot",
+      "fontFamily": "'Sumana'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/sumana/v4/4UaArE5TqRBjGj--TDf27o3K.woff",
+      "local": [
+        "Sumana Bold",
+        "Sumana-Bold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/sumana/v4/4UaArE5TqRBjGj--TDf27o3M.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=4UaArE5TqRBjGj--TDf27o3L&skey=3388a721c90bc9c7&v=v4#Sumana",
+      "ttf": "https://fonts.gstatic.com/s/sumana/v4/4UaArE5TqRBjGj--TDf27o3J.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "devanagari",
+    "latin-ext"
+  ],
+  "category": "serif",
+  "version": "v4",
+  "lastModified": "2019-07-16",
+  "popularity": 686,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "devanagari": false,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin"
+}

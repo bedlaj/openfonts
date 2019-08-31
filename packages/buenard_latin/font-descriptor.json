@@ -1,0 +1,53 @@
+{
+  "id": "buenard",
+  "family": "Buenard",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/buenard/v11/OD5DuM6Cyma8FnnsDzD3rw.woff",
+      "fontFamily": "'Buenard'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Buenard Regular",
+        "Buenard-Regular"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=OD5DuM6Cyma8FnnsDzD3rg&skey=9765affe45fa9583&v=v11#Buenard",
+      "woff2": "https://fonts.gstatic.com/s/buenard/v11/OD5DuM6Cyma8FnnsDzD3qQ.woff2",
+      "ttf": "https://fonts.gstatic.com/s/buenard/v11/OD5DuM6Cyma8FnnsDzD3rA.ttf",
+      "eot": "https://fonts.gstatic.com/s/buenard/v11/OD5DuM6Cyma8FnnsDzD3rQ.eot",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff": "https://fonts.gstatic.com/s/buenard/v11/OD5GuM6Cyma8FnnsB4vSvGecBw.woff",
+      "fontFamily": "'Buenard'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Buenard Bold",
+        "Buenard-Bold"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=OD5GuM6Cyma8FnnsB4vSvGecBg&skey=f0ec52c5a48bc809&v=v11#Buenard",
+      "eot": "https://fonts.gstatic.com/s/buenard/v11/OD5GuM6Cyma8FnnsB4vSvGecBQ.eot",
+      "woff2": "https://fonts.gstatic.com/s/buenard/v11/OD5GuM6Cyma8FnnsB4vSvGecAQ.woff2",
+      "ttf": "https://fonts.gstatic.com/s/buenard/v11/OD5GuM6Cyma8FnnsB4vSvGecBA.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "serif",
+  "version": "v11",
+  "lastModified": "2019-07-16",
+  "popularity": 388,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

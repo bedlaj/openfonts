@@ -1,0 +1,87 @@
+{
+  "id": "noticia-text",
+  "family": "Noticia Text",
+  "variants": [
+    {
+      "id": "regular",
+      "ttf": "https://fonts.gstatic.com/s/noticiatext/v9/VuJ2dNDF2Yv9qppOePKYRP12aTtd.ttf",
+      "fontFamily": "'Noticia Text'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Noticia Text",
+        "NoticiaText-Regular"
+      ],
+      "woff": "https://fonts.gstatic.com/s/noticiatext/v9/VuJ2dNDF2Yv9qppOePKYRP12aTte.woff",
+      "eot": "https://fonts.gstatic.com/s/noticiatext/v9/VuJ2dNDF2Yv9qppOePKYRP12aTtc.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=VuJ2dNDF2Yv9qppOePKYRP12aTtf&skey=ebbf84981792db5&v=v9#NoticiaText",
+      "woff2": "https://fonts.gstatic.com/s/noticiatext/v9/VuJ2dNDF2Yv9qppOePKYRP12aTtY.woff2",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/noticiatext/v9/VuJpdNDF2Yv9qppOePKYRP1-3R5Nt2vU.eot",
+      "fontFamily": "'Noticia Text'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/noticiatext/v9/VuJpdNDF2Yv9qppOePKYRP1-3R5Nt2vW.woff",
+      "local": [
+        "Noticia Text Bold",
+        "NoticiaText-Bold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/noticiatext/v9/VuJpdNDF2Yv9qppOePKYRP1-3R5Nt2vQ.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=VuJpdNDF2Yv9qppOePKYRP1-3R5Nt2vX&skey=bea077d1ab0bfaf0&v=v9#NoticiaText",
+      "ttf": "https://fonts.gstatic.com/s/noticiatext/v9/VuJpdNDF2Yv9qppOePKYRP1-3R5Nt2vV.ttf",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "woff": "https://fonts.gstatic.com/s/noticiatext/v9/VuJodNDF2Yv9qppOePKYRP12YwtVn0g.woff",
+      "fontFamily": "'Noticia Text'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "local": [
+        "Noticia Text Italic",
+        "NoticiaText-Italic"
+      ],
+      "eot": "https://fonts.gstatic.com/s/noticiatext/v9/VuJodNDF2Yv9qppOePKYRP12YwtVn0o.eot",
+      "ttf": "https://fonts.gstatic.com/s/noticiatext/v9/VuJodNDF2Yv9qppOePKYRP12YwtVn0s.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=VuJodNDF2Yv9qppOePKYRP12YwtVn0k&skey=30669c460dd81720&v=v9#NoticiaText",
+      "woff2": "https://fonts.gstatic.com/s/noticiatext/v9/VuJodNDF2Yv9qppOePKYRP12YwtVn04.woff2",
+      "errored": false
+    },
+    {
+      "id": "700italic",
+      "woff": "https://fonts.gstatic.com/s/noticiatext/v9/VuJrdNDF2Yv9qppOePKYRP12YwPhulvdhDM.woff",
+      "fontFamily": "'Noticia Text'",
+      "fontStyle": "italic",
+      "fontWeight": "700",
+      "local": [
+        "Noticia Text Bold Italic",
+        "NoticiaText-BoldItalic"
+      ],
+      "eot": "https://fonts.gstatic.com/s/noticiatext/v9/VuJrdNDF2Yv9qppOePKYRP12YwPhulvdhDE.eot",
+      "woff2": "https://fonts.gstatic.com/s/noticiatext/v9/VuJrdNDF2Yv9qppOePKYRP12YwPhulvdhDU.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=VuJrdNDF2Yv9qppOePKYRP12YwPhulvdhDI&skey=91633cfc4b65e760&v=v9#NoticiaText",
+      "ttf": "https://fonts.gstatic.com/s/noticiatext/v9/VuJrdNDF2Yv9qppOePKYRP12YwPhulvdhDA.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "vietnamese",
+    "latin",
+    "latin-ext"
+  ],
+  "category": "serif",
+  "version": "v9",
+  "lastModified": "2019-07-17",
+  "popularity": 111,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "vietnamese": true,
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin_vietnamese"
+}

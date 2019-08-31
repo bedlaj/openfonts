@@ -1,0 +1,43 @@
+{
+  "id": "pangolin",
+  "family": "Pangolin",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/pangolin/v5/cY9GfjGcW0FPpi-tWPfJ.woff",
+      "fontFamily": "'Pangolin'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Pangolin Regular",
+        "Pangolin-Regular"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/pangolin/v5/cY9GfjGcW0FPpi-tWPfK.ttf",
+      "eot": "https://fonts.gstatic.com/s/pangolin/v5/cY9GfjGcW0FPpi-tWPfL.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=cY9GfjGcW0FPpi-tWPfI&skey=3db57adcfc639c2d&v=v5#Pangolin",
+      "woff2": "https://fonts.gstatic.com/s/pangolin/v5/cY9GfjGcW0FPpi-tWPfP.woff2",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "vietnamese",
+    "latin",
+    "latin-ext",
+    "cyrillic",
+    "cyrillic-ext"
+  ],
+  "category": "handwriting",
+  "version": "v5",
+  "lastModified": "2019-07-16",
+  "popularity": 332,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "vietnamese": true,
+    "latin": true,
+    "latin-ext": true,
+    "cyrillic": true,
+    "cyrillic-ext": true
+  },
+  "storeID": "cyrillic-ext_cyrillic_latin-ext_latin_vietnamese"
+}

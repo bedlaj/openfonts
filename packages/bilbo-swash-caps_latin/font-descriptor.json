@@ -1,0 +1,37 @@
+{
+  "id": "bilbo-swash-caps",
+  "family": "Bilbo Swash Caps",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/bilboswashcaps/v12/zrf-0GXbz-H3Wb4XBsGrTgq2PVmdmATipw.woff2",
+      "fontFamily": "'Bilbo Swash Caps'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Bilbo Swash Caps Regular",
+        "BilboSwashCaps-Regular"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=zrf-0GXbz-H3Wb4XBsGrTgq2PVmdmATioA&skey=4b5cb4349bc795ce&v=v12#BilboSwashCaps",
+      "woff": "https://fonts.gstatic.com/s/bilboswashcaps/v12/zrf-0GXbz-H3Wb4XBsGrTgq2PVmdmATioQ.woff",
+      "eot": "https://fonts.gstatic.com/s/bilboswashcaps/v12/zrf-0GXbz-H3Wb4XBsGrTgq2PVmdmATiow.eot",
+      "ttf": "https://fonts.gstatic.com/s/bilboswashcaps/v12/zrf-0GXbz-H3Wb4XBsGrTgq2PVmdmATiog.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "handwriting",
+  "version": "v12",
+  "lastModified": "2019-07-16",
+  "popularity": 534,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

@@ -1,0 +1,111 @@
+{
+  "id": "jura",
+  "family": "Jura",
+  "variants": [
+    {
+      "id": "300",
+      "eot": "https://fonts.gstatic.com/s/jura/v11/z7NUdRfiaC4VVW9rRChi1Q.eot",
+      "fontFamily": "'Jura'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "woff2": "https://fonts.gstatic.com/s/jura/v11/z7NUdRfiaC4VVW9rRChi0Q.woff2",
+      "local": [
+        "Jura Light",
+        "Jura-Light"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/jura/v11/z7NUdRfiaC4VVW9rRChi1A.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=z7NUdRfiaC4VVW9rRChi1g&skey=c1194001c2a3361c&v=v11#Jura",
+      "woff": "https://fonts.gstatic.com/s/jura/v11/z7NUdRfiaC4VVW9rRChi1w.woff",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/jura/v11/z7NbdRfiaC4VXcdJVQ.eot",
+      "fontFamily": "'Jura'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/jura/v11/z7NbdRfiaC4VXcdJVw.woff",
+      "local": [
+        "Jura Regular",
+        "Jura-Regular"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/jura/v11/z7NbdRfiaC4VXcdJVA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=z7NbdRfiaC4VXcdJVg&skey=b9937b3ab2bb15f1&v=v11#Jura",
+      "woff2": "https://fonts.gstatic.com/s/jura/v11/z7NbdRfiaC4VXcdJUQ.woff2",
+      "errored": false
+    },
+    {
+      "id": "500",
+      "eot": "https://fonts.gstatic.com/s/jura/v11/z7NUdRfiaC4VVTdqRChi1Q.eot",
+      "fontFamily": "'Jura'",
+      "fontStyle": "normal",
+      "fontWeight": "500",
+      "woff": "https://fonts.gstatic.com/s/jura/v11/z7NUdRfiaC4VVTdqRChi1w.woff",
+      "local": [
+        "Jura Medium",
+        "Jura-Medium"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/jura/v11/z7NUdRfiaC4VVTdqRChi0Q.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=z7NUdRfiaC4VVTdqRChi1g&skey=ec1bb796d001ff30&v=v11#Jura",
+      "ttf": "https://fonts.gstatic.com/s/jura/v11/z7NUdRfiaC4VVTdqRChi1A.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/jura/v11/z7NUdRfiaC4VVX9sRChi1Q.eot",
+      "fontFamily": "'Jura'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/jura/v11/z7NUdRfiaC4VVX9sRChi1w.woff",
+      "local": [
+        "Jura Bold",
+        "Jura-Bold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/jura/v11/z7NUdRfiaC4VVX9sRChi0Q.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=z7NUdRfiaC4VVX9sRChi1g&skey=374a1000d66c7d71&v=v11#Jura",
+      "ttf": "https://fonts.gstatic.com/s/jura/v11/z7NUdRfiaC4VVX9sRChi1A.ttf",
+      "errored": false
+    },
+    {
+      "id": "600",
+      "eot": "https://fonts.gstatic.com/s/jura/v11/z7NUdRfiaC4VVRttRChi1Q.eot",
+      "fontFamily": "'Jura'",
+      "fontStyle": "normal",
+      "fontWeight": "600",
+      "woff": "https://fonts.gstatic.com/s/jura/v11/z7NUdRfiaC4VVRttRChi1w.woff",
+      "local": [
+        "Jura SemiBold",
+        "Jura-SemiBold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/jura/v11/z7NUdRfiaC4VVRttRChi0Q.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=z7NUdRfiaC4VVRttRChi1g&skey=282e270ca1cdaf0f&v=v11#Jura",
+      "ttf": "https://fonts.gstatic.com/s/jura/v11/z7NUdRfiaC4VVRttRChi1A.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "greek-ext",
+    "vietnamese",
+    "greek",
+    "latin",
+    "latin-ext",
+    "cyrillic",
+    "cyrillic-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v11",
+  "lastModified": "2019-07-16",
+  "popularity": 263,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "greek-ext": false,
+    "vietnamese": false,
+    "greek": true,
+    "latin": true,
+    "latin-ext": false,
+    "cyrillic": false,
+    "cyrillic-ext": false
+  },
+  "storeID": "latin_greek"
+}

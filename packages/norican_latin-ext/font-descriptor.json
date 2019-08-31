@@ -1,0 +1,37 @@
+{
+  "id": "norican",
+  "family": "Norican",
+  "variants": [
+    {
+      "id": "regular",
+      "ttf": "https://fonts.gstatic.com/s/norican/v8/MwQ2bhXp1eSBqjkPKJtbsA.ttf",
+      "fontFamily": "'Norican'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Norican Regular",
+        "Norican-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/norican/v8/MwQ2bhXp1eSBqjkPKJtbsQ.eot",
+      "woff2": "https://fonts.gstatic.com/s/norican/v8/MwQ2bhXp1eSBqjkPKJtbtQ.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=MwQ2bhXp1eSBqjkPKJtbsg&skey=7e98b520a4dd1a90&v=v8#Norican",
+      "woff": "https://fonts.gstatic.com/s/norican/v8/MwQ2bhXp1eSBqjkPKJtbsw.woff",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "handwriting",
+  "version": "v8",
+  "lastModified": "2019-07-16",
+  "popularity": 367,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin"
+}

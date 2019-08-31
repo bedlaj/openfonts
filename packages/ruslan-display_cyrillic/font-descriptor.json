@@ -1,0 +1,39 @@
+{
+  "id": "ruslan-display",
+  "family": "Ruslan Display",
+  "variants": [
+    {
+      "id": "regular",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Gw6jwczl81XcIZuckK_e3Upfdwxon9o&skey=88a0d883c875985e&v=v10#RuslanDisplay",
+      "fontFamily": "'Ruslan Display'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Ruslan Display",
+        "RuslanDisplay"
+      ],
+      "eot": "https://fonts.gstatic.com/s/ruslandisplay/v10/Gw6jwczl81XcIZuckK_e3Upfdwxon9k.eot",
+      "ttf": "https://fonts.gstatic.com/s/ruslandisplay/v10/Gw6jwczl81XcIZuckK_e3Upfdwxon9g.ttf",
+      "woff": "https://fonts.gstatic.com/s/ruslandisplay/v10/Gw6jwczl81XcIZuckK_e3Upfdwxon9s.woff",
+      "woff2": "https://fonts.gstatic.com/s/ruslandisplay/v10/Gw6jwczl81XcIZuckK_e3Upfdwxon90.woff2",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "cyrillic"
+  ],
+  "category": "display",
+  "version": "v10",
+  "lastModified": "2019-07-16",
+  "popularity": 725,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false,
+    "cyrillic": true
+  },
+  "storeID": "cyrillic_latin"
+}

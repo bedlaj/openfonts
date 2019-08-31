@@ -1,0 +1,35 @@
+{
+  "id": "geostar",
+  "family": "Geostar",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/geostar/v10/sykz-yx4n701VLOfhS23_Q.woff",
+      "fontFamily": "'Geostar'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Geostar",
+        "Geostar-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/geostar/v10/sykz-yx4n701VLOfhS23-w.woff2",
+      "ttf": "https://fonts.gstatic.com/s/geostar/v10/sykz-yx4n701VLOfhS23_g.ttf",
+      "eot": "https://fonts.gstatic.com/s/geostar/v10/sykz-yx4n701VLOfhS23_w.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=sykz-yx4n701VLOfhS23_A&skey=909e800316655e1b&v=v10#Geostar",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "category": "display",
+  "version": "v10",
+  "lastModified": "2019-07-16",
+  "popularity": 911,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true
+  },
+  "storeID": "latin"
+}

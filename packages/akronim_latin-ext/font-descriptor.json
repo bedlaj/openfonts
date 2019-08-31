@@ -1,0 +1,37 @@
+{
+  "id": "akronim",
+  "family": "Akronim",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/akronim/v9/fdN-9sqWtWZZlHRpygl7lw.woff",
+      "fontFamily": "'Akronim'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Akronim Regular",
+        "Akronim-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/akronim/v9/fdN-9sqWtWZZlHRpygl7kQ.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=fdN-9sqWtWZZlHRpygl7lg&skey=a537edc4421490c4&v=v9#Akronim",
+      "ttf": "https://fonts.gstatic.com/s/akronim/v9/fdN-9sqWtWZZlHRpygl7lA.ttf",
+      "eot": "https://fonts.gstatic.com/s/akronim/v9/fdN-9sqWtWZZlHRpygl7lQ.eot",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "display",
+  "version": "v9",
+  "lastModified": "2019-07-16",
+  "popularity": 726,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin"
+}

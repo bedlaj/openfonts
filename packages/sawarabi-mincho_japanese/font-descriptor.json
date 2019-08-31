@@ -1,0 +1,39 @@
+{
+  "id": "sawarabi-mincho",
+  "family": "Sawarabi Mincho",
+  "variants": [
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/sawarabimincho/v10/8QIRdiDaitzr7brc8ahpxt6GcIJjIqJK.eot",
+      "fontFamily": "'Sawarabi Mincho'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/sawarabimincho/v10/8QIRdiDaitzr7brc8ahpxt6GcIJjIqJI.woff",
+      "local": [
+        "Sawarabi Mincho",
+        "SawarabiMincho-Regular"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/sawarabimincho/v10/8QIRdiDaitzr7brc8ahpxt6GcIJjIqJL.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=8QIRdiDaitzr7brc8ahpxt6GcIJjIqJJ&skey=a4cb9325c9a51474&v=v10#SawarabiMincho",
+      "woff2": "https://fonts.gstatic.com/s/sawarabimincho/v10/8QIRdiDaitzr7brc8ahpxt6GcIJjIqJO.woff2",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "japanese",
+    "latin",
+    "latin-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v10",
+  "lastModified": "2019-07-16",
+  "popularity": 174,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "japanese": true,
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin_japanese"
+}

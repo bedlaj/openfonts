@@ -1,0 +1,101 @@
+{
+  "id": "chathura",
+  "family": "Chathura",
+  "variants": [
+    {
+      "id": "100",
+      "woff2": "https://fonts.gstatic.com/s/chathura/v5/_gP91R7-rzUuVjim42dEm1-RTw.woff2",
+      "fontFamily": "'Chathura'",
+      "fontStyle": "normal",
+      "fontWeight": "100",
+      "local": [
+        "Chathura Thin",
+        "Chathura-Thin"
+      ],
+      "eot": "https://fonts.gstatic.com/s/chathura/v5/_gP91R7-rzUuVjim42dEm1-RSw.eot",
+      "woff": "https://fonts.gstatic.com/s/chathura/v5/_gP91R7-rzUuVjim42dEm1-RSQ.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=_gP91R7-rzUuVjim42dEm1-RSA&skey=766e61739e22aaba&v=v5#Chathura",
+      "ttf": "https://fonts.gstatic.com/s/chathura/v5/_gP91R7-rzUuVjim42dEm1-RSg.ttf",
+      "errored": false
+    },
+    {
+      "id": "300",
+      "woff2": "https://fonts.gstatic.com/s/chathura/v5/_gP81R7-rzUuVjim42eMiVSqavs.woff2",
+      "fontFamily": "'Chathura'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "local": [
+        "Chathura Light",
+        "Chathura-Light"
+      ],
+      "woff": "https://fonts.gstatic.com/s/chathura/v5/_gP81R7-rzUuVjim42eMiVSqav0.woff",
+      "eot": "https://fonts.gstatic.com/s/chathura/v5/_gP81R7-rzUuVjim42eMiVSqav8.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=_gP81R7-rzUuVjim42eMiVSqavw&skey=a461c7cc6a7ac66&v=v5#Chathura",
+      "ttf": "https://fonts.gstatic.com/s/chathura/v5/_gP81R7-rzUuVjim42eMiVSqav4.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/chathura/v5/_gP81R7-rzUuVjim42ecjlSqav8.eot",
+      "fontFamily": "'Chathura'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/chathura/v5/_gP81R7-rzUuVjim42ecjlSqav0.woff",
+      "local": [
+        "Chathura Bold",
+        "Chathura-Bold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/chathura/v5/_gP81R7-rzUuVjim42ecjlSqavs.woff2",
+      "ttf": "https://fonts.gstatic.com/s/chathura/v5/_gP81R7-rzUuVjim42ecjlSqav4.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=_gP81R7-rzUuVjim42ecjlSqavw&skey=7435dace61c83230&v=v5#Chathura",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/chathura/v5/_gP71R7-rzUuVjim4287q0E.woff2",
+      "fontFamily": "'Chathura'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Chathura Regular",
+        "Chathura-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/chathura/v5/_gP71R7-rzUuVjim4287q0U.eot",
+      "ttf": "https://fonts.gstatic.com/s/chathura/v5/_gP71R7-rzUuVjim4287q0Q.ttf",
+      "woff": "https://fonts.gstatic.com/s/chathura/v5/_gP71R7-rzUuVjim4287q0c.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=_gP71R7-rzUuVjim4287q0Y&skey=37a79c74def3fd18&v=v5#Chathura",
+      "errored": false
+    },
+    {
+      "id": "800",
+      "woff": "https://fonts.gstatic.com/s/chathura/v5/_gP81R7-rzUuVjim42eAjVSqav0.woff",
+      "fontFamily": "'Chathura'",
+      "fontStyle": "normal",
+      "fontWeight": "800",
+      "local": [
+        "Chathura ExtraBold",
+        "Chathura-ExtraBold"
+      ],
+      "eot": "https://fonts.gstatic.com/s/chathura/v5/_gP81R7-rzUuVjim42eAjVSqav8.eot",
+      "woff2": "https://fonts.gstatic.com/s/chathura/v5/_gP81R7-rzUuVjim42eAjVSqavs.woff2",
+      "ttf": "https://fonts.gstatic.com/s/chathura/v5/_gP81R7-rzUuVjim42eAjVSqav4.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=_gP81R7-rzUuVjim42eAjVSqavw&skey=8012a56d8595ebc7&v=v5#Chathura",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "telugu",
+    "latin"
+  ],
+  "category": "sans-serif",
+  "version": "v5",
+  "lastModified": "2019-07-16",
+  "popularity": 814,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "telugu": true,
+    "latin": true
+  },
+  "storeID": "latin_telugu"
+}

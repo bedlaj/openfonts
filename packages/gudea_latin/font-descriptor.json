@@ -1,0 +1,68 @@
+{
+  "id": "gudea",
+  "family": "Gudea",
+  "variants": [
+    {
+      "id": "regular",
+      "svg": "https://fonts.gstatic.com/l/font?kit=neIFzCqgsI0mp9CI_oc&skey=cabc1f7b4ae0fcd9&v=v9#Gudea",
+      "fontFamily": "'Gudea'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Gudea"
+      ],
+      "woff": "https://fonts.gstatic.com/s/gudea/v9/neIFzCqgsI0mp9CI_oY.woff",
+      "woff2": "https://fonts.gstatic.com/s/gudea/v9/neIFzCqgsI0mp9CI_oA.woff2",
+      "eot": "https://fonts.gstatic.com/s/gudea/v9/neIFzCqgsI0mp9CI_oQ.eot",
+      "ttf": "https://fonts.gstatic.com/s/gudea/v9/neIFzCqgsI0mp9CI_oU.ttf",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "woff": "https://fonts.gstatic.com/s/gudea/v9/neILzCqgsI0mp9CNzoKmNQ.woff",
+      "fontFamily": "'Gudea'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "local": [
+        "Gudea Italic",
+        "Gudea-Italic"
+      ],
+      "eot": "https://fonts.gstatic.com/s/gudea/v9/neILzCqgsI0mp9CNzoKmNw.eot",
+      "woff2": "https://fonts.gstatic.com/s/gudea/v9/neILzCqgsI0mp9CNzoKmMw.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=neILzCqgsI0mp9CNzoKmNA&skey=dba7fb2bf51a5d81&v=v9#Gudea",
+      "ttf": "https://fonts.gstatic.com/s/gudea/v9/neILzCqgsI0mp9CNzoKmNg.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff": "https://fonts.gstatic.com/s/gudea/v9/neIIzCqgsI0mp9gz25WBFqo.woff",
+      "fontFamily": "'Gudea'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Gudea Bold",
+        "Gudea-Bold"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=neIIzCqgsI0mp9gz25WBFqs&skey=61f6a66f0762939&v=v9#Gudea",
+      "ttf": "https://fonts.gstatic.com/s/gudea/v9/neIIzCqgsI0mp9gz25WBFqk.ttf",
+      "eot": "https://fonts.gstatic.com/s/gudea/v9/neIIzCqgsI0mp9gz25WBFqg.eot",
+      "woff2": "https://fonts.gstatic.com/s/gudea/v9/neIIzCqgsI0mp9gz25WBFqw.woff2",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v9",
+  "lastModified": "2019-07-16",
+  "popularity": 164,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

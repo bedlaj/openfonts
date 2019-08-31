@@ -1,0 +1,103 @@
+{
+  "id": "teko",
+  "family": "Teko",
+  "variants": [
+    {
+      "id": "300",
+      "woff": "https://fonts.gstatic.com/s/teko/v9/LYjCdG7kmE0gdQhfsCpgrg.woff",
+      "fontFamily": "'Teko'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "local": [
+        "Teko Light",
+        "Teko-Light"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/teko/v9/LYjCdG7kmE0gdQhfsCpgqA.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=LYjCdG7kmE0gdQhfsCpgrw&skey=3e2bae9535385402&v=v9#Teko",
+      "eot": "https://fonts.gstatic.com/s/teko/v9/LYjCdG7kmE0gdQhfsCpgrA.eot",
+      "ttf": "https://fonts.gstatic.com/s/teko/v9/LYjCdG7kmE0gdQhfsCpgrQ.ttf",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/teko/v9/LYjNdG7kmE0gfa19ow.woff",
+      "fontFamily": "'Teko'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Teko Regular",
+        "Teko-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/teko/v9/LYjNdG7kmE0gfa19oQ.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=LYjNdG7kmE0gfa19og&skey=f42f6a86f3e5e4b1&v=v9#Teko",
+      "woff2": "https://fonts.gstatic.com/s/teko/v9/LYjNdG7kmE0gfa19pQ.woff2",
+      "ttf": "https://fonts.gstatic.com/s/teko/v9/LYjNdG7kmE0gfa19oA.ttf",
+      "errored": false
+    },
+    {
+      "id": "500",
+      "eot": "https://fonts.gstatic.com/s/teko/v9/LYjCdG7kmE0gdVBesCpgrA.eot",
+      "fontFamily": "'Teko'",
+      "fontStyle": "normal",
+      "fontWeight": "500",
+      "woff": "https://fonts.gstatic.com/s/teko/v9/LYjCdG7kmE0gdVBesCpgrg.woff",
+      "local": [
+        "Teko Medium",
+        "Teko-Medium"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/teko/v9/LYjCdG7kmE0gdVBesCpgrQ.ttf",
+      "woff2": "https://fonts.gstatic.com/s/teko/v9/LYjCdG7kmE0gdVBesCpgqA.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=LYjCdG7kmE0gdVBesCpgrw&skey=cd495a7fe3a57d43&v=v9#Teko",
+      "errored": false
+    },
+    {
+      "id": "600",
+      "eot": "https://fonts.gstatic.com/s/teko/v9/LYjCdG7kmE0gdXxZsCpgrA.eot",
+      "fontFamily": "'Teko'",
+      "fontStyle": "normal",
+      "fontWeight": "600",
+      "woff": "https://fonts.gstatic.com/s/teko/v9/LYjCdG7kmE0gdXxZsCpgrg.woff",
+      "local": [
+        "Teko SemiBold",
+        "Teko-SemiBold"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/teko/v9/LYjCdG7kmE0gdXxZsCpgrQ.ttf",
+      "woff2": "https://fonts.gstatic.com/s/teko/v9/LYjCdG7kmE0gdXxZsCpgqA.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=LYjCdG7kmE0gdXxZsCpgrw&skey=fcced418508b19d5&v=v9#Teko",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff": "https://fonts.gstatic.com/s/teko/v9/LYjCdG7kmE0gdRhYsCpgrg.woff",
+      "fontFamily": "'Teko'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Teko Bold",
+        "Teko-Bold"
+      ],
+      "eot": "https://fonts.gstatic.com/s/teko/v9/LYjCdG7kmE0gdRhYsCpgrA.eot",
+      "woff2": "https://fonts.gstatic.com/s/teko/v9/LYjCdG7kmE0gdRhYsCpgqA.woff2",
+      "ttf": "https://fonts.gstatic.com/s/teko/v9/LYjCdG7kmE0gdRhYsCpgrQ.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=LYjCdG7kmE0gdRhYsCpgrw&skey=84da9bceb9c9807e&v=v9#Teko",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "devanagari",
+    "latin-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v9",
+  "lastModified": "2019-07-17",
+  "popularity": 73,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "devanagari": false,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin"
+}

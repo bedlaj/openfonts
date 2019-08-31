@@ -1,0 +1,37 @@
+{
+  "id": "eater",
+  "family": "Eater",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/eater/v8/mtG04_FCK7bOvquxsXY.woff",
+      "fontFamily": "'Eater'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Eater",
+        "Eater-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/eater/v8/mtG04_FCK7bOvquxsXQ.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=mtG04_FCK7bOvquxsXc&skey=540b4f9359cd7531&v=v8#Eater",
+      "woff2": "https://fonts.gstatic.com/s/eater/v8/mtG04_FCK7bOvquxsXA.woff2",
+      "ttf": "https://fonts.gstatic.com/s/eater/v8/mtG04_FCK7bOvquxsXU.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "display",
+  "version": "v8",
+  "lastModified": "2019-07-16",
+  "popularity": 598,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

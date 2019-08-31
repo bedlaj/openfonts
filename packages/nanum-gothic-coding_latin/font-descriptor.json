@@ -1,0 +1,51 @@
+{
+  "id": "nanum-gothic-coding",
+  "family": "Nanum Gothic Coding",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/nanumgothiccoding/v14/8QIVdjzHisX_8vv59_xMxtPFW4IXROws-6M7UQ.woff",
+      "fontFamily": "'Nanum Gothic Coding'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "NanumGothicCoding"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=8QIVdjzHisX_8vv59_xMxtPFW4IXROws-6M7UA&skey=252a63b28c363963&v=v14#NanumGothicCoding",
+      "ttf": "https://fonts.gstatic.com/s/nanumgothiccoding/v14/8QIVdjzHisX_8vv59_xMxtPFW4IXROws-6M7Ug.ttf",
+      "eot": "https://fonts.gstatic.com/s/nanumgothiccoding/v14/8QIVdjzHisX_8vv59_xMxtPFW4IXROws-6M7Uw.eot",
+      "woff2": "https://fonts.gstatic.com/s/nanumgothiccoding/v14/8QIVdjzHisX_8vv59_xMxtPFW4IXROws-6M7Vw.woff2",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff": "https://fonts.gstatic.com/s/nanumgothiccoding/v14/8QIYdjzHisX_8vv59_xMxtPFW4IXROws8xgeQsJ29Q.woff",
+      "fontFamily": "'Nanum Gothic Coding'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "NanumGothicCoding-Bold"
+      ],
+      "eot": "https://fonts.gstatic.com/s/nanumgothiccoding/v14/8QIYdjzHisX_8vv59_xMxtPFW4IXROws8xgeQsJ29w.eot",
+      "ttf": "https://fonts.gstatic.com/s/nanumgothiccoding/v14/8QIYdjzHisX_8vv59_xMxtPFW4IXROws8xgeQsJ29g.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=8QIYdjzHisX_8vv59_xMxtPFW4IXROws8xgeQsJ29A&skey=5068284840382792&v=v14#NanumGothicCoding",
+      "woff2": "https://fonts.gstatic.com/s/nanumgothiccoding/v14/8QIYdjzHisX_8vv59_xMxtPFW4IXROws8xgeQsJ28w.woff2",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "korean",
+    "latin"
+  ],
+  "category": "monospace",
+  "version": "v14",
+  "lastModified": "2019-07-16",
+  "popularity": 268,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "korean": false,
+    "latin": true
+  },
+  "storeID": "latin"
+}

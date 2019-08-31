@@ -1,0 +1,36 @@
+{
+  "id": "medievalsharp",
+  "family": "MedievalSharp",
+  "variants": [
+    {
+      "id": "regular",
+      "ttf": "https://fonts.gstatic.com/s/medievalsharp/v12/EvOJzAlL3oU5AQl2mP5KdgptMqZwNw.ttf",
+      "fontFamily": "'MedievalSharp'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "MedievalSharp"
+      ],
+      "eot": "https://fonts.gstatic.com/s/medievalsharp/v12/EvOJzAlL3oU5AQl2mP5KdgptMqZwNg.eot",
+      "woff2": "https://fonts.gstatic.com/s/medievalsharp/v12/EvOJzAlL3oU5AQl2mP5KdgptMqZwMg.woff2",
+      "woff": "https://fonts.gstatic.com/s/medievalsharp/v12/EvOJzAlL3oU5AQl2mP5KdgptMqZwNA.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=EvOJzAlL3oU5AQl2mP5KdgptMqZwNQ&skey=1b167fec88e922f7&v=v12#MedievalSharp",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "display",
+  "version": "v12",
+  "lastModified": "2019-07-16",
+  "popularity": 807,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin"
+}

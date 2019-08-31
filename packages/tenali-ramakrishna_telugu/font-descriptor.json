@@ -1,0 +1,37 @@
+{
+  "id": "tenali-ramakrishna",
+  "family": "Tenali Ramakrishna",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/tenaliramakrishna/v6/raxgHj6Yt9gAN3LLKs0BZVMo8jmwn1-MM5_t.woff",
+      "fontFamily": "'Tenali Ramakrishna'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Tenali Ramakrishna",
+        "TenaliRamakrishna"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/tenaliramakrishna/v6/raxgHj6Yt9gAN3LLKs0BZVMo8jmwn1-MM5_r.woff2",
+      "eot": "https://fonts.gstatic.com/s/tenaliramakrishna/v6/raxgHj6Yt9gAN3LLKs0BZVMo8jmwn1-MM5_v.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=raxgHj6Yt9gAN3LLKs0BZVMo8jmwn1-MM5_s&skey=4930e67a756ab02f&v=v6#TenaliRamakrishna",
+      "ttf": "https://fonts.gstatic.com/s/tenaliramakrishna/v6/raxgHj6Yt9gAN3LLKs0BZVMo8jmwn1-MM5_u.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "telugu",
+    "latin"
+  ],
+  "category": "sans-serif",
+  "version": "v6",
+  "lastModified": "2019-07-16",
+  "popularity": 889,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "telugu": true,
+    "latin": true
+  },
+  "storeID": "latin_telugu"
+}

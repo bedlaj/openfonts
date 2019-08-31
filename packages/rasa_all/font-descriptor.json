@@ -1,0 +1,103 @@
+{
+  "id": "rasa",
+  "family": "Rasa",
+  "variants": [
+    {
+      "id": "300",
+      "woff2": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdg52sgU.woff2",
+      "fontFamily": "'Rasa'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "local": [
+        "Rasa Light",
+        "Rasa-Light"
+      ],
+      "eot": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdg52sgE.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=xn7gYHIn1mWmdg52sgI&skey=67368781f9a5bb98&v=v5#Rasa",
+      "woff": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdg52sgM.woff",
+      "ttf": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdg52sgA.ttf",
+      "errored": false
+    },
+    {
+      "id": "500",
+      "woff": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdlZ3sgM.woff",
+      "fontFamily": "'Rasa'",
+      "fontStyle": "normal",
+      "fontWeight": "500",
+      "local": [
+        "Rasa Medium",
+        "Rasa-Medium"
+      ],
+      "eot": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdlZ3sgE.eot",
+      "woff2": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdlZ3sgU.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=xn7gYHIn1mWmdlZ3sgI&skey=2ea360b732075747&v=v5#Rasa",
+      "ttf": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdlZ3sgA.ttf",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/rasa/v5/xn7vYHIn1mWmTqM.eot",
+      "fontFamily": "'Rasa'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/rasa/v5/xn7vYHIn1mWmTqE.woff",
+      "local": [
+        "Rasa Regular",
+        "Rasa-Regular"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/rasa/v5/xn7vYHIn1mWmTqI.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=xn7vYHIn1mWmTqA&skey=3c5158bdcde195ad&v=v5#Rasa",
+      "woff2": "https://fonts.gstatic.com/s/rasa/v5/xn7vYHIn1mWmTqc.woff2",
+      "errored": false
+    },
+    {
+      "id": "600",
+      "eot": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdnpwsgE.eot",
+      "fontFamily": "'Rasa'",
+      "fontStyle": "normal",
+      "fontWeight": "600",
+      "woff": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdnpwsgM.woff",
+      "local": [
+        "Rasa SemiBold",
+        "Rasa-SemiBold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdnpwsgU.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=xn7gYHIn1mWmdnpwsgI&skey=17261dab7f0cb1f8&v=v5#Rasa",
+      "ttf": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdnpwsgA.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdh5xsgE.eot",
+      "fontFamily": "'Rasa'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdh5xsgM.woff",
+      "local": [
+        "Rasa Bold",
+        "Rasa-Bold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdh5xsgU.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=xn7gYHIn1mWmdh5xsgI&skey=704d133d144191f0&v=v5#Rasa",
+      "ttf": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdh5xsgA.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "gujarati"
+  ],
+  "category": "serif",
+  "version": "v5",
+  "lastModified": "2019-07-16",
+  "popularity": 238,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": true,
+    "gujarati": true
+  },
+  "storeID": "gujarati_latin-ext_latin"
+}

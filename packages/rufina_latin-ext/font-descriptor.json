@@ -1,0 +1,53 @@
+{
+  "id": "rufina",
+  "family": "Rufina",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/rufina/v7/Yq6V-LyURyLy-aKCqh5l.woff2",
+      "fontFamily": "'Rufina'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Rufina",
+        "Rufina-Regular"
+      ],
+      "woff": "https://fonts.gstatic.com/s/rufina/v7/Yq6V-LyURyLy-aKCqh5j.woff",
+      "eot": "https://fonts.gstatic.com/s/rufina/v7/Yq6V-LyURyLy-aKCqh5h.eot",
+      "ttf": "https://fonts.gstatic.com/s/rufina/v7/Yq6V-LyURyLy-aKCqh5g.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Yq6V-LyURyLy-aKCqh5i&skey=87f93ede6042afc6&v=v7#Rufina",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff": "https://fonts.gstatic.com/s/rufina/v7/Yq6W-LyURyLy-aKKHztwtcZZ.woff",
+      "fontFamily": "'Rufina'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Rufina Bold",
+        "Rufina-Bold"
+      ],
+      "eot": "https://fonts.gstatic.com/s/rufina/v7/Yq6W-LyURyLy-aKKHztwtcZb.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Yq6W-LyURyLy-aKKHztwtcZY&skey=a6e00281bfb527ba&v=v7#Rufina",
+      "woff2": "https://fonts.gstatic.com/s/rufina/v7/Yq6W-LyURyLy-aKKHztwtcZf.woff2",
+      "ttf": "https://fonts.gstatic.com/s/rufina/v7/Yq6W-LyURyLy-aKKHztwtcZa.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "serif",
+  "version": "v7",
+  "lastModified": "2019-07-16",
+  "popularity": 334,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin"
+}

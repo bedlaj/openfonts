@@ -1,0 +1,39 @@
+{
+  "id": "rozha-one",
+  "family": "Rozha One",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/rozhaone/v7/AlZy_zVFtYP12Zncg2kRcn3_.woff",
+      "fontFamily": "'Rozha One'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Rozha One Regular",
+        "RozhaOne-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/rozhaone/v7/AlZy_zVFtYP12Zncg2kRcn39.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=AlZy_zVFtYP12Zncg2kRcn3-&skey=c32e4a53d412ff83&v=v7#RozhaOne",
+      "woff2": "https://fonts.gstatic.com/s/rozhaone/v7/AlZy_zVFtYP12Zncg2kRcn35.woff2",
+      "ttf": "https://fonts.gstatic.com/s/rozhaone/v7/AlZy_zVFtYP12Zncg2kRcn38.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "devanagari",
+    "latin-ext"
+  ],
+  "category": "serif",
+  "version": "v7",
+  "lastModified": "2019-07-16",
+  "popularity": 503,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "devanagari": false,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

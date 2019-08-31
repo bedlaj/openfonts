@@ -1,0 +1,37 @@
+{
+  "id": "scope-one",
+  "family": "Scope One",
+  "variants": [
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/scopeone/v6/WBLnrEXKYFlGHrOKmGDFUkXJ.eot",
+      "fontFamily": "'Scope One'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/scopeone/v6/WBLnrEXKYFlGHrOKmGDFUkXN.woff2",
+      "local": [
+        "Scope One",
+        "ScopeOne-Regular"
+      ],
+      "woff": "https://fonts.gstatic.com/s/scopeone/v6/WBLnrEXKYFlGHrOKmGDFUkXL.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=WBLnrEXKYFlGHrOKmGDFUkXK&skey=e6e682d8fd842817&v=v6#ScopeOne",
+      "ttf": "https://fonts.gstatic.com/s/scopeone/v6/WBLnrEXKYFlGHrOKmGDFUkXI.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "serif",
+  "version": "v6",
+  "lastModified": "2019-07-16",
+  "popularity": 564,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin"
+}

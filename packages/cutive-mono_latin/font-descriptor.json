@@ -1,0 +1,37 @@
+{
+  "id": "cutive-mono",
+  "family": "Cutive Mono",
+  "variants": [
+    {
+      "id": "regular",
+      "ttf": "https://fonts.gstatic.com/s/cutivemono/v8/m8JWjfRfY7WVjVi2E-K9H6RCTms.ttf",
+      "fontFamily": "'Cutive Mono'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Cutive Mono Regular",
+        "CutiveMono-Regular"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=m8JWjfRfY7WVjVi2E-K9H6RCTmk&skey=41a3d1bf4e17a723&v=v8#CutiveMono",
+      "woff": "https://fonts.gstatic.com/s/cutivemono/v8/m8JWjfRfY7WVjVi2E-K9H6RCTmg.woff",
+      "woff2": "https://fonts.gstatic.com/s/cutivemono/v8/m8JWjfRfY7WVjVi2E-K9H6RCTm4.woff2",
+      "eot": "https://fonts.gstatic.com/s/cutivemono/v8/m8JWjfRfY7WVjVi2E-K9H6RCTmo.eot",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "monospace",
+  "version": "v8",
+  "lastModified": "2019-07-16",
+  "popularity": 389,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

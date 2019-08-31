@@ -1,0 +1,39 @@
+{
+  "id": "mogra",
+  "family": "Mogra",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/mogra/v6/f0X40eSs8c95TBo7.woff",
+      "fontFamily": "'Mogra'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Mogra Regular",
+        "Mogra-Regular"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/mogra/v6/f0X40eSs8c95TBo4.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=f0X40eSs8c95TBo6&skey=b7f0e945d2c7fa06&v=v6#Mogra",
+      "eot": "https://fonts.gstatic.com/s/mogra/v6/f0X40eSs8c95TBo5.eot",
+      "woff2": "https://fonts.gstatic.com/s/mogra/v6/f0X40eSs8c95TBo9.woff2",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "gujarati"
+  ],
+  "category": "display",
+  "version": "v6",
+  "lastModified": "2019-07-16",
+  "popularity": 653,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": true,
+    "gujarati": true
+  },
+  "storeID": "gujarati_latin-ext_latin"
+}

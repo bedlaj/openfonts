@@ -1,0 +1,37 @@
+{
+  "id": "duru-sans",
+  "family": "Duru Sans",
+  "variants": [
+    {
+      "id": "regular",
+      "ttf": "https://fonts.gstatic.com/s/durusans/v13/xn7iYH8xwmSyTvEV_HOBSP3c.ttf",
+      "fontFamily": "'Duru Sans'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Duru Sans",
+        "DuruSans-Regular"
+      ],
+      "woff": "https://fonts.gstatic.com/s/durusans/v13/xn7iYH8xwmSyTvEV_HOBSP3f.woff",
+      "woff2": "https://fonts.gstatic.com/s/durusans/v13/xn7iYH8xwmSyTvEV_HOBSP3Z.woff2",
+      "eot": "https://fonts.gstatic.com/s/durusans/v13/xn7iYH8xwmSyTvEV_HOBSP3d.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=xn7iYH8xwmSyTvEV_HOBSP3e&skey=f2c24e33dd79a23&v=v13#DuruSans",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v13",
+  "lastModified": "2019-07-16",
+  "popularity": 444,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

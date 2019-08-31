@@ -1,0 +1,37 @@
+{
+  "id": "jolly-lodger",
+  "family": "Jolly Lodger",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/jollylodger/v7/BXRsvFTAh_bGkA1uQ48dlB3lUODS.woff2",
+      "fontFamily": "'Jolly Lodger'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Jolly Lodger",
+        "JollyLodger"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/jollylodger/v7/BXRsvFTAh_bGkA1uQ48dlB3lUODX.ttf",
+      "woff": "https://fonts.gstatic.com/s/jollylodger/v7/BXRsvFTAh_bGkA1uQ48dlB3lUODU.woff",
+      "eot": "https://fonts.gstatic.com/s/jollylodger/v7/BXRsvFTAh_bGkA1uQ48dlB3lUODW.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=BXRsvFTAh_bGkA1uQ48dlB3lUODV&skey=b0b0912bfe16f2c4&v=v7#JollyLodger",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "display",
+  "version": "v7",
+  "lastModified": "2019-07-16",
+  "popularity": 860,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin"
+}

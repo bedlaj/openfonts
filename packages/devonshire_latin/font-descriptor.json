@@ -1,0 +1,36 @@
+{
+  "id": "devonshire",
+  "family": "Devonshire",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/devonshire/v8/46kqlbDwWirWr4gtBD2Bb0Jg0g.woff2",
+      "fontFamily": "'Devonshire'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Devonshire-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/devonshire/v8/46kqlbDwWirWr4gtBD2Bb0Jg1g.eot",
+      "ttf": "https://fonts.gstatic.com/s/devonshire/v8/46kqlbDwWirWr4gtBD2Bb0Jg1w.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=46kqlbDwWirWr4gtBD2Bb0Jg1Q&skey=35e45d512ea5a377&v=v8#Devonshire",
+      "woff": "https://fonts.gstatic.com/s/devonshire/v8/46kqlbDwWirWr4gtBD2Bb0Jg1A.woff",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "handwriting",
+  "version": "v8",
+  "lastModified": "2019-07-16",
+  "popularity": 843,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

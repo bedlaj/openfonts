@@ -1,0 +1,41 @@
+{
+  "id": "baloo-chettan",
+  "family": "Baloo Chettan",
+  "variants": [
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/baloochettan/v5/0QImMXRN8o2gTC2YTr4665DA46P2-Q.eot",
+      "fontFamily": "'Baloo Chettan'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/baloochettan/v5/0QImMXRN8o2gTC2YTr4665DA46P2_Q.woff2",
+      "local": [
+        "Baloo Chettan Regular",
+        "BalooChettan-Regular"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=0QImMXRN8o2gTC2YTr4665DA46P2-g&skey=9b43171ff32af80b&v=v5#BalooChettan",
+      "ttf": "https://fonts.gstatic.com/s/baloochettan/v5/0QImMXRN8o2gTC2YTr4665DA46P2-A.ttf",
+      "woff": "https://fonts.gstatic.com/s/baloochettan/v5/0QImMXRN8o2gTC2YTr4665DA46P2-w.woff",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "vietnamese",
+    "latin",
+    "latin-ext",
+    "malayalam"
+  ],
+  "category": "display",
+  "version": "v5",
+  "lastModified": "2019-07-16",
+  "popularity": 189,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "vietnamese": false,
+    "latin": true,
+    "latin-ext": false,
+    "malayalam": true
+  },
+  "storeID": "malayalam_latin"
+}

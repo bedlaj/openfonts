@@ -1,0 +1,35 @@
+{
+  "id": "nova-oval",
+  "family": "Nova Oval",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/novaoval/v11/jAnEgHdmANHvPenMaswyNoWm.woff",
+      "fontFamily": "'Nova Oval'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Nova Oval",
+        "NovaOval"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=jAnEgHdmANHvPenMaswyNoWn&skey=e3610a8d67a56934&v=v11#NovaOval",
+      "woff2": "https://fonts.gstatic.com/s/novaoval/v11/jAnEgHdmANHvPenMaswyNoWg.woff2",
+      "ttf": "https://fonts.gstatic.com/s/novaoval/v11/jAnEgHdmANHvPenMaswyNoWl.ttf",
+      "eot": "https://fonts.gstatic.com/s/novaoval/v11/jAnEgHdmANHvPenMaswyNoWk.eot",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "category": "display",
+  "version": "v11",
+  "lastModified": "2019-07-16",
+  "popularity": 890,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true
+  },
+  "storeID": "latin"
+}

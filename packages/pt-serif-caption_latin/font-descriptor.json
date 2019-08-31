@@ -1,0 +1,57 @@
+{
+  "id": "pt-serif-caption",
+  "family": "PT Serif Caption",
+  "variants": [
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/ptserifcaption/v11/ieVl2ZhbGCW-JoW6S34pSDpqYKU019K7CQ.eot",
+      "fontFamily": "'PT Serif Caption'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/ptserifcaption/v11/ieVl2ZhbGCW-JoW6S34pSDpqYKU019K7DQ.woff2",
+      "local": [
+        "PT Serif Caption",
+        "PTSerif-Caption"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=ieVl2ZhbGCW-JoW6S34pSDpqYKU019K7Cg&skey=ec75b9a3c692f86&v=v11#PTSerifCaption",
+      "woff": "https://fonts.gstatic.com/s/ptserifcaption/v11/ieVl2ZhbGCW-JoW6S34pSDpqYKU019K7Cw.woff",
+      "ttf": "https://fonts.gstatic.com/s/ptserifcaption/v11/ieVl2ZhbGCW-JoW6S34pSDpqYKU019K7CA.ttf",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "woff": "https://fonts.gstatic.com/s/ptserifcaption/v11/ieVj2ZhbGCW-JoW6S34pSDpqYKU019eLDwM7.woff",
+      "fontFamily": "'PT Serif Caption'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "local": [
+        "PT Serif Caption Italic",
+        "PTSerif-CaptionItalic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/ptserifcaption/v11/ieVj2ZhbGCW-JoW6S34pSDpqYKU019eLDwM9.woff2",
+      "ttf": "https://fonts.gstatic.com/s/ptserifcaption/v11/ieVj2ZhbGCW-JoW6S34pSDpqYKU019eLDwM4.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=ieVj2ZhbGCW-JoW6S34pSDpqYKU019eLDwM6&skey=ec3e40f04ab9874e&v=v11#PTSerifCaption",
+      "eot": "https://fonts.gstatic.com/s/ptserifcaption/v11/ieVj2ZhbGCW-JoW6S34pSDpqYKU019eLDwM5.eot",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "cyrillic",
+    "cyrillic-ext"
+  ],
+  "category": "serif",
+  "version": "v11",
+  "lastModified": "2019-07-16",
+  "popularity": 254,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false,
+    "cyrillic": false,
+    "cyrillic-ext": false
+  },
+  "storeID": "latin"
+}

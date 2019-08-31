@@ -1,0 +1,51 @@
+{
+  "id": "fanwood-text",
+  "family": "Fanwood Text",
+  "variants": [
+    {
+      "id": "regular",
+      "ttf": "https://fonts.gstatic.com/s/fanwoodtext/v9/3XFtErwl05Ad_vSCF6Fq7xX2Qtzc.ttf",
+      "fontFamily": "'Fanwood Text'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Fanwood Text",
+        "FanwoodText-Regular"
+      ],
+      "woff": "https://fonts.gstatic.com/s/fanwoodtext/v9/3XFtErwl05Ad_vSCF6Fq7xX2Qtzf.woff",
+      "eot": "https://fonts.gstatic.com/s/fanwoodtext/v9/3XFtErwl05Ad_vSCF6Fq7xX2Qtzd.eot",
+      "woff2": "https://fonts.gstatic.com/s/fanwoodtext/v9/3XFtErwl05Ad_vSCF6Fq7xX2QtzZ.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=3XFtErwl05Ad_vSCF6Fq7xX2Qtze&skey=8cc868de15dabfdc&v=v9#FanwoodText",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "ttf": "https://fonts.gstatic.com/s/fanwoodtext/v9/3XFzErwl05Ad_vSCF6Fq7xX2R-zb_Pw.ttf",
+      "fontFamily": "'Fanwood Text'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "local": [
+        "Fanwood Text Italic",
+        "FanwoodText-Italic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/fanwoodtext/v9/3XFzErwl05Ad_vSCF6Fq7xX2R-zb_Pk.woff2",
+      "woff": "https://fonts.gstatic.com/s/fanwoodtext/v9/3XFzErwl05Ad_vSCF6Fq7xX2R-zb_P8.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=3XFzErwl05Ad_vSCF6Fq7xX2R-zb_P4&skey=9b74f31013f1b5bc&v=v9#FanwoodText",
+      "eot": "https://fonts.gstatic.com/s/fanwoodtext/v9/3XFzErwl05Ad_vSCF6Fq7xX2R-zb_P0.eot",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "category": "serif",
+  "version": "v9",
+  "lastModified": "2019-07-16",
+  "popularity": 472,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true
+  },
+  "storeID": "latin"
+}

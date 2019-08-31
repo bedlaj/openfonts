@@ -1,0 +1,37 @@
+{
+  "id": "audiowide",
+  "family": "Audiowide",
+  "variants": [
+    {
+      "id": "regular",
+      "svg": "https://fonts.gstatic.com/l/font?kit=l7gdbjpo0cum0ckerWCdmA_J&skey=8f321fd369abd5f&v=v8#Audiowide",
+      "fontFamily": "'Audiowide'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Audiowide Regular",
+        "Audiowide-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/audiowide/v8/l7gdbjpo0cum0ckerWCdmA_O.woff2",
+      "woff": "https://fonts.gstatic.com/s/audiowide/v8/l7gdbjpo0cum0ckerWCdmA_I.woff",
+      "ttf": "https://fonts.gstatic.com/s/audiowide/v8/l7gdbjpo0cum0ckerWCdmA_L.ttf",
+      "eot": "https://fonts.gstatic.com/s/audiowide/v8/l7gdbjpo0cum0ckerWCdmA_K.eot",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "display",
+  "version": "v8",
+  "lastModified": "2019-07-16",
+  "popularity": 221,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin"
+}

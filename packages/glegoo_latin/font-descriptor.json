@@ -1,0 +1,55 @@
+{
+  "id": "glegoo",
+  "family": "Glegoo",
+  "variants": [
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/glegoo/v9/_Xmt-HQyrTKWaw25jKOc.eot",
+      "fontFamily": "'Glegoo'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "ttf": "https://fonts.gstatic.com/s/glegoo/v9/_Xmt-HQyrTKWaw25jKOd.ttf",
+      "local": [
+        "Glegoo",
+        "Glegoo-Regular"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=_Xmt-HQyrTKWaw25jKOf&skey=6551fc07d4130f4e&v=v9#Glegoo",
+      "woff": "https://fonts.gstatic.com/s/glegoo/v9/_Xmt-HQyrTKWaw25jKOe.woff",
+      "woff2": "https://fonts.gstatic.com/s/glegoo/v9/_Xmt-HQyrTKWaw25jKOY.woff2",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff2": "https://fonts.gstatic.com/s/glegoo/v9/_Xmu-HQyrTKWaw2xN4aND65o.woff2",
+      "fontFamily": "'Glegoo'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Glegoo Bold",
+        "Glegoo-Bold"
+      ],
+      "woff": "https://fonts.gstatic.com/s/glegoo/v9/_Xmu-HQyrTKWaw2xN4aND65u.woff",
+      "eot": "https://fonts.gstatic.com/s/glegoo/v9/_Xmu-HQyrTKWaw2xN4aND65s.eot",
+      "ttf": "https://fonts.gstatic.com/s/glegoo/v9/_Xmu-HQyrTKWaw2xN4aND65t.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=_Xmu-HQyrTKWaw2xN4aND65v&skey=2a299c59145b3847&v=v9#Glegoo",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "devanagari",
+    "latin-ext"
+  ],
+  "category": "serif",
+  "version": "v9",
+  "lastModified": "2019-07-16",
+  "popularity": 207,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "devanagari": false,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

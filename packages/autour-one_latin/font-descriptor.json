@@ -1,0 +1,37 @@
+{
+  "id": "autour-one",
+  "family": "Autour One",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/autourone/v9/UqyVK80cP25l3fJgbdfbo55cVw.woff2",
+      "fontFamily": "'Autour One'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Autour One Regular",
+        "AutourOne-Regular"
+      ],
+      "woff": "https://fonts.gstatic.com/s/autourone/v9/UqyVK80cP25l3fJgbdfbo55cUQ.woff",
+      "eot": "https://fonts.gstatic.com/s/autourone/v9/UqyVK80cP25l3fJgbdfbo55cUw.eot",
+      "ttf": "https://fonts.gstatic.com/s/autourone/v9/UqyVK80cP25l3fJgbdfbo55cUg.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=UqyVK80cP25l3fJgbdfbo55cUA&skey=349fce4f261a2eda&v=v9#AutourOne",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "display",
+  "version": "v9",
+  "lastModified": "2019-07-16",
+  "popularity": 756,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

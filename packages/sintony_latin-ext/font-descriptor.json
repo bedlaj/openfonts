@@ -1,0 +1,52 @@
+{
+  "id": "sintony",
+  "family": "Sintony",
+  "variants": [
+    {
+      "id": "regular",
+      "svg": "https://fonts.gstatic.com/l/font?kit=XoHm2YDqR7-98cVUET0tvQ&skey=426d22ccedcca3b&v=v7#Sintony",
+      "fontFamily": "'Sintony'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Sintony"
+      ],
+      "woff": "https://fonts.gstatic.com/s/sintony/v7/XoHm2YDqR7-98cVUET0tvA.woff",
+      "woff2": "https://fonts.gstatic.com/s/sintony/v7/XoHm2YDqR7-98cVUET0tug.woff2",
+      "eot": "https://fonts.gstatic.com/s/sintony/v7/XoHm2YDqR7-98cVUET0tvg.eot",
+      "ttf": "https://fonts.gstatic.com/s/sintony/v7/XoHm2YDqR7-98cVUET0tvw.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/sintony/v7/XoHj2YDqR7-98cVUGYgIr94Jlw.eot",
+      "fontFamily": "'Sintony'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/sintony/v7/XoHj2YDqR7-98cVUGYgIr94JlQ.woff",
+      "local": [
+        "Sintony Bold",
+        "Sintony-Bold"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=XoHj2YDqR7-98cVUGYgIr94JlA&skey=902240db7073dc70&v=v7#Sintony",
+      "woff2": "https://fonts.gstatic.com/s/sintony/v7/XoHj2YDqR7-98cVUGYgIr94Jkw.woff2",
+      "ttf": "https://fonts.gstatic.com/s/sintony/v7/XoHj2YDqR7-98cVUGYgIr94Jlg.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v7",
+  "lastModified": "2019-07-16",
+  "popularity": 236,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin"
+}

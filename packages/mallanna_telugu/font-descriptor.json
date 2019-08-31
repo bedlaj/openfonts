@@ -1,0 +1,36 @@
+{
+  "id": "mallanna",
+  "family": "Mallanna",
+  "variants": [
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/mallanna/v7/hv-Vlzx-KEQb84YaDFwoGTE.eot",
+      "fontFamily": "'Mallanna'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/mallanna/v7/hv-Vlzx-KEQb84YaDFwoGTM.woff",
+      "local": [
+        "Mallanna"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/mallanna/v7/hv-Vlzx-KEQb84YaDFwoGTU.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=hv-Vlzx-KEQb84YaDFwoGTI&skey=1cbb48e2a8964ae5&v=v7#Mallanna",
+      "ttf": "https://fonts.gstatic.com/s/mallanna/v7/hv-Vlzx-KEQb84YaDFwoGTA.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "telugu",
+    "latin"
+  ],
+  "category": "sans-serif",
+  "version": "v7",
+  "lastModified": "2019-07-16",
+  "popularity": 498,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "telugu": true,
+    "latin": true
+  },
+  "storeID": "latin_telugu"
+}

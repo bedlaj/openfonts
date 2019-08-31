@@ -1,0 +1,37 @@
+{
+  "id": "poor-story",
+  "family": "Poor Story",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/poorstory/v8/jizfREFUsnUct9P6cDfd0O6tLQ.woff2",
+      "fontFamily": "'Poor Story'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Poor Story Regular",
+        "PoorStory-Regular"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=jizfREFUsnUct9P6cDfd0O6tKg&skey=e23f2981588de137&v=v8#PoorStory",
+      "eot": "https://fonts.gstatic.com/s/poorstory/v8/jizfREFUsnUct9P6cDfd0O6tKQ.eot",
+      "woff": "https://fonts.gstatic.com/s/poorstory/v8/jizfREFUsnUct9P6cDfd0O6tKw.woff",
+      "ttf": "https://fonts.gstatic.com/s/poorstory/v8/jizfREFUsnUct9P6cDfd0O6tKA.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "korean",
+    "latin"
+  ],
+  "category": "display",
+  "version": "v8",
+  "lastModified": "2019-07-16",
+  "popularity": 817,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "korean": false,
+    "latin": true
+  },
+  "storeID": "latin"
+}

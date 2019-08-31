@@ -1,0 +1,37 @@
+{
+  "id": "grand-hotel",
+  "family": "Grand Hotel",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/grandhotel/v7/7Au7p_IgjDKdCRWuR1azplQKGFw.woff2",
+      "fontFamily": "'Grand Hotel'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Grand Hotel",
+        "GrandHotel-Regular"
+      ],
+      "woff": "https://fonts.gstatic.com/s/grandhotel/v7/7Au7p_IgjDKdCRWuR1azplQKGFo.woff",
+      "ttf": "https://fonts.gstatic.com/s/grandhotel/v7/7Au7p_IgjDKdCRWuR1azplQKGFk.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=7Au7p_IgjDKdCRWuR1azplQKGFs&skey=3d5373e9fc70eefe&v=v7#GrandHotel",
+      "eot": "https://fonts.gstatic.com/s/grandhotel/v7/7Au7p_IgjDKdCRWuR1azplQKGFg.eot",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "handwriting",
+  "version": "v7",
+  "lastModified": "2019-07-16",
+  "popularity": 353,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

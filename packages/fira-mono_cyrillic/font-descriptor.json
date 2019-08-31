@@ -1,0 +1,77 @@
+{
+  "id": "fira-mono",
+  "family": "Fira Mono",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/firamono/v8/N0bX2SlFPv1weGeLZDtgIv7U.woff",
+      "fontFamily": "'Fira Mono'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Fira Mono Regular",
+        "FiraMono-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/firamono/v8/N0bX2SlFPv1weGeLZDtgIv7S.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=N0bX2SlFPv1weGeLZDtgIv7V&skey=bb26c8d476ab3f05&v=v8#FiraMono",
+      "ttf": "https://fonts.gstatic.com/s/firamono/v8/N0bX2SlFPv1weGeLZDtgIv7X.ttf",
+      "eot": "https://fonts.gstatic.com/s/firamono/v8/N0bX2SlFPv1weGeLZDtgIv7W.eot",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/firamono/v8/N0bS2SlFPv1weGeLZDtondvHmvfQ.eot",
+      "fontFamily": "'Fira Mono'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff2": "https://fonts.gstatic.com/s/firamono/v8/N0bS2SlFPv1weGeLZDtondvHmvfU.woff2",
+      "local": [
+        "Fira Mono Bold",
+        "FiraMono-Bold"
+      ],
+      "woff": "https://fonts.gstatic.com/s/firamono/v8/N0bS2SlFPv1weGeLZDtondvHmvfS.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=N0bS2SlFPv1weGeLZDtondvHmvfT&skey=3313aa7e4518a10&v=v8#FiraMono",
+      "ttf": "https://fonts.gstatic.com/s/firamono/v8/N0bS2SlFPv1weGeLZDtondvHmvfR.ttf",
+      "errored": false
+    },
+    {
+      "id": "500",
+      "eot": "https://fonts.gstatic.com/s/firamono/v8/N0bS2SlFPv1weGeLZDto1d3HmvfQ.eot",
+      "fontFamily": "'Fira Mono'",
+      "fontStyle": "normal",
+      "fontWeight": "500",
+      "svg": "https://fonts.gstatic.com/l/font?kit=N0bS2SlFPv1weGeLZDto1d3HmvfT&skey=9ab5808f9463dfb5&v=v8#FiraMono",
+      "local": [
+        "Fira Mono Medium",
+        "FiraMono-Medium"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/firamono/v8/N0bS2SlFPv1weGeLZDto1d3HmvfR.ttf",
+      "woff2": "https://fonts.gstatic.com/s/firamono/v8/N0bS2SlFPv1weGeLZDto1d3HmvfU.woff2",
+      "woff": "https://fonts.gstatic.com/s/firamono/v8/N0bS2SlFPv1weGeLZDto1d3HmvfS.woff",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "greek-ext",
+    "greek",
+    "latin",
+    "latin-ext",
+    "cyrillic",
+    "cyrillic-ext"
+  ],
+  "category": "monospace",
+  "version": "v8",
+  "lastModified": "2019-07-16",
+  "popularity": 298,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "greek-ext": false,
+    "greek": false,
+    "latin": true,
+    "latin-ext": false,
+    "cyrillic": true,
+    "cyrillic-ext": false
+  },
+  "storeID": "cyrillic_latin"
+}

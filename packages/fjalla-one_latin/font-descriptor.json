@@ -1,0 +1,37 @@
+{
+  "id": "fjalla-one",
+  "family": "Fjalla One",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/fjallaone/v7/Yq6R-LCAWCX3-6Ky7FAFrOF6kg.woff2",
+      "fontFamily": "'Fjalla One'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Fjalla One",
+        "FjallaOne-Regular"
+      ],
+      "woff": "https://fonts.gstatic.com/s/fjallaone/v7/Yq6R-LCAWCX3-6Ky7FAFrOF6lA.woff",
+      "ttf": "https://fonts.gstatic.com/s/fjallaone/v7/Yq6R-LCAWCX3-6Ky7FAFrOF6lw.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Yq6R-LCAWCX3-6Ky7FAFrOF6lQ&skey=81738d23c31d6227&v=v7#FjallaOne",
+      "eot": "https://fonts.gstatic.com/s/fjallaone/v7/Yq6R-LCAWCX3-6Ky7FAFrOF6lg.eot",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v7",
+  "lastModified": "2019-07-17",
+  "popularity": 48,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

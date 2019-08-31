@@ -1,0 +1,34 @@
+{
+  "id": "metal",
+  "family": "Metal",
+  "variants": [
+    {
+      "id": "regular",
+      "ttf": "https://fonts.gstatic.com/s/metal/v12/lW-wwjUJIXTo7h3rlIA.ttf",
+      "fontFamily": "'Metal'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Metal"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=lW-wwjUJIXTo7h3rlII&skey=d087e808e3072835&v=v12#Metal",
+      "eot": "https://fonts.gstatic.com/s/metal/v12/lW-wwjUJIXTo7h3rlIE.eot",
+      "woff": "https://fonts.gstatic.com/s/metal/v12/lW-wwjUJIXTo7h3rlIM.woff",
+      "woff2": "https://fonts.gstatic.com/s/metal/v12/lW-wwjUJIXTo7h3rlIU.woff2",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "khmer"
+  ],
+  "category": "display",
+  "version": "v12",
+  "lastModified": "2019-07-16",
+  "popularity": 869,
+  "defSubset": "khmer",
+  "defVariant": "regular",
+  "subsetMap": {
+    "khmer": true
+  },
+  "storeID": "khmer"
+}

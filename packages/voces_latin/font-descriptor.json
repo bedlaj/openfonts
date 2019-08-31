@@ -1,0 +1,37 @@
+{
+  "id": "voces",
+  "family": "Voces",
+  "variants": [
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/voces/v9/-F6_fjJyLyU8d7PGDms.eot",
+      "fontFamily": "'Voces'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/voces/v9/-F6_fjJyLyU8d7PGDm8.woff2",
+      "local": [
+        "Voces Regular",
+        "Voces-Regular"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/voces/v9/-F6_fjJyLyU8d7PGDmo.ttf",
+      "woff": "https://fonts.gstatic.com/s/voces/v9/-F6_fjJyLyU8d7PGDmk.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=-F6_fjJyLyU8d7PGDmg&skey=65f0275f2e62ce2&v=v9#Voces",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "display",
+  "version": "v9",
+  "lastModified": "2019-07-16",
+  "popularity": 595,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

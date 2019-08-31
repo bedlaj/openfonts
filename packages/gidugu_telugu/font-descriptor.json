@@ -1,0 +1,36 @@
+{
+  "id": "gidugu",
+  "family": "Gidugu",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/gidugu/v6/L0x8DFMkk1Uf6w3hp_qh.woff",
+      "fontFamily": "'Gidugu'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Gidugu"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/gidugu/v6/L0x8DFMkk1Uf6w3hp_qn.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=L0x8DFMkk1Uf6w3hp_qg&skey=52d850c02c4a43e2&v=v6#Gidugu",
+      "eot": "https://fonts.gstatic.com/s/gidugu/v6/L0x8DFMkk1Uf6w3hp_qj.eot",
+      "ttf": "https://fonts.gstatic.com/s/gidugu/v6/L0x8DFMkk1Uf6w3hp_qi.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "telugu",
+    "latin"
+  ],
+  "category": "sans-serif",
+  "version": "v6",
+  "lastModified": "2019-07-16",
+  "popularity": 910,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "telugu": true,
+    "latin": true
+  },
+  "storeID": "latin_telugu"
+}

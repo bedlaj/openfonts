@@ -1,0 +1,37 @@
+{
+  "id": "arbutus-slab",
+  "family": "Arbutus Slab",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/arbutusslab/v8/oY1Z8e7OuLXkJGbXtr5ba7ZlYqUa.woff",
+      "fontFamily": "'Arbutus Slab'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Arbutus Slab Regular",
+        "ArbutusSlab-Regular"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/arbutusslab/v8/oY1Z8e7OuLXkJGbXtr5ba7ZlYqUZ.ttf",
+      "eot": "https://fonts.gstatic.com/s/arbutusslab/v8/oY1Z8e7OuLXkJGbXtr5ba7ZlYqUY.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=oY1Z8e7OuLXkJGbXtr5ba7ZlYqUb&skey=4b2cc8691b01771f&v=v8#ArbutusSlab",
+      "woff2": "https://fonts.gstatic.com/s/arbutusslab/v8/oY1Z8e7OuLXkJGbXtr5ba7ZlYqUc.woff2",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "serif",
+  "version": "v8",
+  "lastModified": "2019-07-16",
+  "popularity": 250,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin"
+}

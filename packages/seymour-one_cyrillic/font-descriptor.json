@@ -1,0 +1,39 @@
+{
+  "id": "seymour-one",
+  "family": "Seymour One",
+  "variants": [
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/seymourone/v7/4iCp6Khla9xbjQpoWGGd0lyLN4U.eot",
+      "fontFamily": "'Seymour One'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "ttf": "https://fonts.gstatic.com/s/seymourone/v7/4iCp6Khla9xbjQpoWGGd0lyLN4Q.ttf",
+      "local": [
+        "Seymour One",
+        "SeymourOne"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=4iCp6Khla9xbjQpoWGGd0lyLN4Y&skey=f9acfe398dc38251&v=v7#SeymourOne",
+      "woff2": "https://fonts.gstatic.com/s/seymourone/v7/4iCp6Khla9xbjQpoWGGd0lyLN4E.woff2",
+      "woff": "https://fonts.gstatic.com/s/seymourone/v7/4iCp6Khla9xbjQpoWGGd0lyLN4c.woff",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "cyrillic"
+  ],
+  "category": "sans-serif",
+  "version": "v7",
+  "lastModified": "2019-07-16",
+  "popularity": 876,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false,
+    "cyrillic": true
+  },
+  "storeID": "cyrillic_latin"
+}

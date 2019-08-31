@@ -1,0 +1,251 @@
+{
+  "id": "ibm-plex-serif",
+  "family": "IBM Plex Serif",
+  "variants": [
+    {
+      "id": "100",
+      "ttf": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizBREVNn1dOx-zrZ2X3pZvkTi186zUTiw.ttf",
+      "fontFamily": "'IBM Plex Serif'",
+      "fontStyle": "normal",
+      "fontWeight": "100",
+      "local": [
+        "IBM Plex Serif Thin",
+        "IBMPlexSerif-Thin"
+      ],
+      "woff": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizBREVNn1dOx-zrZ2X3pZvkTi186zUTiA.woff",
+      "woff2": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizBREVNn1dOx-zrZ2X3pZvkTi186zUTjg.woff2",
+      "eot": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizBREVNn1dOx-zrZ2X3pZvkTi186zUTig.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=jizBREVNn1dOx-zrZ2X3pZvkTi186zUTiQ&skey=f66cfd84c49f045b&v=v8#IBMPlexSerif",
+      "errored": false
+    },
+    {
+      "id": "100italic",
+      "svg": "https://fonts.gstatic.com/l/font?kit=jizHREVNn1dOx-zrZ2X3pZvkTiUa41YjjH7L&skey=7c5da64f673ad10c&v=v8#IBMPlexSerif",
+      "fontFamily": "'IBM Plex Serif'",
+      "fontStyle": "italic",
+      "fontWeight": "100",
+      "local": [
+        "IBM Plex Serif Thin Italic",
+        "IBMPlexSerif-ThinItalic"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizHREVNn1dOx-zrZ2X3pZvkTiUa41YjjH7J.ttf",
+      "woff2": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizHREVNn1dOx-zrZ2X3pZvkTiUa41YjjH7M.woff2",
+      "woff": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizHREVNn1dOx-zrZ2X3pZvkTiUa41YjjH7K.woff",
+      "eot": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizHREVNn1dOx-zrZ2X3pZvkTiUa41YjjH7I.eot",
+      "errored": false
+    },
+    {
+      "id": "200",
+      "eot": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizAREVNn1dOx-zrZ2X3pZvkTi3Q-iI0q18.eot",
+      "fontFamily": "'IBM Plex Serif'",
+      "fontStyle": "normal",
+      "fontWeight": "200",
+      "woff": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizAREVNn1dOx-zrZ2X3pZvkTi3Q-iI0q10.woff",
+      "local": [
+        "IBM Plex Serif ExtraLight",
+        "IBMPlexSerif-ExtraLight"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizAREVNn1dOx-zrZ2X3pZvkTi3Q-iI0q1s.woff2",
+      "ttf": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizAREVNn1dOx-zrZ2X3pZvkTi3Q-iI0q14.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=jizAREVNn1dOx-zrZ2X3pZvkTi3Q-iI0q1w&skey=3683aa6b7d63f6d5&v=v8#IBMPlexSerif",
+      "errored": false
+    },
+    {
+      "id": "200italic",
+      "eot": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizGREVNn1dOx-zrZ2X3pZvkTiUa4_oym1npiQ.eot",
+      "fontFamily": "'IBM Plex Serif'",
+      "fontStyle": "italic",
+      "fontWeight": "200",
+      "woff2": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizGREVNn1dOx-zrZ2X3pZvkTiUa4_oym1npjQ.woff2",
+      "local": [
+        "IBM Plex Serif ExtraLight Italic",
+        "IBMPlexSerif-ExtraLightItalic"
+      ],
+      "woff": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizGREVNn1dOx-zrZ2X3pZvkTiUa4_oym1npiw.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=jizGREVNn1dOx-zrZ2X3pZvkTiUa4_oym1npig&skey=c07aecabf4d644a0&v=v8#IBMPlexSerif",
+      "ttf": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizGREVNn1dOx-zrZ2X3pZvkTiUa4_oym1npiA.ttf",
+      "errored": false
+    },
+    {
+      "id": "300",
+      "woff": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizAREVNn1dOx-zrZ2X3pZvkTi20-SI0q10.woff",
+      "fontFamily": "'IBM Plex Serif'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "local": [
+        "IBM Plex Serif Light",
+        "IBMPlexSerif-Light"
+      ],
+      "eot": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizAREVNn1dOx-zrZ2X3pZvkTi20-SI0q18.eot",
+      "woff2": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizAREVNn1dOx-zrZ2X3pZvkTi20-SI0q1s.woff2",
+      "ttf": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizAREVNn1dOx-zrZ2X3pZvkTi20-SI0q14.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=jizAREVNn1dOx-zrZ2X3pZvkTi20-SI0q1w&skey=4df2c396b7c23c2d&v=v8#IBMPlexSerif",
+      "errored": false
+    },
+    {
+      "id": "300italic",
+      "woff": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizGREVNn1dOx-zrZ2X3pZvkTiUa454xm1npiw.woff",
+      "fontFamily": "'IBM Plex Serif'",
+      "fontStyle": "italic",
+      "fontWeight": "300",
+      "local": [
+        "IBM Plex Serif Light Italic",
+        "IBMPlexSerif-LightItalic"
+      ],
+      "eot": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizGREVNn1dOx-zrZ2X3pZvkTiUa454xm1npiQ.eot",
+      "woff2": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizGREVNn1dOx-zrZ2X3pZvkTiUa454xm1npjQ.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=jizGREVNn1dOx-zrZ2X3pZvkTiUa454xm1npig&skey=879b82ed72723260&v=v8#IBMPlexSerif",
+      "ttf": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizGREVNn1dOx-zrZ2X3pZvkTiUa454xm1npiA.ttf",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizDREVNn1dOx-zrZ2X3pZvkTiUf2zc.woff2",
+      "fontFamily": "'IBM Plex Serif'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "IBM Plex Serif",
+        "IBMPlexSerif"
+      ],
+      "woff": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizDREVNn1dOx-zrZ2X3pZvkTiUf2zE.woff",
+      "eot": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizDREVNn1dOx-zrZ2X3pZvkTiUf2zM.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=jizDREVNn1dOx-zrZ2X3pZvkTiUf2zA&skey=63d0238ea700aff8&v=v8#IBMPlexSerif",
+      "ttf": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizDREVNn1dOx-zrZ2X3pZvkTiUf2zI.ttf",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "woff2": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizBREVNn1dOx-zrZ2X3pZvkTiUa6zUTjg.woff2",
+      "fontFamily": "'IBM Plex Serif'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "local": [
+        "IBM Plex Serif Italic",
+        "IBMPlexSerif-Italic"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizBREVNn1dOx-zrZ2X3pZvkTiUa6zUTiw.ttf",
+      "eot": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizBREVNn1dOx-zrZ2X3pZvkTiUa6zUTig.eot",
+      "woff": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizBREVNn1dOx-zrZ2X3pZvkTiUa6zUTiA.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=jizBREVNn1dOx-zrZ2X3pZvkTiUa6zUTiQ&skey=faa87433ca4121a6&v=v8#IBMPlexSerif",
+      "errored": false
+    },
+    {
+      "id": "500",
+      "svg": "https://fonts.gstatic.com/l/font?kit=jizAREVNn1dOx-zrZ2X3pZvkTi3s-CI0q1w&skey=609cc221679a4d60&v=v8#IBMPlexSerif",
+      "fontFamily": "'IBM Plex Serif'",
+      "fontStyle": "normal",
+      "fontWeight": "500",
+      "local": [
+        "IBM Plex Serif Medium",
+        "IBMPlexSerif-Medium"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizAREVNn1dOx-zrZ2X3pZvkTi3s-CI0q1s.woff2",
+      "eot": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizAREVNn1dOx-zrZ2X3pZvkTi3s-CI0q18.eot",
+      "ttf": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizAREVNn1dOx-zrZ2X3pZvkTi3s-CI0q14.ttf",
+      "woff": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizAREVNn1dOx-zrZ2X3pZvkTi3s-CI0q10.woff",
+      "errored": false
+    },
+    {
+      "id": "500italic",
+      "woff2": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizGREVNn1dOx-zrZ2X3pZvkTiUa48Ywm1npjQ.woff2",
+      "fontFamily": "'IBM Plex Serif'",
+      "fontStyle": "italic",
+      "fontWeight": "500",
+      "local": [
+        "IBM Plex Serif Medium Italic",
+        "IBMPlexSerif-MediumItalic"
+      ],
+      "woff": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizGREVNn1dOx-zrZ2X3pZvkTiUa48Ywm1npiw.woff",
+      "ttf": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizGREVNn1dOx-zrZ2X3pZvkTiUa48Ywm1npiA.ttf",
+      "eot": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizGREVNn1dOx-zrZ2X3pZvkTiUa48Ywm1npiQ.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=jizGREVNn1dOx-zrZ2X3pZvkTiUa48Ywm1npig&skey=7c6e9ca997841831&v=v8#IBMPlexSerif",
+      "errored": false
+    },
+    {
+      "id": "600",
+      "woff": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizAREVNn1dOx-zrZ2X3pZvkTi3A_yI0q10.woff",
+      "fontFamily": "'IBM Plex Serif'",
+      "fontStyle": "normal",
+      "fontWeight": "600",
+      "local": [
+        "IBM Plex Serif SemiBold",
+        "IBMPlexSerif-SemiBold"
+      ],
+      "eot": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizAREVNn1dOx-zrZ2X3pZvkTi3A_yI0q18.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=jizAREVNn1dOx-zrZ2X3pZvkTi3A_yI0q1w&skey=5a16dbf7147b0488&v=v8#IBMPlexSerif",
+      "ttf": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizAREVNn1dOx-zrZ2X3pZvkTi3A_yI0q14.ttf",
+      "woff2": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizAREVNn1dOx-zrZ2X3pZvkTi3A_yI0q1s.woff2",
+      "errored": false
+    },
+    {
+      "id": "600italic",
+      "woff": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizGREVNn1dOx-zrZ2X3pZvkTiUa4-o3m1npiw.woff",
+      "fontFamily": "'IBM Plex Serif'",
+      "fontStyle": "italic",
+      "fontWeight": "600",
+      "local": [
+        "IBM Plex Serif SemiBold Italic",
+        "IBMPlexSerif-SemiBoldItalic"
+      ],
+      "eot": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizGREVNn1dOx-zrZ2X3pZvkTiUa4-o3m1npiQ.eot",
+      "ttf": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizGREVNn1dOx-zrZ2X3pZvkTiUa4-o3m1npiA.ttf",
+      "woff2": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizGREVNn1dOx-zrZ2X3pZvkTiUa4-o3m1npjQ.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=jizGREVNn1dOx-zrZ2X3pZvkTiUa4-o3m1npig&skey=8cb82388c877163f&v=v8#IBMPlexSerif",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizAREVNn1dOx-zrZ2X3pZvkTi2k_iI0q10.woff",
+      "fontFamily": "'IBM Plex Serif'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "IBM Plex Serif Bold",
+        "IBMPlexSerif-Bold"
+      ],
+      "eot": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizAREVNn1dOx-zrZ2X3pZvkTi2k_iI0q18.eot",
+      "ttf": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizAREVNn1dOx-zrZ2X3pZvkTi2k_iI0q14.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=jizAREVNn1dOx-zrZ2X3pZvkTi2k_iI0q1w&skey=c6f3b52e875e2973&v=v8#IBMPlexSerif",
+      "woff2": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizAREVNn1dOx-zrZ2X3pZvkTi2k_iI0q1s.woff2",
+      "errored": false
+    },
+    {
+      "id": "700italic",
+      "woff": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizGREVNn1dOx-zrZ2X3pZvkTiUa4442m1npiw.woff",
+      "fontFamily": "'IBM Plex Serif'",
+      "fontStyle": "italic",
+      "fontWeight": "700",
+      "local": [
+        "IBM Plex Serif Bold Italic",
+        "IBMPlexSerif-BoldItalic"
+      ],
+      "eot": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizGREVNn1dOx-zrZ2X3pZvkTiUa4442m1npiQ.eot",
+      "ttf": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizGREVNn1dOx-zrZ2X3pZvkTiUa4442m1npiA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=jizGREVNn1dOx-zrZ2X3pZvkTiUa4442m1npig&skey=b4315d3b943b387&v=v8#IBMPlexSerif",
+      "woff2": "https://fonts.gstatic.com/s/ibmplexserif/v8/jizGREVNn1dOx-zrZ2X3pZvkTiUa4442m1npjQ.woff2",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "vietnamese",
+    "latin",
+    "latin-ext",
+    "cyrillic",
+    "cyrillic-ext"
+  ],
+  "category": "serif",
+  "version": "v8",
+  "lastModified": "2019-07-16",
+  "popularity": 153,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "vietnamese": false,
+    "latin": true,
+    "latin-ext": false,
+    "cyrillic": false,
+    "cyrillic-ext": false
+  },
+  "storeID": "latin"
+}

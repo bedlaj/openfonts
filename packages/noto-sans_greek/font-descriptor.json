@@ -1,0 +1,97 @@
+{
+  "id": "noto-sans",
+  "family": "Noto Sans",
+  "variants": [
+    {
+      "id": "regular",
+      "ttf": "https://fonts.gstatic.com/s/notosans/v9/o-0IIpQlx3QUlC5A4PNr5jRF.ttf",
+      "fontFamily": "'Noto Sans'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Noto Sans",
+        "NotoSans"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/notosans/v9/o-0IIpQlx3QUlC5A4PNr5jRA.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=o-0IIpQlx3QUlC5A4PNr5jRH&skey=2b960fe17823056f&v=v9#NotoSans",
+      "eot": "https://fonts.gstatic.com/s/notosans/v9/o-0IIpQlx3QUlC5A4PNr5jRE.eot",
+      "woff": "https://fonts.gstatic.com/s/notosans/v9/o-0IIpQlx3QUlC5A4PNr5jRG.woff",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "woff": "https://fonts.gstatic.com/s/notosans/v9/o-0OIpQlx3QUlC5A4PNr4ARBQ_8.woff",
+      "fontFamily": "'Noto Sans'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "local": [
+        "Noto Sans Italic",
+        "NotoSans-Italic"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/notosans/v9/o-0OIpQlx3QUlC5A4PNr4ARBQ_w.ttf",
+      "eot": "https://fonts.gstatic.com/s/notosans/v9/o-0OIpQlx3QUlC5A4PNr4ARBQ_0.eot",
+      "woff2": "https://fonts.gstatic.com/s/notosans/v9/o-0OIpQlx3QUlC5A4PNr4ARBQ_k.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=o-0OIpQlx3QUlC5A4PNr4ARBQ_4&skey=10db4434b0359efc&v=v9#NotoSans",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/notosans/v9/o-0NIpQlx3QUlC5A4PNjXhFVZ9yF.eot",
+      "fontFamily": "'Noto Sans'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/notosans/v9/o-0NIpQlx3QUlC5A4PNjXhFVZ9yH.woff",
+      "local": [
+        "Noto Sans Bold",
+        "NotoSans-Bold"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=o-0NIpQlx3QUlC5A4PNjXhFVZ9yG&skey=c04743c8f0416da6&v=v9#NotoSans",
+      "woff2": "https://fonts.gstatic.com/s/notosans/v9/o-0NIpQlx3QUlC5A4PNjXhFVZ9yB.woff2",
+      "ttf": "https://fonts.gstatic.com/s/notosans/v9/o-0NIpQlx3QUlC5A4PNjXhFVZ9yE.ttf",
+      "errored": false
+    },
+    {
+      "id": "700italic",
+      "woff": "https://fonts.gstatic.com/s/notosans/v9/o-0TIpQlx3QUlC5A4PNr4Az5ZuyAzWs.woff",
+      "fontFamily": "'Noto Sans'",
+      "fontStyle": "italic",
+      "fontWeight": "700",
+      "local": [
+        "Noto Sans Bold Italic",
+        "NotoSans-BoldItalic"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=o-0TIpQlx3QUlC5A4PNr4Az5ZuyAzWo&skey=940e0a2cc413d0c8&v=v9#NotoSans",
+      "woff2": "https://fonts.gstatic.com/s/notosans/v9/o-0TIpQlx3QUlC5A4PNr4Az5ZuyAzW0.woff2",
+      "ttf": "https://fonts.gstatic.com/s/notosans/v9/o-0TIpQlx3QUlC5A4PNr4Az5ZuyAzWg.ttf",
+      "eot": "https://fonts.gstatic.com/s/notosans/v9/o-0TIpQlx3QUlC5A4PNr4Az5ZuyAzWk.eot",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "greek-ext",
+    "vietnamese",
+    "greek",
+    "latin",
+    "devanagari",
+    "latin-ext",
+    "cyrillic",
+    "cyrillic-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v9",
+  "lastModified": "2019-07-22",
+  "popularity": 13,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "greek-ext": false,
+    "vietnamese": false,
+    "greek": true,
+    "latin": true,
+    "devanagari": false,
+    "latin-ext": false,
+    "cyrillic": false,
+    "cyrillic-ext": false
+  },
+  "storeID": "latin_greek"
+}

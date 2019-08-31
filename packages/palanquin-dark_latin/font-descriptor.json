@@ -1,0 +1,87 @@
+{
+  "id": "palanquin-dark",
+  "family": "Palanquin Dark",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/palanquindark/v6/xn75YHgl1nqmANMB-26xC7yuF86JRk0.woff",
+      "fontFamily": "'Palanquin Dark'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Palanquin Dark Regular",
+        "PalanquinDark-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/palanquindark/v6/xn75YHgl1nqmANMB-26xC7yuF86JRks.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=xn75YHgl1nqmANMB-26xC7yuF86JRkw&skey=3eb0a005574e11fb&v=v6#PalanquinDark",
+      "ttf": "https://fonts.gstatic.com/s/palanquindark/v6/xn75YHgl1nqmANMB-26xC7yuF86JRk4.ttf",
+      "eot": "https://fonts.gstatic.com/s/palanquindark/v6/xn75YHgl1nqmANMB-26xC7yuF86JRk8.eot",
+      "errored": false
+    },
+    {
+      "id": "500",
+      "ttf": "https://fonts.gstatic.com/s/palanquindark/v6/xn76YHgl1nqmANMB-26xC7yuF8Z6ZV4yd88.ttf",
+      "fontFamily": "'Palanquin Dark'",
+      "fontStyle": "normal",
+      "fontWeight": "500",
+      "local": [
+        "Palanquin Dark Medium",
+        "PalanquinDark-Medium"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=xn76YHgl1nqmANMB-26xC7yuF8Z6ZV4yd80&skey=f65fdd1233b1fd56&v=v6#PalanquinDark",
+      "woff": "https://fonts.gstatic.com/s/palanquindark/v6/xn76YHgl1nqmANMB-26xC7yuF8Z6ZV4yd8w.woff",
+      "woff2": "https://fonts.gstatic.com/s/palanquindark/v6/xn76YHgl1nqmANMB-26xC7yuF8Z6ZV4yd8o.woff2",
+      "eot": "https://fonts.gstatic.com/s/palanquindark/v6/xn76YHgl1nqmANMB-26xC7yuF8Z6ZV4yd84.eot",
+      "errored": false
+    },
+    {
+      "id": "600",
+      "woff2": "https://fonts.gstatic.com/s/palanquindark/v6/xn76YHgl1nqmANMB-26xC7yuF8ZWYl4yd8o.woff2",
+      "fontFamily": "'Palanquin Dark'",
+      "fontStyle": "normal",
+      "fontWeight": "600",
+      "local": [
+        "Palanquin Dark SemiBold",
+        "PalanquinDark-SemiBold"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=xn76YHgl1nqmANMB-26xC7yuF8ZWYl4yd80&skey=664ebebb0f142b05&v=v6#PalanquinDark",
+      "eot": "https://fonts.gstatic.com/s/palanquindark/v6/xn76YHgl1nqmANMB-26xC7yuF8ZWYl4yd84.eot",
+      "woff": "https://fonts.gstatic.com/s/palanquindark/v6/xn76YHgl1nqmANMB-26xC7yuF8ZWYl4yd8w.woff",
+      "ttf": "https://fonts.gstatic.com/s/palanquindark/v6/xn76YHgl1nqmANMB-26xC7yuF8ZWYl4yd88.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff2": "https://fonts.gstatic.com/s/palanquindark/v6/xn76YHgl1nqmANMB-26xC7yuF8YyY14yd8o.woff2",
+      "fontFamily": "'Palanquin Dark'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Palanquin Dark Bold",
+        "PalanquinDark-Bold"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=xn76YHgl1nqmANMB-26xC7yuF8YyY14yd80&skey=984aafa3efa84349&v=v6#PalanquinDark",
+      "woff": "https://fonts.gstatic.com/s/palanquindark/v6/xn76YHgl1nqmANMB-26xC7yuF8YyY14yd8w.woff",
+      "eot": "https://fonts.gstatic.com/s/palanquindark/v6/xn76YHgl1nqmANMB-26xC7yuF8YyY14yd84.eot",
+      "ttf": "https://fonts.gstatic.com/s/palanquindark/v6/xn76YHgl1nqmANMB-26xC7yuF8YyY14yd88.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "devanagari",
+    "latin-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v6",
+  "lastModified": "2019-07-16",
+  "popularity": 441,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "devanagari": false,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

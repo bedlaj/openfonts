@@ -1,0 +1,117 @@
+{
+  "id": "overlock",
+  "family": "Overlock",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/overlock/v9/Z9XVDmdMWRiN1_T9Z7TX6Oo.woff",
+      "fontFamily": "'Overlock'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Overlock Regular",
+        "Overlock-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/overlock/v9/Z9XVDmdMWRiN1_T9Z7TX6Ow.woff2",
+      "eot": "https://fonts.gstatic.com/s/overlock/v9/Z9XVDmdMWRiN1_T9Z7TX6Og.eot",
+      "ttf": "https://fonts.gstatic.com/s/overlock/v9/Z9XVDmdMWRiN1_T9Z7TX6Ok.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Z9XVDmdMWRiN1_T9Z7TX6Os&skey=f7e0b7327793af6c&v=v9#Overlock",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/overlock/v9/Z9XSDmdMWRiN1_T9Z7xizfmFtrg.eot",
+      "fontFamily": "'Overlock'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/overlock/v9/Z9XSDmdMWRiN1_T9Z7xizfmFtro.woff",
+      "local": [
+        "Overlock Bold",
+        "Overlock-Bold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/overlock/v9/Z9XSDmdMWRiN1_T9Z7xizfmFtrw.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Z9XSDmdMWRiN1_T9Z7xizfmFtrs&skey=91394cdd6f0e46b0&v=v9#Overlock",
+      "ttf": "https://fonts.gstatic.com/s/overlock/v9/Z9XSDmdMWRiN1_T9Z7xizfmFtrk.ttf",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "eot": "https://fonts.gstatic.com/s/overlock/v9/Z9XTDmdMWRiN1_T9Z7Tc2OCslw.eot",
+      "fontFamily": "'Overlock'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Z9XTDmdMWRiN1_T9Z7Tc2OCslA&skey=e00196b89987d926&v=v9#Overlock",
+      "local": [
+        "Overlock Italic",
+        "Overlock-Italic"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/overlock/v9/Z9XTDmdMWRiN1_T9Z7Tc2OCslg.ttf",
+      "woff2": "https://fonts.gstatic.com/s/overlock/v9/Z9XTDmdMWRiN1_T9Z7Tc2OCskw.woff2",
+      "woff": "https://fonts.gstatic.com/s/overlock/v9/Z9XTDmdMWRiN1_T9Z7Tc2OCslQ.woff",
+      "errored": false
+    },
+    {
+      "id": "700italic",
+      "eot": "https://fonts.gstatic.com/s/overlock/v9/Z9XQDmdMWRiN1_T9Z7Tc0FWJhrCj9Q.eot",
+      "fontFamily": "'Overlock'",
+      "fontStyle": "italic",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/overlock/v9/Z9XQDmdMWRiN1_T9Z7Tc0FWJhrCj9w.woff",
+      "local": [
+        "Overlock Bold Italic",
+        "Overlock-BoldItalic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/overlock/v9/Z9XQDmdMWRiN1_T9Z7Tc0FWJhrCj8Q.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Z9XQDmdMWRiN1_T9Z7Tc0FWJhrCj9g&skey=36eea10a693213bf&v=v9#Overlock",
+      "ttf": "https://fonts.gstatic.com/s/overlock/v9/Z9XQDmdMWRiN1_T9Z7Tc0FWJhrCj9A.ttf",
+      "errored": false
+    },
+    {
+      "id": "900",
+      "eot": "https://fonts.gstatic.com/s/overlock/v9/Z9XSDmdMWRiN1_T9Z7xaz_mFtrg.eot",
+      "fontFamily": "'Overlock'",
+      "fontStyle": "normal",
+      "fontWeight": "900",
+      "woff2": "https://fonts.gstatic.com/s/overlock/v9/Z9XSDmdMWRiN1_T9Z7xaz_mFtrw.woff2",
+      "local": [
+        "Overlock Black",
+        "Overlock-Black"
+      ],
+      "woff": "https://fonts.gstatic.com/s/overlock/v9/Z9XSDmdMWRiN1_T9Z7xaz_mFtro.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Z9XSDmdMWRiN1_T9Z7xaz_mFtrs&skey=b7b51fbca36f84ca&v=v9#Overlock",
+      "ttf": "https://fonts.gstatic.com/s/overlock/v9/Z9XSDmdMWRiN1_T9Z7xaz_mFtrk.ttf",
+      "errored": false
+    },
+    {
+      "id": "900italic",
+      "eot": "https://fonts.gstatic.com/s/overlock/v9/Z9XQDmdMWRiN1_T9Z7Tc0G2LhrCj9Q.eot",
+      "fontFamily": "'Overlock'",
+      "fontStyle": "italic",
+      "fontWeight": "900",
+      "woff": "https://fonts.gstatic.com/s/overlock/v9/Z9XQDmdMWRiN1_T9Z7Tc0G2LhrCj9w.woff",
+      "local": [
+        "Overlock Black Italic",
+        "Overlock-BlackItalic"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=Z9XQDmdMWRiN1_T9Z7Tc0G2LhrCj9g&skey=b1a2ce99348334cc&v=v9#Overlock",
+      "ttf": "https://fonts.gstatic.com/s/overlock/v9/Z9XQDmdMWRiN1_T9Z7Tc0G2LhrCj9A.ttf",
+      "woff2": "https://fonts.gstatic.com/s/overlock/v9/Z9XQDmdMWRiN1_T9Z7Tc0G2LhrCj8Q.woff2",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "display",
+  "version": "v9",
+  "lastModified": "2019-07-16",
+  "popularity": 324,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin"
+}

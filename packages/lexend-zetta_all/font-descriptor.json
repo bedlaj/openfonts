@@ -1,0 +1,39 @@
+{
+  "id": "lexend-zetta",
+  "family": "Lexend Zetta",
+  "variants": [
+    {
+      "id": "regular",
+      "svg": "https://fonts.gstatic.com/l/font?kit=ll87K2KYXje7CdOFnEWcU8solA&skey=4ce78d6ebb21fb74&v=v1#LexendZetta",
+      "fontFamily": "'Lexend Zetta'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Lexend Zetta Regular",
+        "LexendZetta-Regular"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/lexendzetta/v1/ll87K2KYXje7CdOFnEWcU8solg.ttf",
+      "woff2": "https://fonts.gstatic.com/s/lexendzetta/v1/ll87K2KYXje7CdOFnEWcU8sokw.woff2",
+      "woff": "https://fonts.gstatic.com/s/lexendzetta/v1/ll87K2KYXje7CdOFnEWcU8solQ.woff",
+      "eot": "https://fonts.gstatic.com/s/lexendzetta/v1/ll87K2KYXje7CdOFnEWcU8solw.eot",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "vietnamese",
+    "latin",
+    "latin-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v1",
+  "lastModified": "2019-08-14",
+  "popularity": 939,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "vietnamese": true,
+    "latin": true,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin_vietnamese"
+}

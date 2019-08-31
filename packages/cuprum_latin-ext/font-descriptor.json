@@ -1,0 +1,91 @@
+{
+  "id": "cuprum",
+  "family": "Cuprum",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/cuprum/v11/dg4k_pLmvrkcOkBNKOtE.woff",
+      "fontFamily": "'Cuprum'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Cuprum Regular",
+        "Cuprum-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/cuprum/v11/dg4k_pLmvrkcOkBNKOtC.woff2",
+      "ttf": "https://fonts.gstatic.com/s/cuprum/v11/dg4k_pLmvrkcOkBNKOtH.ttf",
+      "eot": "https://fonts.gstatic.com/s/cuprum/v11/dg4k_pLmvrkcOkBNKOtG.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=dg4k_pLmvrkcOkBNKOtF&skey=89fd952ea8dac949&v=v11#Cuprum",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/cuprum/v11/dg4n_pLmvrkcOkBFnc5Xhpws.eot",
+      "fontFamily": "'Cuprum'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/cuprum/v11/dg4n_pLmvrkcOkBFnc5Xhpwu.woff",
+      "local": [
+        "Cuprum Bold",
+        "Cuprum-Bold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/cuprum/v11/dg4n_pLmvrkcOkBFnc5Xhpwo.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=dg4n_pLmvrkcOkBFnc5Xhpwv&skey=7b6263ce29ee5ae7&v=v11#Cuprum",
+      "ttf": "https://fonts.gstatic.com/s/cuprum/v11/dg4n_pLmvrkcOkBFnc5Xhpwt.ttf",
+      "errored": false
+    },
+    {
+      "id": "700italic",
+      "eot": "https://fonts.gstatic.com/s/cuprum/v11/dg4h_pLmvrkcOkBNI9P7iqwkawM.eot",
+      "fontFamily": "'Cuprum'",
+      "fontStyle": "italic",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/cuprum/v11/dg4h_pLmvrkcOkBNI9P7iqwkawE.woff",
+      "local": [
+        "Cuprum Bold Italic",
+        "Cuprum-BoldItalic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/cuprum/v11/dg4h_pLmvrkcOkBNI9P7iqwkawc.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=dg4h_pLmvrkcOkBNI9P7iqwkawA&skey=5ed0713c7afd3827&v=v11#Cuprum",
+      "ttf": "https://fonts.gstatic.com/s/cuprum/v11/dg4h_pLmvrkcOkBNI9P7iqwkawI.ttf",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "eot": "https://fonts.gstatic.com/s/cuprum/v11/dg4m_pLmvrkcOkBNI9tOr70.eot",
+      "fontFamily": "'Cuprum'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/cuprum/v11/dg4m_pLmvrkcOkBNI9tOr7k.woff2",
+      "local": [
+        "Cuprum Italic",
+        "Cuprum-Italic"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=dg4m_pLmvrkcOkBNI9tOr74&skey=e4f5190924c87a50&v=v11#Cuprum",
+      "woff": "https://fonts.gstatic.com/s/cuprum/v11/dg4m_pLmvrkcOkBNI9tOr78.woff",
+      "ttf": "https://fonts.gstatic.com/s/cuprum/v11/dg4m_pLmvrkcOkBNI9tOr7w.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "vietnamese",
+    "latin",
+    "latin-ext",
+    "cyrillic",
+    "cyrillic-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v11",
+  "lastModified": "2019-07-17",
+  "popularity": 105,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "vietnamese": false,
+    "latin": true,
+    "latin-ext": true,
+    "cyrillic": false,
+    "cyrillic-ext": false
+  },
+  "storeID": "latin-ext_latin"
+}

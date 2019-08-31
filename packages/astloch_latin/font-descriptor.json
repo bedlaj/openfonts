@@ -1,0 +1,51 @@
+{
+  "id": "astloch",
+  "family": "Astloch",
+  "variants": [
+    {
+      "id": "regular",
+      "ttf": "https://fonts.gstatic.com/s/astloch/v11/TuGRUVJ8QI5GSeUjm9sbyA.ttf",
+      "fontFamily": "'Astloch'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Astloch Regular",
+        "Astloch-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/astloch/v11/TuGRUVJ8QI5GSeUjm9sbyQ.eot",
+      "woff": "https://fonts.gstatic.com/s/astloch/v11/TuGRUVJ8QI5GSeUjm9sbyw.woff",
+      "woff2": "https://fonts.gstatic.com/s/astloch/v11/TuGRUVJ8QI5GSeUjm9sbzQ.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=TuGRUVJ8QI5GSeUjm9sbyg&skey=30fe264da3626cbd&v=v11#Astloch",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "svg": "https://fonts.gstatic.com/l/font?kit=TuGUUVJ8QI5GSeUjk2A-2MRFBQ&skey=969de94cc0591ce8&v=v11#Astloch",
+      "fontFamily": "'Astloch'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Astloch Bold",
+        "Astloch-Bold"
+      ],
+      "eot": "https://fonts.gstatic.com/s/astloch/v11/TuGUUVJ8QI5GSeUjk2A-2MRFBg.eot",
+      "woff": "https://fonts.gstatic.com/s/astloch/v11/TuGUUVJ8QI5GSeUjk2A-2MRFBA.woff",
+      "woff2": "https://fonts.gstatic.com/s/astloch/v11/TuGUUVJ8QI5GSeUjk2A-2MRFAg.woff2",
+      "ttf": "https://fonts.gstatic.com/s/astloch/v11/TuGUUVJ8QI5GSeUjk2A-2MRFBw.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "category": "display",
+  "version": "v11",
+  "lastModified": "2019-07-26",
+  "popularity": 822,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true
+  },
+  "storeID": "latin"
+}

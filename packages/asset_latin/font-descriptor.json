@@ -1,0 +1,35 @@
+{
+  "id": "asset",
+  "family": "Asset",
+  "variants": [
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/asset/v10/SLXGc1na-mM4cVIhTp8.eot",
+      "fontFamily": "'Asset'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/asset/v10/SLXGc1na-mM4cVIhTps.woff2",
+      "local": [
+        "Asset Regular",
+        "Asset-Regular"
+      ],
+      "woff": "https://fonts.gstatic.com/s/asset/v10/SLXGc1na-mM4cVIhTp0.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=SLXGc1na-mM4cVIhTpw&skey=7cd3292c54a51ea0&v=v10#Asset",
+      "ttf": "https://fonts.gstatic.com/s/asset/v10/SLXGc1na-mM4cVIhTp4.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "category": "display",
+  "version": "v10",
+  "lastModified": "2019-07-16",
+  "popularity": 840,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true
+  },
+  "storeID": "latin"
+}

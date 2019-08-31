@@ -1,0 +1,37 @@
+{
+  "id": "berkshire-swash",
+  "family": "Berkshire Swash",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/berkshireswash/v8/ptRRTi-cavZOGqCvnNJDl5m5XmN_pM4z.woff2",
+      "fontFamily": "'Berkshire Swash'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Berkshire Swash Regular",
+        "BerkshireSwash-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/berkshireswash/v8/ptRRTi-cavZOGqCvnNJDl5m5XmN_pM43.eot",
+      "woff": "https://fonts.gstatic.com/s/berkshireswash/v8/ptRRTi-cavZOGqCvnNJDl5m5XmN_pM41.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=ptRRTi-cavZOGqCvnNJDl5m5XmN_pM40&skey=6b24d6a69858ae6f&v=v8#BerkshireSwash",
+      "ttf": "https://fonts.gstatic.com/s/berkshireswash/v8/ptRRTi-cavZOGqCvnNJDl5m5XmN_pM42.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "handwriting",
+  "version": "v8",
+  "lastModified": "2019-07-16",
+  "popularity": 287,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin"
+}

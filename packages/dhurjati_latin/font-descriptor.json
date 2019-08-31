@@ -1,0 +1,36 @@
+{
+  "id": "dhurjati",
+  "family": "Dhurjati",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/dhurjati/v7/_6_8ED3gSeatXfFiFU31QqM.woff",
+      "fontFamily": "'Dhurjati'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Dhurjati"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=_6_8ED3gSeatXfFiFU31QqI&skey=4848e17bf4d9fa9e&v=v7#Dhurjati",
+      "woff2": "https://fonts.gstatic.com/s/dhurjati/v7/_6_8ED3gSeatXfFiFU31QqU.woff2",
+      "ttf": "https://fonts.gstatic.com/s/dhurjati/v7/_6_8ED3gSeatXfFiFU31QqA.ttf",
+      "eot": "https://fonts.gstatic.com/s/dhurjati/v7/_6_8ED3gSeatXfFiFU31QqE.eot",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "telugu",
+    "latin"
+  ],
+  "category": "sans-serif",
+  "version": "v7",
+  "lastModified": "2019-07-16",
+  "popularity": 931,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "telugu": false,
+    "latin": true
+  },
+  "storeID": "latin"
+}

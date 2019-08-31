@@ -1,0 +1,53 @@
+{
+  "id": "dm-serif-text",
+  "family": "DM Serif Text",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/dmseriftext/v3/rnCu-xZa_krGokauCeNq1wWyWfSFWw.woff",
+      "fontFamily": "'DM Serif Text'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "DM Serif Text Regular",
+        "DMSerifText-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/dmseriftext/v3/rnCu-xZa_krGokauCeNq1wWyWfSFWQ.eot",
+      "woff2": "https://fonts.gstatic.com/s/dmseriftext/v3/rnCu-xZa_krGokauCeNq1wWyWfSFXQ.woff2",
+      "ttf": "https://fonts.gstatic.com/s/dmseriftext/v3/rnCu-xZa_krGokauCeNq1wWyWfSFWA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=rnCu-xZa_krGokauCeNq1wWyWfSFWg&skey=1cce8e1adc5342b&v=v3#DMSerifText",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "ttf": "https://fonts.gstatic.com/s/dmseriftext/v3/rnCw-xZa_krGokauCeNq1wWyWfG1X1oI.ttf",
+      "fontFamily": "'DM Serif Text'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "local": [
+        "DM Serif Text Italic",
+        "DMSerifText-Italic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/dmseriftext/v3/rnCw-xZa_krGokauCeNq1wWyWfG1X1oN.woff2",
+      "woff": "https://fonts.gstatic.com/s/dmseriftext/v3/rnCw-xZa_krGokauCeNq1wWyWfG1X1oL.woff",
+      "eot": "https://fonts.gstatic.com/s/dmseriftext/v3/rnCw-xZa_krGokauCeNq1wWyWfG1X1oJ.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=rnCw-xZa_krGokauCeNq1wWyWfG1X1oK&skey=526da8f819302c18&v=v3#DMSerifText",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "serif",
+  "version": "v3",
+  "lastModified": "2019-07-16",
+  "popularity": 593,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

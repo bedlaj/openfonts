@@ -1,0 +1,37 @@
+{
+  "id": "great-vibes",
+  "family": "Great Vibes",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/greatvibes/v7/RWmMoKWR9v4ksMfaWd_JN9XFiaI.woff",
+      "fontFamily": "'Great Vibes'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Great Vibes",
+        "GreatVibes-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/greatvibes/v7/RWmMoKWR9v4ksMfaWd_JN9XFiaQ.woff2",
+      "eot": "https://fonts.gstatic.com/s/greatvibes/v7/RWmMoKWR9v4ksMfaWd_JN9XFiaA.eot",
+      "ttf": "https://fonts.gstatic.com/s/greatvibes/v7/RWmMoKWR9v4ksMfaWd_JN9XFiaE.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=RWmMoKWR9v4ksMfaWd_JN9XFiaM&skey=1a66edef5eadc723&v=v7#GreatVibes",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "handwriting",
+  "version": "v7",
+  "lastModified": "2019-07-17",
+  "popularity": 127,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

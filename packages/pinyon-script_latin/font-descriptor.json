@@ -1,0 +1,35 @@
+{
+  "id": "pinyon-script",
+  "family": "Pinyon Script",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/pinyonscript/v9/6xKpdSJbL9-e9LuoeQiDRQR8WOXaPA.woff",
+      "fontFamily": "'Pinyon Script'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Pinyon Script",
+        "PinyonScript"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/pinyonscript/v9/6xKpdSJbL9-e9LuoeQiDRQR8WOXaOg.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=6xKpdSJbL9-e9LuoeQiDRQR8WOXaPQ&skey=1c8692ba3eab87&v=v9#PinyonScript",
+      "ttf": "https://fonts.gstatic.com/s/pinyonscript/v9/6xKpdSJbL9-e9LuoeQiDRQR8WOXaPw.ttf",
+      "eot": "https://fonts.gstatic.com/s/pinyonscript/v9/6xKpdSJbL9-e9LuoeQiDRQR8WOXaPg.eot",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "category": "handwriting",
+  "version": "v9",
+  "lastModified": "2019-07-16",
+  "popularity": 272,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true
+  },
+  "storeID": "latin"
+}

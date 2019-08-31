@@ -1,0 +1,37 @@
+{
+  "id": "chango",
+  "family": "Chango",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/chango/v8/2V0cKI0OB5U7WaJCxne5.woff2",
+      "fontFamily": "'Chango'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Chango Regular",
+        "Chango-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/chango/v8/2V0cKI0OB5U7WaJCxne9.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=2V0cKI0OB5U7WaJCxne-&skey=cdfcf13d542afb9&v=v8#Chango",
+      "woff": "https://fonts.gstatic.com/s/chango/v8/2V0cKI0OB5U7WaJCxne_.woff",
+      "ttf": "https://fonts.gstatic.com/s/chango/v8/2V0cKI0OB5U7WaJCxne8.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "display",
+  "version": "v8",
+  "lastModified": "2019-07-16",
+  "popularity": 775,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "questrial",
+  "family": "Questrial",
+  "variants": [
+    {
+      "id": "regular",
+      "ttf": "https://fonts.gstatic.com/s/questrial/v9/QdVUSTchPBm7nuUeVf70viFg.ttf",
+      "fontFamily": "'Questrial'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Questrial",
+        "Questrial-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/questrial/v9/QdVUSTchPBm7nuUeVf70viFh.eot",
+      "woff": "https://fonts.gstatic.com/s/questrial/v9/QdVUSTchPBm7nuUeVf70viFj.woff",
+      "woff2": "https://fonts.gstatic.com/s/questrial/v9/QdVUSTchPBm7nuUeVf70viFl.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=QdVUSTchPBm7nuUeVf70viFi&skey=52b8dabeb218987d&v=v9#Questrial",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "category": "sans-serif",
+  "version": "v9",
+  "lastModified": "2019-07-17",
+  "popularity": 75,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true
+  },
+  "storeID": "latin"
+}

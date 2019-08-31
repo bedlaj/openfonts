@@ -1,0 +1,157 @@
+{
+  "id": "ubuntu",
+  "family": "Ubuntu",
+  "variants": [
+    {
+      "id": "300",
+      "woff2": "https://fonts.gstatic.com/s/ubuntu/v14/4iCv6KVjbNBYlgoC1Czjs2yN.woff2",
+      "fontFamily": "'Ubuntu'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "local": [
+        "Ubuntu Light",
+        "Ubuntu-Light"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/ubuntu/v14/4iCv6KVjbNBYlgoC1Czjs2yI.ttf",
+      "eot": "https://fonts.gstatic.com/s/ubuntu/v14/4iCv6KVjbNBYlgoC1Czjs2yJ.eot",
+      "woff": "https://fonts.gstatic.com/s/ubuntu/v14/4iCv6KVjbNBYlgoC1Czjs2yL.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=4iCv6KVjbNBYlgoC1Czjs2yK&skey=c70d0e00360563fb&v=v14#Ubuntu",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/ubuntu/v14/4iCs6KVjbNBYlgoKfA7w.woff",
+      "fontFamily": "'Ubuntu'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Ubuntu Regular",
+        "Ubuntu-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/ubuntu/v14/4iCs6KVjbNBYlgoKfA7y.eot",
+      "woff2": "https://fonts.gstatic.com/s/ubuntu/v14/4iCs6KVjbNBYlgoKfA72.woff2",
+      "ttf": "https://fonts.gstatic.com/s/ubuntu/v14/4iCs6KVjbNBYlgoKfA7z.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=4iCs6KVjbNBYlgoKfA7x&skey=7e59fc036a1a8481&v=v14#Ubuntu",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "eot": "https://fonts.gstatic.com/s/ubuntu/v14/4iCu6KVjbNBYlgoKej73l00.eot",
+      "fontFamily": "'Ubuntu'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/ubuntu/v14/4iCu6KVjbNBYlgoKej73l0k.woff2",
+      "local": [
+        "Ubuntu Italic",
+        "Ubuntu-Italic"
+      ],
+      "woff": "https://fonts.gstatic.com/s/ubuntu/v14/4iCu6KVjbNBYlgoKej73l08.woff",
+      "ttf": "https://fonts.gstatic.com/s/ubuntu/v14/4iCu6KVjbNBYlgoKej73l0w.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=4iCu6KVjbNBYlgoKej73l04&skey=faa714a35371172&v=v14#Ubuntu",
+      "errored": false
+    },
+    {
+      "id": "300italic",
+      "eot": "https://fonts.gstatic.com/s/ubuntu/v14/4iCp6KVjbNBYlgoKejZftVyMN4U.eot",
+      "fontFamily": "'Ubuntu'",
+      "fontStyle": "italic",
+      "fontWeight": "300",
+      "woff2": "https://fonts.gstatic.com/s/ubuntu/v14/4iCp6KVjbNBYlgoKejZftVyMN4E.woff2",
+      "local": [
+        "Ubuntu Light Italic",
+        "Ubuntu-LightItalic"
+      ],
+      "woff": "https://fonts.gstatic.com/s/ubuntu/v14/4iCp6KVjbNBYlgoKejZftVyMN4c.woff",
+      "ttf": "https://fonts.gstatic.com/s/ubuntu/v14/4iCp6KVjbNBYlgoKejZftVyMN4Q.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=4iCp6KVjbNBYlgoKejZftVyMN4Y&skey=90d99b3fe961a2bb&v=v14#Ubuntu",
+      "errored": false
+    },
+    {
+      "id": "500",
+      "eot": "https://fonts.gstatic.com/s/ubuntu/v14/4iCv6KVjbNBYlgoCjC3js2yJ.eot",
+      "fontFamily": "'Ubuntu'",
+      "fontStyle": "normal",
+      "fontWeight": "500",
+      "woff2": "https://fonts.gstatic.com/s/ubuntu/v14/4iCv6KVjbNBYlgoCjC3js2yN.woff2",
+      "local": [
+        "Ubuntu Medium",
+        "Ubuntu-Medium"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=4iCv6KVjbNBYlgoCjC3js2yK&skey=d8a1e01f6daf5892&v=v14#Ubuntu",
+      "ttf": "https://fonts.gstatic.com/s/ubuntu/v14/4iCv6KVjbNBYlgoCjC3js2yI.ttf",
+      "woff": "https://fonts.gstatic.com/s/ubuntu/v14/4iCv6KVjbNBYlgoCjC3js2yL.woff",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/ubuntu/v14/4iCv6KVjbNBYlgoCxCvjs2yJ.eot",
+      "fontFamily": "'Ubuntu'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "svg": "https://fonts.gstatic.com/l/font?kit=4iCv6KVjbNBYlgoCxCvjs2yK&skey=403363908a1ded4d&v=v14#Ubuntu",
+      "local": [
+        "Ubuntu Bold",
+        "Ubuntu-Bold"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/ubuntu/v14/4iCv6KVjbNBYlgoCxCvjs2yI.ttf",
+      "woff2": "https://fonts.gstatic.com/s/ubuntu/v14/4iCv6KVjbNBYlgoCxCvjs2yN.woff2",
+      "woff": "https://fonts.gstatic.com/s/ubuntu/v14/4iCv6KVjbNBYlgoCxCvjs2yL.woff",
+      "errored": false
+    },
+    {
+      "id": "700italic",
+      "eot": "https://fonts.gstatic.com/s/ubuntu/v14/4iCp6KVjbNBYlgoKejZPslyMN4U.eot",
+      "fontFamily": "'Ubuntu'",
+      "fontStyle": "italic",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/ubuntu/v14/4iCp6KVjbNBYlgoKejZPslyMN4c.woff",
+      "local": [
+        "Ubuntu Bold Italic",
+        "Ubuntu-BoldItalic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/ubuntu/v14/4iCp6KVjbNBYlgoKejZPslyMN4E.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=4iCp6KVjbNBYlgoKejZPslyMN4Y&skey=fa49613badbd6dc7&v=v14#Ubuntu",
+      "ttf": "https://fonts.gstatic.com/s/ubuntu/v14/4iCp6KVjbNBYlgoKejZPslyMN4Q.ttf",
+      "errored": false
+    },
+    {
+      "id": "500italic",
+      "woff": "https://fonts.gstatic.com/s/ubuntu/v14/4iCp6KVjbNBYlgoKejYHtFyMN4c.woff",
+      "fontFamily": "'Ubuntu'",
+      "fontStyle": "italic",
+      "fontWeight": "500",
+      "local": [
+        "Ubuntu Medium Italic",
+        "Ubuntu-MediumItalic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/ubuntu/v14/4iCp6KVjbNBYlgoKejYHtFyMN4E.woff2",
+      "eot": "https://fonts.gstatic.com/s/ubuntu/v14/4iCp6KVjbNBYlgoKejYHtFyMN4U.eot",
+      "ttf": "https://fonts.gstatic.com/s/ubuntu/v14/4iCp6KVjbNBYlgoKejYHtFyMN4Q.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=4iCp6KVjbNBYlgoKejYHtFyMN4Y&skey=c945e28caa1e3826&v=v14#Ubuntu",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "greek-ext",
+    "greek",
+    "latin",
+    "latin-ext",
+    "cyrillic",
+    "cyrillic-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v14",
+  "lastModified": "2019-07-22",
+  "popularity": 15,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "greek-ext": false,
+    "greek": true,
+    "latin": true,
+    "latin-ext": false,
+    "cyrillic": false,
+    "cyrillic-ext": false
+  },
+  "storeID": "latin_greek"
+}

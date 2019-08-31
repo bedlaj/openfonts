@@ -1,0 +1,55 @@
+{
+  "id": "sarala",
+  "family": "Sarala",
+  "variants": [
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/sarala/v4/uK_y4riEZv4o1w9RCw.eot",
+      "fontFamily": "'Sarala'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/sarala/v4/uK_y4riEZv4o1w9RDw.woff2",
+      "local": [
+        "Sarala",
+        "Sarala-Regular"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=uK_y4riEZv4o1w9RCA&skey=5f92b31c258ef44&v=v4#Sarala",
+      "ttf": "https://fonts.gstatic.com/s/sarala/v4/uK_y4riEZv4o1w9RCg.ttf",
+      "woff": "https://fonts.gstatic.com/s/sarala/v4/uK_y4riEZv4o1w9RCQ.woff",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff2": "https://fonts.gstatic.com/s/sarala/v4/uK_x4riEZv4o1w9ptjI3Pw.woff2",
+      "fontFamily": "'Sarala'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Sarala Bold",
+        "Sarala-Bold"
+      ],
+      "eot": "https://fonts.gstatic.com/s/sarala/v4/uK_x4riEZv4o1w9ptjI3Ow.eot",
+      "ttf": "https://fonts.gstatic.com/s/sarala/v4/uK_x4riEZv4o1w9ptjI3Og.ttf",
+      "woff": "https://fonts.gstatic.com/s/sarala/v4/uK_x4riEZv4o1w9ptjI3OQ.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=uK_x4riEZv4o1w9ptjI3OA&skey=e274e9b47540b42e&v=v4#Sarala",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "devanagari",
+    "latin-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v4",
+  "lastModified": "2019-07-16",
+  "popularity": 235,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "devanagari": true,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_devanagari_latin"
+}

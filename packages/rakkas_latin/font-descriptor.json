@@ -1,0 +1,39 @@
+{
+  "id": "rakkas",
+  "family": "Rakkas",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/rakkas/v7/Qw3cZQlNHiblL3jPkdFO.woff2",
+      "fontFamily": "'Rakkas'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Rakkas Regular",
+        "Rakkas-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/rakkas/v7/Qw3cZQlNHiblL3jPkdFK.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Qw3cZQlNHiblL3jPkdFJ&skey=838fd7946900648&v=v7#Rakkas",
+      "woff": "https://fonts.gstatic.com/s/rakkas/v7/Qw3cZQlNHiblL3jPkdFI.woff",
+      "ttf": "https://fonts.gstatic.com/s/rakkas/v7/Qw3cZQlNHiblL3jPkdFL.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "arabic"
+  ],
+  "category": "display",
+  "version": "v7",
+  "lastModified": "2019-07-16",
+  "popularity": 599,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false,
+    "arabic": false
+  },
+  "storeID": "latin"
+}

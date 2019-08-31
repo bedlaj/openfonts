@@ -1,0 +1,39 @@
+{
+  "id": "stalinist-one",
+  "family": "Stalinist One",
+  "variants": [
+    {
+      "id": "regular",
+      "svg": "https://fonts.gstatic.com/l/font?kit=MQpS-WezM9W4Dd7D3B7I-UT7SZyeOQ&skey=c6285f31e996b9a4&v=v23#StalinistOne",
+      "fontFamily": "'Stalinist One'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Stalinist One",
+        "StalinistOne-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/stalinistone/v23/MQpS-WezM9W4Dd7D3B7I-UT7SZyePg.woff2",
+      "eot": "https://fonts.gstatic.com/s/stalinistone/v23/MQpS-WezM9W4Dd7D3B7I-UT7SZyeOg.eot",
+      "woff": "https://fonts.gstatic.com/s/stalinistone/v23/MQpS-WezM9W4Dd7D3B7I-UT7SZyeOA.woff",
+      "ttf": "https://fonts.gstatic.com/s/stalinistone/v23/MQpS-WezM9W4Dd7D3B7I-UT7SZyeOw.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "cyrillic"
+  ],
+  "category": "display",
+  "version": "v23",
+  "lastModified": "2019-08-26",
+  "popularity": 927,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false,
+    "cyrillic": true
+  },
+  "storeID": "cyrillic_latin"
+}

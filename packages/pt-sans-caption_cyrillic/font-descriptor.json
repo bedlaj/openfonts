@@ -1,0 +1,57 @@
+{
+  "id": "pt-sans-caption",
+  "family": "PT Sans Caption",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/ptsanscaption/v12/0FlMVP6Hrxmt7-fsUFhlFXNIlpcafg_x.woff2",
+      "fontFamily": "'PT Sans Caption'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "PT Sans Caption",
+        "PTSans-Caption"
+      ],
+      "woff": "https://fonts.gstatic.com/s/ptsanscaption/v12/0FlMVP6Hrxmt7-fsUFhlFXNIlpcafg_3.woff",
+      "eot": "https://fonts.gstatic.com/s/ptsanscaption/v12/0FlMVP6Hrxmt7-fsUFhlFXNIlpcafg_1.eot",
+      "ttf": "https://fonts.gstatic.com/s/ptsanscaption/v12/0FlMVP6Hrxmt7-fsUFhlFXNIlpcafg_0.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=0FlMVP6Hrxmt7-fsUFhlFXNIlpcafg_2&skey=3b791ca205af4a6f&v=v12#PTSansCaption",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "svg": "https://fonts.gstatic.com/l/font?kit=0FlJVP6Hrxmt7-fsUFhlFXNIlpcSwSrkSA-o&skey=dca78bc6106fe068&v=v12#PTSansCaption",
+      "fontFamily": "'PT Sans Caption'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "PT Sans Caption Bold",
+        "PTSans-CaptionBold"
+      ],
+      "woff": "https://fonts.gstatic.com/s/ptsanscaption/v12/0FlJVP6Hrxmt7-fsUFhlFXNIlpcSwSrkSA-p.woff",
+      "ttf": "https://fonts.gstatic.com/s/ptsanscaption/v12/0FlJVP6Hrxmt7-fsUFhlFXNIlpcSwSrkSA-q.ttf",
+      "woff2": "https://fonts.gstatic.com/s/ptsanscaption/v12/0FlJVP6Hrxmt7-fsUFhlFXNIlpcSwSrkSA-v.woff2",
+      "eot": "https://fonts.gstatic.com/s/ptsanscaption/v12/0FlJVP6Hrxmt7-fsUFhlFXNIlpcSwSrkSA-r.eot",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "cyrillic",
+    "cyrillic-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v12",
+  "lastModified": "2019-07-17",
+  "popularity": 114,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false,
+    "cyrillic": true,
+    "cyrillic-ext": false
+  },
+  "storeID": "cyrillic_latin"
+}

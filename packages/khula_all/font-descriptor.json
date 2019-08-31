@@ -1,0 +1,103 @@
+{
+  "id": "khula",
+  "family": "Khula",
+  "variants": [
+    {
+      "id": "300",
+      "eot": "https://fonts.gstatic.com/s/khula/v5/OpNPnoEOns3V7G-ljCvV.eot",
+      "fontFamily": "'Khula'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "woff": "https://fonts.gstatic.com/s/khula/v5/OpNPnoEOns3V7G-ljCvX.woff",
+      "local": [
+        "Khula Light",
+        "Khula-Light"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/khula/v5/OpNPnoEOns3V7G-ljCvR.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=OpNPnoEOns3V7G-ljCvW&skey=867f0bdfdae10454&v=v5#Khula",
+      "ttf": "https://fonts.gstatic.com/s/khula/v5/OpNPnoEOns3V7G-ljCvU.ttf",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/khula/v5/OpNCnoEOns3V7FcI.eot",
+      "fontFamily": "'Khula'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "svg": "https://fonts.gstatic.com/l/font?kit=OpNCnoEOns3V7FcL&skey=6d8fe26ae47fbcf9&v=v5#Khula",
+      "local": [
+        "Khula Regular",
+        "Khula-Regular"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/khula/v5/OpNCnoEOns3V7FcJ.ttf",
+      "woff2": "https://fonts.gstatic.com/s/khula/v5/OpNCnoEOns3V7FcM.woff2",
+      "woff": "https://fonts.gstatic.com/s/khula/v5/OpNCnoEOns3V7FcK.woff",
+      "errored": false
+    },
+    {
+      "id": "600",
+      "eot": "https://fonts.gstatic.com/s/khula/v5/OpNPnoEOns3V7G_RiivV.eot",
+      "fontFamily": "'Khula'",
+      "fontStyle": "normal",
+      "fontWeight": "600",
+      "woff": "https://fonts.gstatic.com/s/khula/v5/OpNPnoEOns3V7G_RiivX.woff",
+      "local": [
+        "Khula SemiBold",
+        "Khula-SemiBold"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=OpNPnoEOns3V7G_RiivW&skey=e97ce45195518f62&v=v5#Khula",
+      "woff2": "https://fonts.gstatic.com/s/khula/v5/OpNPnoEOns3V7G_RiivR.woff2",
+      "ttf": "https://fonts.gstatic.com/s/khula/v5/OpNPnoEOns3V7G_RiivU.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/khula/v5/OpNPnoEOns3V7G-1iyvV.eot",
+      "fontFamily": "'Khula'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/khula/v5/OpNPnoEOns3V7G-1iyvX.woff",
+      "local": [
+        "Khula Bold",
+        "Khula-Bold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/khula/v5/OpNPnoEOns3V7G-1iyvR.woff2",
+      "ttf": "https://fonts.gstatic.com/s/khula/v5/OpNPnoEOns3V7G-1iyvU.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=OpNPnoEOns3V7G-1iyvW&skey=e97780ab2e2e718e&v=v5#Khula",
+      "errored": false
+    },
+    {
+      "id": "800",
+      "woff": "https://fonts.gstatic.com/s/khula/v5/OpNPnoEOns3V7G-piCvX.woff",
+      "fontFamily": "'Khula'",
+      "fontStyle": "normal",
+      "fontWeight": "800",
+      "local": [
+        "Khula ExtraBold",
+        "Khula-ExtraBold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/khula/v5/OpNPnoEOns3V7G-piCvR.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=OpNPnoEOns3V7G-piCvW&skey=524ff37f6d9d9177&v=v5#Khula",
+      "ttf": "https://fonts.gstatic.com/s/khula/v5/OpNPnoEOns3V7G-piCvU.ttf",
+      "eot": "https://fonts.gstatic.com/s/khula/v5/OpNPnoEOns3V7G-piCvV.eot",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "devanagari",
+    "latin-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v5",
+  "lastModified": "2019-07-16",
+  "popularity": 262,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "devanagari": true,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_devanagari_latin"
+}

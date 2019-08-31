@@ -1,0 +1,37 @@
+{
+  "id": "peddana",
+  "family": "Peddana",
+  "variants": [
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/peddana/v7/aFTU7PBhaX89UcKWthqQAA.eot",
+      "fontFamily": "'Peddana'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/peddana/v7/aFTU7PBhaX89UcKWthqQBA.woff2",
+      "local": [
+        "Peddana Regular",
+        "Peddana"
+      ],
+      "woff": "https://fonts.gstatic.com/s/peddana/v7/aFTU7PBhaX89UcKWthqQAg.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=aFTU7PBhaX89UcKWthqQAw&skey=13ff572c5e71df32&v=v7#Peddana",
+      "ttf": "https://fonts.gstatic.com/s/peddana/v7/aFTU7PBhaX89UcKWthqQAQ.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "telugu",
+    "latin"
+  ],
+  "category": "serif",
+  "version": "v7",
+  "lastModified": "2019-07-16",
+  "popularity": 924,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "telugu": false,
+    "latin": true
+  },
+  "storeID": "latin"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "rye",
+  "family": "Rye",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/rye/v7/r05XGLJT86YzH57r.woff",
+      "fontFamily": "'Rye'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Rye Regular",
+        "Rye-Regular"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=r05XGLJT86YzH57q&skey=18b6854fa95116ab&v=v7#Rye",
+      "woff2": "https://fonts.gstatic.com/s/rye/v7/r05XGLJT86YzH57t.woff2",
+      "eot": "https://fonts.gstatic.com/s/rye/v7/r05XGLJT86YzH57p.eot",
+      "ttf": "https://fonts.gstatic.com/s/rye/v7/r05XGLJT86YzH57o.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "display",
+  "version": "v7",
+  "lastModified": "2019-07-16",
+  "popularity": 462,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin"
+}

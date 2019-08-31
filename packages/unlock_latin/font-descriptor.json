@@ -1,0 +1,35 @@
+{
+  "id": "unlock",
+  "family": "Unlock",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/unlock/v9/7Au-p_8ykD-cDl72LwLT.woff2",
+      "fontFamily": "'Unlock'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Unlock Regular",
+        "Unlock-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/unlock/v9/7Au-p_8ykD-cDl72LwLX.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=7Au-p_8ykD-cDl72LwLU&skey=7e2b38e62de7105c&v=v9#Unlock",
+      "woff": "https://fonts.gstatic.com/s/unlock/v9/7Au-p_8ykD-cDl72LwLV.woff",
+      "ttf": "https://fonts.gstatic.com/s/unlock/v9/7Au-p_8ykD-cDl72LwLW.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "category": "display",
+  "version": "v9",
+  "lastModified": "2019-07-16",
+  "popularity": 912,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true
+  },
+  "storeID": "latin"
+}

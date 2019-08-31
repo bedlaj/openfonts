@@ -1,0 +1,37 @@
+{
+  "id": "keania-one",
+  "family": "Keania One",
+  "variants": [
+    {
+      "id": "regular",
+      "ttf": "https://fonts.gstatic.com/s/keaniaone/v7/zOL54pXJk65E8pXardnu-c1kuw.ttf",
+      "fontFamily": "'Keania One'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Keania One",
+        "KeaniaOne-Regular"
+      ],
+      "woff": "https://fonts.gstatic.com/s/keaniaone/v7/zOL54pXJk65E8pXardnu-c1kuA.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=zOL54pXJk65E8pXardnu-c1kuQ&skey=dbf3f94cd2851bcd&v=v7#KeaniaOne",
+      "woff2": "https://fonts.gstatic.com/s/keaniaone/v7/zOL54pXJk65E8pXardnu-c1kvg.woff2",
+      "eot": "https://fonts.gstatic.com/s/keaniaone/v7/zOL54pXJk65E8pXardnu-c1kug.eot",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "display",
+  "version": "v7",
+  "lastModified": "2019-07-16",
+  "popularity": 833,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin"
+}

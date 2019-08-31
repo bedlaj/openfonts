@@ -1,0 +1,39 @@
+{
+  "id": "ledger",
+  "family": "Ledger",
+  "variants": [
+    {
+      "id": "regular",
+      "ttf": "https://fonts.gstatic.com/s/ledger/v7/j8_q6-HK1L3if_sBksr0.ttf",
+      "fontFamily": "'Ledger'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Ledger",
+        "Ledger-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/ledger/v7/j8_q6-HK1L3if_sBksr1.eot",
+      "woff": "https://fonts.gstatic.com/s/ledger/v7/j8_q6-HK1L3if_sBksr3.woff",
+      "woff2": "https://fonts.gstatic.com/s/ledger/v7/j8_q6-HK1L3if_sBksrx.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=j8_q6-HK1L3if_sBksr2&skey=6e1b03f801dd56e8&v=v7#Ledger",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "cyrillic"
+  ],
+  "category": "serif",
+  "version": "v7",
+  "lastModified": "2019-07-16",
+  "popularity": 587,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": true,
+    "cyrillic": false
+  },
+  "storeID": "latin-ext_latin"
+}

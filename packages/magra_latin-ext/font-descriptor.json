@@ -1,0 +1,52 @@
+{
+  "id": "magra",
+  "family": "Magra",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/magra/v8/uK_94ruaZus72n54KjQ.woff",
+      "fontFamily": "'Magra'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Magra"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=uK_94ruaZus72n54KjU&skey=9abba3c66818028c&v=v8#Magra",
+      "eot": "https://fonts.gstatic.com/s/magra/v8/uK_94ruaZus72n54KjY.eot",
+      "woff2": "https://fonts.gstatic.com/s/magra/v8/uK_94ruaZus72n54KjI.woff2",
+      "ttf": "https://fonts.gstatic.com/s/magra/v8/uK_94ruaZus72n54Kjc.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/magra/v8/uK_w4ruaZus72nbNDyceGv4.eot",
+      "fontFamily": "'Magra'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff2": "https://fonts.gstatic.com/s/magra/v8/uK_w4ruaZus72nbNDyceGvo.woff2",
+      "local": [
+        "Magra Bold",
+        "Magra-Bold"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/magra/v8/uK_w4ruaZus72nbNDyceGv8.ttf",
+      "woff": "https://fonts.gstatic.com/s/magra/v8/uK_w4ruaZus72nbNDyceGvw.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=uK_w4ruaZus72nbNDyceGv0&skey=26cb1ea4207d004&v=v8#Magra",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v8",
+  "lastModified": "2019-07-16",
+  "popularity": 292,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin"
+}

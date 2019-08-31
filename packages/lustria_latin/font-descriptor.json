@@ -1,0 +1,35 @@
+{
+  "id": "lustria",
+  "family": "Lustria",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/lustria/v7/9oRONYodvDEyjuhOnC8zMw.woff2",
+      "fontFamily": "'Lustria'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Lustria",
+        "Lustria-Regular"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/lustria/v7/9oRONYodvDEyjuhOnC8zNg.ttf",
+      "woff": "https://fonts.gstatic.com/s/lustria/v7/9oRONYodvDEyjuhOnC8zNQ.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=9oRONYodvDEyjuhOnC8zNA&skey=96618de0c5a22579&v=v7#Lustria",
+      "eot": "https://fonts.gstatic.com/s/lustria/v7/9oRONYodvDEyjuhOnC8zNw.eot",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "category": "serif",
+  "version": "v7",
+  "lastModified": "2019-07-16",
+  "popularity": 283,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true
+  },
+  "storeID": "latin"
+}

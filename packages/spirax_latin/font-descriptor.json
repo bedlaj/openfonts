@@ -1,0 +1,34 @@
+{
+  "id": "spirax",
+  "family": "Spirax",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/spirax/v8/buE3poKgYNLy0F3sWUFq.woff",
+      "fontFamily": "'Spirax'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Spirax-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/spirax/v8/buE3poKgYNLy0F3sWUFs.woff2",
+      "eot": "https://fonts.gstatic.com/s/spirax/v8/buE3poKgYNLy0F3sWUFo.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=buE3poKgYNLy0F3sWUFr&skey=6a7f94f6771f7790&v=v8#Spirax",
+      "ttf": "https://fonts.gstatic.com/s/spirax/v8/buE3poKgYNLy0F3sWUFp.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "category": "display",
+  "version": "v8",
+  "lastModified": "2019-07-16",
+  "popularity": 622,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true
+  },
+  "storeID": "latin"
+}

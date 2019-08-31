@@ -1,0 +1,43 @@
+{
+  "id": "press-start-2p",
+  "family": "Press Start 2P",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/pressstart2p/v8/e3t4euO8T-267oIAQAu6jDQyK3nRivM.woff2",
+      "fontFamily": "'Press Start 2P'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Press Start 2P Regular",
+        "PressStart2P-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/pressstart2p/v8/e3t4euO8T-267oIAQAu6jDQyK3nRivc.eot",
+      "woff": "https://fonts.gstatic.com/s/pressstart2p/v8/e3t4euO8T-267oIAQAu6jDQyK3nRivU.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=e3t4euO8T-267oIAQAu6jDQyK3nRivQ&skey=24cc298767068e24&v=v8#PressStart2P",
+      "ttf": "https://fonts.gstatic.com/s/pressstart2p/v8/e3t4euO8T-267oIAQAu6jDQyK3nRivY.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "greek",
+    "latin",
+    "latin-ext",
+    "cyrillic",
+    "cyrillic-ext"
+  ],
+  "category": "display",
+  "version": "v8",
+  "lastModified": "2019-07-16",
+  "popularity": 205,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "greek": false,
+    "latin": true,
+    "latin-ext": false,
+    "cyrillic": true,
+    "cyrillic-ext": false
+  },
+  "storeID": "cyrillic_latin"
+}

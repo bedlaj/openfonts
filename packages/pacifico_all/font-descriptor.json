@@ -1,0 +1,43 @@
+{
+  "id": "pacifico",
+  "family": "Pacifico",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/pacifico/v15/FwZY7-Qmy14u9lezJ96F.woff2",
+      "fontFamily": "'Pacifico'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Pacifico Regular",
+        "Pacifico-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/pacifico/v15/FwZY7-Qmy14u9lezJ96B.eot",
+      "woff": "https://fonts.gstatic.com/s/pacifico/v15/FwZY7-Qmy14u9lezJ96D.woff",
+      "ttf": "https://fonts.gstatic.com/s/pacifico/v15/FwZY7-Qmy14u9lezJ96A.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=FwZY7-Qmy14u9lezJ96C&skey=a336e4011ec32111&v=v15#Pacifico",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "vietnamese",
+    "latin",
+    "latin-ext",
+    "cyrillic",
+    "cyrillic-ext"
+  ],
+  "category": "handwriting",
+  "version": "v15",
+  "lastModified": "2019-07-17",
+  "popularity": 57,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "vietnamese": true,
+    "latin": true,
+    "latin-ext": true,
+    "cyrillic": true,
+    "cyrillic-ext": true
+  },
+  "storeID": "cyrillic-ext_cyrillic_latin-ext_latin_vietnamese"
+}

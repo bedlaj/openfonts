@@ -1,0 +1,39 @@
+{
+  "id": "bellefair",
+  "family": "Bellefair",
+  "variants": [
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/bellefair/v5/kJExBuYY6AAuhiXUxG1N-voz.eot",
+      "fontFamily": "'Bellefair'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/bellefair/v5/kJExBuYY6AAuhiXUxG1N-vo3.woff2",
+      "local": [
+        "Bellefair Regular",
+        "Bellefair-Regular"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/bellefair/v5/kJExBuYY6AAuhiXUxG1N-voy.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=kJExBuYY6AAuhiXUxG1N-vow&skey=5e2608507b793d9a&v=v5#Bellefair",
+      "woff": "https://fonts.gstatic.com/s/bellefair/v5/kJExBuYY6AAuhiXUxG1N-vox.woff",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "hebrew",
+    "latin",
+    "latin-ext"
+  ],
+  "category": "serif",
+  "version": "v5",
+  "lastModified": "2019-07-16",
+  "popularity": 583,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "hebrew": true,
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin_hebrew"
+}

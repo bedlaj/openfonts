@@ -1,0 +1,37 @@
+{
+  "id": "tauri",
+  "family": "Tauri",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/tauri/v8/TwMA-IISS0AM3LpcUnI.woff",
+      "fontFamily": "'Tauri'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Tauri Regular",
+        "Tauri-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/tauri/v8/TwMA-IISS0AM3LpcUnQ.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=TwMA-IISS0AM3LpcUnM&skey=a80ecb7544e95b0b&v=v8#Tauri",
+      "eot": "https://fonts.gstatic.com/s/tauri/v8/TwMA-IISS0AM3LpcUnA.eot",
+      "ttf": "https://fonts.gstatic.com/s/tauri/v8/TwMA-IISS0AM3LpcUnE.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v8",
+  "lastModified": "2019-07-16",
+  "popularity": 501,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin"
+}

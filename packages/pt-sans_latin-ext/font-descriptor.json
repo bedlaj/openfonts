@@ -1,0 +1,89 @@
+{
+  "id": "pt-sans",
+  "family": "PT Sans",
+  "variants": [
+    {
+      "id": "regular",
+      "ttf": "https://fonts.gstatic.com/s/ptsans/v11/jizaRExUiTo99u79D0yEwA.ttf",
+      "fontFamily": "'PT Sans'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "PT Sans",
+        "PTSans-Regular"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=jizaRExUiTo99u79D0yEwg&skey=fd0b32f0f3e6a1fc&v=v11#PTSans",
+      "woff2": "https://fonts.gstatic.com/s/ptsans/v11/jizaRExUiTo99u79D0yExQ.woff2",
+      "eot": "https://fonts.gstatic.com/s/ptsans/v11/jizaRExUiTo99u79D0yEwQ.eot",
+      "woff": "https://fonts.gstatic.com/s/ptsans/v11/jizaRExUiTo99u79D0yEww.woff",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/ptsans/v11/jizfRExUiTo99u79B_mh0OCtKQ.eot",
+      "fontFamily": "'PT Sans'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/ptsans/v11/jizfRExUiTo99u79B_mh0OCtKw.woff",
+      "local": [
+        "PT Sans Bold",
+        "PTSans-Bold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/ptsans/v11/jizfRExUiTo99u79B_mh0OCtLQ.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=jizfRExUiTo99u79B_mh0OCtKg&skey=a45e760d002c9b10&v=v11#PTSans",
+      "ttf": "https://fonts.gstatic.com/s/ptsans/v11/jizfRExUiTo99u79B_mh0OCtKA.ttf",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "woff": "https://fonts.gstatic.com/s/ptsans/v11/jizYRExUiTo99u79D0e0ycmO.woff",
+      "fontFamily": "'PT Sans'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "local": [
+        "PT Sans Italic",
+        "PTSans-Italic"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/ptsans/v11/jizYRExUiTo99u79D0e0ycmN.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=jizYRExUiTo99u79D0e0ycmP&skey=cef7fd018888390e&v=v11#PTSans",
+      "woff2": "https://fonts.gstatic.com/s/ptsans/v11/jizYRExUiTo99u79D0e0ycmI.woff2",
+      "eot": "https://fonts.gstatic.com/s/ptsans/v11/jizYRExUiTo99u79D0e0ycmM.eot",
+      "errored": false
+    },
+    {
+      "id": "700italic",
+      "eot": "https://fonts.gstatic.com/s/ptsans/v11/jizdRExUiTo99u79D0e8fOydIRUZ.eot",
+      "fontFamily": "'PT Sans'",
+      "fontStyle": "italic",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/ptsans/v11/jizdRExUiTo99u79D0e8fOydIRUb.woff",
+      "local": [
+        "PT Sans Bold Italic",
+        "PTSans-BoldItalic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/ptsans/v11/jizdRExUiTo99u79D0e8fOydIRUd.woff2",
+      "ttf": "https://fonts.gstatic.com/s/ptsans/v11/jizdRExUiTo99u79D0e8fOydIRUY.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=jizdRExUiTo99u79D0e8fOydIRUa&skey=2b38b88a40bdc8ec&v=v11#PTSans",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "cyrillic",
+    "cyrillic-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v11",
+  "lastModified": "2019-07-22",
+  "popularity": 14,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": true,
+    "cyrillic": false,
+    "cyrillic-ext": false
+  },
+  "storeID": "latin-ext_latin"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "elsie",
+  "family": "Elsie",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/elsie/v9/BCanqZABrez54xYp_M4.woff",
+      "fontFamily": "'Elsie'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Elsie Regular",
+        "Elsie-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/elsie/v9/BCanqZABrez54xYp_Mg.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=BCanqZABrez54xYp_M8&skey=f3b82328fc9a0e44&v=v9#Elsie",
+      "eot": "https://fonts.gstatic.com/s/elsie/v9/BCanqZABrez54xYp_Mw.eot",
+      "ttf": "https://fonts.gstatic.com/s/elsie/v9/BCanqZABrez54xYp_M0.ttf",
+      "errored": false
+    },
+    {
+      "id": "900",
+      "woff2": "https://fonts.gstatic.com/s/elsie/v9/BCaqqZABrez54x6q291PWaU.woff2",
+      "fontFamily": "'Elsie'",
+      "fontStyle": "normal",
+      "fontWeight": "900",
+      "local": [
+        "Elsie Black",
+        "Elsie-Black"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=BCaqqZABrez54x6q291PWaI&skey=c81378f431f562b8&v=v9#Elsie",
+      "eot": "https://fonts.gstatic.com/s/elsie/v9/BCaqqZABrez54x6q291PWaE.eot",
+      "woff": "https://fonts.gstatic.com/s/elsie/v9/BCaqqZABrez54x6q291PWaM.woff",
+      "ttf": "https://fonts.gstatic.com/s/elsie/v9/BCaqqZABrez54x6q291PWaA.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "display",
+  "version": "v9",
+  "lastModified": "2019-07-16",
+  "popularity": 673,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "kadwa",
+  "family": "Kadwa",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/kadwa/v4/rnCm-x5V0g7ipiTAT8A.woff",
+      "fontFamily": "'Kadwa'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Kadwa",
+        "Kadwa-Regular"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=rnCm-x5V0g7ipiTAT8E&skey=8e11c8fa888bb656&v=v4#Kadwa",
+      "eot": "https://fonts.gstatic.com/s/kadwa/v4/rnCm-x5V0g7ipiTAT8I.eot",
+      "ttf": "https://fonts.gstatic.com/s/kadwa/v4/rnCm-x5V0g7ipiTAT8M.ttf",
+      "woff2": "https://fonts.gstatic.com/s/kadwa/v4/rnCm-x5V0g7ipiTAT8Y.woff2",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "ttf": "https://fonts.gstatic.com/s/kadwa/v4/rnCr-x5V0g7ipix7atM5kn0.ttf",
+      "fontFamily": "'Kadwa'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Kadwa Bold",
+        "Kadwa-Bold"
+      ],
+      "eot": "https://fonts.gstatic.com/s/kadwa/v4/rnCr-x5V0g7ipix7atM5knw.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=rnCr-x5V0g7ipix7atM5kn8&skey=a9b36cfe309e5f71&v=v4#Kadwa",
+      "woff2": "https://fonts.gstatic.com/s/kadwa/v4/rnCr-x5V0g7ipix7atM5kng.woff2",
+      "woff": "https://fonts.gstatic.com/s/kadwa/v4/rnCr-x5V0g7ipix7atM5kn4.woff",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "devanagari"
+  ],
+  "category": "serif",
+  "version": "v4",
+  "lastModified": "2019-07-16",
+  "popularity": 406,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "devanagari": false
+  },
+  "storeID": "latin"
+}

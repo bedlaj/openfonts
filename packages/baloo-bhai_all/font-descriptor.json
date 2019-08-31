@@ -1,0 +1,41 @@
+{
+  "id": "baloo-bhai",
+  "family": "Baloo Bhai",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/baloobhai/v5/ZgNWjP5GM7bCUdmXgWyVjGY.woff",
+      "fontFamily": "'Baloo Bhai'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Baloo Bhai Regular",
+        "BalooBhai-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/baloobhai/v5/ZgNWjP5GM7bCUdmXgWyVjGA.woff2",
+      "eot": "https://fonts.gstatic.com/s/baloobhai/v5/ZgNWjP5GM7bCUdmXgWyVjGQ.eot",
+      "ttf": "https://fonts.gstatic.com/s/baloobhai/v5/ZgNWjP5GM7bCUdmXgWyVjGU.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=ZgNWjP5GM7bCUdmXgWyVjGc&skey=e7a671cb55faf8b9&v=v5#BalooBhai",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "vietnamese",
+    "latin",
+    "latin-ext",
+    "gujarati"
+  ],
+  "category": "display",
+  "version": "v5",
+  "lastModified": "2019-07-16",
+  "popularity": 474,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "vietnamese": true,
+    "latin": true,
+    "latin-ext": true,
+    "gujarati": true
+  },
+  "storeID": "gujarati_latin-ext_latin_vietnamese"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "overlock-sc",
+  "family": "Overlock SC",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/overlocksc/v8/1cX3aUHKGZrstGAY8nwVzEGJocM.woff",
+      "fontFamily": "'Overlock SC'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Overlock SC",
+        "OverlockSC-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/overlocksc/v8/1cX3aUHKGZrstGAY8nwVzEGJocU.woff2",
+      "eot": "https://fonts.gstatic.com/s/overlocksc/v8/1cX3aUHKGZrstGAY8nwVzEGJocE.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=1cX3aUHKGZrstGAY8nwVzEGJocI&skey=6764e36643395bef&v=v8#OverlockSC",
+      "ttf": "https://fonts.gstatic.com/s/overlocksc/v8/1cX3aUHKGZrstGAY8nwVzEGJocA.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "display",
+  "version": "v8",
+  "lastModified": "2019-07-16",
+  "popularity": 712,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin"
+}

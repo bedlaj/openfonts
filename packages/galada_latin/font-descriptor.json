@@ -1,0 +1,37 @@
+{
+  "id": "galada",
+  "family": "Galada",
+  "variants": [
+    {
+      "id": "regular",
+      "svg": "https://fonts.gstatic.com/l/font?kit=H4cmBXyGmcjXlUXO9SY4&skey=de71fa94111f3d7d&v=v5#Galada",
+      "fontFamily": "'Galada'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Galada Regular",
+        "Galada-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/galada/v5/H4cmBXyGmcjXlUXO9SY_.woff2",
+      "eot": "https://fonts.gstatic.com/s/galada/v5/H4cmBXyGmcjXlUXO9SY7.eot",
+      "ttf": "https://fonts.gstatic.com/s/galada/v5/H4cmBXyGmcjXlUXO9SY6.ttf",
+      "woff": "https://fonts.gstatic.com/s/galada/v5/H4cmBXyGmcjXlUXO9SY5.woff",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "bengali"
+  ],
+  "category": "display",
+  "version": "v5",
+  "lastModified": "2019-07-16",
+  "popularity": 600,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "bengali": false
+  },
+  "storeID": "latin"
+}

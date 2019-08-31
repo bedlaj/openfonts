@@ -1,0 +1,39 @@
+{
+  "id": "kosugi",
+  "family": "Kosugi",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/kosugi/v6/pxiFyp4_v8FCjlIIM7D9.woff",
+      "fontFamily": "'Kosugi'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Kosugi Regular",
+        "Kosugi-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/kosugi/v6/pxiFyp4_v8FCjlIIM7D7.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=pxiFyp4_v8FCjlIIM7D8&skey=89a9b34376a5ea39&v=v6#Kosugi",
+      "eot": "https://fonts.gstatic.com/s/kosugi/v6/pxiFyp4_v8FCjlIIM7D_.eot",
+      "ttf": "https://fonts.gstatic.com/s/kosugi/v6/pxiFyp4_v8FCjlIIM7D-.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "japanese",
+    "latin",
+    "cyrillic"
+  ],
+  "category": "sans-serif",
+  "version": "v6",
+  "lastModified": "2019-07-16",
+  "popularity": 606,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "japanese": false,
+    "latin": true,
+    "cyrillic": false
+  },
+  "storeID": "latin"
+}

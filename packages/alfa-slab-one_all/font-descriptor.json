@@ -1,0 +1,39 @@
+{
+  "id": "alfa-slab-one",
+  "family": "Alfa Slab One",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/alfaslabone/v9/6NUQ8FmMKwSEKjnm5-4v-4Jh6dA.woff2",
+      "fontFamily": "'Alfa Slab One'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Alfa Slab One Regular",
+        "AlfaSlabOne-Regular"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=6NUQ8FmMKwSEKjnm5-4v-4Jh6dc&skey=eb2fdb158beaba49&v=v9#AlfaSlabOne",
+      "eot": "https://fonts.gstatic.com/s/alfaslabone/v9/6NUQ8FmMKwSEKjnm5-4v-4Jh6dQ.eot",
+      "ttf": "https://fonts.gstatic.com/s/alfaslabone/v9/6NUQ8FmMKwSEKjnm5-4v-4Jh6dU.ttf",
+      "woff": "https://fonts.gstatic.com/s/alfaslabone/v9/6NUQ8FmMKwSEKjnm5-4v-4Jh6dY.woff",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "vietnamese",
+    "latin",
+    "latin-ext"
+  ],
+  "category": "display",
+  "version": "v9",
+  "lastModified": "2019-07-17",
+  "popularity": 116,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "vietnamese": true,
+    "latin": true,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin_vietnamese"
+}

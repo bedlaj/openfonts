@@ -1,0 +1,53 @@
+{
+  "id": "allan",
+  "family": "Allan",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/allan/v12/ea8XadU7WuTxEubxNdM.woff",
+      "fontFamily": "'Allan'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Allan Regular",
+        "Allan-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/allan/v12/ea8XadU7WuTxEubxNdU.woff2",
+      "eot": "https://fonts.gstatic.com/s/allan/v12/ea8XadU7WuTxEubxNdE.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=ea8XadU7WuTxEubxNdI&skey=47bae38e791f0fba&v=v12#Allan",
+      "ttf": "https://fonts.gstatic.com/s/allan/v12/ea8XadU7WuTxEubxNdA.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "ttf": "https://fonts.gstatic.com/s/allan/v12/ea8aadU7WuTxEu5KEMCK024.ttf",
+      "fontFamily": "'Allan'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Allan Bold",
+        "Allan-Bold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/allan/v12/ea8aadU7WuTxEu5KEMCK02s.woff2",
+      "woff": "https://fonts.gstatic.com/s/allan/v12/ea8aadU7WuTxEu5KEMCK020.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=ea8aadU7WuTxEu5KEMCK02w&skey=67bf6cfd634a416d&v=v12#Allan",
+      "eot": "https://fonts.gstatic.com/s/allan/v12/ea8aadU7WuTxEu5KEMCK028.eot",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "display",
+  "version": "v12",
+  "lastModified": "2019-07-16",
+  "popularity": 346,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

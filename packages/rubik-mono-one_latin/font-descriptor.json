@@ -1,0 +1,39 @@
+{
+  "id": "rubik-mono-one",
+  "family": "Rubik Mono One",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/rubikmonoone/v8/UqyJK8kPP3hjw6ANTdfRk9YSN983TKM.woff",
+      "fontFamily": "'Rubik Mono One'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Rubik Mono One Regular",
+        "RubikMonoOne-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/rubikmonoone/v8/UqyJK8kPP3hjw6ANTdfRk9YSN983TKU.woff2",
+      "ttf": "https://fonts.gstatic.com/s/rubikmonoone/v8/UqyJK8kPP3hjw6ANTdfRk9YSN983TKA.ttf",
+      "eot": "https://fonts.gstatic.com/s/rubikmonoone/v8/UqyJK8kPP3hjw6ANTdfRk9YSN983TKE.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=UqyJK8kPP3hjw6ANTdfRk9YSN983TKI&skey=ae6db2ecce22196d&v=v8#RubikMonoOne",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "cyrillic"
+  ],
+  "category": "sans-serif",
+  "version": "v8",
+  "lastModified": "2019-07-16",
+  "popularity": 256,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false,
+    "cyrillic": false
+  },
+  "storeID": "latin"
+}

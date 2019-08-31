@@ -1,0 +1,69 @@
+{
+  "id": "libre-baskerville",
+  "family": "Libre Baskerville",
+  "variants": [
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/librebaskerville/v7/kmKnZrc3Hgbbcjq75U4uslyuy4kn0qNZaxc.eot",
+      "fontFamily": "'Libre Baskerville'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "ttf": "https://fonts.gstatic.com/s/librebaskerville/v7/kmKnZrc3Hgbbcjq75U4uslyuy4kn0qNZaxY.ttf",
+      "local": [
+        "Libre Baskerville",
+        "LibreBaskerville-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/librebaskerville/v7/kmKnZrc3Hgbbcjq75U4uslyuy4kn0qNZaxM.woff2",
+      "woff": "https://fonts.gstatic.com/s/librebaskerville/v7/kmKnZrc3Hgbbcjq75U4uslyuy4kn0qNZaxU.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=kmKnZrc3Hgbbcjq75U4uslyuy4kn0qNZaxQ&skey=1ccff9706b4dcbb3&v=v7#LibreBaskerville",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "woff": "https://fonts.gstatic.com/s/librebaskerville/v7/kmKhZrc3Hgbbcjq75U4uslyuy4kn0qNcWxEQCg.woff",
+      "fontFamily": "'Libre Baskerville'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "local": [
+        "Libre Baskerville Italic",
+        "LibreBaskerville-Italic"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=kmKhZrc3Hgbbcjq75U4uslyuy4kn0qNcWxEQCw&skey=44cd15477bf5bb2d&v=v7#LibreBaskerville",
+      "eot": "https://fonts.gstatic.com/s/librebaskerville/v7/kmKhZrc3Hgbbcjq75U4uslyuy4kn0qNcWxEQCA.eot",
+      "woff2": "https://fonts.gstatic.com/s/librebaskerville/v7/kmKhZrc3Hgbbcjq75U4uslyuy4kn0qNcWxEQDA.woff2",
+      "ttf": "https://fonts.gstatic.com/s/librebaskerville/v7/kmKhZrc3Hgbbcjq75U4uslyuy4kn0qNcWxEQCQ.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "svg": "https://fonts.gstatic.com/l/font?kit=kmKiZrc3Hgbbcjq75U4uslyuy4kn0qviTgY3Kcc&skey=c168ba7fe84b1774&v=v7#LibreBaskerville",
+      "fontFamily": "'Libre Baskerville'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Libre Baskerville Bold",
+        "LibreBaskerville-Bold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/librebaskerville/v7/kmKiZrc3Hgbbcjq75U4uslyuy4kn0qviTgY3KcA.woff2",
+      "ttf": "https://fonts.gstatic.com/s/librebaskerville/v7/kmKiZrc3Hgbbcjq75U4uslyuy4kn0qviTgY3KcU.ttf",
+      "woff": "https://fonts.gstatic.com/s/librebaskerville/v7/kmKiZrc3Hgbbcjq75U4uslyuy4kn0qviTgY3KcY.woff",
+      "eot": "https://fonts.gstatic.com/s/librebaskerville/v7/kmKiZrc3Hgbbcjq75U4uslyuy4kn0qviTgY3KcQ.eot",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "serif",
+  "version": "v7",
+  "lastModified": "2019-07-22",
+  "popularity": 40,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

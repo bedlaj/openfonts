@@ -1,0 +1,39 @@
+{
+  "id": "lexend-peta",
+  "family": "Lexend Peta",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/lexendpeta/v1/BXRvvFPGjeLPh0kCfI4OkH_yecU.woff2",
+      "fontFamily": "'Lexend Peta'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Lexend Peta Regular",
+        "LexendPeta-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/lexendpeta/v1/BXRvvFPGjeLPh0kCfI4OkH_yecE.eot",
+      "woff": "https://fonts.gstatic.com/s/lexendpeta/v1/BXRvvFPGjeLPh0kCfI4OkH_yecM.woff",
+      "ttf": "https://fonts.gstatic.com/s/lexendpeta/v1/BXRvvFPGjeLPh0kCfI4OkH_yecA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=BXRvvFPGjeLPh0kCfI4OkH_yecI&skey=8772d77ddd07438b&v=v1#LexendPeta",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "vietnamese",
+    "latin",
+    "latin-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v1",
+  "lastModified": "2019-08-14",
+  "popularity": 942,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "vietnamese": false,
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

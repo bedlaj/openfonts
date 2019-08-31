@@ -1,0 +1,37 @@
+{
+  "id": "oxygen-mono",
+  "family": "Oxygen Mono",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/oxygenmono/v7/h0GsssGg9FxgDgCjLeAd7hjWx-g.woff",
+      "fontFamily": "'Oxygen Mono'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Oxygen Mono",
+        "OxygenMono-Regular"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/oxygenmono/v7/h0GsssGg9FxgDgCjLeAd7hjWx-s.ttf",
+      "woff2": "https://fonts.gstatic.com/s/oxygenmono/v7/h0GsssGg9FxgDgCjLeAd7hjWx-4.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=h0GsssGg9FxgDgCjLeAd7hjWx-k&skey=464e9f9167c9e76a&v=v7#OxygenMono",
+      "eot": "https://fonts.gstatic.com/s/oxygenmono/v7/h0GsssGg9FxgDgCjLeAd7hjWx-o.eot",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "monospace",
+  "version": "v7",
+  "lastModified": "2019-07-16",
+  "popularity": 380,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin"
+}

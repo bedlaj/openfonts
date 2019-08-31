@@ -1,0 +1,55 @@
+{
+  "id": "jaldi",
+  "family": "Jaldi",
+  "variants": [
+    {
+      "id": "regular",
+      "svg": "https://fonts.gstatic.com/l/font?kit=or3sQ67z0_CI33NSbJY&skey=ed4f59c0ba71a113&v=v6#Jaldi",
+      "fontFamily": "'Jaldi'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Jaldi",
+        "Jaldi-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/jaldi/v6/or3sQ67z0_CI33NSbJU.eot",
+      "woff": "https://fonts.gstatic.com/s/jaldi/v6/or3sQ67z0_CI33NSbJc.woff",
+      "woff2": "https://fonts.gstatic.com/s/jaldi/v6/or3sQ67z0_CI33NSbJE.woff2",
+      "ttf": "https://fonts.gstatic.com/s/jaldi/v6/or3sQ67z0_CI33NSbJQ.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/jaldi/v6/or3hQ67z0_CI33voSYTxJrE.eot",
+      "fontFamily": "'Jaldi'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff2": "https://fonts.gstatic.com/s/jaldi/v6/or3hQ67z0_CI33voSYTxJrU.woff2",
+      "local": [
+        "Jaldi Bold",
+        "Jaldi-Bold"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=or3hQ67z0_CI33voSYTxJrI&skey=b6fe25580230f49d&v=v6#Jaldi",
+      "woff": "https://fonts.gstatic.com/s/jaldi/v6/or3hQ67z0_CI33voSYTxJrM.woff",
+      "ttf": "https://fonts.gstatic.com/s/jaldi/v6/or3hQ67z0_CI33voSYTxJrA.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "devanagari",
+    "latin-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v6",
+  "lastModified": "2019-07-16",
+  "popularity": 231,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "devanagari": true,
+    "latin-ext": false
+  },
+  "storeID": "devanagari_latin"
+}

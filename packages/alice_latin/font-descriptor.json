@@ -1,0 +1,39 @@
+{
+  "id": "alice",
+  "family": "Alice",
+  "variants": [
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/alice/v11/OpNCnoEEmtHa6GcOrgo.eot",
+      "fontFamily": "'Alice'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/alice/v11/OpNCnoEEmtHa6GcOrgg.woff",
+      "local": [
+        "Alice Regular",
+        "Alice-Regular"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=OpNCnoEEmtHa6GcOrgk&skey=8a351bda90f672d8&v=v11#Alice",
+      "woff2": "https://fonts.gstatic.com/s/alice/v11/OpNCnoEEmtHa6GcOrg4.woff2",
+      "ttf": "https://fonts.gstatic.com/s/alice/v11/OpNCnoEEmtHa6GcOrgs.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "cyrillic",
+    "cyrillic-ext"
+  ],
+  "category": "serif",
+  "version": "v11",
+  "lastModified": "2019-07-16",
+  "popularity": 196,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "cyrillic": false,
+    "cyrillic-ext": false
+  },
+  "storeID": "latin"
+}

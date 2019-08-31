@@ -1,0 +1,52 @@
+{
+  "id": "skranji",
+  "family": "Skranji",
+  "variants": [
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/skranji/v7/OZpDg_dtriVFNerMUzyklw.eot",
+      "fontFamily": "'Skranji'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/skranji/v7/OZpDg_dtriVFNerMUzykkw.woff2",
+      "local": [
+        "Skranji"
+      ],
+      "woff": "https://fonts.gstatic.com/s/skranji/v7/OZpDg_dtriVFNerMUzyklQ.woff",
+      "ttf": "https://fonts.gstatic.com/s/skranji/v7/OZpDg_dtriVFNerMUzyklg.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=OZpDg_dtriVFNerMUzyklA&skey=93fb324a08cd82ec&v=v7#Skranji",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "ttf": "https://fonts.gstatic.com/s/skranji/v7/OZpGg_dtriVFNerMW4eBhlvHxA.ttf",
+      "fontFamily": "'Skranji'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Skranji Bold",
+        "Skranji-Bold"
+      ],
+      "woff": "https://fonts.gstatic.com/s/skranji/v7/OZpGg_dtriVFNerMW4eBhlvHxw.woff",
+      "eot": "https://fonts.gstatic.com/s/skranji/v7/OZpGg_dtriVFNerMW4eBhlvHxQ.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=OZpGg_dtriVFNerMW4eBhlvHxg&skey=e7889acb326cf602&v=v7#Skranji",
+      "woff2": "https://fonts.gstatic.com/s/skranji/v7/OZpGg_dtriVFNerMW4eBhlvHwQ.woff2",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "display",
+  "version": "v7",
+  "lastModified": "2019-07-16",
+  "popularity": 486,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

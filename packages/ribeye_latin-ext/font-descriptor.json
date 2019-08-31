@@ -1,0 +1,37 @@
+{
+  "id": "ribeye",
+  "family": "Ribeye",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/ribeye/v8/L0x8DFMxk1MP9R3htfqn.woff2",
+      "fontFamily": "'Ribeye'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Ribeye",
+        "Ribeye-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/ribeye/v8/L0x8DFMxk1MP9R3htfqj.eot",
+      "woff": "https://fonts.gstatic.com/s/ribeye/v8/L0x8DFMxk1MP9R3htfqh.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=L0x8DFMxk1MP9R3htfqg&skey=c09dfb0e0b7815f4&v=v8#Ribeye",
+      "ttf": "https://fonts.gstatic.com/s/ribeye/v8/L0x8DFMxk1MP9R3htfqi.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "display",
+  "version": "v8",
+  "lastModified": "2019-07-16",
+  "popularity": 710,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin"
+}

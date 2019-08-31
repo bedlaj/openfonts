@@ -1,0 +1,37 @@
+{
+  "id": "molle",
+  "family": "Molle",
+  "variants": [
+    {
+      "id": "italic",
+      "woff2": "https://fonts.gstatic.com/s/molle/v8/E21n_dL5hOXFhWEsbzEsVg.woff2",
+      "fontFamily": "'Molle'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "local": [
+        "Molle",
+        "Molle-Regular"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/molle/v8/E21n_dL5hOXFhWEsbzEsUw.ttf",
+      "woff": "https://fonts.gstatic.com/s/molle/v8/E21n_dL5hOXFhWEsbzEsUA.woff",
+      "eot": "https://fonts.gstatic.com/s/molle/v8/E21n_dL5hOXFhWEsbzEsUg.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=E21n_dL5hOXFhWEsbzEsUQ&skey=f55d6ddb7bd7ec17&v=v8#Molle",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "handwriting",
+  "version": "v8",
+  "lastModified": "2019-07-16",
+  "popularity": 853,
+  "defSubset": "latin",
+  "defVariant": "italic",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin"
+}

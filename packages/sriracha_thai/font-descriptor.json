@@ -1,0 +1,41 @@
+{
+  "id": "sriracha",
+  "family": "Sriracha",
+  "variants": [
+    {
+      "id": "regular",
+      "ttf": "https://fonts.gstatic.com/s/sriracha/v4/0nkrC9D4IuYBgWcI9NbLTwQ.ttf",
+      "fontFamily": "'Sriracha'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Sriracha",
+        "Sriracha-Regular"
+      ],
+      "woff": "https://fonts.gstatic.com/s/sriracha/v4/0nkrC9D4IuYBgWcI9NbLTwc.woff",
+      "eot": "https://fonts.gstatic.com/s/sriracha/v4/0nkrC9D4IuYBgWcI9NbLTwU.eot",
+      "woff2": "https://fonts.gstatic.com/s/sriracha/v4/0nkrC9D4IuYBgWcI9NbLTwE.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=0nkrC9D4IuYBgWcI9NbLTwY&skey=4c47d248b5dc5112&v=v4#Sriracha",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "vietnamese",
+    "latin",
+    "latin-ext",
+    "thai"
+  ],
+  "category": "handwriting",
+  "version": "v4",
+  "lastModified": "2019-07-16",
+  "popularity": 443,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "vietnamese": false,
+    "latin": true,
+    "latin-ext": false,
+    "thai": true
+  },
+  "storeID": "thai_latin"
+}

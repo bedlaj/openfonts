@@ -1,0 +1,85 @@
+{
+  "id": "quattrocento-sans",
+  "family": "Quattrocento Sans",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/quattrocentosans/v12/va9c4lja2NVIDdIAAoMR5MfuElaRB0zHt0k.woff",
+      "fontFamily": "'Quattrocento Sans'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Quattrocento Sans",
+        "QuattrocentoSans"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/quattrocentosans/v12/va9c4lja2NVIDdIAAoMR5MfuElaRB0zHt08.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=va9c4lja2NVIDdIAAoMR5MfuElaRB0zHt0g&skey=4b4d15162b835c7c&v=v12#QuattrocentoSans",
+      "ttf": "https://fonts.gstatic.com/s/quattrocentosans/v12/va9c4lja2NVIDdIAAoMR5MfuElaRB0zHt0o.ttf",
+      "eot": "https://fonts.gstatic.com/s/quattrocentosans/v12/va9c4lja2NVIDdIAAoMR5MfuElaRB0zHt0s.eot",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "eot": "https://fonts.gstatic.com/s/quattrocentosans/v12/va9a4lja2NVIDdIAAoMR5MfuElaRB0zMh0P2HA.eot",
+      "fontFamily": "'Quattrocento Sans'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/quattrocentosans/v12/va9a4lja2NVIDdIAAoMR5MfuElaRB0zMh0P2GA.woff2",
+      "local": [
+        "Quattrocento Sans Italic",
+        "QuattrocentoSans-Italic"
+      ],
+      "woff": "https://fonts.gstatic.com/s/quattrocentosans/v12/va9a4lja2NVIDdIAAoMR5MfuElaRB0zMh0P2Hg.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=va9a4lja2NVIDdIAAoMR5MfuElaRB0zMh0P2Hw&skey=8d61cc4fe860fce9&v=v12#QuattrocentoSans",
+      "ttf": "https://fonts.gstatic.com/s/quattrocentosans/v12/va9a4lja2NVIDdIAAoMR5MfuElaRB0zMh0P2HQ.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/quattrocentosans/v12/va9Z4lja2NVIDdIAAoMR5MfuElaRB0RyklrfPXg.eot",
+      "fontFamily": "'Quattrocento Sans'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/quattrocentosans/v12/va9Z4lja2NVIDdIAAoMR5MfuElaRB0RyklrfPXo.woff",
+      "local": [
+        "Quattrocento Sans Bold",
+        "QuattrocentoSans-Bold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/quattrocentosans/v12/va9Z4lja2NVIDdIAAoMR5MfuElaRB0RyklrfPXw.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=va9Z4lja2NVIDdIAAoMR5MfuElaRB0RyklrfPXs&skey=48f79e8b8193b1cc&v=v12#QuattrocentoSans",
+      "ttf": "https://fonts.gstatic.com/s/quattrocentosans/v12/va9Z4lja2NVIDdIAAoMR5MfuElaRB0RyklrfPXk.ttf",
+      "errored": false
+    },
+    {
+      "id": "700italic",
+      "eot": "https://fonts.gstatic.com/s/quattrocentosans/v12/va9X4lja2NVIDdIAAoMR5MfuElaRB0zMj_bTDXDoiQ.eot",
+      "fontFamily": "'Quattrocento Sans'",
+      "fontStyle": "italic",
+      "fontWeight": "700",
+      "woff2": "https://fonts.gstatic.com/s/quattrocentosans/v12/va9X4lja2NVIDdIAAoMR5MfuElaRB0zMj_bTDXDojQ.woff2",
+      "local": [
+        "Quattrocento Sans Bold Italic",
+        "QuattrocentoSans-BoldItalic"
+      ],
+      "woff": "https://fonts.gstatic.com/s/quattrocentosans/v12/va9X4lja2NVIDdIAAoMR5MfuElaRB0zMj_bTDXDoiw.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=va9X4lja2NVIDdIAAoMR5MfuElaRB0zMj_bTDXDoig&skey=ab981dae7be4123&v=v12#QuattrocentoSans",
+      "ttf": "https://fonts.gstatic.com/s/quattrocentosans/v12/va9X4lja2NVIDdIAAoMR5MfuElaRB0zMj_bTDXDoiA.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v12",
+  "lastModified": "2019-07-17",
+  "popularity": 133,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin"
+}

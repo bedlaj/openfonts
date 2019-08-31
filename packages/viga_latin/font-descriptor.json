@@ -1,0 +1,36 @@
+{
+  "id": "viga",
+  "family": "Viga",
+  "variants": [
+    {
+      "id": "regular",
+      "ttf": "https://fonts.gstatic.com/s/viga/v8/xMQbuFFdSaiXzQUpCw.ttf",
+      "fontFamily": "'Viga'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Viga-Regular"
+      ],
+      "woff": "https://fonts.gstatic.com/s/viga/v8/xMQbuFFdSaiXzQUpCA.woff",
+      "woff2": "https://fonts.gstatic.com/s/viga/v8/xMQbuFFdSaiXzQUpDg.woff2",
+      "eot": "https://fonts.gstatic.com/s/viga/v8/xMQbuFFdSaiXzQUpCg.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=xMQbuFFdSaiXzQUpCQ&skey=86c8fd86a8d4871d&v=v8#Viga",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v8",
+  "lastModified": "2019-07-17",
+  "popularity": 181,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

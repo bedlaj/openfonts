@@ -1,0 +1,71 @@
+{
+  "id": "kalam",
+  "family": "Kalam",
+  "variants": [
+    {
+      "id": "300",
+      "woff2": "https://fonts.gstatic.com/s/kalam/v10/YA9Qr0Wd4kDdMtD6GjLNkiQ.woff2",
+      "fontFamily": "'Kalam'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "local": [
+        "Kalam Light",
+        "Kalam-Light"
+      ],
+      "woff": "https://fonts.gstatic.com/s/kalam/v10/YA9Qr0Wd4kDdMtD6GjLNkiI.woff",
+      "eot": "https://fonts.gstatic.com/s/kalam/v10/YA9Qr0Wd4kDdMtD6GjLNkiA.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=YA9Qr0Wd4kDdMtD6GjLNkiM&skey=160ea477ddf906aa&v=v10#Kalam",
+      "ttf": "https://fonts.gstatic.com/s/kalam/v10/YA9Qr0Wd4kDdMtD6GjLNkiE.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff": "https://fonts.gstatic.com/s/kalam/v10/YA9Qr0Wd4kDdMtDqHTLNkiI.woff",
+      "fontFamily": "'Kalam'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Kalam Bold",
+        "Kalam-Bold"
+      ],
+      "eot": "https://fonts.gstatic.com/s/kalam/v10/YA9Qr0Wd4kDdMtDqHTLNkiA.eot",
+      "woff2": "https://fonts.gstatic.com/s/kalam/v10/YA9Qr0Wd4kDdMtDqHTLNkiQ.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=YA9Qr0Wd4kDdMtDqHTLNkiM&skey=31f303804b29bb6c&v=v10#Kalam",
+      "ttf": "https://fonts.gstatic.com/s/kalam/v10/YA9Qr0Wd4kDdMtDqHTLNkiE.ttf",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/kalam/v10/YA9dr0Wd4kDdMthQOCM.eot",
+      "fontFamily": "'Kalam'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/kalam/v10/YA9dr0Wd4kDdMthQOCc.woff2",
+      "local": [
+        "Kalam",
+        "Kalam-Regular"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=YA9dr0Wd4kDdMthQOCA&skey=ac3d8b21325789a6&v=v10#Kalam",
+      "woff": "https://fonts.gstatic.com/s/kalam/v10/YA9dr0Wd4kDdMthQOCE.woff",
+      "ttf": "https://fonts.gstatic.com/s/kalam/v10/YA9dr0Wd4kDdMthQOCI.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "devanagari",
+    "latin-ext"
+  ],
+  "category": "handwriting",
+  "version": "v10",
+  "lastModified": "2019-07-17",
+  "popularity": 118,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "devanagari": true,
+    "latin-ext": false
+  },
+  "storeID": "devanagari_latin"
+}

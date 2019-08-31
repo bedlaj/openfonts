@@ -1,0 +1,79 @@
+{
+  "id": "open-sans-condensed",
+  "family": "Open Sans Condensed",
+  "variants": [
+    {
+      "id": "300",
+      "woff": "https://fonts.gstatic.com/s/opensanscondensed/v14/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff1GhPuE.woff",
+      "fontFamily": "'Open Sans Condensed'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "local": [
+        "Open Sans Condensed Light",
+        "OpenSansCondensed-Light"
+      ],
+      "eot": "https://fonts.gstatic.com/s/opensanscondensed/v14/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff1GhPuM.eot",
+      "ttf": "https://fonts.gstatic.com/s/opensanscondensed/v14/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff1GhPuI.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff1GhPuA&skey=2f86f64984be1bbf&v=v14#OpenSansCondensed",
+      "woff2": "https://fonts.gstatic.com/s/opensanscondensed/v14/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff1GhPuc.woff2",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff": "https://fonts.gstatic.com/s/opensanscondensed/v14/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff0GmPuE.woff",
+      "fontFamily": "'Open Sans Condensed'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Open Sans Condensed Bold",
+        "OpenSansCondensed-Bold"
+      ],
+      "eot": "https://fonts.gstatic.com/s/opensanscondensed/v14/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff0GmPuM.eot",
+      "woff2": "https://fonts.gstatic.com/s/opensanscondensed/v14/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff0GmPuc.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff0GmPuA&skey=695af3be40ce75bf&v=v14#OpenSansCondensed",
+      "ttf": "https://fonts.gstatic.com/s/opensanscondensed/v14/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff0GmPuI.ttf",
+      "errored": false
+    },
+    {
+      "id": "300italic",
+      "woff": "https://fonts.gstatic.com/s/opensanscondensed/v14/z7NHdQDnbTkabZAIOl9il_O6KJj73e7Fd_-7suDMQQ.woff",
+      "fontFamily": "'Open Sans Condensed'",
+      "fontStyle": "italic",
+      "fontWeight": "300",
+      "local": [
+        "Open Sans Condensed Light Italic",
+        "OpenSansCondensed-LightItalic"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=z7NHdQDnbTkabZAIOl9il_O6KJj73e7Fd_-7suDMQA&skey=fd360ef3f3018d5d&v=v14#OpenSansCondensed",
+      "ttf": "https://fonts.gstatic.com/s/opensanscondensed/v14/z7NHdQDnbTkabZAIOl9il_O6KJj73e7Fd_-7suDMQg.ttf",
+      "eot": "https://fonts.gstatic.com/s/opensanscondensed/v14/z7NHdQDnbTkabZAIOl9il_O6KJj73e7Fd_-7suDMQw.eot",
+      "woff2": "https://fonts.gstatic.com/s/opensanscondensed/v14/z7NHdQDnbTkabZAIOl9il_O6KJj73e7Fd_-7suDMRw.woff2",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "greek-ext",
+    "vietnamese",
+    "greek",
+    "latin",
+    "latin-ext",
+    "cyrillic",
+    "cyrillic-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v14",
+  "lastModified": "2019-07-22",
+  "popularity": 17,
+  "defSubset": "latin",
+  "defVariant": "300",
+  "subsetMap": {
+    "greek-ext": true,
+    "vietnamese": true,
+    "greek": true,
+    "latin": true,
+    "latin-ext": true,
+    "cyrillic": true,
+    "cyrillic-ext": true
+  },
+  "storeID": "cyrillic-ext_cyrillic_latin-ext_latin_greek_vietnamese_greek-ext"
+}

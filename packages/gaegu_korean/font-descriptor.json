@@ -1,0 +1,69 @@
+{
+  "id": "gaegu",
+  "family": "Gaegu",
+  "variants": [
+    {
+      "id": "300",
+      "woff": "https://fonts.gstatic.com/s/gaegu/v8/TuGSUVB6Up9NU57nicw26MA.woff",
+      "fontFamily": "'Gaegu'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "local": [
+        "Gaegu Light",
+        "Gaegu-Light"
+      ],
+      "eot": "https://fonts.gstatic.com/s/gaegu/v8/TuGSUVB6Up9NU57nicw26MI.eot",
+      "woff2": "https://fonts.gstatic.com/s/gaegu/v8/TuGSUVB6Up9NU57nicw26MY.woff2",
+      "ttf": "https://fonts.gstatic.com/s/gaegu/v8/TuGSUVB6Up9NU57nicw26MM.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=TuGSUVB6Up9NU57nicw26ME&skey=6cca7b9737cd8f26&v=v8#Gaegu",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff": "https://fonts.gstatic.com/s/gaegu/v8/TuGSUVB6Up9NU573jsw26MA.woff",
+      "fontFamily": "'Gaegu'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Gaegu Bold",
+        "Gaegu-Bold"
+      ],
+      "eot": "https://fonts.gstatic.com/s/gaegu/v8/TuGSUVB6Up9NU573jsw26MI.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=TuGSUVB6Up9NU573jsw26ME&skey=daec53040a5bfd39&v=v8#Gaegu",
+      "woff2": "https://fonts.gstatic.com/s/gaegu/v8/TuGSUVB6Up9NU573jsw26MY.woff2",
+      "ttf": "https://fonts.gstatic.com/s/gaegu/v8/TuGSUVB6Up9NU573jsw26MM.ttf",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/gaegu/v8/TuGfUVB6Up9NU5ZGq98.woff",
+      "fontFamily": "'Gaegu'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Gaegu Regular",
+        "Gaegu-Regular"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/gaegu/v8/TuGfUVB6Up9NU5ZGq9w.ttf",
+      "woff2": "https://fonts.gstatic.com/s/gaegu/v8/TuGfUVB6Up9NU5ZGq9k.woff2",
+      "eot": "https://fonts.gstatic.com/s/gaegu/v8/TuGfUVB6Up9NU5ZGq90.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=TuGfUVB6Up9NU5ZGq94&skey=1d4d96d85924742b&v=v8#Gaegu",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "korean",
+    "latin"
+  ],
+  "category": "handwriting",
+  "version": "v8",
+  "lastModified": "2019-07-16",
+  "popularity": 674,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "korean": true,
+    "latin": true
+  },
+  "storeID": "latin_korean"
+}

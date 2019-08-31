@@ -1,0 +1,51 @@
+{
+  "id": "asul",
+  "family": "Asul",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/asul/v9/VuJ-dNjKxYr42fQPWw.woff",
+      "fontFamily": "'Asul'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Asul Regular",
+        "Asul-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/asul/v9/VuJ-dNjKxYr42fQPWQ.eot",
+      "ttf": "https://fonts.gstatic.com/s/asul/v9/VuJ-dNjKxYr42fQPWA.ttf",
+      "woff2": "https://fonts.gstatic.com/s/asul/v9/VuJ-dNjKxYr42fQPXQ.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=VuJ-dNjKxYr42fQPWg&skey=6f7d33b53db17df6&v=v9#Asul",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff2": "https://fonts.gstatic.com/s/asul/v9/VuJxdNjKxYr40U8qSKHdOQ.woff2",
+      "fontFamily": "'Asul'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Asul Bold",
+        "Asul-Bold"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/asul/v9/VuJxdNjKxYr40U8qSKHdPA.ttf",
+      "eot": "https://fonts.gstatic.com/s/asul/v9/VuJxdNjKxYr40U8qSKHdPQ.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=VuJxdNjKxYr40U8qSKHdPg&skey=349ae3cc10487adc&v=v9#Asul",
+      "woff": "https://fonts.gstatic.com/s/asul/v9/VuJxdNjKxYr40U8qSKHdPw.woff",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "category": "sans-serif",
+  "version": "v9",
+  "lastModified": "2019-07-16",
+  "popularity": 687,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true
+  },
+  "storeID": "latin"
+}

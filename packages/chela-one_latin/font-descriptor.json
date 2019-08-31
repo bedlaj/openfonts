@@ -1,0 +1,37 @@
+{
+  "id": "chela-one",
+  "family": "Chela One",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/chelaone/v8/6ae-4KC7Uqgdz_JZdPIC2FHR.woff",
+      "fontFamily": "'Chela One'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Chela One",
+        "ChelaOne-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/chelaone/v8/6ae-4KC7Uqgdz_JZdPIC2FHT.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=6ae-4KC7Uqgdz_JZdPIC2FHQ&skey=84d64f7eb14135f7&v=v8#ChelaOne",
+      "woff2": "https://fonts.gstatic.com/s/chelaone/v8/6ae-4KC7Uqgdz_JZdPIC2FHX.woff2",
+      "ttf": "https://fonts.gstatic.com/s/chelaone/v8/6ae-4KC7Uqgdz_JZdPIC2FHS.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "display",
+  "version": "v8",
+  "lastModified": "2019-07-16",
+  "popularity": 745,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

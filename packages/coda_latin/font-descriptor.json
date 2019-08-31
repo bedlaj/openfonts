@@ -1,0 +1,53 @@
+{
+  "id": "coda",
+  "family": "Coda",
+  "variants": [
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/coda/v15/SLXHc1jY5nQ8FUUGbw.eot",
+      "fontFamily": "'Coda'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/coda/v15/SLXHc1jY5nQ8FUUGbQ.woff",
+      "local": [
+        "Coda Regular",
+        "Coda-Regular"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=SLXHc1jY5nQ8FUUGbA&skey=85bb675133fabe3&v=v15#Coda",
+      "woff2": "https://fonts.gstatic.com/s/coda/v15/SLXHc1jY5nQ8FUUGaw.woff2",
+      "ttf": "https://fonts.gstatic.com/s/coda/v15/SLXHc1jY5nQ8FUUGbg.ttf",
+      "errored": false
+    },
+    {
+      "id": "800",
+      "ttf": "https://fonts.gstatic.com/s/coda/v15/SLXIc1jY5nQ8HeIgfpmsxw.ttf",
+      "fontFamily": "'Coda'",
+      "fontStyle": "normal",
+      "fontWeight": "800",
+      "local": [
+        "Coda ExtraBold",
+        "Coda-ExtraBold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/coda/v15/SLXIc1jY5nQ8HeIgfpmswg.woff2",
+      "eot": "https://fonts.gstatic.com/s/coda/v15/SLXIc1jY5nQ8HeIgfpmsxg.eot",
+      "woff": "https://fonts.gstatic.com/s/coda/v15/SLXIc1jY5nQ8HeIgfpmsxA.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=SLXIc1jY5nQ8HeIgfpmsxQ&skey=4835f90a6ea1d5e3&v=v15#Coda",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "display",
+  "version": "v15",
+  "lastModified": "2019-07-16",
+  "popularity": 295,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "harmattan",
+  "family": "Harmattan",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/harmattan/v6/goksH6L2DkFvVvRp9XpjSUqi.woff2",
+      "fontFamily": "'Harmattan'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Harmattan",
+        "Harmattan-Regular"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=goksH6L2DkFvVvRp9XpjSUql&skey=455aa37d69b7e881&v=v6#Harmattan",
+      "woff": "https://fonts.gstatic.com/s/harmattan/v6/goksH6L2DkFvVvRp9XpjSUqk.woff",
+      "eot": "https://fonts.gstatic.com/s/harmattan/v6/goksH6L2DkFvVvRp9XpjSUqm.eot",
+      "ttf": "https://fonts.gstatic.com/s/harmattan/v6/goksH6L2DkFvVvRp9XpjSUqn.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "arabic"
+  ],
+  "category": "sans-serif",
+  "version": "v6",
+  "lastModified": "2019-07-16",
+  "popularity": 540,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "arabic": true
+  },
+  "storeID": "arabic_latin"
+}

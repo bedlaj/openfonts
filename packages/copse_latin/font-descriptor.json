@@ -1,0 +1,34 @@
+{
+  "id": "copse",
+  "family": "Copse",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/copse/v9/11hPGpDKz1rGb3dkFEk.woff2",
+      "fontFamily": "'Copse'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Copse"
+      ],
+      "woff": "https://fonts.gstatic.com/s/copse/v9/11hPGpDKz1rGb3dkFE8.woff",
+      "eot": "https://fonts.gstatic.com/s/copse/v9/11hPGpDKz1rGb3dkFE0.eot",
+      "ttf": "https://fonts.gstatic.com/s/copse/v9/11hPGpDKz1rGb3dkFEw.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=11hPGpDKz1rGb3dkFE4&skey=7baf73252a4811d6&v=v9#Copse",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "category": "serif",
+  "version": "v9",
+  "lastModified": "2019-07-16",
+  "popularity": 350,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true
+  },
+  "storeID": "latin"
+}

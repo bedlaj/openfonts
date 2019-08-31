@@ -1,0 +1,39 @@
+{
+  "id": "vt323",
+  "family": "VT323",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/vt323/v11/pxiKyp0ihIEF2hsb.woff",
+      "fontFamily": "'VT323'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "VT323 Regular",
+        "VT323-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/vt323/v11/pxiKyp0ihIEF2hsZ.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=pxiKyp0ihIEF2hsa&skey=8f4976db8da1d41&v=v11#VT323",
+      "woff2": "https://fonts.gstatic.com/s/vt323/v11/pxiKyp0ihIEF2hsd.woff2",
+      "ttf": "https://fonts.gstatic.com/s/vt323/v11/pxiKyp0ihIEF2hsY.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "vietnamese",
+    "latin",
+    "latin-ext"
+  ],
+  "category": "monospace",
+  "version": "v11",
+  "lastModified": "2019-07-16",
+  "popularity": 318,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "vietnamese": true,
+    "latin": true,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin_vietnamese"
+}

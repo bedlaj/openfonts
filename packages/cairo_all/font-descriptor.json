@@ -1,0 +1,119 @@
+{
+  "id": "cairo",
+  "family": "Cairo",
+  "variants": [
+    {
+      "id": "200",
+      "woff2": "https://fonts.gstatic.com/s/cairo/v6/SLXLc1nY6Hkvalrub76J.woff2",
+      "fontFamily": "'Cairo'",
+      "fontStyle": "normal",
+      "fontWeight": "200",
+      "local": [
+        "Cairo ExtraLight",
+        "Cairo-ExtraLight"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/cairo/v6/SLXLc1nY6Hkvalrub76M.ttf",
+      "eot": "https://fonts.gstatic.com/s/cairo/v6/SLXLc1nY6Hkvalrub76N.eot",
+      "woff": "https://fonts.gstatic.com/s/cairo/v6/SLXLc1nY6Hkvalrub76P.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=SLXLc1nY6Hkvalrub76O&skey=fcc35fc9b193d704&v=v6#Cairo",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/cairo/v6/SLXGc1nY6HkvamIn.eot",
+      "fontFamily": "'Cairo'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/cairo/v6/SLXGc1nY6HkvamIl.woff",
+      "local": [
+        "Cairo",
+        "Cairo-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/cairo/v6/SLXGc1nY6HkvamIj.woff2",
+      "ttf": "https://fonts.gstatic.com/s/cairo/v6/SLXGc1nY6HkvamIm.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=SLXGc1nY6HkvamIk&skey=ee6e3b9105e1a754&v=v6#Cairo",
+      "errored": false
+    },
+    {
+      "id": "300",
+      "eot": "https://fonts.gstatic.com/s/cairo/v6/SLXLc1nY6HkvalqKbL6N.eot",
+      "fontFamily": "'Cairo'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "woff": "https://fonts.gstatic.com/s/cairo/v6/SLXLc1nY6HkvalqKbL6P.woff",
+      "local": [
+        "Cairo Light",
+        "Cairo-Light"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/cairo/v6/SLXLc1nY6HkvalqKbL6M.ttf",
+      "woff2": "https://fonts.gstatic.com/s/cairo/v6/SLXLc1nY6HkvalqKbL6J.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=SLXLc1nY6HkvalqKbL6O&skey=9125b8b962935364&v=v6#Cairo",
+      "errored": false
+    },
+    {
+      "id": "600",
+      "eot": "https://fonts.gstatic.com/s/cairo/v6/SLXLc1nY6Hkvalr-ar6N.eot",
+      "fontFamily": "'Cairo'",
+      "fontStyle": "normal",
+      "fontWeight": "600",
+      "woff": "https://fonts.gstatic.com/s/cairo/v6/SLXLc1nY6Hkvalr-ar6P.woff",
+      "local": [
+        "Cairo SemiBold",
+        "Cairo-SemiBold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/cairo/v6/SLXLc1nY6Hkvalr-ar6J.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=SLXLc1nY6Hkvalr-ar6O&skey=2cbc68d40dd42eff&v=v6#Cairo",
+      "ttf": "https://fonts.gstatic.com/s/cairo/v6/SLXLc1nY6Hkvalr-ar6M.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/cairo/v6/SLXLc1nY6Hkvalqaa76N.eot",
+      "fontFamily": "'Cairo'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/cairo/v6/SLXLc1nY6Hkvalqaa76P.woff",
+      "local": [
+        "Cairo Bold",
+        "Cairo-Bold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/cairo/v6/SLXLc1nY6Hkvalqaa76J.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=SLXLc1nY6Hkvalqaa76O&skey=63dc25841419bb82&v=v6#Cairo",
+      "ttf": "https://fonts.gstatic.com/s/cairo/v6/SLXLc1nY6Hkvalqaa76M.ttf",
+      "errored": false
+    },
+    {
+      "id": "900",
+      "eot": "https://fonts.gstatic.com/s/cairo/v6/SLXLc1nY6Hkvalqiab6N.eot",
+      "fontFamily": "'Cairo'",
+      "fontStyle": "normal",
+      "fontWeight": "900",
+      "svg": "https://fonts.gstatic.com/l/font?kit=SLXLc1nY6Hkvalqiab6O&skey=a12bc2e34741a2fa&v=v6#Cairo",
+      "local": [
+        "Cairo Black",
+        "Cairo-Black"
+      ],
+      "woff": "https://fonts.gstatic.com/s/cairo/v6/SLXLc1nY6Hkvalqiab6P.woff",
+      "ttf": "https://fonts.gstatic.com/s/cairo/v6/SLXLc1nY6Hkvalqiab6M.ttf",
+      "woff2": "https://fonts.gstatic.com/s/cairo/v6/SLXLc1nY6Hkvalqiab6J.woff2",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "arabic"
+  ],
+  "category": "sans-serif",
+  "version": "v6",
+  "lastModified": "2019-07-17",
+  "popularity": 71,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": true,
+    "arabic": true
+  },
+  "storeID": "arabic_latin-ext_latin"
+}

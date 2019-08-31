@@ -1,0 +1,41 @@
+{
+  "id": "baloo-da",
+  "family": "Baloo Da",
+  "variants": [
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/balooda/v5/LhWmMVnXOfIZO795FUkYQP4.eot",
+      "fontFamily": "'Baloo Da'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "svg": "https://fonts.gstatic.com/l/font?kit=LhWmMVnXOfIZO795FUkYQP0&skey=f08c23aac4b612f6&v=v5#BalooDa",
+      "local": [
+        "Baloo Da Regular",
+        "BalooDa-Regular"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/balooda/v5/LhWmMVnXOfIZO795FUkYQP8.ttf",
+      "woff": "https://fonts.gstatic.com/s/balooda/v5/LhWmMVnXOfIZO795FUkYQPw.woff",
+      "woff2": "https://fonts.gstatic.com/s/balooda/v5/LhWmMVnXOfIZO795FUkYQPo.woff2",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "vietnamese",
+    "latin",
+    "latin-ext",
+    "bengali"
+  ],
+  "category": "display",
+  "version": "v5",
+  "lastModified": "2019-07-16",
+  "popularity": 728,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "vietnamese": false,
+    "latin": true,
+    "latin-ext": false,
+    "bengali": false
+  },
+  "storeID": "latin"
+}

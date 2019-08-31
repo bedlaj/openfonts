@@ -1,0 +1,85 @@
+{
+  "id": "share",
+  "family": "Share",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/share/v10/i7dEIFliZjKNF6VKFr0.woff",
+      "fontFamily": "'Share'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Share Regular",
+        "Share-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/share/v10/i7dEIFliZjKNF6VKFr8.eot",
+      "woff2": "https://fonts.gstatic.com/s/share/v10/i7dEIFliZjKNF6VKFrs.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=i7dEIFliZjKNF6VKFrw&skey=51b92acf87f9279b&v=v10#Share",
+      "ttf": "https://fonts.gstatic.com/s/share/v10/i7dEIFliZjKNF6VKFr4.ttf",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "woff2": "https://fonts.gstatic.com/s/share/v10/i7dKIFliZjKNF6VPJrmedQ.woff2",
+      "fontFamily": "'Share'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "local": [
+        "Share Italic",
+        "Share-Italic"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/share/v10/i7dKIFliZjKNF6VPJrmecA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=i7dKIFliZjKNF6VPJrmecg&skey=dcea8bd827a39f63&v=v10#Share",
+      "woff": "https://fonts.gstatic.com/s/share/v10/i7dKIFliZjKNF6VPJrmecw.woff",
+      "eot": "https://fonts.gstatic.com/s/share/v10/i7dKIFliZjKNF6VPJrmecQ.eot",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/share/v10/i7dJIFliZjKNF63xM665UEc.eot",
+      "fontFamily": "'Share'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff2": "https://fonts.gstatic.com/s/share/v10/i7dJIFliZjKNF63xM665UEM.woff2",
+      "local": [
+        "Share Bold",
+        "Share-Bold"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/share/v10/i7dJIFliZjKNF63xM665UEY.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=i7dJIFliZjKNF63xM665UEQ&skey=2caed9c836d2bbe1&v=v10#Share",
+      "woff": "https://fonts.gstatic.com/s/share/v10/i7dJIFliZjKNF63xM665UEU.woff",
+      "errored": false
+    },
+    {
+      "id": "700italic",
+      "ttf": "https://fonts.gstatic.com/s/share/v10/i7dPIFliZjKNF6VPLgK7YEF8QA.ttf",
+      "fontFamily": "'Share'",
+      "fontStyle": "italic",
+      "fontWeight": "700",
+      "local": [
+        "Share Bold Italic",
+        "Share-BoldItalic"
+      ],
+      "eot": "https://fonts.gstatic.com/s/share/v10/i7dPIFliZjKNF6VPLgK7YEF8QQ.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=i7dPIFliZjKNF6VPLgK7YEF8Qg&skey=f23db1ee5473466e&v=v10#Share",
+      "woff": "https://fonts.gstatic.com/s/share/v10/i7dPIFliZjKNF6VPLgK7YEF8Qw.woff",
+      "woff2": "https://fonts.gstatic.com/s/share/v10/i7dPIFliZjKNF6VPLgK7YEF8RQ.woff2",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "display",
+  "version": "v10",
+  "lastModified": "2019-07-16",
+  "popularity": 329,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

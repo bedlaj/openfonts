@@ -1,0 +1,73 @@
+{
+  "id": "markazi-text",
+  "family": "Markazi Text",
+  "variants": [
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/markazitext/v6/sykh-ydym6AtQaiEtX7yhqb_rV1k_81ZVYYZtfSQf4ovAA.eot",
+      "fontFamily": "'Markazi Text'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/markazitext/v6/sykh-ydym6AtQaiEtX7yhqb_rV1k_81ZVYYZtfSQf4ovAg.woff",
+      "ttf": "https://fonts.gstatic.com/s/markazitext/v6/sykh-ydym6AtQaiEtX7yhqb_rV1k_81ZVYYZtfSQf4ovAQ.ttf",
+      "woff2": "https://fonts.gstatic.com/s/markazitext/v6/sykh-ydym6AtQaiEtX7yhqb_rV1k_81ZVYYZtfSQf4ovBA.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=sykh-ydym6AtQaiEtX7yhqb_rV1k_81ZVYYZtfSQf4ovAw&skey=17dfc13415aa2055&v=v6#MarkaziText",
+      "errored": false
+    },
+    {
+      "id": "500",
+      "woff": "https://fonts.gstatic.com/s/markazitext/v6/sykh-ydym6AtQaiEtX7yhqb_rV1k_81ZVYYZtcaQf4ovAg.woff",
+      "fontFamily": "'Markazi Text'",
+      "fontStyle": "normal",
+      "fontWeight": "500",
+      "eot": "https://fonts.gstatic.com/s/markazitext/v6/sykh-ydym6AtQaiEtX7yhqb_rV1k_81ZVYYZtcaQf4ovAA.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=sykh-ydym6AtQaiEtX7yhqb_rV1k_81ZVYYZtcaQf4ovAw&skey=17dfc13415aa2055&v=v6#MarkaziText",
+      "woff2": "https://fonts.gstatic.com/s/markazitext/v6/sykh-ydym6AtQaiEtX7yhqb_rV1k_81ZVYYZtcaQf4ovBA.woff2",
+      "ttf": "https://fonts.gstatic.com/s/markazitext/v6/sykh-ydym6AtQaiEtX7yhqb_rV1k_81ZVYYZtcaQf4ovAQ.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff2": "https://fonts.gstatic.com/s/markazitext/v6/sykh-ydym6AtQaiEtX7yhqb_rV1k_81ZVYYZtROXf4ovBA.woff2",
+      "fontFamily": "'Markazi Text'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/markazitext/v6/sykh-ydym6AtQaiEtX7yhqb_rV1k_81ZVYYZtROXf4ovAg.woff",
+      "eot": "https://fonts.gstatic.com/s/markazitext/v6/sykh-ydym6AtQaiEtX7yhqb_rV1k_81ZVYYZtROXf4ovAA.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=sykh-ydym6AtQaiEtX7yhqb_rV1k_81ZVYYZtROXf4ovAw&skey=17dfc13415aa2055&v=v6#MarkaziText",
+      "ttf": "https://fonts.gstatic.com/s/markazitext/v6/sykh-ydym6AtQaiEtX7yhqb_rV1k_81ZVYYZtROXf4ovAQ.ttf",
+      "errored": false
+    },
+    {
+      "id": "600",
+      "eot": "https://fonts.gstatic.com/s/markazitext/v6/sykh-ydym6AtQaiEtX7yhqb_rV1k_81ZVYYZtSqXf4ovAA.eot",
+      "fontFamily": "'Markazi Text'",
+      "fontStyle": "normal",
+      "fontWeight": "600",
+      "woff2": "https://fonts.gstatic.com/s/markazitext/v6/sykh-ydym6AtQaiEtX7yhqb_rV1k_81ZVYYZtSqXf4ovBA.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=sykh-ydym6AtQaiEtX7yhqb_rV1k_81ZVYYZtSqXf4ovAw&skey=17dfc13415aa2055&v=v6#MarkaziText",
+      "ttf": "https://fonts.gstatic.com/s/markazitext/v6/sykh-ydym6AtQaiEtX7yhqb_rV1k_81ZVYYZtSqXf4ovAQ.ttf",
+      "woff": "https://fonts.gstatic.com/s/markazitext/v6/sykh-ydym6AtQaiEtX7yhqb_rV1k_81ZVYYZtSqXf4ovAg.woff",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "vietnamese",
+    "latin",
+    "latin-ext",
+    "arabic"
+  ],
+  "category": "serif",
+  "version": "v6",
+  "lastModified": "2019-07-16",
+  "popularity": 335,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "vietnamese": false,
+    "latin": true,
+    "latin-ext": true,
+    "arabic": false
+  },
+  "storeID": "latin-ext_latin"
+}

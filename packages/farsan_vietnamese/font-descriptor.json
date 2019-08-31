@@ -1,0 +1,41 @@
+{
+  "id": "farsan",
+  "family": "Farsan",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/farsan/v5/VEMwRoJ0vY_zsyzK0qWu.woff",
+      "fontFamily": "'Farsan'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Farsan Regular",
+        "Farsan-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/farsan/v5/VEMwRoJ0vY_zsyzK0qWo.woff2",
+      "eot": "https://fonts.gstatic.com/s/farsan/v5/VEMwRoJ0vY_zsyzK0qWs.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=VEMwRoJ0vY_zsyzK0qWv&skey=e4c5cdf64e1df983&v=v5#Farsan",
+      "ttf": "https://fonts.gstatic.com/s/farsan/v5/VEMwRoJ0vY_zsyzK0qWt.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "vietnamese",
+    "latin",
+    "latin-ext",
+    "gujarati"
+  ],
+  "category": "display",
+  "version": "v5",
+  "lastModified": "2019-07-16",
+  "popularity": 709,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "vietnamese": true,
+    "latin": true,
+    "latin-ext": false,
+    "gujarati": false
+  },
+  "storeID": "latin_vietnamese"
+}

@@ -1,0 +1,103 @@
+{
+  "id": "hind",
+  "family": "Hind",
+  "variants": [
+    {
+      "id": "300",
+      "ttf": "https://fonts.gstatic.com/s/hind/v10/5aU19_a8oxmIfMJaERySiA.ttf",
+      "fontFamily": "'Hind'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "local": [
+        "Hind Light",
+        "Hind-Light"
+      ],
+      "eot": "https://fonts.gstatic.com/s/hind/v10/5aU19_a8oxmIfMJaERySiQ.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=5aU19_a8oxmIfMJaERySig&skey=67a5c17d8888694b&v=v10#Hind",
+      "woff2": "https://fonts.gstatic.com/s/hind/v10/5aU19_a8oxmIfMJaERySjQ.woff2",
+      "woff": "https://fonts.gstatic.com/s/hind/v10/5aU19_a8oxmIfMJaERySiw.woff",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/hind/v10/5aU69_a8oxmIdGl4BA.woff2",
+      "fontFamily": "'Hind'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Hind Regular",
+        "Hind-Regular"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/hind/v10/5aU69_a8oxmIdGl4AQ.ttf",
+      "woff": "https://fonts.gstatic.com/s/hind/v10/5aU69_a8oxmIdGl4Ag.woff",
+      "eot": "https://fonts.gstatic.com/s/hind/v10/5aU69_a8oxmIdGl4AA.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=5aU69_a8oxmIdGl4Aw&skey=88b46a73a32439b3&v=v10#Hind",
+      "errored": false
+    },
+    {
+      "id": "500",
+      "eot": "https://fonts.gstatic.com/s/hind/v10/5aU19_a8oxmIfJpbERySiQ.eot",
+      "fontFamily": "'Hind'",
+      "fontStyle": "normal",
+      "fontWeight": "500",
+      "woff2": "https://fonts.gstatic.com/s/hind/v10/5aU19_a8oxmIfJpbERySjQ.woff2",
+      "local": [
+        "Hind Medium",
+        "Hind-Medium"
+      ],
+      "woff": "https://fonts.gstatic.com/s/hind/v10/5aU19_a8oxmIfJpbERySiw.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=5aU19_a8oxmIfJpbERySig&skey=240cc253f5a86f17&v=v10#Hind",
+      "ttf": "https://fonts.gstatic.com/s/hind/v10/5aU19_a8oxmIfJpbERySiA.ttf",
+      "errored": false
+    },
+    {
+      "id": "600",
+      "woff2": "https://fonts.gstatic.com/s/hind/v10/5aU19_a8oxmIfLZcERySjQ.woff2",
+      "fontFamily": "'Hind'",
+      "fontStyle": "normal",
+      "fontWeight": "600",
+      "local": [
+        "Hind SemiBold",
+        "Hind-SemiBold"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=5aU19_a8oxmIfLZcERySig&skey=da2b34d6f21b4cf5&v=v10#Hind",
+      "woff": "https://fonts.gstatic.com/s/hind/v10/5aU19_a8oxmIfLZcERySiw.woff",
+      "eot": "https://fonts.gstatic.com/s/hind/v10/5aU19_a8oxmIfLZcERySiQ.eot",
+      "ttf": "https://fonts.gstatic.com/s/hind/v10/5aU19_a8oxmIfLZcERySiA.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff2": "https://fonts.gstatic.com/s/hind/v10/5aU19_a8oxmIfNJdERySjQ.woff2",
+      "fontFamily": "'Hind'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Hind Bold",
+        "Hind-Bold"
+      ],
+      "woff": "https://fonts.gstatic.com/s/hind/v10/5aU19_a8oxmIfNJdERySiw.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=5aU19_a8oxmIfNJdERySig&skey=9c157a14144029ee&v=v10#Hind",
+      "eot": "https://fonts.gstatic.com/s/hind/v10/5aU19_a8oxmIfNJdERySiQ.eot",
+      "ttf": "https://fonts.gstatic.com/s/hind/v10/5aU19_a8oxmIfNJdERySiA.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "devanagari",
+    "latin-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v10",
+  "lastModified": "2019-07-22",
+  "popularity": 45,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "devanagari": false,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

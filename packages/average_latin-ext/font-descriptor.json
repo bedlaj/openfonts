@@ -1,0 +1,37 @@
+{
+  "id": "average",
+  "family": "Average",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/average/v8/fC1hPYBHe23MxA7rEet6Ug.woff",
+      "fontFamily": "'Average'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Average Regular",
+        "Average-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/average/v8/fC1hPYBHe23MxA7rEet6UA.eot",
+      "woff2": "https://fonts.gstatic.com/s/average/v8/fC1hPYBHe23MxA7rEet6VA.woff2",
+      "ttf": "https://fonts.gstatic.com/s/average/v8/fC1hPYBHe23MxA7rEet6UQ.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=fC1hPYBHe23MxA7rEet6Uw&skey=e8d3c78a1e722e05&v=v8#Average",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "serif",
+  "version": "v8",
+  "lastModified": "2019-07-16",
+  "popularity": 304,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin"
+}

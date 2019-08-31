@@ -1,0 +1,69 @@
+{
+  "id": "cinzel",
+  "family": "Cinzel",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/cinzel/v9/8vIJ7ww63mVu7gt79mT7.woff2",
+      "fontFamily": "'Cinzel'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Cinzel Regular",
+        "Cinzel-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/cinzel/v9/8vIJ7ww63mVu7gt79mT_.eot",
+      "ttf": "https://fonts.gstatic.com/s/cinzel/v9/8vIJ7ww63mVu7gt79mT-.ttf",
+      "woff": "https://fonts.gstatic.com/s/cinzel/v9/8vIJ7ww63mVu7gt79mT9.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=8vIJ7ww63mVu7gt79mT8&skey=f319ae43d1034808&v=v9#Cinzel",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff": "https://fonts.gstatic.com/s/cinzel/v9/8vIK7ww63mVu7gtzTUHuE2Zc.woff",
+      "fontFamily": "'Cinzel'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Cinzel Bold",
+        "Cinzel-Bold"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=8vIK7ww63mVu7gtzTUHuE2Zd&skey=d0bd7ac4911fce5f&v=v9#Cinzel",
+      "ttf": "https://fonts.gstatic.com/s/cinzel/v9/8vIK7ww63mVu7gtzTUHuE2Zf.ttf",
+      "woff2": "https://fonts.gstatic.com/s/cinzel/v9/8vIK7ww63mVu7gtzTUHuE2Za.woff2",
+      "eot": "https://fonts.gstatic.com/s/cinzel/v9/8vIK7ww63mVu7gtzTUHuE2Ze.eot",
+      "errored": false
+    },
+    {
+      "id": "900",
+      "woff": "https://fonts.gstatic.com/s/cinzel/v9/8vIK7ww63mVu7gtzdUPuE2Zc.woff",
+      "fontFamily": "'Cinzel'",
+      "fontStyle": "normal",
+      "fontWeight": "900",
+      "local": [
+        "Cinzel Black",
+        "Cinzel-Black"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/cinzel/v9/8vIK7ww63mVu7gtzdUPuE2Za.woff2",
+      "eot": "https://fonts.gstatic.com/s/cinzel/v9/8vIK7ww63mVu7gtzdUPuE2Ze.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=8vIK7ww63mVu7gtzdUPuE2Zd&skey=be449759839bebc9&v=v9#Cinzel",
+      "ttf": "https://fonts.gstatic.com/s/cinzel/v9/8vIK7ww63mVu7gtzdUPuE2Zf.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "serif",
+  "version": "v9",
+  "lastModified": "2019-07-17",
+  "popularity": 95,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

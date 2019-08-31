@@ -1,0 +1,37 @@
+{
+  "id": "playball",
+  "family": "Playball",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/playball/v9/TK3gWksYAxQ7jbsKcg8Eneo.woff2",
+      "fontFamily": "'Playball'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Playball",
+        "Playball-Regular"
+      ],
+      "woff": "https://fonts.gstatic.com/s/playball/v9/TK3gWksYAxQ7jbsKcg8Enew.woff",
+      "ttf": "https://fonts.gstatic.com/s/playball/v9/TK3gWksYAxQ7jbsKcg8Ene8.ttf",
+      "eot": "https://fonts.gstatic.com/s/playball/v9/TK3gWksYAxQ7jbsKcg8Ene4.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=TK3gWksYAxQ7jbsKcg8Ene0&skey=357bba6f2f2e9ebf&v=v9#Playball",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "display",
+  "version": "v9",
+  "lastModified": "2019-07-16",
+  "popularity": 222,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

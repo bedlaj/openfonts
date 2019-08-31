@@ -1,0 +1,85 @@
+{
+  "id": "signika",
+  "family": "Signika",
+  "variants": [
+    {
+      "id": "300",
+      "woff2": "https://fonts.gstatic.com/s/signika/v10/vEFU2_JTCgwQ5ejvE_oEE3dJag.woff2",
+      "fontFamily": "'Signika'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "local": [
+        "Signika Light",
+        "Signika-Light"
+      ],
+      "woff": "https://fonts.gstatic.com/s/signika/v10/vEFU2_JTCgwQ5ejvE_oEE3dJbA.woff",
+      "eot": "https://fonts.gstatic.com/s/signika/v10/vEFU2_JTCgwQ5ejvE_oEE3dJbg.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=vEFU2_JTCgwQ5ejvE_oEE3dJbQ&skey=2622a7cbcd7a9dbd&v=v10#Signika",
+      "ttf": "https://fonts.gstatic.com/s/signika/v10/vEFU2_JTCgwQ5ejvE_oEE3dJbw.ttf",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "svg": "https://fonts.gstatic.com/l/font?kit=vEFR2_JTCgwQ5ejvG1EmAQ&skey=2df7b3f7f6d8a32a&v=v10#Signika",
+      "fontFamily": "'Signika'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Signika Regular",
+        "Signika-Regular"
+      ],
+      "woff": "https://fonts.gstatic.com/s/signika/v10/vEFR2_JTCgwQ5ejvG1EmAA.woff",
+      "ttf": "https://fonts.gstatic.com/s/signika/v10/vEFR2_JTCgwQ5ejvG1EmAw.ttf",
+      "eot": "https://fonts.gstatic.com/s/signika/v10/vEFR2_JTCgwQ5ejvG1EmAg.eot",
+      "woff2": "https://fonts.gstatic.com/s/signika/v10/vEFR2_JTCgwQ5ejvG1EmBg.woff2",
+      "errored": false
+    },
+    {
+      "id": "600",
+      "woff2": "https://fonts.gstatic.com/s/signika/v10/vEFU2_JTCgwQ5ejvE44CE3dJag.woff2",
+      "fontFamily": "'Signika'",
+      "fontStyle": "normal",
+      "fontWeight": "600",
+      "local": [
+        "Signika SemiBold",
+        "Signika-SemiBold"
+      ],
+      "woff": "https://fonts.gstatic.com/s/signika/v10/vEFU2_JTCgwQ5ejvE44CE3dJbA.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=vEFU2_JTCgwQ5ejvE44CE3dJbQ&skey=40ca7a96257c86e1&v=v10#Signika",
+      "eot": "https://fonts.gstatic.com/s/signika/v10/vEFU2_JTCgwQ5ejvE44CE3dJbg.eot",
+      "ttf": "https://fonts.gstatic.com/s/signika/v10/vEFU2_JTCgwQ5ejvE44CE3dJbw.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/signika/v10/vEFU2_JTCgwQ5ejvE-oDE3dJbg.eot",
+      "fontFamily": "'Signika'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff2": "https://fonts.gstatic.com/s/signika/v10/vEFU2_JTCgwQ5ejvE-oDE3dJag.woff2",
+      "local": [
+        "Signika Bold",
+        "Signika-Bold"
+      ],
+      "woff": "https://fonts.gstatic.com/s/signika/v10/vEFU2_JTCgwQ5ejvE-oDE3dJbA.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=vEFU2_JTCgwQ5ejvE-oDE3dJbQ&skey=798e011337be06c&v=v10#Signika",
+      "ttf": "https://fonts.gstatic.com/s/signika/v10/vEFU2_JTCgwQ5ejvE-oDE3dJbw.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v10",
+  "lastModified": "2019-07-17",
+  "popularity": 88,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

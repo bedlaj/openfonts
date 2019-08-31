@@ -1,0 +1,53 @@
+{
+  "id": "sahitya",
+  "family": "Sahitya",
+  "variants": [
+    {
+      "id": "regular",
+      "ttf": "https://fonts.gstatic.com/s/sahitya/v4/6qLAKZkOuhnuqlJAWSEPOw.ttf",
+      "fontFamily": "'Sahitya'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Sahitya",
+        "Sahitya-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/sahitya/v4/6qLAKZkOuhnuqlJAWSEPPg.woff2",
+      "eot": "https://fonts.gstatic.com/s/sahitya/v4/6qLAKZkOuhnuqlJAWSEPOg.eot",
+      "woff": "https://fonts.gstatic.com/s/sahitya/v4/6qLAKZkOuhnuqlJAWSEPOA.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=6qLAKZkOuhnuqlJAWSEPOQ&skey=980a4c34e0a2c199&v=v4#Sahitya",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/sahitya/v4/6qLFKZkOuhnuqlJAUZsqKyIlFw.eot",
+      "fontFamily": "'Sahitya'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "svg": "https://fonts.gstatic.com/l/font?kit=6qLFKZkOuhnuqlJAUZsqKyIlFA&skey=4a09c211f370817d&v=v4#Sahitya",
+      "local": [
+        "Sahitya Bold",
+        "Sahitya-Bold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/sahitya/v4/6qLFKZkOuhnuqlJAUZsqKyIlEw.woff2",
+      "ttf": "https://fonts.gstatic.com/s/sahitya/v4/6qLFKZkOuhnuqlJAUZsqKyIlFg.ttf",
+      "woff": "https://fonts.gstatic.com/s/sahitya/v4/6qLFKZkOuhnuqlJAUZsqKyIlFQ.woff",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "devanagari"
+  ],
+  "category": "serif",
+  "version": "v4",
+  "lastModified": "2019-07-16",
+  "popularity": 830,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "devanagari": true
+  },
+  "storeID": "devanagari_latin"
+}

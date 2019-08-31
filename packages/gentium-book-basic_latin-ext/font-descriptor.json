@@ -1,0 +1,85 @@
+{
+  "id": "gentium-book-basic",
+  "family": "Gentium Book Basic",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/gentiumbookbasic/v10/pe0zMJCbPYBVokB1LHA9bbyaQb8ZGjc4XrF6.woff2",
+      "fontFamily": "'Gentium Book Basic'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Gentium Book Basic",
+        "GentiumBookBasic"
+      ],
+      "woff": "https://fonts.gstatic.com/s/gentiumbookbasic/v10/pe0zMJCbPYBVokB1LHA9bbyaQb8ZGjc4XrF8.woff",
+      "eot": "https://fonts.gstatic.com/s/gentiumbookbasic/v10/pe0zMJCbPYBVokB1LHA9bbyaQb8ZGjc4XrF-.eot",
+      "ttf": "https://fonts.gstatic.com/s/gentiumbookbasic/v10/pe0zMJCbPYBVokB1LHA9bbyaQb8ZGjc4XrF_.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=pe0zMJCbPYBVokB1LHA9bbyaQb8ZGjc4XrF9&skey=e59bbbdff9bf19ed&v=v10#GentiumBookBasic",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "eot": "https://fonts.gstatic.com/s/gentiumbookbasic/v10/pe0xMJCbPYBVokB1LHA9bbyaQb8ZGjc4VYF266Y.eot",
+      "fontFamily": "'Gentium Book Basic'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/gentiumbookbasic/v10/pe0xMJCbPYBVokB1LHA9bbyaQb8ZGjc4VYF266I.woff2",
+      "local": [
+        "Gentium Book Basic Italic",
+        "GentiumBookBasic-Italic"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=pe0xMJCbPYBVokB1LHA9bbyaQb8ZGjc4VYF266U&skey=7d0db4a8f90df4cf&v=v10#GentiumBookBasic",
+      "woff": "https://fonts.gstatic.com/s/gentiumbookbasic/v10/pe0xMJCbPYBVokB1LHA9bbyaQb8ZGjc4VYF266Q.woff",
+      "ttf": "https://fonts.gstatic.com/s/gentiumbookbasic/v10/pe0xMJCbPYBVokB1LHA9bbyaQb8ZGjc4VYF266c.ttf",
+      "errored": false
+    },
+    {
+      "id": "700italic",
+      "woff": "https://fonts.gstatic.com/s/gentiumbookbasic/v10/pe0-MJCbPYBVokB1LHA9bbyaQb8ZGjc4VYnDzrfV-Vw.woff",
+      "fontFamily": "'Gentium Book Basic'",
+      "fontStyle": "italic",
+      "fontWeight": "700",
+      "local": [
+        "Gentium Book Basic Bold Italic",
+        "GentiumBookBasic-BoldItalic"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=pe0-MJCbPYBVokB1LHA9bbyaQb8ZGjc4VYnDzrfV-V0&skey=fcece854bedf6784&v=v10#GentiumBookBasic",
+      "woff2": "https://fonts.gstatic.com/s/gentiumbookbasic/v10/pe0-MJCbPYBVokB1LHA9bbyaQb8ZGjc4VYnDzrfV-Vo.woff2",
+      "eot": "https://fonts.gstatic.com/s/gentiumbookbasic/v10/pe0-MJCbPYBVokB1LHA9bbyaQb8ZGjc4VYnDzrfV-V4.eot",
+      "ttf": "https://fonts.gstatic.com/s/gentiumbookbasic/v10/pe0-MJCbPYBVokB1LHA9bbyaQb8ZGjc4VYnDzrfV-V8.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/gentiumbookbasic/v10/pe0wMJCbPYBVokB1LHA9bbyaQb8ZGjcw65Rvwofd.eot",
+      "fontFamily": "'Gentium Book Basic'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/gentiumbookbasic/v10/pe0wMJCbPYBVokB1LHA9bbyaQb8ZGjcw65Rvwoff.woff",
+      "local": [
+        "Gentium Book Basic Bold",
+        "GentiumBookBasic-Bold"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=pe0wMJCbPYBVokB1LHA9bbyaQb8ZGjcw65Rvwofe&skey=a88f8dc92f935def&v=v10#GentiumBookBasic",
+      "ttf": "https://fonts.gstatic.com/s/gentiumbookbasic/v10/pe0wMJCbPYBVokB1LHA9bbyaQb8ZGjcw65Rvwofc.ttf",
+      "woff2": "https://fonts.gstatic.com/s/gentiumbookbasic/v10/pe0wMJCbPYBVokB1LHA9bbyaQb8ZGjcw65RvwofZ.woff2",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "serif",
+  "version": "v10",
+  "lastModified": "2019-07-16",
+  "popularity": 202,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin"
+}

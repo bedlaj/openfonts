@@ -1,0 +1,103 @@
+{
+  "id": "atma",
+  "family": "Atma",
+  "variants": [
+    {
+      "id": "300",
+      "svg": "https://fonts.gstatic.com/l/font?kit=uK_z4rqWc-Eoo8JzGjA3OA&skey=1c5a42f4c83d56d1&v=v5#Atma",
+      "fontFamily": "'Atma'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "local": [
+        "Atma Light",
+        "Atma-Light"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/atma/v5/uK_z4rqWc-Eoo8JzGjA3Pw.woff2",
+      "woff": "https://fonts.gstatic.com/s/atma/v5/uK_z4rqWc-Eoo8JzGjA3OQ.woff",
+      "ttf": "https://fonts.gstatic.com/s/atma/v5/uK_z4rqWc-Eoo8JzGjA3Og.ttf",
+      "eot": "https://fonts.gstatic.com/s/atma/v5/uK_z4rqWc-Eoo8JzGjA3Ow.eot",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/atma/v5/uK_84rqWc-Eoq2lRCQ.woff",
+      "fontFamily": "'Atma'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Atma Regular",
+        "Atma-Regular"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=uK_84rqWc-Eoq2lRCA&skey=ef0f4735d6c35705&v=v5#Atma",
+      "eot": "https://fonts.gstatic.com/s/atma/v5/uK_84rqWc-Eoq2lRCw.eot",
+      "woff2": "https://fonts.gstatic.com/s/atma/v5/uK_84rqWc-Eoq2lRDw.woff2",
+      "ttf": "https://fonts.gstatic.com/s/atma/v5/uK_84rqWc-Eoq2lRCg.ttf",
+      "errored": false
+    },
+    {
+      "id": "500",
+      "eot": "https://fonts.gstatic.com/s/atma/v5/uK_z4rqWc-Eoo5pyGjA3Ow.eot",
+      "fontFamily": "'Atma'",
+      "fontStyle": "normal",
+      "fontWeight": "500",
+      "woff2": "https://fonts.gstatic.com/s/atma/v5/uK_z4rqWc-Eoo5pyGjA3Pw.woff2",
+      "local": [
+        "Atma Medium",
+        "Atma-Medium"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/atma/v5/uK_z4rqWc-Eoo5pyGjA3Og.ttf",
+      "woff": "https://fonts.gstatic.com/s/atma/v5/uK_z4rqWc-Eoo5pyGjA3OQ.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=uK_z4rqWc-Eoo5pyGjA3OA&skey=8e8a91423c7cdf05&v=v5#Atma",
+      "errored": false
+    },
+    {
+      "id": "600",
+      "eot": "https://fonts.gstatic.com/s/atma/v5/uK_z4rqWc-Eoo7Z1GjA3Ow.eot",
+      "fontFamily": "'Atma'",
+      "fontStyle": "normal",
+      "fontWeight": "600",
+      "woff": "https://fonts.gstatic.com/s/atma/v5/uK_z4rqWc-Eoo7Z1GjA3OQ.woff",
+      "local": [
+        "Atma SemiBold",
+        "Atma-SemiBold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/atma/v5/uK_z4rqWc-Eoo7Z1GjA3Pw.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=uK_z4rqWc-Eoo7Z1GjA3OA&skey=e984897094fab105&v=v5#Atma",
+      "ttf": "https://fonts.gstatic.com/s/atma/v5/uK_z4rqWc-Eoo7Z1GjA3Og.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/atma/v5/uK_z4rqWc-Eoo9J0GjA3Ow.eot",
+      "fontFamily": "'Atma'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/atma/v5/uK_z4rqWc-Eoo9J0GjA3OQ.woff",
+      "local": [
+        "Atma Bold",
+        "Atma-Bold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/atma/v5/uK_z4rqWc-Eoo9J0GjA3Pw.woff2",
+      "ttf": "https://fonts.gstatic.com/s/atma/v5/uK_z4rqWc-Eoo9J0GjA3Og.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=uK_z4rqWc-Eoo9J0GjA3OA&skey=5ea54240f24e26e5&v=v5#Atma",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "bengali"
+  ],
+  "category": "display",
+  "version": "v5",
+  "lastModified": "2019-07-16",
+  "popularity": 605,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false,
+    "bengali": false
+  },
+  "storeID": "latin"
+}

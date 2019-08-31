@@ -1,0 +1,51 @@
+{
+  "id": "nokora",
+  "family": "Nokora",
+  "variants": [
+    {
+      "id": "regular",
+      "ttf": "https://fonts.gstatic.com/s/nokora/v13/hYkIPuwgTubzaWxgNzAL.ttf",
+      "fontFamily": "'Nokora'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Nokora Regular",
+        "Nokora-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/nokora/v13/hYkIPuwgTubzaWxgNzAO.woff2",
+      "woff": "https://fonts.gstatic.com/s/nokora/v13/hYkIPuwgTubzaWxgNzAI.woff",
+      "eot": "https://fonts.gstatic.com/s/nokora/v13/hYkIPuwgTubzaWxgNzAK.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=hYkIPuwgTubzaWxgNzAJ&skey=92f56279027d37f9&v=v13#Nokora",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff2": "https://fonts.gstatic.com/s/nokora/v13/hYkLPuwgTubzaWxohxUbptd9.woff2",
+      "fontFamily": "'Nokora'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Nokora Bold",
+        "Nokora-Bold"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/nokora/v13/hYkLPuwgTubzaWxohxUbptd4.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=hYkLPuwgTubzaWxohxUbptd6&skey=3f98b1bfbe4ceea4&v=v13#Nokora",
+      "eot": "https://fonts.gstatic.com/s/nokora/v13/hYkLPuwgTubzaWxohxUbptd5.eot",
+      "woff": "https://fonts.gstatic.com/s/nokora/v13/hYkLPuwgTubzaWxohxUbptd7.woff",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "khmer"
+  ],
+  "category": "serif",
+  "version": "v13",
+  "lastModified": "2019-07-16",
+  "popularity": 752,
+  "defSubset": "khmer",
+  "defVariant": "regular",
+  "subsetMap": {
+    "khmer": true
+  },
+  "storeID": "khmer"
+}

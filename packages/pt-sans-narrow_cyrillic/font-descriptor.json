@@ -1,0 +1,57 @@
+{
+  "id": "pt-sans-narrow",
+  "family": "PT Sans Narrow",
+  "variants": [
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/ptsansnarrow/v11/BngRUXNadjH0qYEzV7ab-oWlsbCCwRk.eot",
+      "fontFamily": "'PT Sans Narrow'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "ttf": "https://fonts.gstatic.com/s/ptsansnarrow/v11/BngRUXNadjH0qYEzV7ab-oWlsbCCwRg.ttf",
+      "local": [
+        "PT Sans Narrow",
+        "PTSans-Narrow"
+      ],
+      "woff": "https://fonts.gstatic.com/s/ptsansnarrow/v11/BngRUXNadjH0qYEzV7ab-oWlsbCCwRs.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=BngRUXNadjH0qYEzV7ab-oWlsbCCwRo&skey=4fa1436033972818&v=v11#PTSansNarrow",
+      "woff2": "https://fonts.gstatic.com/s/ptsansnarrow/v11/BngRUXNadjH0qYEzV7ab-oWlsbCCwR0.woff2",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/ptsansnarrow/v11/BngSUXNadjH0qYEzV7ab-oWlsbg95AiBW_k.eot",
+      "fontFamily": "'PT Sans Narrow'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/ptsansnarrow/v11/BngSUXNadjH0qYEzV7ab-oWlsbg95AiBW_s.woff",
+      "local": [
+        "PT Sans Narrow Bold",
+        "PTSans-NarrowBold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/ptsansnarrow/v11/BngSUXNadjH0qYEzV7ab-oWlsbg95AiBW_0.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=BngSUXNadjH0qYEzV7ab-oWlsbg95AiBW_o&skey=1f20cc7adf7b54b9&v=v11#PTSansNarrow",
+      "ttf": "https://fonts.gstatic.com/s/ptsansnarrow/v11/BngSUXNadjH0qYEzV7ab-oWlsbg95AiBW_g.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "cyrillic",
+    "cyrillic-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v11",
+  "lastModified": "2019-07-22",
+  "popularity": 28,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false,
+    "cyrillic": true,
+    "cyrillic-ext": false
+  },
+  "storeID": "cyrillic_latin"
+}

@@ -1,0 +1,97 @@
+{
+  "id": "tinos",
+  "family": "Tinos",
+  "variants": [
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/tinos/v13/buE4poGnedXvwjX0fmA.eot",
+      "fontFamily": "'Tinos'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/tinos/v13/buE4poGnedXvwjX0fmI.woff",
+      "local": [
+        "Tinos Regular",
+        "Tinos-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/tinos/v13/buE4poGnedXvwjX0fmQ.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=buE4poGnedXvwjX0fmM&skey=c8b6aa82b57934a&v=v13#Tinos",
+      "ttf": "https://fonts.gstatic.com/s/tinos/v13/buE4poGnedXvwjX0fmE.ttf",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "woff": "https://fonts.gstatic.com/s/tinos/v13/buE2poGnedXvwjX-TmlJ8w.woff",
+      "fontFamily": "'Tinos'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "local": [
+        "Tinos Italic",
+        "Tinos-Italic"
+      ],
+      "eot": "https://fonts.gstatic.com/s/tinos/v13/buE2poGnedXvwjX-TmlJ8Q.eot",
+      "woff2": "https://fonts.gstatic.com/s/tinos/v13/buE2poGnedXvwjX-TmlJ9Q.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=buE2poGnedXvwjX-TmlJ8g&skey=bebefdc6a40fd4ff&v=v13#Tinos",
+      "ttf": "https://fonts.gstatic.com/s/tinos/v13/buE2poGnedXvwjX-TmlJ8A.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/tinos/v13/buE1poGnedXvwj1AW3Fh0Cs.eot",
+      "fontFamily": "'Tinos'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff2": "https://fonts.gstatic.com/s/tinos/v13/buE1poGnedXvwj1AW3Fh0C8.woff2",
+      "local": [
+        "Tinos Bold",
+        "Tinos-Bold"
+      ],
+      "woff": "https://fonts.gstatic.com/s/tinos/v13/buE1poGnedXvwj1AW3Fh0Ck.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=buE1poGnedXvwj1AW3Fh0Cg&skey=d2066bbd7f2ceff4&v=v13#Tinos",
+      "ttf": "https://fonts.gstatic.com/s/tinos/v13/buE1poGnedXvwj1AW3Fh0Co.ttf",
+      "errored": false
+    },
+    {
+      "id": "700italic",
+      "eot": "https://fonts.gstatic.com/s/tinos/v13/buEzpoGnedXvwjX-Rt1s4CIf-Q.eot",
+      "fontFamily": "'Tinos'",
+      "fontStyle": "italic",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/tinos/v13/buEzpoGnedXvwjX-Rt1s4CIf-w.woff",
+      "local": [
+        "Tinos Bold Italic",
+        "Tinos-BoldItalic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/tinos/v13/buEzpoGnedXvwjX-Rt1s4CIf_Q.woff2",
+      "ttf": "https://fonts.gstatic.com/s/tinos/v13/buEzpoGnedXvwjX-Rt1s4CIf-A.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=buEzpoGnedXvwjX-Rt1s4CIf-g&skey=5e1e0bd2a77305f&v=v13#Tinos",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "hebrew",
+    "greek-ext",
+    "vietnamese",
+    "greek",
+    "latin",
+    "latin-ext",
+    "cyrillic",
+    "cyrillic-ext"
+  ],
+  "category": "serif",
+  "version": "v13",
+  "lastModified": "2019-07-17",
+  "popularity": 130,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "hebrew": false,
+    "greek-ext": false,
+    "vietnamese": true,
+    "greek": false,
+    "latin": true,
+    "latin-ext": false,
+    "cyrillic": false,
+    "cyrillic-ext": false
+  },
+  "storeID": "latin_vietnamese"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "srisakdi",
+  "family": "Srisakdi",
+  "variants": [
+    {
+      "id": "regular",
+      "svg": "https://fonts.gstatic.com/l/font?kit=yMJRMIlvdpDbkB0A-gq0dyo&skey=788157e0305eddec&v=v3#Srisakdi",
+      "fontFamily": "'Srisakdi'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Srisakdi Regular",
+        "Srisakdi-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/srisakdi/v3/yMJRMIlvdpDbkB0A-gq0dy0.woff2",
+      "eot": "https://fonts.gstatic.com/s/srisakdi/v3/yMJRMIlvdpDbkB0A-gq0dyk.eot",
+      "woff": "https://fonts.gstatic.com/s/srisakdi/v3/yMJRMIlvdpDbkB0A-gq0dys.woff",
+      "ttf": "https://fonts.gstatic.com/s/srisakdi/v3/yMJRMIlvdpDbkB0A-gq0dyg.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "ttf": "https://fonts.gstatic.com/s/srisakdi/v3/yMJWMIlvdpDbkB0A-gIAUjh5qtU.ttf",
+      "fontFamily": "'Srisakdi'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Srisakdi Bold",
+        "Srisakdi-Bold"
+      ],
+      "eot": "https://fonts.gstatic.com/s/srisakdi/v3/yMJWMIlvdpDbkB0A-gIAUjh5qtQ.eot",
+      "woff": "https://fonts.gstatic.com/s/srisakdi/v3/yMJWMIlvdpDbkB0A-gIAUjh5qtY.woff",
+      "woff2": "https://fonts.gstatic.com/s/srisakdi/v3/yMJWMIlvdpDbkB0A-gIAUjh5qtA.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=yMJWMIlvdpDbkB0A-gIAUjh5qtc&skey=24500905fa98148a&v=v3#Srisakdi",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "vietnamese",
+    "latin",
+    "latin-ext",
+    "thai"
+  ],
+  "category": "display",
+  "version": "v3",
+  "lastModified": "2019-07-16",
+  "popularity": 894,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "vietnamese": true,
+    "latin": true,
+    "latin-ext": false,
+    "thai": false
+  },
+  "storeID": "latin_vietnamese"
+}

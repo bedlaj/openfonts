@@ -1,0 +1,53 @@
+{
+  "id": "alef",
+  "family": "Alef",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/alef/v11/FeVfS0NQpLYgnjVRDA.woff",
+      "fontFamily": "'Alef'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Alef Regular",
+        "Alef-Regular"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=FeVfS0NQpLYgnjVRDQ&skey=12751269588cd788&v=v11#Alef",
+      "woff2": "https://fonts.gstatic.com/s/alef/v11/FeVfS0NQpLYgnjVRCg.woff2",
+      "eot": "https://fonts.gstatic.com/s/alef/v11/FeVfS0NQpLYgnjVRDg.eot",
+      "ttf": "https://fonts.gstatic.com/s/alef/v11/FeVfS0NQpLYgnjVRDw.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "svg": "https://fonts.gstatic.com/l/font?kit=FeVQS0NQpLYglo50H55Q3w&skey=52f19229bca4351b&v=v11#Alef",
+      "fontFamily": "'Alef'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Alef Bold",
+        "Alef-Bold"
+      ],
+      "eot": "https://fonts.gstatic.com/s/alef/v11/FeVQS0NQpLYglo50H55Q3A.eot",
+      "woff": "https://fonts.gstatic.com/s/alef/v11/FeVQS0NQpLYglo50H55Q3g.woff",
+      "woff2": "https://fonts.gstatic.com/s/alef/v11/FeVQS0NQpLYglo50H55Q2A.woff2",
+      "ttf": "https://fonts.gstatic.com/s/alef/v11/FeVQS0NQpLYglo50H55Q3Q.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "hebrew",
+    "latin"
+  ],
+  "category": "sans-serif",
+  "version": "v11",
+  "lastModified": "2019-07-16",
+  "popularity": 300,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "hebrew": false,
+    "latin": true
+  },
+  "storeID": "latin"
+}

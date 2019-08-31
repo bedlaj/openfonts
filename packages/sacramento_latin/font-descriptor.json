@@ -1,0 +1,37 @@
+{
+  "id": "sacramento",
+  "family": "Sacramento",
+  "variants": [
+    {
+      "id": "regular",
+      "svg": "https://fonts.gstatic.com/l/font?kit=buEzpo6gcdjy0EiZMBUG4C0f-g&skey=81ec871a4d9062d2&v=v7#Sacramento",
+      "fontFamily": "'Sacramento'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Sacramento",
+        "Sacramento-Regular"
+      ],
+      "woff": "https://fonts.gstatic.com/s/sacramento/v7/buEzpo6gcdjy0EiZMBUG4C0f-w.woff",
+      "woff2": "https://fonts.gstatic.com/s/sacramento/v7/buEzpo6gcdjy0EiZMBUG4C0f_Q.woff2",
+      "ttf": "https://fonts.gstatic.com/s/sacramento/v7/buEzpo6gcdjy0EiZMBUG4C0f-A.ttf",
+      "eot": "https://fonts.gstatic.com/s/sacramento/v7/buEzpo6gcdjy0EiZMBUG4C0f-Q.eot",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "handwriting",
+  "version": "v7",
+  "lastModified": "2019-07-16",
+  "popularity": 148,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

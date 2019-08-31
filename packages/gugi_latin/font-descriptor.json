@@ -1,0 +1,37 @@
+{
+  "id": "gugi",
+  "family": "Gugi",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/gugi/v8/A2BVn5dXywshZAmK8w.woff",
+      "fontFamily": "'Gugi'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Gugi Regular",
+        "Gugi-Regular"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/gugi/v8/A2BVn5dXywshZAmK8A.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=A2BVn5dXywshZAmK8g&skey=207df05a0760ad00&v=v8#Gugi",
+      "eot": "https://fonts.gstatic.com/s/gugi/v8/A2BVn5dXywshZAmK8Q.eot",
+      "woff2": "https://fonts.gstatic.com/s/gugi/v8/A2BVn5dXywshZAmK9Q.woff2",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "korean",
+    "latin"
+  ],
+  "category": "display",
+  "version": "v8",
+  "lastModified": "2019-07-16",
+  "popularity": 662,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "korean": false,
+    "latin": true
+  },
+  "storeID": "latin"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "vampiro-one",
+  "family": "Vampiro One",
+  "variants": [
+    {
+      "id": "regular",
+      "ttf": "https://fonts.gstatic.com/s/vampiroone/v10/gokqH6DoDl5yXvJytFsdLnqguPw.ttf",
+      "fontFamily": "'Vampiro One'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Vampiro One",
+        "VampiroOne-Regular"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=gokqH6DoDl5yXvJytFsdLnqguP4&skey=90d3bdbbbf47723f&v=v10#VampiroOne",
+      "woff2": "https://fonts.gstatic.com/s/vampiroone/v10/gokqH6DoDl5yXvJytFsdLnqguPk.woff2",
+      "eot": "https://fonts.gstatic.com/s/vampiroone/v10/gokqH6DoDl5yXvJytFsdLnqguP0.eot",
+      "woff": "https://fonts.gstatic.com/s/vampiroone/v10/gokqH6DoDl5yXvJytFsdLnqguP8.woff",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "display",
+  "version": "v10",
+  "lastModified": "2019-07-16",
+  "popularity": 611,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

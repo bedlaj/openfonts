@@ -1,0 +1,103 @@
+{
+  "id": "khand",
+  "family": "Khand",
+  "variants": [
+    {
+      "id": "300",
+      "eot": "https://fonts.gstatic.com/s/khand/v8/TwMN-IINQlQQ0bL5cGEwbQM.eot",
+      "fontFamily": "'Khand'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "woff2": "https://fonts.gstatic.com/s/khand/v8/TwMN-IINQlQQ0bL5cGEwbQc.woff2",
+      "local": [
+        "Khand Light",
+        "Khand-Light"
+      ],
+      "woff": "https://fonts.gstatic.com/s/khand/v8/TwMN-IINQlQQ0bL5cGEwbQE.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=TwMN-IINQlQQ0bL5cGEwbQA&skey=72fb1c68c23ea06b&v=v8#Khand",
+      "ttf": "https://fonts.gstatic.com/s/khand/v8/TwMN-IINQlQQ0bL5cGEwbQI.ttf",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/khand/v8/TwMA-IINQlQQ0bpSUnA.eot",
+      "fontFamily": "'Khand'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/khand/v8/TwMA-IINQlQQ0bpSUnI.woff",
+      "local": [
+        "Khand Regular",
+        "Khand-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/khand/v8/TwMA-IINQlQQ0bpSUnQ.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=TwMA-IINQlQQ0bpSUnM&skey=d40ed1e34341551d&v=v8#Khand",
+      "ttf": "https://fonts.gstatic.com/s/khand/v8/TwMA-IINQlQQ0bpSUnE.ttf",
+      "errored": false
+    },
+    {
+      "id": "500",
+      "eot": "https://fonts.gstatic.com/s/khand/v8/TwMN-IINQlQQ0bKhcWEwbQM.eot",
+      "fontFamily": "'Khand'",
+      "fontStyle": "normal",
+      "fontWeight": "500",
+      "woff": "https://fonts.gstatic.com/s/khand/v8/TwMN-IINQlQQ0bKhcWEwbQE.woff",
+      "local": [
+        "Khand Medium",
+        "Khand-Medium"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/khand/v8/TwMN-IINQlQQ0bKhcWEwbQc.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=TwMN-IINQlQQ0bKhcWEwbQA&skey=c34e898398887a9&v=v8#Khand",
+      "ttf": "https://fonts.gstatic.com/s/khand/v8/TwMN-IINQlQQ0bKhcWEwbQI.ttf",
+      "errored": false
+    },
+    {
+      "id": "600",
+      "eot": "https://fonts.gstatic.com/s/khand/v8/TwMN-IINQlQQ0bKNdmEwbQM.eot",
+      "fontFamily": "'Khand'",
+      "fontStyle": "normal",
+      "fontWeight": "600",
+      "woff": "https://fonts.gstatic.com/s/khand/v8/TwMN-IINQlQQ0bKNdmEwbQE.woff",
+      "local": [
+        "Khand SemiBold",
+        "Khand-SemiBold"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/khand/v8/TwMN-IINQlQQ0bKNdmEwbQI.ttf",
+      "woff2": "https://fonts.gstatic.com/s/khand/v8/TwMN-IINQlQQ0bKNdmEwbQc.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=TwMN-IINQlQQ0bKNdmEwbQA&skey=ff7c71d785460685&v=v8#Khand",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff": "https://fonts.gstatic.com/s/khand/v8/TwMN-IINQlQQ0bLpd2EwbQE.woff",
+      "fontFamily": "'Khand'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Khand Bold",
+        "Khand-Bold"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=TwMN-IINQlQQ0bLpd2EwbQA&skey=e8521d244a3a634b&v=v8#Khand",
+      "eot": "https://fonts.gstatic.com/s/khand/v8/TwMN-IINQlQQ0bLpd2EwbQM.eot",
+      "woff2": "https://fonts.gstatic.com/s/khand/v8/TwMN-IINQlQQ0bLpd2EwbQc.woff2",
+      "ttf": "https://fonts.gstatic.com/s/khand/v8/TwMN-IINQlQQ0bLpd2EwbQI.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "devanagari",
+    "latin-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v8",
+  "lastModified": "2019-07-16",
+  "popularity": 173,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "devanagari": false,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

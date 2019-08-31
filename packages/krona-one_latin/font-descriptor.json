@@ -1,0 +1,37 @@
+{
+  "id": "krona-one",
+  "family": "Krona One",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/kronaone/v8/jAnEgHdjHcjgfIb1ZcUyNoWg.woff2",
+      "fontFamily": "'Krona One'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Krona One",
+        "KronaOne-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/kronaone/v8/jAnEgHdjHcjgfIb1ZcUyNoWk.eot",
+      "ttf": "https://fonts.gstatic.com/s/kronaone/v8/jAnEgHdjHcjgfIb1ZcUyNoWl.ttf",
+      "woff": "https://fonts.gstatic.com/s/kronaone/v8/jAnEgHdjHcjgfIb1ZcUyNoWm.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=jAnEgHdjHcjgfIb1ZcUyNoWn&skey=f76bf6a024f8fca&v=v8#KronaOne",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v8",
+  "lastModified": "2019-07-16",
+  "popularity": 602,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

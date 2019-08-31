@@ -1,0 +1,39 @@
+{
+  "id": "rhodium-libre",
+  "family": "Rhodium Libre",
+  "variants": [
+    {
+      "id": "regular",
+      "svg": "https://fonts.gstatic.com/l/font?kit=1q2AY5adA0tn_ukeHcQHqpx6lEPBfA&skey=3f45cebb6e7f6ae4&v=v4#RhodiumLibre",
+      "fontFamily": "'Rhodium Libre'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Rhodium Libre",
+        "RhodiumLibre-Regular"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/rhodiumlibre/v4/1q2AY5adA0tn_ukeHcQHqpx6lEPBfg.ttf",
+      "eot": "https://fonts.gstatic.com/s/rhodiumlibre/v4/1q2AY5adA0tn_ukeHcQHqpx6lEPBfw.eot",
+      "woff": "https://fonts.gstatic.com/s/rhodiumlibre/v4/1q2AY5adA0tn_ukeHcQHqpx6lEPBfQ.woff",
+      "woff2": "https://fonts.gstatic.com/s/rhodiumlibre/v4/1q2AY5adA0tn_ukeHcQHqpx6lEPBew.woff2",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "devanagari",
+    "latin-ext"
+  ],
+  "category": "serif",
+  "version": "v4",
+  "lastModified": "2019-07-16",
+  "popularity": 813,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "devanagari": false,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

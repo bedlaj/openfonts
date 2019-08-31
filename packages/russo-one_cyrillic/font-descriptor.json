@@ -1,0 +1,39 @@
+{
+  "id": "russo-one",
+  "family": "Russo One",
+  "variants": [
+    {
+      "id": "regular",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Z9XUDmZRWg6M1LvRYsHOy8mO&skey=5cda4fb5bcbd2a2c&v=v8#RussoOne",
+      "fontFamily": "'Russo One'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Russo One",
+        "RussoOne-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/russoone/v8/Z9XUDmZRWg6M1LvRYsHOy8mJ.woff2",
+      "eot": "https://fonts.gstatic.com/s/russoone/v8/Z9XUDmZRWg6M1LvRYsHOy8mN.eot",
+      "ttf": "https://fonts.gstatic.com/s/russoone/v8/Z9XUDmZRWg6M1LvRYsHOy8mM.ttf",
+      "woff": "https://fonts.gstatic.com/s/russoone/v8/Z9XUDmZRWg6M1LvRYsHOy8mP.woff",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "cyrillic"
+  ],
+  "category": "sans-serif",
+  "version": "v8",
+  "lastModified": "2019-07-17",
+  "popularity": 143,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false,
+    "cyrillic": true
+  },
+  "storeID": "cyrillic_latin"
+}

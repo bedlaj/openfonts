@@ -1,0 +1,37 @@
+{
+  "id": "romanesco",
+  "family": "Romanesco",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/romanesco/v8/w8gYH2ozQOY7_r_J7mSX1XYK.woff2",
+      "fontFamily": "'Romanesco'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Romanesco",
+        "Romanesco-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/romanesco/v8/w8gYH2ozQOY7_r_J7mSX1XYO.eot",
+      "ttf": "https://fonts.gstatic.com/s/romanesco/v8/w8gYH2ozQOY7_r_J7mSX1XYP.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=w8gYH2ozQOY7_r_J7mSX1XYN&skey=dce06ed1e7f19359&v=v8#Romanesco",
+      "woff": "https://fonts.gstatic.com/s/romanesco/v8/w8gYH2ozQOY7_r_J7mSX1XYM.woff",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "handwriting",
+  "version": "v8",
+  "lastModified": "2019-07-16",
+  "popularity": 864,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin"
+}

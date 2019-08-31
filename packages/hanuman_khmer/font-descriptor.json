@@ -1,0 +1,51 @@
+{
+  "id": "hanuman",
+  "family": "Hanuman",
+  "variants": [
+    {
+      "id": "regular",
+      "svg": "https://fonts.gstatic.com/l/font?kit=VuJxdNvD15HhpJJBSKrdPg&skey=2fa0dfada2f365&v=v13#Hanuman",
+      "fontFamily": "'Hanuman'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Hanuman Regular",
+        "Hanuman-Regular"
+      ],
+      "woff": "https://fonts.gstatic.com/s/hanuman/v13/VuJxdNvD15HhpJJBSKrdPw.woff",
+      "woff2": "https://fonts.gstatic.com/s/hanuman/v13/VuJxdNvD15HhpJJBSKrdOQ.woff2",
+      "ttf": "https://fonts.gstatic.com/s/hanuman/v13/VuJxdNvD15HhpJJBSKrdPA.ttf",
+      "eot": "https://fonts.gstatic.com/s/hanuman/v13/VuJxdNvD15HhpJJBSKrdPQ.eot",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "ttf": "https://fonts.gstatic.com/s/hanuman/v13/VuJ0dNvD15HhpJJBQBr4LIVGYQ.ttf",
+      "fontFamily": "'Hanuman'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Hanuman Bold",
+        "Hanuman-Bold"
+      ],
+      "eot": "https://fonts.gstatic.com/s/hanuman/v13/VuJ0dNvD15HhpJJBQBr4LIVGYA.eot",
+      "woff": "https://fonts.gstatic.com/s/hanuman/v13/VuJ0dNvD15HhpJJBQBr4LIVGYg.woff",
+      "woff2": "https://fonts.gstatic.com/s/hanuman/v13/VuJ0dNvD15HhpJJBQBr4LIVGZA.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=VuJ0dNvD15HhpJJBQBr4LIVGYw&skey=afb56254639a08e4&v=v13#Hanuman",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "khmer"
+  ],
+  "category": "serif",
+  "version": "v13",
+  "lastModified": "2019-07-16",
+  "popularity": 278,
+  "defSubset": "khmer",
+  "defVariant": "regular",
+  "subsetMap": {
+    "khmer": true
+  },
+  "storeID": "khmer"
+}

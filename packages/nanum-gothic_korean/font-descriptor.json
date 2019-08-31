@@ -1,0 +1,68 @@
+{
+  "id": "nanum-gothic",
+  "family": "Nanum Gothic",
+  "variants": [
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/nanumgothic/v17/PN_3Rfi-oW3hYwmKDpxS7F_D89ja.eot",
+      "fontFamily": "'Nanum Gothic'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/nanumgothic/v17/PN_3Rfi-oW3hYwmKDpxS7F_D89jY.woff",
+      "local": [
+        "NanumGothic"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=PN_3Rfi-oW3hYwmKDpxS7F_D89jZ&skey=e63963c7c3a19959&v=v17#NanumGothic",
+      "woff2": "https://fonts.gstatic.com/s/nanumgothic/v17/PN_3Rfi-oW3hYwmKDpxS7F_D89je.woff2",
+      "ttf": "https://fonts.gstatic.com/s/nanumgothic/v17/PN_3Rfi-oW3hYwmKDpxS7F_D89jb.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/nanumgothic/v17/PN_oRfi-oW3hYwmKDpxS7F_LQv3Lw1si.eot",
+      "fontFamily": "'Nanum Gothic'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/nanumgothic/v17/PN_oRfi-oW3hYwmKDpxS7F_LQv3Lw1sg.woff",
+      "local": [
+        "NanumGothic Bold",
+        "NanumGothic-Bold"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=PN_oRfi-oW3hYwmKDpxS7F_LQv3Lw1sh&skey=7e29fcddae682887&v=v17#NanumGothic",
+      "woff2": "https://fonts.gstatic.com/s/nanumgothic/v17/PN_oRfi-oW3hYwmKDpxS7F_LQv3Lw1sm.woff2",
+      "ttf": "https://fonts.gstatic.com/s/nanumgothic/v17/PN_oRfi-oW3hYwmKDpxS7F_LQv3Lw1sj.ttf",
+      "errored": false
+    },
+    {
+      "id": "800",
+      "woff": "https://fonts.gstatic.com/s/nanumgothic/v17/PN_oRfi-oW3hYwmKDpxS7F_LXv7Lw1sg.woff",
+      "fontFamily": "'Nanum Gothic'",
+      "fontStyle": "normal",
+      "fontWeight": "800",
+      "local": [
+        "NanumGothic ExtraBold",
+        "NanumGothic-ExtraBold"
+      ],
+      "eot": "https://fonts.gstatic.com/s/nanumgothic/v17/PN_oRfi-oW3hYwmKDpxS7F_LXv7Lw1si.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=PN_oRfi-oW3hYwmKDpxS7F_LXv7Lw1sh&skey=6d4b7c5ee89d1886&v=v17#NanumGothic",
+      "woff2": "https://fonts.gstatic.com/s/nanumgothic/v17/PN_oRfi-oW3hYwmKDpxS7F_LXv7Lw1sm.woff2",
+      "ttf": "https://fonts.gstatic.com/s/nanumgothic/v17/PN_oRfi-oW3hYwmKDpxS7F_LXv7Lw1sj.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "korean",
+    "latin"
+  ],
+  "category": "sans-serif",
+  "version": "v17",
+  "lastModified": "2019-07-22",
+  "popularity": 27,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "korean": true,
+    "latin": true
+  },
+  "storeID": "latin_korean"
+}

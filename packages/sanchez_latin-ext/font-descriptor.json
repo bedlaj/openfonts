@@ -1,0 +1,53 @@
+{
+  "id": "sanchez",
+  "family": "Sanchez",
+  "variants": [
+    {
+      "id": "regular",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Ycm2sZJORluHnXbIfmdR-g&skey=64b13ed5b348e87e&v=v7#Sanchez",
+      "fontFamily": "'Sanchez'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Sanchez",
+        "Sanchez-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/sanchez/v7/Ycm2sZJORluHnXbIfmdR_Q.woff2",
+      "eot": "https://fonts.gstatic.com/s/sanchez/v7/Ycm2sZJORluHnXbIfmdR-Q.eot",
+      "ttf": "https://fonts.gstatic.com/s/sanchez/v7/Ycm2sZJORluHnXbIfmdR-A.ttf",
+      "woff": "https://fonts.gstatic.com/s/sanchez/v7/Ycm2sZJORluHnXbIfmdR-w.woff",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "woff": "https://fonts.gstatic.com/s/sanchez/v7/Ycm0sZJORluHnXbIfmxh8TQG.woff",
+      "fontFamily": "'Sanchez'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "local": [
+        "Sanchez Italic",
+        "Sanchez-Italic"
+      ],
+      "eot": "https://fonts.gstatic.com/s/sanchez/v7/Ycm0sZJORluHnXbIfmxh8TQE.eot",
+      "woff2": "https://fonts.gstatic.com/s/sanchez/v7/Ycm0sZJORluHnXbIfmxh8TQA.woff2",
+      "ttf": "https://fonts.gstatic.com/s/sanchez/v7/Ycm0sZJORluHnXbIfmxh8TQF.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Ycm0sZJORluHnXbIfmxh8TQH&skey=e057493cb287083c&v=v7#Sanchez",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "serif",
+  "version": "v7",
+  "lastModified": "2019-07-16",
+  "popularity": 159,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin"
+}

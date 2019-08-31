@@ -1,0 +1,53 @@
+{
+  "id": "domine",
+  "family": "Domine",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/domine/v7/L0x8DFMnlVwD4h3hu_qn.woff2",
+      "fontFamily": "'Domine'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Domine",
+        "Domine-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/domine/v7/L0x8DFMnlVwD4h3hu_qj.eot",
+      "ttf": "https://fonts.gstatic.com/s/domine/v7/L0x8DFMnlVwD4h3hu_qi.ttf",
+      "woff": "https://fonts.gstatic.com/s/domine/v7/L0x8DFMnlVwD4h3hu_qh.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=L0x8DFMnlVwD4h3hu_qg&skey=ea73fc1e1d1dfd9a&v=v7#Domine",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "svg": "https://fonts.gstatic.com/l/font?kit=L0x_DFMnlVwD4h3pAN-ySghO&skey=cfd1743a5d8839c4&v=v7#Domine",
+      "fontFamily": "'Domine'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Domine Bold",
+        "Domine-Bold"
+      ],
+      "woff": "https://fonts.gstatic.com/s/domine/v7/L0x_DFMnlVwD4h3pAN-ySghP.woff",
+      "ttf": "https://fonts.gstatic.com/s/domine/v7/L0x_DFMnlVwD4h3pAN-ySghM.ttf",
+      "eot": "https://fonts.gstatic.com/s/domine/v7/L0x_DFMnlVwD4h3pAN-ySghN.eot",
+      "woff2": "https://fonts.gstatic.com/s/domine/v7/L0x_DFMnlVwD4h3pAN-ySghJ.woff2",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "serif",
+  "version": "v7",
+  "lastModified": "2019-07-17",
+  "popularity": 89,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

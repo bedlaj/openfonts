@@ -1,0 +1,41 @@
+{
+  "id": "chonburi",
+  "family": "Chonburi",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/chonburi/v4/8AtqGs-wOpGRTBq66IWf.woff2",
+      "fontFamily": "'Chonburi'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Chonburi",
+        "Chonburi-Regular"
+      ],
+      "woff": "https://fonts.gstatic.com/s/chonburi/v4/8AtqGs-wOpGRTBq66IWZ.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=8AtqGs-wOpGRTBq66IWY&skey=c7df2cb94921e7b4&v=v4#Chonburi",
+      "eot": "https://fonts.gstatic.com/s/chonburi/v4/8AtqGs-wOpGRTBq66IWb.eot",
+      "ttf": "https://fonts.gstatic.com/s/chonburi/v4/8AtqGs-wOpGRTBq66IWa.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "vietnamese",
+    "latin",
+    "latin-ext",
+    "thai"
+  ],
+  "category": "display",
+  "version": "v4",
+  "lastModified": "2019-07-16",
+  "popularity": 504,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "vietnamese": true,
+    "latin": true,
+    "latin-ext": true,
+    "thai": true
+  },
+  "storeID": "thai_latin-ext_latin_vietnamese"
+}

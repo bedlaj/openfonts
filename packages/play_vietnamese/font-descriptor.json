@@ -1,0 +1,61 @@
+{
+  "id": "play",
+  "family": "Play",
+  "variants": [
+    {
+      "id": "regular",
+      "ttf": "https://fonts.gstatic.com/s/play/v11/6aez4K2oVqwIvto2Gg.ttf",
+      "fontFamily": "'Play'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Play Regular",
+        "Play-Regular"
+      ],
+      "woff": "https://fonts.gstatic.com/s/play/v11/6aez4K2oVqwIvto2GQ.woff",
+      "eot": "https://fonts.gstatic.com/s/play/v11/6aez4K2oVqwIvto2Gw.eot",
+      "woff2": "https://fonts.gstatic.com/s/play/v11/6aez4K2oVqwIvto2Hw.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=6aez4K2oVqwIvto2GA&skey=b09c7c1d7347911b&v=v11#Play",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff": "https://fonts.gstatic.com/s/play/v11/6ae84K2oVqwItm4TCp8y3A.woff",
+      "fontFamily": "'Play'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Play Bold",
+        "Play-Bold"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=6ae84K2oVqwItm4TCp8y3Q&skey=545b346b46c13d48&v=v11#Play",
+      "woff2": "https://fonts.gstatic.com/s/play/v11/6ae84K2oVqwItm4TCp8y2g.woff2",
+      "eot": "https://fonts.gstatic.com/s/play/v11/6ae84K2oVqwItm4TCp8y3g.eot",
+      "ttf": "https://fonts.gstatic.com/s/play/v11/6ae84K2oVqwItm4TCp8y3w.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "vietnamese",
+    "greek",
+    "latin",
+    "latin-ext",
+    "cyrillic",
+    "cyrillic-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v11",
+  "lastModified": "2019-07-17",
+  "popularity": 93,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "vietnamese": true,
+    "greek": false,
+    "latin": true,
+    "latin-ext": false,
+    "cyrillic": false,
+    "cyrillic-ext": false
+  },
+  "storeID": "latin_vietnamese"
+}

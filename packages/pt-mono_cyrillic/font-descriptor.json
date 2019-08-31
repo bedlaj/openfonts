@@ -1,0 +1,41 @@
+{
+  "id": "pt-mono",
+  "family": "PT Mono",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/ptmono/v7/9oRONYoBnWILk-9AnCszNQ.woff",
+      "fontFamily": "'PT Mono'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "PT Mono",
+        "PTMono-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/ptmono/v7/9oRONYoBnWILk-9AnCszNw.eot",
+      "woff2": "https://fonts.gstatic.com/s/ptmono/v7/9oRONYoBnWILk-9AnCszMw.woff2",
+      "ttf": "https://fonts.gstatic.com/s/ptmono/v7/9oRONYoBnWILk-9AnCszNg.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=9oRONYoBnWILk-9AnCszNA&skey=a4defc8e382ed677&v=v7#PTMono",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "cyrillic",
+    "cyrillic-ext"
+  ],
+  "category": "monospace",
+  "version": "v7",
+  "lastModified": "2019-07-16",
+  "popularity": 223,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false,
+    "cyrillic": true,
+    "cyrillic-ext": false
+  },
+  "storeID": "cyrillic_latin"
+}

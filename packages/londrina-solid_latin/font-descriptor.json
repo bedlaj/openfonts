@@ -1,0 +1,83 @@
+{
+  "id": "londrina-solid",
+  "family": "Londrina Solid",
+  "variants": [
+    {
+      "id": "100",
+      "woff": "https://fonts.gstatic.com/s/londrinasolid/v9/flUjRq6sw40kQEJxWNgkLuudGfs9GBEUtg.woff",
+      "fontFamily": "'Londrina Solid'",
+      "fontStyle": "normal",
+      "fontWeight": "100",
+      "local": [
+        "Londrina Solid Thin",
+        "LondrinaSolid-Thin"
+      ],
+      "eot": "https://fonts.gstatic.com/s/londrinasolid/v9/flUjRq6sw40kQEJxWNgkLuudGfs9GBEUtA.eot",
+      "woff2": "https://fonts.gstatic.com/s/londrinasolid/v9/flUjRq6sw40kQEJxWNgkLuudGfs9GBEUsA.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=flUjRq6sw40kQEJxWNgkLuudGfs9GBEUtw&skey=91d88a75af341b60&v=v9#LondrinaSolid",
+      "ttf": "https://fonts.gstatic.com/s/londrinasolid/v9/flUjRq6sw40kQEJxWNgkLuudGfs9GBEUtQ.ttf",
+      "errored": false
+    },
+    {
+      "id": "300",
+      "ttf": "https://fonts.gstatic.com/s/londrinasolid/v9/flUiRq6sw40kQEJxWNgkLuudGfv1CgYzlZk.ttf",
+      "fontFamily": "'Londrina Solid'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "local": [
+        "Londrina Solid Light",
+        "LondrinaSolid-Light"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/londrinasolid/v9/flUiRq6sw40kQEJxWNgkLuudGfv1CgYzlZw.woff2",
+      "eot": "https://fonts.gstatic.com/s/londrinasolid/v9/flUiRq6sw40kQEJxWNgkLuudGfv1CgYzlZg.eot",
+      "woff": "https://fonts.gstatic.com/s/londrinasolid/v9/flUiRq6sw40kQEJxWNgkLuudGfv1CgYzlZo.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=flUiRq6sw40kQEJxWNgkLuudGfv1CgYzlZs&skey=88df0a883ee1eca7&v=v9#LondrinaSolid",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/londrinasolid/v9/flUhRq6sw40kQEJxWNgkLuudGfNeKBU.woff",
+      "fontFamily": "'Londrina Solid'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Londrina Solid Regular",
+        "LondrinaSolid-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/londrinasolid/v9/flUhRq6sw40kQEJxWNgkLuudGfNeKBM.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=flUhRq6sw40kQEJxWNgkLuudGfNeKBQ&skey=326ae8157bfb39d5&v=v9#LondrinaSolid",
+      "eot": "https://fonts.gstatic.com/s/londrinasolid/v9/flUhRq6sw40kQEJxWNgkLuudGfNeKBc.eot",
+      "ttf": "https://fonts.gstatic.com/s/londrinasolid/v9/flUhRq6sw40kQEJxWNgkLuudGfNeKBY.ttf",
+      "errored": false
+    },
+    {
+      "id": "900",
+      "svg": "https://fonts.gstatic.com/l/font?kit=flUiRq6sw40kQEJxWNgkLuudGfvdDwYzlZs&skey=bd32d771db6c96a5&v=v9#LondrinaSolid",
+      "fontFamily": "'Londrina Solid'",
+      "fontStyle": "normal",
+      "fontWeight": "900",
+      "local": [
+        "Londrina Solid Black",
+        "LondrinaSolid-Black"
+      ],
+      "woff": "https://fonts.gstatic.com/s/londrinasolid/v9/flUiRq6sw40kQEJxWNgkLuudGfvdDwYzlZo.woff",
+      "eot": "https://fonts.gstatic.com/s/londrinasolid/v9/flUiRq6sw40kQEJxWNgkLuudGfvdDwYzlZg.eot",
+      "woff2": "https://fonts.gstatic.com/s/londrinasolid/v9/flUiRq6sw40kQEJxWNgkLuudGfvdDwYzlZw.woff2",
+      "ttf": "https://fonts.gstatic.com/s/londrinasolid/v9/flUiRq6sw40kQEJxWNgkLuudGfvdDwYzlZk.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "category": "display",
+  "version": "v9",
+  "lastModified": "2019-07-16",
+  "popularity": 394,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true
+  },
+  "storeID": "latin"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "manjari",
+  "family": "Manjari",
+  "variants": [
+    {
+      "id": "100",
+      "woff": "https://fonts.gstatic.com/s/manjari/v2/k3kSo8UPMOBO2w1UdbrYNGHC.woff",
+      "fontFamily": "'Manjari'",
+      "fontStyle": "normal",
+      "fontWeight": "100",
+      "local": [
+        "Manjari Thin",
+        "Manjari-Thin"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/manjari/v2/k3kSo8UPMOBO2w1UdbrYNGHE.woff2",
+      "eot": "https://fonts.gstatic.com/s/manjari/v2/k3kSo8UPMOBO2w1UdbrYNGHA.eot",
+      "ttf": "https://fonts.gstatic.com/s/manjari/v2/k3kSo8UPMOBO2w1UdbrYNGHB.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=k3kSo8UPMOBO2w1UdbrYNGHD&skey=b189116bf2b64cc7&v=v2#Manjari",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/manjari/v2/k3kQo8UPMOBO2w1UfcHoLg.woff2",
+      "fontFamily": "'Manjari'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Manjari Regular",
+        "Manjari-Regular"
+      ],
+      "woff": "https://fonts.gstatic.com/s/manjari/v2/k3kQo8UPMOBO2w1UfcHoKA.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=k3kQo8UPMOBO2w1UfcHoKQ&skey=46aa6c1774caed83&v=v2#Manjari",
+      "ttf": "https://fonts.gstatic.com/s/manjari/v2/k3kQo8UPMOBO2w1UfcHoKw.ttf",
+      "eot": "https://fonts.gstatic.com/s/manjari/v2/k3kQo8UPMOBO2w1UfcHoKg.eot",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff": "https://fonts.gstatic.com/s/manjari/v2/k3kVo8UPMOBO2w1UdWLNO17hKg.woff",
+      "fontFamily": "'Manjari'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Manjari Bold",
+        "Manjari-Bold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/manjari/v2/k3kVo8UPMOBO2w1UdWLNO17hLA.woff2",
+      "eot": "https://fonts.gstatic.com/s/manjari/v2/k3kVo8UPMOBO2w1UdWLNO17hKA.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=k3kVo8UPMOBO2w1UdWLNO17hKw&skey=f71b24a7ab4e0c25&v=v2#Manjari",
+      "ttf": "https://fonts.gstatic.com/s/manjari/v2/k3kVo8UPMOBO2w1UdWLNO17hKQ.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "malayalam"
+  ],
+  "category": "sans-serif",
+  "version": "v2",
+  "lastModified": "2019-08-22",
+  "popularity": 920,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "malayalam": true
+  },
+  "storeID": "malayalam_latin"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "ranga",
+  "family": "Ranga",
+  "variants": [
+    {
+      "id": "regular",
+      "ttf": "https://fonts.gstatic.com/s/ranga/v5/C8ct4cYisGb28q6EJjg.ttf",
+      "fontFamily": "'Ranga'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Ranga Regular",
+        "Ranga-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/ranga/v5/C8ct4cYisGb28q6EJj0.woff2",
+      "woff": "https://fonts.gstatic.com/s/ranga/v5/C8ct4cYisGb28q6EJjs.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=C8ct4cYisGb28q6EJjo&skey=ca2e4a542575f9f9&v=v5#Ranga",
+      "eot": "https://fonts.gstatic.com/s/ranga/v5/C8ct4cYisGb28q6EJjk.eot",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "svg": "https://fonts.gstatic.com/l/font?kit=C8cg4cYisGb28qY-AygX43s&skey=fd05ca4bf9d6ec31&v=v5#Ranga",
+      "fontFamily": "'Ranga'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Ranga Bold",
+        "Ranga-Bold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/ranga/v5/C8cg4cYisGb28qY-AygX43w.woff2",
+      "ttf": "https://fonts.gstatic.com/s/ranga/v5/C8cg4cYisGb28qY-AygX43k.ttf",
+      "woff": "https://fonts.gstatic.com/s/ranga/v5/C8cg4cYisGb28qY-AygX43o.woff",
+      "eot": "https://fonts.gstatic.com/s/ranga/v5/C8cg4cYisGb28qY-AygX43g.eot",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "devanagari",
+    "latin-ext"
+  ],
+  "category": "display",
+  "version": "v5",
+  "lastModified": "2019-07-16",
+  "popularity": 762,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "devanagari": true,
+    "latin-ext": false
+  },
+  "storeID": "devanagari_latin"
+}

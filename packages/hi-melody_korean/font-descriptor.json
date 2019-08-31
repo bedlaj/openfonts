@@ -1,0 +1,37 @@
+{
+  "id": "hi-melody",
+  "family": "Hi Melody",
+  "variants": [
+    {
+      "id": "regular",
+      "ttf": "https://fonts.gstatic.com/s/himelody/v8/46ktlbP8Vnz0pJcqCTb0cmVA.ttf",
+      "fontFamily": "'Hi Melody'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Hi Melody Regular",
+        "HiMelody-Regular"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=46ktlbP8Vnz0pJcqCTb0cmVC&skey=6a76567185dc5b13&v=v8#HiMelody",
+      "eot": "https://fonts.gstatic.com/s/himelody/v8/46ktlbP8Vnz0pJcqCTb0cmVB.eot",
+      "woff": "https://fonts.gstatic.com/s/himelody/v8/46ktlbP8Vnz0pJcqCTb0cmVD.woff",
+      "woff2": "https://fonts.gstatic.com/s/himelody/v8/46ktlbP8Vnz0pJcqCTb0cmVF.woff2",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "korean",
+    "latin"
+  ],
+  "category": "handwriting",
+  "version": "v8",
+  "lastModified": "2019-07-16",
+  "popularity": 930,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "korean": true,
+    "latin": true
+  },
+  "storeID": "latin_korean"
+}

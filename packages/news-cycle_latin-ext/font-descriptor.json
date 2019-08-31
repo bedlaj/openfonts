@@ -1,0 +1,53 @@
+{
+  "id": "news-cycle",
+  "family": "News Cycle",
+  "variants": [
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/newscycle/v16/CSR64z1Qlv-GDxkbKVQ_fO4KSQ.eot",
+      "fontFamily": "'News Cycle'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/newscycle/v16/CSR64z1Qlv-GDxkbKVQ_fO4KTQ.woff2",
+      "local": [
+        "News Cycle",
+        "NewsCycle"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=CSR64z1Qlv-GDxkbKVQ_fO4KSg&skey=315d90a3c97443a7&v=v16#NewsCycle",
+      "woff": "https://fonts.gstatic.com/s/newscycle/v16/CSR64z1Qlv-GDxkbKVQ_fO4KSw.woff",
+      "ttf": "https://fonts.gstatic.com/s/newscycle/v16/CSR64z1Qlv-GDxkbKVQ_fO4KSA.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff2": "https://fonts.gstatic.com/s/newscycle/v16/CSR54z1Qlv-GDxkbKVQ_dFsvWNpeuQ.woff2",
+      "fontFamily": "'News Cycle'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "News Cycle Bold",
+        "NewsCycle-Bold"
+      ],
+      "woff": "https://fonts.gstatic.com/s/newscycle/v16/CSR54z1Qlv-GDxkbKVQ_dFsvWNpevw.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=CSR54z1Qlv-GDxkbKVQ_dFsvWNpevg&skey=303b508802781511&v=v16#NewsCycle",
+      "ttf": "https://fonts.gstatic.com/s/newscycle/v16/CSR54z1Qlv-GDxkbKVQ_dFsvWNpevA.ttf",
+      "eot": "https://fonts.gstatic.com/s/newscycle/v16/CSR54z1Qlv-GDxkbKVQ_dFsvWNpevQ.eot",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v16",
+  "lastModified": "2019-07-17",
+  "popularity": 96,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin"
+}

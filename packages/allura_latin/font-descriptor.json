@@ -1,0 +1,37 @@
+{
+  "id": "allura",
+  "family": "Allura",
+  "variants": [
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/allura/v8/9oRPNYsQpS4zjuA_iwgS.eot",
+      "fontFamily": "'Allura'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/allura/v8/9oRPNYsQpS4zjuA_iwgW.woff2",
+      "local": [
+        "Allura Regular",
+        "Allura-Regular"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=9oRPNYsQpS4zjuA_iwgR&skey=79209908b474aec&v=v8#Allura",
+      "woff": "https://fonts.gstatic.com/s/allura/v8/9oRPNYsQpS4zjuA_iwgQ.woff",
+      "ttf": "https://fonts.gstatic.com/s/allura/v8/9oRPNYsQpS4zjuA_iwgT.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "handwriting",
+  "version": "v8",
+  "lastModified": "2019-07-16",
+  "popularity": 244,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

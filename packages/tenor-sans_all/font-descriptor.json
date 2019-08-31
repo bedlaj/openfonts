@@ -1,0 +1,39 @@
+{
+  "id": "tenor-sans",
+  "family": "Tenor Sans",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/tenorsans/v11/bx6ANxqUneKx06UkIXISr3E.woff",
+      "fontFamily": "'Tenor Sans'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Tenor Sans",
+        "TenorSans"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/tenorsans/v11/bx6ANxqUneKx06UkIXISr3I.ttf",
+      "woff2": "https://fonts.gstatic.com/s/tenorsans/v11/bx6ANxqUneKx06UkIXISr3c.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=bx6ANxqUneKx06UkIXISr3A&skey=9e159c41209dbf49&v=v11#TenorSans",
+      "eot": "https://fonts.gstatic.com/s/tenorsans/v11/bx6ANxqUneKx06UkIXISr3M.eot",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "cyrillic"
+  ],
+  "category": "sans-serif",
+  "version": "v11",
+  "lastModified": "2019-07-16",
+  "popularity": 296,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": true,
+    "cyrillic": true
+  },
+  "storeID": "cyrillic_latin-ext_latin"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "belleza",
+  "family": "Belleza",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/belleza/v8/0nkoC9_pNeMfhX4BhcH4bA.woff",
+      "fontFamily": "'Belleza'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Belleza Regular",
+        "Belleza-Regular"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=0nkoC9_pNeMfhX4BhcH4bQ&skey=5d3d5d4aa7c98655&v=v8#Belleza",
+      "ttf": "https://fonts.gstatic.com/s/belleza/v8/0nkoC9_pNeMfhX4BhcH4bw.ttf",
+      "woff2": "https://fonts.gstatic.com/s/belleza/v8/0nkoC9_pNeMfhX4BhcH4ag.woff2",
+      "eot": "https://fonts.gstatic.com/s/belleza/v8/0nkoC9_pNeMfhX4BhcH4bg.eot",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v8",
+  "lastModified": "2019-07-16",
+  "popularity": 302,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

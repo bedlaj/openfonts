@@ -1,0 +1,37 @@
+{
+  "id": "eagle-lake",
+  "family": "Eagle Lake",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/eaglelake/v7/ptRMTiqbbuNJDOiKj9wG1On4Lg.woff",
+      "fontFamily": "'Eagle Lake'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Eagle Lake",
+        "EagleLake-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/eaglelake/v7/ptRMTiqbbuNJDOiKj9wG1On4LA.eot",
+      "woff2": "https://fonts.gstatic.com/s/eaglelake/v7/ptRMTiqbbuNJDOiKj9wG1On4KA.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=ptRMTiqbbuNJDOiKj9wG1On4Lw&skey=63718d6a75d9c744&v=v7#EagleLake",
+      "ttf": "https://fonts.gstatic.com/s/eaglelake/v7/ptRMTiqbbuNJDOiKj9wG1On4LQ.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "handwriting",
+  "version": "v7",
+  "lastModified": "2019-07-16",
+  "popularity": 765,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

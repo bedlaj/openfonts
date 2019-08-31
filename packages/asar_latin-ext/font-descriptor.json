@@ -1,0 +1,39 @@
+{
+  "id": "asar",
+  "family": "Asar",
+  "variants": [
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/asar/v7/sZlLdRyI6TBIbk8aCQ.eot",
+      "fontFamily": "'Asar'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/asar/v7/sZlLdRyI6TBIbk8aCw.woff",
+      "local": [
+        "Asar Regular",
+        "Asar-Regular"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/asar/v7/sZlLdRyI6TBIbk8aCA.ttf",
+      "woff2": "https://fonts.gstatic.com/s/asar/v7/sZlLdRyI6TBIbk8aDQ.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=sZlLdRyI6TBIbk8aCg&skey=a29dbc6a54d5d953&v=v7#Asar",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "devanagari",
+    "latin-ext"
+  ],
+  "category": "serif",
+  "version": "v7",
+  "lastModified": "2019-07-16",
+  "popularity": 798,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "devanagari": false,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin"
+}

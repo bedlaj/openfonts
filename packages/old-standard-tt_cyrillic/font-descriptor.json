@@ -1,0 +1,75 @@
+{
+  "id": "old-standard-tt",
+  "family": "Old Standard TT",
+  "variants": [
+    {
+      "id": "regular",
+      "svg": "https://fonts.gstatic.com/l/font?kit=MwQubh3o1vLImiwAVvYawgcf2eVerlq_&skey=f1cef4e9ada09fef&v=v12#OldStandardTT",
+      "fontFamily": "'Old Standard TT'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Old Standard TT Regular",
+        "OldStandardTT-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/oldstandardtt/v12/MwQubh3o1vLImiwAVvYawgcf2eVerlq8.eot",
+      "woff2": "https://fonts.gstatic.com/s/oldstandardtt/v12/MwQubh3o1vLImiwAVvYawgcf2eVerlq4.woff2",
+      "woff": "https://fonts.gstatic.com/s/oldstandardtt/v12/MwQubh3o1vLImiwAVvYawgcf2eVerlq-.woff",
+      "ttf": "https://fonts.gstatic.com/s/oldstandardtt/v12/MwQubh3o1vLImiwAVvYawgcf2eVerlq9.ttf",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "eot": "https://fonts.gstatic.com/s/oldstandardtt/v12/MwQsbh3o1vLImiwAVvYawgcf2eVer2q-bHc.eot",
+      "fontFamily": "'Old Standard TT'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/oldstandardtt/v12/MwQsbh3o1vLImiwAVvYawgcf2eVer2q-bHU.woff",
+      "local": [
+        "Old Standard TT Italic",
+        "OldStandardTT-Italic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/oldstandardtt/v12/MwQsbh3o1vLImiwAVvYawgcf2eVer2q-bHM.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=MwQsbh3o1vLImiwAVvYawgcf2eVer2q-bHQ&skey=308f26f9fad19839&v=v12#OldStandardTT",
+      "ttf": "https://fonts.gstatic.com/s/oldstandardtt/v12/MwQsbh3o1vLImiwAVvYawgcf2eVer2q-bHY.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff": "https://fonts.gstatic.com/s/oldstandardtt/v12/MwQrbh3o1vLImiwAVvYawgcf2eVWEX-tT1ZZ.woff",
+      "fontFamily": "'Old Standard TT'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Old Standard TT Bold",
+        "OldStandardTT-Bold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/oldstandardtt/v12/MwQrbh3o1vLImiwAVvYawgcf2eVWEX-tT1Zf.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=MwQrbh3o1vLImiwAVvYawgcf2eVWEX-tT1ZY&skey=1bf619948ec3c1a3&v=v12#OldStandardTT",
+      "eot": "https://fonts.gstatic.com/s/oldstandardtt/v12/MwQrbh3o1vLImiwAVvYawgcf2eVWEX-tT1Zb.eot",
+      "ttf": "https://fonts.gstatic.com/s/oldstandardtt/v12/MwQrbh3o1vLImiwAVvYawgcf2eVWEX-tT1Za.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "vietnamese",
+    "latin",
+    "latin-ext",
+    "cyrillic",
+    "cyrillic-ext"
+  ],
+  "category": "serif",
+  "version": "v12",
+  "lastModified": "2019-07-17",
+  "popularity": 126,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "vietnamese": false,
+    "latin": true,
+    "latin-ext": false,
+    "cyrillic": true,
+    "cyrillic-ext": false
+  },
+  "storeID": "cyrillic_latin"
+}

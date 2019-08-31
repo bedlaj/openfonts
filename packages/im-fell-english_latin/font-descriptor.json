@@ -1,0 +1,51 @@
+{
+  "id": "im-fell-english",
+  "family": "IM Fell English",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/imfellenglish/v9/Ktk1ALSLW8zDe0rthJysWrnLsAzHEKOe.woff",
+      "fontFamily": "'IM Fell English'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "IM FELL English Roman",
+        "IM_FELL_English_Roman"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/imfellenglish/v9/Ktk1ALSLW8zDe0rthJysWrnLsAzHEKOY.woff2",
+      "ttf": "https://fonts.gstatic.com/s/imfellenglish/v9/Ktk1ALSLW8zDe0rthJysWrnLsAzHEKOd.ttf",
+      "eot": "https://fonts.gstatic.com/s/imfellenglish/v9/Ktk1ALSLW8zDe0rthJysWrnLsAzHEKOc.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Ktk1ALSLW8zDe0rthJysWrnLsAzHEKOf&skey=afb75104e969187e&v=v9#IMFellEnglish",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "ttf": "https://fonts.gstatic.com/s/imfellenglish/v9/Ktk3ALSLW8zDe0rthJysWrnLsAzHFZOafY4.ttf",
+      "fontFamily": "'IM Fell English'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "local": [
+        "IM FELL English Italic",
+        "IM_FELL_English_Italic"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=Ktk3ALSLW8zDe0rthJysWrnLsAzHFZOafYw&skey=ab4ad6d91b1d279a&v=v9#IMFellEnglish",
+      "eot": "https://fonts.gstatic.com/s/imfellenglish/v9/Ktk3ALSLW8zDe0rthJysWrnLsAzHFZOafY8.eot",
+      "woff2": "https://fonts.gstatic.com/s/imfellenglish/v9/Ktk3ALSLW8zDe0rthJysWrnLsAzHFZOafYs.woff2",
+      "woff": "https://fonts.gstatic.com/s/imfellenglish/v9/Ktk3ALSLW8zDe0rthJysWrnLsAzHFZOafY0.woff",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "category": "serif",
+  "version": "v9",
+  "lastModified": "2019-07-16",
+  "popularity": 488,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true
+  },
+  "storeID": "latin"
+}

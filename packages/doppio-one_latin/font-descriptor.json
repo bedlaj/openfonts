@@ -1,0 +1,37 @@
+{
+  "id": "doppio-one",
+  "family": "Doppio One",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/doppioone/v7/Gg8wN5gSaBfyBw2MqCh-pgwrLw.woff",
+      "fontFamily": "'Doppio One'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Doppio One Regular",
+        "DoppioOne-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/doppioone/v7/Gg8wN5gSaBfyBw2MqCh-pgwrKQ.woff2",
+      "eot": "https://fonts.gstatic.com/s/doppioone/v7/Gg8wN5gSaBfyBw2MqCh-pgwrLQ.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Gg8wN5gSaBfyBw2MqCh-pgwrLg&skey=a75d92ab7a6e70f5&v=v7#DoppioOne",
+      "ttf": "https://fonts.gstatic.com/s/doppioone/v7/Gg8wN5gSaBfyBw2MqCh-pgwrLA.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v7",
+  "lastModified": "2019-07-16",
+  "popularity": 422,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

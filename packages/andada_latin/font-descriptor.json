@@ -1,0 +1,37 @@
+{
+  "id": "andada",
+  "family": "Andada",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/andada/v11/uK_y4riWaego3w9hDRcU.woff",
+      "fontFamily": "'Andada'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Andada Regular",
+        "Andada-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/andada/v11/uK_y4riWaego3w9hDRcW.eot",
+      "woff2": "https://fonts.gstatic.com/s/andada/v11/uK_y4riWaego3w9hDRcS.woff2",
+      "ttf": "https://fonts.gstatic.com/s/andada/v11/uK_y4riWaego3w9hDRcX.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=uK_y4riWaego3w9hDRcV&skey=dda1280d6527a3da&v=v11#Andada",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "serif",
+  "version": "v11",
+  "lastModified": "2019-07-16",
+  "popularity": 446,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

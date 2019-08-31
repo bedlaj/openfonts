@@ -1,0 +1,35 @@
+{
+  "id": "antic",
+  "family": "Antic",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/antic/v11/TuGfUVB8XY5DRZZMq98.woff",
+      "fontFamily": "'Antic'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Antic Regular",
+        "Antic-Regular"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/antic/v11/TuGfUVB8XY5DRZZMq9w.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=TuGfUVB8XY5DRZZMq94&skey=65ef8eb2e4187b6c&v=v11#Antic",
+      "eot": "https://fonts.gstatic.com/s/antic/v11/TuGfUVB8XY5DRZZMq90.eot",
+      "woff2": "https://fonts.gstatic.com/s/antic/v11/TuGfUVB8XY5DRZZMq9k.woff2",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "category": "sans-serif",
+  "version": "v11",
+  "lastModified": "2019-07-16",
+  "popularity": 323,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true
+  },
+  "storeID": "latin"
+}

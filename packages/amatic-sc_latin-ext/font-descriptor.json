@@ -1,0 +1,59 @@
+{
+  "id": "amatic-sc",
+  "family": "Amatic SC",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/amaticsc/v13/TUZyzwprpvBS1izr_vOEBOSZ.woff",
+      "fontFamily": "'Amatic SC'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Amatic SC Regular",
+        "AmaticSC-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/amaticsc/v13/TUZyzwprpvBS1izr_vOEBOSb.eot",
+      "woff2": "https://fonts.gstatic.com/s/amaticsc/v13/TUZyzwprpvBS1izr_vOEBOSf.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=TUZyzwprpvBS1izr_vOEBOSY&skey=fb863bec8adba0c7&v=v13#AmaticSC",
+      "ttf": "https://fonts.gstatic.com/s/amaticsc/v13/TUZyzwprpvBS1izr_vOEBOSa.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/amaticsc/v13/TUZ3zwprpvBS1izr_vOMscGKcLUG.eot",
+      "fontFamily": "'Amatic SC'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff2": "https://fonts.gstatic.com/s/amaticsc/v13/TUZ3zwprpvBS1izr_vOMscGKcLUC.woff2",
+      "local": [
+        "Amatic SC Bold",
+        "AmaticSC-Bold"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=TUZ3zwprpvBS1izr_vOMscGKcLUF&skey=f5c87b6211811ffa&v=v13#AmaticSC",
+      "ttf": "https://fonts.gstatic.com/s/amaticsc/v13/TUZ3zwprpvBS1izr_vOMscGKcLUH.ttf",
+      "woff": "https://fonts.gstatic.com/s/amaticsc/v13/TUZ3zwprpvBS1izr_vOMscGKcLUE.woff",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "hebrew",
+    "vietnamese",
+    "latin",
+    "latin-ext",
+    "cyrillic"
+  ],
+  "category": "handwriting",
+  "version": "v13",
+  "lastModified": "2019-07-17",
+  "popularity": 85,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "hebrew": false,
+    "vietnamese": false,
+    "latin": true,
+    "latin-ext": true,
+    "cyrillic": false
+  },
+  "storeID": "latin-ext_latin"
+}

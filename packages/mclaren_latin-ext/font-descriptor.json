@@ -1,0 +1,37 @@
+{
+  "id": "mclaren",
+  "family": "McLaren",
+  "variants": [
+    {
+      "id": "regular",
+      "ttf": "https://fonts.gstatic.com/s/mclaren/v7/2EbnL-ZuAXFqZFXIeY8V9w.ttf",
+      "fontFamily": "'McLaren'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "McLaren",
+        "McLaren-Regular"
+      ],
+      "woff": "https://fonts.gstatic.com/s/mclaren/v7/2EbnL-ZuAXFqZFXIeY8V9A.woff",
+      "eot": "https://fonts.gstatic.com/s/mclaren/v7/2EbnL-ZuAXFqZFXIeY8V9g.eot",
+      "woff2": "https://fonts.gstatic.com/s/mclaren/v7/2EbnL-ZuAXFqZFXIeY8V8g.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=2EbnL-ZuAXFqZFXIeY8V9Q&skey=7a52c350b8e180c0&v=v7#McLaren",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "display",
+  "version": "v7",
+  "lastModified": "2019-07-16",
+  "popularity": 555,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin"
+}

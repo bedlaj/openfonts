@@ -1,0 +1,37 @@
+{
+  "id": "jockey-one",
+  "family": "Jockey One",
+  "variants": [
+    {
+      "id": "regular",
+      "ttf": "https://fonts.gstatic.com/s/jockeyone/v9/HTxpL2g2KjCFj4x8WI6AnIHxGQ.ttf",
+      "fontFamily": "'Jockey One'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Jockey One",
+        "JockeyOne-Regular"
+      ],
+      "woff": "https://fonts.gstatic.com/s/jockeyone/v9/HTxpL2g2KjCFj4x8WI6AnIHxGg.woff",
+      "eot": "https://fonts.gstatic.com/s/jockeyone/v9/HTxpL2g2KjCFj4x8WI6AnIHxGA.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=HTxpL2g2KjCFj4x8WI6AnIHxGw&skey=c5851443324208ee&v=v9#JockeyOne",
+      "woff2": "https://fonts.gstatic.com/s/jockeyone/v9/HTxpL2g2KjCFj4x8WI6AnIHxHA.woff2",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v9",
+  "lastModified": "2019-07-16",
+  "popularity": 360,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

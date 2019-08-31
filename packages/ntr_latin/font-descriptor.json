@@ -1,0 +1,36 @@
+{
+  "id": "ntr",
+  "family": "NTR",
+  "variants": [
+    {
+      "id": "regular",
+      "svg": "https://fonts.gstatic.com/l/font?kit=RLpzK5Xy0ZjSH2Jq&skey=999f4d6f4b731465&v=v7#NTR",
+      "fontFamily": "'NTR'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "NTR"
+      ],
+      "woff": "https://fonts.gstatic.com/s/ntr/v7/RLpzK5Xy0ZjSH2Jr.woff",
+      "eot": "https://fonts.gstatic.com/s/ntr/v7/RLpzK5Xy0ZjSH2Jp.eot",
+      "woff2": "https://fonts.gstatic.com/s/ntr/v7/RLpzK5Xy0ZjSH2Jt.woff2",
+      "ttf": "https://fonts.gstatic.com/s/ntr/v7/RLpzK5Xy0ZjSH2Jo.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "telugu",
+    "latin"
+  ],
+  "category": "sans-serif",
+  "version": "v7",
+  "lastModified": "2019-07-16",
+  "popularity": 549,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "telugu": false,
+    "latin": true
+  },
+  "storeID": "latin"
+}

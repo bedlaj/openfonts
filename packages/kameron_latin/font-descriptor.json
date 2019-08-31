@@ -1,0 +1,50 @@
+{
+  "id": "kameron",
+  "family": "Kameron",
+  "variants": [
+    {
+      "id": "regular",
+      "ttf": "https://fonts.gstatic.com/s/kameron/v10/vm82dR7vXErQxuzngLk6Kw.ttf",
+      "fontFamily": "'Kameron'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Kameron"
+      ],
+      "woff": "https://fonts.gstatic.com/s/kameron/v10/vm82dR7vXErQxuzngLk6KA.woff",
+      "woff2": "https://fonts.gstatic.com/s/kameron/v10/vm82dR7vXErQxuzngLk6Lg.woff2",
+      "eot": "https://fonts.gstatic.com/s/kameron/v10/vm82dR7vXErQxuzngLk6Kg.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=vm82dR7vXErQxuzngLk6KQ&skey=320070e7b0fe699d&v=v10#Kameron",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/kameron/v10/vm8zdR7vXErQxuzniAIfO-rpeQ.eot",
+      "fontFamily": "'Kameron'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/kameron/v10/vm8zdR7vXErQxuzniAIfO-rpew.woff",
+      "local": [
+        "Kameron Bold",
+        "Kameron-Bold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/kameron/v10/vm8zdR7vXErQxuzniAIfO-rpfQ.woff2",
+      "ttf": "https://fonts.gstatic.com/s/kameron/v10/vm8zdR7vXErQxuzniAIfO-rpeA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=vm8zdR7vXErQxuzniAIfO-rpeg&skey=36c6c85829f8e05c&v=v10#Kameron",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "category": "serif",
+  "version": "v10",
+  "lastModified": "2019-07-16",
+  "popularity": 308,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true
+  },
+  "storeID": "latin"
+}

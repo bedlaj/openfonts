@@ -1,0 +1,38 @@
+{
+  "id": "dekko",
+  "family": "Dekko",
+  "variants": [
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/dekko/v6/46khlb_wWjfSrutDTU4.eot",
+      "fontFamily": "'Dekko'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/dekko/v6/46khlb_wWjfSrutDTUo.woff2",
+      "local": [
+        "Dekko"
+      ],
+      "woff": "https://fonts.gstatic.com/s/dekko/v6/46khlb_wWjfSrutDTUw.woff",
+      "ttf": "https://fonts.gstatic.com/s/dekko/v6/46khlb_wWjfSrutDTU8.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=46khlb_wWjfSrutDTU0&skey=87b460a581e29e9a&v=v6#Dekko",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "devanagari",
+    "latin-ext"
+  ],
+  "category": "handwriting",
+  "version": "v6",
+  "lastModified": "2019-07-16",
+  "popularity": 642,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "devanagari": true,
+    "latin-ext": false
+  },
+  "storeID": "devanagari_latin"
+}

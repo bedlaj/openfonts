@@ -1,0 +1,36 @@
+{
+  "id": "nova-mono",
+  "family": "Nova Mono",
+  "variants": [
+    {
+      "id": "regular",
+      "ttf": "https://fonts.gstatic.com/s/novamono/v10/Cn-0JtiGWQ5Ajb--MRKvZ2Zc.ttf",
+      "fontFamily": "'Nova Mono'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "NovaMono"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/novamono/v10/Cn-0JtiGWQ5Ajb--MRKvZ2ZZ.woff2",
+      "eot": "https://fonts.gstatic.com/s/novamono/v10/Cn-0JtiGWQ5Ajb--MRKvZ2Zd.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Cn-0JtiGWQ5Ajb--MRKvZ2Ze&skey=573d932cf583f4f3&v=v10#NovaMono",
+      "woff": "https://fonts.gstatic.com/s/novamono/v10/Cn-0JtiGWQ5Ajb--MRKvZ2Zf.woff",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "greek",
+    "latin"
+  ],
+  "category": "monospace",
+  "version": "v10",
+  "lastModified": "2019-07-16",
+  "popularity": 637,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "greek": false,
+    "latin": true
+  },
+  "storeID": "latin"
+}

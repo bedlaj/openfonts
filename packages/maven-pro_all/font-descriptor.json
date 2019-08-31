@@ -1,0 +1,87 @@
+{
+  "id": "maven-pro",
+  "family": "Maven Pro",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/mavenpro/v13/7Au9p_AqnyWWAxW2Wk32zw.woff2",
+      "fontFamily": "'Maven Pro'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Maven Pro Regular",
+        "MavenPro-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/mavenpro/v13/7Au9p_AqnyWWAxW2Wk32yw.eot",
+      "woff": "https://fonts.gstatic.com/s/mavenpro/v13/7Au9p_AqnyWWAxW2Wk32yQ.woff",
+      "ttf": "https://fonts.gstatic.com/s/mavenpro/v13/7Au9p_AqnyWWAxW2Wk32yg.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=7Au9p_AqnyWWAxW2Wk32yA&skey=f795ffecfc1ee92e&v=v13#MavenPro",
+      "errored": false
+    },
+    {
+      "id": "500",
+      "eot": "https://fonts.gstatic.com/s/mavenpro/v13/7Au4p_AqnyWWAxW2Wk3OPkctOQ.eot",
+      "fontFamily": "'Maven Pro'",
+      "fontStyle": "normal",
+      "fontWeight": "500",
+      "woff": "https://fonts.gstatic.com/s/mavenpro/v13/7Au4p_AqnyWWAxW2Wk3OPkctOw.woff",
+      "local": [
+        "Maven Pro Medium",
+        "MavenPro-Medium"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/mavenpro/v13/7Au4p_AqnyWWAxW2Wk3OPkctPQ.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=7Au4p_AqnyWWAxW2Wk3OPkctOg&skey=3342e25ad2760db8&v=v13#MavenPro",
+      "ttf": "https://fonts.gstatic.com/s/mavenpro/v13/7Au4p_AqnyWWAxW2Wk3OPkctOA.ttf",
+      "errored": false
+    },
+    {
+      "id": "900",
+      "eot": "https://fonts.gstatic.com/s/mavenpro/v13/7Au4p_AqnyWWAxW2Wk3OTkMtOQ.eot",
+      "fontFamily": "'Maven Pro'",
+      "fontStyle": "normal",
+      "fontWeight": "900",
+      "woff": "https://fonts.gstatic.com/s/mavenpro/v13/7Au4p_AqnyWWAxW2Wk3OTkMtOw.woff",
+      "local": [
+        "Maven Pro Black",
+        "MavenPro-Black"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/mavenpro/v13/7Au4p_AqnyWWAxW2Wk3OTkMtPQ.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=7Au4p_AqnyWWAxW2Wk3OTkMtOg&skey=b2a4a68bb927b7b5&v=v13#MavenPro",
+      "ttf": "https://fonts.gstatic.com/s/mavenpro/v13/7Au4p_AqnyWWAxW2Wk3OTkMtOA.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff": "https://fonts.gstatic.com/s/mavenpro/v13/7Au4p_AqnyWWAxW2Wk3OdkEtOw.woff",
+      "fontFamily": "'Maven Pro'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Maven Pro Bold",
+        "MavenPro-Bold"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/mavenpro/v13/7Au4p_AqnyWWAxW2Wk3OdkEtOA.ttf",
+      "woff2": "https://fonts.gstatic.com/s/mavenpro/v13/7Au4p_AqnyWWAxW2Wk3OdkEtPQ.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=7Au4p_AqnyWWAxW2Wk3OdkEtOg&skey=cdea2724661b597d&v=v13#MavenPro",
+      "eot": "https://fonts.gstatic.com/s/mavenpro/v13/7Au4p_AqnyWWAxW2Wk3OdkEtOQ.eot",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "vietnamese",
+    "latin",
+    "latin-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v13",
+  "lastModified": "2019-07-17",
+  "popularity": 83,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "vietnamese": true,
+    "latin": true,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin_vietnamese"
+}

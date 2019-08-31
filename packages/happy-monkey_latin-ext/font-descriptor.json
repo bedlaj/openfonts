@@ -1,0 +1,37 @@
+{
+  "id": "happy-monkey",
+  "family": "Happy Monkey",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/happymonkey/v8/K2F2fZZcl-9SXwl5F_C4R_OwDgr3.woff2",
+      "fontFamily": "'Happy Monkey'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Happy Monkey",
+        "HappyMonkey-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/happymonkey/v8/K2F2fZZcl-9SXwl5F_C4R_OwDgrz.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=K2F2fZZcl-9SXwl5F_C4R_OwDgrw&skey=17aeed53e5d1fc82&v=v8#HappyMonkey",
+      "ttf": "https://fonts.gstatic.com/s/happymonkey/v8/K2F2fZZcl-9SXwl5F_C4R_OwDgry.ttf",
+      "woff": "https://fonts.gstatic.com/s/happymonkey/v8/K2F2fZZcl-9SXwl5F_C4R_OwDgrx.woff",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "display",
+  "version": "v8",
+  "lastModified": "2019-07-16",
+  "popularity": 464,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin"
+}

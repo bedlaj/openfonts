@@ -1,0 +1,37 @@
+{
+  "id": "euphoria-script",
+  "family": "Euphoria Script",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/euphoriascript/v8/mFTpWb0X2bLb_cx6To2B8GpKoD5qmvxU.woff",
+      "fontFamily": "'Euphoria Script'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Euphoria Script",
+        "EuphoriaScript-Regular"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/euphoriascript/v8/mFTpWb0X2bLb_cx6To2B8GpKoD5qmvxX.ttf",
+      "eot": "https://fonts.gstatic.com/s/euphoriascript/v8/mFTpWb0X2bLb_cx6To2B8GpKoD5qmvxW.eot",
+      "woff2": "https://fonts.gstatic.com/s/euphoriascript/v8/mFTpWb0X2bLb_cx6To2B8GpKoD5qmvxS.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=mFTpWb0X2bLb_cx6To2B8GpKoD5qmvxV&skey=43c0de58807de10a&v=v8#EuphoriaScript",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "handwriting",
+  "version": "v8",
+  "lastModified": "2019-07-16",
+  "popularity": 573,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin"
+}

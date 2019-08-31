@@ -1,0 +1,85 @@
+{
+  "id": "signika-negative",
+  "family": "Signika Negative",
+  "variants": [
+    {
+      "id": "300",
+      "woff2": "https://fonts.gstatic.com/s/signikanegative/v10/E217_cfngu7HiRpPX3ZpNE4kY5zKal6DupbJ6g.woff2",
+      "fontFamily": "'Signika Negative'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "local": [
+        "Signika Negative Light",
+        "SignikaNegative-Light"
+      ],
+      "woff": "https://fonts.gstatic.com/s/signikanegative/v10/E217_cfngu7HiRpPX3ZpNE4kY5zKal6DupbJ7A.woff",
+      "ttf": "https://fonts.gstatic.com/s/signikanegative/v10/E217_cfngu7HiRpPX3ZpNE4kY5zKal6DupbJ7w.ttf",
+      "eot": "https://fonts.gstatic.com/s/signikanegative/v10/E217_cfngu7HiRpPX3ZpNE4kY5zKal6DupbJ7g.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=E217_cfngu7HiRpPX3ZpNE4kY5zKal6DupbJ7Q&skey=15e64a474c640811&v=v10#SignikaNegative",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/signikanegative/v10/E218_cfngu7HiRpPX3ZpNE4kY5zKYvWhqw.eot",
+      "fontFamily": "'Signika Negative'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/signikanegative/v10/E218_cfngu7HiRpPX3ZpNE4kY5zKYvWhqQ.woff",
+      "local": [
+        "Signika Negative Regular",
+        "SignikaNegative-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/signikanegative/v10/E218_cfngu7HiRpPX3ZpNE4kY5zKYvWhrw.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=E218_cfngu7HiRpPX3ZpNE4kY5zKYvWhqA&skey=72460f8866ebf5b&v=v10#SignikaNegative",
+      "ttf": "https://fonts.gstatic.com/s/signikanegative/v10/E218_cfngu7HiRpPX3ZpNE4kY5zKYvWhqg.ttf",
+      "errored": false
+    },
+    {
+      "id": "600",
+      "svg": "https://fonts.gstatic.com/l/font?kit=E217_cfngu7HiRpPX3ZpNE4kY5zKaiqFupbJ7Q&skey=5d86aa49a2f9a5b4&v=v10#SignikaNegative",
+      "fontFamily": "'Signika Negative'",
+      "fontStyle": "normal",
+      "fontWeight": "600",
+      "local": [
+        "Signika Negative SemiBold",
+        "SignikaNegative-SemiBold"
+      ],
+      "eot": "https://fonts.gstatic.com/s/signikanegative/v10/E217_cfngu7HiRpPX3ZpNE4kY5zKaiqFupbJ7g.eot",
+      "woff": "https://fonts.gstatic.com/s/signikanegative/v10/E217_cfngu7HiRpPX3ZpNE4kY5zKaiqFupbJ7A.woff",
+      "ttf": "https://fonts.gstatic.com/s/signikanegative/v10/E217_cfngu7HiRpPX3ZpNE4kY5zKaiqFupbJ7w.ttf",
+      "woff2": "https://fonts.gstatic.com/s/signikanegative/v10/E217_cfngu7HiRpPX3ZpNE4kY5zKaiqFupbJ6g.woff2",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff": "https://fonts.gstatic.com/s/signikanegative/v10/E217_cfngu7HiRpPX3ZpNE4kY5zKak6EupbJ7A.woff",
+      "fontFamily": "'Signika Negative'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Signika Negative Bold",
+        "SignikaNegative-Bold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/signikanegative/v10/E217_cfngu7HiRpPX3ZpNE4kY5zKak6EupbJ6g.woff2",
+      "eot": "https://fonts.gstatic.com/s/signikanegative/v10/E217_cfngu7HiRpPX3ZpNE4kY5zKak6EupbJ7g.eot",
+      "ttf": "https://fonts.gstatic.com/s/signikanegative/v10/E217_cfngu7HiRpPX3ZpNE4kY5zKak6EupbJ7w.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=E217_cfngu7HiRpPX3ZpNE4kY5zKak6EupbJ7Q&skey=8faf4f04df91fa89&v=v10#SignikaNegative",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v10",
+  "lastModified": "2019-07-16",
+  "popularity": 229,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

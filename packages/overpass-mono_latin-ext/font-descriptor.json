@@ -1,0 +1,85 @@
+{
+  "id": "overpass-mono",
+  "family": "Overpass Mono",
+  "variants": [
+    {
+      "id": "300",
+      "svg": "https://fonts.gstatic.com/l/font?kit=_Xm3-H86tzKDdAPa-KPQZ-AC3oSWo_6XAQ&skey=b5911a1cd8c24d84&v=v5#OverpassMono",
+      "fontFamily": "'Overpass Mono'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "local": [
+        "Overpass Mono Light",
+        "OverpassMono-Light"
+      ],
+      "woff": "https://fonts.gstatic.com/s/overpassmono/v5/_Xm3-H86tzKDdAPa-KPQZ-AC3oSWo_6XAA.woff",
+      "ttf": "https://fonts.gstatic.com/s/overpassmono/v5/_Xm3-H86tzKDdAPa-KPQZ-AC3oSWo_6XAw.ttf",
+      "woff2": "https://fonts.gstatic.com/s/overpassmono/v5/_Xm3-H86tzKDdAPa-KPQZ-AC3oSWo_6XBg.woff2",
+      "eot": "https://fonts.gstatic.com/s/overpassmono/v5/_Xm3-H86tzKDdAPa-KPQZ-AC3oSWo_6XAg.eot",
+      "errored": false
+    },
+    {
+      "id": "600",
+      "eot": "https://fonts.gstatic.com/s/overpassmono/v5/_Xm3-H86tzKDdAPa-KPQZ-AC3vCQo_6XAg.eot",
+      "fontFamily": "'Overpass Mono'",
+      "fontStyle": "normal",
+      "fontWeight": "600",
+      "woff": "https://fonts.gstatic.com/s/overpassmono/v5/_Xm3-H86tzKDdAPa-KPQZ-AC3vCQo_6XAA.woff",
+      "local": [
+        "Overpass Mono SemiBold",
+        "OverpassMono-SemiBold"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=_Xm3-H86tzKDdAPa-KPQZ-AC3vCQo_6XAQ&skey=57c5bf40a8a0c45e&v=v5#OverpassMono",
+      "woff2": "https://fonts.gstatic.com/s/overpassmono/v5/_Xm3-H86tzKDdAPa-KPQZ-AC3vCQo_6XBg.woff2",
+      "ttf": "https://fonts.gstatic.com/s/overpassmono/v5/_Xm3-H86tzKDdAPa-KPQZ-AC3vCQo_6XAw.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff": "https://fonts.gstatic.com/s/overpassmono/v5/_Xm3-H86tzKDdAPa-KPQZ-AC3pSRo_6XAA.woff",
+      "fontFamily": "'Overpass Mono'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Overpass Mono Bold",
+        "OverpassMono-Bold"
+      ],
+      "eot": "https://fonts.gstatic.com/s/overpassmono/v5/_Xm3-H86tzKDdAPa-KPQZ-AC3pSRo_6XAg.eot",
+      "woff2": "https://fonts.gstatic.com/s/overpassmono/v5/_Xm3-H86tzKDdAPa-KPQZ-AC3pSRo_6XBg.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=_Xm3-H86tzKDdAPa-KPQZ-AC3pSRo_6XAQ&skey=71b6951fc3e22ad8&v=v5#OverpassMono",
+      "ttf": "https://fonts.gstatic.com/s/overpassmono/v5/_Xm3-H86tzKDdAPa-KPQZ-AC3pSRo_6XAw.ttf",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/overpassmono/v5/_Xmq-H86tzKDdAPa-KPQZ-AC1iG0sg.eot",
+      "fontFamily": "'Overpass Mono'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/overpassmono/v5/_Xmq-H86tzKDdAPa-KPQZ-AC1iG0tg.woff2",
+      "local": [
+        "Overpass Mono Regular",
+        "OverpassMono-Regular"
+      ],
+      "woff": "https://fonts.gstatic.com/s/overpassmono/v5/_Xmq-H86tzKDdAPa-KPQZ-AC1iG0sA.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=_Xmq-H86tzKDdAPa-KPQZ-AC1iG0sQ&skey=d1f5d4df18f8b025&v=v5#OverpassMono",
+      "ttf": "https://fonts.gstatic.com/s/overpassmono/v5/_Xmq-H86tzKDdAPa-KPQZ-AC1iG0sw.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "monospace",
+  "version": "v5",
+  "lastModified": "2019-07-16",
+  "popularity": 455,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin"
+}

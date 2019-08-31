@@ -1,0 +1,41 @@
+{
+  "id": "prata",
+  "family": "Prata",
+  "variants": [
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/prata/v10/6xKhdSpbNNCT-vWJ.eot",
+      "fontFamily": "'Prata'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "svg": "https://fonts.gstatic.com/l/font?kit=6xKhdSpbNNCT-vWK&skey=3b0c7d1d6e89685d&v=v10#Prata",
+      "local": [
+        "Prata Regular",
+        "Prata-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/prata/v10/6xKhdSpbNNCT-vWN.woff2",
+      "woff": "https://fonts.gstatic.com/s/prata/v10/6xKhdSpbNNCT-vWL.woff",
+      "ttf": "https://fonts.gstatic.com/s/prata/v10/6xKhdSpbNNCT-vWI.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "vietnamese",
+    "latin",
+    "cyrillic",
+    "cyrillic-ext"
+  ],
+  "category": "serif",
+  "version": "v10",
+  "lastModified": "2019-07-16",
+  "popularity": 169,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "vietnamese": true,
+    "latin": true,
+    "cyrillic": true,
+    "cyrillic-ext": true
+  },
+  "storeID": "cyrillic-ext_cyrillic_latin_vietnamese"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "sancreek",
+  "family": "Sancreek",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/sancreek/v10/pxiHypAnsdxUm159X4D5V1g.woff",
+      "fontFamily": "'Sancreek'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Sancreek Regular",
+        "Sancreek-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/sancreek/v10/pxiHypAnsdxUm159X4D5V1o.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=pxiHypAnsdxUm159X4D5V1k&skey=a5236a9ac64b7cf8&v=v10#Sancreek",
+      "woff2": "https://fonts.gstatic.com/s/sancreek/v10/pxiHypAnsdxUm159X4D5V14.woff2",
+      "ttf": "https://fonts.gstatic.com/s/sancreek/v10/pxiHypAnsdxUm159X4D5V1s.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "display",
+  "version": "v10",
+  "lastModified": "2019-07-16",
+  "popularity": 696,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "bad-script",
+  "family": "Bad Script",
+  "variants": [
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/badscript/v8/6NUT8F6PJgbFWQn47_x7pO8kyA.eot",
+      "fontFamily": "'Bad Script'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/badscript/v8/6NUT8F6PJgbFWQn47_x7pO8kzA.woff2",
+      "local": [
+        "Bad Script Regular",
+        "BadScript-Regular"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=6NUT8F6PJgbFWQn47_x7pO8kyw&skey=bab4df51e3e7f1cf&v=v8#BadScript",
+      "ttf": "https://fonts.gstatic.com/s/badscript/v8/6NUT8F6PJgbFWQn47_x7pO8kyQ.ttf",
+      "woff": "https://fonts.gstatic.com/s/badscript/v8/6NUT8F6PJgbFWQn47_x7pO8kyg.woff",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "cyrillic"
+  ],
+  "category": "handwriting",
+  "version": "v8",
+  "lastModified": "2019-07-16",
+  "popularity": 211,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "cyrillic": true
+  },
+  "storeID": "cyrillic_latin"
+}

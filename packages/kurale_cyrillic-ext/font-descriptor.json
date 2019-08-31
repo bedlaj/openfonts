@@ -1,0 +1,43 @@
+{
+  "id": "kurale",
+  "family": "Kurale",
+  "variants": [
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/kurale/v5/4iCs6KV9e9dXjhoKcg7y.eot",
+      "fontFamily": "'Kurale'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "svg": "https://fonts.gstatic.com/l/font?kit=4iCs6KV9e9dXjhoKcg7x&skey=fa62c6eb7f6052b&v=v5#Kurale",
+      "local": [
+        "Kurale Regular",
+        "Kurale-Regular"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/kurale/v5/4iCs6KV9e9dXjhoKcg7z.ttf",
+      "woff2": "https://fonts.gstatic.com/s/kurale/v5/4iCs6KV9e9dXjhoKcg72.woff2",
+      "woff": "https://fonts.gstatic.com/s/kurale/v5/4iCs6KV9e9dXjhoKcg7w.woff",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "devanagari",
+    "latin-ext",
+    "cyrillic",
+    "cyrillic-ext"
+  ],
+  "category": "serif",
+  "version": "v5",
+  "lastModified": "2019-07-16",
+  "popularity": 511,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "devanagari": false,
+    "latin-ext": false,
+    "cyrillic": false,
+    "cyrillic-ext": true
+  },
+  "storeID": "cyrillic-ext_latin"
+}

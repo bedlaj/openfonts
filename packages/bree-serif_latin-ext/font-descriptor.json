@@ -1,0 +1,37 @@
+{
+  "id": "bree-serif",
+  "family": "Bree Serif",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/breeserif/v9/4UaHrEJCrhhnVA3DgluA96Tp5w.woff2",
+      "fontFamily": "'Bree Serif'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Bree Serif Regular",
+        "BreeSerif-Regular"
+      ],
+      "woff": "https://fonts.gstatic.com/s/breeserif/v9/4UaHrEJCrhhnVA3DgluA96Tp4Q.woff",
+      "ttf": "https://fonts.gstatic.com/s/breeserif/v9/4UaHrEJCrhhnVA3DgluA96Tp4g.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=4UaHrEJCrhhnVA3DgluA96Tp4A&skey=31c3ad25dd3d74b0&v=v9#BreeSerif",
+      "eot": "https://fonts.gstatic.com/s/breeserif/v9/4UaHrEJCrhhnVA3DgluA96Tp4w.eot",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "serif",
+  "version": "v9",
+  "lastModified": "2019-07-17",
+  "popularity": 69,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin"
+}

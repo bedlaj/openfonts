@@ -1,0 +1,89 @@
+{
+  "id": "istok-web",
+  "family": "Istok Web",
+  "variants": [
+    {
+      "id": "regular",
+      "ttf": "https://fonts.gstatic.com/s/istokweb/v14/3qTvojGmgSyUukBzKslpBmt6.ttf",
+      "fontFamily": "'Istok Web'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Istok Web Regular",
+        "IstokWeb-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/istokweb/v14/3qTvojGmgSyUukBzKslpBmt_.woff2",
+      "eot": "https://fonts.gstatic.com/s/istokweb/v14/3qTvojGmgSyUukBzKslpBmt7.eot",
+      "woff": "https://fonts.gstatic.com/s/istokweb/v14/3qTvojGmgSyUukBzKslpBmt5.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=3qTvojGmgSyUukBzKslpBmt4&skey=79160bf8eb8143d8&v=v14#IstokWeb",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "svg": "https://fonts.gstatic.com/l/font?kit=3qTpojGmgSyUukBzKslpA1t93kE&skey=8811c9fe870c01bf&v=v14#IstokWeb",
+      "fontFamily": "'Istok Web'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "local": [
+        "Istok Web Italic",
+        "IstokWeb-Italic"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/istokweb/v14/3qTpojGmgSyUukBzKslpA1t93kM.ttf",
+      "woff2": "https://fonts.gstatic.com/s/istokweb/v14/3qTpojGmgSyUukBzKslpA1t93kY.woff2",
+      "woff": "https://fonts.gstatic.com/s/istokweb/v14/3qTpojGmgSyUukBzKslpA1t93kA.woff",
+      "eot": "https://fonts.gstatic.com/s/istokweb/v14/3qTpojGmgSyUukBzKslpA1t93kI.eot",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/istokweb/v14/3qTqojGmgSyUukBzKslhvU5q-WMR.eot",
+      "fontFamily": "'Istok Web'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/istokweb/v14/3qTqojGmgSyUukBzKslhvU5q-WMT.woff",
+      "local": [
+        "Istok Web Bold",
+        "IstokWeb-Bold"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=3qTqojGmgSyUukBzKslhvU5q-WMS&skey=b825e864c348b299&v=v14#IstokWeb",
+      "woff2": "https://fonts.gstatic.com/s/istokweb/v14/3qTqojGmgSyUukBzKslhvU5q-WMV.woff2",
+      "ttf": "https://fonts.gstatic.com/s/istokweb/v14/3qTqojGmgSyUukBzKslhvU5q-WMQ.ttf",
+      "errored": false
+    },
+    {
+      "id": "700italic",
+      "eot": "https://fonts.gstatic.com/s/istokweb/v14/3qT0ojGmgSyUukBzKslpA1PG-1MXSBc.eot",
+      "fontFamily": "'Istok Web'",
+      "fontStyle": "italic",
+      "fontWeight": "700",
+      "woff2": "https://fonts.gstatic.com/s/istokweb/v14/3qT0ojGmgSyUukBzKslpA1PG-1MXSBM.woff2",
+      "local": [
+        "Istok Web Bold Italic",
+        "IstokWeb-BoldItalic"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/istokweb/v14/3qT0ojGmgSyUukBzKslpA1PG-1MXSBY.ttf",
+      "woff": "https://fonts.gstatic.com/s/istokweb/v14/3qT0ojGmgSyUukBzKslpA1PG-1MXSBU.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=3qT0ojGmgSyUukBzKslpA1PG-1MXSBQ&skey=cacea6fe46cb51d6&v=v14#IstokWeb",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "cyrillic",
+    "cyrillic-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v14",
+  "lastModified": "2019-07-16",
+  "popularity": 150,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false,
+    "cyrillic": false,
+    "cyrillic-ext": false
+  },
+  "storeID": "latin"
+}

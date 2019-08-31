@@ -1,0 +1,52 @@
+{
+  "id": "fondamento",
+  "family": "Fondamento",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/fondamento/v10/4UaHrEJGsxNmFTPDnkaJ96Tp5w.woff2",
+      "fontFamily": "'Fondamento'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Fondamento Regular",
+        "Fondamento-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/fondamento/v10/4UaHrEJGsxNmFTPDnkaJ96Tp4w.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=4UaHrEJGsxNmFTPDnkaJ96Tp4A&skey=33bcda47da77a40b&v=v10#Fondamento",
+      "woff": "https://fonts.gstatic.com/s/fondamento/v10/4UaHrEJGsxNmFTPDnkaJ96Tp4Q.woff",
+      "ttf": "https://fonts.gstatic.com/s/fondamento/v10/4UaHrEJGsxNmFTPDnkaJ96Tp4g.ttf",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "woff": "https://fonts.gstatic.com/s/fondamento/v10/4UaFrEJGsxNmFTPDnkaJ96_Z67t3.woff",
+      "fontFamily": "'Fondamento'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "local": [
+        "Fondamento-Italic"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=4UaFrEJGsxNmFTPDnkaJ96_Z67t2&skey=456138419774c965&v=v10#Fondamento",
+      "ttf": "https://fonts.gstatic.com/s/fondamento/v10/4UaFrEJGsxNmFTPDnkaJ96_Z67t0.ttf",
+      "woff2": "https://fonts.gstatic.com/s/fondamento/v10/4UaFrEJGsxNmFTPDnkaJ96_Z67tx.woff2",
+      "eot": "https://fonts.gstatic.com/s/fondamento/v10/4UaFrEJGsxNmFTPDnkaJ96_Z67t1.eot",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "handwriting",
+  "version": "v10",
+  "lastModified": "2019-07-16",
+  "popularity": 516,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin"
+}

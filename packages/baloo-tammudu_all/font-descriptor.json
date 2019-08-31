@@ -1,0 +1,41 @@
+{
+  "id": "baloo-tammudu",
+  "family": "Baloo Tammudu",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/balootammudu/v6/mFT3Wb8Qza7c_Z5HTsC_5nxW8Ek.woff",
+      "fontFamily": "'Baloo Tammudu'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Baloo Tammudu Regular",
+        "BalooTammudu-Regular"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=mFT3Wb8Qza7c_Z5HTsC_5nxW8Eg&skey=d052ee0a0f623158&v=v6#BalooTammudu",
+      "eot": "https://fonts.gstatic.com/s/balootammudu/v6/mFT3Wb8Qza7c_Z5HTsC_5nxW8Es.eot",
+      "woff2": "https://fonts.gstatic.com/s/balootammudu/v6/mFT3Wb8Qza7c_Z5HTsC_5nxW8E8.woff2",
+      "ttf": "https://fonts.gstatic.com/s/balootammudu/v6/mFT3Wb8Qza7c_Z5HTsC_5nxW8Eo.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "telugu",
+    "vietnamese",
+    "latin",
+    "latin-ext"
+  ],
+  "category": "display",
+  "version": "v6",
+  "lastModified": "2019-07-16",
+  "popularity": 800,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "telugu": true,
+    "vietnamese": true,
+    "latin": true,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin_vietnamese_telugu"
+}

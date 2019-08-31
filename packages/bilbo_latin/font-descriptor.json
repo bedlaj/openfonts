@@ -1,0 +1,37 @@
+{
+  "id": "bilbo",
+  "family": "Bilbo",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/bilbo/v9/o-0EIpgpwWwZ220mroU.woff2",
+      "fontFamily": "'Bilbo'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Bilbo Regular",
+        "Bilbo-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/bilbo/v9/o-0EIpgpwWwZ220mroE.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=o-0EIpgpwWwZ220mroI&skey=e7e54f852a89dcca&v=v9#Bilbo",
+      "ttf": "https://fonts.gstatic.com/s/bilbo/v9/o-0EIpgpwWwZ220mroA.ttf",
+      "woff": "https://fonts.gstatic.com/s/bilbo/v9/o-0EIpgpwWwZ220mroM.woff",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "handwriting",
+  "version": "v9",
+  "lastModified": "2019-07-16",
+  "popularity": 680,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

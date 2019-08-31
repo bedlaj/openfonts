@@ -1,0 +1,53 @@
+{
+  "id": "sorts-mill-goudy",
+  "family": "Sorts Mill Goudy",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/sortsmillgoudy/v9/Qw3GZR9MED_6PSuS_50nEaVrfzgEbHoEiQ.woff",
+      "fontFamily": "'Sorts Mill Goudy'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Sorts Mill Goudy Regular",
+        "SortsMillGoudy-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/sortsmillgoudy/v9/Qw3GZR9MED_6PSuS_50nEaVrfzgEbHoEjw.woff2",
+      "ttf": "https://fonts.gstatic.com/s/sortsmillgoudy/v9/Qw3GZR9MED_6PSuS_50nEaVrfzgEbHoEig.ttf",
+      "eot": "https://fonts.gstatic.com/s/sortsmillgoudy/v9/Qw3GZR9MED_6PSuS_50nEaVrfzgEbHoEiw.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Qw3GZR9MED_6PSuS_50nEaVrfzgEbHoEiA&skey=22cb687a970a0180&v=v9#SortsMillGoudy",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "ttf": "https://fonts.gstatic.com/s/sortsmillgoudy/v9/Qw3AZR9MED_6PSuS_50nEaVrfzgEbH80jbs6.ttf",
+      "fontFamily": "'Sorts Mill Goudy'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "local": [
+        "Sorts Mill Goudy Italic",
+        "SortsMillGoudy-Italic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/sortsmillgoudy/v9/Qw3AZR9MED_6PSuS_50nEaVrfzgEbH80jbs_.woff2",
+      "eot": "https://fonts.gstatic.com/s/sortsmillgoudy/v9/Qw3AZR9MED_6PSuS_50nEaVrfzgEbH80jbs7.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Qw3AZR9MED_6PSuS_50nEaVrfzgEbH80jbs4&skey=f3a9910c3adf6761&v=v9#SortsMillGoudy",
+      "woff": "https://fonts.gstatic.com/s/sortsmillgoudy/v9/Qw3AZR9MED_6PSuS_50nEaVrfzgEbH80jbs5.woff",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "serif",
+  "version": "v9",
+  "lastModified": "2019-07-16",
+  "popularity": 230,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

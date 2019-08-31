@@ -1,0 +1,71 @@
+{
+  "id": "amiko",
+  "family": "Amiko",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/amiko/v4/WwkQxPq1DFK04uqjeVk.woff",
+      "fontFamily": "'Amiko'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Amiko",
+        "Amiko-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/amiko/v4/WwkQxPq1DFK04uqjeVs.eot",
+      "woff2": "https://fonts.gstatic.com/s/amiko/v4/WwkQxPq1DFK04uqjeV8.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=WwkQxPq1DFK04uqjeVg&skey=9370075dbbb9661d&v=v4#Amiko",
+      "ttf": "https://fonts.gstatic.com/s/amiko/v4/WwkQxPq1DFK04uqjeVo.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff": "https://fonts.gstatic.com/s/amiko/v4/WwkdxPq1DFK04uIZXErCEIM.woff",
+      "fontFamily": "'Amiko'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Amiko Bold",
+        "Amiko-Bold"
+      ],
+      "eot": "https://fonts.gstatic.com/s/amiko/v4/WwkdxPq1DFK04uIZXErCEIE.eot",
+      "woff2": "https://fonts.gstatic.com/s/amiko/v4/WwkdxPq1DFK04uIZXErCEIU.woff2",
+      "ttf": "https://fonts.gstatic.com/s/amiko/v4/WwkdxPq1DFK04uIZXErCEIA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=WwkdxPq1DFK04uIZXErCEII&skey=b0f97d34e902453e&v=v4#Amiko",
+      "errored": false
+    },
+    {
+      "id": "600",
+      "eot": "https://fonts.gstatic.com/s/amiko/v4/WwkdxPq1DFK04uJ9XUrCEIE.eot",
+      "fontFamily": "'Amiko'",
+      "fontStyle": "normal",
+      "fontWeight": "600",
+      "woff2": "https://fonts.gstatic.com/s/amiko/v4/WwkdxPq1DFK04uJ9XUrCEIU.woff2",
+      "local": [
+        "Amiko SemiBold",
+        "Amiko-SemiBold"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/amiko/v4/WwkdxPq1DFK04uJ9XUrCEIA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=WwkdxPq1DFK04uJ9XUrCEII&skey=dc341fb169f5b947&v=v4#Amiko",
+      "woff": "https://fonts.gstatic.com/s/amiko/v4/WwkdxPq1DFK04uJ9XUrCEIM.woff",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "devanagari",
+    "latin-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v4",
+  "lastModified": "2019-07-16",
+  "popularity": 466,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "devanagari": true,
+    "latin-ext": false
+  },
+  "storeID": "devanagari_latin"
+}

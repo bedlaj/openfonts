@@ -1,0 +1,55 @@
+{
+  "id": "dancing-script",
+  "family": "Dancing Script",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/dancingscript/v11/If2RXTr6YS-zF4S-kcSWSVi_szLviuE.woff2",
+      "fontFamily": "'Dancing Script'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Dancing Script Regular",
+        "DancingScript-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/dancingscript/v11/If2RXTr6YS-zF4S-kcSWSVi_szLviuU.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=If2RXTr6YS-zF4S-kcSWSVi_szLviuY&skey=c89f400061e5d0a8&v=v11#DancingScript",
+      "ttf": "https://fonts.gstatic.com/s/dancingscript/v11/If2RXTr6YS-zF4S-kcSWSVi_szLviuQ.ttf",
+      "woff": "https://fonts.gstatic.com/s/dancingscript/v11/If2RXTr6YS-zF4S-kcSWSVi_szLviuc.woff",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/dancingscript/v11/If2SXTr6YS-zF4S-kcSWSVi_szpbr_Qlqic.eot",
+      "fontFamily": "'Dancing Script'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff2": "https://fonts.gstatic.com/s/dancingscript/v11/If2SXTr6YS-zF4S-kcSWSVi_szpbr_QlqiM.woff2",
+      "local": [
+        "Dancing Script Bold",
+        "DancingScript-Bold"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/dancingscript/v11/If2SXTr6YS-zF4S-kcSWSVi_szpbr_QlqiY.ttf",
+      "woff": "https://fonts.gstatic.com/s/dancingscript/v11/If2SXTr6YS-zF4S-kcSWSVi_szpbr_QlqiU.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=If2SXTr6YS-zF4S-kcSWSVi_szpbr_QlqiQ&skey=4fd71febfd48d6c&v=v11#DancingScript",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "vietnamese",
+    "latin",
+    "latin-ext"
+  ],
+  "category": "handwriting",
+  "version": "v11",
+  "lastModified": "2019-07-17",
+  "popularity": 56,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "vietnamese": true,
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin_vietnamese"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "benchnine",
+  "family": "BenchNine",
+  "variants": [
+    {
+      "id": "300",
+      "svg": "https://fonts.gstatic.com/l/font?kit=ahcev8612zF4jxrwMosT--thjGy6&skey=aa9e2137948a9eff&v=v8#BenchNine",
+      "fontFamily": "'BenchNine'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "local": [
+        "BenchNine Light",
+        "BenchNine-Light"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/benchnine/v8/ahcev8612zF4jxrwMosT--thjGy4.ttf",
+      "eot": "https://fonts.gstatic.com/s/benchnine/v8/ahcev8612zF4jxrwMosT--thjGy5.eot",
+      "woff": "https://fonts.gstatic.com/s/benchnine/v8/ahcev8612zF4jxrwMosT--thjGy7.woff",
+      "woff2": "https://fonts.gstatic.com/s/benchnine/v8/ahcev8612zF4jxrwMosT--thjGy9.woff2",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/benchnine/v8/ahcbv8612zF4jxrwMosbXsly.woff",
+      "fontFamily": "'BenchNine'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "BenchNine Regular",
+        "BenchNine-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/benchnine/v8/ahcbv8612zF4jxrwMosbXslw.eot",
+      "ttf": "https://fonts.gstatic.com/s/benchnine/v8/ahcbv8612zF4jxrwMosbXslx.ttf",
+      "woff2": "https://fonts.gstatic.com/s/benchnine/v8/ahcbv8612zF4jxrwMosbXsl0.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=ahcbv8612zF4jxrwMosbXslz&skey=f6d31822b7395c1d&v=v8#BenchNine",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "ttf": "https://fonts.gstatic.com/s/benchnine/v8/ahcev8612zF4jxrwMosT6-xhjGy4.ttf",
+      "fontFamily": "'BenchNine'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "BenchNine Bold",
+        "BenchNine-Bold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/benchnine/v8/ahcev8612zF4jxrwMosT6-xhjGy9.woff2",
+      "eot": "https://fonts.gstatic.com/s/benchnine/v8/ahcev8612zF4jxrwMosT6-xhjGy5.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=ahcev8612zF4jxrwMosT6-xhjGy6&skey=2988da53b00b93d9&v=v8#BenchNine",
+      "woff": "https://fonts.gstatic.com/s/benchnine/v8/ahcev8612zF4jxrwMosT6-xhjGy7.woff",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v8",
+  "lastModified": "2019-07-16",
+  "popularity": 157,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin"
+}

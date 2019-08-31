@@ -1,0 +1,55 @@
+{
+  "id": "miriam-libre",
+  "family": "Miriam Libre",
+  "variants": [
+    {
+      "id": "regular",
+      "ttf": "https://fonts.gstatic.com/s/miriamlibre/v6/DdTh798HsHwubBAqfkcBTL_faZP7.ttf",
+      "fontFamily": "'Miriam Libre'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Miriam Libre Regular",
+        "MiriamLibre-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/miriamlibre/v6/DdTh798HsHwubBAqfkcBTL_faZP6.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=DdTh798HsHwubBAqfkcBTL_faZP5&skey=136d3f8b2b10bd59&v=v6#MiriamLibre",
+      "woff2": "https://fonts.gstatic.com/s/miriamlibre/v6/DdTh798HsHwubBAqfkcBTL_faZP-.woff2",
+      "woff": "https://fonts.gstatic.com/s/miriamlibre/v6/DdTh798HsHwubBAqfkcBTL_faZP4.woff",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/miriamlibre/v6/DdT-798HsHwubBAqfkcBTL_X3LbrTMq-.eot",
+      "fontFamily": "'Miriam Libre'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff2": "https://fonts.gstatic.com/s/miriamlibre/v6/DdT-798HsHwubBAqfkcBTL_X3LbrTMq6.woff2",
+      "local": [
+        "Miriam Libre Bold",
+        "MiriamLibre-Bold"
+      ],
+      "woff": "https://fonts.gstatic.com/s/miriamlibre/v6/DdT-798HsHwubBAqfkcBTL_X3LbrTMq8.woff",
+      "ttf": "https://fonts.gstatic.com/s/miriamlibre/v6/DdT-798HsHwubBAqfkcBTL_X3LbrTMq_.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=DdT-798HsHwubBAqfkcBTL_X3LbrTMq9&skey=9a42f8a998b69846&v=v6#MiriamLibre",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "hebrew",
+    "latin",
+    "latin-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v6",
+  "lastModified": "2019-07-16",
+  "popularity": 352,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "hebrew": false,
+    "latin": true,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin"
+}

@@ -1,0 +1,103 @@
+{
+  "id": "rajdhani",
+  "family": "Rajdhani",
+  "variants": [
+    {
+      "id": "300",
+      "woff": "https://fonts.gstatic.com/s/rajdhani/v9/LDI2apCSOBg7S-QT7pasEfOleeE.woff",
+      "fontFamily": "'Rajdhani'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "local": [
+        "Rajdhani Light",
+        "Rajdhani-Light"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/rajdhani/v9/LDI2apCSOBg7S-QT7pasEfOleeI.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=LDI2apCSOBg7S-QT7pasEfOleeA&skey=d525f62b6050085b&v=v9#Rajdhani",
+      "eot": "https://fonts.gstatic.com/s/rajdhani/v9/LDI2apCSOBg7S-QT7pasEfOleeM.eot",
+      "woff2": "https://fonts.gstatic.com/s/rajdhani/v9/LDI2apCSOBg7S-QT7pasEfOleec.woff2",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "ttf": "https://fonts.gstatic.com/s/rajdhani/v9/LDIxapCSOBg7S-QT7p4JM-M.ttf",
+      "fontFamily": "'Rajdhani'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Rajdhani Regular",
+        "Rajdhani-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/rajdhani/v9/LDIxapCSOBg7S-QT7p4JM-Y.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=LDIxapCSOBg7S-QT7p4JM-E&skey=2a58cb2a05429b83&v=v9#Rajdhani",
+      "eot": "https://fonts.gstatic.com/s/rajdhani/v9/LDIxapCSOBg7S-QT7p4JM-I.eot",
+      "woff": "https://fonts.gstatic.com/s/rajdhani/v9/LDIxapCSOBg7S-QT7p4JM-A.woff",
+      "errored": false
+    },
+    {
+      "id": "500",
+      "svg": "https://fonts.gstatic.com/l/font?kit=LDI2apCSOBg7S-QT7pb0EPOleeA&skey=74a1e835cd8e18f4&v=v9#Rajdhani",
+      "fontFamily": "'Rajdhani'",
+      "fontStyle": "normal",
+      "fontWeight": "500",
+      "local": [
+        "Rajdhani Medium",
+        "Rajdhani-Medium"
+      ],
+      "woff": "https://fonts.gstatic.com/s/rajdhani/v9/LDI2apCSOBg7S-QT7pb0EPOleeE.woff",
+      "woff2": "https://fonts.gstatic.com/s/rajdhani/v9/LDI2apCSOBg7S-QT7pb0EPOleec.woff2",
+      "ttf": "https://fonts.gstatic.com/s/rajdhani/v9/LDI2apCSOBg7S-QT7pb0EPOleeI.ttf",
+      "eot": "https://fonts.gstatic.com/s/rajdhani/v9/LDI2apCSOBg7S-QT7pb0EPOleeM.eot",
+      "errored": false
+    },
+    {
+      "id": "600",
+      "woff": "https://fonts.gstatic.com/s/rajdhani/v9/LDI2apCSOBg7S-QT7pbYF_OleeE.woff",
+      "fontFamily": "'Rajdhani'",
+      "fontStyle": "normal",
+      "fontWeight": "600",
+      "local": [
+        "Rajdhani SemiBold",
+        "Rajdhani-SemiBold"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/rajdhani/v9/LDI2apCSOBg7S-QT7pbYF_OleeI.ttf",
+      "woff2": "https://fonts.gstatic.com/s/rajdhani/v9/LDI2apCSOBg7S-QT7pbYF_Oleec.woff2",
+      "eot": "https://fonts.gstatic.com/s/rajdhani/v9/LDI2apCSOBg7S-QT7pbYF_OleeM.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=LDI2apCSOBg7S-QT7pbYF_OleeA&skey=d9fd2c812bccb92a&v=v9#Rajdhani",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff": "https://fonts.gstatic.com/s/rajdhani/v9/LDI2apCSOBg7S-QT7pa8FvOleeE.woff",
+      "fontFamily": "'Rajdhani'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Rajdhani Bold",
+        "Rajdhani-Bold"
+      ],
+      "eot": "https://fonts.gstatic.com/s/rajdhani/v9/LDI2apCSOBg7S-QT7pa8FvOleeM.eot",
+      "woff2": "https://fonts.gstatic.com/s/rajdhani/v9/LDI2apCSOBg7S-QT7pa8FvOleec.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=LDI2apCSOBg7S-QT7pa8FvOleeA&skey=62da9ba9ee2528b4&v=v9#Rajdhani",
+      "ttf": "https://fonts.gstatic.com/s/rajdhani/v9/LDI2apCSOBg7S-QT7pa8FvOleeI.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "devanagari",
+    "latin-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v9",
+  "lastModified": "2019-07-17",
+  "popularity": 102,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "devanagari": false,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin"
+}

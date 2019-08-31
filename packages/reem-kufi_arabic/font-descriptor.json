@@ -1,0 +1,37 @@
+{
+  "id": "reem-kufi",
+  "family": "Reem Kufi",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/reemkufi/v7/2sDcZGJLip7W2J7v7wQzbWW5.woff2",
+      "fontFamily": "'Reem Kufi'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Reem Kufi Regular",
+        "ReemKufi-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/reemkufi/v7/2sDcZGJLip7W2J7v7wQzbWW9.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=2sDcZGJLip7W2J7v7wQzbWW-&skey=b342e03de63f62b0&v=v7#ReemKufi",
+      "woff": "https://fonts.gstatic.com/s/reemkufi/v7/2sDcZGJLip7W2J7v7wQzbWW_.woff",
+      "ttf": "https://fonts.gstatic.com/s/reemkufi/v7/2sDcZGJLip7W2J7v7wQzbWW8.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "arabic"
+  ],
+  "category": "sans-serif",
+  "version": "v7",
+  "lastModified": "2019-07-16",
+  "popularity": 310,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "arabic": true
+  },
+  "storeID": "arabic_latin"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "oranienbaum",
+  "family": "Oranienbaum",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/oranienbaum/v8/OZpHg_txtzZKMuXLIVrx-0zk5E0.woff2",
+      "fontFamily": "'Oranienbaum'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Oranienbaum",
+        "Oranienbaum-Regular"
+      ],
+      "woff": "https://fonts.gstatic.com/s/oranienbaum/v8/OZpHg_txtzZKMuXLIVrx-0zk5Es.woff",
+      "eot": "https://fonts.gstatic.com/s/oranienbaum/v8/OZpHg_txtzZKMuXLIVrx-0zk5Ek.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=OZpHg_txtzZKMuXLIVrx-0zk5Eo&skey=2b188dc93b25e0f1&v=v8#Oranienbaum",
+      "ttf": "https://fonts.gstatic.com/s/oranienbaum/v8/OZpHg_txtzZKMuXLIVrx-0zk5Eg.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "cyrillic",
+    "cyrillic-ext"
+  ],
+  "category": "serif",
+  "version": "v8",
+  "lastModified": "2019-07-16",
+  "popularity": 327,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false,
+    "cyrillic": true,
+    "cyrillic-ext": false
+  },
+  "storeID": "cyrillic_latin"
+}

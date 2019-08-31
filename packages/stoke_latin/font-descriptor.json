@@ -1,0 +1,53 @@
+{
+  "id": "stoke",
+  "family": "Stoke",
+  "variants": [
+    {
+      "id": "300",
+      "woff": "https://fonts.gstatic.com/s/stoke/v9/z7NXdRb7aTMfKNvFVjxF9J8.woff",
+      "fontFamily": "'Stoke'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "local": [
+        "Stoke Light",
+        "Stoke-Light"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/stoke/v9/z7NXdRb7aTMfKNvFVjxF9Jw.ttf",
+      "woff2": "https://fonts.gstatic.com/s/stoke/v9/z7NXdRb7aTMfKNvFVjxF9Jk.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=z7NXdRb7aTMfKNvFVjxF9J4&skey=b6de22c5327d9a8a&v=v9#Stoke",
+      "eot": "https://fonts.gstatic.com/s/stoke/v9/z7NXdRb7aTMfKNvFVjxF9J0.eot",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "svg": "https://fonts.gstatic.com/l/font?kit=z7NadRb7aTMfKNNudC4&skey=7319a5348dd78968&v=v9#Stoke",
+      "fontFamily": "'Stoke'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Stoke Regular",
+        "Stoke-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/stoke/v9/z7NadRb7aTMfKNNudCk.woff2",
+      "eot": "https://fonts.gstatic.com/s/stoke/v9/z7NadRb7aTMfKNNudC0.eot",
+      "woff": "https://fonts.gstatic.com/s/stoke/v9/z7NadRb7aTMfKNNudC8.woff",
+      "ttf": "https://fonts.gstatic.com/s/stoke/v9/z7NadRb7aTMfKNNudCw.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "serif",
+  "version": "v9",
+  "lastModified": "2019-07-16",
+  "popularity": 716,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

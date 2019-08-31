@@ -1,0 +1,39 @@
+{
+  "id": "suez-one",
+  "family": "Suez One",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/suezone/v4/taiJGmd_EZ6rqscQgOFOmos.woff2",
+      "fontFamily": "'Suez One'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Suez One",
+        "SuezOne-Regular"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=taiJGmd_EZ6rqscQgOFOmow&skey=a3d33a5913ab03db&v=v4#SuezOne",
+      "woff": "https://fonts.gstatic.com/s/suezone/v4/taiJGmd_EZ6rqscQgOFOmo0.woff",
+      "eot": "https://fonts.gstatic.com/s/suezone/v4/taiJGmd_EZ6rqscQgOFOmo8.eot",
+      "ttf": "https://fonts.gstatic.com/s/suezone/v4/taiJGmd_EZ6rqscQgOFOmo4.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "hebrew",
+    "latin",
+    "latin-ext"
+  ],
+  "category": "serif",
+  "version": "v4",
+  "lastModified": "2019-07-16",
+  "popularity": 436,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "hebrew": false,
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

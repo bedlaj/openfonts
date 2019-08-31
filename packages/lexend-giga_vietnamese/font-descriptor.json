@@ -1,0 +1,39 @@
+{
+  "id": "lexend-giga",
+  "family": "Lexend Giga",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/lexendgiga/v1/PlI5Fl67Mah5Y8yMHE7lkWxMvcc.woff",
+      "fontFamily": "'Lexend Giga'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Lexend Giga Regular",
+        "LexendGiga-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/lexendgiga/v1/PlI5Fl67Mah5Y8yMHE7lkWxMvcE.woff2",
+      "eot": "https://fonts.gstatic.com/s/lexendgiga/v1/PlI5Fl67Mah5Y8yMHE7lkWxMvcU.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=PlI5Fl67Mah5Y8yMHE7lkWxMvcY&skey=3b4ae910ad54d6e5&v=v1#LexendGiga",
+      "ttf": "https://fonts.gstatic.com/s/lexendgiga/v1/PlI5Fl67Mah5Y8yMHE7lkWxMvcQ.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "vietnamese",
+    "latin",
+    "latin-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v1",
+  "lastModified": "2019-08-14",
+  "popularity": 938,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "vietnamese": true,
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin_vietnamese"
+}

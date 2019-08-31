@@ -1,0 +1,37 @@
+{
+  "id": "song-myung",
+  "family": "Song Myung",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/songmyung/v8/1cX2aUDWAJH5-EIC7DIhn1yghA.woff2",
+      "fontFamily": "'Song Myung'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Song Myung Regular",
+        "SongMyung-Regular"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/songmyung/v8/1cX2aUDWAJH5-EIC7DIhn1yggQ.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=1cX2aUDWAJH5-EIC7DIhn1yggw&skey=efeaf890a052c086&v=v8#SongMyung",
+      "woff": "https://fonts.gstatic.com/s/songmyung/v8/1cX2aUDWAJH5-EIC7DIhn1yggg.woff",
+      "eot": "https://fonts.gstatic.com/s/songmyung/v8/1cX2aUDWAJH5-EIC7DIhn1yggA.eot",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "korean",
+    "latin"
+  ],
+  "category": "serif",
+  "version": "v8",
+  "lastModified": "2019-07-16",
+  "popularity": 784,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "korean": true,
+    "latin": true
+  },
+  "storeID": "latin_korean"
+}

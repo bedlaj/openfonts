@@ -1,0 +1,83 @@
+{
+  "id": "orbitron",
+  "family": "Orbitron",
+  "variants": [
+    {
+      "id": "regular",
+      "svg": "https://fonts.gstatic.com/l/font?kit=yMJRMIlzdpvBhQQL_Qq7dyo&skey=1145794a0c86a867&v=v11#Orbitron",
+      "fontFamily": "'Orbitron'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Orbitron Regular",
+        "Orbitron-Regular"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/orbitron/v11/yMJRMIlzdpvBhQQL_Qq7dyg.ttf",
+      "woff": "https://fonts.gstatic.com/s/orbitron/v11/yMJRMIlzdpvBhQQL_Qq7dys.woff",
+      "woff2": "https://fonts.gstatic.com/s/orbitron/v11/yMJRMIlzdpvBhQQL_Qq7dy0.woff2",
+      "eot": "https://fonts.gstatic.com/s/orbitron/v11/yMJRMIlzdpvBhQQL_Qq7dyk.eot",
+      "errored": false
+    },
+    {
+      "id": "500",
+      "ttf": "https://fonts.gstatic.com/s/orbitron/v11/yMJWMIlzdpvBhQQL_QJIVDh2qtU.ttf",
+      "fontFamily": "'Orbitron'",
+      "fontStyle": "normal",
+      "fontWeight": "500",
+      "local": [
+        "Orbitron Medium",
+        "Orbitron-Medium"
+      ],
+      "woff": "https://fonts.gstatic.com/s/orbitron/v11/yMJWMIlzdpvBhQQL_QJIVDh2qtY.woff",
+      "woff2": "https://fonts.gstatic.com/s/orbitron/v11/yMJWMIlzdpvBhQQL_QJIVDh2qtA.woff2",
+      "eot": "https://fonts.gstatic.com/s/orbitron/v11/yMJWMIlzdpvBhQQL_QJIVDh2qtQ.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=yMJWMIlzdpvBhQQL_QJIVDh2qtc&skey=d89bb1686e275486&v=v11#Orbitron",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff": "https://fonts.gstatic.com/s/orbitron/v11/yMJWMIlzdpvBhQQL_QIAUjh2qtY.woff",
+      "fontFamily": "'Orbitron'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Orbitron Bold",
+        "Orbitron-Bold"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=yMJWMIlzdpvBhQQL_QIAUjh2qtc&skey=f89ee56434cac285&v=v11#Orbitron",
+      "eot": "https://fonts.gstatic.com/s/orbitron/v11/yMJWMIlzdpvBhQQL_QIAUjh2qtQ.eot",
+      "woff2": "https://fonts.gstatic.com/s/orbitron/v11/yMJWMIlzdpvBhQQL_QIAUjh2qtA.woff2",
+      "ttf": "https://fonts.gstatic.com/s/orbitron/v11/yMJWMIlzdpvBhQQL_QIAUjh2qtU.ttf",
+      "errored": false
+    },
+    {
+      "id": "900",
+      "woff2": "https://fonts.gstatic.com/s/orbitron/v11/yMJWMIlzdpvBhQQL_QI4UDh2qtA.woff2",
+      "fontFamily": "'Orbitron'",
+      "fontStyle": "normal",
+      "fontWeight": "900",
+      "local": [
+        "Orbitron Black",
+        "Orbitron-Black"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=yMJWMIlzdpvBhQQL_QI4UDh2qtc&skey=2ac1083493ce90b9&v=v11#Orbitron",
+      "eot": "https://fonts.gstatic.com/s/orbitron/v11/yMJWMIlzdpvBhQQL_QI4UDh2qtQ.eot",
+      "woff": "https://fonts.gstatic.com/s/orbitron/v11/yMJWMIlzdpvBhQQL_QI4UDh2qtY.woff",
+      "ttf": "https://fonts.gstatic.com/s/orbitron/v11/yMJWMIlzdpvBhQQL_QI4UDh2qtU.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "category": "sans-serif",
+  "version": "v11",
+  "lastModified": "2019-07-17",
+  "popularity": 138,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true
+  },
+  "storeID": "latin"
+}

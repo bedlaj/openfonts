@@ -1,0 +1,89 @@
+{
+  "id": "thasadith",
+  "family": "Thasadith",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/thasadith/v3/mtG44_1TIqPYrd_f5R1YtQ.woff2",
+      "fontFamily": "'Thasadith'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Thasadith Regular",
+        "Thasadith-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/thasadith/v3/mtG44_1TIqPYrd_f5R1YsQ.eot",
+      "woff": "https://fonts.gstatic.com/s/thasadith/v3/mtG44_1TIqPYrd_f5R1Ysw.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=mtG44_1TIqPYrd_f5R1Ysg&skey=7f43ff5c97e86372&v=v3#Thasadith",
+      "ttf": "https://fonts.gstatic.com/s/thasadith/v3/mtG44_1TIqPYrd_f5R1YsA.ttf",
+      "errored": false
+    },
+    {
+      "id": "700italic",
+      "eot": "https://fonts.gstatic.com/s/thasadith/v3/mtGj4_1TIqPYrd_f5R1osnus3QS3.eot",
+      "fontFamily": "'Thasadith'",
+      "fontStyle": "italic",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/thasadith/v3/mtGj4_1TIqPYrd_f5R1osnus3QS1.woff",
+      "local": [
+        "Thasadith Bold Italic",
+        "Thasadith-BoldItalic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/thasadith/v3/mtGj4_1TIqPYrd_f5R1osnus3QSz.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=mtGj4_1TIqPYrd_f5R1osnus3QS0&skey=32cfad6c937f7ac0&v=v3#Thasadith",
+      "ttf": "https://fonts.gstatic.com/s/thasadith/v3/mtGj4_1TIqPYrd_f5R1osnus3QS2.ttf",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "eot": "https://fonts.gstatic.com/s/thasadith/v3/mtG-4_1TIqPYrd_f5R1oskMR.eot",
+      "fontFamily": "'Thasadith'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/thasadith/v3/mtG-4_1TIqPYrd_f5R1oskMT.woff",
+      "local": [
+        "Thasadith Italic",
+        "Thasadith-Italic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/thasadith/v3/mtG-4_1TIqPYrd_f5R1oskMV.woff2",
+      "ttf": "https://fonts.gstatic.com/s/thasadith/v3/mtG-4_1TIqPYrd_f5R1oskMQ.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=mtG-4_1TIqPYrd_f5R1oskMS&skey=c7119289931eea6&v=v3#Thasadith",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff": "https://fonts.gstatic.com/s/thasadith/v3/mtG94_1TIqPYrd_f5R1gDGYw2w.woff",
+      "fontFamily": "'Thasadith'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Thasadith Bold",
+        "Thasadith-Bold"
+      ],
+      "eot": "https://fonts.gstatic.com/s/thasadith/v3/mtG94_1TIqPYrd_f5R1gDGYw2Q.eot",
+      "woff2": "https://fonts.gstatic.com/s/thasadith/v3/mtG94_1TIqPYrd_f5R1gDGYw3Q.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=mtG94_1TIqPYrd_f5R1gDGYw2g&skey=d3b0fa7e2954bfff&v=v3#Thasadith",
+      "ttf": "https://fonts.gstatic.com/s/thasadith/v3/mtG94_1TIqPYrd_f5R1gDGYw2A.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "vietnamese",
+    "latin",
+    "latin-ext",
+    "thai"
+  ],
+  "category": "sans-serif",
+  "version": "v3",
+  "lastModified": "2019-07-16",
+  "popularity": 770,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "vietnamese": true,
+    "latin": true,
+    "latin-ext": true,
+    "thai": true
+  },
+  "storeID": "thai_latin-ext_latin_vietnamese"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "bangers",
+  "family": "Bangers",
+  "variants": [
+    {
+      "id": "regular",
+      "ttf": "https://fonts.gstatic.com/s/bangers/v12/FeVQS0BTqb0h60ACH5BQ3Q.ttf",
+      "fontFamily": "'Bangers'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Bangers Regular",
+        "Bangers-Regular"
+      ],
+      "woff": "https://fonts.gstatic.com/s/bangers/v12/FeVQS0BTqb0h60ACH5BQ3g.woff",
+      "woff2": "https://fonts.gstatic.com/s/bangers/v12/FeVQS0BTqb0h60ACH5BQ2A.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=FeVQS0BTqb0h60ACH5BQ3w&skey=80f504448509eaf7&v=v12#Bangers",
+      "eot": "https://fonts.gstatic.com/s/bangers/v12/FeVQS0BTqb0h60ACH5BQ3A.eot",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "vietnamese",
+    "latin",
+    "latin-ext"
+  ],
+  "category": "display",
+  "version": "v12",
+  "lastModified": "2019-07-16",
+  "popularity": 151,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "vietnamese": false,
+    "latin": true,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "nanum-gothic-coding",
+  "family": "Nanum Gothic Coding",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/nanumgothiccoding/v14/8QIVdjzHisX_8vv59_xMxtPFW4IXROws-6k7Vw.woff2",
+      "fontFamily": "'Nanum Gothic Coding'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "NanumGothicCoding"
+      ],
+      "woff": "https://fonts.gstatic.com/s/nanumgothiccoding/v14/8QIVdjzHisX_8vv59_xMxtPFW4IXROws-6k7UQ.woff",
+      "eot": "https://fonts.gstatic.com/s/nanumgothiccoding/v14/8QIVdjzHisX_8vv59_xMxtPFW4IXROws-6k7Uw.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=8QIVdjzHisX_8vv59_xMxtPFW4IXROws-6k7UA&skey=252a63b28c363963&v=v14#NanumGothicCoding",
+      "ttf": "https://fonts.gstatic.com/s/nanumgothiccoding/v14/8QIVdjzHisX_8vv59_xMxtPFW4IXROws-6k7Ug.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/nanumgothiccoding/v14/8QIYdjzHisX_8vv59_xMxtPFW4IXROws8xgeQsh29w.eot",
+      "fontFamily": "'Nanum Gothic Coding'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "svg": "https://fonts.gstatic.com/l/font?kit=8QIYdjzHisX_8vv59_xMxtPFW4IXROws8xgeQsh29A&skey=5068284840382792&v=v14#NanumGothicCoding",
+      "local": [
+        "NanumGothicCoding-Bold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/nanumgothiccoding/v14/8QIYdjzHisX_8vv59_xMxtPFW4IXROws8xgeQsh28w.woff2",
+      "woff": "https://fonts.gstatic.com/s/nanumgothiccoding/v14/8QIYdjzHisX_8vv59_xMxtPFW4IXROws8xgeQsh29Q.woff",
+      "ttf": "https://fonts.gstatic.com/s/nanumgothiccoding/v14/8QIYdjzHisX_8vv59_xMxtPFW4IXROws8xgeQsh29g.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "korean",
+    "latin"
+  ],
+  "category": "monospace",
+  "version": "v14",
+  "lastModified": "2019-07-16",
+  "popularity": 268,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "korean": true,
+    "latin": true
+  },
+  "storeID": "latin_korean"
+}

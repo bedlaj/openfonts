@@ -1,0 +1,83 @@
+{
+  "id": "rosario",
+  "family": "Rosario",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/rosario/v14/xfux0WDhWW_fOEoY2FP9yw.woff",
+      "fontFamily": "'Rosario'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Rosario",
+        "Rosario-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/rosario/v14/xfux0WDhWW_fOEoY2FP9zQ.woff2",
+      "ttf": "https://fonts.gstatic.com/s/rosario/v14/xfux0WDhWW_fOEoY2FP9yA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=xfux0WDhWW_fOEoY2FP9yg&skey=227e390dd4e339b4&v=v14#Rosario",
+      "eot": "https://fonts.gstatic.com/s/rosario/v14/xfux0WDhWW_fOEoY2FP9yQ.eot",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "woff2": "https://fonts.gstatic.com/s/rosario/v14/xfuz0WDhWW_fOEoY2FbNzybH.woff2",
+      "fontFamily": "'Rosario'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "local": [
+        "Rosario Italic",
+        "Rosario-Italic"
+      ],
+      "eot": "https://fonts.gstatic.com/s/rosario/v14/xfuz0WDhWW_fOEoY2FbNzybD.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=xfuz0WDhWW_fOEoY2FbNzybA&skey=8e340f40751ab882&v=v14#Rosario",
+      "woff": "https://fonts.gstatic.com/s/rosario/v14/xfuz0WDhWW_fOEoY2FbNzybB.woff",
+      "ttf": "https://fonts.gstatic.com/s/rosario/v14/xfuz0WDhWW_fOEoY2FbNzybC.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff": "https://fonts.gstatic.com/s/rosario/v14/xfu00WDhWW_fOEoY0OjY2AHivw.woff",
+      "fontFamily": "'Rosario'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Rosario Bold",
+        "Rosario-Bold"
+      ],
+      "eot": "https://fonts.gstatic.com/s/rosario/v14/xfu00WDhWW_fOEoY0OjY2AHivQ.eot",
+      "woff2": "https://fonts.gstatic.com/s/rosario/v14/xfu00WDhWW_fOEoY0OjY2AHiuQ.woff2",
+      "ttf": "https://fonts.gstatic.com/s/rosario/v14/xfu00WDhWW_fOEoY0OjY2AHivA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=xfu00WDhWW_fOEoY0OjY2AHivg&skey=9b0fd296d8e48ef4&v=v14#Rosario",
+      "errored": false
+    },
+    {
+      "id": "700italic",
+      "woff": "https://fonts.gstatic.com/s/rosario/v14/xfu20WDhWW_fOEoY2FbFdAPSu5_Z.woff",
+      "fontFamily": "'Rosario'",
+      "fontStyle": "italic",
+      "fontWeight": "700",
+      "local": [
+        "Rosario Bold Italic",
+        "Rosario-BoldItalic"
+      ],
+      "eot": "https://fonts.gstatic.com/s/rosario/v14/xfu20WDhWW_fOEoY2FbFdAPSu5_b.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=xfu20WDhWW_fOEoY2FbFdAPSu5_Y&skey=b5e605f567c37962&v=v14#Rosario",
+      "woff2": "https://fonts.gstatic.com/s/rosario/v14/xfu20WDhWW_fOEoY2FbFdAPSu5_f.woff2",
+      "ttf": "https://fonts.gstatic.com/s/rosario/v14/xfu20WDhWW_fOEoY2FbFdAPSu5_a.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "category": "sans-serif",
+  "version": "v14",
+  "lastModified": "2019-07-16",
+  "popularity": 399,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true
+  },
+  "storeID": "latin"
+}

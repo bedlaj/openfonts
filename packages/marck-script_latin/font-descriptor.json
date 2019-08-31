@@ -1,0 +1,39 @@
+{
+  "id": "marck-script",
+  "family": "Marck Script",
+  "variants": [
+    {
+      "id": "regular",
+      "svg": "https://fonts.gstatic.com/l/font?kit=nwpTtK2oNgBA3Or78gapdwuyyCg4&skey=5f8a9188ebf1b8e9&v=v10#MarckScript",
+      "fontFamily": "'Marck Script'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Marck Script",
+        "MarckScript-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/marckscript/v10/nwpTtK2oNgBA3Or78gapdwuyyCg_.woff2",
+      "woff": "https://fonts.gstatic.com/s/marckscript/v10/nwpTtK2oNgBA3Or78gapdwuyyCg5.woff",
+      "ttf": "https://fonts.gstatic.com/s/marckscript/v10/nwpTtK2oNgBA3Or78gapdwuyyCg6.ttf",
+      "eot": "https://fonts.gstatic.com/s/marckscript/v10/nwpTtK2oNgBA3Or78gapdwuyyCg7.eot",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "cyrillic"
+  ],
+  "category": "handwriting",
+  "version": "v10",
+  "lastModified": "2019-07-16",
+  "popularity": 191,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false,
+    "cyrillic": false
+  },
+  "storeID": "latin"
+}

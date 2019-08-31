@@ -1,0 +1,37 @@
+{
+  "id": "sarina",
+  "family": "Sarina",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/sarina/v8/-F6wfjF3ITQwasLRKUrT.woff",
+      "fontFamily": "'Sarina'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Sarina",
+        "Sarina-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/sarina/v8/-F6wfjF3ITQwasLRKUrV.woff2",
+      "ttf": "https://fonts.gstatic.com/s/sarina/v8/-F6wfjF3ITQwasLRKUrQ.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=-F6wfjF3ITQwasLRKUrS&skey=de006debaa5dc73f&v=v8#Sarina",
+      "eot": "https://fonts.gstatic.com/s/sarina/v8/-F6wfjF3ITQwasLRKUrR.eot",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "display",
+  "version": "v8",
+  "lastModified": "2019-07-16",
+  "popularity": 694,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

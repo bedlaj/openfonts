@@ -1,0 +1,35 @@
+{
+  "id": "nova-slim",
+  "family": "Nova Slim",
+  "variants": [
+    {
+      "id": "regular",
+      "ttf": "https://fonts.gstatic.com/s/novaslim/v11/Z9XUDmZNQAuem8jyZcnOz8mM.ttf",
+      "fontFamily": "'Nova Slim'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Nova Slim",
+        "NovaSlim"
+      ],
+      "woff": "https://fonts.gstatic.com/s/novaslim/v11/Z9XUDmZNQAuem8jyZcnOz8mP.woff",
+      "eot": "https://fonts.gstatic.com/s/novaslim/v11/Z9XUDmZNQAuem8jyZcnOz8mN.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Z9XUDmZNQAuem8jyZcnOz8mO&skey=bc1efc70722f8a4b&v=v11#NovaSlim",
+      "woff2": "https://fonts.gstatic.com/s/novaslim/v11/Z9XUDmZNQAuem8jyZcnOz8mJ.woff2",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "category": "display",
+  "version": "v11",
+  "lastModified": "2019-07-16",
+  "popularity": 702,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true
+  },
+  "storeID": "latin"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "geo",
+  "family": "Geo",
+  "variants": [
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/geo/v11/CSRz4zRZluflKHpj.eot",
+      "fontFamily": "'Geo'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "ttf": "https://fonts.gstatic.com/s/geo/v11/CSRz4zRZluflKHpi.ttf",
+      "local": [
+        "Geo",
+        "Geo-Regular"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=CSRz4zRZluflKHpg&skey=417aad24c5ef650a&v=v11#Geo",
+      "woff": "https://fonts.gstatic.com/s/geo/v11/CSRz4zRZluflKHph.woff",
+      "woff2": "https://fonts.gstatic.com/s/geo/v11/CSRz4zRZluflKHpn.woff2",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "ttf": "https://fonts.gstatic.com/s/geo/v11/CSRx4zRZluflLUplajg.ttf",
+      "fontFamily": "'Geo'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "local": [
+        "Geo Oblique",
+        "Geo-Oblique"
+      ],
+      "woff": "https://fonts.gstatic.com/s/geo/v11/CSRx4zRZluflLUplajs.woff",
+      "woff2": "https://fonts.gstatic.com/s/geo/v11/CSRx4zRZluflLUplaj0.woff2",
+      "eot": "https://fonts.gstatic.com/s/geo/v11/CSRx4zRZluflLUplajk.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=CSRx4zRZluflLUplajo&skey=d62ed86780b06e0&v=v11#Geo",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "category": "sans-serif",
+  "version": "v11",
+  "lastModified": "2019-07-16",
+  "popularity": 632,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true
+  },
+  "storeID": "latin"
+}

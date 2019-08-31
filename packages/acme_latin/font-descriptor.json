@@ -1,0 +1,35 @@
+{
+  "id": "acme",
+  "family": "Acme",
+  "variants": [
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/acme/v9/RrQfboBx-C5_XxrBag.eot",
+      "fontFamily": "'Acme'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/acme/v9/RrQfboBx-C5_XxrBaA.woff",
+      "local": [
+        "Acme Regular",
+        "Acme-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/acme/v9/RrQfboBx-C5_XxrBbg.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=RrQfboBx-C5_XxrBaQ&skey=dcf71eb6104dcefb&v=v9#Acme",
+      "ttf": "https://fonts.gstatic.com/s/acme/v9/RrQfboBx-C5_XxrBaw.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "category": "sans-serif",
+  "version": "v9",
+  "lastModified": "2019-07-17",
+  "popularity": 77,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true
+  },
+  "storeID": "latin"
+}

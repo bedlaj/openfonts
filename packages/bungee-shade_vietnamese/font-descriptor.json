@@ -1,0 +1,39 @@
+{
+  "id": "bungee-shade",
+  "family": "Bungee Shade",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/bungeeshade/v5/DtVkJxarWL0t2KdzK3oI_jkc5ijT.woff2",
+      "fontFamily": "'Bungee Shade'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Bungee Shade",
+        "BungeeShade-Regular"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=DtVkJxarWL0t2KdzK3oI_jkc5ijU&skey=fbfaf26ed37f085b&v=v5#BungeeShade",
+      "woff": "https://fonts.gstatic.com/s/bungeeshade/v5/DtVkJxarWL0t2KdzK3oI_jkc5ijV.woff",
+      "eot": "https://fonts.gstatic.com/s/bungeeshade/v5/DtVkJxarWL0t2KdzK3oI_jkc5ijX.eot",
+      "ttf": "https://fonts.gstatic.com/s/bungeeshade/v5/DtVkJxarWL0t2KdzK3oI_jkc5ijW.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "vietnamese",
+    "latin",
+    "latin-ext"
+  ],
+  "category": "display",
+  "version": "v5",
+  "lastModified": "2019-07-16",
+  "popularity": 542,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "vietnamese": true,
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin_vietnamese"
+}

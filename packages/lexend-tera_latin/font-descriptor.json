@@ -1,0 +1,39 @@
+{
+  "id": "lexend-tera",
+  "family": "Lexend Tera",
+  "variants": [
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/lexendtera/v1/RrQUbo98_jt_IXnBPwCWtahHT4Y.eot",
+      "fontFamily": "'Lexend Tera'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/lexendtera/v1/RrQUbo98_jt_IXnBPwCWtahHT4Q.woff",
+      "local": [
+        "Lexend Tera Regular",
+        "LexendTera-Regular"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/lexendtera/v1/RrQUbo98_jt_IXnBPwCWtahHT4c.ttf",
+      "woff2": "https://fonts.gstatic.com/s/lexendtera/v1/RrQUbo98_jt_IXnBPwCWtahHT4I.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=RrQUbo98_jt_IXnBPwCWtahHT4U&skey=509996dde9e9c13b&v=v1#LexendTera",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "vietnamese",
+    "latin",
+    "latin-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v1",
+  "lastModified": "2019-08-14",
+  "popularity": 947,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "vietnamese": false,
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

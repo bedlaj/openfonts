@@ -1,0 +1,45 @@
+{
+  "id": "didact-gothic",
+  "family": "Didact Gothic",
+  "variants": [
+    {
+      "id": "regular",
+      "svg": "https://fonts.gstatic.com/l/font?kit=ahcfv8qz1zt6hCC5G4F_P4ASlU-YoQ&skey=21ea6a7f9674c318&v=v13#DidactGothic",
+      "fontFamily": "'Didact Gothic'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Didact Gothic Regular",
+        "DidactGothic-Regular"
+      ],
+      "woff": "https://fonts.gstatic.com/s/didactgothic/v13/ahcfv8qz1zt6hCC5G4F_P4ASlU-YoA.woff",
+      "ttf": "https://fonts.gstatic.com/s/didactgothic/v13/ahcfv8qz1zt6hCC5G4F_P4ASlU-Yow.ttf",
+      "woff2": "https://fonts.gstatic.com/s/didactgothic/v13/ahcfv8qz1zt6hCC5G4F_P4ASlU-Ypg.woff2",
+      "eot": "https://fonts.gstatic.com/s/didactgothic/v13/ahcfv8qz1zt6hCC5G4F_P4ASlU-Yog.eot",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "greek-ext",
+    "greek",
+    "latin",
+    "latin-ext",
+    "cyrillic",
+    "cyrillic-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v13",
+  "lastModified": "2019-07-17",
+  "popularity": 142,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "greek-ext": false,
+    "greek": false,
+    "latin": true,
+    "latin-ext": false,
+    "cyrillic": true,
+    "cyrillic-ext": false
+  },
+  "storeID": "cyrillic_latin"
+}

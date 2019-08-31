@@ -1,0 +1,41 @@
+{
+  "id": "baloo-paaji",
+  "family": "Baloo Paaji",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/baloopaaji/v6/8AttGsyxM5KQQU-Y4MTwVanbqRo.woff2",
+      "fontFamily": "'Baloo Paaji'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Baloo Paaji Regular",
+        "BalooPaaji-Regular"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=8AttGsyxM5KQQU-Y4MTwVanbqR0&skey=caf630a2319205bb&v=v6#BalooPaaji",
+      "woff": "https://fonts.gstatic.com/s/baloopaaji/v6/8AttGsyxM5KQQU-Y4MTwVanbqRw.woff",
+      "ttf": "https://fonts.gstatic.com/s/baloopaaji/v6/8AttGsyxM5KQQU-Y4MTwVanbqR8.ttf",
+      "eot": "https://fonts.gstatic.com/s/baloopaaji/v6/8AttGsyxM5KQQU-Y4MTwVanbqR4.eot",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "vietnamese",
+    "latin",
+    "gurmukhi",
+    "latin-ext"
+  ],
+  "category": "display",
+  "version": "v6",
+  "lastModified": "2019-07-16",
+  "popularity": 572,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "vietnamese": true,
+    "latin": true,
+    "gurmukhi": false,
+    "latin-ext": false
+  },
+  "storeID": "latin_vietnamese"
+}

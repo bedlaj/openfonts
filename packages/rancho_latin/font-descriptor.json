@@ -1,0 +1,35 @@
+{
+  "id": "rancho",
+  "family": "Rancho",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/rancho/v10/46kulbzmXjLaqZRVam_h.woff2",
+      "fontFamily": "'Rancho'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Rancho Regular",
+        "Rancho-Regular"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/rancho/v10/46kulbzmXjLaqZRVam_k.ttf",
+      "woff": "https://fonts.gstatic.com/s/rancho/v10/46kulbzmXjLaqZRVam_n.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=46kulbzmXjLaqZRVam_m&skey=fd44e98b6c2cd2e8&v=v10#Rancho",
+      "eot": "https://fonts.gstatic.com/s/rancho/v10/46kulbzmXjLaqZRVam_l.eot",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "category": "handwriting",
+  "version": "v10",
+  "lastModified": "2019-07-16",
+  "popularity": 265,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true
+  },
+  "storeID": "latin"
+}

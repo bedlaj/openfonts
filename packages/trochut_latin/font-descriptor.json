@@ -1,0 +1,66 @@
+{
+  "id": "trochut",
+  "family": "Trochut",
+  "variants": [
+    {
+      "id": "regular",
+      "ttf": "https://fonts.gstatic.com/s/trochut/v7/CHyjV-fDDlP9bDIw1nOCeQ.ttf",
+      "fontFamily": "'Trochut'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Trochut"
+      ],
+      "eot": "https://fonts.gstatic.com/s/trochut/v7/CHyjV-fDDlP9bDIw1nOCeA.eot",
+      "woff": "https://fonts.gstatic.com/s/trochut/v7/CHyjV-fDDlP9bDIw1nOCeg.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=CHyjV-fDDlP9bDIw1nOCew&skey=3fd89c97eb3831da&v=v7#Trochut",
+      "woff2": "https://fonts.gstatic.com/s/trochut/v7/CHyjV-fDDlP9bDIw1nOCfA.woff2",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "eot": "https://fonts.gstatic.com/s/trochut/v7/CHyhV-fDDlP9bDIw1nayfnoP.eot",
+      "fontFamily": "'Trochut'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "ttf": "https://fonts.gstatic.com/s/trochut/v7/CHyhV-fDDlP9bDIw1nayfnoO.ttf",
+      "local": [
+        "Trochut Italic",
+        "Trochut-Italic"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=CHyhV-fDDlP9bDIw1nayfnoM&skey=170230b4050d86b1&v=v7#Trochut",
+      "woff": "https://fonts.gstatic.com/s/trochut/v7/CHyhV-fDDlP9bDIw1nayfnoN.woff",
+      "woff2": "https://fonts.gstatic.com/s/trochut/v7/CHyhV-fDDlP9bDIw1nayfnoL.woff2",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/trochut/v7/CHymV-fDDlP9bDIw3sinaV0uNw.eot",
+      "fontFamily": "'Trochut'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff2": "https://fonts.gstatic.com/s/trochut/v7/CHymV-fDDlP9bDIw3sinaV0uMw.woff2",
+      "local": [
+        "Trochut Bold",
+        "Trochut-Bold"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=CHymV-fDDlP9bDIw3sinaV0uNA&skey=e915d5811d643350&v=v7#Trochut",
+      "woff": "https://fonts.gstatic.com/s/trochut/v7/CHymV-fDDlP9bDIw3sinaV0uNQ.woff",
+      "ttf": "https://fonts.gstatic.com/s/trochut/v7/CHymV-fDDlP9bDIw3sinaV0uNg.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "category": "display",
+  "version": "v7",
+  "lastModified": "2019-07-16",
+  "popularity": 855,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true
+  },
+  "storeID": "latin"
+}

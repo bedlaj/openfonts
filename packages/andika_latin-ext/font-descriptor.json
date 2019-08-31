@@ -1,0 +1,43 @@
+{
+  "id": "andika",
+  "family": "Andika",
+  "variants": [
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/andika/v11/mem_Ya6iyW-LwqgwZLYU.eot",
+      "fontFamily": "'Andika'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/andika/v11/mem_Ya6iyW-LwqgwZLYQ.woff2",
+      "local": [
+        "Andika Regular",
+        "Andika-Regular"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/andika/v11/mem_Ya6iyW-LwqgwZLYV.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=mem_Ya6iyW-LwqgwZLYX&skey=c52ba807e15599a0&v=v11#Andika",
+      "woff": "https://fonts.gstatic.com/s/andika/v11/mem_Ya6iyW-LwqgwZLYW.woff",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "vietnamese",
+    "latin",
+    "latin-ext",
+    "cyrillic",
+    "cyrillic-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v11",
+  "lastModified": "2019-07-16",
+  "popularity": 539,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "vietnamese": false,
+    "latin": true,
+    "latin-ext": true,
+    "cyrillic": false,
+    "cyrillic-ext": false
+  },
+  "storeID": "latin-ext_latin"
+}

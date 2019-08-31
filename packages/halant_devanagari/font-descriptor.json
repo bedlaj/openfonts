@@ -1,0 +1,103 @@
+{
+  "id": "halant",
+  "family": "Halant",
+  "variants": [
+    {
+      "id": "300",
+      "woff": "https://fonts.gstatic.com/s/halant/v7/u-490qaujRI2Pbsvc_pynQxt.woff",
+      "fontFamily": "'Halant'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "local": [
+        "Halant Light",
+        "Halant-Light"
+      ],
+      "eot": "https://fonts.gstatic.com/s/halant/v7/u-490qaujRI2Pbsvc_pynQxv.eot",
+      "woff2": "https://fonts.gstatic.com/s/halant/v7/u-490qaujRI2Pbsvc_pynQxr.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=u-490qaujRI2Pbsvc_pynQxs&skey=9ff3b9b305c6e001&v=v7#Halant",
+      "ttf": "https://fonts.gstatic.com/s/halant/v7/u-490qaujRI2Pbsvc_pynQxu.ttf",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/halant/v7/u-4-0qaujRI2Pbsn2dhj.eot",
+      "fontFamily": "'Halant'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "svg": "https://fonts.gstatic.com/l/font?kit=u-4-0qaujRI2Pbsn2dhg&skey=1d23a673749ae7ff&v=v7#Halant",
+      "local": [
+        "Halant Regular",
+        "Halant-Regular"
+      ],
+      "woff": "https://fonts.gstatic.com/s/halant/v7/u-4-0qaujRI2Pbsn2dhh.woff",
+      "ttf": "https://fonts.gstatic.com/s/halant/v7/u-4-0qaujRI2Pbsn2dhi.ttf",
+      "woff2": "https://fonts.gstatic.com/s/halant/v7/u-4-0qaujRI2Pbsn2dhn.woff2",
+      "errored": false
+    },
+    {
+      "id": "500",
+      "eot": "https://fonts.gstatic.com/s/halant/v7/u-490qaujRI2PbsvK_tynQxv.eot",
+      "fontFamily": "'Halant'",
+      "fontStyle": "normal",
+      "fontWeight": "500",
+      "woff": "https://fonts.gstatic.com/s/halant/v7/u-490qaujRI2PbsvK_tynQxt.woff",
+      "local": [
+        "Halant Medium",
+        "Halant-Medium"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/halant/v7/u-490qaujRI2PbsvK_tynQxr.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=u-490qaujRI2PbsvK_tynQxs&skey=156a3c14db18c3e0&v=v7#Halant",
+      "ttf": "https://fonts.gstatic.com/s/halant/v7/u-490qaujRI2PbsvK_tynQxu.ttf",
+      "errored": false
+    },
+    {
+      "id": "600",
+      "eot": "https://fonts.gstatic.com/s/halant/v7/u-490qaujRI2PbsvB_xynQxv.eot",
+      "fontFamily": "'Halant'",
+      "fontStyle": "normal",
+      "fontWeight": "600",
+      "woff": "https://fonts.gstatic.com/s/halant/v7/u-490qaujRI2PbsvB_xynQxt.woff",
+      "local": [
+        "Halant SemiBold",
+        "Halant-SemiBold"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=u-490qaujRI2PbsvB_xynQxs&skey=398f3452b33c6ab0&v=v7#Halant",
+      "woff2": "https://fonts.gstatic.com/s/halant/v7/u-490qaujRI2PbsvB_xynQxr.woff2",
+      "ttf": "https://fonts.gstatic.com/s/halant/v7/u-490qaujRI2PbsvB_xynQxu.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/halant/v7/u-490qaujRI2PbsvY_1ynQxv.eot",
+      "fontFamily": "'Halant'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/halant/v7/u-490qaujRI2PbsvY_1ynQxt.woff",
+      "local": [
+        "Halant Bold",
+        "Halant-Bold"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=u-490qaujRI2PbsvY_1ynQxs&skey=c35b97d69a3e339d&v=v7#Halant",
+      "woff2": "https://fonts.gstatic.com/s/halant/v7/u-490qaujRI2PbsvY_1ynQxr.woff2",
+      "ttf": "https://fonts.gstatic.com/s/halant/v7/u-490qaujRI2PbsvY_1ynQxu.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "devanagari",
+    "latin-ext"
+  ],
+  "category": "serif",
+  "version": "v7",
+  "lastModified": "2019-07-16",
+  "popularity": 382,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "devanagari": true,
+    "latin-ext": false
+  },
+  "storeID": "devanagari_latin"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "baloo-thambi",
+  "family": "Baloo Thambi",
+  "variants": [
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/baloothambi/v5/va9B4kXJzNhTFoA7CYcS8sHeSBf-.eot",
+      "fontFamily": "'Baloo Thambi'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/baloothambi/v5/va9B4kXJzNhTFoA7CYcS8sHeSBf8.woff",
+      "local": [
+        "Baloo Thambi Regular",
+        "BalooThambi-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/baloothambi/v5/va9B4kXJzNhTFoA7CYcS8sHeSBf6.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=va9B4kXJzNhTFoA7CYcS8sHeSBf9&skey=8868b806ee96bb3b&v=v5#BalooThambi",
+      "ttf": "https://fonts.gstatic.com/s/baloothambi/v5/va9B4kXJzNhTFoA7CYcS8sHeSBf_.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "vietnamese",
+    "latin",
+    "latin-ext",
+    "tamil"
+  ],
+  "category": "display",
+  "version": "v5",
+  "lastModified": "2019-07-16",
+  "popularity": 617,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "vietnamese": false,
+    "latin": true,
+    "latin-ext": true,
+    "tamil": false
+  },
+  "storeID": "latin-ext_latin"
+}

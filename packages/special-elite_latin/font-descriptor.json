@@ -1,0 +1,35 @@
+{
+  "id": "special-elite",
+  "family": "Special Elite",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/specialelite/v10/XLYgIZbkc4JPUL5CVArUVL0ntnAOTg.woff",
+      "fontFamily": "'Special Elite'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Special Elite Regular",
+        "SpecialElite-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/specialelite/v10/XLYgIZbkc4JPUL5CVArUVL0ntnAOSA.woff2",
+      "eot": "https://fonts.gstatic.com/s/specialelite/v10/XLYgIZbkc4JPUL5CVArUVL0ntnAOTA.eot",
+      "ttf": "https://fonts.gstatic.com/s/specialelite/v10/XLYgIZbkc4JPUL5CVArUVL0ntnAOTQ.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=XLYgIZbkc4JPUL5CVArUVL0ntnAOTw&skey=8f705625ab986205&v=v10#SpecialElite",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "category": "display",
+  "version": "v10",
+  "lastModified": "2019-07-17",
+  "popularity": 168,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true
+  },
+  "storeID": "latin"
+}

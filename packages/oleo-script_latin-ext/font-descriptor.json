@@ -1,0 +1,53 @@
+{
+  "id": "oleo-script",
+  "family": "Oleo Script",
+  "variants": [
+    {
+      "id": "regular",
+      "ttf": "https://fonts.gstatic.com/s/oleoscript/v8/rax5HieDvtMOe0iICsUccChTu0o.ttf",
+      "fontFamily": "'Oleo Script'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Oleo Script",
+        "OleoScript-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/oleoscript/v8/rax5HieDvtMOe0iICsUccChTu0s.eot",
+      "woff2": "https://fonts.gstatic.com/s/oleoscript/v8/rax5HieDvtMOe0iICsUccChTu08.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=rax5HieDvtMOe0iICsUccChTu0g&skey=d18666d540079220&v=v8#OleoScript",
+      "woff": "https://fonts.gstatic.com/s/oleoscript/v8/rax5HieDvtMOe0iICsUccChTu0k.woff",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff": "https://fonts.gstatic.com/s/oleoscript/v8/raxkHieDvtMOe0iICsUccCDmnlrR0T0.woff",
+      "fontFamily": "'Oleo Script'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Oleo Script Bold",
+        "OleoScript-Bold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/oleoscript/v8/raxkHieDvtMOe0iICsUccCDmnlrR0Ts.woff2",
+      "ttf": "https://fonts.gstatic.com/s/oleoscript/v8/raxkHieDvtMOe0iICsUccCDmnlrR0T4.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=raxkHieDvtMOe0iICsUccCDmnlrR0Tw&skey=425bc780e3a5e191&v=v8#OleoScript",
+      "eot": "https://fonts.gstatic.com/s/oleoscript/v8/raxkHieDvtMOe0iICsUccCDmnlrR0T8.eot",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "display",
+  "version": "v8",
+  "lastModified": "2019-07-16",
+  "popularity": 243,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin"
+}

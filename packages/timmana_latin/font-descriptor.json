@@ -1,0 +1,36 @@
+{
+  "id": "timmana",
+  "family": "Timmana",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/timmana/v4/6xKvdShfL9yK-rvpOmzRKQ.woff2",
+      "fontFamily": "'Timmana'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Timmana"
+      ],
+      "eot": "https://fonts.gstatic.com/s/timmana/v4/6xKvdShfL9yK-rvpOmzRLQ.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=6xKvdShfL9yK-rvpOmzRLg&skey=909c473ed6ecde4d&v=v4#Timmana",
+      "ttf": "https://fonts.gstatic.com/s/timmana/v4/6xKvdShfL9yK-rvpOmzRLA.ttf",
+      "woff": "https://fonts.gstatic.com/s/timmana/v4/6xKvdShfL9yK-rvpOmzRLw.woff",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "telugu",
+    "latin"
+  ],
+  "category": "sans-serif",
+  "version": "v4",
+  "lastModified": "2019-07-16",
+  "popularity": 565,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "telugu": false,
+    "latin": true
+  },
+  "storeID": "latin"
+}

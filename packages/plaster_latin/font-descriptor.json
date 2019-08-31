@@ -1,0 +1,37 @@
+{
+  "id": "plaster",
+  "family": "Plaster",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/plaster/v11/DdTm79QatW80eRh4IilDPQ.woff",
+      "fontFamily": "'Plaster'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Plaster",
+        "Plaster-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/plaster/v11/DdTm79QatW80eRh4IilDOw.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=DdTm79QatW80eRh4IilDPA&skey=6748ccde38e8a5e5&v=v11#Plaster",
+      "eot": "https://fonts.gstatic.com/s/plaster/v11/DdTm79QatW80eRh4IilDPw.eot",
+      "ttf": "https://fonts.gstatic.com/s/plaster/v11/DdTm79QatW80eRh4IilDPg.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "display",
+  "version": "v11",
+  "lastModified": "2019-07-16",
+  "popularity": 743,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

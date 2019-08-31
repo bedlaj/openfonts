@@ -1,0 +1,89 @@
+{
+  "id": "lemonada",
+  "family": "Lemonada",
+  "variants": [
+    {
+      "id": "300",
+      "ttf": "https://fonts.gstatic.com/s/lemonada/v7/0QIkMXFD9oygTWy_R8PineGp07w.ttf",
+      "fontFamily": "'Lemonada'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "local": [
+        "Lemonada Light",
+        "Lemonada-Light"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/lemonada/v7/0QIkMXFD9oygTWy_R8PineGp07k.woff2",
+      "eot": "https://fonts.gstatic.com/s/lemonada/v7/0QIkMXFD9oygTWy_R8PineGp070.eot",
+      "woff": "https://fonts.gstatic.com/s/lemonada/v7/0QIkMXFD9oygTWy_R8PineGp078.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=0QIkMXFD9oygTWy_R8PineGp074&skey=c71c75bee5ac72d9&v=v7#Lemonada",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/lemonada/v7/0QIjMXFD9oygTWy_R8tJv_A.eot",
+      "fontFamily": "'Lemonada'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/lemonada/v7/0QIjMXFD9oygTWy_R8tJv_Q.woff2",
+      "local": [
+        "Lemonada",
+        "Lemonada-Regular"
+      ],
+      "woff": "https://fonts.gstatic.com/s/lemonada/v7/0QIjMXFD9oygTWy_R8tJv_I.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=0QIjMXFD9oygTWy_R8tJv_M&skey=fb52792da5c33628&v=v7#Lemonada",
+      "ttf": "https://fonts.gstatic.com/s/lemonada/v7/0QIjMXFD9oygTWy_R8tJv_E.ttf",
+      "errored": false
+    },
+    {
+      "id": "600",
+      "eot": "https://fonts.gstatic.com/s/lemonada/v7/0QIkMXFD9oygTWy_R8OWm-Gp070.eot",
+      "fontFamily": "'Lemonada'",
+      "fontStyle": "normal",
+      "fontWeight": "600",
+      "svg": "https://fonts.gstatic.com/l/font?kit=0QIkMXFD9oygTWy_R8OWm-Gp074&skey=a377f1dd7223caeb&v=v7#Lemonada",
+      "local": [
+        "Lemonada SemiBold",
+        "Lemonada-SemiBold"
+      ],
+      "woff": "https://fonts.gstatic.com/s/lemonada/v7/0QIkMXFD9oygTWy_R8OWm-Gp078.woff",
+      "ttf": "https://fonts.gstatic.com/s/lemonada/v7/0QIkMXFD9oygTWy_R8OWm-Gp07w.ttf",
+      "woff2": "https://fonts.gstatic.com/s/lemonada/v7/0QIkMXFD9oygTWy_R8OWm-Gp07k.woff2",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/lemonada/v7/0QIkMXFD9oygTWy_R8PymuGp070.eot",
+      "fontFamily": "'Lemonada'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "ttf": "https://fonts.gstatic.com/s/lemonada/v7/0QIkMXFD9oygTWy_R8PymuGp07w.ttf",
+      "local": [
+        "Lemonada Bold",
+        "Lemonada-Bold"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=0QIkMXFD9oygTWy_R8PymuGp074&skey=578ab3ed93e69969&v=v7#Lemonada",
+      "woff2": "https://fonts.gstatic.com/s/lemonada/v7/0QIkMXFD9oygTWy_R8PymuGp07k.woff2",
+      "woff": "https://fonts.gstatic.com/s/lemonada/v7/0QIkMXFD9oygTWy_R8PymuGp078.woff",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "vietnamese",
+    "latin",
+    "latin-ext",
+    "arabic"
+  ],
+  "category": "display",
+  "version": "v7",
+  "lastModified": "2019-07-16",
+  "popularity": 365,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "vietnamese": false,
+    "latin": true,
+    "latin-ext": false,
+    "arabic": false
+  },
+  "storeID": "latin"
+}

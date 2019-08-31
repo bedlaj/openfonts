@@ -1,0 +1,39 @@
+{
+  "id": "kavivanar",
+  "family": "Kavivanar",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/kavivanar/v5/o-0IIpQgyXYSwhxP7_Jr6zRA.woff2",
+      "fontFamily": "'Kavivanar'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Kavivanar Regular",
+        "Kavivanar-Regular"
+      ],
+      "woff": "https://fonts.gstatic.com/s/kavivanar/v5/o-0IIpQgyXYSwhxP7_Jr6zRG.woff",
+      "ttf": "https://fonts.gstatic.com/s/kavivanar/v5/o-0IIpQgyXYSwhxP7_Jr6zRF.ttf",
+      "eot": "https://fonts.gstatic.com/s/kavivanar/v5/o-0IIpQgyXYSwhxP7_Jr6zRE.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=o-0IIpQgyXYSwhxP7_Jr6zRH&skey=171e1659f41f9002&v=v5#Kavivanar",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "tamil"
+  ],
+  "category": "handwriting",
+  "version": "v5",
+  "lastModified": "2019-07-16",
+  "popularity": 838,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": true,
+    "tamil": false
+  },
+  "storeID": "latin-ext_latin"
+}

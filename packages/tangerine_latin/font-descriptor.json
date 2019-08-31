@@ -1,0 +1,51 @@
+{
+  "id": "tangerine",
+  "family": "Tangerine",
+  "variants": [
+    {
+      "id": "regular",
+      "ttf": "https://fonts.gstatic.com/s/tangerine/v11/IurY6Y5j_oScZZow4VOxCZZJ.ttf",
+      "fontFamily": "'Tangerine'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Tangerine Regular",
+        "Tangerine-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/tangerine/v11/IurY6Y5j_oScZZow4VOxCZZM.woff2",
+      "woff": "https://fonts.gstatic.com/s/tangerine/v11/IurY6Y5j_oScZZow4VOxCZZK.woff",
+      "eot": "https://fonts.gstatic.com/s/tangerine/v11/IurY6Y5j_oScZZow4VOxCZZI.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=IurY6Y5j_oScZZow4VOxCZZL&skey=7b78e1b6f929768b&v=v11#Tangerine",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff2": "https://fonts.gstatic.com/s/tangerine/v11/Iurd6Y5j_oScZZow4VO5srNZi5FN.woff2",
+      "fontFamily": "'Tangerine'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Tangerine Bold",
+        "Tangerine-Bold"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/tangerine/v11/Iurd6Y5j_oScZZow4VO5srNZi5FI.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Iurd6Y5j_oScZZow4VO5srNZi5FK&skey=5c4c007d60bd0b83&v=v11#Tangerine",
+      "woff": "https://fonts.gstatic.com/s/tangerine/v11/Iurd6Y5j_oScZZow4VO5srNZi5FL.woff",
+      "eot": "https://fonts.gstatic.com/s/tangerine/v11/Iurd6Y5j_oScZZow4VO5srNZi5FJ.eot",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "category": "handwriting",
+  "version": "v11",
+  "lastModified": "2019-07-16",
+  "popularity": 179,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true
+  },
+  "storeID": "latin"
+}

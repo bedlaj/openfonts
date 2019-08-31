@@ -1,0 +1,71 @@
+{
+  "id": "judson",
+  "family": "Judson",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/judson/v12/FeVRS0Fbvbc14VxhCLl1.woff2",
+      "fontFamily": "'Judson'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Judson Regular",
+        "Judson-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/judson/v12/FeVRS0Fbvbc14VxhCLlx.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=FeVRS0Fbvbc14VxhCLly&skey=5e4bbbcb41f6cd25&v=v12#Judson",
+      "ttf": "https://fonts.gstatic.com/s/judson/v12/FeVRS0Fbvbc14VxhCLlw.ttf",
+      "woff": "https://fonts.gstatic.com/s/judson/v12/FeVRS0Fbvbc14VxhCLlz.woff",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "woff2": "https://fonts.gstatic.com/s/judson/v12/FeVTS0Fbvbc14VxhDYl3_bE.woff2",
+      "fontFamily": "'Judson'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "local": [
+        "Judson Italic",
+        "Judson-Italic"
+      ],
+      "eot": "https://fonts.gstatic.com/s/judson/v12/FeVTS0Fbvbc14VxhDYl3_bU.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=FeVTS0Fbvbc14VxhDYl3_bY&skey=d937ef2f415e3371&v=v12#Judson",
+      "woff": "https://fonts.gstatic.com/s/judson/v12/FeVTS0Fbvbc14VxhDYl3_bc.woff",
+      "ttf": "https://fonts.gstatic.com/s/judson/v12/FeVTS0Fbvbc14VxhDYl3_bQ.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff2": "https://fonts.gstatic.com/s/judson/v12/FeVSS0Fbvbc14Vxps5xg2pRm.woff2",
+      "fontFamily": "'Judson'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Judson Bold",
+        "Judson-Bold"
+      ],
+      "eot": "https://fonts.gstatic.com/s/judson/v12/FeVSS0Fbvbc14Vxps5xg2pRi.eot",
+      "ttf": "https://fonts.gstatic.com/s/judson/v12/FeVSS0Fbvbc14Vxps5xg2pRj.ttf",
+      "woff": "https://fonts.gstatic.com/s/judson/v12/FeVSS0Fbvbc14Vxps5xg2pRg.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=FeVSS0Fbvbc14Vxps5xg2pRh&skey=2a4e7d9700bda035&v=v12#Judson",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "vietnamese",
+    "latin",
+    "latin-ext"
+  ],
+  "category": "serif",
+  "version": "v12",
+  "lastModified": "2019-07-16",
+  "popularity": 418,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "vietnamese": false,
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "staatliches",
+  "family": "Staatliches",
+  "variants": [
+    {
+      "id": "regular",
+      "ttf": "https://fonts.gstatic.com/s/staatliches/v3/HI_OiY8KO6hCsQSoAPmtMYeVvpU.ttf",
+      "fontFamily": "'Staatliches'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Staatliches Regular",
+        "Staatliches-Regular"
+      ],
+      "woff": "https://fonts.gstatic.com/s/staatliches/v3/HI_OiY8KO6hCsQSoAPmtMYeVvpY.woff",
+      "eot": "https://fonts.gstatic.com/s/staatliches/v3/HI_OiY8KO6hCsQSoAPmtMYeVvpQ.eot",
+      "woff2": "https://fonts.gstatic.com/s/staatliches/v3/HI_OiY8KO6hCsQSoAPmtMYeVvpA.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=HI_OiY8KO6hCsQSoAPmtMYeVvpc&skey=ebd2c3b134676d19&v=v3#Staatliches",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "display",
+  "version": "v3",
+  "lastModified": "2019-07-16",
+  "popularity": 188,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin"
+}

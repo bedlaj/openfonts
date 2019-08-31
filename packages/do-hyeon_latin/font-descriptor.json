@@ -1,0 +1,37 @@
+{
+  "id": "do-hyeon",
+  "family": "Do Hyeon",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/dohyeon/v11/TwMN-I8CRRU2zM86HGEwbQc.woff2",
+      "fontFamily": "'Do Hyeon'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Do Hyeon Regular",
+        "DoHyeon-Regular"
+      ],
+      "woff": "https://fonts.gstatic.com/s/dohyeon/v11/TwMN-I8CRRU2zM86HGEwbQE.woff",
+      "eot": "https://fonts.gstatic.com/s/dohyeon/v11/TwMN-I8CRRU2zM86HGEwbQM.eot",
+      "ttf": "https://fonts.gstatic.com/s/dohyeon/v11/TwMN-I8CRRU2zM86HGEwbQI.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=TwMN-I8CRRU2zM86HGEwbQA&skey=df6409684aa3926f&v=v11#DoHyeon",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "korean",
+    "latin"
+  ],
+  "category": "sans-serif",
+  "version": "v11",
+  "lastModified": "2019-07-16",
+  "popularity": 451,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "korean": false,
+    "latin": true
+  },
+  "storeID": "latin"
+}

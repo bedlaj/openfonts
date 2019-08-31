@@ -1,0 +1,50 @@
+{
+  "id": "mate",
+  "family": "Mate",
+  "variants": [
+    {
+      "id": "regular",
+      "svg": "https://fonts.gstatic.com/l/font?kit=m8JdjftRd7WZ6zq2XA&skey=3809b241213e7468&v=v8#Mate",
+      "fontFamily": "'Mate'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Mate-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/mate/v8/m8JdjftRd7WZ6zq2Ww.woff2",
+      "woff": "https://fonts.gstatic.com/s/mate/v8/m8JdjftRd7WZ6zq2XQ.woff",
+      "eot": "https://fonts.gstatic.com/s/mate/v8/m8JdjftRd7WZ6zq2Xw.eot",
+      "ttf": "https://fonts.gstatic.com/s/mate/v8/m8JdjftRd7WZ6zq2Xg.ttf",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "woff": "https://fonts.gstatic.com/s/mate/v8/m8JTjftRd7WZ6z-GWa3Q.woff",
+      "fontFamily": "'Mate'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "local": [
+        "Mate Italic",
+        "Mate-Italic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/mate/v8/m8JTjftRd7WZ6z-GWa3W.woff2",
+      "eot": "https://fonts.gstatic.com/s/mate/v8/m8JTjftRd7WZ6z-GWa3S.eot",
+      "ttf": "https://fonts.gstatic.com/s/mate/v8/m8JTjftRd7WZ6z-GWa3T.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=m8JTjftRd7WZ6z-GWa3R&skey=2841edb4ac82bfc&v=v8#Mate",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "category": "serif",
+  "version": "v8",
+  "lastModified": "2019-07-16",
+  "popularity": 461,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true
+  },
+  "storeID": "latin"
+}

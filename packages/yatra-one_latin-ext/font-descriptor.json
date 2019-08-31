@@ -1,0 +1,39 @@
+{
+  "id": "yatra-one",
+  "family": "Yatra One",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/yatraone/v6/C8ch4copsHzj8p7NaF0BylmG.woff",
+      "fontFamily": "'Yatra One'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Yatra One Regular",
+        "YatraOne-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/yatraone/v6/C8ch4copsHzj8p7NaF0BylmE.eot",
+      "ttf": "https://fonts.gstatic.com/s/yatraone/v6/C8ch4copsHzj8p7NaF0BylmF.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=C8ch4copsHzj8p7NaF0BylmH&skey=3921a9df435bda23&v=v6#YatraOne",
+      "woff2": "https://fonts.gstatic.com/s/yatraone/v6/C8ch4copsHzj8p7NaF0BylmA.woff2",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "devanagari",
+    "latin-ext"
+  ],
+  "category": "display",
+  "version": "v6",
+  "lastModified": "2019-07-16",
+  "popularity": 660,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "devanagari": false,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin"
+}

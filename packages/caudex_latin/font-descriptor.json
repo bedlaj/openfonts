@@ -1,0 +1,88 @@
+{
+  "id": "caudex",
+  "family": "Caudex",
+  "variants": [
+    {
+      "id": "regular",
+      "svg": "https://fonts.gstatic.com/l/font?kit=esDQ311QOP6BJUr4zfKG&skey=89ad97180e9c147c&v=v9#Caudex",
+      "fontFamily": "'Caudex'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Caudex"
+      ],
+      "woff": "https://fonts.gstatic.com/s/caudex/v9/esDQ311QOP6BJUr4zfKH.woff",
+      "woff2": "https://fonts.gstatic.com/s/caudex/v9/esDQ311QOP6BJUr4zfKB.woff2",
+      "eot": "https://fonts.gstatic.com/s/caudex/v9/esDQ311QOP6BJUr4zfKF.eot",
+      "ttf": "https://fonts.gstatic.com/s/caudex/v9/esDQ311QOP6BJUr4zfKE.ttf",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "woff": "https://fonts.gstatic.com/s/caudex/v9/esDS311QOP6BJUr4yMKDtbw.woff",
+      "fontFamily": "'Caudex'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "local": [
+        "Caudex Italic",
+        "Caudex-Italic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/caudex/v9/esDS311QOP6BJUr4yMKDtbo.woff2",
+      "ttf": "https://fonts.gstatic.com/s/caudex/v9/esDS311QOP6BJUr4yMKDtb8.ttf",
+      "eot": "https://fonts.gstatic.com/s/caudex/v9/esDS311QOP6BJUr4yMKDtb4.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=esDS311QOP6BJUr4yMKDtb0&skey=1f54382299ea82c0&v=v9#Caudex",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/caudex/v9/esDT311QOP6BJUrwdteUkp8H.eot",
+      "fontFamily": "'Caudex'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/caudex/v9/esDT311QOP6BJUrwdteUkp8F.woff",
+      "local": [
+        "Caudex Bold",
+        "Caudex-Bold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/caudex/v9/esDT311QOP6BJUrwdteUkp8D.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=esDT311QOP6BJUrwdteUkp8E&skey=ef9bb145f0aa72ff&v=v9#Caudex",
+      "ttf": "https://fonts.gstatic.com/s/caudex/v9/esDT311QOP6BJUrwdteUkp8G.ttf",
+      "errored": false
+    },
+    {
+      "id": "700italic",
+      "eot": "https://fonts.gstatic.com/s/caudex/v9/esDV311QOP6BJUr4yMo4kK8BMpE.eot",
+      "fontFamily": "'Caudex'",
+      "fontStyle": "italic",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/caudex/v9/esDV311QOP6BJUr4yMo4kK8BMpM.woff",
+      "local": [
+        "Caudex Bold Italic",
+        "Caudex-BoldItalic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/caudex/v9/esDV311QOP6BJUr4yMo4kK8BMpU.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=esDV311QOP6BJUr4yMo4kK8BMpI&skey=e75cb4af8e8842e6&v=v9#Caudex",
+      "ttf": "https://fonts.gstatic.com/s/caudex/v9/esDV311QOP6BJUr4yMo4kK8BMpA.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "greek-ext",
+    "greek",
+    "latin",
+    "latin-ext"
+  ],
+  "category": "serif",
+  "version": "v9",
+  "lastModified": "2019-07-16",
+  "popularity": 386,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "greek-ext": false,
+    "greek": false,
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

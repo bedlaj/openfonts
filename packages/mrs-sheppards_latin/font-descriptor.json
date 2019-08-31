@@ -1,0 +1,37 @@
+{
+  "id": "mrs-sheppards",
+  "family": "Mrs Sheppards",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/mrssheppards/v8/PN_2Rfm9snC0XUGoEZhb91ig7v_7zQ.woff",
+      "fontFamily": "'Mrs Sheppards'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Mrs Sheppards Regular",
+        "MrsSheppards-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/mrssheppards/v8/PN_2Rfm9snC0XUGoEZhb91ig7v_7yw.woff2",
+      "eot": "https://fonts.gstatic.com/s/mrssheppards/v8/PN_2Rfm9snC0XUGoEZhb91ig7v_7zw.eot",
+      "ttf": "https://fonts.gstatic.com/s/mrssheppards/v8/PN_2Rfm9snC0XUGoEZhb91ig7v_7zg.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=PN_2Rfm9snC0XUGoEZhb91ig7v_7zA&skey=e03a0d98536a56e9&v=v8#MrsSheppards",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "handwriting",
+  "version": "v8",
+  "lastModified": "2019-07-16",
+  "popularity": 786,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

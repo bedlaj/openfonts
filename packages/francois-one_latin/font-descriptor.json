@@ -1,0 +1,39 @@
+{
+  "id": "francois-one",
+  "family": "Francois One",
+  "variants": [
+    {
+      "id": "regular",
+      "svg": "https://fonts.gstatic.com/l/font?kit=_Xmr-H4zszafZw3A-KPSZut9wQiW&skey=37e55f964c88f579&v=v14#FrancoisOne",
+      "fontFamily": "'Francois One'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Francois One Regular",
+        "FrancoisOne-Regular"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/francoisone/v14/_Xmr-H4zszafZw3A-KPSZut9wQiU.ttf",
+      "woff2": "https://fonts.gstatic.com/s/francoisone/v14/_Xmr-H4zszafZw3A-KPSZut9wQiR.woff2",
+      "eot": "https://fonts.gstatic.com/s/francoisone/v14/_Xmr-H4zszafZw3A-KPSZut9wQiV.eot",
+      "woff": "https://fonts.gstatic.com/s/francoisone/v14/_Xmr-H4zszafZw3A-KPSZut9wQiX.woff",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "vietnamese",
+    "latin",
+    "latin-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v14",
+  "lastModified": "2019-07-17",
+  "popularity": 103,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "vietnamese": false,
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

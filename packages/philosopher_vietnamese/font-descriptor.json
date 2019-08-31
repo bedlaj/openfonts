@@ -1,0 +1,89 @@
+{
+  "id": "philosopher",
+  "family": "Philosopher",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/philosopher/v11/vEFV2_5QCwIS4_Dhez5jcWBhT0s.woff",
+      "fontFamily": "'Philosopher'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Philosopher Regular",
+        "Philosopher-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/philosopher/v11/vEFV2_5QCwIS4_Dhez5jcWBhT0k.eot",
+      "ttf": "https://fonts.gstatic.com/s/philosopher/v11/vEFV2_5QCwIS4_Dhez5jcWBhT0g.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=vEFV2_5QCwIS4_Dhez5jcWBhT0o&skey=da0a2147adba7eff&v=v11#Philosopher",
+      "woff2": "https://fonts.gstatic.com/s/philosopher/v11/vEFV2_5QCwIS4_Dhez5jcWBhT00.woff2",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff": "https://fonts.gstatic.com/s/philosopher/v11/vEFI2_5QCwIS4_Dhez5jcWjValgU8tE.woff",
+      "fontFamily": "'Philosopher'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Philosopher Bold",
+        "Philosopher-Bold"
+      ],
+      "eot": "https://fonts.gstatic.com/s/philosopher/v11/vEFI2_5QCwIS4_Dhez5jcWjValgU8tM.eot",
+      "woff2": "https://fonts.gstatic.com/s/philosopher/v11/vEFI2_5QCwIS4_Dhez5jcWjValgU8tc.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=vEFI2_5QCwIS4_Dhez5jcWjValgU8tA&skey=cbdf56dd530768da&v=v11#Philosopher",
+      "ttf": "https://fonts.gstatic.com/s/philosopher/v11/vEFI2_5QCwIS4_Dhez5jcWjValgU8tI.ttf",
+      "errored": false
+    },
+    {
+      "id": "700italic",
+      "eot": "https://fonts.gstatic.com/s/philosopher/v11/vEFK2_5QCwIS4_Dhez5jcWBrd_QZwtq_Xg.eot",
+      "fontFamily": "'Philosopher'",
+      "fontStyle": "italic",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/philosopher/v11/vEFK2_5QCwIS4_Dhez5jcWBrd_QZwtq_XA.woff",
+      "local": [
+        "Philosopher Bold Italic",
+        "Philosopher-BoldItalic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/philosopher/v11/vEFK2_5QCwIS4_Dhez5jcWBrd_QZwtq_Wg.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=vEFK2_5QCwIS4_Dhez5jcWBrd_QZwtq_XQ&skey=57b4856315c9ffe2&v=v11#Philosopher",
+      "ttf": "https://fonts.gstatic.com/s/philosopher/v11/vEFK2_5QCwIS4_Dhez5jcWBrd_QZwtq_Xw.ttf",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "eot": "https://fonts.gstatic.com/s/philosopher/v11/vEFX2_5QCwIS4_Dhez5jcWBrf0A80w.eot",
+      "fontFamily": "'Philosopher'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/philosopher/v11/vEFX2_5QCwIS4_Dhez5jcWBrf0A80Q.woff",
+      "local": [
+        "Philosopher Italic",
+        "Philosopher-Italic"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/philosopher/v11/vEFX2_5QCwIS4_Dhez5jcWBrf0A80g.ttf",
+      "woff2": "https://fonts.gstatic.com/s/philosopher/v11/vEFX2_5QCwIS4_Dhez5jcWBrf0A81w.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=vEFX2_5QCwIS4_Dhez5jcWBrf0A80A&skey=dffa18171bbee2d1&v=v11#Philosopher",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "vietnamese",
+    "latin",
+    "cyrillic",
+    "cyrillic-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v11",
+  "lastModified": "2019-07-16",
+  "popularity": 186,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "vietnamese": true,
+    "latin": true,
+    "cyrillic": false,
+    "cyrillic-ext": false
+  },
+  "storeID": "latin_vietnamese"
+}

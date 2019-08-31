@@ -1,0 +1,36 @@
+{
+  "id": "suranna",
+  "family": "Suranna",
+  "variants": [
+    {
+      "id": "regular",
+      "ttf": "https://fonts.gstatic.com/s/suranna/v7/gokuH6ztGkFjWe58hBNTSw.ttf",
+      "fontFamily": "'Suranna'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Suranna"
+      ],
+      "eot": "https://fonts.gstatic.com/s/suranna/v7/gokuH6ztGkFjWe58hBNTSg.eot",
+      "woff": "https://fonts.gstatic.com/s/suranna/v7/gokuH6ztGkFjWe58hBNTSA.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=gokuH6ztGkFjWe58hBNTSQ&skey=a531c6ebfddfa1a3&v=v7#Suranna",
+      "woff2": "https://fonts.gstatic.com/s/suranna/v7/gokuH6ztGkFjWe58hBNTTg.woff2",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "telugu",
+    "latin"
+  ],
+  "category": "serif",
+  "version": "v7",
+  "lastModified": "2019-07-16",
+  "popularity": 412,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "telugu": false,
+    "latin": true
+  },
+  "storeID": "latin"
+}

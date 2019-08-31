@@ -1,0 +1,51 @@
+{
+  "id": "cabin-sketch",
+  "family": "Cabin Sketch",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/cabinsketch/v13/QGYpz_kZZAGCONcK2A4bGOj8mNhN.woff2",
+      "fontFamily": "'Cabin Sketch'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Cabin Sketch Regular",
+        "CabinSketch-Regular"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=QGYpz_kZZAGCONcK2A4bGOj8mNhK&skey=64590cfdee656fb9&v=v13#CabinSketch",
+      "eot": "https://fonts.gstatic.com/s/cabinsketch/v13/QGYpz_kZZAGCONcK2A4bGOj8mNhJ.eot",
+      "ttf": "https://fonts.gstatic.com/s/cabinsketch/v13/QGYpz_kZZAGCONcK2A4bGOj8mNhI.ttf",
+      "woff": "https://fonts.gstatic.com/s/cabinsketch/v13/QGYpz_kZZAGCONcK2A4bGOj8mNhL.woff",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff": "https://fonts.gstatic.com/s/cabinsketch/v13/QGY2z_kZZAGCONcK2A4bGOj0I_1Y5tj1.woff",
+      "fontFamily": "'Cabin Sketch'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Cabin Sketch Bold",
+        "CabinSketch-Bold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/cabinsketch/v13/QGY2z_kZZAGCONcK2A4bGOj0I_1Y5tjz.woff2",
+      "eot": "https://fonts.gstatic.com/s/cabinsketch/v13/QGY2z_kZZAGCONcK2A4bGOj0I_1Y5tj3.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=QGY2z_kZZAGCONcK2A4bGOj0I_1Y5tj0&skey=ed1957a6296b121e&v=v13#CabinSketch",
+      "ttf": "https://fonts.gstatic.com/s/cabinsketch/v13/QGY2z_kZZAGCONcK2A4bGOj0I_1Y5tj2.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "category": "display",
+  "version": "v13",
+  "lastModified": "2019-07-16",
+  "popularity": 303,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true
+  },
+  "storeID": "latin"
+}

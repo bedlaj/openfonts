@@ -1,0 +1,37 @@
+{
+  "id": "bahiana",
+  "family": "Bahiana",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/bahiana/v4/uU9PCBUV4YenPWJU3xrR2Q.woff",
+      "fontFamily": "'Bahiana'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Bahiana Regular",
+        "Bahiana-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/bahiana/v4/uU9PCBUV4YenPWJU3xrR2w.eot",
+      "ttf": "https://fonts.gstatic.com/s/bahiana/v4/uU9PCBUV4YenPWJU3xrR2g.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=uU9PCBUV4YenPWJU3xrR2A&skey=3cf698d11caf64aa&v=v4#Bahiana",
+      "woff2": "https://fonts.gstatic.com/s/bahiana/v4/uU9PCBUV4YenPWJU3xrR3w.woff2",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "display",
+  "version": "v4",
+  "lastModified": "2019-07-16",
+  "popularity": 824,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": true
+  },
+  "storeID": "latin-ext_latin"
+}

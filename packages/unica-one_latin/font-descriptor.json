@@ -1,0 +1,37 @@
+{
+  "id": "unica-one",
+  "family": "Unica One",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/unicaone/v7/DPEuYwWHyAYGVTSmalsRcd3e.woff2",
+      "fontFamily": "'Unica One'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Unica One",
+        "UnicaOne-Regular"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/unicaone/v7/DPEuYwWHyAYGVTSmalsRcd3b.ttf",
+      "eot": "https://fonts.gstatic.com/s/unicaone/v7/DPEuYwWHyAYGVTSmalsRcd3a.eot",
+      "woff": "https://fonts.gstatic.com/s/unicaone/v7/DPEuYwWHyAYGVTSmalsRcd3Y.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=DPEuYwWHyAYGVTSmalsRcd3Z&skey=95c90eaca39f67c7&v=v7#UnicaOne",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "display",
+  "version": "v7",
+  "lastModified": "2019-07-16",
+  "popularity": 190,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "pavanam",
+  "family": "Pavanam",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/pavanam/v4/BXRrvF_aiezLh0xPPOxa8g.woff",
+      "fontFamily": "'Pavanam'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Pavanam",
+        "Pavanam-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/pavanam/v4/BXRrvF_aiezLh0xPPOxa8A.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=BXRrvF_aiezLh0xPPOxa8w&skey=e28b0edd81e978ba&v=v4#Pavanam",
+      "woff2": "https://fonts.gstatic.com/s/pavanam/v4/BXRrvF_aiezLh0xPPOxa9A.woff2",
+      "ttf": "https://fonts.gstatic.com/s/pavanam/v4/BXRrvF_aiezLh0xPPOxa8Q.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "tamil"
+  ],
+  "category": "sans-serif",
+  "version": "v4",
+  "lastModified": "2019-07-16",
+  "popularity": 510,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false,
+    "tamil": false
+  },
+  "storeID": "latin"
+}

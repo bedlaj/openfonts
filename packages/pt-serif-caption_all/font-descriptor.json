@@ -1,0 +1,57 @@
+{
+  "id": "pt-serif-caption",
+  "family": "PT Serif Caption",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/ptserifcaption/v11/ieVl2ZhbGCW-JoW6S34pSDpqYKU059Y.woff",
+      "fontFamily": "'PT Serif Caption'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "PT Serif Caption",
+        "PTSerif-Caption"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/ptserifcaption/v11/ieVl2ZhbGCW-JoW6S34pSDpqYKU059A.woff2",
+      "ttf": "https://fonts.gstatic.com/s/ptserifcaption/v11/ieVl2ZhbGCW-JoW6S34pSDpqYKU059U.ttf",
+      "eot": "https://fonts.gstatic.com/s/ptserifcaption/v11/ieVl2ZhbGCW-JoW6S34pSDpqYKU059Q.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=ieVl2ZhbGCW-JoW6S34pSDpqYKU059c&skey=ec75b9a3c692f86&v=v11#PTSerifCaption",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "eot": "https://fonts.gstatic.com/s/ptserifcaption/v11/ieVj2ZhbGCW-JoW6S34pSDpqYKU019e7CQ.eot",
+      "fontFamily": "'PT Serif Caption'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "ttf": "https://fonts.gstatic.com/s/ptserifcaption/v11/ieVj2ZhbGCW-JoW6S34pSDpqYKU019e7CA.ttf",
+      "local": [
+        "PT Serif Caption Italic",
+        "PTSerif-CaptionItalic"
+      ],
+      "woff": "https://fonts.gstatic.com/s/ptserifcaption/v11/ieVj2ZhbGCW-JoW6S34pSDpqYKU019e7Cw.woff",
+      "woff2": "https://fonts.gstatic.com/s/ptserifcaption/v11/ieVj2ZhbGCW-JoW6S34pSDpqYKU019e7DQ.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=ieVj2ZhbGCW-JoW6S34pSDpqYKU019e7Cg&skey=ec3e40f04ab9874e&v=v11#PTSerifCaption",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "cyrillic",
+    "cyrillic-ext"
+  ],
+  "category": "serif",
+  "version": "v11",
+  "lastModified": "2019-07-16",
+  "popularity": 254,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": true,
+    "cyrillic": true,
+    "cyrillic-ext": true
+  },
+  "storeID": "cyrillic-ext_cyrillic_latin-ext_latin"
+}

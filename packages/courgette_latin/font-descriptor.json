@@ -1,0 +1,37 @@
+{
+  "id": "courgette",
+  "family": "Courgette",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/courgette/v7/wEO_EBrAnc9BLjLQAUk1VvoK.woff2",
+      "fontFamily": "'Courgette'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Courgette Regular",
+        "Courgette-Regular"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/courgette/v7/wEO_EBrAnc9BLjLQAUk1VvoP.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=wEO_EBrAnc9BLjLQAUk1VvoN&skey=427bdd45dca77eaa&v=v7#Courgette",
+      "woff": "https://fonts.gstatic.com/s/courgette/v7/wEO_EBrAnc9BLjLQAUk1VvoM.woff",
+      "eot": "https://fonts.gstatic.com/s/courgette/v7/wEO_EBrAnc9BLjLQAUk1VvoO.eot",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "handwriting",
+  "version": "v7",
+  "lastModified": "2019-07-17",
+  "popularity": 113,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

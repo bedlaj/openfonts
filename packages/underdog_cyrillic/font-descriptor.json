@@ -1,0 +1,39 @@
+{
+  "id": "underdog",
+  "family": "Underdog",
+  "variants": [
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/underdog/v8/CHygV-jCElj7diMroWShWVs.eot",
+      "fontFamily": "'Underdog'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/underdog/v8/CHygV-jCElj7diMroWShWVk.woff",
+      "local": [
+        "Underdog",
+        "Underdog-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/underdog/v8/CHygV-jCElj7diMroWShWV8.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=CHygV-jCElj7diMroWShWVg&skey=419e757df0aff982&v=v8#Underdog",
+      "ttf": "https://fonts.gstatic.com/s/underdog/v8/CHygV-jCElj7diMroWShWVo.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "cyrillic"
+  ],
+  "category": "display",
+  "version": "v8",
+  "lastModified": "2019-07-16",
+  "popularity": 766,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false,
+    "cyrillic": true
+  },
+  "storeID": "cyrillic_latin"
+}

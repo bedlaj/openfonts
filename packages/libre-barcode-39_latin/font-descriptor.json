@@ -1,0 +1,35 @@
+{
+  "id": "libre-barcode-39",
+  "family": "Libre Barcode 39",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/librebarcode39/v9/-nFnOHM08vwC6h8Li1eQnP_AHzI2G_Bx0g.woff2",
+      "fontFamily": "'Libre Barcode 39'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Libre Barcode 39 Regular",
+        "LibreBarcode39-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/librebarcode39/v9/-nFnOHM08vwC6h8Li1eQnP_AHzI2G_Bx1g.eot",
+      "woff": "https://fonts.gstatic.com/s/librebarcode39/v9/-nFnOHM08vwC6h8Li1eQnP_AHzI2G_Bx1A.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=-nFnOHM08vwC6h8Li1eQnP_AHzI2G_Bx1Q&skey=669a7227d05d7508&v=v9#LibreBarcode39",
+      "ttf": "https://fonts.gstatic.com/s/librebarcode39/v9/-nFnOHM08vwC6h8Li1eQnP_AHzI2G_Bx1w.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "category": "display",
+  "version": "v9",
+  "lastModified": "2019-07-16",
+  "popularity": 615,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true
+  },
+  "storeID": "latin"
+}
