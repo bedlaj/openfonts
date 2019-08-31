@@ -106,7 +106,7 @@ subsets.forEach(subset => {
         (err, results) => {
             fs.writeFileSync(
                 `${typefaceDir}/font-descriptor.json`,
-                JSON.stringify(subset[1])
+                JSON.stringify(subset[1], null, 2)
             )
 
             // Write out the README.md
