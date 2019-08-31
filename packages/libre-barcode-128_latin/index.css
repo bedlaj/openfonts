@@ -5,8 +5,8 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Libre Barcode 128 Regular '),
-    local('Libre Barcode 128-Regular'),
-    url('./files/libre-barcode-128-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/libre-barcode-128-latin-400.woff') format('woff'); /* Modern Browsers */
+    local('Libre Barcode 128 Regular'),
+    local('LibreBarcode128-Regular'), 
+    url('./files/libre-barcode-128-latin-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/libre-barcode-128-latin-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

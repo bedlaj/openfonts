@@ -5,10 +5,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Vesper Libre Regular '),
-    local('Vesper Libre-Regular'),
-    url('./files/vesper-libre-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/vesper-libre-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+    local('Vesper Libre'),
+    local('VesperLibre-Regular'), 
+    url('./files/vesper-libre-latin-ext-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/vesper-libre-latin-ext-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* vesper-libre-500normal - latin-ext */
 @font-face {
@@ -17,10 +17,10 @@
   font-display: swap;
   font-weight: 500;
   src:
-    local('Vesper Libre Medium '),
-    local('Vesper Libre-Medium'),
-    url('./files/vesper-libre-latin-ext-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/vesper-libre-latin-ext-500.woff') format('woff'); /* Modern Browsers */
+    local('Vesper Libre Medium'),
+    local('VesperLibre-Medium'), 
+    url('./files/vesper-libre-latin-ext-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/vesper-libre-latin-ext-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* vesper-libre-700normal - latin-ext */
 @font-face {
@@ -29,10 +29,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Vesper Libre Bold '),
-    local('Vesper Libre-Bold'),
-    url('./files/vesper-libre-latin-ext-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/vesper-libre-latin-ext-700.woff') format('woff'); /* Modern Browsers */
+    local('Vesper Libre Bold'),
+    local('VesperLibre-Bold'), 
+    url('./files/vesper-libre-latin-ext-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/vesper-libre-latin-ext-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* vesper-libre-900normal - latin-ext */
 @font-face {
@@ -41,8 +41,8 @@
   font-display: swap;
   font-weight: 900;
   src:
-    local('Vesper Libre Black '),
-    local('Vesper Libre-Black'),
-    url('./files/vesper-libre-latin-ext-900.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/vesper-libre-latin-ext-900.woff') format('woff'); /* Modern Browsers */
+    local('Vesper Libre Heavy'),
+    local('VesperLibre-Heavy'), 
+    url('./files/vesper-libre-latin-ext-900.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/vesper-libre-latin-ext-900.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

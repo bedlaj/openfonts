@@ -5,10 +5,10 @@
   font-display: swap;
   font-weight: 200;
   src:
-    local('Mukta Mahee Extra Light '),
-    local('Mukta Mahee-Extra Light'),
-    url('./files/mukta-mahee-gurmukhi-200.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/mukta-mahee-gurmukhi-200.woff') format('woff'); /* Modern Browsers */
+    local('Mukta Mahee ExtraLight'),
+    local('MuktaMahee-ExtraLight'), 
+    url('./files/mukta-mahee-gurmukhi-200.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/mukta-mahee-gurmukhi-200.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* mukta-mahee-300normal - gurmukhi */
 @font-face {
@@ -17,10 +17,10 @@
   font-display: swap;
   font-weight: 300;
   src:
-    local('Mukta Mahee Light '),
-    local('Mukta Mahee-Light'),
-    url('./files/mukta-mahee-gurmukhi-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/mukta-mahee-gurmukhi-300.woff') format('woff'); /* Modern Browsers */
+    local('Mukta Mahee Light'),
+    local('MuktaMahee-Light'), 
+    url('./files/mukta-mahee-gurmukhi-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/mukta-mahee-gurmukhi-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* mukta-mahee-400normal - gurmukhi */
 @font-face {
@@ -29,10 +29,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Mukta Mahee Regular '),
-    local('Mukta Mahee-Regular'),
-    url('./files/mukta-mahee-gurmukhi-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/mukta-mahee-gurmukhi-400.woff') format('woff'); /* Modern Browsers */
+    local('Mukta Mahee Regular'),
+    local('MuktaMahee-Regular'), 
+    url('./files/mukta-mahee-gurmukhi-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/mukta-mahee-gurmukhi-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* mukta-mahee-500normal - gurmukhi */
 @font-face {
@@ -41,10 +41,10 @@
   font-display: swap;
   font-weight: 500;
   src:
-    local('Mukta Mahee Medium '),
-    local('Mukta Mahee-Medium'),
-    url('./files/mukta-mahee-gurmukhi-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/mukta-mahee-gurmukhi-500.woff') format('woff'); /* Modern Browsers */
+    local('Mukta Mahee Medium'),
+    local('MuktaMahee-Medium'), 
+    url('./files/mukta-mahee-gurmukhi-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/mukta-mahee-gurmukhi-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* mukta-mahee-600normal - gurmukhi */
 @font-face {
@@ -53,10 +53,10 @@
   font-display: swap;
   font-weight: 600;
   src:
-    local('Mukta Mahee SemiBold '),
-    local('Mukta Mahee-SemiBold'),
-    url('./files/mukta-mahee-gurmukhi-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/mukta-mahee-gurmukhi-600.woff') format('woff'); /* Modern Browsers */
+    local('Mukta Mahee SemiBold'),
+    local('MuktaMahee-SemiBold'), 
+    url('./files/mukta-mahee-gurmukhi-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/mukta-mahee-gurmukhi-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* mukta-mahee-700normal - gurmukhi */
 @font-face {
@@ -65,10 +65,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Mukta Mahee Bold '),
-    local('Mukta Mahee-Bold'),
-    url('./files/mukta-mahee-gurmukhi-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/mukta-mahee-gurmukhi-700.woff') format('woff'); /* Modern Browsers */
+    local('Mukta Mahee Bold'),
+    local('MuktaMahee-Bold'), 
+    url('./files/mukta-mahee-gurmukhi-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/mukta-mahee-gurmukhi-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* mukta-mahee-800normal - gurmukhi */
 @font-face {
@@ -77,8 +77,8 @@
   font-display: swap;
   font-weight: 800;
   src:
-    local('Mukta Mahee ExtraBold '),
-    local('Mukta Mahee-ExtraBold'),
-    url('./files/mukta-mahee-gurmukhi-800.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/mukta-mahee-gurmukhi-800.woff') format('woff'); /* Modern Browsers */
+    local('Mukta Mahee ExtraBold'),
+    local('MuktaMahee-ExtraBold'), 
+    url('./files/mukta-mahee-gurmukhi-800.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/mukta-mahee-gurmukhi-800.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

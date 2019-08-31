@@ -5,10 +5,10 @@
   font-display: swap;
   font-weight: 300;
   src:
-    local('Khula Light '),
-    local('Khula-Light'),
-    url('./files/khula-latin-ext-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/khula-latin-ext-300.woff') format('woff'); /* Modern Browsers */
+    local('Khula Light'),
+    local('Khula-Light'), 
+    url('./files/khula-latin-ext-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/khula-latin-ext-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* khula-400normal - latin-ext */
 @font-face {
@@ -17,10 +17,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Khula Regular '),
-    local('Khula-Regular'),
-    url('./files/khula-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/khula-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+    local('Khula Regular'),
+    local('Khula-Regular'), 
+    url('./files/khula-latin-ext-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/khula-latin-ext-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* khula-600normal - latin-ext */
 @font-face {
@@ -29,10 +29,10 @@
   font-display: swap;
   font-weight: 600;
   src:
-    local('Khula SemiBold '),
-    local('Khula-SemiBold'),
-    url('./files/khula-latin-ext-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/khula-latin-ext-600.woff') format('woff'); /* Modern Browsers */
+    local('Khula SemiBold'),
+    local('Khula-SemiBold'), 
+    url('./files/khula-latin-ext-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/khula-latin-ext-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* khula-700normal - latin-ext */
 @font-face {
@@ -41,10 +41,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Khula Bold '),
-    local('Khula-Bold'),
-    url('./files/khula-latin-ext-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/khula-latin-ext-700.woff') format('woff'); /* Modern Browsers */
+    local('Khula Bold'),
+    local('Khula-Bold'), 
+    url('./files/khula-latin-ext-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/khula-latin-ext-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* khula-800normal - latin-ext */
 @font-face {
@@ -53,8 +53,8 @@
   font-display: swap;
   font-weight: 800;
   src:
-    local('Khula ExtraBold '),
-    local('Khula-ExtraBold'),
-    url('./files/khula-latin-ext-800.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/khula-latin-ext-800.woff') format('woff'); /* Modern Browsers */
+    local('Khula ExtraBold'),
+    local('Khula-ExtraBold'), 
+    url('./files/khula-latin-ext-800.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/khula-latin-ext-800.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

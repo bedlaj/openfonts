@@ -5,10 +5,10 @@
   font-display: swap;
   font-weight: 200;
   src:
-    local('Nunito Extra Light '),
-    local('Nunito-Extra Light'),
-    url('./files/nunito-vietnamese-200.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/nunito-vietnamese-200.woff') format('woff'); /* Modern Browsers */
+    local('Nunito ExtraLight'),
+    local('Nunito-ExtraLight'), 
+    url('./files/nunito-vietnamese-200.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/nunito-vietnamese-200.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* nunito-200italic - vietnamese */
 @font-face {
@@ -17,10 +17,10 @@
   font-display: swap;
   font-weight: 200;
   src:
-    local('Nunito Extra Light italic'),
-    local('Nunito-Extra Lightitalic'),
-    url('./files/nunito-vietnamese-200-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/nunito-vietnamese-200-italic.woff') format('woff'); /* Modern Browsers */
+    local('Nunito ExtraLight Italic'),
+    local('Nunito-ExtraLightItalic'), 
+    url('./files/nunito-vietnamese-200-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/nunito-vietnamese-200-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* nunito-300normal - vietnamese */
 @font-face {
@@ -29,10 +29,10 @@
   font-display: swap;
   font-weight: 300;
   src:
-    local('Nunito Light '),
-    local('Nunito-Light'),
-    url('./files/nunito-vietnamese-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/nunito-vietnamese-300.woff') format('woff'); /* Modern Browsers */
+    local('Nunito Light'),
+    local('Nunito-Light'), 
+    url('./files/nunito-vietnamese-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/nunito-vietnamese-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* nunito-300italic - vietnamese */
 @font-face {
@@ -41,10 +41,10 @@
   font-display: swap;
   font-weight: 300;
   src:
-    local('Nunito Light italic'),
-    local('Nunito-Lightitalic'),
-    url('./files/nunito-vietnamese-300-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/nunito-vietnamese-300-italic.woff') format('woff'); /* Modern Browsers */
+    local('Nunito Light Italic'),
+    local('Nunito-LightItalic'), 
+    url('./files/nunito-vietnamese-300-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/nunito-vietnamese-300-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* nunito-400normal - vietnamese */
 @font-face {
@@ -53,10 +53,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Nunito Regular '),
-    local('Nunito-Regular'),
-    url('./files/nunito-vietnamese-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/nunito-vietnamese-400.woff') format('woff'); /* Modern Browsers */
+    local('Nunito Regular'),
+    local('Nunito-Regular'), 
+    url('./files/nunito-vietnamese-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/nunito-vietnamese-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* nunito-400italic - vietnamese */
 @font-face {
@@ -65,10 +65,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Nunito Regular italic'),
-    local('Nunito-Regularitalic'),
-    url('./files/nunito-vietnamese-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/nunito-vietnamese-400-italic.woff') format('woff'); /* Modern Browsers */
+    local('Nunito Italic'),
+    local('Nunito-Italic'), 
+    url('./files/nunito-vietnamese-400-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/nunito-vietnamese-400-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* nunito-600normal - vietnamese */
 @font-face {
@@ -77,10 +77,10 @@
   font-display: swap;
   font-weight: 600;
   src:
-    local('Nunito SemiBold '),
-    local('Nunito-SemiBold'),
-    url('./files/nunito-vietnamese-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/nunito-vietnamese-600.woff') format('woff'); /* Modern Browsers */
+    local('Nunito SemiBold'),
+    local('Nunito-SemiBold'), 
+    url('./files/nunito-vietnamese-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/nunito-vietnamese-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* nunito-600italic - vietnamese */
 @font-face {
@@ -89,10 +89,10 @@
   font-display: swap;
   font-weight: 600;
   src:
-    local('Nunito SemiBold italic'),
-    local('Nunito-SemiBolditalic'),
-    url('./files/nunito-vietnamese-600-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/nunito-vietnamese-600-italic.woff') format('woff'); /* Modern Browsers */
+    local('Nunito SemiBold Italic'),
+    local('Nunito-SemiBoldItalic'), 
+    url('./files/nunito-vietnamese-600-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/nunito-vietnamese-600-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* nunito-700normal - vietnamese */
 @font-face {
@@ -101,10 +101,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Nunito Bold '),
-    local('Nunito-Bold'),
-    url('./files/nunito-vietnamese-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/nunito-vietnamese-700.woff') format('woff'); /* Modern Browsers */
+    local('Nunito Bold'),
+    local('Nunito-Bold'), 
+    url('./files/nunito-vietnamese-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/nunito-vietnamese-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* nunito-700italic - vietnamese */
 @font-face {
@@ -113,10 +113,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Nunito Bold italic'),
-    local('Nunito-Bolditalic'),
-    url('./files/nunito-vietnamese-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/nunito-vietnamese-700-italic.woff') format('woff'); /* Modern Browsers */
+    local('Nunito Bold Italic'),
+    local('Nunito-BoldItalic'), 
+    url('./files/nunito-vietnamese-700-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/nunito-vietnamese-700-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* nunito-800normal - vietnamese */
 @font-face {
@@ -125,10 +125,10 @@
   font-display: swap;
   font-weight: 800;
   src:
-    local('Nunito ExtraBold '),
-    local('Nunito-ExtraBold'),
-    url('./files/nunito-vietnamese-800.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/nunito-vietnamese-800.woff') format('woff'); /* Modern Browsers */
+    local('Nunito ExtraBold'),
+    local('Nunito-ExtraBold'), 
+    url('./files/nunito-vietnamese-800.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/nunito-vietnamese-800.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* nunito-800italic - vietnamese */
 @font-face {
@@ -137,10 +137,10 @@
   font-display: swap;
   font-weight: 800;
   src:
-    local('Nunito ExtraBold italic'),
-    local('Nunito-ExtraBolditalic'),
-    url('./files/nunito-vietnamese-800-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/nunito-vietnamese-800-italic.woff') format('woff'); /* Modern Browsers */
+    local('Nunito ExtraBold Italic'),
+    local('Nunito-ExtraBoldItalic'), 
+    url('./files/nunito-vietnamese-800-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/nunito-vietnamese-800-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* nunito-900normal - vietnamese */
 @font-face {
@@ -149,10 +149,10 @@
   font-display: swap;
   font-weight: 900;
   src:
-    local('Nunito Black '),
-    local('Nunito-Black'),
-    url('./files/nunito-vietnamese-900.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/nunito-vietnamese-900.woff') format('woff'); /* Modern Browsers */
+    local('Nunito Black'),
+    local('Nunito-Black'), 
+    url('./files/nunito-vietnamese-900.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/nunito-vietnamese-900.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* nunito-900italic - vietnamese */
 @font-face {
@@ -161,8 +161,8 @@
   font-display: swap;
   font-weight: 900;
   src:
-    local('Nunito Black italic'),
-    local('Nunito-Blackitalic'),
-    url('./files/nunito-vietnamese-900-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/nunito-vietnamese-900-italic.woff') format('woff'); /* Modern Browsers */
+    local('Nunito Black Italic'),
+    local('Nunito-BlackItalic'), 
+    url('./files/nunito-vietnamese-900-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/nunito-vietnamese-900-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

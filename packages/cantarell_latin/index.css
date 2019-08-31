@@ -5,10 +5,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Cantarell Regular '),
-    local('Cantarell-Regular'),
-    url('./files/cantarell-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cantarell-latin-400.woff') format('woff'); /* Modern Browsers */
+    local('Cantarell Regular'),
+    local('Cantarell-Regular'), 
+    url('./files/cantarell-latin-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/cantarell-latin-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* cantarell-400italic - latin */
 @font-face {
@@ -17,10 +17,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Cantarell Regular italic'),
-    local('Cantarell-Regularitalic'),
-    url('./files/cantarell-latin-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cantarell-latin-400-italic.woff') format('woff'); /* Modern Browsers */
+    local('Cantarell Oblique'),
+    local('Cantarell-Oblique'), 
+    url('./files/cantarell-latin-400-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/cantarell-latin-400-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* cantarell-700normal - latin */
 @font-face {
@@ -29,10 +29,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Cantarell Bold '),
-    local('Cantarell-Bold'),
-    url('./files/cantarell-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cantarell-latin-700.woff') format('woff'); /* Modern Browsers */
+    local('Cantarell Bold'),
+    local('Cantarell-Bold'), 
+    url('./files/cantarell-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/cantarell-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* cantarell-700italic - latin */
 @font-face {
@@ -41,8 +41,8 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Cantarell Bold italic'),
-    local('Cantarell-Bolditalic'),
-    url('./files/cantarell-latin-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cantarell-latin-700-italic.woff') format('woff'); /* Modern Browsers */
+    local('Cantarell Bold Oblique'),
+    local('Cantarell-BoldOblique'), 
+    url('./files/cantarell-latin-700-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/cantarell-latin-700-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

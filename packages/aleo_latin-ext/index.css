@@ -5,10 +5,10 @@
   font-display: swap;
   font-weight: 300;
   src:
-    local('Aleo Light '),
-    local('Aleo-Light'),
-    url('./files/aleo-latin-ext-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/aleo-latin-ext-300.woff') format('woff'); /* Modern Browsers */
+    local('Aleo Light'),
+    local('Aleo-Light'), 
+    url('./files/aleo-latin-ext-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/aleo-latin-ext-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* aleo-300italic - latin-ext */
 @font-face {
@@ -17,10 +17,10 @@
   font-display: swap;
   font-weight: 300;
   src:
-    local('Aleo Light italic'),
-    local('Aleo-Lightitalic'),
-    url('./files/aleo-latin-ext-300-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/aleo-latin-ext-300-italic.woff') format('woff'); /* Modern Browsers */
+    local('Aleo Light Italic'),
+    local('Aleo-LightItalic'), 
+    url('./files/aleo-latin-ext-300-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/aleo-latin-ext-300-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* aleo-400normal - latin-ext */
 @font-face {
@@ -29,10 +29,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Aleo Regular '),
-    local('Aleo-Regular'),
-    url('./files/aleo-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/aleo-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+    local('Aleo Regular'),
+    local('Aleo-Regular'), 
+    url('./files/aleo-latin-ext-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/aleo-latin-ext-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* aleo-400italic - latin-ext */
 @font-face {
@@ -41,10 +41,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Aleo Regular italic'),
-    local('Aleo-Regularitalic'),
-    url('./files/aleo-latin-ext-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/aleo-latin-ext-400-italic.woff') format('woff'); /* Modern Browsers */
+    local('Aleo Italic'),
+    local('Aleo-Italic'), 
+    url('./files/aleo-latin-ext-400-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/aleo-latin-ext-400-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* aleo-700normal - latin-ext */
 @font-face {
@@ -53,10 +53,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Aleo Bold '),
-    local('Aleo-Bold'),
-    url('./files/aleo-latin-ext-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/aleo-latin-ext-700.woff') format('woff'); /* Modern Browsers */
+    local('Aleo Bold'),
+    local('Aleo-Bold'), 
+    url('./files/aleo-latin-ext-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/aleo-latin-ext-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* aleo-700italic - latin-ext */
 @font-face {
@@ -65,8 +65,8 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Aleo Bold italic'),
-    local('Aleo-Bolditalic'),
-    url('./files/aleo-latin-ext-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/aleo-latin-ext-700-italic.woff') format('woff'); /* Modern Browsers */
+    local('Aleo Bold Italic'),
+    local('Aleo-BoldItalic'), 
+    url('./files/aleo-latin-ext-700-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/aleo-latin-ext-700-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

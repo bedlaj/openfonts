@@ -5,10 +5,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Noto Serif Regular '),
-    local('Noto Serif-Regular'),
-    url('./files/noto-serif-greek-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/noto-serif-greek-ext-400.woff') format('woff'); /* Modern Browsers */
+    local('Noto Serif'),
+    local('NotoSerif'), 
+    url('./files/noto-serif-greek-ext-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/noto-serif-greek-ext-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* noto-serif-400italic - greek-ext */
 @font-face {
@@ -17,10 +17,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Noto Serif Regular italic'),
-    local('Noto Serif-Regularitalic'),
-    url('./files/noto-serif-greek-ext-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/noto-serif-greek-ext-400-italic.woff') format('woff'); /* Modern Browsers */
+    local('Noto Serif Italic'),
+    local('NotoSerif-Italic'), 
+    url('./files/noto-serif-greek-ext-400-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/noto-serif-greek-ext-400-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* noto-serif-700normal - greek-ext */
 @font-face {
@@ -29,10 +29,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Noto Serif Bold '),
-    local('Noto Serif-Bold'),
-    url('./files/noto-serif-greek-ext-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/noto-serif-greek-ext-700.woff') format('woff'); /* Modern Browsers */
+    local('Noto Serif Bold'),
+    local('NotoSerif-Bold'), 
+    url('./files/noto-serif-greek-ext-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/noto-serif-greek-ext-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* noto-serif-700italic - greek-ext */
 @font-face {
@@ -41,8 +41,8 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Noto Serif Bold italic'),
-    local('Noto Serif-Bolditalic'),
-    url('./files/noto-serif-greek-ext-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/noto-serif-greek-ext-700-italic.woff') format('woff'); /* Modern Browsers */
+    local('Noto Serif Bold Italic'),
+    local('NotoSerif-BoldItalic'), 
+    url('./files/noto-serif-greek-ext-700-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/noto-serif-greek-ext-700-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

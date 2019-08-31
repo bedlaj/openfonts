@@ -5,10 +5,10 @@
   font-display: swap;
   font-weight: 300;
   src:
-    local('Open Sans Condensed Light '),
-    local('Open Sans Condensed-Light'),
-    url('./files/open-sans-condensed-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/open-sans-condensed-latin-300.woff') format('woff'); /* Modern Browsers */
+    local('Open Sans Condensed Light'),
+    local('OpenSansCondensed-Light'), 
+    url('./files/open-sans-condensed-latin-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/open-sans-condensed-latin-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* open-sans-condensed-300italic - latin */
 @font-face {
@@ -17,10 +17,10 @@
   font-display: swap;
   font-weight: 300;
   src:
-    local('Open Sans Condensed Light italic'),
-    local('Open Sans Condensed-Lightitalic'),
-    url('./files/open-sans-condensed-latin-300-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/open-sans-condensed-latin-300-italic.woff') format('woff'); /* Modern Browsers */
+    local('Open Sans Condensed Light Italic'),
+    local('OpenSansCondensed-LightItalic'), 
+    url('./files/open-sans-condensed-latin-300-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/open-sans-condensed-latin-300-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* open-sans-condensed-700normal - latin */
 @font-face {
@@ -29,8 +29,8 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Open Sans Condensed Bold '),
-    local('Open Sans Condensed-Bold'),
-    url('./files/open-sans-condensed-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/open-sans-condensed-latin-700.woff') format('woff'); /* Modern Browsers */
+    local('Open Sans Condensed Bold'),
+    local('OpenSansCondensed-Bold'), 
+    url('./files/open-sans-condensed-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/open-sans-condensed-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

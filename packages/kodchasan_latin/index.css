@@ -5,10 +5,10 @@
   font-display: swap;
   font-weight: 200;
   src:
-    local('Kodchasan Extra Light '),
-    local('Kodchasan-Extra Light'),
-    url('./files/kodchasan-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/kodchasan-latin-200.woff') format('woff'); /* Modern Browsers */
+    local('Kodchasan ExtraLight'),
+    local('Kodchasan-ExtraLight'), 
+    url('./files/kodchasan-latin-200.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/kodchasan-latin-200.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* kodchasan-200italic - latin */
 @font-face {
@@ -17,10 +17,10 @@
   font-display: swap;
   font-weight: 200;
   src:
-    local('Kodchasan Extra Light italic'),
-    local('Kodchasan-Extra Lightitalic'),
-    url('./files/kodchasan-latin-200-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/kodchasan-latin-200-italic.woff') format('woff'); /* Modern Browsers */
+    local('Kodchasan ExtraLight Italic'),
+    local('Kodchasan-ExtraLightItalic'), 
+    url('./files/kodchasan-latin-200-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/kodchasan-latin-200-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* kodchasan-300normal - latin */
 @font-face {
@@ -29,10 +29,10 @@
   font-display: swap;
   font-weight: 300;
   src:
-    local('Kodchasan Light '),
-    local('Kodchasan-Light'),
-    url('./files/kodchasan-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/kodchasan-latin-300.woff') format('woff'); /* Modern Browsers */
+    local('Kodchasan Light'),
+    local('Kodchasan-Light'), 
+    url('./files/kodchasan-latin-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/kodchasan-latin-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* kodchasan-300italic - latin */
 @font-face {
@@ -41,10 +41,10 @@
   font-display: swap;
   font-weight: 300;
   src:
-    local('Kodchasan Light italic'),
-    local('Kodchasan-Lightitalic'),
-    url('./files/kodchasan-latin-300-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/kodchasan-latin-300-italic.woff') format('woff'); /* Modern Browsers */
+    local('Kodchasan Light Italic'),
+    local('Kodchasan-LightItalic'), 
+    url('./files/kodchasan-latin-300-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/kodchasan-latin-300-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* kodchasan-400normal - latin */
 @font-face {
@@ -53,10 +53,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Kodchasan Regular '),
-    local('Kodchasan-Regular'),
-    url('./files/kodchasan-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/kodchasan-latin-400.woff') format('woff'); /* Modern Browsers */
+    local('Kodchasan Regular'),
+    local('Kodchasan-Regular'), 
+    url('./files/kodchasan-latin-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/kodchasan-latin-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* kodchasan-400italic - latin */
 @font-face {
@@ -65,10 +65,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Kodchasan Regular italic'),
-    local('Kodchasan-Regularitalic'),
-    url('./files/kodchasan-latin-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/kodchasan-latin-400-italic.woff') format('woff'); /* Modern Browsers */
+    local('Kodchasan Italic'),
+    local('Kodchasan-Italic'), 
+    url('./files/kodchasan-latin-400-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/kodchasan-latin-400-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* kodchasan-500normal - latin */
 @font-face {
@@ -77,10 +77,10 @@
   font-display: swap;
   font-weight: 500;
   src:
-    local('Kodchasan Medium '),
-    local('Kodchasan-Medium'),
-    url('./files/kodchasan-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/kodchasan-latin-500.woff') format('woff'); /* Modern Browsers */
+    local('Kodchasan Medium'),
+    local('Kodchasan-Medium'), 
+    url('./files/kodchasan-latin-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/kodchasan-latin-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* kodchasan-500italic - latin */
 @font-face {
@@ -89,10 +89,10 @@
   font-display: swap;
   font-weight: 500;
   src:
-    local('Kodchasan Medium italic'),
-    local('Kodchasan-Mediumitalic'),
-    url('./files/kodchasan-latin-500-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/kodchasan-latin-500-italic.woff') format('woff'); /* Modern Browsers */
+    local('Kodchasan Medium Italic'),
+    local('Kodchasan-MediumItalic'), 
+    url('./files/kodchasan-latin-500-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/kodchasan-latin-500-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* kodchasan-600normal - latin */
 @font-face {
@@ -101,10 +101,10 @@
   font-display: swap;
   font-weight: 600;
   src:
-    local('Kodchasan SemiBold '),
-    local('Kodchasan-SemiBold'),
-    url('./files/kodchasan-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/kodchasan-latin-600.woff') format('woff'); /* Modern Browsers */
+    local('Kodchasan SemiBold'),
+    local('Kodchasan-SemiBold'), 
+    url('./files/kodchasan-latin-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/kodchasan-latin-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* kodchasan-600italic - latin */
 @font-face {
@@ -113,10 +113,10 @@
   font-display: swap;
   font-weight: 600;
   src:
-    local('Kodchasan SemiBold italic'),
-    local('Kodchasan-SemiBolditalic'),
-    url('./files/kodchasan-latin-600-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/kodchasan-latin-600-italic.woff') format('woff'); /* Modern Browsers */
+    local('Kodchasan SemiBold Italic'),
+    local('Kodchasan-SemiBoldItalic'), 
+    url('./files/kodchasan-latin-600-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/kodchasan-latin-600-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* kodchasan-700normal - latin */
 @font-face {
@@ -125,10 +125,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Kodchasan Bold '),
-    local('Kodchasan-Bold'),
-    url('./files/kodchasan-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/kodchasan-latin-700.woff') format('woff'); /* Modern Browsers */
+    local('Kodchasan Bold'),
+    local('Kodchasan-Bold'), 
+    url('./files/kodchasan-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/kodchasan-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* kodchasan-700italic - latin */
 @font-face {
@@ -137,8 +137,8 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Kodchasan Bold italic'),
-    local('Kodchasan-Bolditalic'),
-    url('./files/kodchasan-latin-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/kodchasan-latin-700-italic.woff') format('woff'); /* Modern Browsers */
+    local('Kodchasan Bold Italic'),
+    local('Kodchasan-BoldItalic'), 
+    url('./files/kodchasan-latin-700-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/kodchasan-latin-700-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

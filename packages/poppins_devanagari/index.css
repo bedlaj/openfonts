@@ -5,10 +5,10 @@
   font-display: swap;
   font-weight: 100;
   src:
-    local('Poppins Thin '),
-    local('Poppins-Thin'),
-    url('./files/poppins-devanagari-100.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/poppins-devanagari-100.woff') format('woff'); /* Modern Browsers */
+    local('Poppins Thin'),
+    local('Poppins-Thin'), 
+    url('./files/poppins-devanagari-100.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/poppins-devanagari-100.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* poppins-100italic - devanagari */
 @font-face {
@@ -17,10 +17,10 @@
   font-display: swap;
   font-weight: 100;
   src:
-    local('Poppins Thin italic'),
-    local('Poppins-Thinitalic'),
-    url('./files/poppins-devanagari-100-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/poppins-devanagari-100-italic.woff') format('woff'); /* Modern Browsers */
+    local('Poppins Thin Italic'),
+    local('Poppins-ThinItalic'), 
+    url('./files/poppins-devanagari-100-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/poppins-devanagari-100-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* poppins-200normal - devanagari */
 @font-face {
@@ -29,10 +29,10 @@
   font-display: swap;
   font-weight: 200;
   src:
-    local('Poppins Extra Light '),
-    local('Poppins-Extra Light'),
-    url('./files/poppins-devanagari-200.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/poppins-devanagari-200.woff') format('woff'); /* Modern Browsers */
+    local('Poppins ExtraLight'),
+    local('Poppins-ExtraLight'), 
+    url('./files/poppins-devanagari-200.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/poppins-devanagari-200.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* poppins-200italic - devanagari */
 @font-face {
@@ -41,10 +41,10 @@
   font-display: swap;
   font-weight: 200;
   src:
-    local('Poppins Extra Light italic'),
-    local('Poppins-Extra Lightitalic'),
-    url('./files/poppins-devanagari-200-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/poppins-devanagari-200-italic.woff') format('woff'); /* Modern Browsers */
+    local('Poppins ExtraLight Italic'),
+    local('Poppins-ExtraLightItalic'), 
+    url('./files/poppins-devanagari-200-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/poppins-devanagari-200-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* poppins-300normal - devanagari */
 @font-face {
@@ -53,10 +53,10 @@
   font-display: swap;
   font-weight: 300;
   src:
-    local('Poppins Light '),
-    local('Poppins-Light'),
-    url('./files/poppins-devanagari-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/poppins-devanagari-300.woff') format('woff'); /* Modern Browsers */
+    local('Poppins Light'),
+    local('Poppins-Light'), 
+    url('./files/poppins-devanagari-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/poppins-devanagari-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* poppins-300italic - devanagari */
 @font-face {
@@ -65,10 +65,10 @@
   font-display: swap;
   font-weight: 300;
   src:
-    local('Poppins Light italic'),
-    local('Poppins-Lightitalic'),
-    url('./files/poppins-devanagari-300-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/poppins-devanagari-300-italic.woff') format('woff'); /* Modern Browsers */
+    local('Poppins Light Italic'),
+    local('Poppins-LightItalic'), 
+    url('./files/poppins-devanagari-300-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/poppins-devanagari-300-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* poppins-400normal - devanagari */
 @font-face {
@@ -77,10 +77,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Poppins Regular '),
-    local('Poppins-Regular'),
-    url('./files/poppins-devanagari-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/poppins-devanagari-400.woff') format('woff'); /* Modern Browsers */
+    local('Poppins Regular'),
+    local('Poppins-Regular'), 
+    url('./files/poppins-devanagari-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/poppins-devanagari-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* poppins-400italic - devanagari */
 @font-face {
@@ -89,10 +89,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Poppins Regular italic'),
-    local('Poppins-Regularitalic'),
-    url('./files/poppins-devanagari-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/poppins-devanagari-400-italic.woff') format('woff'); /* Modern Browsers */
+    local('Poppins Italic'),
+    local('Poppins-Italic'), 
+    url('./files/poppins-devanagari-400-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/poppins-devanagari-400-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* poppins-500normal - devanagari */
 @font-face {
@@ -101,10 +101,10 @@
   font-display: swap;
   font-weight: 500;
   src:
-    local('Poppins Medium '),
-    local('Poppins-Medium'),
-    url('./files/poppins-devanagari-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/poppins-devanagari-500.woff') format('woff'); /* Modern Browsers */
+    local('Poppins Medium'),
+    local('Poppins-Medium'), 
+    url('./files/poppins-devanagari-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/poppins-devanagari-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* poppins-500italic - devanagari */
 @font-face {
@@ -113,10 +113,10 @@
   font-display: swap;
   font-weight: 500;
   src:
-    local('Poppins Medium italic'),
-    local('Poppins-Mediumitalic'),
-    url('./files/poppins-devanagari-500-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/poppins-devanagari-500-italic.woff') format('woff'); /* Modern Browsers */
+    local('Poppins Medium Italic'),
+    local('Poppins-MediumItalic'), 
+    url('./files/poppins-devanagari-500-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/poppins-devanagari-500-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* poppins-600normal - devanagari */
 @font-face {
@@ -125,10 +125,10 @@
   font-display: swap;
   font-weight: 600;
   src:
-    local('Poppins SemiBold '),
-    local('Poppins-SemiBold'),
-    url('./files/poppins-devanagari-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/poppins-devanagari-600.woff') format('woff'); /* Modern Browsers */
+    local('Poppins SemiBold'),
+    local('Poppins-SemiBold'), 
+    url('./files/poppins-devanagari-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/poppins-devanagari-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* poppins-600italic - devanagari */
 @font-face {
@@ -137,10 +137,10 @@
   font-display: swap;
   font-weight: 600;
   src:
-    local('Poppins SemiBold italic'),
-    local('Poppins-SemiBolditalic'),
-    url('./files/poppins-devanagari-600-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/poppins-devanagari-600-italic.woff') format('woff'); /* Modern Browsers */
+    local('Poppins SemiBold Italic'),
+    local('Poppins-SemiBoldItalic'), 
+    url('./files/poppins-devanagari-600-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/poppins-devanagari-600-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* poppins-700normal - devanagari */
 @font-face {
@@ -149,10 +149,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Poppins Bold '),
-    local('Poppins-Bold'),
-    url('./files/poppins-devanagari-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/poppins-devanagari-700.woff') format('woff'); /* Modern Browsers */
+    local('Poppins Bold'),
+    local('Poppins-Bold'), 
+    url('./files/poppins-devanagari-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/poppins-devanagari-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* poppins-700italic - devanagari */
 @font-face {
@@ -161,10 +161,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Poppins Bold italic'),
-    local('Poppins-Bolditalic'),
-    url('./files/poppins-devanagari-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/poppins-devanagari-700-italic.woff') format('woff'); /* Modern Browsers */
+    local('Poppins Bold Italic'),
+    local('Poppins-BoldItalic'), 
+    url('./files/poppins-devanagari-700-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/poppins-devanagari-700-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* poppins-800normal - devanagari */
 @font-face {
@@ -173,10 +173,10 @@
   font-display: swap;
   font-weight: 800;
   src:
-    local('Poppins ExtraBold '),
-    local('Poppins-ExtraBold'),
-    url('./files/poppins-devanagari-800.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/poppins-devanagari-800.woff') format('woff'); /* Modern Browsers */
+    local('Poppins ExtraBold'),
+    local('Poppins-ExtraBold'), 
+    url('./files/poppins-devanagari-800.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/poppins-devanagari-800.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* poppins-800italic - devanagari */
 @font-face {
@@ -185,10 +185,10 @@
   font-display: swap;
   font-weight: 800;
   src:
-    local('Poppins ExtraBold italic'),
-    local('Poppins-ExtraBolditalic'),
-    url('./files/poppins-devanagari-800-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/poppins-devanagari-800-italic.woff') format('woff'); /* Modern Browsers */
+    local('Poppins ExtraBold Italic'),
+    local('Poppins-ExtraBoldItalic'), 
+    url('./files/poppins-devanagari-800-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/poppins-devanagari-800-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* poppins-900normal - devanagari */
 @font-face {
@@ -197,10 +197,10 @@
   font-display: swap;
   font-weight: 900;
   src:
-    local('Poppins Black '),
-    local('Poppins-Black'),
-    url('./files/poppins-devanagari-900.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/poppins-devanagari-900.woff') format('woff'); /* Modern Browsers */
+    local('Poppins Black'),
+    local('Poppins-Black'), 
+    url('./files/poppins-devanagari-900.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/poppins-devanagari-900.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* poppins-900italic - devanagari */
 @font-face {
@@ -209,8 +209,8 @@
   font-display: swap;
   font-weight: 900;
   src:
-    local('Poppins Black italic'),
-    local('Poppins-Blackitalic'),
-    url('./files/poppins-devanagari-900-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/poppins-devanagari-900-italic.woff') format('woff'); /* Modern Browsers */
+    local('Poppins Black Italic'),
+    local('Poppins-BlackItalic'), 
+    url('./files/poppins-devanagari-900-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/poppins-devanagari-900-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

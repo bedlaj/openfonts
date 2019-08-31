@@ -5,10 +5,10 @@
   font-display: swap;
   font-weight: 100;
   src:
-    local('Roboto Slab Thin '),
-    local('Roboto Slab-Thin'),
-    url('./files/roboto-slab-cyrillic-ext-100.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/roboto-slab-cyrillic-ext-100.woff') format('woff'); /* Modern Browsers */
+    local('Roboto Slab Thin'),
+    local('RobotoSlab-Thin'), 
+    url('./files/roboto-slab-cyrillic-ext-100.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/roboto-slab-cyrillic-ext-100.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* roboto-slab-300normal - cyrillic-ext */
 @font-face {
@@ -17,10 +17,10 @@
   font-display: swap;
   font-weight: 300;
   src:
-    local('Roboto Slab Light '),
-    local('Roboto Slab-Light'),
-    url('./files/roboto-slab-cyrillic-ext-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/roboto-slab-cyrillic-ext-300.woff') format('woff'); /* Modern Browsers */
+    local('Roboto Slab Light'),
+    local('RobotoSlab-Light'), 
+    url('./files/roboto-slab-cyrillic-ext-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/roboto-slab-cyrillic-ext-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* roboto-slab-400normal - cyrillic-ext */
 @font-face {
@@ -29,10 +29,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Roboto Slab Regular '),
-    local('Roboto Slab-Regular'),
-    url('./files/roboto-slab-cyrillic-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/roboto-slab-cyrillic-ext-400.woff') format('woff'); /* Modern Browsers */
+    local('Roboto Slab Regular'),
+    local('RobotoSlab-Regular'), 
+    url('./files/roboto-slab-cyrillic-ext-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/roboto-slab-cyrillic-ext-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* roboto-slab-700normal - cyrillic-ext */
 @font-face {
@@ -41,8 +41,8 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Roboto Slab Bold '),
-    local('Roboto Slab-Bold'),
-    url('./files/roboto-slab-cyrillic-ext-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/roboto-slab-cyrillic-ext-700.woff') format('woff'); /* Modern Browsers */
+    local('Roboto Slab Bold'),
+    local('RobotoSlab-Bold'), 
+    url('./files/roboto-slab-cyrillic-ext-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/roboto-slab-cyrillic-ext-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

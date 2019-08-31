@@ -5,10 +5,10 @@
   font-display: swap;
   font-weight: 100;
   src:
-    local('Sarabun Thin '),
-    local('Sarabun-Thin'),
-    url('./files/sarabun-thai-100.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/sarabun-thai-100.woff') format('woff'); /* Modern Browsers */
+    local('Sarabun Thin'),
+    local('Sarabun-Thin'), 
+    url('./files/sarabun-thai-100.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/sarabun-thai-100.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* sarabun-100italic - thai */
 @font-face {
@@ -17,10 +17,10 @@
   font-display: swap;
   font-weight: 100;
   src:
-    local('Sarabun Thin italic'),
-    local('Sarabun-Thinitalic'),
-    url('./files/sarabun-thai-100-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/sarabun-thai-100-italic.woff') format('woff'); /* Modern Browsers */
+    local('Sarabun Thin Italic'),
+    local('Sarabun-ThinItalic'), 
+    url('./files/sarabun-thai-100-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/sarabun-thai-100-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* sarabun-200normal - thai */
 @font-face {
@@ -29,10 +29,10 @@
   font-display: swap;
   font-weight: 200;
   src:
-    local('Sarabun Extra Light '),
-    local('Sarabun-Extra Light'),
-    url('./files/sarabun-thai-200.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/sarabun-thai-200.woff') format('woff'); /* Modern Browsers */
+    local('Sarabun ExtraLight'),
+    local('Sarabun-ExtraLight'), 
+    url('./files/sarabun-thai-200.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/sarabun-thai-200.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* sarabun-200italic - thai */
 @font-face {
@@ -41,10 +41,10 @@
   font-display: swap;
   font-weight: 200;
   src:
-    local('Sarabun Extra Light italic'),
-    local('Sarabun-Extra Lightitalic'),
-    url('./files/sarabun-thai-200-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/sarabun-thai-200-italic.woff') format('woff'); /* Modern Browsers */
+    local('Sarabun ExtraLight Italic'),
+    local('Sarabun-ExtraLightItalic'), 
+    url('./files/sarabun-thai-200-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/sarabun-thai-200-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* sarabun-300normal - thai */
 @font-face {
@@ -53,10 +53,10 @@
   font-display: swap;
   font-weight: 300;
   src:
-    local('Sarabun Light '),
-    local('Sarabun-Light'),
-    url('./files/sarabun-thai-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/sarabun-thai-300.woff') format('woff'); /* Modern Browsers */
+    local('Sarabun Light'),
+    local('Sarabun-Light'), 
+    url('./files/sarabun-thai-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/sarabun-thai-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* sarabun-300italic - thai */
 @font-face {
@@ -65,10 +65,10 @@
   font-display: swap;
   font-weight: 300;
   src:
-    local('Sarabun Light italic'),
-    local('Sarabun-Lightitalic'),
-    url('./files/sarabun-thai-300-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/sarabun-thai-300-italic.woff') format('woff'); /* Modern Browsers */
+    local('Sarabun Light Italic'),
+    local('Sarabun-LightItalic'), 
+    url('./files/sarabun-thai-300-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/sarabun-thai-300-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* sarabun-400normal - thai */
 @font-face {
@@ -77,10 +77,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Sarabun Regular '),
-    local('Sarabun-Regular'),
-    url('./files/sarabun-thai-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/sarabun-thai-400.woff') format('woff'); /* Modern Browsers */
+    local('Sarabun Regular'),
+    local('Sarabun-Regular'), 
+    url('./files/sarabun-thai-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/sarabun-thai-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* sarabun-400italic - thai */
 @font-face {
@@ -89,10 +89,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Sarabun Regular italic'),
-    local('Sarabun-Regularitalic'),
-    url('./files/sarabun-thai-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/sarabun-thai-400-italic.woff') format('woff'); /* Modern Browsers */
+    local('Sarabun Italic'),
+    local('Sarabun-Italic'), 
+    url('./files/sarabun-thai-400-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/sarabun-thai-400-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* sarabun-500normal - thai */
 @font-face {
@@ -101,10 +101,10 @@
   font-display: swap;
   font-weight: 500;
   src:
-    local('Sarabun Medium '),
-    local('Sarabun-Medium'),
-    url('./files/sarabun-thai-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/sarabun-thai-500.woff') format('woff'); /* Modern Browsers */
+    local('Sarabun Medium'),
+    local('Sarabun-Medium'), 
+    url('./files/sarabun-thai-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/sarabun-thai-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* sarabun-500italic - thai */
 @font-face {
@@ -113,10 +113,10 @@
   font-display: swap;
   font-weight: 500;
   src:
-    local('Sarabun Medium italic'),
-    local('Sarabun-Mediumitalic'),
-    url('./files/sarabun-thai-500-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/sarabun-thai-500-italic.woff') format('woff'); /* Modern Browsers */
+    local('Sarabun Medium Italic'),
+    local('Sarabun-MediumItalic'), 
+    url('./files/sarabun-thai-500-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/sarabun-thai-500-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* sarabun-600normal - thai */
 @font-face {
@@ -125,10 +125,10 @@
   font-display: swap;
   font-weight: 600;
   src:
-    local('Sarabun SemiBold '),
-    local('Sarabun-SemiBold'),
-    url('./files/sarabun-thai-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/sarabun-thai-600.woff') format('woff'); /* Modern Browsers */
+    local('Sarabun SemiBold'),
+    local('Sarabun-SemiBold'), 
+    url('./files/sarabun-thai-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/sarabun-thai-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* sarabun-600italic - thai */
 @font-face {
@@ -137,10 +137,10 @@
   font-display: swap;
   font-weight: 600;
   src:
-    local('Sarabun SemiBold italic'),
-    local('Sarabun-SemiBolditalic'),
-    url('./files/sarabun-thai-600-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/sarabun-thai-600-italic.woff') format('woff'); /* Modern Browsers */
+    local('Sarabun SemiBold Italic'),
+    local('Sarabun-SemiBoldItalic'), 
+    url('./files/sarabun-thai-600-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/sarabun-thai-600-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* sarabun-700normal - thai */
 @font-face {
@@ -149,10 +149,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Sarabun Bold '),
-    local('Sarabun-Bold'),
-    url('./files/sarabun-thai-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/sarabun-thai-700.woff') format('woff'); /* Modern Browsers */
+    local('Sarabun Bold'),
+    local('Sarabun-Bold'), 
+    url('./files/sarabun-thai-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/sarabun-thai-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* sarabun-700italic - thai */
 @font-face {
@@ -161,10 +161,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Sarabun Bold italic'),
-    local('Sarabun-Bolditalic'),
-    url('./files/sarabun-thai-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/sarabun-thai-700-italic.woff') format('woff'); /* Modern Browsers */
+    local('Sarabun Bold Italic'),
+    local('Sarabun-BoldItalic'), 
+    url('./files/sarabun-thai-700-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/sarabun-thai-700-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* sarabun-800normal - thai */
 @font-face {
@@ -173,10 +173,10 @@
   font-display: swap;
   font-weight: 800;
   src:
-    local('Sarabun ExtraBold '),
-    local('Sarabun-ExtraBold'),
-    url('./files/sarabun-thai-800.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/sarabun-thai-800.woff') format('woff'); /* Modern Browsers */
+    local('Sarabun ExtraBold'),
+    local('Sarabun-ExtraBold'), 
+    url('./files/sarabun-thai-800.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/sarabun-thai-800.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* sarabun-800italic - thai */
 @font-face {
@@ -185,8 +185,8 @@
   font-display: swap;
   font-weight: 800;
   src:
-    local('Sarabun ExtraBold italic'),
-    local('Sarabun-ExtraBolditalic'),
-    url('./files/sarabun-thai-800-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/sarabun-thai-800-italic.woff') format('woff'); /* Modern Browsers */
+    local('Sarabun ExtraBold Italic'),
+    local('Sarabun-ExtraBoldItalic'), 
+    url('./files/sarabun-thai-800-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/sarabun-thai-800-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

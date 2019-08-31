@@ -5,10 +5,10 @@
   font-display: swap;
   font-weight: 100;
   src:
-    local('Overpass Thin '),
-    local('Overpass-Thin'),
-    url('./files/overpass-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/overpass-latin-100.woff') format('woff'); /* Modern Browsers */
+    local('Overpass Thin'),
+    local('Overpass-Thin'), 
+    url('./files/overpass-latin-100.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/overpass-latin-100.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* overpass-100italic - latin */
 @font-face {
@@ -17,10 +17,10 @@
   font-display: swap;
   font-weight: 100;
   src:
-    local('Overpass Thin italic'),
-    local('Overpass-Thinitalic'),
-    url('./files/overpass-latin-100-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/overpass-latin-100-italic.woff') format('woff'); /* Modern Browsers */
+    local('Overpass Thin Italic'),
+    local('Overpass-ThinItalic'), 
+    url('./files/overpass-latin-100-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/overpass-latin-100-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* overpass-200normal - latin */
 @font-face {
@@ -29,10 +29,10 @@
   font-display: swap;
   font-weight: 200;
   src:
-    local('Overpass Extra Light '),
-    local('Overpass-Extra Light'),
-    url('./files/overpass-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/overpass-latin-200.woff') format('woff'); /* Modern Browsers */
+    local('Overpass ExtraLight'),
+    local('Overpass-ExtraLight'), 
+    url('./files/overpass-latin-200.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/overpass-latin-200.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* overpass-200italic - latin */
 @font-face {
@@ -41,10 +41,10 @@
   font-display: swap;
   font-weight: 200;
   src:
-    local('Overpass Extra Light italic'),
-    local('Overpass-Extra Lightitalic'),
-    url('./files/overpass-latin-200-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/overpass-latin-200-italic.woff') format('woff'); /* Modern Browsers */
+    local('Overpass ExtraLight Italic'),
+    local('Overpass-ExtraLightItalic'), 
+    url('./files/overpass-latin-200-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/overpass-latin-200-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* overpass-300normal - latin */
 @font-face {
@@ -53,10 +53,10 @@
   font-display: swap;
   font-weight: 300;
   src:
-    local('Overpass Light '),
-    local('Overpass-Light'),
-    url('./files/overpass-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/overpass-latin-300.woff') format('woff'); /* Modern Browsers */
+    local('Overpass Light'),
+    local('Overpass-Light'), 
+    url('./files/overpass-latin-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/overpass-latin-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* overpass-300italic - latin */
 @font-face {
@@ -65,10 +65,10 @@
   font-display: swap;
   font-weight: 300;
   src:
-    local('Overpass Light italic'),
-    local('Overpass-Lightitalic'),
-    url('./files/overpass-latin-300-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/overpass-latin-300-italic.woff') format('woff'); /* Modern Browsers */
+    local('Overpass Light Italic'),
+    local('Overpass-LightItalic'), 
+    url('./files/overpass-latin-300-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/overpass-latin-300-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* overpass-400normal - latin */
 @font-face {
@@ -77,10 +77,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Overpass Regular '),
-    local('Overpass-Regular'),
-    url('./files/overpass-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/overpass-latin-400.woff') format('woff'); /* Modern Browsers */
+    local('Overpass Regular'),
+    local('Overpass-Regular'), 
+    url('./files/overpass-latin-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/overpass-latin-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* overpass-400italic - latin */
 @font-face {
@@ -89,10 +89,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Overpass Regular italic'),
-    local('Overpass-Regularitalic'),
-    url('./files/overpass-latin-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/overpass-latin-400-italic.woff') format('woff'); /* Modern Browsers */
+    local('Overpass Italic'),
+    local('Overpass-Italic'), 
+    url('./files/overpass-latin-400-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/overpass-latin-400-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* overpass-600normal - latin */
 @font-face {
@@ -101,10 +101,10 @@
   font-display: swap;
   font-weight: 600;
   src:
-    local('Overpass SemiBold '),
-    local('Overpass-SemiBold'),
-    url('./files/overpass-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/overpass-latin-600.woff') format('woff'); /* Modern Browsers */
+    local('Overpass SemiBold'),
+    local('Overpass-SemiBold'), 
+    url('./files/overpass-latin-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/overpass-latin-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* overpass-600italic - latin */
 @font-face {
@@ -113,10 +113,10 @@
   font-display: swap;
   font-weight: 600;
   src:
-    local('Overpass SemiBold italic'),
-    local('Overpass-SemiBolditalic'),
-    url('./files/overpass-latin-600-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/overpass-latin-600-italic.woff') format('woff'); /* Modern Browsers */
+    local('Overpass SemiBold Italic'),
+    local('Overpass-SemiBoldItalic'), 
+    url('./files/overpass-latin-600-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/overpass-latin-600-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* overpass-700normal - latin */
 @font-face {
@@ -125,10 +125,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Overpass Bold '),
-    local('Overpass-Bold'),
-    url('./files/overpass-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/overpass-latin-700.woff') format('woff'); /* Modern Browsers */
+    local('Overpass Bold'),
+    local('Overpass-Bold'), 
+    url('./files/overpass-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/overpass-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* overpass-700italic - latin */
 @font-face {
@@ -137,10 +137,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Overpass Bold italic'),
-    local('Overpass-Bolditalic'),
-    url('./files/overpass-latin-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/overpass-latin-700-italic.woff') format('woff'); /* Modern Browsers */
+    local('Overpass Bold Italic'),
+    local('Overpass-BoldItalic'), 
+    url('./files/overpass-latin-700-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/overpass-latin-700-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* overpass-800normal - latin */
 @font-face {
@@ -149,10 +149,10 @@
   font-display: swap;
   font-weight: 800;
   src:
-    local('Overpass ExtraBold '),
-    local('Overpass-ExtraBold'),
-    url('./files/overpass-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/overpass-latin-800.woff') format('woff'); /* Modern Browsers */
+    local('Overpass ExtraBold'),
+    local('Overpass-ExtraBold'), 
+    url('./files/overpass-latin-800.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/overpass-latin-800.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* overpass-800italic - latin */
 @font-face {
@@ -161,10 +161,10 @@
   font-display: swap;
   font-weight: 800;
   src:
-    local('Overpass ExtraBold italic'),
-    local('Overpass-ExtraBolditalic'),
-    url('./files/overpass-latin-800-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/overpass-latin-800-italic.woff') format('woff'); /* Modern Browsers */
+    local('Overpass ExtraBold Italic'),
+    local('Overpass-ExtraBoldItalic'), 
+    url('./files/overpass-latin-800-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/overpass-latin-800-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* overpass-900normal - latin */
 @font-face {
@@ -173,10 +173,10 @@
   font-display: swap;
   font-weight: 900;
   src:
-    local('Overpass Black '),
-    local('Overpass-Black'),
-    url('./files/overpass-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/overpass-latin-900.woff') format('woff'); /* Modern Browsers */
+    local('Overpass Black'),
+    local('Overpass-Black'), 
+    url('./files/overpass-latin-900.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/overpass-latin-900.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* overpass-900italic - latin */
 @font-face {
@@ -185,8 +185,8 @@
   font-display: swap;
   font-weight: 900;
   src:
-    local('Overpass Black italic'),
-    local('Overpass-Blackitalic'),
-    url('./files/overpass-latin-900-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/overpass-latin-900-italic.woff') format('woff'); /* Modern Browsers */
+    local('Overpass Black Italic'),
+    local('Overpass-BlackItalic'), 
+    url('./files/overpass-latin-900-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/overpass-latin-900-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

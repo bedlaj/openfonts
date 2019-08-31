@@ -5,10 +5,10 @@
   font-display: swap;
   font-weight: 200;
   src:
-    local('Maitree Extra Light '),
-    local('Maitree-Extra Light'),
-    url('./files/maitree-all-200.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/maitree-all-200.woff') format('woff'); /* Modern Browsers */
+    local('Maitree ExtraLight'),
+    local('Maitree-ExtraLight'), 
+    url('./files/maitree-all-200.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/maitree-all-200.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* maitree-300normal - all */
 @font-face {
@@ -17,10 +17,10 @@
   font-display: swap;
   font-weight: 300;
   src:
-    local('Maitree Light '),
-    local('Maitree-Light'),
-    url('./files/maitree-all-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/maitree-all-300.woff') format('woff'); /* Modern Browsers */
+    local('Maitree Light'),
+    local('Maitree-Light'), 
+    url('./files/maitree-all-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/maitree-all-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* maitree-400normal - all */
 @font-face {
@@ -29,10 +29,9 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Maitree Regular '),
-    local('Maitree-Regular'),
-    url('./files/maitree-all-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/maitree-all-400.woff') format('woff'); /* Modern Browsers */
+    local('Maitree'), 
+    url('./files/maitree-all-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/maitree-all-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* maitree-500normal - all */
 @font-face {
@@ -41,10 +40,10 @@
   font-display: swap;
   font-weight: 500;
   src:
-    local('Maitree Medium '),
-    local('Maitree-Medium'),
-    url('./files/maitree-all-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/maitree-all-500.woff') format('woff'); /* Modern Browsers */
+    local('Maitree Medium'),
+    local('Maitree-Medium'), 
+    url('./files/maitree-all-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/maitree-all-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* maitree-600normal - all */
 @font-face {
@@ -53,10 +52,10 @@
   font-display: swap;
   font-weight: 600;
   src:
-    local('Maitree SemiBold '),
-    local('Maitree-SemiBold'),
-    url('./files/maitree-all-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/maitree-all-600.woff') format('woff'); /* Modern Browsers */
+    local('Maitree SemiBold'),
+    local('Maitree-SemiBold'), 
+    url('./files/maitree-all-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/maitree-all-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* maitree-700normal - all */
 @font-face {
@@ -65,8 +64,8 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Maitree Bold '),
-    local('Maitree-Bold'),
-    url('./files/maitree-all-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/maitree-all-700.woff') format('woff'); /* Modern Browsers */
+    local('Maitree Bold'),
+    local('Maitree-Bold'), 
+    url('./files/maitree-all-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/maitree-all-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

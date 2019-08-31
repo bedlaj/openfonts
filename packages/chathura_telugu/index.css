@@ -5,10 +5,10 @@
   font-display: swap;
   font-weight: 100;
   src:
-    local('Chathura Thin '),
-    local('Chathura-Thin'),
-    url('./files/chathura-telugu-100.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/chathura-telugu-100.woff') format('woff'); /* Modern Browsers */
+    local('Chathura Thin'),
+    local('Chathura-Thin'), 
+    url('./files/chathura-telugu-100.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/chathura-telugu-100.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* chathura-300normal - telugu */
 @font-face {
@@ -17,10 +17,10 @@
   font-display: swap;
   font-weight: 300;
   src:
-    local('Chathura Light '),
-    local('Chathura-Light'),
-    url('./files/chathura-telugu-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/chathura-telugu-300.woff') format('woff'); /* Modern Browsers */
+    local('Chathura Light'),
+    local('Chathura-Light'), 
+    url('./files/chathura-telugu-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/chathura-telugu-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* chathura-400normal - telugu */
 @font-face {
@@ -29,10 +29,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Chathura Regular '),
-    local('Chathura-Regular'),
-    url('./files/chathura-telugu-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/chathura-telugu-400.woff') format('woff'); /* Modern Browsers */
+    local('Chathura Regular'),
+    local('Chathura-Regular'), 
+    url('./files/chathura-telugu-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/chathura-telugu-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* chathura-700normal - telugu */
 @font-face {
@@ -41,10 +41,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Chathura Bold '),
-    local('Chathura-Bold'),
-    url('./files/chathura-telugu-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/chathura-telugu-700.woff') format('woff'); /* Modern Browsers */
+    local('Chathura Bold'),
+    local('Chathura-Bold'), 
+    url('./files/chathura-telugu-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/chathura-telugu-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* chathura-800normal - telugu */
 @font-face {
@@ -53,8 +53,8 @@
   font-display: swap;
   font-weight: 800;
   src:
-    local('Chathura ExtraBold '),
-    local('Chathura-ExtraBold'),
-    url('./files/chathura-telugu-800.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/chathura-telugu-800.woff') format('woff'); /* Modern Browsers */
+    local('Chathura ExtraBold'),
+    local('Chathura-ExtraBold'), 
+    url('./files/chathura-telugu-800.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/chathura-telugu-800.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

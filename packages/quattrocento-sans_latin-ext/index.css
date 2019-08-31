@@ -5,10 +5,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Quattrocento Sans Regular '),
-    local('Quattrocento Sans-Regular'),
-    url('./files/quattrocento-sans-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/quattrocento-sans-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+    local('Quattrocento Sans'),
+    local('QuattrocentoSans'), 
+    url('./files/quattrocento-sans-latin-ext-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/quattrocento-sans-latin-ext-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* quattrocento-sans-400italic - latin-ext */
 @font-face {
@@ -17,10 +17,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Quattrocento Sans Regular italic'),
-    local('Quattrocento Sans-Regularitalic'),
-    url('./files/quattrocento-sans-latin-ext-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/quattrocento-sans-latin-ext-400-italic.woff') format('woff'); /* Modern Browsers */
+    local('Quattrocento Sans Italic'),
+    local('QuattrocentoSans-Italic'), 
+    url('./files/quattrocento-sans-latin-ext-400-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/quattrocento-sans-latin-ext-400-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* quattrocento-sans-700normal - latin-ext */
 @font-face {
@@ -29,10 +29,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Quattrocento Sans Bold '),
-    local('Quattrocento Sans-Bold'),
-    url('./files/quattrocento-sans-latin-ext-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/quattrocento-sans-latin-ext-700.woff') format('woff'); /* Modern Browsers */
+    local('Quattrocento Sans Bold'),
+    local('QuattrocentoSans-Bold'), 
+    url('./files/quattrocento-sans-latin-ext-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/quattrocento-sans-latin-ext-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* quattrocento-sans-700italic - latin-ext */
 @font-face {
@@ -41,8 +41,8 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Quattrocento Sans Bold italic'),
-    local('Quattrocento Sans-Bolditalic'),
-    url('./files/quattrocento-sans-latin-ext-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/quattrocento-sans-latin-ext-700-italic.woff') format('woff'); /* Modern Browsers */
+    local('Quattrocento Sans Bold Italic'),
+    local('QuattrocentoSans-BoldItalic'), 
+    url('./files/quattrocento-sans-latin-ext-700-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/quattrocento-sans-latin-ext-700-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

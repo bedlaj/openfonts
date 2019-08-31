@@ -5,10 +5,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Rufina Regular '),
-    local('Rufina-Regular'),
-    url('./files/rufina-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/rufina-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+    local('Rufina'),
+    local('Rufina-Regular'), 
+    url('./files/rufina-latin-ext-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/rufina-latin-ext-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* rufina-700normal - latin-ext */
 @font-face {
@@ -17,8 +17,8 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Rufina Bold '),
-    local('Rufina-Bold'),
-    url('./files/rufina-latin-ext-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/rufina-latin-ext-700.woff') format('woff'); /* Modern Browsers */
+    local('Rufina Bold'),
+    local('Rufina-Bold'), 
+    url('./files/rufina-latin-ext-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/rufina-latin-ext-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

@@ -5,10 +5,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Ubuntu Mono Regular '),
-    local('Ubuntu Mono-Regular'),
-    url('./files/ubuntu-mono-greek-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/ubuntu-mono-greek-400.woff') format('woff'); /* Modern Browsers */
+    local('Ubuntu Mono'),
+    local('UbuntuMono-Regular'), 
+    url('./files/ubuntu-mono-greek-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/ubuntu-mono-greek-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* ubuntu-mono-400italic - greek */
 @font-face {
@@ -17,10 +17,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Ubuntu Mono Regular italic'),
-    local('Ubuntu Mono-Regularitalic'),
-    url('./files/ubuntu-mono-greek-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/ubuntu-mono-greek-400-italic.woff') format('woff'); /* Modern Browsers */
+    local('Ubuntu Mono Italic'),
+    local('UbuntuMono-Italic'), 
+    url('./files/ubuntu-mono-greek-400-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/ubuntu-mono-greek-400-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* ubuntu-mono-700normal - greek */
 @font-face {
@@ -29,10 +29,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Ubuntu Mono Bold '),
-    local('Ubuntu Mono-Bold'),
-    url('./files/ubuntu-mono-greek-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/ubuntu-mono-greek-700.woff') format('woff'); /* Modern Browsers */
+    local('Ubuntu Mono Bold'),
+    local('UbuntuMono-Bold'), 
+    url('./files/ubuntu-mono-greek-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/ubuntu-mono-greek-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* ubuntu-mono-700italic - greek */
 @font-face {
@@ -41,8 +41,8 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Ubuntu Mono Bold italic'),
-    local('Ubuntu Mono-Bolditalic'),
-    url('./files/ubuntu-mono-greek-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/ubuntu-mono-greek-700-italic.woff') format('woff'); /* Modern Browsers */
+    local('Ubuntu Mono Bold Italic'),
+    local('UbuntuMono-BoldItalic'), 
+    url('./files/ubuntu-mono-greek-700-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/ubuntu-mono-greek-700-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

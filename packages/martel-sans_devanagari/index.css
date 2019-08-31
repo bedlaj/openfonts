@@ -5,10 +5,10 @@
   font-display: swap;
   font-weight: 200;
   src:
-    local('Martel Sans Extra Light '),
-    local('Martel Sans-Extra Light'),
-    url('./files/martel-sans-devanagari-200.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/martel-sans-devanagari-200.woff') format('woff'); /* Modern Browsers */
+    local('Martel Sans ExtraLight'),
+    local('MartelSans-ExtraLight'), 
+    url('./files/martel-sans-devanagari-200.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/martel-sans-devanagari-200.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* martel-sans-300normal - devanagari */
 @font-face {
@@ -17,10 +17,10 @@
   font-display: swap;
   font-weight: 300;
   src:
-    local('Martel Sans Light '),
-    local('Martel Sans-Light'),
-    url('./files/martel-sans-devanagari-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/martel-sans-devanagari-300.woff') format('woff'); /* Modern Browsers */
+    local('Martel Sans Light'),
+    local('MartelSans-Light'), 
+    url('./files/martel-sans-devanagari-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/martel-sans-devanagari-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* martel-sans-400normal - devanagari */
 @font-face {
@@ -29,10 +29,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Martel Sans Regular '),
-    local('Martel Sans-Regular'),
-    url('./files/martel-sans-devanagari-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/martel-sans-devanagari-400.woff') format('woff'); /* Modern Browsers */
+    local('Martel Sans Regular'),
+    local('MartelSans-Regular'), 
+    url('./files/martel-sans-devanagari-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/martel-sans-devanagari-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* martel-sans-600normal - devanagari */
 @font-face {
@@ -41,10 +41,10 @@
   font-display: swap;
   font-weight: 600;
   src:
-    local('Martel Sans SemiBold '),
-    local('Martel Sans-SemiBold'),
-    url('./files/martel-sans-devanagari-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/martel-sans-devanagari-600.woff') format('woff'); /* Modern Browsers */
+    local('Martel Sans SemiBold'),
+    local('MartelSans-SemiBold'), 
+    url('./files/martel-sans-devanagari-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/martel-sans-devanagari-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* martel-sans-700normal - devanagari */
 @font-face {
@@ -53,10 +53,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Martel Sans Bold '),
-    local('Martel Sans-Bold'),
-    url('./files/martel-sans-devanagari-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/martel-sans-devanagari-700.woff') format('woff'); /* Modern Browsers */
+    local('Martel Sans Bold'),
+    local('MartelSans-Bold'), 
+    url('./files/martel-sans-devanagari-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/martel-sans-devanagari-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* martel-sans-800normal - devanagari */
 @font-face {
@@ -65,10 +65,10 @@
   font-display: swap;
   font-weight: 800;
   src:
-    local('Martel Sans ExtraBold '),
-    local('Martel Sans-ExtraBold'),
-    url('./files/martel-sans-devanagari-800.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/martel-sans-devanagari-800.woff') format('woff'); /* Modern Browsers */
+    local('Martel Sans ExtraBold'),
+    local('MartelSans-ExtraBold'), 
+    url('./files/martel-sans-devanagari-800.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/martel-sans-devanagari-800.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* martel-sans-900normal - devanagari */
 @font-face {
@@ -77,8 +77,8 @@
   font-display: swap;
   font-weight: 900;
   src:
-    local('Martel Sans Black '),
-    local('Martel Sans-Black'),
-    url('./files/martel-sans-devanagari-900.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/martel-sans-devanagari-900.woff') format('woff'); /* Modern Browsers */
+    local('Martel Sans Black'),
+    local('MartelSans-Black'), 
+    url('./files/martel-sans-devanagari-900.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/martel-sans-devanagari-900.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

@@ -5,10 +5,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('PT Sans Regular '),
-    local('PT Sans-Regular'),
-    url('./files/pt-sans-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/pt-sans-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+    local('PT Sans'),
+    local('PTSans-Regular'), 
+    url('./files/pt-sans-latin-ext-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/pt-sans-latin-ext-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* pt-sans-400italic - latin-ext */
 @font-face {
@@ -17,10 +17,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('PT Sans Regular italic'),
-    local('PT Sans-Regularitalic'),
-    url('./files/pt-sans-latin-ext-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/pt-sans-latin-ext-400-italic.woff') format('woff'); /* Modern Browsers */
+    local('PT Sans Italic'),
+    local('PTSans-Italic'), 
+    url('./files/pt-sans-latin-ext-400-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/pt-sans-latin-ext-400-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* pt-sans-700normal - latin-ext */
 @font-face {
@@ -29,10 +29,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('PT Sans Bold '),
-    local('PT Sans-Bold'),
-    url('./files/pt-sans-latin-ext-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/pt-sans-latin-ext-700.woff') format('woff'); /* Modern Browsers */
+    local('PT Sans Bold'),
+    local('PTSans-Bold'), 
+    url('./files/pt-sans-latin-ext-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/pt-sans-latin-ext-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* pt-sans-700italic - latin-ext */
 @font-face {
@@ -41,8 +41,8 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('PT Sans Bold italic'),
-    local('PT Sans-Bolditalic'),
-    url('./files/pt-sans-latin-ext-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/pt-sans-latin-ext-700-italic.woff') format('woff'); /* Modern Browsers */
+    local('PT Sans Bold Italic'),
+    local('PTSans-BoldItalic'), 
+    url('./files/pt-sans-latin-ext-700-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/pt-sans-latin-ext-700-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

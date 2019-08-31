@@ -5,10 +5,10 @@
   font-display: swap;
   font-weight: 100;
   src:
-    local('Catamaran Thin '),
-    local('Catamaran-Thin'),
-    url('./files/catamaran-tamil-100.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/catamaran-tamil-100.woff') format('woff'); /* Modern Browsers */
+    local('Catamaran Thin'),
+    local('Catamaran-Thin'), 
+    url('./files/catamaran-tamil-100.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/catamaran-tamil-100.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* catamaran-200normal - tamil */
 @font-face {
@@ -17,10 +17,10 @@
   font-display: swap;
   font-weight: 200;
   src:
-    local('Catamaran Extra Light '),
-    local('Catamaran-Extra Light'),
-    url('./files/catamaran-tamil-200.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/catamaran-tamil-200.woff') format('woff'); /* Modern Browsers */
+    local('Catamaran ExtraLight'),
+    local('Catamaran-ExtraLight'), 
+    url('./files/catamaran-tamil-200.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/catamaran-tamil-200.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* catamaran-300normal - tamil */
 @font-face {
@@ -29,10 +29,10 @@
   font-display: swap;
   font-weight: 300;
   src:
-    local('Catamaran Light '),
-    local('Catamaran-Light'),
-    url('./files/catamaran-tamil-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/catamaran-tamil-300.woff') format('woff'); /* Modern Browsers */
+    local('Catamaran Light'),
+    local('Catamaran-Light'), 
+    url('./files/catamaran-tamil-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/catamaran-tamil-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* catamaran-400normal - tamil */
 @font-face {
@@ -41,10 +41,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Catamaran Regular '),
-    local('Catamaran-Regular'),
-    url('./files/catamaran-tamil-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/catamaran-tamil-400.woff') format('woff'); /* Modern Browsers */
+    local('Catamaran Regular'),
+    local('Catamaran-Regular'), 
+    url('./files/catamaran-tamil-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/catamaran-tamil-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* catamaran-500normal - tamil */
 @font-face {
@@ -53,10 +53,10 @@
   font-display: swap;
   font-weight: 500;
   src:
-    local('Catamaran Medium '),
-    local('Catamaran-Medium'),
-    url('./files/catamaran-tamil-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/catamaran-tamil-500.woff') format('woff'); /* Modern Browsers */
+    local('Catamaran Medium'),
+    local('Catamaran-Medium'), 
+    url('./files/catamaran-tamil-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/catamaran-tamil-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* catamaran-600normal - tamil */
 @font-face {
@@ -65,10 +65,10 @@
   font-display: swap;
   font-weight: 600;
   src:
-    local('Catamaran SemiBold '),
-    local('Catamaran-SemiBold'),
-    url('./files/catamaran-tamil-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/catamaran-tamil-600.woff') format('woff'); /* Modern Browsers */
+    local('Catamaran SemiBold'),
+    local('Catamaran-SemiBold'), 
+    url('./files/catamaran-tamil-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/catamaran-tamil-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* catamaran-700normal - tamil */
 @font-face {
@@ -77,10 +77,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Catamaran Bold '),
-    local('Catamaran-Bold'),
-    url('./files/catamaran-tamil-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/catamaran-tamil-700.woff') format('woff'); /* Modern Browsers */
+    local('Catamaran Bold'),
+    local('Catamaran-Bold'), 
+    url('./files/catamaran-tamil-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/catamaran-tamil-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* catamaran-800normal - tamil */
 @font-face {
@@ -89,10 +89,10 @@
   font-display: swap;
   font-weight: 800;
   src:
-    local('Catamaran ExtraBold '),
-    local('Catamaran-ExtraBold'),
-    url('./files/catamaran-tamil-800.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/catamaran-tamil-800.woff') format('woff'); /* Modern Browsers */
+    local('Catamaran ExtraBold'),
+    local('Catamaran-ExtraBold'), 
+    url('./files/catamaran-tamil-800.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/catamaran-tamil-800.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* catamaran-900normal - tamil */
 @font-face {
@@ -101,8 +101,8 @@
   font-display: swap;
   font-weight: 900;
   src:
-    local('Catamaran Black '),
-    local('Catamaran-Black'),
-    url('./files/catamaran-tamil-900.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/catamaran-tamil-900.woff') format('woff'); /* Modern Browsers */
+    local('Catamaran Black'),
+    local('Catamaran-Black'), 
+    url('./files/catamaran-tamil-900.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/catamaran-tamil-900.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

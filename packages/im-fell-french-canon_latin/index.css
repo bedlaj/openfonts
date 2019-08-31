@@ -5,10 +5,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('IM Fell French Canon Regular '),
-    local('IM Fell French Canon-Regular'),
-    url('./files/im-fell-french-canon-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/im-fell-french-canon-latin-400.woff') format('woff'); /* Modern Browsers */
+    local('IM FELL French Canon Roman'),
+    local('IM_FELL_French_Canon_Roman'), 
+    url('./files/im-fell-french-canon-latin-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/im-fell-french-canon-latin-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* im-fell-french-canon-400italic - latin */
 @font-face {
@@ -17,8 +17,8 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('IM Fell French Canon Regular italic'),
-    local('IM Fell French Canon-Regularitalic'),
-    url('./files/im-fell-french-canon-latin-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/im-fell-french-canon-latin-400-italic.woff') format('woff'); /* Modern Browsers */
+    local('IM FELL French Canon Italic'),
+    local('IM_FELL_French_Canon_Italic'), 
+    url('./files/im-fell-french-canon-latin-400-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/im-fell-french-canon-latin-400-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

@@ -5,10 +5,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Asap Regular '),
-    local('Asap-Regular'),
-    url('./files/asap-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/asap-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+    local('Asap Regular'),
+    local('Asap-Regular'), 
+    url('./files/asap-latin-ext-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/asap-latin-ext-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* asap-400italic - latin-ext */
 @font-face {
@@ -17,10 +17,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Asap Regular italic'),
-    local('Asap-Regularitalic'),
-    url('./files/asap-latin-ext-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/asap-latin-ext-400-italic.woff') format('woff'); /* Modern Browsers */
+    local('Asap Italic'),
+    local('Asap-Italic'), 
+    url('./files/asap-latin-ext-400-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/asap-latin-ext-400-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* asap-500normal - latin-ext */
 @font-face {
@@ -29,10 +29,10 @@
   font-display: swap;
   font-weight: 500;
   src:
-    local('Asap Medium '),
-    local('Asap-Medium'),
-    url('./files/asap-latin-ext-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/asap-latin-ext-500.woff') format('woff'); /* Modern Browsers */
+    local('Asap Medium'),
+    local('Asap-Medium'), 
+    url('./files/asap-latin-ext-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/asap-latin-ext-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* asap-500italic - latin-ext */
 @font-face {
@@ -41,10 +41,10 @@
   font-display: swap;
   font-weight: 500;
   src:
-    local('Asap Medium italic'),
-    local('Asap-Mediumitalic'),
-    url('./files/asap-latin-ext-500-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/asap-latin-ext-500-italic.woff') format('woff'); /* Modern Browsers */
+    local('Asap Medium Italic'),
+    local('Asap-MediumItalic'), 
+    url('./files/asap-latin-ext-500-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/asap-latin-ext-500-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* asap-600normal - latin-ext */
 @font-face {
@@ -53,10 +53,10 @@
   font-display: swap;
   font-weight: 600;
   src:
-    local('Asap SemiBold '),
-    local('Asap-SemiBold'),
-    url('./files/asap-latin-ext-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/asap-latin-ext-600.woff') format('woff'); /* Modern Browsers */
+    local('Asap SemiBold'),
+    local('Asap-SemiBold'), 
+    url('./files/asap-latin-ext-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/asap-latin-ext-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* asap-600italic - latin-ext */
 @font-face {
@@ -65,10 +65,10 @@
   font-display: swap;
   font-weight: 600;
   src:
-    local('Asap SemiBold italic'),
-    local('Asap-SemiBolditalic'),
-    url('./files/asap-latin-ext-600-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/asap-latin-ext-600-italic.woff') format('woff'); /* Modern Browsers */
+    local('Asap SemiBold Italic'),
+    local('Asap-SemiBoldItalic'), 
+    url('./files/asap-latin-ext-600-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/asap-latin-ext-600-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* asap-700normal - latin-ext */
 @font-face {
@@ -77,10 +77,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Asap Bold '),
-    local('Asap-Bold'),
-    url('./files/asap-latin-ext-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/asap-latin-ext-700.woff') format('woff'); /* Modern Browsers */
+    local('Asap Bold'),
+    local('Asap-Bold'), 
+    url('./files/asap-latin-ext-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/asap-latin-ext-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* asap-700italic - latin-ext */
 @font-face {
@@ -89,8 +89,8 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Asap Bold italic'),
-    local('Asap-Bolditalic'),
-    url('./files/asap-latin-ext-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/asap-latin-ext-700-italic.woff') format('woff'); /* Modern Browsers */
+    local('Asap Bold Italic'),
+    local('Asap-BoldItalic'), 
+    url('./files/asap-latin-ext-700-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/asap-latin-ext-700-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

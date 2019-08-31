@@ -5,10 +5,10 @@
   font-display: swap;
   font-weight: 300;
   src:
-    local('Frank Ruhl Libre Light '),
-    local('Frank Ruhl Libre-Light'),
-    url('./files/frank-ruhl-libre-hebrew-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/frank-ruhl-libre-hebrew-300.woff') format('woff'); /* Modern Browsers */
+    local('Frank Ruhl Libre Light'),
+    local('FrankRuhlLibre-Light'), 
+    url('./files/frank-ruhl-libre-hebrew-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/frank-ruhl-libre-hebrew-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* frank-ruhl-libre-400normal - hebrew */
 @font-face {
@@ -17,10 +17,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Frank Ruhl Libre Regular '),
-    local('Frank Ruhl Libre-Regular'),
-    url('./files/frank-ruhl-libre-hebrew-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/frank-ruhl-libre-hebrew-400.woff') format('woff'); /* Modern Browsers */
+    local('Frank Ruhl Libre Regular'),
+    local('FrankRuhlLibre-Regular'), 
+    url('./files/frank-ruhl-libre-hebrew-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/frank-ruhl-libre-hebrew-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* frank-ruhl-libre-500normal - hebrew */
 @font-face {
@@ -29,10 +29,10 @@
   font-display: swap;
   font-weight: 500;
   src:
-    local('Frank Ruhl Libre Medium '),
-    local('Frank Ruhl Libre-Medium'),
-    url('./files/frank-ruhl-libre-hebrew-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/frank-ruhl-libre-hebrew-500.woff') format('woff'); /* Modern Browsers */
+    local('Frank Ruhl Libre Medium'),
+    local('FrankRuhlLibre-Medium'), 
+    url('./files/frank-ruhl-libre-hebrew-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/frank-ruhl-libre-hebrew-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* frank-ruhl-libre-700normal - hebrew */
 @font-face {
@@ -41,10 +41,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Frank Ruhl Libre Bold '),
-    local('Frank Ruhl Libre-Bold'),
-    url('./files/frank-ruhl-libre-hebrew-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/frank-ruhl-libre-hebrew-700.woff') format('woff'); /* Modern Browsers */
+    local('Frank Ruhl Libre Bold'),
+    local('FrankRuhlLibre-Bold'), 
+    url('./files/frank-ruhl-libre-hebrew-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/frank-ruhl-libre-hebrew-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* frank-ruhl-libre-900normal - hebrew */
 @font-face {
@@ -53,8 +53,8 @@
   font-display: swap;
   font-weight: 900;
   src:
-    local('Frank Ruhl Libre Black '),
-    local('Frank Ruhl Libre-Black'),
-    url('./files/frank-ruhl-libre-hebrew-900.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/frank-ruhl-libre-hebrew-900.woff') format('woff'); /* Modern Browsers */
+    local('Frank Ruhl Libre Black'),
+    local('FrankRuhlLibre-Black'), 
+    url('./files/frank-ruhl-libre-hebrew-900.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/frank-ruhl-libre-hebrew-900.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

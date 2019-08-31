@@ -5,10 +5,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Cabin Condensed Regular '),
-    local('Cabin Condensed-Regular'),
-    url('./files/cabin-condensed-all-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cabin-condensed-all-400.woff') format('woff'); /* Modern Browsers */
+    local('Cabin Condensed'),
+    local('CabinCondensed-Regular'), 
+    url('./files/cabin-condensed-all-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/cabin-condensed-all-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* cabin-condensed-500normal - all */
 @font-face {
@@ -17,10 +17,10 @@
   font-display: swap;
   font-weight: 500;
   src:
-    local('Cabin Condensed Medium '),
-    local('Cabin Condensed-Medium'),
-    url('./files/cabin-condensed-all-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cabin-condensed-all-500.woff') format('woff'); /* Modern Browsers */
+    local('Cabin Condensed Medium'),
+    local('CabinCondensed-Medium'), 
+    url('./files/cabin-condensed-all-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/cabin-condensed-all-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* cabin-condensed-600normal - all */
 @font-face {
@@ -29,10 +29,10 @@
   font-display: swap;
   font-weight: 600;
   src:
-    local('Cabin Condensed SemiBold '),
-    local('Cabin Condensed-SemiBold'),
-    url('./files/cabin-condensed-all-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cabin-condensed-all-600.woff') format('woff'); /* Modern Browsers */
+    local('Cabin Condensed SemiBold'),
+    local('CabinCondensed-SemiBold'), 
+    url('./files/cabin-condensed-all-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/cabin-condensed-all-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* cabin-condensed-700normal - all */
 @font-face {
@@ -41,8 +41,8 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Cabin Condensed Bold '),
-    local('Cabin Condensed-Bold'),
-    url('./files/cabin-condensed-all-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cabin-condensed-all-700.woff') format('woff'); /* Modern Browsers */
+    local('Cabin Condensed Bold'),
+    local('CabinCondensed-Bold'), 
+    url('./files/cabin-condensed-all-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/cabin-condensed-all-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

@@ -5,10 +5,10 @@
   font-display: swap;
   font-weight: 200;
   src:
-    local('Noto Serif JP Extra Light '),
-    local('Noto Serif JP-Extra Light'),
-    url('./files/noto-serif-jp-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/noto-serif-jp-latin-200.woff') format('woff'); /* Modern Browsers */
+    local('Noto Serif JP ExtraLight'),
+    local('NotoSerifJP-ExtraLight'), 
+    url('./files/noto-serif-jp-latin-200.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/noto-serif-jp-latin-200.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* noto-serif-jp-300normal - latin */
 @font-face {
@@ -17,10 +17,10 @@
   font-display: swap;
   font-weight: 300;
   src:
-    local('Noto Serif JP Light '),
-    local('Noto Serif JP-Light'),
-    url('./files/noto-serif-jp-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/noto-serif-jp-latin-300.woff') format('woff'); /* Modern Browsers */
+    local('Noto Serif JP Light'),
+    local('NotoSerifJP-Light'), 
+    url('./files/noto-serif-jp-latin-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/noto-serif-jp-latin-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* noto-serif-jp-400normal - latin */
 @font-face {
@@ -29,10 +29,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Noto Serif JP Regular '),
-    local('Noto Serif JP-Regular'),
-    url('./files/noto-serif-jp-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/noto-serif-jp-latin-400.woff') format('woff'); /* Modern Browsers */
+    local('Noto Serif JP'),
+    local('NotoSerifJP-Regular'), 
+    url('./files/noto-serif-jp-latin-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/noto-serif-jp-latin-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* noto-serif-jp-500normal - latin */
 @font-face {
@@ -41,10 +41,10 @@
   font-display: swap;
   font-weight: 500;
   src:
-    local('Noto Serif JP Medium '),
-    local('Noto Serif JP-Medium'),
-    url('./files/noto-serif-jp-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/noto-serif-jp-latin-500.woff') format('woff'); /* Modern Browsers */
+    local('Noto Serif JP Medium'),
+    local('NotoSerifJP-Medium'), 
+    url('./files/noto-serif-jp-latin-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/noto-serif-jp-latin-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* noto-serif-jp-600normal - latin */
 @font-face {
@@ -53,10 +53,10 @@
   font-display: swap;
   font-weight: 600;
   src:
-    local('Noto Serif JP SemiBold '),
-    local('Noto Serif JP-SemiBold'),
-    url('./files/noto-serif-jp-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/noto-serif-jp-latin-600.woff') format('woff'); /* Modern Browsers */
+    local('Noto Serif JP SemiBold'),
+    local('NotoSerifJP-SemiBold'), 
+    url('./files/noto-serif-jp-latin-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/noto-serif-jp-latin-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* noto-serif-jp-700normal - latin */
 @font-face {
@@ -65,10 +65,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Noto Serif JP Bold '),
-    local('Noto Serif JP-Bold'),
-    url('./files/noto-serif-jp-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/noto-serif-jp-latin-700.woff') format('woff'); /* Modern Browsers */
+    local('Noto Serif JP Bold'),
+    local('NotoSerifJP-Bold'), 
+    url('./files/noto-serif-jp-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/noto-serif-jp-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* noto-serif-jp-900normal - latin */
 @font-face {
@@ -77,8 +77,8 @@
   font-display: swap;
   font-weight: 900;
   src:
-    local('Noto Serif JP Black '),
-    local('Noto Serif JP-Black'),
-    url('./files/noto-serif-jp-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/noto-serif-jp-latin-900.woff') format('woff'); /* Modern Browsers */
+    local('Noto Serif JP Black'),
+    local('NotoSerifJP-Black'), 
+    url('./files/noto-serif-jp-latin-900.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/noto-serif-jp-latin-900.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

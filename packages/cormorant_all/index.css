@@ -5,10 +5,10 @@
   font-display: swap;
   font-weight: 300;
   src:
-    local('Cormorant Light '),
-    local('Cormorant-Light'),
-    url('./files/cormorant-all-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cormorant-all-300.woff') format('woff'); /* Modern Browsers */
+    local('Cormorant Light'),
+    local('Cormorant-Light'), 
+    url('./files/cormorant-all-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/cormorant-all-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* cormorant-300italic - all */
 @font-face {
@@ -17,10 +17,10 @@
   font-display: swap;
   font-weight: 300;
   src:
-    local('Cormorant Light italic'),
-    local('Cormorant-Lightitalic'),
-    url('./files/cormorant-all-300-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cormorant-all-300-italic.woff') format('woff'); /* Modern Browsers */
+    local('Cormorant Light Italic'),
+    local('Cormorant-LightItalic'), 
+    url('./files/cormorant-all-300-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/cormorant-all-300-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* cormorant-400normal - all */
 @font-face {
@@ -29,10 +29,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Cormorant Regular '),
-    local('Cormorant-Regular'),
-    url('./files/cormorant-all-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cormorant-all-400.woff') format('woff'); /* Modern Browsers */
+    local('Cormorant Regular'),
+    local('Cormorant-Regular'), 
+    url('./files/cormorant-all-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/cormorant-all-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* cormorant-400italic - all */
 @font-face {
@@ -41,10 +41,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Cormorant Regular italic'),
-    local('Cormorant-Regularitalic'),
-    url('./files/cormorant-all-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cormorant-all-400-italic.woff') format('woff'); /* Modern Browsers */
+    local('Cormorant Italic'),
+    local('Cormorant-Italic'), 
+    url('./files/cormorant-all-400-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/cormorant-all-400-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* cormorant-500normal - all */
 @font-face {
@@ -53,10 +53,10 @@
   font-display: swap;
   font-weight: 500;
   src:
-    local('Cormorant Medium '),
-    local('Cormorant-Medium'),
-    url('./files/cormorant-all-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cormorant-all-500.woff') format('woff'); /* Modern Browsers */
+    local('Cormorant Medium'),
+    local('Cormorant-Medium'), 
+    url('./files/cormorant-all-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/cormorant-all-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* cormorant-500italic - all */
 @font-face {
@@ -65,10 +65,10 @@
   font-display: swap;
   font-weight: 500;
   src:
-    local('Cormorant Medium italic'),
-    local('Cormorant-Mediumitalic'),
-    url('./files/cormorant-all-500-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cormorant-all-500-italic.woff') format('woff'); /* Modern Browsers */
+    local('Cormorant Medium Italic'),
+    local('Cormorant-MediumItalic'), 
+    url('./files/cormorant-all-500-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/cormorant-all-500-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* cormorant-600normal - all */
 @font-face {
@@ -77,10 +77,10 @@
   font-display: swap;
   font-weight: 600;
   src:
-    local('Cormorant SemiBold '),
-    local('Cormorant-SemiBold'),
-    url('./files/cormorant-all-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cormorant-all-600.woff') format('woff'); /* Modern Browsers */
+    local('Cormorant SemiBold'),
+    local('Cormorant-SemiBold'), 
+    url('./files/cormorant-all-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/cormorant-all-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* cormorant-600italic - all */
 @font-face {
@@ -89,10 +89,10 @@
   font-display: swap;
   font-weight: 600;
   src:
-    local('Cormorant SemiBold italic'),
-    local('Cormorant-SemiBolditalic'),
-    url('./files/cormorant-all-600-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cormorant-all-600-italic.woff') format('woff'); /* Modern Browsers */
+    local('Cormorant SemiBold Italic'),
+    local('Cormorant-SemiBoldItalic'), 
+    url('./files/cormorant-all-600-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/cormorant-all-600-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* cormorant-700normal - all */
 @font-face {
@@ -101,10 +101,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Cormorant Bold '),
-    local('Cormorant-Bold'),
-    url('./files/cormorant-all-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cormorant-all-700.woff') format('woff'); /* Modern Browsers */
+    local('Cormorant Bold'),
+    local('Cormorant-Bold'), 
+    url('./files/cormorant-all-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/cormorant-all-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* cormorant-700italic - all */
 @font-face {
@@ -113,8 +113,8 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Cormorant Bold italic'),
-    local('Cormorant-Bolditalic'),
-    url('./files/cormorant-all-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/cormorant-all-700-italic.woff') format('woff'); /* Modern Browsers */
+    local('Cormorant Bold Italic'),
+    local('Cormorant-BoldItalic'), 
+    url('./files/cormorant-all-700-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/cormorant-all-700-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

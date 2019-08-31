@@ -5,10 +5,10 @@
   font-display: swap;
   font-weight: 100;
   src:
-    local('Saira Extra Condensed Thin '),
-    local('Saira Extra Condensed-Thin'),
-    url('./files/saira-extra-condensed-latin-ext-100.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/saira-extra-condensed-latin-ext-100.woff') format('woff'); /* Modern Browsers */
+    local('Saira ExtraCondensed Thin'),
+    local('SairaExtraCondensed-Thin'), 
+    url('./files/saira-extra-condensed-latin-ext-100.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/saira-extra-condensed-latin-ext-100.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* saira-extra-condensed-200normal - latin-ext */
 @font-face {
@@ -17,10 +17,10 @@
   font-display: swap;
   font-weight: 200;
   src:
-    local('Saira Extra Condensed Extra Light '),
-    local('Saira Extra Condensed-Extra Light'),
-    url('./files/saira-extra-condensed-latin-ext-200.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/saira-extra-condensed-latin-ext-200.woff') format('woff'); /* Modern Browsers */
+    local('Saira ExtraCondensed ExtraLight'),
+    local('SairaExtraCondensed-ExtraLight'), 
+    url('./files/saira-extra-condensed-latin-ext-200.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/saira-extra-condensed-latin-ext-200.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* saira-extra-condensed-300normal - latin-ext */
 @font-face {
@@ -29,10 +29,10 @@
   font-display: swap;
   font-weight: 300;
   src:
-    local('Saira Extra Condensed Light '),
-    local('Saira Extra Condensed-Light'),
-    url('./files/saira-extra-condensed-latin-ext-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/saira-extra-condensed-latin-ext-300.woff') format('woff'); /* Modern Browsers */
+    local('Saira ExtraCondensed Light'),
+    local('SairaExtraCondensed-Light'), 
+    url('./files/saira-extra-condensed-latin-ext-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/saira-extra-condensed-latin-ext-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* saira-extra-condensed-400normal - latin-ext */
 @font-face {
@@ -41,10 +41,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Saira Extra Condensed Regular '),
-    local('Saira Extra Condensed-Regular'),
-    url('./files/saira-extra-condensed-latin-ext-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/saira-extra-condensed-latin-ext-400.woff') format('woff'); /* Modern Browsers */
+    local('Saira ExtraCondensed Regular'),
+    local('SairaExtraCondensed-Regular'), 
+    url('./files/saira-extra-condensed-latin-ext-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/saira-extra-condensed-latin-ext-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* saira-extra-condensed-500normal - latin-ext */
 @font-face {
@@ -53,10 +53,10 @@
   font-display: swap;
   font-weight: 500;
   src:
-    local('Saira Extra Condensed Medium '),
-    local('Saira Extra Condensed-Medium'),
-    url('./files/saira-extra-condensed-latin-ext-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/saira-extra-condensed-latin-ext-500.woff') format('woff'); /* Modern Browsers */
+    local('Saira ExtraCondensed Medium'),
+    local('SairaExtraCondensed-Medium'), 
+    url('./files/saira-extra-condensed-latin-ext-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/saira-extra-condensed-latin-ext-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* saira-extra-condensed-600normal - latin-ext */
 @font-face {
@@ -65,10 +65,10 @@
   font-display: swap;
   font-weight: 600;
   src:
-    local('Saira Extra Condensed SemiBold '),
-    local('Saira Extra Condensed-SemiBold'),
-    url('./files/saira-extra-condensed-latin-ext-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/saira-extra-condensed-latin-ext-600.woff') format('woff'); /* Modern Browsers */
+    local('Saira ExtraCondensed SemiBold'),
+    local('SairaExtraCondensed-SemiBold'), 
+    url('./files/saira-extra-condensed-latin-ext-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/saira-extra-condensed-latin-ext-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* saira-extra-condensed-700normal - latin-ext */
 @font-face {
@@ -77,10 +77,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Saira Extra Condensed Bold '),
-    local('Saira Extra Condensed-Bold'),
-    url('./files/saira-extra-condensed-latin-ext-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/saira-extra-condensed-latin-ext-700.woff') format('woff'); /* Modern Browsers */
+    local('Saira ExtraCondensed Bold'),
+    local('SairaExtraCondensed-Bold'), 
+    url('./files/saira-extra-condensed-latin-ext-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/saira-extra-condensed-latin-ext-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* saira-extra-condensed-800normal - latin-ext */
 @font-face {
@@ -89,10 +89,10 @@
   font-display: swap;
   font-weight: 800;
   src:
-    local('Saira Extra Condensed ExtraBold '),
-    local('Saira Extra Condensed-ExtraBold'),
-    url('./files/saira-extra-condensed-latin-ext-800.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/saira-extra-condensed-latin-ext-800.woff') format('woff'); /* Modern Browsers */
+    local('Saira ExtraCondensed ExtraBold'),
+    local('SairaExtraCondensed-ExtraBold'), 
+    url('./files/saira-extra-condensed-latin-ext-800.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/saira-extra-condensed-latin-ext-800.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* saira-extra-condensed-900normal - latin-ext */
 @font-face {
@@ -101,8 +101,8 @@
   font-display: swap;
   font-weight: 900;
   src:
-    local('Saira Extra Condensed Black '),
-    local('Saira Extra Condensed-Black'),
-    url('./files/saira-extra-condensed-latin-ext-900.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/saira-extra-condensed-latin-ext-900.woff') format('woff'); /* Modern Browsers */
+    local('Saira ExtraCondensed Black'),
+    local('SairaExtraCondensed-Black'), 
+    url('./files/saira-extra-condensed-latin-ext-900.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/saira-extra-condensed-latin-ext-900.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

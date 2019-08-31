@@ -5,10 +5,10 @@
   font-display: swap;
   font-weight: 200;
   src:
-    local('Noto Serif TC Extra Light '),
-    local('Noto Serif TC-Extra Light'),
-    url('./files/noto-serif-tc-cyrillic-200.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/noto-serif-tc-cyrillic-200.woff') format('woff'); /* Modern Browsers */
+    local('Noto Serif TC ExtraLight'),
+    local('NotoSerifTC-ExtraLight'), 
+    url('./files/noto-serif-tc-cyrillic-200.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/noto-serif-tc-cyrillic-200.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* noto-serif-tc-300normal - cyrillic */
 @font-face {
@@ -17,10 +17,10 @@
   font-display: swap;
   font-weight: 300;
   src:
-    local('Noto Serif TC Light '),
-    local('Noto Serif TC-Light'),
-    url('./files/noto-serif-tc-cyrillic-300.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/noto-serif-tc-cyrillic-300.woff') format('woff'); /* Modern Browsers */
+    local('Noto Serif TC Light'),
+    local('NotoSerifTC-Light'), 
+    url('./files/noto-serif-tc-cyrillic-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/noto-serif-tc-cyrillic-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* noto-serif-tc-400normal - cyrillic */
 @font-face {
@@ -29,10 +29,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Noto Serif TC Regular '),
-    local('Noto Serif TC-Regular'),
-    url('./files/noto-serif-tc-cyrillic-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/noto-serif-tc-cyrillic-400.woff') format('woff'); /* Modern Browsers */
+    local('Noto Serif TC'),
+    local('NotoSerifTC-Regular'), 
+    url('./files/noto-serif-tc-cyrillic-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/noto-serif-tc-cyrillic-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* noto-serif-tc-500normal - cyrillic */
 @font-face {
@@ -41,10 +41,10 @@
   font-display: swap;
   font-weight: 500;
   src:
-    local('Noto Serif TC Medium '),
-    local('Noto Serif TC-Medium'),
-    url('./files/noto-serif-tc-cyrillic-500.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/noto-serif-tc-cyrillic-500.woff') format('woff'); /* Modern Browsers */
+    local('Noto Serif TC Medium'),
+    local('NotoSerifTC-Medium'), 
+    url('./files/noto-serif-tc-cyrillic-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/noto-serif-tc-cyrillic-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* noto-serif-tc-600normal - cyrillic */
 @font-face {
@@ -53,10 +53,10 @@
   font-display: swap;
   font-weight: 600;
   src:
-    local('Noto Serif TC SemiBold '),
-    local('Noto Serif TC-SemiBold'),
-    url('./files/noto-serif-tc-cyrillic-600.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/noto-serif-tc-cyrillic-600.woff') format('woff'); /* Modern Browsers */
+    local('Noto Serif TC SemiBold'),
+    local('NotoSerifTC-SemiBold'), 
+    url('./files/noto-serif-tc-cyrillic-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/noto-serif-tc-cyrillic-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* noto-serif-tc-700normal - cyrillic */
 @font-face {
@@ -65,10 +65,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Noto Serif TC Bold '),
-    local('Noto Serif TC-Bold'),
-    url('./files/noto-serif-tc-cyrillic-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/noto-serif-tc-cyrillic-700.woff') format('woff'); /* Modern Browsers */
+    local('Noto Serif TC Bold'),
+    local('NotoSerifTC-Bold'), 
+    url('./files/noto-serif-tc-cyrillic-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/noto-serif-tc-cyrillic-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* noto-serif-tc-900normal - cyrillic */
 @font-face {
@@ -77,8 +77,8 @@
   font-display: swap;
   font-weight: 900;
   src:
-    local('Noto Serif TC Black '),
-    local('Noto Serif TC-Black'),
-    url('./files/noto-serif-tc-cyrillic-900.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/noto-serif-tc-cyrillic-900.woff') format('woff'); /* Modern Browsers */
+    local('Noto Serif TC Black'),
+    local('NotoSerifTC-Black'), 
+    url('./files/noto-serif-tc-cyrillic-900.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/noto-serif-tc-cyrillic-900.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

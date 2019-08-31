@@ -5,10 +5,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Overlock Regular '),
-    local('Overlock-Regular'),
-    url('./files/overlock-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/overlock-latin-400.woff') format('woff'); /* Modern Browsers */
+    local('Overlock Regular'),
+    local('Overlock-Regular'), 
+    url('./files/overlock-latin-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/overlock-latin-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* overlock-400italic - latin */
 @font-face {
@@ -17,10 +17,10 @@
   font-display: swap;
   font-weight: 400;
   src:
-    local('Overlock Regular italic'),
-    local('Overlock-Regularitalic'),
-    url('./files/overlock-latin-400-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/overlock-latin-400-italic.woff') format('woff'); /* Modern Browsers */
+    local('Overlock Italic'),
+    local('Overlock-Italic'), 
+    url('./files/overlock-latin-400-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/overlock-latin-400-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* overlock-700normal - latin */
 @font-face {
@@ -29,10 +29,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Overlock Bold '),
-    local('Overlock-Bold'),
-    url('./files/overlock-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/overlock-latin-700.woff') format('woff'); /* Modern Browsers */
+    local('Overlock Bold'),
+    local('Overlock-Bold'), 
+    url('./files/overlock-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/overlock-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* overlock-700italic - latin */
 @font-face {
@@ -41,10 +41,10 @@
   font-display: swap;
   font-weight: 700;
   src:
-    local('Overlock Bold italic'),
-    local('Overlock-Bolditalic'),
-    url('./files/overlock-latin-700-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/overlock-latin-700-italic.woff') format('woff'); /* Modern Browsers */
+    local('Overlock Bold Italic'),
+    local('Overlock-BoldItalic'), 
+    url('./files/overlock-latin-700-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/overlock-latin-700-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* overlock-900normal - latin */
 @font-face {
@@ -53,10 +53,10 @@
   font-display: swap;
   font-weight: 900;
   src:
-    local('Overlock Black '),
-    local('Overlock-Black'),
-    url('./files/overlock-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/overlock-latin-900.woff') format('woff'); /* Modern Browsers */
+    local('Overlock Black'),
+    local('Overlock-Black'), 
+    url('./files/overlock-latin-900.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/overlock-latin-900.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* overlock-900italic - latin */
 @font-face {
@@ -65,8 +65,8 @@
   font-display: swap;
   font-weight: 900;
   src:
-    local('Overlock Black italic'),
-    local('Overlock-Blackitalic'),
-    url('./files/overlock-latin-900-italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('./files/overlock-latin-900-italic.woff') format('woff'); /* Modern Browsers */
+    local('Overlock Black Italic'),
+    local('Overlock-BlackItalic'), 
+    url('./files/overlock-latin-900-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/overlock-latin-900-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
