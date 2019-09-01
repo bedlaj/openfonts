@@ -4,17 +4,17 @@
   "variants": [
     {
       "id": "300",
-      "woff": "https://fonts.gstatic.com/s/benchnine/v8/ahcev8612zF4jxrwMosT--thgmy7.woff",
+      "eot": "https://fonts.gstatic.com/s/benchnine/v8/ahcev8612zF4jxrwMosT--thgmy5.eot",
       "fontFamily": "'BenchNine'",
       "fontStyle": "normal",
       "fontWeight": "300",
+      "woff": "https://fonts.gstatic.com/s/benchnine/v8/ahcev8612zF4jxrwMosT--thgmy7.woff",
       "local": [
         "BenchNine Light",
         "BenchNine-Light"
       ],
       "woff2": "https://fonts.gstatic.com/s/benchnine/v8/ahcev8612zF4jxrwMosT--thgmy9.woff2",
       "ttf": "https://fonts.gstatic.com/s/benchnine/v8/ahcev8612zF4jxrwMosT--thgmy4.ttf",
-      "eot": "https://fonts.gstatic.com/s/benchnine/v8/ahcev8612zF4jxrwMosT--thgmy5.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=ahcev8612zF4jxrwMosT--thgmy6&skey=aa9e2137948a9eff&v=v8#BenchNine",
       "errored": false
     },
@@ -28,26 +28,26 @@
         "BenchNine Regular",
         "BenchNine-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=ahcbv8612zF4jxrwMosbUMlz&skey=f6d31822b7395c1d&v=v8#BenchNine",
       "woff2": "https://fonts.gstatic.com/s/benchnine/v8/ahcbv8612zF4jxrwMosbUMl0.woff2",
-      "eot": "https://fonts.gstatic.com/s/benchnine/v8/ahcbv8612zF4jxrwMosbUMlw.eot",
       "ttf": "https://fonts.gstatic.com/s/benchnine/v8/ahcbv8612zF4jxrwMosbUMlx.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=ahcbv8612zF4jxrwMosbUMlz&skey=f6d31822b7395c1d&v=v8#BenchNine",
+      "eot": "https://fonts.gstatic.com/s/benchnine/v8/ahcbv8612zF4jxrwMosbUMlw.eot",
       "errored": false
     },
     {
       "id": "700",
-      "woff2": "https://fonts.gstatic.com/s/benchnine/v8/ahcev8612zF4jxrwMosT6-xhgmy9.woff2",
+      "eot": "https://fonts.gstatic.com/s/benchnine/v8/ahcev8612zF4jxrwMosT6-xhgmy5.eot",
       "fontFamily": "'BenchNine'",
       "fontStyle": "normal",
       "fontWeight": "700",
+      "woff2": "https://fonts.gstatic.com/s/benchnine/v8/ahcev8612zF4jxrwMosT6-xhgmy9.woff2",
       "local": [
         "BenchNine Bold",
         "BenchNine-Bold"
       ],
-      "eot": "https://fonts.gstatic.com/s/benchnine/v8/ahcev8612zF4jxrwMosT6-xhgmy5.eot",
       "woff": "https://fonts.gstatic.com/s/benchnine/v8/ahcev8612zF4jxrwMosT6-xhgmy7.woff",
-      "ttf": "https://fonts.gstatic.com/s/benchnine/v8/ahcev8612zF4jxrwMosT6-xhgmy4.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=ahcev8612zF4jxrwMosT6-xhgmy6&skey=2988da53b00b93d9&v=v8#BenchNine",
+      "ttf": "https://fonts.gstatic.com/s/benchnine/v8/ahcev8612zF4jxrwMosT6-xhgmy4.ttf",
       "errored": false
     }
   ],
@@ -58,7 +58,7 @@
   "category": "sans-serif",
   "version": "v8",
   "lastModified": "2019-07-16",
-  "popularity": 157,
+  "popularity": 168,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

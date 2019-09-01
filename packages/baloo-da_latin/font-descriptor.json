@@ -8,34 +8,34 @@
       "fontFamily": "'Baloo Da'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "svg": "https://fonts.gstatic.com/l/font?kit=LhWmMVnXOfIZO795FUkYQP0&skey=f08c23aac4b612f6&v=v5#BalooDa",
+      "ttf": "https://fonts.gstatic.com/s/balooda/v5/LhWmMVnXOfIZO795FUkYQP8.ttf",
       "local": [
         "Baloo Da Regular",
         "BalooDa-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/balooda/v5/LhWmMVnXOfIZO795FUkYQP8.ttf",
-      "woff": "https://fonts.gstatic.com/s/balooda/v5/LhWmMVnXOfIZO795FUkYQPw.woff",
       "woff2": "https://fonts.gstatic.com/s/balooda/v5/LhWmMVnXOfIZO795FUkYQPo.woff2",
+      "woff": "https://fonts.gstatic.com/s/balooda/v5/LhWmMVnXOfIZO795FUkYQPw.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=LhWmMVnXOfIZO795FUkYQP0&skey=f08c23aac4b612f6&v=v5#BalooDa",
       "errored": false
     }
   ],
   "subsets": [
     "vietnamese",
     "latin",
-    "latin-ext",
-    "bengali"
+    "bengali",
+    "latin-ext"
   ],
   "category": "display",
   "version": "v5",
   "lastModified": "2019-07-16",
-  "popularity": 728,
+  "popularity": 683,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "vietnamese": false,
     "latin": true,
-    "latin-ext": false,
-    "bengali": false
+    "bengali": false,
+    "latin-ext": false
   },
   "storeID": "latin"
 }

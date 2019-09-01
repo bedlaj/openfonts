@@ -4,34 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/asap/v11/KFOoCniXp96ayzQe5g.woff",
+      "eot": "https://fonts.gstatic.com/s/asap/v11/KFOoCniXp96ayzQe5A.eot",
       "fontFamily": "'Asap'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/asap/v11/KFOoCniXp96ayzQe4A.woff2",
       "local": [
         "Asap Regular",
         "Asap-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/asap/v11/KFOoCniXp96ayzQe4A.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=KFOoCniXp96ayzQe5w&skey=1e05f6b66acebc28&v=v11#Asap",
       "ttf": "https://fonts.gstatic.com/s/asap/v11/KFOoCniXp96ayzQe5Q.ttf",
-      "eot": "https://fonts.gstatic.com/s/asap/v11/KFOoCniXp96ayzQe5A.eot",
-      "errored": false
-    },
-    {
-      "id": "500",
-      "eot": "https://fonts.gstatic.com/s/asap/v11/KFOnCniXp96aw8g99URvAg.eot",
-      "fontFamily": "'Asap'",
-      "fontStyle": "normal",
-      "fontWeight": "500",
-      "woff2": "https://fonts.gstatic.com/s/asap/v11/KFOnCniXp96aw8g99URvBg.woff2",
-      "local": [
-        "Asap Medium",
-        "Asap-Medium"
-      ],
-      "woff": "https://fonts.gstatic.com/s/asap/v11/KFOnCniXp96aw8g99URvAA.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=KFOnCniXp96aw8g99URvAQ&skey=81073966f7643c90&v=v11#Asap",
-      "ttf": "https://fonts.gstatic.com/s/asap/v11/KFOnCniXp96aw8g99URvAw.ttf",
+      "woff": "https://fonts.gstatic.com/s/asap/v11/KFOoCniXp96ayzQe5g.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=KFOoCniXp96ayzQe5w&skey=1e05f6b66acebc28&v=v11#Asap",
       "errored": false
     },
     {
@@ -45,46 +29,62 @@
         "Asap Italic",
         "Asap-Italic"
       ],
-      "ttf": "https://fonts.gstatic.com/s/asap/v11/KFOmCniXp96ayz4u7WxP.ttf",
-      "woff": "https://fonts.gstatic.com/s/asap/v11/KFOmCniXp96ayz4u7WxM.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=KFOmCniXp96ayz4u7WxN&skey=ed90f3b9cc892982&v=v11#Asap",
+      "woff": "https://fonts.gstatic.com/s/asap/v11/KFOmCniXp96ayz4u7WxM.woff",
+      "ttf": "https://fonts.gstatic.com/s/asap/v11/KFOmCniXp96ayz4u7WxP.ttf",
       "errored": false
     },
     {
-      "id": "600",
-      "eot": "https://fonts.gstatic.com/s/asap/v11/KFOnCniXp96aw-Q69URvAg.eot",
+      "id": "500",
+      "woff": "https://fonts.gstatic.com/s/asap/v11/KFOnCniXp96aw8g99URvAA.woff",
       "fontFamily": "'Asap'",
       "fontStyle": "normal",
-      "fontWeight": "600",
-      "woff": "https://fonts.gstatic.com/s/asap/v11/KFOnCniXp96aw-Q69URvAA.woff",
+      "fontWeight": "500",
       "local": [
-        "Asap SemiBold",
-        "Asap-SemiBold"
+        "Asap Medium",
+        "Asap-Medium"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=KFOnCniXp96aw-Q69URvAQ&skey=9ec9c99a6042f0d1&v=v11#Asap",
-      "woff2": "https://fonts.gstatic.com/s/asap/v11/KFOnCniXp96aw-Q69URvBg.woff2",
-      "ttf": "https://fonts.gstatic.com/s/asap/v11/KFOnCniXp96aw-Q69URvAw.ttf",
+      "woff2": "https://fonts.gstatic.com/s/asap/v11/KFOnCniXp96aw8g99URvBg.woff2",
+      "eot": "https://fonts.gstatic.com/s/asap/v11/KFOnCniXp96aw8g99URvAg.eot",
+      "ttf": "https://fonts.gstatic.com/s/asap/v11/KFOnCniXp96aw8g99URvAw.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=KFOnCniXp96aw8g99URvAQ&skey=81073966f7643c90&v=v11#Asap",
       "errored": false
     },
     {
       "id": "500italic",
-      "eot": "https://fonts.gstatic.com/s/asap/v11/KFOlCniXp96ayz4mEU9fCxc8.eot",
+      "woff2": "https://fonts.gstatic.com/s/asap/v11/KFOlCniXp96ayz4mEU9fCxc4.woff2",
       "fontFamily": "'Asap'",
       "fontStyle": "italic",
       "fontWeight": "500",
-      "woff2": "https://fonts.gstatic.com/s/asap/v11/KFOlCniXp96ayz4mEU9fCxc4.woff2",
       "local": [
         "Asap Medium Italic",
         "Asap-MediumItalic"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=KFOlCniXp96ayz4mEU9fCxc_&skey=8357f0a58b20dc07&v=v11#Asap",
-      "ttf": "https://fonts.gstatic.com/s/asap/v11/KFOlCniXp96ayz4mEU9fCxc9.ttf",
       "woff": "https://fonts.gstatic.com/s/asap/v11/KFOlCniXp96ayz4mEU9fCxc-.woff",
+      "eot": "https://fonts.gstatic.com/s/asap/v11/KFOlCniXp96ayz4mEU9fCxc8.eot",
+      "ttf": "https://fonts.gstatic.com/s/asap/v11/KFOlCniXp96ayz4mEU9fCxc9.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=KFOlCniXp96ayz4mEU9fCxc_&skey=8357f0a58b20dc07&v=v11#Asap",
+      "errored": false
+    },
+    {
+      "id": "600",
+      "woff": "https://fonts.gstatic.com/s/asap/v11/KFOnCniXp96aw-Q69URvAA.woff",
+      "fontFamily": "'Asap'",
+      "fontStyle": "normal",
+      "fontWeight": "600",
+      "local": [
+        "Asap SemiBold",
+        "Asap-SemiBold"
+      ],
+      "eot": "https://fonts.gstatic.com/s/asap/v11/KFOnCniXp96aw-Q69URvAg.eot",
+      "woff2": "https://fonts.gstatic.com/s/asap/v11/KFOnCniXp96aw-Q69URvBg.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=KFOnCniXp96aw-Q69URvAQ&skey=9ec9c99a6042f0d1&v=v11#Asap",
+      "ttf": "https://fonts.gstatic.com/s/asap/v11/KFOnCniXp96aw-Q69URvAw.ttf",
       "errored": false
     },
     {
       "id": "600italic",
-      "woff": "https://fonts.gstatic.com/s/asap/v11/KFOlCniXp96ayz4mPUhfCxc-.woff",
+      "woff2": "https://fonts.gstatic.com/s/asap/v11/KFOlCniXp96ayz4mPUhfCxc4.woff2",
       "fontFamily": "'Asap'",
       "fontStyle": "italic",
       "fontWeight": "600",
@@ -92,10 +92,10 @@
         "Asap SemiBold Italic",
         "Asap-SemiBoldItalic"
       ],
+      "eot": "https://fonts.gstatic.com/s/asap/v11/KFOlCniXp96ayz4mPUhfCxc8.eot",
+      "woff": "https://fonts.gstatic.com/s/asap/v11/KFOlCniXp96ayz4mPUhfCxc-.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=KFOlCniXp96ayz4mPUhfCxc_&skey=3f79d97a181f699d&v=v11#Asap",
       "ttf": "https://fonts.gstatic.com/s/asap/v11/KFOlCniXp96ayz4mPUhfCxc9.ttf",
-      "woff2": "https://fonts.gstatic.com/s/asap/v11/KFOlCniXp96ayz4mPUhfCxc4.woff2",
-      "eot": "https://fonts.gstatic.com/s/asap/v11/KFOlCniXp96ayz4mPUhfCxc8.eot",
       "errored": false
     },
     {
@@ -104,13 +104,13 @@
       "fontFamily": "'Asap'",
       "fontStyle": "italic",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/asap/v11/KFOlCniXp96ayz4mWUlfCxc-.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=KFOlCniXp96ayz4mWUlfCxc_&skey=45dbf840e00782fc&v=v11#Asap",
       "local": [
         "Asap Bold Italic",
         "Asap-BoldItalic"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=KFOlCniXp96ayz4mWUlfCxc_&skey=45dbf840e00782fc&v=v11#Asap",
       "woff2": "https://fonts.gstatic.com/s/asap/v11/KFOlCniXp96ayz4mWUlfCxc4.woff2",
+      "woff": "https://fonts.gstatic.com/s/asap/v11/KFOlCniXp96ayz4mWUlfCxc-.woff",
       "ttf": "https://fonts.gstatic.com/s/asap/v11/KFOlCniXp96ayz4mWUlfCxc9.ttf",
       "errored": false
     },
@@ -126,8 +126,8 @@
         "Asap-Bold"
       ],
       "woff2": "https://fonts.gstatic.com/s/asap/v11/KFOnCniXp96aw4A79URvBg.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=KFOnCniXp96aw4A79URvAQ&skey=74c571863af0d085&v=v11#Asap",
       "ttf": "https://fonts.gstatic.com/s/asap/v11/KFOnCniXp96aw4A79URvAw.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=KFOnCniXp96aw4A79URvAQ&skey=74c571863af0d085&v=v11#Asap",
       "errored": false
     }
   ],
@@ -139,7 +139,7 @@
   "category": "sans-serif",
   "version": "v11",
   "lastModified": "2019-07-26",
-  "popularity": 70,
+  "popularity": 71,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

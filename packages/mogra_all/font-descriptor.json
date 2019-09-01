@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/mogra/v6/f0X40eSs8c95TBo7.woff",
+      "woff2": "https://fonts.gstatic.com/s/mogra/v6/f0X40eSs8c95TBo9.woff2",
       "fontFamily": "'Mogra'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,28 +12,28 @@
         "Mogra Regular",
         "Mogra-Regular"
       ],
+      "woff": "https://fonts.gstatic.com/s/mogra/v6/f0X40eSs8c95TBo7.woff",
+      "eot": "https://fonts.gstatic.com/s/mogra/v6/f0X40eSs8c95TBo5.eot",
       "ttf": "https://fonts.gstatic.com/s/mogra/v6/f0X40eSs8c95TBo4.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=f0X40eSs8c95TBo6&skey=b7f0e945d2c7fa06&v=v6#Mogra",
-      "eot": "https://fonts.gstatic.com/s/mogra/v6/f0X40eSs8c95TBo5.eot",
-      "woff2": "https://fonts.gstatic.com/s/mogra/v6/f0X40eSs8c95TBo9.woff2",
       "errored": false
     }
   ],
   "subsets": [
+    "gujarati",
     "latin",
-    "latin-ext",
-    "gujarati"
+    "latin-ext"
   ],
   "category": "display",
   "version": "v6",
   "lastModified": "2019-07-16",
-  "popularity": 653,
+  "popularity": 647,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
+    "gujarati": true,
     "latin": true,
-    "latin-ext": true,
-    "gujarati": true
+    "latin-ext": true
   },
-  "storeID": "gujarati_latin-ext_latin"
+  "storeID": "latin-ext_latin_gujarati"
 }

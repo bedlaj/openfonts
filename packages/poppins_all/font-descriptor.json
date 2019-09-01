@@ -4,17 +4,17 @@
   "variants": [
     {
       "id": "100",
-      "eot": "https://fonts.gstatic.com/s/poppins/v8/pxiGyp8kv8JHgFVrLPTedg.eot",
+      "woff2": "https://fonts.gstatic.com/s/poppins/v8/pxiGyp8kv8JHgFVrLPTecg.woff2",
       "fontFamily": "'Poppins'",
       "fontStyle": "normal",
       "fontWeight": "100",
-      "woff": "https://fonts.gstatic.com/s/poppins/v8/pxiGyp8kv8JHgFVrLPTedA.woff",
       "local": [
         "Poppins Thin",
         "Poppins-Thin"
       ],
+      "woff": "https://fonts.gstatic.com/s/poppins/v8/pxiGyp8kv8JHgFVrLPTedA.woff",
+      "eot": "https://fonts.gstatic.com/s/poppins/v8/pxiGyp8kv8JHgFVrLPTedg.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=pxiGyp8kv8JHgFVrLPTedQ&skey=57be0781cfb72ecd&v=v8#Poppins",
-      "woff2": "https://fonts.gstatic.com/s/poppins/v8/pxiGyp8kv8JHgFVrLPTecg.woff2",
       "ttf": "https://fonts.gstatic.com/s/poppins/v8/pxiGyp8kv8JHgFVrLPTedw.ttf",
       "errored": false
     },
@@ -28,26 +28,42 @@
         "Poppins Thin Italic",
         "Poppins-ThinItalic"
       ],
+      "woff2": "https://fonts.gstatic.com/s/poppins/v8/pxiAyp8kv8JHgFVrJJLmE3tA.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=pxiAyp8kv8JHgFVrJJLmE3tH&skey=14913f5d70e4915e&v=v8#Poppins",
       "eot": "https://fonts.gstatic.com/s/poppins/v8/pxiAyp8kv8JHgFVrJJLmE3tE.eot",
       "ttf": "https://fonts.gstatic.com/s/poppins/v8/pxiAyp8kv8JHgFVrJJLmE3tF.ttf",
-      "woff2": "https://fonts.gstatic.com/s/poppins/v8/pxiAyp8kv8JHgFVrJJLmE3tA.woff2",
       "errored": false
     },
     {
       "id": "200",
-      "woff": "https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLFj_V1g.woff",
+      "eot": "https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLFj_V1o.eot",
       "fontFamily": "'Poppins'",
       "fontStyle": "normal",
       "fontWeight": "200",
+      "woff": "https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLFj_V1g.woff",
       "local": [
         "Poppins ExtraLight",
         "Poppins-ExtraLight"
       ],
-      "eot": "https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLFj_V1o.eot",
       "woff2": "https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLFj_V14.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=pxiByp8kv8JHgFVrLFj_V1k&skey=1bdc08fe61c3cc9e&v=v8#Poppins",
       "ttf": "https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLFj_V1s.ttf",
+      "errored": false
+    },
+    {
+      "id": "200italic",
+      "woff": "https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLmv1plEw.woff",
+      "fontFamily": "'Poppins'",
+      "fontStyle": "italic",
+      "fontWeight": "200",
+      "local": [
+        "Poppins ExtraLight Italic",
+        "Poppins-ExtraLightItalic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLmv1plFQ.woff2",
+      "eot": "https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLmv1plEQ.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=pxiDyp8kv8JHgFVrJJLmv1plEg&skey=e6f64e60fb8d9268&v=v8#Poppins",
+      "ttf": "https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLmv1plEA.ttf",
       "errored": false
     },
     {
@@ -62,29 +78,29 @@
         "Poppins-Light"
       ],
       "woff2": "https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLDz8V14.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=pxiByp8kv8JHgFVrLDz8V1k&skey=4aabc5055a39e031&v=v8#Poppins",
       "ttf": "https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLDz8V1s.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=pxiByp8kv8JHgFVrLDz8V1k&skey=4aabc5055a39e031&v=v8#Poppins",
       "errored": false
     },
     {
-      "id": "200italic",
-      "eot": "https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLmv1plEQ.eot",
+      "id": "300italic",
+      "eot": "https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLm21llEQ.eot",
       "fontFamily": "'Poppins'",
       "fontStyle": "italic",
-      "fontWeight": "200",
-      "woff": "https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLmv1plEw.woff",
+      "fontWeight": "300",
+      "woff": "https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLm21llEw.woff",
       "local": [
-        "Poppins ExtraLight Italic",
-        "Poppins-ExtraLightItalic"
+        "Poppins Light Italic",
+        "Poppins-LightItalic"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=pxiDyp8kv8JHgFVrJJLmv1plEg&skey=e6f64e60fb8d9268&v=v8#Poppins",
-      "woff2": "https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLmv1plFQ.woff2",
-      "ttf": "https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLmv1plEA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=pxiDyp8kv8JHgFVrJJLm21llEg&skey=b60188e8ecc47dee&v=v8#Poppins",
+      "ttf": "https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLm21llEA.ttf",
+      "woff2": "https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLm21llFQ.woff2",
       "errored": false
     },
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/poppins/v8/pxiEyp8kv8JHgFVrFJU.woff2",
+      "woff": "https://fonts.gstatic.com/s/poppins/v8/pxiEyp8kv8JHgFVrFJM.woff",
       "fontFamily": "'Poppins'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -92,90 +108,74 @@
         "Poppins Regular",
         "Poppins-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/poppins/v8/pxiEyp8kv8JHgFVrFJM.woff",
       "eot": "https://fonts.gstatic.com/s/poppins/v8/pxiEyp8kv8JHgFVrFJE.eot",
+      "woff2": "https://fonts.gstatic.com/s/poppins/v8/pxiEyp8kv8JHgFVrFJU.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=pxiEyp8kv8JHgFVrFJI&skey=87759fb096548f6d&v=v8#Poppins",
       "ttf": "https://fonts.gstatic.com/s/poppins/v8/pxiEyp8kv8JHgFVrFJA.ttf",
       "errored": false
     },
     {
-      "id": "300italic",
-      "woff": "https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLm21llEw.woff",
-      "fontFamily": "'Poppins'",
-      "fontStyle": "italic",
-      "fontWeight": "300",
-      "local": [
-        "Poppins Light Italic",
-        "Poppins-LightItalic"
-      ],
-      "eot": "https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLm21llEQ.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=pxiDyp8kv8JHgFVrJJLm21llEg&skey=b60188e8ecc47dee&v=v8#Poppins",
-      "woff2": "https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLm21llFQ.woff2",
-      "ttf": "https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLm21llEA.ttf",
-      "errored": false
-    },
-    {
       "id": "italic",
-      "eot": "https://fonts.gstatic.com/s/poppins/v8/pxiGyp8kv8JHgFVrJJLedg.eot",
+      "woff": "https://fonts.gstatic.com/s/poppins/v8/pxiGyp8kv8JHgFVrJJLedA.woff",
       "fontFamily": "'Poppins'",
       "fontStyle": "italic",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/poppins/v8/pxiGyp8kv8JHgFVrJJLedA.woff",
       "local": [
         "Poppins Italic",
         "Poppins-Italic"
       ],
       "woff2": "https://fonts.gstatic.com/s/poppins/v8/pxiGyp8kv8JHgFVrJJLecg.woff2",
+      "eot": "https://fonts.gstatic.com/s/poppins/v8/pxiGyp8kv8JHgFVrJJLedg.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=pxiGyp8kv8JHgFVrJJLedQ&skey=f21d6e783fa43c88&v=v8#Poppins",
       "ttf": "https://fonts.gstatic.com/s/poppins/v8/pxiGyp8kv8JHgFVrJJLedw.ttf",
       "errored": false
     },
     {
       "id": "500",
-      "eot": "https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLGT9V1o.eot",
+      "woff2": "https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLGT9V14.woff2",
       "fontFamily": "'Poppins'",
       "fontStyle": "normal",
       "fontWeight": "500",
-      "woff": "https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLGT9V1g.woff",
       "local": [
         "Poppins Medium",
         "Poppins-Medium"
       ],
-      "woff2": "https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLGT9V14.woff2",
-      "ttf": "https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLGT9V1s.ttf",
+      "woff": "https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLGT9V1g.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=pxiByp8kv8JHgFVrLGT9V1k&skey=d4526a9b64c21b87&v=v8#Poppins",
-      "errored": false
-    },
-    {
-      "id": "600",
-      "eot": "https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLEj6V1o.eot",
-      "fontFamily": "'Poppins'",
-      "fontStyle": "normal",
-      "fontWeight": "600",
-      "woff2": "https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLEj6V14.woff2",
-      "local": [
-        "Poppins SemiBold",
-        "Poppins-SemiBold"
-      ],
-      "woff": "https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLEj6V1g.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=pxiByp8kv8JHgFVrLEj6V1k&skey=ce7ef9d62ca89319&v=v8#Poppins",
-      "ttf": "https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLEj6V1s.ttf",
+      "eot": "https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLGT9V1o.eot",
+      "ttf": "https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLGT9V1s.ttf",
       "errored": false
     },
     {
       "id": "500italic",
-      "woff": "https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLmg1hlEw.woff",
+      "eot": "https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLmg1hlEQ.eot",
       "fontFamily": "'Poppins'",
       "fontStyle": "italic",
       "fontWeight": "500",
+      "woff": "https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLmg1hlEw.woff",
       "local": [
         "Poppins Medium Italic",
         "Poppins-MediumItalic"
       ],
-      "woff2": "https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLmg1hlFQ.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=pxiDyp8kv8JHgFVrJJLmg1hlEg&skey=b0aa19767d34da85&v=v8#Poppins",
-      "eot": "https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLmg1hlEQ.eot",
+      "woff2": "https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLmg1hlFQ.woff2",
       "ttf": "https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLmg1hlEA.ttf",
+      "errored": false
+    },
+    {
+      "id": "600",
+      "woff": "https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLEj6V1g.woff",
+      "fontFamily": "'Poppins'",
+      "fontStyle": "normal",
+      "fontWeight": "600",
+      "local": [
+        "Poppins SemiBold",
+        "Poppins-SemiBold"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=pxiByp8kv8JHgFVrLEj6V1k&skey=ce7ef9d62ca89319&v=v8#Poppins",
+      "eot": "https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLEj6V1o.eot",
+      "woff2": "https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLEj6V14.woff2",
+      "ttf": "https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLEj6V1s.ttf",
       "errored": false
     },
     {
@@ -190,8 +190,8 @@
         "Poppins-SemiBoldItalic"
       ],
       "svg": "https://fonts.gstatic.com/l/font?kit=pxiDyp8kv8JHgFVrJJLmr19lEg&skey=7fbc556774b13ef0&v=v8#Poppins",
-      "woff": "https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLmr19lEw.woff",
       "ttf": "https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLmr19lEA.ttf",
+      "woff": "https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLmr19lEw.woff",
       "errored": false
     },
     {
@@ -200,14 +200,30 @@
       "fontFamily": "'Poppins'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLCz7V1g.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=pxiByp8kv8JHgFVrLCz7V1k&skey=cea76fe63715a67a&v=v8#Poppins",
       "local": [
         "Poppins Bold",
         "Poppins-Bold"
       ],
-      "ttf": "https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLCz7V1s.ttf",
       "woff2": "https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLCz7V14.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=pxiByp8kv8JHgFVrLCz7V1k&skey=cea76fe63715a67a&v=v8#Poppins",
+      "woff": "https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLCz7V1g.woff",
+      "ttf": "https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLCz7V1s.ttf",
+      "errored": false
+    },
+    {
+      "id": "700italic",
+      "eot": "https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLmy15lEQ.eot",
+      "fontFamily": "'Poppins'",
+      "fontStyle": "italic",
+      "fontWeight": "700",
+      "woff2": "https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLmy15lFQ.woff2",
+      "local": [
+        "Poppins Bold Italic",
+        "Poppins-BoldItalic"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=pxiDyp8kv8JHgFVrJJLmy15lEg&skey=29c3bd833a54ba8c&v=v8#Poppins",
+      "woff": "https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLmy15lEw.woff",
+      "ttf": "https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLmy15lEA.ttf",
       "errored": false
     },
     {
@@ -216,62 +232,46 @@
       "fontFamily": "'Poppins'",
       "fontStyle": "normal",
       "fontWeight": "800",
-      "woff": "https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLDD4V1g.woff",
+      "woff2": "https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLDD4V14.woff2",
       "local": [
         "Poppins ExtraBold",
         "Poppins-ExtraBold"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=pxiByp8kv8JHgFVrLDD4V1k&skey=f01e006f58df81ac&v=v8#Poppins",
+      "woff": "https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLDD4V1g.woff",
       "ttf": "https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLDD4V1s.ttf",
-      "woff2": "https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLDD4V14.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=pxiByp8kv8JHgFVrLDD4V1k&skey=f01e006f58df81ac&v=v8#Poppins",
+      "errored": false
+    },
+    {
+      "id": "900",
+      "woff": "https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLBT5V1g.woff",
+      "fontFamily": "'Poppins'",
+      "fontStyle": "normal",
+      "fontWeight": "900",
+      "local": [
+        "Poppins Black",
+        "Poppins-Black"
+      ],
+      "eot": "https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLBT5V1o.eot",
+      "woff2": "https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLBT5V14.woff2",
+      "ttf": "https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLBT5V1s.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=pxiByp8kv8JHgFVrLBT5V1k&skey=6c361c40a830b323&v=v8#Poppins",
       "errored": false
     },
     {
       "id": "800italic",
-      "eot": "https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLm111lEQ.eot",
+      "woff": "https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLm111lEw.woff",
       "fontFamily": "'Poppins'",
       "fontStyle": "italic",
       "fontWeight": "800",
-      "woff": "https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLm111lEw.woff",
       "local": [
         "Poppins ExtraBold Italic",
         "Poppins-ExtraBoldItalic"
       ],
       "woff2": "https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLm111lFQ.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=pxiDyp8kv8JHgFVrJJLm111lEg&skey=6ea139488603f28c&v=v8#Poppins",
+      "eot": "https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLm111lEQ.eot",
       "ttf": "https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLm111lEA.ttf",
-      "errored": false
-    },
-    {
-      "id": "700italic",
-      "woff": "https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLmy15lEw.woff",
-      "fontFamily": "'Poppins'",
-      "fontStyle": "italic",
-      "fontWeight": "700",
-      "local": [
-        "Poppins Bold Italic",
-        "Poppins-BoldItalic"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLmy15lFQ.woff2",
-      "eot": "https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLmy15lEQ.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=pxiDyp8kv8JHgFVrJJLmy15lEg&skey=29c3bd833a54ba8c&v=v8#Poppins",
-      "ttf": "https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLmy15lEA.ttf",
-      "errored": false
-    },
-    {
-      "id": "900",
-      "eot": "https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLBT5V1o.eot",
-      "fontFamily": "'Poppins'",
-      "fontStyle": "normal",
-      "fontWeight": "900",
-      "woff": "https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLBT5V1g.woff",
-      "local": [
-        "Poppins Black",
-        "Poppins-Black"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLBT5V14.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=pxiByp8kv8JHgFVrLBT5V1k&skey=6c361c40a830b323&v=v8#Poppins",
-      "ttf": "https://fonts.gstatic.com/s/poppins/v8/pxiByp8kv8JHgFVrLBT5V1s.ttf",
       "errored": false
     },
     {
@@ -280,32 +280,32 @@
       "fontFamily": "'Poppins'",
       "fontStyle": "italic",
       "fontWeight": "900",
-      "woff": "https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLm81xlEw.woff",
+      "woff2": "https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLm81xlFQ.woff2",
       "local": [
         "Poppins Black Italic",
         "Poppins-BlackItalic"
       ],
       "svg": "https://fonts.gstatic.com/l/font?kit=pxiDyp8kv8JHgFVrJJLm81xlEg&skey=846b48b4eada095a&v=v8#Poppins",
       "ttf": "https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLm81xlEA.ttf",
-      "woff2": "https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLm81xlFQ.woff2",
+      "woff": "https://fonts.gstatic.com/s/poppins/v8/pxiDyp8kv8JHgFVrJJLm81xlEw.woff",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
     "devanagari",
+    "latin",
     "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v8",
   "lastModified": "2019-07-22",
-  "popularity": 12,
+  "popularity": 11,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
     "devanagari": true,
+    "latin": true,
     "latin-ext": true
   },
-  "storeID": "latin-ext_devanagari_latin"
+  "storeID": "latin-ext_latin_devanagari"
 }

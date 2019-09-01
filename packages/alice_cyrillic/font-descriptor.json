@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/alice/v11/OpNCnoEEmtHa6GcKrg4.woff2",
+      "woff": "https://fonts.gstatic.com/s/alice/v11/OpNCnoEEmtHa6GcKrgg.woff",
       "fontFamily": "'Alice'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,28 +12,28 @@
         "Alice Regular",
         "Alice-Regular"
       ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=OpNCnoEEmtHa6GcKrgk&skey=8a351bda90f672d8&v=v11#Alice",
       "eot": "https://fonts.gstatic.com/s/alice/v11/OpNCnoEEmtHa6GcKrgo.eot",
       "ttf": "https://fonts.gstatic.com/s/alice/v11/OpNCnoEEmtHa6GcKrgs.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=OpNCnoEEmtHa6GcKrgk&skey=8a351bda90f672d8&v=v11#Alice",
-      "woff": "https://fonts.gstatic.com/s/alice/v11/OpNCnoEEmtHa6GcKrgg.woff",
+      "woff2": "https://fonts.gstatic.com/s/alice/v11/OpNCnoEEmtHa6GcKrg4.woff2",
       "errored": false
     }
   ],
   "subsets": [
     "latin",
-    "cyrillic",
-    "cyrillic-ext"
+    "cyrillic-ext",
+    "cyrillic"
   ],
   "category": "serif",
   "version": "v11",
   "lastModified": "2019-07-16",
-  "popularity": 196,
+  "popularity": 203,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "latin": true,
-    "cyrillic": true,
-    "cyrillic-ext": false
+    "cyrillic-ext": false,
+    "cyrillic": true
   },
   "storeID": "cyrillic_latin"
 }

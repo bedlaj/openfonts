@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/balootammudu/v6/mFT3Wb8Qza7c_Z5HTsC_5nxWwE1akw.ttf",
+      "woff": "https://fonts.gstatic.com/s/balootammudu/v6/mFT3Wb8Qza7c_Z5HTsC_5nxWwE1akA.woff",
       "fontFamily": "'Baloo Tammudu'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Baloo Tammudu Regular",
         "BalooTammudu-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/balootammudu/v6/mFT3Wb8Qza7c_Z5HTsC_5nxWwE1alg.woff2",
-      "woff": "https://fonts.gstatic.com/s/balootammudu/v6/mFT3Wb8Qza7c_Z5HTsC_5nxWwE1akA.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=mFT3Wb8Qza7c_Z5HTsC_5nxWwE1akQ&skey=d052ee0a0f623158&v=v6#BalooTammudu",
       "eot": "https://fonts.gstatic.com/s/balootammudu/v6/mFT3Wb8Qza7c_Z5HTsC_5nxWwE1akg.eot",
+      "woff2": "https://fonts.gstatic.com/s/balootammudu/v6/mFT3Wb8Qza7c_Z5HTsC_5nxWwE1alg.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=mFT3Wb8Qza7c_Z5HTsC_5nxWwE1akQ&skey=d052ee0a0f623158&v=v6#BalooTammudu",
+      "ttf": "https://fonts.gstatic.com/s/balootammudu/v6/mFT3Wb8Qza7c_Z5HTsC_5nxWwE1akw.ttf",
       "errored": false
     }
   ],
@@ -28,7 +28,7 @@
   "category": "display",
   "version": "v6",
   "lastModified": "2019-07-16",
-  "popularity": 800,
+  "popularity": 761,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

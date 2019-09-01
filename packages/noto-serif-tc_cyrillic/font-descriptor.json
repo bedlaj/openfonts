@@ -3,6 +3,21 @@
   "family": "Noto Serif TC",
   "variants": [
     {
+      "id": "200",
+      "eot": "https://fonts.gstatic.com/s/notoseriftc/v6/XLY9IZb5bJNDGYxLBibeHZ0Bvr8vXXpMSw.eot",
+      "fontFamily": "'Noto Serif TC'",
+      "fontStyle": "normal",
+      "fontWeight": "200",
+      "woff": "https://fonts.gstatic.com/s/notoseriftc/v6/XLY9IZb5bJNDGYxLBibeHZ0Bvr8vXXpMSQ.woff",
+      "local": [
+        "Noto Serif TC ExtraLight",
+        "NotoSerifTC-ExtraLight"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/notoseriftc/v6/XLY9IZb5bJNDGYxLBibeHZ0Bvr8vXXpMTw.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=XLY9IZb5bJNDGYxLBibeHZ0Bvr8vXXpMSA&skey=387fd29db4eb4dc3&v=v6#NotoSerifTC",
+      "errored": false
+    },
+    {
       "id": "300",
       "eot": "https://fonts.gstatic.com/s/notoseriftc/v6/XLY9IZb5bJNDGYxLBibeHZ0BvtssXXpMSw.eot",
       "fontFamily": "'Noto Serif TC'",
@@ -33,21 +48,6 @@
       "errored": false
     },
     {
-      "id": "200",
-      "eot": "https://fonts.gstatic.com/s/notoseriftc/v6/XLY9IZb5bJNDGYxLBibeHZ0Bvr8vXXpMSw.eot",
-      "fontFamily": "'Noto Serif TC'",
-      "fontStyle": "normal",
-      "fontWeight": "200",
-      "woff": "https://fonts.gstatic.com/s/notoseriftc/v6/XLY9IZb5bJNDGYxLBibeHZ0Bvr8vXXpMSQ.woff",
-      "local": [
-        "Noto Serif TC ExtraLight",
-        "NotoSerifTC-ExtraLight"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=XLY9IZb5bJNDGYxLBibeHZ0Bvr8vXXpMSA&skey=387fd29db4eb4dc3&v=v6#NotoSerifTC",
-      "woff2": "https://fonts.gstatic.com/s/notoseriftc/v6/XLY9IZb5bJNDGYxLBibeHZ0Bvr8vXXpMTw.woff2",
-      "errored": false
-    },
-    {
       "id": "500",
       "eot": "https://fonts.gstatic.com/s/notoseriftc/v6/XLY9IZb5bJNDGYxLBibeHZ0BvoMtXXpMSw.eot",
       "fontFamily": "'Noto Serif TC'",
@@ -58,38 +58,23 @@
         "Noto Serif TC Medium",
         "NotoSerifTC-Medium"
       ],
-      "woff2": "https://fonts.gstatic.com/s/notoseriftc/v6/XLY9IZb5bJNDGYxLBibeHZ0BvoMtXXpMTw.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=XLY9IZb5bJNDGYxLBibeHZ0BvoMtXXpMSA&skey=a215af4aa47beb8b&v=v6#NotoSerifTC",
-      "errored": false
-    },
-    {
-      "id": "900",
-      "woff": "https://fonts.gstatic.com/s/notoseriftc/v6/XLY9IZb5bJNDGYxLBibeHZ0BvvMpXXpMSQ.woff",
-      "fontFamily": "'Noto Serif TC'",
-      "fontStyle": "normal",
-      "fontWeight": "900",
-      "local": [
-        "Noto Serif TC Black",
-        "NotoSerifTC-Black"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/notoseriftc/v6/XLY9IZb5bJNDGYxLBibeHZ0BvvMpXXpMTw.woff2",
-      "eot": "https://fonts.gstatic.com/s/notoseriftc/v6/XLY9IZb5bJNDGYxLBibeHZ0BvvMpXXpMSw.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=XLY9IZb5bJNDGYxLBibeHZ0BvvMpXXpMSA&skey=b39eb1474a885742&v=v6#NotoSerifTC",
+      "woff2": "https://fonts.gstatic.com/s/notoseriftc/v6/XLY9IZb5bJNDGYxLBibeHZ0BvoMtXXpMTw.woff2",
       "errored": false
     },
     {
       "id": "600",
-      "woff": "https://fonts.gstatic.com/s/notoseriftc/v6/XLY9IZb5bJNDGYxLBibeHZ0Bvq8qXXpMSQ.woff",
+      "eot": "https://fonts.gstatic.com/s/notoseriftc/v6/XLY9IZb5bJNDGYxLBibeHZ0Bvq8qXXpMSw.eot",
       "fontFamily": "'Noto Serif TC'",
       "fontStyle": "normal",
       "fontWeight": "600",
+      "woff": "https://fonts.gstatic.com/s/notoseriftc/v6/XLY9IZb5bJNDGYxLBibeHZ0Bvq8qXXpMSQ.woff",
       "local": [
         "Noto Serif TC SemiBold",
         "NotoSerifTC-SemiBold"
       ],
       "woff2": "https://fonts.gstatic.com/s/notoseriftc/v6/XLY9IZb5bJNDGYxLBibeHZ0Bvq8qXXpMTw.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=XLY9IZb5bJNDGYxLBibeHZ0Bvq8qXXpMSA&skey=f30b6082ccdb833d&v=v6#NotoSerifTC",
-      "eot": "https://fonts.gstatic.com/s/notoseriftc/v6/XLY9IZb5bJNDGYxLBibeHZ0Bvq8qXXpMSw.eot",
       "errored": false
     },
     {
@@ -102,28 +87,43 @@
         "Noto Serif TC Bold",
         "NotoSerifTC-Bold"
       ],
+      "woff2": "https://fonts.gstatic.com/s/notoseriftc/v6/XLY9IZb5bJNDGYxLBibeHZ0BvssrXXpMTw.woff2",
       "eot": "https://fonts.gstatic.com/s/notoseriftc/v6/XLY9IZb5bJNDGYxLBibeHZ0BvssrXXpMSw.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=XLY9IZb5bJNDGYxLBibeHZ0BvssrXXpMSA&skey=41492d83efe1f0ac&v=v6#NotoSerifTC",
-      "woff2": "https://fonts.gstatic.com/s/notoseriftc/v6/XLY9IZb5bJNDGYxLBibeHZ0BvssrXXpMTw.woff2",
+      "errored": false
+    },
+    {
+      "id": "900",
+      "eot": "https://fonts.gstatic.com/s/notoseriftc/v6/XLY9IZb5bJNDGYxLBibeHZ0BvvMpXXpMSw.eot",
+      "fontFamily": "'Noto Serif TC'",
+      "fontStyle": "normal",
+      "fontWeight": "900",
+      "woff": "https://fonts.gstatic.com/s/notoseriftc/v6/XLY9IZb5bJNDGYxLBibeHZ0BvvMpXXpMSQ.woff",
+      "local": [
+        "Noto Serif TC Black",
+        "NotoSerifTC-Black"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/notoseriftc/v6/XLY9IZb5bJNDGYxLBibeHZ0BvvMpXXpMTw.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=XLY9IZb5bJNDGYxLBibeHZ0BvvMpXXpMSA&skey=b39eb1474a885742&v=v6#NotoSerifTC",
       "errored": false
     }
   ],
   "subsets": [
     "vietnamese",
-    "latin",
     "chinese-traditional",
+    "latin",
     "cyrillic"
   ],
   "category": "serif",
   "version": "v6",
   "lastModified": "2019-07-16",
-  "popularity": 469,
+  "popularity": 470,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "vietnamese": false,
-    "latin": true,
     "chinese-traditional": false,
+    "latin": true,
     "cyrillic": true
   },
   "storeID": "cyrillic_latin"

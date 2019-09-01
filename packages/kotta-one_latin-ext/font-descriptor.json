@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=S6u_w41LXzPc_jlfNWq_FQfq&skey=4bd1f31c7ad64301&v=v7#KottaOne",
+      "woff": "https://fonts.gstatic.com/s/kottaone/v7/S6u_w41LXzPc_jlfNWq_FQfr.woff",
       "fontFamily": "'Kotta One'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Kotta One",
         "KottaOne-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/kottaone/v7/S6u_w41LXzPc_jlfNWq_FQfr.woff",
+      "ttf": "https://fonts.gstatic.com/s/kottaone/v7/S6u_w41LXzPc_jlfNWq_FQfo.ttf",
       "eot": "https://fonts.gstatic.com/s/kottaone/v7/S6u_w41LXzPc_jlfNWq_FQfp.eot",
       "woff2": "https://fonts.gstatic.com/s/kottaone/v7/S6u_w41LXzPc_jlfNWq_FQft.woff2",
-      "ttf": "https://fonts.gstatic.com/s/kottaone/v7/S6u_w41LXzPc_jlfNWq_FQfo.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=S6u_w41LXzPc_jlfNWq_FQfq&skey=4bd1f31c7ad64301&v=v7#KottaOne",
       "errored": false
     }
   ],
@@ -26,7 +26,7 @@
   "category": "serif",
   "version": "v7",
   "lastModified": "2019-07-16",
-  "popularity": 667,
+  "popularity": 651,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

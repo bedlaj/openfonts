@@ -4,17 +4,17 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/quattrocento/v11/OZpEg_xvsDZQL_LKIF7q4jP3w2j8.woff",
+      "ttf": "https://fonts.gstatic.com/s/quattrocento/v11/OZpEg_xvsDZQL_LKIF7q4jP3w2j_.ttf",
       "fontFamily": "'Quattrocento'",
       "fontStyle": "normal",
       "fontWeight": "400",
       "local": [
         "Quattrocento"
       ],
-      "woff2": "https://fonts.gstatic.com/s/quattrocento/v11/OZpEg_xvsDZQL_LKIF7q4jP3w2j6.woff2",
       "eot": "https://fonts.gstatic.com/s/quattrocento/v11/OZpEg_xvsDZQL_LKIF7q4jP3w2j-.eot",
-      "ttf": "https://fonts.gstatic.com/s/quattrocento/v11/OZpEg_xvsDZQL_LKIF7q4jP3w2j_.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=OZpEg_xvsDZQL_LKIF7q4jP3w2j9&skey=b064ec65918f184&v=v11#Quattrocento",
+      "woff2": "https://fonts.gstatic.com/s/quattrocento/v11/OZpEg_xvsDZQL_LKIF7q4jP3w2j6.woff2",
+      "woff": "https://fonts.gstatic.com/s/quattrocento/v11/OZpEg_xvsDZQL_LKIF7q4jP3w2j8.woff",
       "errored": false
     },
     {
@@ -27,10 +27,10 @@
         "Quattrocento Bold",
         "Quattrocento-Bold"
       ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=OZpbg_xvsDZQL_LKIF7q4jP_eE3vcKnf&skey=c1bc25b9907ab4a8&v=v11#Quattrocento",
+      "ttf": "https://fonts.gstatic.com/s/quattrocento/v11/OZpbg_xvsDZQL_LKIF7q4jP_eE3vcKnd.ttf",
       "eot": "https://fonts.gstatic.com/s/quattrocento/v11/OZpbg_xvsDZQL_LKIF7q4jP_eE3vcKnc.eot",
       "woff2": "https://fonts.gstatic.com/s/quattrocento/v11/OZpbg_xvsDZQL_LKIF7q4jP_eE3vcKnY.woff2",
-      "ttf": "https://fonts.gstatic.com/s/quattrocento/v11/OZpbg_xvsDZQL_LKIF7q4jP_eE3vcKnd.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=OZpbg_xvsDZQL_LKIF7q4jP_eE3vcKnf&skey=c1bc25b9907ab4a8&v=v11#Quattrocento",
       "errored": false
     }
   ],
@@ -41,7 +41,7 @@
   "category": "serif",
   "version": "v11",
   "lastModified": "2019-07-16",
-  "popularity": 145,
+  "popularity": 157,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

@@ -4,17 +4,17 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/frijole/v8/uU9PCBUR8oakM2BQ3xTR2Q.woff",
+      "eot": "https://fonts.gstatic.com/s/frijole/v8/uU9PCBUR8oakM2BQ3xTR2w.eot",
       "fontFamily": "'Frijole'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/frijole/v8/uU9PCBUR8oakM2BQ3xTR2Q.woff",
       "local": [
         "Frijole"
       ],
-      "ttf": "https://fonts.gstatic.com/s/frijole/v8/uU9PCBUR8oakM2BQ3xTR2g.ttf",
       "woff2": "https://fonts.gstatic.com/s/frijole/v8/uU9PCBUR8oakM2BQ3xTR3w.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=uU9PCBUR8oakM2BQ3xTR2A&skey=e994fa4cc1f77143&v=v8#Frijole",
-      "eot": "https://fonts.gstatic.com/s/frijole/v8/uU9PCBUR8oakM2BQ3xTR2w.eot",
+      "ttf": "https://fonts.gstatic.com/s/frijole/v8/uU9PCBUR8oakM2BQ3xTR2g.ttf",
       "errored": false
     }
   ],
@@ -24,7 +24,7 @@
   "category": "display",
   "version": "v8",
   "lastModified": "2019-07-16",
-  "popularity": 626,
+  "popularity": 617,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

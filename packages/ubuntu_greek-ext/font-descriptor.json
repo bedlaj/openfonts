@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "300",
-      "woff2": "https://fonts.gstatic.com/s/ubuntu/v14/4iCv6KVjbNBYlgoC1CzjvGyN.woff2",
+      "woff": "https://fonts.gstatic.com/s/ubuntu/v14/4iCv6KVjbNBYlgoC1CzjvGyL.woff",
       "fontFamily": "'Ubuntu'",
       "fontStyle": "normal",
       "fontWeight": "300",
@@ -13,25 +13,9 @@
         "Ubuntu-Light"
       ],
       "eot": "https://fonts.gstatic.com/s/ubuntu/v14/4iCv6KVjbNBYlgoC1CzjvGyJ.eot",
-      "woff": "https://fonts.gstatic.com/s/ubuntu/v14/4iCv6KVjbNBYlgoC1CzjvGyL.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=4iCv6KVjbNBYlgoC1CzjvGyK&skey=c70d0e00360563fb&v=v14#Ubuntu",
       "ttf": "https://fonts.gstatic.com/s/ubuntu/v14/4iCv6KVjbNBYlgoC1CzjvGyI.ttf",
-      "errored": false
-    },
-    {
-      "id": "300italic",
-      "eot": "https://fonts.gstatic.com/s/ubuntu/v14/4iCp6KVjbNBYlgoKejZftVyDN4U.eot",
-      "fontFamily": "'Ubuntu'",
-      "fontStyle": "italic",
-      "fontWeight": "300",
-      "svg": "https://fonts.gstatic.com/l/font?kit=4iCp6KVjbNBYlgoKejZftVyDN4Y&skey=90d99b3fe961a2bb&v=v14#Ubuntu",
-      "local": [
-        "Ubuntu Light Italic",
-        "Ubuntu-LightItalic"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/ubuntu/v14/4iCp6KVjbNBYlgoKejZftVyDN4E.woff2",
-      "ttf": "https://fonts.gstatic.com/s/ubuntu/v14/4iCp6KVjbNBYlgoKejZftVyDN4Q.ttf",
-      "woff": "https://fonts.gstatic.com/s/ubuntu/v14/4iCp6KVjbNBYlgoKejZftVyDN4c.woff",
+      "woff2": "https://fonts.gstatic.com/s/ubuntu/v14/4iCv6KVjbNBYlgoC1CzjvGyN.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=4iCv6KVjbNBYlgoC1CzjvGyK&skey=c70d0e00360563fb&v=v14#Ubuntu",
       "errored": false
     },
     {
@@ -51,19 +35,51 @@
       "errored": false
     },
     {
+      "id": "300italic",
+      "eot": "https://fonts.gstatic.com/s/ubuntu/v14/4iCp6KVjbNBYlgoKejZftVyDN4U.eot",
+      "fontFamily": "'Ubuntu'",
+      "fontStyle": "italic",
+      "fontWeight": "300",
+      "woff": "https://fonts.gstatic.com/s/ubuntu/v14/4iCp6KVjbNBYlgoKejZftVyDN4c.woff",
+      "local": [
+        "Ubuntu Light Italic",
+        "Ubuntu-LightItalic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/ubuntu/v14/4iCp6KVjbNBYlgoKejZftVyDN4E.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=4iCp6KVjbNBYlgoKejZftVyDN4Y&skey=90d99b3fe961a2bb&v=v14#Ubuntu",
+      "ttf": "https://fonts.gstatic.com/s/ubuntu/v14/4iCp6KVjbNBYlgoKejZftVyDN4Q.ttf",
+      "errored": false
+    },
+    {
       "id": "italic",
-      "eot": "https://fonts.gstatic.com/s/ubuntu/v14/4iCu6KVjbNBYlgoKej74l00.eot",
+      "woff": "https://fonts.gstatic.com/s/ubuntu/v14/4iCu6KVjbNBYlgoKej74l08.woff",
       "fontFamily": "'Ubuntu'",
       "fontStyle": "italic",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/ubuntu/v14/4iCu6KVjbNBYlgoKej74l08.woff",
       "local": [
         "Ubuntu Italic",
         "Ubuntu-Italic"
       ],
+      "eot": "https://fonts.gstatic.com/s/ubuntu/v14/4iCu6KVjbNBYlgoKej74l00.eot",
       "woff2": "https://fonts.gstatic.com/s/ubuntu/v14/4iCu6KVjbNBYlgoKej74l0k.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=4iCu6KVjbNBYlgoKej74l04&skey=faa714a35371172&v=v14#Ubuntu",
       "ttf": "https://fonts.gstatic.com/s/ubuntu/v14/4iCu6KVjbNBYlgoKej74l0w.ttf",
+      "errored": false
+    },
+    {
+      "id": "500italic",
+      "eot": "https://fonts.gstatic.com/s/ubuntu/v14/4iCp6KVjbNBYlgoKejYHtFyDN4U.eot",
+      "fontFamily": "'Ubuntu'",
+      "fontStyle": "italic",
+      "fontWeight": "500",
+      "woff": "https://fonts.gstatic.com/s/ubuntu/v14/4iCp6KVjbNBYlgoKejYHtFyDN4c.woff",
+      "local": [
+        "Ubuntu Medium Italic",
+        "Ubuntu-MediumItalic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/ubuntu/v14/4iCp6KVjbNBYlgoKejYHtFyDN4E.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=4iCp6KVjbNBYlgoKejYHtFyDN4Y&skey=c945e28caa1e3826&v=v14#Ubuntu",
+      "ttf": "https://fonts.gstatic.com/s/ubuntu/v14/4iCp6KVjbNBYlgoKejYHtFyDN4Q.ttf",
       "errored": false
     },
     {
@@ -77,25 +93,9 @@
         "Ubuntu Medium",
         "Ubuntu-Medium"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=4iCv6KVjbNBYlgoCjC3jvGyK&skey=d8a1e01f6daf5892&v=v14#Ubuntu",
       "woff2": "https://fonts.gstatic.com/s/ubuntu/v14/4iCv6KVjbNBYlgoCjC3jvGyN.woff2",
       "ttf": "https://fonts.gstatic.com/s/ubuntu/v14/4iCv6KVjbNBYlgoCjC3jvGyI.ttf",
-      "errored": false
-    },
-    {
-      "id": "500italic",
-      "woff": "https://fonts.gstatic.com/s/ubuntu/v14/4iCp6KVjbNBYlgoKejYHtFyDN4c.woff",
-      "fontFamily": "'Ubuntu'",
-      "fontStyle": "italic",
-      "fontWeight": "500",
-      "local": [
-        "Ubuntu Medium Italic",
-        "Ubuntu-MediumItalic"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/ubuntu/v14/4iCp6KVjbNBYlgoKejYHtFyDN4E.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=4iCp6KVjbNBYlgoKejYHtFyDN4Y&skey=c945e28caa1e3826&v=v14#Ubuntu",
-      "ttf": "https://fonts.gstatic.com/s/ubuntu/v14/4iCp6KVjbNBYlgoKejYHtFyDN4Q.ttf",
-      "eot": "https://fonts.gstatic.com/s/ubuntu/v14/4iCp6KVjbNBYlgoKejYHtFyDN4U.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=4iCv6KVjbNBYlgoCjC3jvGyK&skey=d8a1e01f6daf5892&v=v14#Ubuntu",
       "errored": false
     },
     {
@@ -120,24 +120,24 @@
       "fontFamily": "'Ubuntu'",
       "fontStyle": "italic",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/ubuntu/v14/4iCp6KVjbNBYlgoKejZPslyDN4c.woff",
+      "woff2": "https://fonts.gstatic.com/s/ubuntu/v14/4iCp6KVjbNBYlgoKejZPslyDN4E.woff2",
       "local": [
         "Ubuntu Bold Italic",
         "Ubuntu-BoldItalic"
       ],
       "svg": "https://fonts.gstatic.com/l/font?kit=4iCp6KVjbNBYlgoKejZPslyDN4Y&skey=fa49613badbd6dc7&v=v14#Ubuntu",
-      "woff2": "https://fonts.gstatic.com/s/ubuntu/v14/4iCp6KVjbNBYlgoKejZPslyDN4E.woff2",
       "ttf": "https://fonts.gstatic.com/s/ubuntu/v14/4iCp6KVjbNBYlgoKejZPslyDN4Q.ttf",
+      "woff": "https://fonts.gstatic.com/s/ubuntu/v14/4iCp6KVjbNBYlgoKejZPslyDN4c.woff",
       "errored": false
     }
   ],
   "subsets": [
-    "greek-ext",
     "greek",
+    "greek-ext",
     "latin",
-    "latin-ext",
+    "cyrillic-ext",
     "cyrillic",
-    "cyrillic-ext"
+    "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v14",
@@ -146,12 +146,12 @@
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "greek-ext": true,
     "greek": false,
+    "greek-ext": true,
     "latin": true,
-    "latin-ext": false,
+    "cyrillic-ext": false,
     "cyrillic": false,
-    "cyrillic-ext": false
+    "latin-ext": false
   },
   "storeID": "latin_greek-ext"
 }

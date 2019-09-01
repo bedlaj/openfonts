@@ -12,26 +12,26 @@
         "Hi Melody Regular",
         "HiMelody-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=46ktlbP8Vnz0pJcqCTb0cmVC&skey=6a76567185dc5b13&v=v8#HiMelody",
-      "eot": "https://fonts.gstatic.com/s/himelody/v8/46ktlbP8Vnz0pJcqCTb0cmVB.eot",
       "woff": "https://fonts.gstatic.com/s/himelody/v8/46ktlbP8Vnz0pJcqCTb0cmVD.woff",
       "woff2": "https://fonts.gstatic.com/s/himelody/v8/46ktlbP8Vnz0pJcqCTb0cmVF.woff2",
+      "eot": "https://fonts.gstatic.com/s/himelody/v8/46ktlbP8Vnz0pJcqCTb0cmVB.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=46ktlbP8Vnz0pJcqCTb0cmVC&skey=6a76567185dc5b13&v=v8#HiMelody",
       "errored": false
     }
   ],
   "subsets": [
-    "korean",
-    "latin"
+    "latin",
+    "korean"
   ],
   "category": "handwriting",
   "version": "v8",
   "lastModified": "2019-07-16",
-  "popularity": 930,
+  "popularity": 931,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "korean": true,
-    "latin": true
+    "latin": true,
+    "korean": true
   },
-  "storeID": "latin_korean"
+  "storeID": "korean_latin"
 }

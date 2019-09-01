@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/cousine/v14/d6lIkaiiRdih4SpP_SkvzA.woff2",
+      "ttf": "https://fonts.gstatic.com/s/cousine/v14/d6lIkaiiRdih4SpP_SkvyQ.ttf",
       "fontFamily": "'Cousine'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -13,25 +13,9 @@
         "Cousine-Regular"
       ],
       "woff": "https://fonts.gstatic.com/s/cousine/v14/d6lIkaiiRdih4SpP_Skvyg.woff",
+      "woff2": "https://fonts.gstatic.com/s/cousine/v14/d6lIkaiiRdih4SpP_SkvzA.woff2",
       "eot": "https://fonts.gstatic.com/s/cousine/v14/d6lIkaiiRdih4SpP_SkvyA.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=d6lIkaiiRdih4SpP_Skvyw&skey=76eb36959adb8e1f&v=v14#Cousine",
-      "ttf": "https://fonts.gstatic.com/s/cousine/v14/d6lIkaiiRdih4SpP_SkvyQ.ttf",
-      "errored": false
-    },
-    {
-      "id": "italic",
-      "eot": "https://fonts.gstatic.com/s/cousine/v14/d6lKkaiiRdih4SpP_SEfwx7t.eot",
-      "fontFamily": "'Cousine'",
-      "fontStyle": "italic",
-      "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/cousine/v14/d6lKkaiiRdih4SpP_SEfwx7v.woff",
-      "local": [
-        "Cousine Italic",
-        "Cousine-Italic"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=d6lKkaiiRdih4SpP_SEfwx7u&skey=411d53aa792d7323&v=v14#Cousine",
-      "ttf": "https://fonts.gstatic.com/s/cousine/v14/d6lKkaiiRdih4SpP_SEfwx7s.ttf",
-      "woff2": "https://fonts.gstatic.com/s/cousine/v14/d6lKkaiiRdih4SpP_SEfwx7p.woff2",
       "errored": false
     },
     {
@@ -40,14 +24,30 @@
       "fontFamily": "'Cousine'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff2": "https://fonts.gstatic.com/s/cousine/v14/d6lNkaiiRdih4SpP9Z8K2TTM0g.woff2",
+      "woff": "https://fonts.gstatic.com/s/cousine/v14/d6lNkaiiRdih4SpP9Z8K2TTM1A.woff",
       "local": [
         "Cousine Bold",
         "Cousine-Bold"
       ],
-      "woff": "https://fonts.gstatic.com/s/cousine/v14/d6lNkaiiRdih4SpP9Z8K2TTM1A.woff",
-      "ttf": "https://fonts.gstatic.com/s/cousine/v14/d6lNkaiiRdih4SpP9Z8K2TTM1w.ttf",
+      "woff2": "https://fonts.gstatic.com/s/cousine/v14/d6lNkaiiRdih4SpP9Z8K2TTM0g.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=d6lNkaiiRdih4SpP9Z8K2TTM1Q&skey=d102cd33d1abdbf6&v=v14#Cousine",
+      "ttf": "https://fonts.gstatic.com/s/cousine/v14/d6lNkaiiRdih4SpP9Z8K2TTM1w.ttf",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "eot": "https://fonts.gstatic.com/s/cousine/v14/d6lKkaiiRdih4SpP_SEfwx7t.eot",
+      "fontFamily": "'Cousine'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/cousine/v14/d6lKkaiiRdih4SpP_SEfwx7p.woff2",
+      "local": [
+        "Cousine Italic",
+        "Cousine-Italic"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/cousine/v14/d6lKkaiiRdih4SpP_SEfwx7s.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=d6lKkaiiRdih4SpP_SEfwx7u&skey=411d53aa792d7323&v=v14#Cousine",
+      "woff": "https://fonts.gstatic.com/s/cousine/v14/d6lKkaiiRdih4SpP_SEfwx7v.woff",
       "errored": false
     },
     {
@@ -68,30 +68,30 @@
     }
   ],
   "subsets": [
-    "hebrew",
-    "greek-ext",
-    "vietnamese",
     "greek",
+    "greek-ext",
+    "hebrew",
+    "vietnamese",
     "latin",
-    "latin-ext",
+    "cyrillic-ext",
     "cyrillic",
-    "cyrillic-ext"
+    "latin-ext"
   ],
   "category": "monospace",
   "version": "v14",
   "lastModified": "2019-07-16",
-  "popularity": 246,
+  "popularity": 265,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "hebrew": false,
-    "greek-ext": false,
-    "vietnamese": false,
     "greek": false,
+    "greek-ext": false,
+    "hebrew": false,
+    "vietnamese": false,
     "latin": true,
-    "latin-ext": false,
+    "cyrillic-ext": true,
     "cyrillic": false,
-    "cyrillic-ext": true
+    "latin-ext": false
   },
   "storeID": "cyrillic-ext_latin"
 }

@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/autourone/v9/UqyVK80cP25l3fJgbdfbo5BcUQ.woff",
+      "eot": "https://fonts.gstatic.com/s/autourone/v9/UqyVK80cP25l3fJgbdfbo5BcUw.eot",
       "fontFamily": "'Autour One'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/autourone/v9/UqyVK80cP25l3fJgbdfbo5BcUQ.woff",
       "local": [
         "Autour One Regular",
         "AutourOne-Regular"
       ],
       "woff2": "https://fonts.gstatic.com/s/autourone/v9/UqyVK80cP25l3fJgbdfbo5BcVw.woff2",
-      "eot": "https://fonts.gstatic.com/s/autourone/v9/UqyVK80cP25l3fJgbdfbo5BcUw.eot",
-      "ttf": "https://fonts.gstatic.com/s/autourone/v9/UqyVK80cP25l3fJgbdfbo5BcUg.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=UqyVK80cP25l3fJgbdfbo5BcUA&skey=349fce4f261a2eda&v=v9#AutourOne",
+      "ttf": "https://fonts.gstatic.com/s/autourone/v9/UqyVK80cP25l3fJgbdfbo5BcUg.ttf",
       "errored": false
     }
   ],
@@ -26,7 +26,7 @@
   "category": "display",
   "version": "v9",
   "lastModified": "2019-07-16",
-  "popularity": 756,
+  "popularity": 765,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

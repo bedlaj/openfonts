@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=x3dickHVYrCU5BU15c4xdfoE&skey=d750687bc3bb71a&v=v10#Simonetta",
+      "ttf": "https://fonts.gstatic.com/s/simonetta/v10/x3dickHVYrCU5BU15c4xdfoG.ttf",
       "fontFamily": "'Simonetta'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,42 @@
         "Simonetta Regular",
         "Simonetta-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/simonetta/v10/x3dickHVYrCU5BU15c4xdfoG.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=x3dickHVYrCU5BU15c4xdfoE&skey=d750687bc3bb71a&v=v10#Simonetta",
       "eot": "https://fonts.gstatic.com/s/simonetta/v10/x3dickHVYrCU5BU15c4xdfoH.eot",
       "woff2": "https://fonts.gstatic.com/s/simonetta/v10/x3dickHVYrCU5BU15c4xdfoD.woff2",
       "woff": "https://fonts.gstatic.com/s/simonetta/v10/x3dickHVYrCU5BU15c4xdfoF.woff",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "woff2": "https://fonts.gstatic.com/s/simonetta/v10/x3dkckHVYrCU5BU15c4xfsoPlys.woff2",
+      "fontFamily": "'Simonetta'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "local": [
+        "Simonetta Italic",
+        "Simonetta-Italic"
+      ],
+      "woff": "https://fonts.gstatic.com/s/simonetta/v10/x3dkckHVYrCU5BU15c4xfsoPly0.woff",
+      "ttf": "https://fonts.gstatic.com/s/simonetta/v10/x3dkckHVYrCU5BU15c4xfsoPly4.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=x3dkckHVYrCU5BU15c4xfsoPlyw&skey=112ab40eea09d613&v=v10#Simonetta",
+      "eot": "https://fonts.gstatic.com/s/simonetta/v10/x3dkckHVYrCU5BU15c4xfsoPly8.eot",
+      "errored": false
+    },
+    {
+      "id": "900italic",
+      "eot": "https://fonts.gstatic.com/s/simonetta/v10/x3d5ckHVYrCU5BU15c4xfsKCsD7kJQI.eot",
+      "fontFamily": "'Simonetta'",
+      "fontStyle": "italic",
+      "fontWeight": "900",
+      "woff": "https://fonts.gstatic.com/s/simonetta/v10/x3d5ckHVYrCU5BU15c4xfsKCsD7kJQA.woff",
+      "local": [
+        "Simonetta Black Italic",
+        "Simonetta-BlackItalic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/simonetta/v10/x3d5ckHVYrCU5BU15c4xfsKCsD7kJQY.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=x3d5ckHVYrCU5BU15c4xfsKCsD7kJQE&skey=996c5b2a3bf2d674&v=v10#Simonetta",
+      "ttf": "https://fonts.gstatic.com/s/simonetta/v10/x3d5ckHVYrCU5BU15c4xfsKCsD7kJQM.ttf",
       "errored": false
     },
     {
@@ -33,38 +65,6 @@
       "svg": "https://fonts.gstatic.com/l/font?kit=x3dnckHVYrCU5BU15c45-N0Wvg7v&skey=7fdf994b6f23eb03&v=v10#Simonetta",
       "ttf": "https://fonts.gstatic.com/s/simonetta/v10/x3dnckHVYrCU5BU15c45-N0Wvg7t.ttf",
       "errored": false
-    },
-    {
-      "id": "italic",
-      "eot": "https://fonts.gstatic.com/s/simonetta/v10/x3dkckHVYrCU5BU15c4xfsoPly8.eot",
-      "fontFamily": "'Simonetta'",
-      "fontStyle": "italic",
-      "fontWeight": "400",
-      "svg": "https://fonts.gstatic.com/l/font?kit=x3dkckHVYrCU5BU15c4xfsoPlyw&skey=112ab40eea09d613&v=v10#Simonetta",
-      "local": [
-        "Simonetta Italic",
-        "Simonetta-Italic"
-      ],
-      "ttf": "https://fonts.gstatic.com/s/simonetta/v10/x3dkckHVYrCU5BU15c4xfsoPly4.ttf",
-      "woff2": "https://fonts.gstatic.com/s/simonetta/v10/x3dkckHVYrCU5BU15c4xfsoPlys.woff2",
-      "woff": "https://fonts.gstatic.com/s/simonetta/v10/x3dkckHVYrCU5BU15c4xfsoPly0.woff",
-      "errored": false
-    },
-    {
-      "id": "900italic",
-      "woff": "https://fonts.gstatic.com/s/simonetta/v10/x3d5ckHVYrCU5BU15c4xfsKCsD7kJQA.woff",
-      "fontFamily": "'Simonetta'",
-      "fontStyle": "italic",
-      "fontWeight": "900",
-      "local": [
-        "Simonetta Black Italic",
-        "Simonetta-BlackItalic"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/simonetta/v10/x3d5ckHVYrCU5BU15c4xfsKCsD7kJQY.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=x3d5ckHVYrCU5BU15c4xfsKCsD7kJQE&skey=996c5b2a3bf2d674&v=v10#Simonetta",
-      "ttf": "https://fonts.gstatic.com/s/simonetta/v10/x3d5ckHVYrCU5BU15c4xfsKCsD7kJQM.ttf",
-      "eot": "https://fonts.gstatic.com/s/simonetta/v10/x3d5ckHVYrCU5BU15c4xfsKCsD7kJQI.eot",
-      "errored": false
     }
   ],
   "subsets": [
@@ -74,7 +74,7 @@
   "category": "display",
   "version": "v10",
   "lastModified": "2019-07-26",
-  "popularity": 704,
+  "popularity": 714,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

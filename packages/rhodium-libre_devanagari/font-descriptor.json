@@ -4,36 +4,36 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/rhodiumlibre/v4/1q2AY5adA0tn_ukeHcQHqpx6lELBew.woff2",
+      "eot": "https://fonts.gstatic.com/s/rhodiumlibre/v4/1q2AY5adA0tn_ukeHcQHqpx6lELBfw.eot",
       "fontFamily": "'Rhodium Libre'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/rhodiumlibre/v4/1q2AY5adA0tn_ukeHcQHqpx6lELBfQ.woff",
       "local": [
         "Rhodium Libre",
         "RhodiumLibre-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/rhodiumlibre/v4/1q2AY5adA0tn_ukeHcQHqpx6lELBfQ.woff",
-      "eot": "https://fonts.gstatic.com/s/rhodiumlibre/v4/1q2AY5adA0tn_ukeHcQHqpx6lELBfw.eot",
       "ttf": "https://fonts.gstatic.com/s/rhodiumlibre/v4/1q2AY5adA0tn_ukeHcQHqpx6lELBfg.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=1q2AY5adA0tn_ukeHcQHqpx6lELBfA&skey=3f45cebb6e7f6ae4&v=v4#RhodiumLibre",
+      "woff2": "https://fonts.gstatic.com/s/rhodiumlibre/v4/1q2AY5adA0tn_ukeHcQHqpx6lELBew.woff2",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
     "devanagari",
+    "latin",
     "latin-ext"
   ],
   "category": "serif",
   "version": "v4",
   "lastModified": "2019-07-16",
-  "popularity": 813,
+  "popularity": 816,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
     "devanagari": true,
+    "latin": true,
     "latin-ext": false
   },
-  "storeID": "devanagari_latin"
+  "storeID": "latin_devanagari"
 }

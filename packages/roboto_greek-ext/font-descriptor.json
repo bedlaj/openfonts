@@ -4,34 +4,34 @@
   "variants": [
     {
       "id": "100",
-      "woff": "https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1MmgVxEIzQ.woff",
+      "eot": "https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1MmgVxEIzY.eot",
       "fontFamily": "'Roboto'",
       "fontStyle": "normal",
       "fontWeight": "100",
+      "woff": "https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1MmgVxEIzQ.woff",
       "local": [
         "Roboto Thin",
         "Roboto-Thin"
       ],
       "woff2": "https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1MmgVxEIzI.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=KFOkCnqEu92Fr1MmgVxEIzU&skey=5473b731ec7fc9c1&v=v20#Roboto",
-      "eot": "https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1MmgVxEIzY.eot",
       "ttf": "https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1MmgVxEIzc.ttf",
       "errored": false
     },
     {
       "id": "100italic",
-      "woff": "https://fonts.gstatic.com/s/roboto/v20/KFOiCnqEu92Fr1Mu51QrEzwdKQ.woff",
+      "eot": "https://fonts.gstatic.com/s/roboto/v20/KFOiCnqEu92Fr1Mu51QrEzwdKw.eot",
       "fontFamily": "'Roboto'",
       "fontStyle": "italic",
       "fontWeight": "100",
+      "woff": "https://fonts.gstatic.com/s/roboto/v20/KFOiCnqEu92Fr1Mu51QrEzwdKQ.woff",
       "local": [
         "Roboto Thin Italic",
         "Roboto-ThinItalic"
       ],
       "woff2": "https://fonts.gstatic.com/s/roboto/v20/KFOiCnqEu92Fr1Mu51QrEzwdLw.woff2",
-      "ttf": "https://fonts.gstatic.com/s/roboto/v20/KFOiCnqEu92Fr1Mu51QrEzwdKg.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=KFOiCnqEu92Fr1Mu51QrEzwdKA&skey=8f53aa2e7deadc4a&v=v20#Roboto",
-      "eot": "https://fonts.gstatic.com/s/roboto/v20/KFOiCnqEu92Fr1Mu51QrEzwdKw.eot",
+      "ttf": "https://fonts.gstatic.com/s/roboto/v20/KFOiCnqEu92Fr1Mu51QrEzwdKg.ttf",
       "errored": false
     },
     {
@@ -52,50 +52,66 @@
     },
     {
       "id": "300italic",
-      "woff": "https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TjASc2CsI.woff",
+      "eot": "https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TjASc2CsA.eot",
       "fontFamily": "'Roboto'",
       "fontStyle": "italic",
       "fontWeight": "300",
+      "woff": "https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TjASc2CsI.woff",
       "local": [
         "Roboto Light Italic",
         "Roboto-LightItalic"
       ],
-      "eot": "https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TjASc2CsA.eot",
-      "woff2": "https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TjASc2CsQ.woff2",
       "ttf": "https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TjASc2CsE.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=KFOjCnqEu92Fr1Mu51TjASc2CsM&skey=8f644060176e1f7e&v=v20#Roboto",
-      "errored": false
-    },
-    {
-      "id": "italic",
-      "woff": "https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1Mu51xEIzQ.woff",
-      "fontFamily": "'Roboto'",
-      "fontStyle": "italic",
-      "fontWeight": "400",
-      "local": [
-        "Roboto Italic",
-        "Roboto-Italic"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1Mu51xEIzI.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=KFOkCnqEu92Fr1Mu51xEIzU&skey=c608c610063635f9&v=v20#Roboto",
-      "ttf": "https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1Mu51xEIzc.ttf",
-      "eot": "https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1Mu51xEIzY.eot",
+      "woff2": "https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TjASc2CsQ.woff2",
       "errored": false
     },
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu7mxM.woff",
+      "eot": "https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu7mxO.eot",
       "fontFamily": "'Roboto'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu7mxM.woff",
       "local": [
         "Roboto",
         "Roboto-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu7mxO.eot",
       "woff2": "https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu7mxK.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=KFOmCnqEu92Fr1Mu7mxN&skey=a0a0114a1dcab3ac&v=v20#Roboto",
       "ttf": "https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu7mxP.ttf",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "eot": "https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1Mu51xEIzY.eot",
+      "fontFamily": "'Roboto'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1Mu51xEIzI.woff2",
+      "local": [
+        "Roboto Italic",
+        "Roboto-Italic"
+      ],
+      "woff": "https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1Mu51xEIzQ.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=KFOkCnqEu92Fr1Mu51xEIzU&skey=c608c610063635f9&v=v20#Roboto",
+      "ttf": "https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1Mu51xEIzc.ttf",
+      "errored": false
+    },
+    {
+      "id": "500",
+      "eot": "https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fCBc8.eot",
+      "fontFamily": "'Roboto'",
+      "fontStyle": "normal",
+      "fontWeight": "500",
+      "woff": "https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fCBc-.woff",
+      "local": [
+        "Roboto Medium",
+        "Roboto-Medium"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fCBc4.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=KFOlCnqEu92Fr1MmEU9fCBc_&skey=ee881451c540fdec&v=v20#Roboto",
+      "ttf": "https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fCBc9.ttf",
       "errored": false
     },
     {
@@ -110,40 +126,8 @@
         "Roboto-MediumItalic"
       ],
       "woff2": "https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51S7ACc2CsQ.woff2",
-      "ttf": "https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51S7ACc2CsE.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=KFOjCnqEu92Fr1Mu51S7ACc2CsM&skey=c985e17098069ce0&v=v20#Roboto",
-      "errored": false
-    },
-    {
-      "id": "500",
-      "woff": "https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fCBc-.woff",
-      "fontFamily": "'Roboto'",
-      "fontStyle": "normal",
-      "fontWeight": "500",
-      "local": [
-        "Roboto Medium",
-        "Roboto-Medium"
-      ],
-      "eot": "https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fCBc8.eot",
-      "woff2": "https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fCBc4.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=KFOlCnqEu92Fr1MmEU9fCBc_&skey=ee881451c540fdec&v=v20#Roboto",
-      "ttf": "https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fCBc9.ttf",
-      "errored": false
-    },
-    {
-      "id": "700italic",
-      "eot": "https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TzBic2CsA.eot",
-      "fontFamily": "'Roboto'",
-      "fontStyle": "italic",
-      "fontWeight": "700",
-      "svg": "https://fonts.gstatic.com/l/font?kit=KFOjCnqEu92Fr1Mu51TzBic2CsM&skey=dd030d266f3beccc&v=v20#Roboto",
-      "local": [
-        "Roboto Bold Italic",
-        "Roboto-BoldItalic"
-      ],
-      "woff": "https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TzBic2CsI.woff",
-      "woff2": "https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TzBic2CsQ.woff2",
-      "ttf": "https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TzBic2CsE.ttf",
+      "ttf": "https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51S7ACc2CsE.ttf",
       "errored": false
     },
     {
@@ -156,10 +140,26 @@
         "Roboto Bold",
         "Roboto-Bold"
       ],
-      "eot": "https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfCBc8.eot",
       "woff2": "https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfCBc4.woff2",
-      "ttf": "https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfCBc9.ttf",
+      "eot": "https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfCBc8.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=KFOlCnqEu92Fr1MmWUlfCBc_&skey=c06e7213f788649e&v=v20#Roboto",
+      "ttf": "https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfCBc9.ttf",
+      "errored": false
+    },
+    {
+      "id": "700italic",
+      "eot": "https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TzBic2CsA.eot",
+      "fontFamily": "'Roboto'",
+      "fontStyle": "italic",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TzBic2CsI.woff",
+      "local": [
+        "Roboto Bold Italic",
+        "Roboto-BoldItalic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TzBic2CsQ.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=KFOjCnqEu92Fr1Mu51TzBic2CsM&skey=dd030d266f3beccc&v=v20#Roboto",
+      "ttf": "https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TzBic2CsE.ttf",
       "errored": false
     },
     {
@@ -168,41 +168,41 @@
       "fontFamily": "'Roboto'",
       "fontStyle": "normal",
       "fontWeight": "900",
-      "woff2": "https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmYUtfCBc4.woff2",
+      "woff": "https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmYUtfCBc-.woff",
       "local": [
         "Roboto Black",
         "Roboto-Black"
       ],
-      "woff": "https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmYUtfCBc-.woff",
-      "ttf": "https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmYUtfCBc9.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=KFOlCnqEu92Fr1MmYUtfCBc_&skey=934406f772f9777d&v=v20#Roboto",
+      "woff2": "https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmYUtfCBc4.woff2",
+      "ttf": "https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmYUtfCBc9.ttf",
       "errored": false
     },
     {
       "id": "900italic",
-      "woff": "https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TLBCc2CsI.woff",
+      "eot": "https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TLBCc2CsA.eot",
       "fontFamily": "'Roboto'",
       "fontStyle": "italic",
       "fontWeight": "900",
+      "woff": "https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TLBCc2CsI.woff",
       "local": [
         "Roboto Black Italic",
         "Roboto-BlackItalic"
       ],
       "woff2": "https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TLBCc2CsQ.woff2",
-      "eot": "https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TLBCc2CsA.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=KFOjCnqEu92Fr1Mu51TLBCc2CsM&skey=b80be3241fe40325&v=v20#Roboto",
       "ttf": "https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TLBCc2CsE.ttf",
       "errored": false
     }
   ],
   "subsets": [
+    "greek",
     "greek-ext",
     "vietnamese",
-    "greek",
     "latin",
-    "latin-ext",
+    "cyrillic-ext",
     "cyrillic",
-    "cyrillic-ext"
+    "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v20",
@@ -211,13 +211,13 @@
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
+    "greek": false,
     "greek-ext": true,
     "vietnamese": false,
-    "greek": false,
     "latin": true,
-    "latin-ext": false,
+    "cyrillic-ext": false,
     "cyrillic": false,
-    "cyrillic-ext": false
+    "latin-ext": false
   },
   "storeID": "latin_greek-ext"
 }

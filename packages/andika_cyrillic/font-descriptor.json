@@ -13,8 +13,8 @@
         "Andika-Regular"
       ],
       "woff": "https://fonts.gstatic.com/s/andika/v11/mem_Ya6iyW-LwqgwbrYW.woff",
-      "ttf": "https://fonts.gstatic.com/s/andika/v11/mem_Ya6iyW-LwqgwbrYV.ttf",
       "eot": "https://fonts.gstatic.com/s/andika/v11/mem_Ya6iyW-LwqgwbrYU.eot",
+      "ttf": "https://fonts.gstatic.com/s/andika/v11/mem_Ya6iyW-LwqgwbrYV.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=mem_Ya6iyW-LwqgwbrYX&skey=c52ba807e15599a0&v=v11#Andika",
       "errored": false
     }
@@ -22,22 +22,22 @@
   "subsets": [
     "vietnamese",
     "latin",
-    "latin-ext",
+    "cyrillic-ext",
     "cyrillic",
-    "cyrillic-ext"
+    "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v11",
   "lastModified": "2019-07-16",
-  "popularity": 539,
+  "popularity": 552,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "vietnamese": false,
     "latin": true,
-    "latin-ext": false,
+    "cyrillic-ext": false,
     "cyrillic": true,
-    "cyrillic-ext": false
+    "latin-ext": false
   },
   "storeID": "cyrillic_latin"
 }

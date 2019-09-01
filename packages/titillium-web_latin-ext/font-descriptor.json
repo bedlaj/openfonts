@@ -4,34 +4,18 @@
   "variants": [
     {
       "id": "200",
-      "woff2": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPDcZTIAOhVxoMyOr9n_E7ffAzHGIVzYw.woff2",
+      "eot": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPDcZTIAOhVxoMyOr9n_E7ffAzHGIVzZw.eot",
       "fontFamily": "'Titillium Web'",
       "fontStyle": "normal",
       "fontWeight": "200",
+      "svg": "https://fonts.gstatic.com/l/font?kit=NaPDcZTIAOhVxoMyOr9n_E7ffAzHGIVzZA&skey=2f3c56be1b8da620&v=v8#TitilliumWeb",
       "local": [
         "Titillium Web ExtraLight",
         "TitilliumWeb-ExtraLight"
       ],
+      "woff2": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPDcZTIAOhVxoMyOr9n_E7ffAzHGIVzYw.woff2",
       "woff": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPDcZTIAOhVxoMyOr9n_E7ffAzHGIVzZQ.woff",
-      "eot": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPDcZTIAOhVxoMyOr9n_E7ffAzHGIVzZw.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=NaPDcZTIAOhVxoMyOr9n_E7ffAzHGIVzZA&skey=2f3c56be1b8da620&v=v8#TitilliumWeb",
       "ttf": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPDcZTIAOhVxoMyOr9n_E7ffAzHGIVzZg.ttf",
-      "errored": false
-    },
-    {
-      "id": "200italic",
-      "eot": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPFcZTIAOhVxoMyOr9n_E7fdMbewI1Db5yY.eot",
-      "fontFamily": "'Titillium Web'",
-      "fontStyle": "italic",
-      "fontWeight": "200",
-      "woff": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPFcZTIAOhVxoMyOr9n_E7fdMbewI1Db5ya.woff",
-      "local": [
-        "Titillium Web ExtraLight Italic",
-        "TitilliumWeb-ExtraLightItalic"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPFcZTIAOhVxoMyOr9n_E7fdMbewI1Db5yc.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=NaPFcZTIAOhVxoMyOr9n_E7fdMbewI1Db5yb&skey=dac2b5695211f282&v=v8#TitilliumWeb",
-      "ttf": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPFcZTIAOhVxoMyOr9n_E7fdMbewI1Db5yZ.ttf",
       "errored": false
     },
     {
@@ -45,9 +29,25 @@
         "Titillium Web Light",
         "TitilliumWeb-Light"
       ],
-      "woff2": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPDcZTIAOhVxoMyOr9n_E7ffGjEGIVzYw.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=NaPDcZTIAOhVxoMyOr9n_E7ffGjEGIVzZA&skey=dfcc7191cd1ffbb1&v=v8#TitilliumWeb",
+      "woff2": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPDcZTIAOhVxoMyOr9n_E7ffGjEGIVzYw.woff2",
       "ttf": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPDcZTIAOhVxoMyOr9n_E7ffGjEGIVzZg.ttf",
+      "errored": false
+    },
+    {
+      "id": "200italic",
+      "svg": "https://fonts.gstatic.com/l/font?kit=NaPFcZTIAOhVxoMyOr9n_E7fdMbewI1Db5yb&skey=dac2b5695211f282&v=v8#TitilliumWeb",
+      "fontFamily": "'Titillium Web'",
+      "fontStyle": "italic",
+      "fontWeight": "200",
+      "local": [
+        "Titillium Web ExtraLight Italic",
+        "TitilliumWeb-ExtraLightItalic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPFcZTIAOhVxoMyOr9n_E7fdMbewI1Db5yc.woff2",
+      "ttf": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPFcZTIAOhVxoMyOr9n_E7fdMbewI1Db5yZ.ttf",
+      "eot": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPFcZTIAOhVxoMyOr9n_E7fdMbewI1Db5yY.eot",
+      "woff": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPFcZTIAOhVxoMyOr9n_E7fdMbewI1Db5ya.woff",
       "errored": false
     },
     {
@@ -56,14 +56,30 @@
       "fontFamily": "'Titillium Web'",
       "fontStyle": "italic",
       "fontWeight": "300",
-      "woff2": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPFcZTIAOhVxoMyOr9n_E7fdMbepI5Db5yc.woff2",
+      "woff": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPFcZTIAOhVxoMyOr9n_E7fdMbepI5Db5ya.woff",
       "local": [
         "Titillium Web Light Italic",
         "TitilliumWeb-LightItalic"
       ],
-      "woff": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPFcZTIAOhVxoMyOr9n_E7fdMbepI5Db5ya.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=NaPFcZTIAOhVxoMyOr9n_E7fdMbepI5Db5yb&skey=bd6f29e5f63b8c92&v=v8#TitilliumWeb",
+      "woff2": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPFcZTIAOhVxoMyOr9n_E7fdMbepI5Db5yc.woff2",
       "ttf": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPFcZTIAOhVxoMyOr9n_E7fdMbepI5Db5yZ.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=NaPFcZTIAOhVxoMyOr9n_E7fdMbepI5Db5yb&skey=bd6f29e5f63b8c92&v=v8#TitilliumWeb",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "eot": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPAcZTIAOhVxoMyOr9n_E7fdMbWAaxS.eot",
+      "fontFamily": "'Titillium Web'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPAcZTIAOhVxoMyOr9n_E7fdMbWAaxQ.woff",
+      "local": [
+        "Titillium Web Italic",
+        "TitilliumWeb-Italic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPAcZTIAOhVxoMyOr9n_E7fdMbWAaxW.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=NaPAcZTIAOhVxoMyOr9n_E7fdMbWAaxR&skey=d914d87983412807&v=v8#TitilliumWeb",
+      "ttf": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPAcZTIAOhVxoMyOr9n_E7fdMbWAaxT.ttf",
       "errored": false
     },
     {
@@ -77,89 +93,41 @@
         "Titillium Web Regular",
         "TitilliumWeb-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=NaPecZTIAOhVxoMyOr9n_E7fdM3mCg&skey=19ee7c202c5bec48&v=v8#TitilliumWeb",
-      "ttf": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPecZTIAOhVxoMyOr9n_E7fdM3mCA.ttf",
       "woff2": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPecZTIAOhVxoMyOr9n_E7fdM3mDQ.woff2",
-      "errored": false
-    },
-    {
-      "id": "italic",
-      "woff": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPAcZTIAOhVxoMyOr9n_E7fdMbWAaxQ.woff",
-      "fontFamily": "'Titillium Web'",
-      "fontStyle": "italic",
-      "fontWeight": "400",
-      "local": [
-        "Titillium Web Italic",
-        "TitilliumWeb-Italic"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPAcZTIAOhVxoMyOr9n_E7fdMbWAaxW.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=NaPAcZTIAOhVxoMyOr9n_E7fdMbWAaxR&skey=d914d87983412807&v=v8#TitilliumWeb",
-      "eot": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPAcZTIAOhVxoMyOr9n_E7fdMbWAaxS.eot",
-      "ttf": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPAcZTIAOhVxoMyOr9n_E7fdMbWAaxT.ttf",
+      "ttf": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPecZTIAOhVxoMyOr9n_E7fdM3mCA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=NaPecZTIAOhVxoMyOr9n_E7fdM3mCg&skey=19ee7c202c5bec48&v=v8#TitilliumWeb",
       "errored": false
     },
     {
       "id": "600",
-      "woff2": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPDcZTIAOhVxoMyOr9n_E7ffBzCGIVzYw.woff2",
+      "eot": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPDcZTIAOhVxoMyOr9n_E7ffBzCGIVzZw.eot",
       "fontFamily": "'Titillium Web'",
       "fontStyle": "normal",
       "fontWeight": "600",
+      "woff": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPDcZTIAOhVxoMyOr9n_E7ffBzCGIVzZQ.woff",
       "local": [
         "Titillium Web SemiBold",
         "TitilliumWeb-SemiBold"
       ],
-      "woff": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPDcZTIAOhVxoMyOr9n_E7ffBzCGIVzZQ.woff",
+      "woff2": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPDcZTIAOhVxoMyOr9n_E7ffBzCGIVzYw.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=NaPDcZTIAOhVxoMyOr9n_E7ffBzCGIVzZA&skey=acec4e0d2045640c&v=v8#TitilliumWeb",
-      "eot": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPDcZTIAOhVxoMyOr9n_E7ffBzCGIVzZw.eot",
       "ttf": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPDcZTIAOhVxoMyOr9n_E7ffBzCGIVzZg.ttf",
       "errored": false
     },
     {
       "id": "600italic",
-      "woff": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPFcZTIAOhVxoMyOr9n_E7fdMbe0IhDb5ya.woff",
+      "eot": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPFcZTIAOhVxoMyOr9n_E7fdMbe0IhDb5yY.eot",
       "fontFamily": "'Titillium Web'",
       "fontStyle": "italic",
       "fontWeight": "600",
+      "woff": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPFcZTIAOhVxoMyOr9n_E7fdMbe0IhDb5ya.woff",
       "local": [
         "Titillium Web SemiBold Italic",
         "TitilliumWeb-SemiBoldItalic"
       ],
-      "eot": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPFcZTIAOhVxoMyOr9n_E7fdMbe0IhDb5yY.eot",
-      "woff2": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPFcZTIAOhVxoMyOr9n_E7fdMbe0IhDb5yc.woff2",
       "ttf": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPFcZTIAOhVxoMyOr9n_E7fdMbe0IhDb5yZ.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=NaPFcZTIAOhVxoMyOr9n_E7fdMbe0IhDb5yb&skey=b095876923e4daae&v=v8#TitilliumWeb",
-      "errored": false
-    },
-    {
-      "id": "700",
-      "eot": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPDcZTIAOhVxoMyOr9n_E7ffHjDGIVzZw.eot",
-      "fontFamily": "'Titillium Web'",
-      "fontStyle": "normal",
-      "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPDcZTIAOhVxoMyOr9n_E7ffHjDGIVzZQ.woff",
-      "local": [
-        "Titillium Web Bold",
-        "TitilliumWeb-Bold"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPDcZTIAOhVxoMyOr9n_E7ffHjDGIVzYw.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=NaPDcZTIAOhVxoMyOr9n_E7ffHjDGIVzZA&skey=6e7dbb342580bb18&v=v8#TitilliumWeb",
-      "ttf": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPDcZTIAOhVxoMyOr9n_E7ffHjDGIVzZg.ttf",
-      "errored": false
-    },
-    {
-      "id": "700italic",
-      "eot": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPFcZTIAOhVxoMyOr9n_E7fdMbetIlDb5yY.eot",
-      "fontFamily": "'Titillium Web'",
-      "fontStyle": "italic",
-      "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPFcZTIAOhVxoMyOr9n_E7fdMbetIlDb5ya.woff",
-      "local": [
-        "Titillium Web Bold Italic",
-        "TitilliumWeb-BoldItalic"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPFcZTIAOhVxoMyOr9n_E7fdMbetIlDb5yc.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=NaPFcZTIAOhVxoMyOr9n_E7fdMbetIlDb5yb&skey=2736b78faeea368c&v=v8#TitilliumWeb",
-      "ttf": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPFcZTIAOhVxoMyOr9n_E7fdMbetIlDb5yZ.ttf",
+      "woff2": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPFcZTIAOhVxoMyOr9n_E7fdMbe0IhDb5yc.woff2",
       "errored": false
     },
     {
@@ -176,6 +144,38 @@
       "woff": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPDcZTIAOhVxoMyOr9n_E7ffEDBGIVzZQ.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=NaPDcZTIAOhVxoMyOr9n_E7ffEDBGIVzZA&skey=1834815bec1b8264&v=v8#TitilliumWeb",
       "ttf": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPDcZTIAOhVxoMyOr9n_E7ffEDBGIVzZg.ttf",
+      "errored": false
+    },
+    {
+      "id": "700italic",
+      "eot": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPFcZTIAOhVxoMyOr9n_E7fdMbetIlDb5yY.eot",
+      "fontFamily": "'Titillium Web'",
+      "fontStyle": "italic",
+      "fontWeight": "700",
+      "woff2": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPFcZTIAOhVxoMyOr9n_E7fdMbetIlDb5yc.woff2",
+      "local": [
+        "Titillium Web Bold Italic",
+        "TitilliumWeb-BoldItalic"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPFcZTIAOhVxoMyOr9n_E7fdMbetIlDb5yZ.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=NaPFcZTIAOhVxoMyOr9n_E7fdMbetIlDb5yb&skey=2736b78faeea368c&v=v8#TitilliumWeb",
+      "woff": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPFcZTIAOhVxoMyOr9n_E7fdMbetIlDb5ya.woff",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPDcZTIAOhVxoMyOr9n_E7ffHjDGIVzZQ.woff",
+      "fontFamily": "'Titillium Web'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Titillium Web Bold",
+        "TitilliumWeb-Bold"
+      ],
+      "eot": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPDcZTIAOhVxoMyOr9n_E7ffHjDGIVzZw.eot",
+      "woff2": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPDcZTIAOhVxoMyOr9n_E7ffHjDGIVzYw.woff2",
+      "ttf": "https://fonts.gstatic.com/s/titilliumweb/v8/NaPDcZTIAOhVxoMyOr9n_E7ffHjDGIVzZg.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=NaPDcZTIAOhVxoMyOr9n_E7ffHjDGIVzZA&skey=6e7dbb342580bb18&v=v8#TitilliumWeb",
       "errored": false
     }
   ],

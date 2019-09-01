@@ -4,23 +4,23 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/domine/v7/L0x8DFMnlVwD4h3hu_qn.woff2",
+      "eot": "https://fonts.gstatic.com/s/domine/v7/L0x8DFMnlVwD4h3hu_qj.eot",
       "fontFamily": "'Domine'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/domine/v7/L0x8DFMnlVwD4h3hu_qn.woff2",
       "local": [
         "Domine",
         "Domine-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/domine/v7/L0x8DFMnlVwD4h3hu_qj.eot",
-      "ttf": "https://fonts.gstatic.com/s/domine/v7/L0x8DFMnlVwD4h3hu_qi.ttf",
       "woff": "https://fonts.gstatic.com/s/domine/v7/L0x8DFMnlVwD4h3hu_qh.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=L0x8DFMnlVwD4h3hu_qg&skey=ea73fc1e1d1dfd9a&v=v7#Domine",
+      "ttf": "https://fonts.gstatic.com/s/domine/v7/L0x8DFMnlVwD4h3hu_qi.ttf",
       "errored": false
     },
     {
       "id": "700",
-      "svg": "https://fonts.gstatic.com/l/font?kit=L0x_DFMnlVwD4h3pAN-ySghO&skey=cfd1743a5d8839c4&v=v7#Domine",
+      "woff": "https://fonts.gstatic.com/s/domine/v7/L0x_DFMnlVwD4h3pAN-ySghP.woff",
       "fontFamily": "'Domine'",
       "fontStyle": "normal",
       "fontWeight": "700",
@@ -28,10 +28,10 @@
         "Domine Bold",
         "Domine-Bold"
       ],
-      "woff": "https://fonts.gstatic.com/s/domine/v7/L0x_DFMnlVwD4h3pAN-ySghP.woff",
-      "ttf": "https://fonts.gstatic.com/s/domine/v7/L0x_DFMnlVwD4h3pAN-ySghM.ttf",
-      "eot": "https://fonts.gstatic.com/s/domine/v7/L0x_DFMnlVwD4h3pAN-ySghN.eot",
       "woff2": "https://fonts.gstatic.com/s/domine/v7/L0x_DFMnlVwD4h3pAN-ySghJ.woff2",
+      "eot": "https://fonts.gstatic.com/s/domine/v7/L0x_DFMnlVwD4h3pAN-ySghN.eot",
+      "ttf": "https://fonts.gstatic.com/s/domine/v7/L0x_DFMnlVwD4h3pAN-ySghM.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=L0x_DFMnlVwD4h3pAN-ySghO&skey=cfd1743a5d8839c4&v=v7#Domine",
       "errored": false
     }
   ],
@@ -42,7 +42,7 @@
   "category": "serif",
   "version": "v7",
   "lastModified": "2019-07-17",
-  "popularity": 89,
+  "popularity": 88,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

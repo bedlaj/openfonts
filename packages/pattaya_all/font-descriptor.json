@@ -4,27 +4,27 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/pattaya/v5/ea8ZadcqV_zkHY-XNdA.ttf",
+      "eot": "https://fonts.gstatic.com/s/pattaya/v5/ea8ZadcqV_zkHY-XNdE.eot",
       "fontFamily": "'Pattaya'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/pattaya/v5/ea8ZadcqV_zkHY-XNdU.woff2",
       "local": [
         "Pattaya",
         "Pattaya-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/pattaya/v5/ea8ZadcqV_zkHY-XNdU.woff2",
-      "eot": "https://fonts.gstatic.com/s/pattaya/v5/ea8ZadcqV_zkHY-XNdE.eot",
-      "woff": "https://fonts.gstatic.com/s/pattaya/v5/ea8ZadcqV_zkHY-XNdM.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=ea8ZadcqV_zkHY-XNdI&skey=16793223d51a74bc&v=v5#Pattaya",
+      "woff": "https://fonts.gstatic.com/s/pattaya/v5/ea8ZadcqV_zkHY-XNdM.woff",
+      "ttf": "https://fonts.gstatic.com/s/pattaya/v5/ea8ZadcqV_zkHY-XNdA.ttf",
       "errored": false
     }
   ],
   "subsets": [
     "vietnamese",
     "latin",
-    "latin-ext",
+    "thai",
     "cyrillic",
-    "thai"
+    "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v5",
@@ -35,9 +35,9 @@
   "subsetMap": {
     "vietnamese": true,
     "latin": true,
-    "latin-ext": true,
+    "thai": true,
     "cyrillic": true,
-    "thai": true
+    "latin-ext": true
   },
-  "storeID": "thai_cyrillic_latin-ext_latin_vietnamese"
+  "storeID": "latin-ext_cyrillic_thai_latin_vietnamese"
 }

@@ -8,20 +8,20 @@
       "fontFamily": "'Yeon Sung'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "ttf": "https://fonts.gstatic.com/s/yeonsung/v8/QldMNTpbohAGtsJvUn6BRFle.ttf",
+      "woff": "https://fonts.gstatic.com/s/yeonsung/v8/QldMNTpbohAGtsJvUn6BRFld.woff",
       "local": [
         "Yeon Sung Regular",
         "YeonSung-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/yeonsung/v8/QldMNTpbohAGtsJvUn6BRFld.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=QldMNTpbohAGtsJvUn6BRFlc&skey=68a34c5973f160f9&v=v8#YeonSung",
       "woff2": "https://fonts.gstatic.com/s/yeonsung/v8/QldMNTpbohAGtsJvUn6BRFlb.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=QldMNTpbohAGtsJvUn6BRFlc&skey=68a34c5973f160f9&v=v8#YeonSung",
+      "ttf": "https://fonts.gstatic.com/s/yeonsung/v8/QldMNTpbohAGtsJvUn6BRFle.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "korean",
-    "latin"
+    "latin",
+    "korean"
   ],
   "category": "display",
   "version": "v8",
@@ -30,8 +30,8 @@
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "korean": true,
-    "latin": true
+    "latin": true,
+    "korean": true
   },
-  "storeID": "latin_korean"
+  "storeID": "korean_latin"
 }

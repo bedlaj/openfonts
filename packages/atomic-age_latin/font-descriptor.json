@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/atomicage/v12/f0Xz0eug6sdmRFkYZZGL18bn8g.woff",
+      "eot": "https://fonts.gstatic.com/s/atomicage/v12/f0Xz0eug6sdmRFkYZZGL18bn8A.eot",
       "fontFamily": "'Atomic Age'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/atomicage/v12/f0Xz0eug6sdmRFkYZZGL18bn8g.woff",
       "local": [
         "Atomic Age Regular",
         "AtomicAge-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/atomicage/v12/f0Xz0eug6sdmRFkYZZGL18bn9A.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=f0Xz0eug6sdmRFkYZZGL18bn8w&skey=dbf7add47a92f990&v=v12#AtomicAge",
-      "eot": "https://fonts.gstatic.com/s/atomicage/v12/f0Xz0eug6sdmRFkYZZGL18bn8A.eot",
       "ttf": "https://fonts.gstatic.com/s/atomicage/v12/f0Xz0eug6sdmRFkYZZGL18bn8Q.ttf",
+      "woff2": "https://fonts.gstatic.com/s/atomicage/v12/f0Xz0eug6sdmRFkYZZGL18bn9A.woff2",
       "errored": false
     }
   ],
@@ -25,7 +25,7 @@
   "category": "display",
   "version": "v12",
   "lastModified": "2019-07-16",
-  "popularity": 808,
+  "popularity": 789,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

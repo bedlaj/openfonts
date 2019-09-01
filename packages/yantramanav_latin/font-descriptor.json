@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "100",
-      "woff2": "https://fonts.gstatic.com/s/yantramanav/v5/flU-Rqu5zY00QEpyWJYWN5-QbeR5DQ.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=flU-Rqu5zY00QEpyWJYWN5-QbeR5Cg&skey=4d8237ae265bcb5&v=v5#Yantramanav",
       "fontFamily": "'Yantramanav'",
       "fontStyle": "normal",
       "fontWeight": "100",
@@ -12,26 +12,10 @@
         "Yantramanav Thin",
         "Yantramanav-Thin"
       ],
-      "ttf": "https://fonts.gstatic.com/s/yantramanav/v5/flU-Rqu5zY00QEpyWJYWN5-QbeR5CA.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=flU-Rqu5zY00QEpyWJYWN5-QbeR5Cg&skey=4d8237ae265bcb5&v=v5#Yantramanav",
+      "woff2": "https://fonts.gstatic.com/s/yantramanav/v5/flU-Rqu5zY00QEpyWJYWN5-QbeR5DQ.woff2",
       "woff": "https://fonts.gstatic.com/s/yantramanav/v5/flU-Rqu5zY00QEpyWJYWN5-QbeR5Cw.woff",
+      "ttf": "https://fonts.gstatic.com/s/yantramanav/v5/flU-Rqu5zY00QEpyWJYWN5-QbeR5CA.ttf",
       "eot": "https://fonts.gstatic.com/s/yantramanav/v5/flU-Rqu5zY00QEpyWJYWN5-QbeR5CQ.eot",
-      "errored": false
-    },
-    {
-      "id": "300",
-      "woff2": "https://fonts.gstatic.com/s/yantramanav/v5/flUhRqu5zY00QEpyWJYWN59Yf_NeKBM.woff2",
-      "fontFamily": "'Yantramanav'",
-      "fontStyle": "normal",
-      "fontWeight": "300",
-      "local": [
-        "Yantramanav Light",
-        "Yantramanav-Light"
-      ],
-      "woff": "https://fonts.gstatic.com/s/yantramanav/v5/flUhRqu5zY00QEpyWJYWN59Yf_NeKBU.woff",
-      "ttf": "https://fonts.gstatic.com/s/yantramanav/v5/flUhRqu5zY00QEpyWJYWN59Yf_NeKBY.ttf",
-      "eot": "https://fonts.gstatic.com/s/yantramanav/v5/flUhRqu5zY00QEpyWJYWN59Yf_NeKBc.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=flUhRqu5zY00QEpyWJYWN59Yf_NeKBQ&skey=4fb8a5ec5d9364f0&v=v5#Yantramanav",
       "errored": false
     },
     {
@@ -45,14 +29,14 @@
         "Yantramanav Regular",
         "Yantramanav-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/yantramanav/v5/flU8Rqu5zY00QEpyWJYWN5fzXeY.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=flU8Rqu5zY00QEpyWJYWN5fzXeE&skey=d721e4e4fbd1e850&v=v5#Yantramanav",
+      "woff2": "https://fonts.gstatic.com/s/yantramanav/v5/flU8Rqu5zY00QEpyWJYWN5fzXeY.woff2",
       "ttf": "https://fonts.gstatic.com/s/yantramanav/v5/flU8Rqu5zY00QEpyWJYWN5fzXeM.ttf",
       "errored": false
     },
     {
       "id": "500",
-      "woff": "https://fonts.gstatic.com/s/yantramanav/v5/flUhRqu5zY00QEpyWJYWN58AfvNeKBU.woff",
+      "woff2": "https://fonts.gstatic.com/s/yantramanav/v5/flUhRqu5zY00QEpyWJYWN58AfvNeKBM.woff2",
       "fontFamily": "'Yantramanav'",
       "fontStyle": "normal",
       "fontWeight": "500",
@@ -60,26 +44,42 @@
         "Yantramanav Medium",
         "Yantramanav-Medium"
       ],
+      "woff": "https://fonts.gstatic.com/s/yantramanav/v5/flUhRqu5zY00QEpyWJYWN58AfvNeKBU.woff",
       "eot": "https://fonts.gstatic.com/s/yantramanav/v5/flUhRqu5zY00QEpyWJYWN58AfvNeKBc.eot",
-      "woff2": "https://fonts.gstatic.com/s/yantramanav/v5/flUhRqu5zY00QEpyWJYWN58AfvNeKBM.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=flUhRqu5zY00QEpyWJYWN58AfvNeKBQ&skey=ae25c44df595cf2d&v=v5#Yantramanav",
       "ttf": "https://fonts.gstatic.com/s/yantramanav/v5/flUhRqu5zY00QEpyWJYWN58AfvNeKBY.ttf",
       "errored": false
     },
     {
+      "id": "300",
+      "eot": "https://fonts.gstatic.com/s/yantramanav/v5/flUhRqu5zY00QEpyWJYWN59Yf_NeKBc.eot",
+      "fontFamily": "'Yantramanav'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "woff": "https://fonts.gstatic.com/s/yantramanav/v5/flUhRqu5zY00QEpyWJYWN59Yf_NeKBU.woff",
+      "local": [
+        "Yantramanav Light",
+        "Yantramanav-Light"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=flUhRqu5zY00QEpyWJYWN59Yf_NeKBQ&skey=4fb8a5ec5d9364f0&v=v5#Yantramanav",
+      "ttf": "https://fonts.gstatic.com/s/yantramanav/v5/flUhRqu5zY00QEpyWJYWN59Yf_NeKBY.ttf",
+      "woff2": "https://fonts.gstatic.com/s/yantramanav/v5/flUhRqu5zY00QEpyWJYWN59Yf_NeKBM.woff2",
+      "errored": false
+    },
+    {
       "id": "700",
-      "svg": "https://fonts.gstatic.com/l/font?kit=flUhRqu5zY00QEpyWJYWN59IePNeKBQ&skey=35b397cfb7a17297&v=v5#Yantramanav",
+      "eot": "https://fonts.gstatic.com/s/yantramanav/v5/flUhRqu5zY00QEpyWJYWN59IePNeKBc.eot",
       "fontFamily": "'Yantramanav'",
       "fontStyle": "normal",
       "fontWeight": "700",
+      "woff2": "https://fonts.gstatic.com/s/yantramanav/v5/flUhRqu5zY00QEpyWJYWN59IePNeKBM.woff2",
       "local": [
         "Yantramanav Bold",
         "Yantramanav-Bold"
       ],
-      "ttf": "https://fonts.gstatic.com/s/yantramanav/v5/flUhRqu5zY00QEpyWJYWN59IePNeKBY.ttf",
-      "eot": "https://fonts.gstatic.com/s/yantramanav/v5/flUhRqu5zY00QEpyWJYWN59IePNeKBc.eot",
-      "woff2": "https://fonts.gstatic.com/s/yantramanav/v5/flUhRqu5zY00QEpyWJYWN59IePNeKBM.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=flUhRqu5zY00QEpyWJYWN59IePNeKBQ&skey=35b397cfb7a17297&v=v5#Yantramanav",
       "woff": "https://fonts.gstatic.com/s/yantramanav/v5/flUhRqu5zY00QEpyWJYWN59IePNeKBU.woff",
+      "ttf": "https://fonts.gstatic.com/s/yantramanav/v5/flUhRqu5zY00QEpyWJYWN59IePNeKBY.ttf",
       "errored": false
     },
     {
@@ -94,25 +94,25 @@
         "Yantramanav-Black"
       ],
       "woff2": "https://fonts.gstatic.com/s/yantramanav/v5/flUhRqu5zY00QEpyWJYWN59wevNeKBM.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=flUhRqu5zY00QEpyWJYWN59wevNeKBQ&skey=6a026953c40595fa&v=v5#Yantramanav",
       "ttf": "https://fonts.gstatic.com/s/yantramanav/v5/flUhRqu5zY00QEpyWJYWN59wevNeKBY.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=flUhRqu5zY00QEpyWJYWN59wevNeKBQ&skey=6a026953c40595fa&v=v5#Yantramanav",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
     "devanagari",
+    "latin",
     "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v5",
   "lastModified": "2019-07-16",
-  "popularity": 172,
+  "popularity": 181,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
     "devanagari": false,
+    "latin": true,
     "latin-ext": false
   },
   "storeID": "latin"

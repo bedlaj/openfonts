@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/jaldi/v6/or3sQ67z0_CI33NTbJE.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=or3sQ67z0_CI33NTbJY&skey=ed4f59c0ba71a113&v=v6#Jaldi",
       "fontFamily": "'Jaldi'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,43 +12,43 @@
         "Jaldi",
         "Jaldi-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/jaldi/v6/or3sQ67z0_CI33NTbJU.eot",
       "woff": "https://fonts.gstatic.com/s/jaldi/v6/or3sQ67z0_CI33NTbJc.woff",
+      "woff2": "https://fonts.gstatic.com/s/jaldi/v6/or3sQ67z0_CI33NTbJE.woff2",
+      "eot": "https://fonts.gstatic.com/s/jaldi/v6/or3sQ67z0_CI33NTbJU.eot",
       "ttf": "https://fonts.gstatic.com/s/jaldi/v6/or3sQ67z0_CI33NTbJQ.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=or3sQ67z0_CI33NTbJY&skey=ed4f59c0ba71a113&v=v6#Jaldi",
       "errored": false
     },
     {
       "id": "700",
-      "woff": "https://fonts.gstatic.com/s/jaldi/v6/or3hQ67z0_CI33voSYTwJrM.woff",
+      "eot": "https://fonts.gstatic.com/s/jaldi/v6/or3hQ67z0_CI33voSYTwJrE.eot",
       "fontFamily": "'Jaldi'",
       "fontStyle": "normal",
       "fontWeight": "700",
+      "woff2": "https://fonts.gstatic.com/s/jaldi/v6/or3hQ67z0_CI33voSYTwJrU.woff2",
       "local": [
         "Jaldi Bold",
         "Jaldi-Bold"
       ],
       "svg": "https://fonts.gstatic.com/l/font?kit=or3hQ67z0_CI33voSYTwJrI&skey=b6fe25580230f49d&v=v6#Jaldi",
-      "woff2": "https://fonts.gstatic.com/s/jaldi/v6/or3hQ67z0_CI33voSYTwJrU.woff2",
-      "eot": "https://fonts.gstatic.com/s/jaldi/v6/or3hQ67z0_CI33voSYTwJrE.eot",
       "ttf": "https://fonts.gstatic.com/s/jaldi/v6/or3hQ67z0_CI33voSYTwJrA.ttf",
+      "woff": "https://fonts.gstatic.com/s/jaldi/v6/or3hQ67z0_CI33voSYTwJrM.woff",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
     "devanagari",
+    "latin",
     "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v6",
   "lastModified": "2019-07-16",
-  "popularity": 231,
+  "popularity": 237,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
     "devanagari": false,
+    "latin": true,
     "latin-ext": false
   },
   "storeID": "latin"

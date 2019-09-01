@@ -4,17 +4,17 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/pressstart2p/v8/e3t4euO8T-267oIAQAu6jDQyK3nRivM.woff2",
+      "eot": "https://fonts.gstatic.com/s/pressstart2p/v8/e3t4euO8T-267oIAQAu6jDQyK3nRivc.eot",
       "fontFamily": "'Press Start 2P'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/pressstart2p/v8/e3t4euO8T-267oIAQAu6jDQyK3nRivU.woff",
       "local": [
         "Press Start 2P Regular",
         "PressStart2P-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/pressstart2p/v8/e3t4euO8T-267oIAQAu6jDQyK3nRivc.eot",
-      "woff": "https://fonts.gstatic.com/s/pressstart2p/v8/e3t4euO8T-267oIAQAu6jDQyK3nRivU.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=e3t4euO8T-267oIAQAu6jDQyK3nRivQ&skey=24cc298767068e24&v=v8#PressStart2P",
+      "woff2": "https://fonts.gstatic.com/s/pressstart2p/v8/e3t4euO8T-267oIAQAu6jDQyK3nRivM.woff2",
       "ttf": "https://fonts.gstatic.com/s/pressstart2p/v8/e3t4euO8T-267oIAQAu6jDQyK3nRivY.ttf",
       "errored": false
     }
@@ -22,22 +22,22 @@
   "subsets": [
     "greek",
     "latin",
-    "latin-ext",
+    "cyrillic-ext",
     "cyrillic",
-    "cyrillic-ext"
+    "latin-ext"
   ],
   "category": "display",
   "version": "v8",
   "lastModified": "2019-07-16",
-  "popularity": 205,
+  "popularity": 204,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "greek": false,
     "latin": true,
-    "latin-ext": false,
+    "cyrillic-ext": false,
     "cyrillic": true,
-    "cyrillic-ext": false
+    "latin-ext": false
   },
   "storeID": "cyrillic_latin"
 }

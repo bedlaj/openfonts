@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "200",
-      "woff2": "https://fonts.gstatic.com/s/niramit/v4/I_urMpWdvgLdNxVLVXx7hiGOrg.woff2",
+      "ttf": "https://fonts.gstatic.com/s/niramit/v4/I_urMpWdvgLdNxVLVXx7hiGOqw.ttf",
       "fontFamily": "'Niramit'",
       "fontStyle": "normal",
       "fontWeight": "200",
@@ -12,10 +12,10 @@
         "Niramit ExtraLight",
         "Niramit-ExtraLight"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=I_urMpWdvgLdNxVLVXx7hiGOqQ&skey=f4a1a425c2d84b63&v=v4#Niramit",
+      "woff2": "https://fonts.gstatic.com/s/niramit/v4/I_urMpWdvgLdNxVLVXx7hiGOrg.woff2",
       "woff": "https://fonts.gstatic.com/s/niramit/v4/I_urMpWdvgLdNxVLVXx7hiGOqA.woff",
       "eot": "https://fonts.gstatic.com/s/niramit/v4/I_urMpWdvgLdNxVLVXx7hiGOqg.eot",
-      "ttf": "https://fonts.gstatic.com/s/niramit/v4/I_urMpWdvgLdNxVLVXx7hiGOqw.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=I_urMpWdvgLdNxVLVXx7hiGOqQ&skey=f4a1a425c2d84b63&v=v4#Niramit",
       "errored": false
     },
     {
@@ -30,24 +30,8 @@
         "Niramit-ExtraLightItalic"
       ],
       "woff2": "https://fonts.gstatic.com/s/niramit/v4/I_upMpWdvgLdNxVLXbZiXim-orfF.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=I_upMpWdvgLdNxVLXbZiXim-orfC&skey=2f7a8de642f40452&v=v4#Niramit",
       "ttf": "https://fonts.gstatic.com/s/niramit/v4/I_upMpWdvgLdNxVLXbZiXim-orfA.ttf",
-      "errored": false
-    },
-    {
-      "id": "300italic",
-      "eot": "https://fonts.gstatic.com/s/niramit/v4/I_upMpWdvgLdNxVLXbZiOiq-orfB.eot",
-      "fontFamily": "'Niramit'",
-      "fontStyle": "italic",
-      "fontWeight": "300",
-      "woff": "https://fonts.gstatic.com/s/niramit/v4/I_upMpWdvgLdNxVLXbZiOiq-orfD.woff",
-      "local": [
-        "Niramit Light Italic",
-        "Niramit-LightItalic"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/niramit/v4/I_upMpWdvgLdNxVLXbZiOiq-orfF.woff2",
-      "ttf": "https://fonts.gstatic.com/s/niramit/v4/I_upMpWdvgLdNxVLXbZiOiq-orfA.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=I_upMpWdvgLdNxVLXbZiOiq-orfC&skey=2a9dc8a02823bad2&v=v4#Niramit",
+      "svg": "https://fonts.gstatic.com/l/font?kit=I_upMpWdvgLdNxVLXbZiXim-orfC&skey=2f7a8de642f40452&v=v4#Niramit",
       "errored": false
     },
     {
@@ -56,14 +40,30 @@
       "fontFamily": "'Niramit'",
       "fontStyle": "normal",
       "fontWeight": "300",
-      "svg": "https://fonts.gstatic.com/l/font?kit=I_urMpWdvgLdNxVLVRh4hiGOqQ&skey=bac7fc8d27a6ef54&v=v4#Niramit",
+      "woff": "https://fonts.gstatic.com/s/niramit/v4/I_urMpWdvgLdNxVLVRh4hiGOqA.woff",
       "local": [
         "Niramit Light",
         "Niramit-Light"
       ],
-      "ttf": "https://fonts.gstatic.com/s/niramit/v4/I_urMpWdvgLdNxVLVRh4hiGOqw.ttf",
-      "woff": "https://fonts.gstatic.com/s/niramit/v4/I_urMpWdvgLdNxVLVRh4hiGOqA.woff",
       "woff2": "https://fonts.gstatic.com/s/niramit/v4/I_urMpWdvgLdNxVLVRh4hiGOrg.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=I_urMpWdvgLdNxVLVRh4hiGOqQ&skey=bac7fc8d27a6ef54&v=v4#Niramit",
+      "ttf": "https://fonts.gstatic.com/s/niramit/v4/I_urMpWdvgLdNxVLVRh4hiGOqw.ttf",
+      "errored": false
+    },
+    {
+      "id": "300italic",
+      "woff2": "https://fonts.gstatic.com/s/niramit/v4/I_upMpWdvgLdNxVLXbZiOiq-orfF.woff2",
+      "fontFamily": "'Niramit'",
+      "fontStyle": "italic",
+      "fontWeight": "300",
+      "local": [
+        "Niramit Light Italic",
+        "Niramit-LightItalic"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=I_upMpWdvgLdNxVLXbZiOiq-orfC&skey=2a9dc8a02823bad2&v=v4#Niramit",
+      "ttf": "https://fonts.gstatic.com/s/niramit/v4/I_upMpWdvgLdNxVLXbZiOiq-orfA.ttf",
+      "eot": "https://fonts.gstatic.com/s/niramit/v4/I_upMpWdvgLdNxVLXbZiOiq-orfB.eot",
+      "woff": "https://fonts.gstatic.com/s/niramit/v4/I_upMpWdvgLdNxVLXbZiOiq-orfD.woff",
       "errored": false
     },
     {
@@ -77,9 +77,9 @@
         "Niramit Regular",
         "Niramit-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/niramit/v4/I_uuMpWdvgLdNxVLXb1akw.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=I_uuMpWdvgLdNxVLXb1alA&skey=540bbbea370cfb82&v=v4#Niramit",
       "ttf": "https://fonts.gstatic.com/s/niramit/v4/I_uuMpWdvgLdNxVLXb1alg.ttf",
+      "woff2": "https://fonts.gstatic.com/s/niramit/v4/I_uuMpWdvgLdNxVLXb1akw.woff2",
       "errored": false
     },
     {
@@ -88,51 +88,51 @@
       "fontFamily": "'Niramit'",
       "fontStyle": "italic",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/niramit/v4/I_usMpWdvgLdNxVLXbZqnwit.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=I_usMpWdvgLdNxVLXbZqnwis&skey=a40a6e2be736c7a5&v=v4#Niramit",
       "local": [
         "Niramit Italic",
         "Niramit-Italic"
       ],
-      "woff2": "https://fonts.gstatic.com/s/niramit/v4/I_usMpWdvgLdNxVLXbZqnwir.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=I_usMpWdvgLdNxVLXbZqnwis&skey=a40a6e2be736c7a5&v=v4#Niramit",
+      "woff": "https://fonts.gstatic.com/s/niramit/v4/I_usMpWdvgLdNxVLXbZqnwit.woff",
       "ttf": "https://fonts.gstatic.com/s/niramit/v4/I_usMpWdvgLdNxVLXbZqnwiu.ttf",
-      "errored": false
-    },
-    {
-      "id": "500italic",
-      "woff": "https://fonts.gstatic.com/s/niramit/v4/I_upMpWdvgLdNxVLXbZiYiu-orfD.woff",
-      "fontFamily": "'Niramit'",
-      "fontStyle": "italic",
-      "fontWeight": "500",
-      "local": [
-        "Niramit Medium Italic",
-        "Niramit-MediumItalic"
-      ],
-      "eot": "https://fonts.gstatic.com/s/niramit/v4/I_upMpWdvgLdNxVLXbZiYiu-orfB.eot",
-      "woff2": "https://fonts.gstatic.com/s/niramit/v4/I_upMpWdvgLdNxVLXbZiYiu-orfF.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=I_upMpWdvgLdNxVLXbZiYiu-orfC&skey=42f15dc119d78f19&v=v4#Niramit",
-      "ttf": "https://fonts.gstatic.com/s/niramit/v4/I_upMpWdvgLdNxVLXbZiYiu-orfA.ttf",
+      "woff2": "https://fonts.gstatic.com/s/niramit/v4/I_usMpWdvgLdNxVLXbZqnwir.woff2",
       "errored": false
     },
     {
       "id": "500",
-      "eot": "https://fonts.gstatic.com/s/niramit/v4/I_urMpWdvgLdNxVLVUB5hiGOqg.eot",
+      "woff": "https://fonts.gstatic.com/s/niramit/v4/I_urMpWdvgLdNxVLVUB5hiGOqA.woff",
       "fontFamily": "'Niramit'",
       "fontStyle": "normal",
       "fontWeight": "500",
-      "woff": "https://fonts.gstatic.com/s/niramit/v4/I_urMpWdvgLdNxVLVUB5hiGOqA.woff",
       "local": [
         "Niramit Medium",
         "Niramit-Medium"
       ],
+      "eot": "https://fonts.gstatic.com/s/niramit/v4/I_urMpWdvgLdNxVLVUB5hiGOqg.eot",
       "ttf": "https://fonts.gstatic.com/s/niramit/v4/I_urMpWdvgLdNxVLVUB5hiGOqw.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=I_urMpWdvgLdNxVLVUB5hiGOqQ&skey=94c5df9fe8438525&v=v4#Niramit",
       "woff2": "https://fonts.gstatic.com/s/niramit/v4/I_urMpWdvgLdNxVLVUB5hiGOrg.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=I_urMpWdvgLdNxVLVUB5hiGOqQ&skey=94c5df9fe8438525&v=v4#Niramit",
+      "errored": false
+    },
+    {
+      "id": "500italic",
+      "eot": "https://fonts.gstatic.com/s/niramit/v4/I_upMpWdvgLdNxVLXbZiYiu-orfB.eot",
+      "fontFamily": "'Niramit'",
+      "fontStyle": "italic",
+      "fontWeight": "500",
+      "woff": "https://fonts.gstatic.com/s/niramit/v4/I_upMpWdvgLdNxVLXbZiYiu-orfD.woff",
+      "local": [
+        "Niramit Medium Italic",
+        "Niramit-MediumItalic"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/niramit/v4/I_upMpWdvgLdNxVLXbZiYiu-orfA.ttf",
+      "woff2": "https://fonts.gstatic.com/s/niramit/v4/I_upMpWdvgLdNxVLXbZiYiu-orfF.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=I_upMpWdvgLdNxVLXbZiYiu-orfC&skey=42f15dc119d78f19&v=v4#Niramit",
       "errored": false
     },
     {
       "id": "600",
-      "woff": "https://fonts.gstatic.com/s/niramit/v4/I_urMpWdvgLdNxVLVWx-hiGOqA.woff",
+      "woff2": "https://fonts.gstatic.com/s/niramit/v4/I_urMpWdvgLdNxVLVWx-hiGOrg.woff2",
       "fontFamily": "'Niramit'",
       "fontStyle": "normal",
       "fontWeight": "600",
@@ -140,26 +140,42 @@
         "Niramit SemiBold",
         "Niramit-SemiBold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/niramit/v4/I_urMpWdvgLdNxVLVWx-hiGOrg.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=I_urMpWdvgLdNxVLVWx-hiGOqQ&skey=baa58151530c1238&v=v4#Niramit",
       "ttf": "https://fonts.gstatic.com/s/niramit/v4/I_urMpWdvgLdNxVLVWx-hiGOqw.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=I_urMpWdvgLdNxVLVWx-hiGOqQ&skey=baa58151530c1238&v=v4#Niramit",
       "eot": "https://fonts.gstatic.com/s/niramit/v4/I_urMpWdvgLdNxVLVWx-hiGOqg.eot",
+      "woff": "https://fonts.gstatic.com/s/niramit/v4/I_urMpWdvgLdNxVLVWx-hiGOqA.woff",
       "errored": false
     },
     {
       "id": "600italic",
-      "eot": "https://fonts.gstatic.com/s/niramit/v4/I_upMpWdvgLdNxVLXbZiTiy-orfB.eot",
+      "woff": "https://fonts.gstatic.com/s/niramit/v4/I_upMpWdvgLdNxVLXbZiTiy-orfD.woff",
       "fontFamily": "'Niramit'",
       "fontStyle": "italic",
       "fontWeight": "600",
-      "woff": "https://fonts.gstatic.com/s/niramit/v4/I_upMpWdvgLdNxVLXbZiTiy-orfD.woff",
       "local": [
         "Niramit SemiBold Italic",
         "Niramit-SemiBoldItalic"
       ],
-      "woff2": "https://fonts.gstatic.com/s/niramit/v4/I_upMpWdvgLdNxVLXbZiTiy-orfF.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=I_upMpWdvgLdNxVLXbZiTiy-orfC&skey=460b220ac65ae845&v=v4#Niramit",
+      "eot": "https://fonts.gstatic.com/s/niramit/v4/I_upMpWdvgLdNxVLXbZiTiy-orfB.eot",
       "ttf": "https://fonts.gstatic.com/s/niramit/v4/I_upMpWdvgLdNxVLXbZiTiy-orfA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=I_upMpWdvgLdNxVLXbZiTiy-orfC&skey=460b220ac65ae845&v=v4#Niramit",
+      "woff2": "https://fonts.gstatic.com/s/niramit/v4/I_upMpWdvgLdNxVLXbZiTiy-orfF.woff2",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/niramit/v4/I_urMpWdvgLdNxVLVQh_hiGOqg.eot",
+      "fontFamily": "'Niramit'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/niramit/v4/I_urMpWdvgLdNxVLVQh_hiGOqA.woff",
+      "local": [
+        "Niramit Bold",
+        "Niramit-Bold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/niramit/v4/I_urMpWdvgLdNxVLVQh_hiGOrg.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=I_urMpWdvgLdNxVLVQh_hiGOqQ&skey=611a4cf856daa99a&v=v4#Niramit",
+      "ttf": "https://fonts.gstatic.com/s/niramit/v4/I_urMpWdvgLdNxVLVQh_hiGOqw.ttf",
       "errored": false
     },
     {
@@ -173,45 +189,29 @@
         "Niramit Bold Italic",
         "Niramit-BoldItalic"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=I_upMpWdvgLdNxVLXbZiKi2-orfC&skey=fad14a6f04f4cd59&v=v4#Niramit",
-      "woff2": "https://fonts.gstatic.com/s/niramit/v4/I_upMpWdvgLdNxVLXbZiKi2-orfF.woff2",
       "ttf": "https://fonts.gstatic.com/s/niramit/v4/I_upMpWdvgLdNxVLXbZiKi2-orfA.ttf",
-      "errored": false
-    },
-    {
-      "id": "700",
-      "eot": "https://fonts.gstatic.com/s/niramit/v4/I_urMpWdvgLdNxVLVQh_hiGOqg.eot",
-      "fontFamily": "'Niramit'",
-      "fontStyle": "normal",
-      "fontWeight": "700",
-      "svg": "https://fonts.gstatic.com/l/font?kit=I_urMpWdvgLdNxVLVQh_hiGOqQ&skey=611a4cf856daa99a&v=v4#Niramit",
-      "local": [
-        "Niramit Bold",
-        "Niramit-Bold"
-      ],
-      "ttf": "https://fonts.gstatic.com/s/niramit/v4/I_urMpWdvgLdNxVLVQh_hiGOqw.ttf",
-      "woff2": "https://fonts.gstatic.com/s/niramit/v4/I_urMpWdvgLdNxVLVQh_hiGOrg.woff2",
-      "woff": "https://fonts.gstatic.com/s/niramit/v4/I_urMpWdvgLdNxVLVQh_hiGOqA.woff",
+      "woff2": "https://fonts.gstatic.com/s/niramit/v4/I_upMpWdvgLdNxVLXbZiKi2-orfF.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=I_upMpWdvgLdNxVLXbZiKi2-orfC&skey=fad14a6f04f4cd59&v=v4#Niramit",
       "errored": false
     }
   ],
   "subsets": [
     "vietnamese",
     "latin",
-    "latin-ext",
-    "thai"
+    "thai",
+    "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v4",
   "lastModified": "2019-07-16",
-  "popularity": 392,
+  "popularity": 399,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "vietnamese": false,
     "latin": true,
-    "latin-ext": true,
-    "thai": false
+    "thai": false,
+    "latin-ext": true
   },
   "storeID": "latin-ext_latin"
 }

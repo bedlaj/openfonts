@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/merienda/v8/gNMHW3x8Qoy5_mf8uWMLMI4.eot",
+      "woff": "https://fonts.gstatic.com/s/merienda/v8/gNMHW3x8Qoy5_mf8uWMLMIw.woff",
       "fontFamily": "'Merienda'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "ttf": "https://fonts.gstatic.com/s/merienda/v8/gNMHW3x8Qoy5_mf8uWMLMI8.ttf",
       "local": [
         "Merienda",
         "Merienda-Regular_0_wt"
       ],
-      "woff": "https://fonts.gstatic.com/s/merienda/v8/gNMHW3x8Qoy5_mf8uWMLMIw.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=gNMHW3x8Qoy5_mf8uWMLMI0&skey=410a1b360191e647&v=v8#Merienda",
+      "ttf": "https://fonts.gstatic.com/s/merienda/v8/gNMHW3x8Qoy5_mf8uWMLMI8.ttf",
       "woff2": "https://fonts.gstatic.com/s/merienda/v8/gNMHW3x8Qoy5_mf8uWMLMIo.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=gNMHW3x8Qoy5_mf8uWMLMI0&skey=410a1b360191e647&v=v8#Merienda",
+      "eot": "https://fonts.gstatic.com/s/merienda/v8/gNMHW3x8Qoy5_mf8uWMLMI4.eot",
       "errored": false
     },
     {
@@ -24,14 +24,14 @@
       "fontFamily": "'Merienda'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff2": "https://fonts.gstatic.com/s/merienda/v8/gNMAW3x8Qoy5_mf8uWu-FZ-73MY.woff2",
+      "woff": "https://fonts.gstatic.com/s/merienda/v8/gNMAW3x8Qoy5_mf8uWu-FZ-73MA.woff",
       "local": [
         "Merienda Bold",
         "Merienda-Bold"
       ],
-      "ttf": "https://fonts.gstatic.com/s/merienda/v8/gNMAW3x8Qoy5_mf8uWu-FZ-73MM.ttf",
+      "woff2": "https://fonts.gstatic.com/s/merienda/v8/gNMAW3x8Qoy5_mf8uWu-FZ-73MY.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=gNMAW3x8Qoy5_mf8uWu-FZ-73ME&skey=a49e06106180d9ee&v=v8#Merienda",
-      "woff": "https://fonts.gstatic.com/s/merienda/v8/gNMAW3x8Qoy5_mf8uWu-FZ-73MA.woff",
+      "ttf": "https://fonts.gstatic.com/s/merienda/v8/gNMAW3x8Qoy5_mf8uWu-FZ-73MM.ttf",
       "errored": false
     }
   ],
@@ -42,7 +42,7 @@
   "category": "handwriting",
   "version": "v8",
   "lastModified": "2019-07-17",
-  "popularity": 217,
+  "popularity": 213,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

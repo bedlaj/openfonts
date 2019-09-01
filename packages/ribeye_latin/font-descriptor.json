@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/ribeye/v8/L0x8DFMxk1MP9R3hu_qj.eot",
+      "woff": "https://fonts.gstatic.com/s/ribeye/v8/L0x8DFMxk1MP9R3hu_qh.woff",
       "fontFamily": "'Ribeye'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "svg": "https://fonts.gstatic.com/l/font?kit=L0x8DFMxk1MP9R3hu_qg&skey=c09dfb0e0b7815f4&v=v8#Ribeye",
       "local": [
         "Ribeye",
         "Ribeye-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/ribeye/v8/L0x8DFMxk1MP9R3hu_qh.woff",
-      "ttf": "https://fonts.gstatic.com/s/ribeye/v8/L0x8DFMxk1MP9R3hu_qi.ttf",
       "woff2": "https://fonts.gstatic.com/s/ribeye/v8/L0x8DFMxk1MP9R3hu_qn.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=L0x8DFMxk1MP9R3hu_qg&skey=c09dfb0e0b7815f4&v=v8#Ribeye",
+      "ttf": "https://fonts.gstatic.com/s/ribeye/v8/L0x8DFMxk1MP9R3hu_qi.ttf",
+      "eot": "https://fonts.gstatic.com/s/ribeye/v8/L0x8DFMxk1MP9R3hu_qj.eot",
       "errored": false
     }
   ],
@@ -26,7 +26,7 @@
   "category": "display",
   "version": "v8",
   "lastModified": "2019-07-16",
-  "popularity": 710,
+  "popularity": 685,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

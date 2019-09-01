@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/metrophobic/v13/sJoA3LZUhMSAPV_u0qwiAQ-B5X8.woff2",
+      "woff": "https://fonts.gstatic.com/s/metrophobic/v13/sJoA3LZUhMSAPV_u0qwiAQ-B5Xk.woff",
       "fontFamily": "'Metrophobic'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,9 +12,9 @@
         "Metrophobic Regular",
         "Metrophobic-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/metrophobic/v13/sJoA3LZUhMSAPV_u0qwiAQ-B5Xk.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=sJoA3LZUhMSAPV_u0qwiAQ-B5Xg&skey=b2c727d4404ede06&v=v13#Metrophobic",
       "eot": "https://fonts.gstatic.com/s/metrophobic/v13/sJoA3LZUhMSAPV_u0qwiAQ-B5Xs.eot",
+      "woff2": "https://fonts.gstatic.com/s/metrophobic/v13/sJoA3LZUhMSAPV_u0qwiAQ-B5X8.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=sJoA3LZUhMSAPV_u0qwiAQ-B5Xg&skey=b2c727d4404ede06&v=v13#Metrophobic",
       "ttf": "https://fonts.gstatic.com/s/metrophobic/v13/sJoA3LZUhMSAPV_u0qwiAQ-B5Xo.ttf",
       "errored": false
     }
@@ -27,7 +27,7 @@
   "category": "sans-serif",
   "version": "v13",
   "lastModified": "2019-07-16",
-  "popularity": 429,
+  "popularity": 441,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

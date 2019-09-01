@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=RrQUbo98_jt_IXnBPwCWtZhC&skey=509996dde9e9c13b&v=v1#LexendTera",
+      "woff2": "https://fonts.gstatic.com/s/lexendtera/v1/RrQUbo98_jt_IXnBPwCWtZhF.woff2",
       "fontFamily": "'Lexend Tera'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Lexend Tera Regular",
         "LexendTera-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/lexendtera/v1/RrQUbo98_jt_IXnBPwCWtZhA.ttf",
-      "woff2": "https://fonts.gstatic.com/s/lexendtera/v1/RrQUbo98_jt_IXnBPwCWtZhF.woff2",
-      "eot": "https://fonts.gstatic.com/s/lexendtera/v1/RrQUbo98_jt_IXnBPwCWtZhB.eot",
       "woff": "https://fonts.gstatic.com/s/lexendtera/v1/RrQUbo98_jt_IXnBPwCWtZhD.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=RrQUbo98_jt_IXnBPwCWtZhC&skey=509996dde9e9c13b&v=v1#LexendTera",
+      "eot": "https://fonts.gstatic.com/s/lexendtera/v1/RrQUbo98_jt_IXnBPwCWtZhB.eot",
+      "ttf": "https://fonts.gstatic.com/s/lexendtera/v1/RrQUbo98_jt_IXnBPwCWtZhA.ttf",
       "errored": false
     }
   ],
@@ -27,7 +27,7 @@
   "category": "sans-serif",
   "version": "v1",
   "lastModified": "2019-08-14",
-  "popularity": 947,
+  "popularity": 949,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

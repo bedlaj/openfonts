@@ -4,34 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/cabincondensed/v13/nwpMtK6mNhBK2err_hqkYhHRqmwqaeLc.eot",
+      "woff2": "https://fonts.gstatic.com/s/cabincondensed/v13/nwpMtK6mNhBK2err_hqkYhHRqmwqaeLY.woff2",
       "fontFamily": "'Cabin Condensed'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/cabincondensed/v13/nwpMtK6mNhBK2err_hqkYhHRqmwqaeLe.woff",
       "local": [
         "Cabin Condensed",
         "CabinCondensed-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/cabincondensed/v13/nwpMtK6mNhBK2err_hqkYhHRqmwqaeLY.woff2",
-      "ttf": "https://fonts.gstatic.com/s/cabincondensed/v13/nwpMtK6mNhBK2err_hqkYhHRqmwqaeLd.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=nwpMtK6mNhBK2err_hqkYhHRqmwqaeLf&skey=17b81add35c8280b&v=v13#CabinCondensed",
-      "errored": false
-    },
-    {
-      "id": "600",
-      "woff": "https://fonts.gstatic.com/s/cabincondensed/v13/nwpJtK6mNhBK2err_hqkYhHRqmwiuMbN5Vd-.woff",
-      "fontFamily": "'Cabin Condensed'",
-      "fontStyle": "normal",
-      "fontWeight": "600",
-      "local": [
-        "Cabin Condensed SemiBold",
-        "CabinCondensed-SemiBold"
-      ],
-      "eot": "https://fonts.gstatic.com/s/cabincondensed/v13/nwpJtK6mNhBK2err_hqkYhHRqmwiuMbN5Vd8.eot",
-      "woff2": "https://fonts.gstatic.com/s/cabincondensed/v13/nwpJtK6mNhBK2err_hqkYhHRqmwiuMbN5Vd4.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=nwpJtK6mNhBK2err_hqkYhHRqmwiuMbN5Vd_&skey=73e2998c2216d30c&v=v13#CabinCondensed",
-      "ttf": "https://fonts.gstatic.com/s/cabincondensed/v13/nwpJtK6mNhBK2err_hqkYhHRqmwiuMbN5Vd9.ttf",
+      "ttf": "https://fonts.gstatic.com/s/cabincondensed/v13/nwpMtK6mNhBK2err_hqkYhHRqmwqaeLd.ttf",
+      "eot": "https://fonts.gstatic.com/s/cabincondensed/v13/nwpMtK6mNhBK2err_hqkYhHRqmwqaeLc.eot",
+      "woff": "https://fonts.gstatic.com/s/cabincondensed/v13/nwpMtK6mNhBK2err_hqkYhHRqmwqaeLe.woff",
       "errored": false
     },
     {
@@ -40,30 +24,46 @@
       "fontFamily": "'Cabin Condensed'",
       "fontStyle": "normal",
       "fontWeight": "500",
-      "woff2": "https://fonts.gstatic.com/s/cabincondensed/v13/nwpJtK6mNhBK2err_hqkYhHRqmwilMHN5Vd4.woff2",
+      "woff": "https://fonts.gstatic.com/s/cabincondensed/v13/nwpJtK6mNhBK2err_hqkYhHRqmwilMHN5Vd-.woff",
       "local": [
         "Cabin Condensed Medium",
         "CabinCondensed-Medium"
       ],
+      "woff2": "https://fonts.gstatic.com/s/cabincondensed/v13/nwpJtK6mNhBK2err_hqkYhHRqmwilMHN5Vd4.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=nwpJtK6mNhBK2err_hqkYhHRqmwilMHN5Vd_&skey=c24e1e943f65c064&v=v13#CabinCondensed",
       "ttf": "https://fonts.gstatic.com/s/cabincondensed/v13/nwpJtK6mNhBK2err_hqkYhHRqmwilMHN5Vd9.ttf",
-      "woff": "https://fonts.gstatic.com/s/cabincondensed/v13/nwpJtK6mNhBK2err_hqkYhHRqmwilMHN5Vd-.woff",
+      "errored": false
+    },
+    {
+      "id": "600",
+      "eot": "https://fonts.gstatic.com/s/cabincondensed/v13/nwpJtK6mNhBK2err_hqkYhHRqmwiuMbN5Vd8.eot",
+      "fontFamily": "'Cabin Condensed'",
+      "fontStyle": "normal",
+      "fontWeight": "600",
+      "svg": "https://fonts.gstatic.com/l/font?kit=nwpJtK6mNhBK2err_hqkYhHRqmwiuMbN5Vd_&skey=73e2998c2216d30c&v=v13#CabinCondensed",
+      "local": [
+        "Cabin Condensed SemiBold",
+        "CabinCondensed-SemiBold"
+      ],
+      "woff": "https://fonts.gstatic.com/s/cabincondensed/v13/nwpJtK6mNhBK2err_hqkYhHRqmwiuMbN5Vd-.woff",
+      "woff2": "https://fonts.gstatic.com/s/cabincondensed/v13/nwpJtK6mNhBK2err_hqkYhHRqmwiuMbN5Vd4.woff2",
+      "ttf": "https://fonts.gstatic.com/s/cabincondensed/v13/nwpJtK6mNhBK2err_hqkYhHRqmwiuMbN5Vd9.ttf",
       "errored": false
     },
     {
       "id": "700",
-      "eot": "https://fonts.gstatic.com/s/cabincondensed/v13/nwpJtK6mNhBK2err_hqkYhHRqmwi3MfN5Vd8.eot",
+      "woff": "https://fonts.gstatic.com/s/cabincondensed/v13/nwpJtK6mNhBK2err_hqkYhHRqmwi3MfN5Vd-.woff",
       "fontFamily": "'Cabin Condensed'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/cabincondensed/v13/nwpJtK6mNhBK2err_hqkYhHRqmwi3MfN5Vd-.woff",
       "local": [
         "Cabin Condensed Bold",
         "CabinCondensed-Bold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/cabincondensed/v13/nwpJtK6mNhBK2err_hqkYhHRqmwi3MfN5Vd4.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=nwpJtK6mNhBK2err_hqkYhHRqmwi3MfN5Vd_&skey=3035336f1cb2d188&v=v13#CabinCondensed",
       "ttf": "https://fonts.gstatic.com/s/cabincondensed/v13/nwpJtK6mNhBK2err_hqkYhHRqmwi3MfN5Vd9.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=nwpJtK6mNhBK2err_hqkYhHRqmwi3MfN5Vd_&skey=3035336f1cb2d188&v=v13#CabinCondensed",
+      "eot": "https://fonts.gstatic.com/s/cabincondensed/v13/nwpJtK6mNhBK2err_hqkYhHRqmwi3MfN5Vd8.eot",
+      "woff2": "https://fonts.gstatic.com/s/cabincondensed/v13/nwpJtK6mNhBK2err_hqkYhHRqmwi3MfN5Vd4.woff2",
       "errored": false
     }
   ],
@@ -75,7 +75,7 @@
   "category": "sans-serif",
   "version": "v13",
   "lastModified": "2019-07-17",
-  "popularity": 183,
+  "popularity": 207,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

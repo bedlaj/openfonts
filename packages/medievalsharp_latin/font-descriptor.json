@@ -4,16 +4,16 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/medievalsharp/v12/EvOJzAlL3oU5AQl2mP5KdgptMqhwMg.woff2",
+      "eot": "https://fonts.gstatic.com/s/medievalsharp/v12/EvOJzAlL3oU5AQl2mP5KdgptMqhwNg.eot",
       "fontFamily": "'MedievalSharp'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/medievalsharp/v12/EvOJzAlL3oU5AQl2mP5KdgptMqhwNA.woff",
       "local": [
         "MedievalSharp"
       ],
-      "woff": "https://fonts.gstatic.com/s/medievalsharp/v12/EvOJzAlL3oU5AQl2mP5KdgptMqhwNA.woff",
+      "woff2": "https://fonts.gstatic.com/s/medievalsharp/v12/EvOJzAlL3oU5AQl2mP5KdgptMqhwMg.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=EvOJzAlL3oU5AQl2mP5KdgptMqhwNQ&skey=1b167fec88e922f7&v=v12#MedievalSharp",
-      "eot": "https://fonts.gstatic.com/s/medievalsharp/v12/EvOJzAlL3oU5AQl2mP5KdgptMqhwNg.eot",
       "ttf": "https://fonts.gstatic.com/s/medievalsharp/v12/EvOJzAlL3oU5AQl2mP5KdgptMqhwNw.ttf",
       "errored": false
     }
@@ -25,7 +25,7 @@
   "category": "display",
   "version": "v12",
   "lastModified": "2019-07-16",
-  "popularity": 807,
+  "popularity": 799,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

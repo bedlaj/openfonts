@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=a8IbNovtLWfR7T7bMJwbBg&skey=26b1ad320d877a24&v=v5#Shrikhand",
+      "woff": "https://fonts.gstatic.com/s/shrikhand/v5/a8IbNovtLWfR7T7bMJwbBw.woff",
       "fontFamily": "'Shrikhand'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,28 +12,28 @@
         "Shrikhand Regular",
         "Shrikhand-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/shrikhand/v5/a8IbNovtLWfR7T7bMJwbBw.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=a8IbNovtLWfR7T7bMJwbBg&skey=26b1ad320d877a24&v=v5#Shrikhand",
       "woff2": "https://fonts.gstatic.com/s/shrikhand/v5/a8IbNovtLWfR7T7bMJwbAQ.woff2",
-      "eot": "https://fonts.gstatic.com/s/shrikhand/v5/a8IbNovtLWfR7T7bMJwbBQ.eot",
       "ttf": "https://fonts.gstatic.com/s/shrikhand/v5/a8IbNovtLWfR7T7bMJwbBA.ttf",
+      "eot": "https://fonts.gstatic.com/s/shrikhand/v5/a8IbNovtLWfR7T7bMJwbBQ.eot",
       "errored": false
     }
   ],
   "subsets": [
+    "gujarati",
     "latin",
-    "latin-ext",
-    "gujarati"
+    "latin-ext"
   ],
   "category": "display",
   "version": "v5",
   "lastModified": "2019-07-16",
-  "popularity": 338,
+  "popularity": 343,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
+    "gujarati": true,
     "latin": true,
-    "latin-ext": true,
-    "gujarati": true
+    "latin-ext": true
   },
-  "storeID": "gujarati_latin-ext_latin"
+  "storeID": "latin-ext_latin_gujarati"
 }

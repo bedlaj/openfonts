@@ -12,26 +12,26 @@
         "Do Hyeon Regular",
         "DoHyeon-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/dohyeon/v11/TwMN-I8CRRU2zM86HGE6bQM.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=TwMN-I8CRRU2zM86HGE6bQA&skey=df6409684aa3926f&v=v11#DoHyeon",
-      "ttf": "https://fonts.gstatic.com/s/dohyeon/v11/TwMN-I8CRRU2zM86HGE6bQI.ttf",
+      "eot": "https://fonts.gstatic.com/s/dohyeon/v11/TwMN-I8CRRU2zM86HGE6bQM.eot",
       "woff2": "https://fonts.gstatic.com/s/dohyeon/v11/TwMN-I8CRRU2zM86HGE6bQc.woff2",
+      "ttf": "https://fonts.gstatic.com/s/dohyeon/v11/TwMN-I8CRRU2zM86HGE6bQI.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "korean",
-    "latin"
+    "latin",
+    "korean"
   ],
   "category": "sans-serif",
   "version": "v11",
   "lastModified": "2019-07-16",
-  "popularity": 451,
+  "popularity": 442,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "korean": true,
-    "latin": true
+    "latin": true,
+    "korean": true
   },
-  "storeID": "latin_korean"
+  "storeID": "korean_latin"
 }

@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/nokora/v13/hYkIPuwgTubzaWxgNzAL.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=hYkIPuwgTubzaWxgNzAJ&skey=92f56279027d37f9&v=v13#Nokora",
       "fontFamily": "'Nokora'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,15 +12,15 @@
         "Nokora Regular",
         "Nokora-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/nokora/v13/hYkIPuwgTubzaWxgNzAO.woff2",
+      "ttf": "https://fonts.gstatic.com/s/nokora/v13/hYkIPuwgTubzaWxgNzAL.ttf",
       "woff": "https://fonts.gstatic.com/s/nokora/v13/hYkIPuwgTubzaWxgNzAI.woff",
       "eot": "https://fonts.gstatic.com/s/nokora/v13/hYkIPuwgTubzaWxgNzAK.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=hYkIPuwgTubzaWxgNzAJ&skey=92f56279027d37f9&v=v13#Nokora",
+      "woff2": "https://fonts.gstatic.com/s/nokora/v13/hYkIPuwgTubzaWxgNzAO.woff2",
       "errored": false
     },
     {
       "id": "700",
-      "woff2": "https://fonts.gstatic.com/s/nokora/v13/hYkLPuwgTubzaWxohxUbptd9.woff2",
+      "woff": "https://fonts.gstatic.com/s/nokora/v13/hYkLPuwgTubzaWxohxUbptd7.woff",
       "fontFamily": "'Nokora'",
       "fontStyle": "normal",
       "fontWeight": "700",
@@ -28,10 +28,10 @@
         "Nokora Bold",
         "Nokora-Bold"
       ],
-      "ttf": "https://fonts.gstatic.com/s/nokora/v13/hYkLPuwgTubzaWxohxUbptd4.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=hYkLPuwgTubzaWxohxUbptd6&skey=3f98b1bfbe4ceea4&v=v13#Nokora",
+      "ttf": "https://fonts.gstatic.com/s/nokora/v13/hYkLPuwgTubzaWxohxUbptd4.ttf",
+      "woff2": "https://fonts.gstatic.com/s/nokora/v13/hYkLPuwgTubzaWxohxUbptd9.woff2",
       "eot": "https://fonts.gstatic.com/s/nokora/v13/hYkLPuwgTubzaWxohxUbptd5.eot",
-      "woff": "https://fonts.gstatic.com/s/nokora/v13/hYkLPuwgTubzaWxohxUbptd7.woff",
       "errored": false
     }
   ],
@@ -41,7 +41,7 @@
   "category": "serif",
   "version": "v13",
   "lastModified": "2019-07-16",
-  "popularity": 752,
+  "popularity": 749,
   "defSubset": "khmer",
   "defVariant": "regular",
   "subsetMap": {

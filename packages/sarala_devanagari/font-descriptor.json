@@ -4,40 +4,40 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/sarala/v4/uK_y4riEZv4o1w9hDBcS.woff2",
+      "eot": "https://fonts.gstatic.com/s/sarala/v4/uK_y4riEZv4o1w9hDBcW.eot",
       "fontFamily": "'Sarala'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "svg": "https://fonts.gstatic.com/l/font?kit=uK_y4riEZv4o1w9hDBcV&skey=5f92b31c258ef44&v=v4#Sarala",
       "local": [
         "Sarala",
         "Sarala-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/sarala/v4/uK_y4riEZv4o1w9hDBcW.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=uK_y4riEZv4o1w9hDBcV&skey=5f92b31c258ef44&v=v4#Sarala",
       "ttf": "https://fonts.gstatic.com/s/sarala/v4/uK_y4riEZv4o1w9hDBcX.ttf",
       "woff": "https://fonts.gstatic.com/s/sarala/v4/uK_y4riEZv4o1w9hDBcU.woff",
+      "woff2": "https://fonts.gstatic.com/s/sarala/v4/uK_y4riEZv4o1w9hDBcS.woff2",
       "errored": false
     },
     {
       "id": "700",
-      "woff2": "https://fonts.gstatic.com/s/sarala/v4/uK_x4riEZv4o1w9ptjIHPN-Z.woff2",
+      "eot": "https://fonts.gstatic.com/s/sarala/v4/uK_x4riEZv4o1w9ptjIHPN-d.eot",
       "fontFamily": "'Sarala'",
       "fontStyle": "normal",
       "fontWeight": "700",
+      "woff2": "https://fonts.gstatic.com/s/sarala/v4/uK_x4riEZv4o1w9ptjIHPN-Z.woff2",
       "local": [
         "Sarala Bold",
         "Sarala-Bold"
       ],
       "svg": "https://fonts.gstatic.com/l/font?kit=uK_x4riEZv4o1w9ptjIHPN-e&skey=e274e9b47540b42e&v=v4#Sarala",
       "woff": "https://fonts.gstatic.com/s/sarala/v4/uK_x4riEZv4o1w9ptjIHPN-f.woff",
-      "eot": "https://fonts.gstatic.com/s/sarala/v4/uK_x4riEZv4o1w9ptjIHPN-d.eot",
       "ttf": "https://fonts.gstatic.com/s/sarala/v4/uK_x4riEZv4o1w9ptjIHPN-c.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
     "devanagari",
+    "latin",
     "latin-ext"
   ],
   "category": "sans-serif",
@@ -47,9 +47,9 @@
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
     "devanagari": true,
+    "latin": true,
     "latin-ext": false
   },
-  "storeID": "devanagari_latin"
+  "storeID": "latin_devanagari"
 }

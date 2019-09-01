@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/marcellus/v7/wEO_EBrOk8hQLDvIAF81WPoK.woff2",
+      "woff": "https://fonts.gstatic.com/s/marcellus/v7/wEO_EBrOk8hQLDvIAF81WPoM.woff",
       "fontFamily": "'Marcellus'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,9 +12,9 @@
         "Marcellus",
         "Marcellus-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/marcellus/v7/wEO_EBrOk8hQLDvIAF81WPoO.eot",
+      "woff2": "https://fonts.gstatic.com/s/marcellus/v7/wEO_EBrOk8hQLDvIAF81WPoK.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=wEO_EBrOk8hQLDvIAF81WPoN&skey=568fa7803239da82&v=v7#Marcellus",
-      "woff": "https://fonts.gstatic.com/s/marcellus/v7/wEO_EBrOk8hQLDvIAF81WPoM.woff",
+      "eot": "https://fonts.gstatic.com/s/marcellus/v7/wEO_EBrOk8hQLDvIAF81WPoO.eot",
       "ttf": "https://fonts.gstatic.com/s/marcellus/v7/wEO_EBrOk8hQLDvIAF81WPoP.ttf",
       "errored": false
     }
@@ -26,7 +26,7 @@
   "category": "serif",
   "version": "v7",
   "lastModified": "2019-07-16",
-  "popularity": 274,
+  "popularity": 270,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

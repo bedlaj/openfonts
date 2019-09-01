@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/newrocker/v8/MwQzbhjp3-HImzcCU_cJoGQfjg.woff",
+      "woff2": "https://fonts.gstatic.com/s/newrocker/v8/MwQzbhjp3-HImzcCU_cJoGQfiA.woff2",
       "fontFamily": "'New Rocker'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -13,9 +13,9 @@
         "NewRocker-Regular"
       ],
       "eot": "https://fonts.gstatic.com/s/newrocker/v8/MwQzbhjp3-HImzcCU_cJoGQfjA.eot",
-      "woff2": "https://fonts.gstatic.com/s/newrocker/v8/MwQzbhjp3-HImzcCU_cJoGQfiA.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=MwQzbhjp3-HImzcCU_cJoGQfjw&skey=b8a40e4c1099a37c&v=v8#NewRocker",
       "ttf": "https://fonts.gstatic.com/s/newrocker/v8/MwQzbhjp3-HImzcCU_cJoGQfjQ.ttf",
+      "woff": "https://fonts.gstatic.com/s/newrocker/v8/MwQzbhjp3-HImzcCU_cJoGQfjg.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=MwQzbhjp3-HImzcCU_cJoGQfjw&skey=b8a40e4c1099a37c&v=v8#NewRocker",
       "errored": false
     }
   ],
@@ -26,7 +26,7 @@
   "category": "display",
   "version": "v8",
   "lastModified": "2019-07-16",
-  "popularity": 675,
+  "popularity": 707,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

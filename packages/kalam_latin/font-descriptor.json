@@ -4,18 +4,34 @@
   "variants": [
     {
       "id": "300",
-      "eot": "https://fonts.gstatic.com/s/kalam/v10/YA9Qr0Wd4kDdMtD6GjLMkiA.eot",
+      "woff2": "https://fonts.gstatic.com/s/kalam/v10/YA9Qr0Wd4kDdMtD6GjLMkiQ.woff2",
       "fontFamily": "'Kalam'",
       "fontStyle": "normal",
       "fontWeight": "300",
-      "woff2": "https://fonts.gstatic.com/s/kalam/v10/YA9Qr0Wd4kDdMtD6GjLMkiQ.woff2",
       "local": [
         "Kalam Light",
         "Kalam-Light"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=YA9Qr0Wd4kDdMtD6GjLMkiM&skey=160ea477ddf906aa&v=v10#Kalam",
+      "eot": "https://fonts.gstatic.com/s/kalam/v10/YA9Qr0Wd4kDdMtD6GjLMkiA.eot",
       "woff": "https://fonts.gstatic.com/s/kalam/v10/YA9Qr0Wd4kDdMtD6GjLMkiI.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=YA9Qr0Wd4kDdMtD6GjLMkiM&skey=160ea477ddf906aa&v=v10#Kalam",
       "ttf": "https://fonts.gstatic.com/s/kalam/v10/YA9Qr0Wd4kDdMtD6GjLMkiE.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff": "https://fonts.gstatic.com/s/kalam/v10/YA9Qr0Wd4kDdMtDqHTLMkiI.woff",
+      "fontFamily": "'Kalam'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Kalam Bold",
+        "Kalam-Bold"
+      ],
+      "eot": "https://fonts.gstatic.com/s/kalam/v10/YA9Qr0Wd4kDdMtDqHTLMkiA.eot",
+      "woff2": "https://fonts.gstatic.com/s/kalam/v10/YA9Qr0Wd4kDdMtDqHTLMkiQ.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=YA9Qr0Wd4kDdMtDqHTLMkiM&skey=31f303804b29bb6c&v=v10#Kalam",
+      "ttf": "https://fonts.gstatic.com/s/kalam/v10/YA9Qr0Wd4kDdMtDqHTLMkiE.ttf",
       "errored": false
     },
     {
@@ -28,43 +44,27 @@
         "Kalam",
         "Kalam-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/kalam/v10/YA9dr0Wd4kDdMthROCI.ttf",
+      "eot": "https://fonts.gstatic.com/s/kalam/v10/YA9dr0Wd4kDdMthROCM.eot",
       "woff2": "https://fonts.gstatic.com/s/kalam/v10/YA9dr0Wd4kDdMthROCc.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=YA9dr0Wd4kDdMthROCA&skey=ac3d8b21325789a6&v=v10#Kalam",
-      "eot": "https://fonts.gstatic.com/s/kalam/v10/YA9dr0Wd4kDdMthROCM.eot",
-      "errored": false
-    },
-    {
-      "id": "700",
-      "svg": "https://fonts.gstatic.com/l/font?kit=YA9Qr0Wd4kDdMtDqHTLMkiM&skey=31f303804b29bb6c&v=v10#Kalam",
-      "fontFamily": "'Kalam'",
-      "fontStyle": "normal",
-      "fontWeight": "700",
-      "local": [
-        "Kalam Bold",
-        "Kalam-Bold"
-      ],
-      "woff": "https://fonts.gstatic.com/s/kalam/v10/YA9Qr0Wd4kDdMtDqHTLMkiI.woff",
-      "eot": "https://fonts.gstatic.com/s/kalam/v10/YA9Qr0Wd4kDdMtDqHTLMkiA.eot",
-      "ttf": "https://fonts.gstatic.com/s/kalam/v10/YA9Qr0Wd4kDdMtDqHTLMkiE.ttf",
-      "woff2": "https://fonts.gstatic.com/s/kalam/v10/YA9Qr0Wd4kDdMtDqHTLMkiQ.woff2",
+      "ttf": "https://fonts.gstatic.com/s/kalam/v10/YA9dr0Wd4kDdMthROCI.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
     "devanagari",
+    "latin",
     "latin-ext"
   ],
   "category": "handwriting",
   "version": "v10",
   "lastModified": "2019-07-17",
-  "popularity": 118,
+  "popularity": 117,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
     "devanagari": false,
+    "latin": true,
     "latin-ext": false
   },
   "storeID": "latin"

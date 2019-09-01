@@ -4,56 +4,56 @@
   "variants": [
     {
       "id": "100",
-      "eot": "https://fonts.gstatic.com/s/manjari/v2/k3kSo8UPMOBO2w1UdbrYLGHA.eot",
+      "woff2": "https://fonts.gstatic.com/s/manjari/v2/k3kSo8UPMOBO2w1UdbrYLGHE.woff2",
       "fontFamily": "'Manjari'",
       "fontStyle": "normal",
       "fontWeight": "100",
-      "woff": "https://fonts.gstatic.com/s/manjari/v2/k3kSo8UPMOBO2w1UdbrYLGHC.woff",
       "local": [
         "Manjari Thin",
         "Manjari-Thin"
       ],
-      "woff2": "https://fonts.gstatic.com/s/manjari/v2/k3kSo8UPMOBO2w1UdbrYLGHE.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=k3kSo8UPMOBO2w1UdbrYLGHD&skey=b189116bf2b64cc7&v=v2#Manjari",
       "ttf": "https://fonts.gstatic.com/s/manjari/v2/k3kSo8UPMOBO2w1UdbrYLGHB.ttf",
-      "errored": false
-    },
-    {
-      "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=k3kQo8UPMOBO2w1UfdnoKQ&skey=46aa6c1774caed83&v=v2#Manjari",
-      "fontFamily": "'Manjari'",
-      "fontStyle": "normal",
-      "fontWeight": "400",
-      "local": [
-        "Manjari Regular",
-        "Manjari-Regular"
-      ],
-      "eot": "https://fonts.gstatic.com/s/manjari/v2/k3kQo8UPMOBO2w1UfdnoKg.eot",
-      "woff2": "https://fonts.gstatic.com/s/manjari/v2/k3kQo8UPMOBO2w1UfdnoLg.woff2",
-      "ttf": "https://fonts.gstatic.com/s/manjari/v2/k3kQo8UPMOBO2w1UfdnoKw.ttf",
-      "woff": "https://fonts.gstatic.com/s/manjari/v2/k3kQo8UPMOBO2w1UfdnoKA.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=k3kSo8UPMOBO2w1UdbrYLGHD&skey=b189116bf2b64cc7&v=v2#Manjari",
+      "eot": "https://fonts.gstatic.com/s/manjari/v2/k3kSo8UPMOBO2w1UdbrYLGHA.eot",
+      "woff": "https://fonts.gstatic.com/s/manjari/v2/k3kSo8UPMOBO2w1UdbrYLGHC.woff",
       "errored": false
     },
     {
       "id": "700",
-      "woff": "https://fonts.gstatic.com/s/manjari/v2/k3kVo8UPMOBO2w1UdWLNO0bhKg.woff",
+      "eot": "https://fonts.gstatic.com/s/manjari/v2/k3kVo8UPMOBO2w1UdWLNO0bhKA.eot",
       "fontFamily": "'Manjari'",
       "fontStyle": "normal",
       "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/manjari/v2/k3kVo8UPMOBO2w1UdWLNO0bhKg.woff",
       "local": [
         "Manjari Bold",
         "Manjari-Bold"
       ],
-      "eot": "https://fonts.gstatic.com/s/manjari/v2/k3kVo8UPMOBO2w1UdWLNO0bhKA.eot",
       "woff2": "https://fonts.gstatic.com/s/manjari/v2/k3kVo8UPMOBO2w1UdWLNO0bhLA.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=k3kVo8UPMOBO2w1UdWLNO0bhKw&skey=f71b24a7ab4e0c25&v=v2#Manjari",
       "ttf": "https://fonts.gstatic.com/s/manjari/v2/k3kVo8UPMOBO2w1UdWLNO0bhKQ.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=k3kVo8UPMOBO2w1UdWLNO0bhKw&skey=f71b24a7ab4e0c25&v=v2#Manjari",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/manjari/v2/k3kQo8UPMOBO2w1UfdnoKg.eot",
+      "fontFamily": "'Manjari'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "ttf": "https://fonts.gstatic.com/s/manjari/v2/k3kQo8UPMOBO2w1UfdnoKw.ttf",
+      "local": [
+        "Manjari Regular",
+        "Manjari-Regular"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=k3kQo8UPMOBO2w1UfdnoKQ&skey=46aa6c1774caed83&v=v2#Manjari",
+      "woff": "https://fonts.gstatic.com/s/manjari/v2/k3kQo8UPMOBO2w1UfdnoKA.woff",
+      "woff2": "https://fonts.gstatic.com/s/manjari/v2/k3kQo8UPMOBO2w1UfdnoLg.woff2",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
-    "malayalam"
+    "malayalam",
+    "latin"
   ],
   "category": "sans-serif",
   "version": "v2",
@@ -62,8 +62,8 @@
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
-    "malayalam": false
+    "malayalam": false,
+    "latin": true
   },
   "storeID": "latin"
 }

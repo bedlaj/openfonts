@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/nanumbrushscript/v17/wXK2E2wfpokopxzthSqPbcR5_gVaxazCiapq.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=wXK2E2wfpokopxzthSqPbcR5_gVaxazCiapt&skey=d31f4b62e10cf106&v=v17#NanumBrushScript",
       "fontFamily": "'Nanum Brush Script'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -13,25 +13,25 @@
         "NanumBrush"
       ],
       "ttf": "https://fonts.gstatic.com/s/nanumbrushscript/v17/wXK2E2wfpokopxzthSqPbcR5_gVaxazCiapv.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=wXK2E2wfpokopxzthSqPbcR5_gVaxazCiapt&skey=d31f4b62e10cf106&v=v17#NanumBrushScript",
-      "eot": "https://fonts.gstatic.com/s/nanumbrushscript/v17/wXK2E2wfpokopxzthSqPbcR5_gVaxazCiapu.eot",
       "woff": "https://fonts.gstatic.com/s/nanumbrushscript/v17/wXK2E2wfpokopxzthSqPbcR5_gVaxazCiaps.woff",
+      "eot": "https://fonts.gstatic.com/s/nanumbrushscript/v17/wXK2E2wfpokopxzthSqPbcR5_gVaxazCiapu.eot",
+      "woff2": "https://fonts.gstatic.com/s/nanumbrushscript/v17/wXK2E2wfpokopxzthSqPbcR5_gVaxazCiapq.woff2",
       "errored": false
     }
   ],
   "subsets": [
-    "korean",
-    "latin"
+    "latin",
+    "korean"
   ],
   "category": "handwriting",
   "version": "v17",
   "lastModified": "2019-07-16",
-  "popularity": 357,
+  "popularity": 363,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "korean": false,
-    "latin": true
+    "latin": true,
+    "korean": false
   },
   "storeID": "latin"
 }

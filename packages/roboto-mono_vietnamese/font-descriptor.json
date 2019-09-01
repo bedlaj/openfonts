@@ -36,15 +36,15 @@
     },
     {
       "id": "300",
-      "woff": "https://fonts.gstatic.com/s/robotomono/v7/L0xkDF4xlVMF-BfR8bXMIjDgiWq-f7k.woff",
+      "eot": "https://fonts.gstatic.com/s/robotomono/v7/L0xkDF4xlVMF-BfR8bXMIjDgiWq-f7s.eot",
       "fontFamily": "'Roboto Mono'",
       "fontStyle": "normal",
       "fontWeight": "300",
+      "woff": "https://fonts.gstatic.com/s/robotomono/v7/L0xkDF4xlVMF-BfR8bXMIjDgiWq-f7k.woff",
       "local": [
         "Roboto Mono Light",
         "RobotoMono-Light"
       ],
-      "eot": "https://fonts.gstatic.com/s/robotomono/v7/L0xkDF4xlVMF-BfR8bXMIjDgiWq-f7s.eot",
       "woff2": "https://fonts.gstatic.com/s/robotomono/v7/L0xkDF4xlVMF-BfR8bXMIjDgiWq-f78.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=L0xkDF4xlVMF-BfR8bXMIjDgiWq-f7g&skey=6c4331d29fc39c00&v=v7#RobotoMono",
       "ttf": "https://fonts.gstatic.com/s/robotomono/v7/L0xkDF4xlVMF-BfR8bXMIjDgiWq-f7o.ttf",
@@ -62,8 +62,8 @@
         "RobotoMono-LightItalic"
       ],
       "woff2": "https://fonts.gstatic.com/s/robotomono/v7/L0xmDF4xlVMF-BfR8bXMIjhOk9a0T7KjBg.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=L0xmDF4xlVMF-BfR8bXMIjhOk9a0T7KjAQ&skey=4cb38aa0118dab10&v=v7#RobotoMono",
       "ttf": "https://fonts.gstatic.com/s/robotomono/v7/L0xmDF4xlVMF-BfR8bXMIjhOk9a0T7KjAw.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=L0xmDF4xlVMF-BfR8bXMIjhOk9a0T7KjAQ&skey=4cb38aa0118dab10&v=v7#RobotoMono",
       "errored": false
     },
     {
@@ -164,13 +164,13 @@
     }
   ],
   "subsets": [
+    "greek",
     "greek-ext",
     "vietnamese",
-    "greek",
     "latin",
-    "latin-ext",
+    "cyrillic-ext",
     "cyrillic",
-    "cyrillic-ext"
+    "latin-ext"
   ],
   "category": "monospace",
   "version": "v7",
@@ -179,13 +179,13 @@
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
+    "greek": false,
     "greek-ext": false,
     "vietnamese": true,
-    "greek": false,
     "latin": true,
-    "latin-ext": false,
+    "cyrillic-ext": false,
     "cyrillic": false,
-    "cyrillic-ext": false
+    "latin-ext": false
   },
   "storeID": "latin_vietnamese"
 }

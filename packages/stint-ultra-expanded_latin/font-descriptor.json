@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/stintultraexpanded/v7/CSRg4yNNh-GbW3o3JkwoDcdvMKMf0oBAd3qvCzM.woff",
+      "woff2": "https://fonts.gstatic.com/s/stintultraexpanded/v7/CSRg4yNNh-GbW3o3JkwoDcdvMKMf0oBAd3qvCzU.woff2",
       "fontFamily": "'Stint Ultra Expanded'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,9 +12,9 @@
         "Stint Ultra Expanded",
         "StintUltraExpanded-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/stintultraexpanded/v7/CSRg4yNNh-GbW3o3JkwoDcdvMKMf0oBAd3qvCzA.ttf",
-      "woff2": "https://fonts.gstatic.com/s/stintultraexpanded/v7/CSRg4yNNh-GbW3o3JkwoDcdvMKMf0oBAd3qvCzU.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=CSRg4yNNh-GbW3o3JkwoDcdvMKMf0oBAd3qvCzI&skey=52d609829581e7a9&v=v7#StintUltraExpanded",
+      "woff": "https://fonts.gstatic.com/s/stintultraexpanded/v7/CSRg4yNNh-GbW3o3JkwoDcdvMKMf0oBAd3qvCzM.woff",
+      "ttf": "https://fonts.gstatic.com/s/stintultraexpanded/v7/CSRg4yNNh-GbW3o3JkwoDcdvMKMf0oBAd3qvCzA.ttf",
       "eot": "https://fonts.gstatic.com/s/stintultraexpanded/v7/CSRg4yNNh-GbW3o3JkwoDcdvMKMf0oBAd3qvCzE.eot",
       "errored": false
     }
@@ -26,7 +26,7 @@
   "category": "display",
   "version": "v7",
   "lastModified": "2019-07-16",
-  "popularity": 678,
+  "popularity": 664,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

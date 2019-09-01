@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "100",
-      "svg": "https://fonts.gstatic.com/l/font?kit=-W_9XJnvUD7dzB2CA-oRTkE&skey=87a9015b8e2ec7c6&v=v4#Prompt",
+      "eot": "https://fonts.gstatic.com/s/prompt/v4/-W_9XJnvUD7dzB2CA-oRTkI.eot",
       "fontFamily": "'Prompt'",
       "fontStyle": "normal",
       "fontWeight": "100",
+      "woff": "https://fonts.gstatic.com/s/prompt/v4/-W_9XJnvUD7dzB2CA-oRTkA.woff",
       "local": [
         "Prompt Thin",
         "Prompt-Thin"
       ],
-      "eot": "https://fonts.gstatic.com/s/prompt/v4/-W_9XJnvUD7dzB2CA-oRTkI.eot",
-      "woff": "https://fonts.gstatic.com/s/prompt/v4/-W_9XJnvUD7dzB2CA-oRTkA.woff",
-      "ttf": "https://fonts.gstatic.com/s/prompt/v4/-W_9XJnvUD7dzB2CA-oRTkM.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=-W_9XJnvUD7dzB2CA-oRTkE&skey=87a9015b8e2ec7c6&v=v4#Prompt",
       "woff2": "https://fonts.gstatic.com/s/prompt/v4/-W_9XJnvUD7dzB2CA-oRTkY.woff2",
+      "ttf": "https://fonts.gstatic.com/s/prompt/v4/-W_9XJnvUD7dzB2CA-oRTkM.ttf",
       "errored": false
     },
     {
@@ -28,10 +28,10 @@
         "Prompt Thin Italic",
         "Prompt-ThinItalic"
       ],
-      "ttf": "https://fonts.gstatic.com/s/prompt/v4/-W_7XJnvUD7dzB2KZeJ8fkoLew.ttf",
-      "eot": "https://fonts.gstatic.com/s/prompt/v4/-W_7XJnvUD7dzB2KZeJ8fkoLeg.eot",
       "woff": "https://fonts.gstatic.com/s/prompt/v4/-W_7XJnvUD7dzB2KZeJ8fkoLeA.woff",
+      "eot": "https://fonts.gstatic.com/s/prompt/v4/-W_7XJnvUD7dzB2KZeJ8fkoLeg.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=-W_7XJnvUD7dzB2KZeJ8fkoLeQ&skey=37416102cb8ab106&v=v4#Prompt",
+      "ttf": "https://fonts.gstatic.com/s/prompt/v4/-W_7XJnvUD7dzB2KZeJ8fkoLew.ttf",
       "errored": false
     },
     {
@@ -40,12 +40,12 @@
       "fontFamily": "'Prompt'",
       "fontStyle": "normal",
       "fontWeight": "200",
-      "woff2": "https://fonts.gstatic.com/s/prompt/v4/-W_8XJnvUD7dzB2Cr_sIZ2Mu.woff2",
+      "woff": "https://fonts.gstatic.com/s/prompt/v4/-W_8XJnvUD7dzB2Cr_sIZ2Mo.woff",
       "local": [
         "Prompt ExtraLight",
         "Prompt-ExtraLight"
       ],
-      "woff": "https://fonts.gstatic.com/s/prompt/v4/-W_8XJnvUD7dzB2Cr_sIZ2Mo.woff",
+      "woff2": "https://fonts.gstatic.com/s/prompt/v4/-W_8XJnvUD7dzB2Cr_sIZ2Mu.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=-W_8XJnvUD7dzB2Cr_sIZ2Mp&skey=bdc4992fb1501f41&v=v4#Prompt",
       "ttf": "https://fonts.gstatic.com/s/prompt/v4/-W_8XJnvUD7dzB2Cr_sIZ2Mr.ttf",
       "errored": false
@@ -62,24 +62,8 @@
         "Prompt-ExtraLightItalic"
       ],
       "svg": "https://fonts.gstatic.com/l/font?kit=-W_6XJnvUD7dzB2KZeLQb1MiW5c&skey=271ca1f82792226f&v=v4#Prompt",
-      "ttf": "https://fonts.gstatic.com/s/prompt/v4/-W_6XJnvUD7dzB2KZeLQb1MiW5U.ttf",
       "woff2": "https://fonts.gstatic.com/s/prompt/v4/-W_6XJnvUD7dzB2KZeLQb1MiW5A.woff2",
-      "errored": false
-    },
-    {
-      "id": "300italic",
-      "eot": "https://fonts.gstatic.com/s/prompt/v4/-W_6XJnvUD7dzB2KZeK0bFMiW5Q.eot",
-      "fontFamily": "'Prompt'",
-      "fontStyle": "italic",
-      "fontWeight": "300",
-      "woff": "https://fonts.gstatic.com/s/prompt/v4/-W_6XJnvUD7dzB2KZeK0bFMiW5Y.woff",
-      "local": [
-        "Prompt Light Italic",
-        "Prompt-LightItalic"
-      ],
-      "ttf": "https://fonts.gstatic.com/s/prompt/v4/-W_6XJnvUD7dzB2KZeK0bFMiW5U.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=-W_6XJnvUD7dzB2KZeK0bFMiW5c&skey=383f8026ad773f01&v=v4#Prompt",
-      "woff2": "https://fonts.gstatic.com/s/prompt/v4/-W_6XJnvUD7dzB2KZeK0bFMiW5A.woff2",
+      "ttf": "https://fonts.gstatic.com/s/prompt/v4/-W_6XJnvUD7dzB2KZeLQb1MiW5U.ttf",
       "errored": false
     },
     {
@@ -93,25 +77,41 @@
         "Prompt Light",
         "Prompt-Light"
       ],
-      "ttf": "https://fonts.gstatic.com/s/prompt/v4/-W_8XJnvUD7dzB2Cy_gIZ2Mr.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=-W_8XJnvUD7dzB2Cy_gIZ2Mp&skey=53742a87441f856d&v=v4#Prompt",
       "woff2": "https://fonts.gstatic.com/s/prompt/v4/-W_8XJnvUD7dzB2Cy_gIZ2Mu.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=-W_8XJnvUD7dzB2Cy_gIZ2Mp&skey=53742a87441f856d&v=v4#Prompt",
+      "ttf": "https://fonts.gstatic.com/s/prompt/v4/-W_8XJnvUD7dzB2Cy_gIZ2Mr.ttf",
+      "errored": false
+    },
+    {
+      "id": "300italic",
+      "eot": "https://fonts.gstatic.com/s/prompt/v4/-W_6XJnvUD7dzB2KZeK0bFMiW5Q.eot",
+      "fontFamily": "'Prompt'",
+      "fontStyle": "italic",
+      "fontWeight": "300",
+      "woff2": "https://fonts.gstatic.com/s/prompt/v4/-W_6XJnvUD7dzB2KZeK0bFMiW5A.woff2",
+      "local": [
+        "Prompt Light Italic",
+        "Prompt-LightItalic"
+      ],
+      "woff": "https://fonts.gstatic.com/s/prompt/v4/-W_6XJnvUD7dzB2KZeK0bFMiW5Y.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=-W_6XJnvUD7dzB2KZeK0bFMiW5c&skey=383f8026ad773f01&v=v4#Prompt",
+      "ttf": "https://fonts.gstatic.com/s/prompt/v4/-W_6XJnvUD7dzB2KZeK0bFMiW5U.ttf",
       "errored": false
     },
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/prompt/v4/-W__XJnvUD7dzB2Kbtob.woff",
+      "eot": "https://fonts.gstatic.com/s/prompt/v4/-W__XJnvUD7dzB2KbtoZ.eot",
       "fontFamily": "'Prompt'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/prompt/v4/-W__XJnvUD7dzB2Kbtob.woff",
       "local": [
         "Prompt",
         "Prompt-Regular"
       ],
       "woff2": "https://fonts.gstatic.com/s/prompt/v4/-W__XJnvUD7dzB2Kbtod.woff2",
-      "eot": "https://fonts.gstatic.com/s/prompt/v4/-W__XJnvUD7dzB2KbtoZ.eot",
-      "ttf": "https://fonts.gstatic.com/s/prompt/v4/-W__XJnvUD7dzB2KbtoY.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=-W__XJnvUD7dzB2Kbtoa&skey=154c4e4e997e9cb&v=v4#Prompt",
+      "ttf": "https://fonts.gstatic.com/s/prompt/v4/-W__XJnvUD7dzB2KbtoY.ttf",
       "errored": false
     },
     {
@@ -120,14 +120,14 @@
       "fontFamily": "'Prompt'",
       "fontStyle": "italic",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/prompt/v4/-W_9XJnvUD7dzB2KZeoRTkY.woff2",
+      "woff": "https://fonts.gstatic.com/s/prompt/v4/-W_9XJnvUD7dzB2KZeoRTkA.woff",
       "local": [
         "Prompt Italic",
         "Prompt-Italic"
       ],
+      "woff2": "https://fonts.gstatic.com/s/prompt/v4/-W_9XJnvUD7dzB2KZeoRTkY.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=-W_9XJnvUD7dzB2KZeoRTkE&skey=c812e5a91ed9cc28&v=v4#Prompt",
       "ttf": "https://fonts.gstatic.com/s/prompt/v4/-W_9XJnvUD7dzB2KZeoRTkM.ttf",
-      "woff": "https://fonts.gstatic.com/s/prompt/v4/-W_9XJnvUD7dzB2KZeoRTkA.woff",
       "errored": false
     },
     {
@@ -147,6 +147,22 @@
       "errored": false
     },
     {
+      "id": "500italic",
+      "eot": "https://fonts.gstatic.com/s/prompt/v4/-W_6XJnvUD7dzB2KZeLsbVMiW5Q.eot",
+      "fontFamily": "'Prompt'",
+      "fontStyle": "italic",
+      "fontWeight": "500",
+      "woff": "https://fonts.gstatic.com/s/prompt/v4/-W_6XJnvUD7dzB2KZeLsbVMiW5Y.woff",
+      "local": [
+        "Prompt Medium Italic",
+        "Prompt-MediumItalic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/prompt/v4/-W_6XJnvUD7dzB2KZeLsbVMiW5A.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=-W_6XJnvUD7dzB2KZeLsbVMiW5c&skey=e5dd666eeb5984f&v=v4#Prompt",
+      "ttf": "https://fonts.gstatic.com/s/prompt/v4/-W_6XJnvUD7dzB2KZeLsbVMiW5U.ttf",
+      "errored": false
+    },
+    {
       "id": "600",
       "eot": "https://fonts.gstatic.com/s/prompt/v4/-W_8XJnvUD7dzB2Cv_4IZ2Mq.eot",
       "fontFamily": "'Prompt'",
@@ -163,34 +179,18 @@
       "errored": false
     },
     {
-      "id": "500italic",
-      "woff": "https://fonts.gstatic.com/s/prompt/v4/-W_6XJnvUD7dzB2KZeLsbVMiW5Y.woff",
-      "fontFamily": "'Prompt'",
-      "fontStyle": "italic",
-      "fontWeight": "500",
-      "local": [
-        "Prompt Medium Italic",
-        "Prompt-MediumItalic"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/prompt/v4/-W_6XJnvUD7dzB2KZeLsbVMiW5A.woff2",
-      "ttf": "https://fonts.gstatic.com/s/prompt/v4/-W_6XJnvUD7dzB2KZeLsbVMiW5U.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=-W_6XJnvUD7dzB2KZeLsbVMiW5c&skey=e5dd666eeb5984f&v=v4#Prompt",
-      "eot": "https://fonts.gstatic.com/s/prompt/v4/-W_6XJnvUD7dzB2KZeLsbVMiW5Q.eot",
-      "errored": false
-    },
-    {
       "id": "600italic",
-      "woff": "https://fonts.gstatic.com/s/prompt/v4/-W_6XJnvUD7dzB2KZeLAalMiW5Y.woff",
+      "eot": "https://fonts.gstatic.com/s/prompt/v4/-W_6XJnvUD7dzB2KZeLAalMiW5Q.eot",
       "fontFamily": "'Prompt'",
       "fontStyle": "italic",
       "fontWeight": "600",
+      "woff": "https://fonts.gstatic.com/s/prompt/v4/-W_6XJnvUD7dzB2KZeLAalMiW5Y.woff",
       "local": [
         "Prompt SemiBold Italic",
         "Prompt-SemiBoldItalic"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=-W_6XJnvUD7dzB2KZeLAalMiW5c&skey=8ec6bb139abdbb14&v=v4#Prompt",
-      "eot": "https://fonts.gstatic.com/s/prompt/v4/-W_6XJnvUD7dzB2KZeLAalMiW5Q.eot",
       "woff2": "https://fonts.gstatic.com/s/prompt/v4/-W_6XJnvUD7dzB2KZeLAalMiW5A.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=-W_6XJnvUD7dzB2KZeLAalMiW5c&skey=8ec6bb139abdbb14&v=v4#Prompt",
       "ttf": "https://fonts.gstatic.com/s/prompt/v4/-W_6XJnvUD7dzB2KZeLAalMiW5U.ttf",
       "errored": false
     },
@@ -200,14 +200,30 @@
       "fontFamily": "'Prompt'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "ttf": "https://fonts.gstatic.com/s/prompt/v4/-W_8XJnvUD7dzB2C2_8IZ2Mr.ttf",
+      "woff": "https://fonts.gstatic.com/s/prompt/v4/-W_8XJnvUD7dzB2C2_8IZ2Mo.woff",
       "local": [
         "Prompt Bold",
         "Prompt-Bold"
       ],
-      "woff": "https://fonts.gstatic.com/s/prompt/v4/-W_8XJnvUD7dzB2C2_8IZ2Mo.woff",
       "woff2": "https://fonts.gstatic.com/s/prompt/v4/-W_8XJnvUD7dzB2C2_8IZ2Mu.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=-W_8XJnvUD7dzB2C2_8IZ2Mp&skey=4e01753041c32f26&v=v4#Prompt",
+      "ttf": "https://fonts.gstatic.com/s/prompt/v4/-W_8XJnvUD7dzB2C2_8IZ2Mr.ttf",
+      "errored": false
+    },
+    {
+      "id": "700italic",
+      "eot": "https://fonts.gstatic.com/s/prompt/v4/-W_6XJnvUD7dzB2KZeKka1MiW5Q.eot",
+      "fontFamily": "'Prompt'",
+      "fontStyle": "italic",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/prompt/v4/-W_6XJnvUD7dzB2KZeKka1MiW5Y.woff",
+      "local": [
+        "Prompt Bold Italic",
+        "Prompt-BoldItalic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/prompt/v4/-W_6XJnvUD7dzB2KZeKka1MiW5A.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=-W_6XJnvUD7dzB2KZeKka1MiW5c&skey=6109a8e24f8df185&v=v4#Prompt",
+      "ttf": "https://fonts.gstatic.com/s/prompt/v4/-W_6XJnvUD7dzB2KZeKka1MiW5U.ttf",
       "errored": false
     },
     {
@@ -216,62 +232,30 @@
       "fontFamily": "'Prompt'",
       "fontStyle": "normal",
       "fontWeight": "800",
-      "woff2": "https://fonts.gstatic.com/s/prompt/v4/-W_8XJnvUD7dzB2Cx_wIZ2Mu.woff2",
+      "woff": "https://fonts.gstatic.com/s/prompt/v4/-W_8XJnvUD7dzB2Cx_wIZ2Mo.woff",
       "local": [
         "Prompt ExtraBold",
         "Prompt-ExtraBold"
       ],
-      "woff": "https://fonts.gstatic.com/s/prompt/v4/-W_8XJnvUD7dzB2Cx_wIZ2Mo.woff",
+      "woff2": "https://fonts.gstatic.com/s/prompt/v4/-W_8XJnvUD7dzB2Cx_wIZ2Mu.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=-W_8XJnvUD7dzB2Cx_wIZ2Mp&skey=89ea937e03323c30&v=v4#Prompt",
       "ttf": "https://fonts.gstatic.com/s/prompt/v4/-W_8XJnvUD7dzB2Cx_wIZ2Mr.ttf",
       "errored": false
     },
     {
-      "id": "700italic",
-      "woff": "https://fonts.gstatic.com/s/prompt/v4/-W_6XJnvUD7dzB2KZeKka1MiW5Y.woff",
-      "fontFamily": "'Prompt'",
-      "fontStyle": "italic",
-      "fontWeight": "700",
-      "local": [
-        "Prompt Bold Italic",
-        "Prompt-BoldItalic"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=-W_6XJnvUD7dzB2KZeKka1MiW5c&skey=6109a8e24f8df185&v=v4#Prompt",
-      "ttf": "https://fonts.gstatic.com/s/prompt/v4/-W_6XJnvUD7dzB2KZeKka1MiW5U.ttf",
-      "woff2": "https://fonts.gstatic.com/s/prompt/v4/-W_6XJnvUD7dzB2KZeKka1MiW5A.woff2",
-      "eot": "https://fonts.gstatic.com/s/prompt/v4/-W_6XJnvUD7dzB2KZeKka1MiW5Q.eot",
-      "errored": false
-    },
-    {
       "id": "800italic",
-      "woff": "https://fonts.gstatic.com/s/prompt/v4/-W_6XJnvUD7dzB2KZeK4aFMiW5Y.woff",
+      "eot": "https://fonts.gstatic.com/s/prompt/v4/-W_6XJnvUD7dzB2KZeK4aFMiW5Q.eot",
       "fontFamily": "'Prompt'",
       "fontStyle": "italic",
       "fontWeight": "800",
+      "woff": "https://fonts.gstatic.com/s/prompt/v4/-W_6XJnvUD7dzB2KZeK4aFMiW5Y.woff",
       "local": [
         "Prompt ExtraBold Italic",
         "Prompt-ExtraBoldItalic"
       ],
-      "eot": "https://fonts.gstatic.com/s/prompt/v4/-W_6XJnvUD7dzB2KZeK4aFMiW5Q.eot",
       "woff2": "https://fonts.gstatic.com/s/prompt/v4/-W_6XJnvUD7dzB2KZeK4aFMiW5A.woff2",
-      "ttf": "https://fonts.gstatic.com/s/prompt/v4/-W_6XJnvUD7dzB2KZeK4aFMiW5U.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=-W_6XJnvUD7dzB2KZeK4aFMiW5c&skey=25ecab79d81e4108&v=v4#Prompt",
-      "errored": false
-    },
-    {
-      "id": "900italic",
-      "eot": "https://fonts.gstatic.com/s/prompt/v4/-W_6XJnvUD7dzB2KZeKcaVMiW5Q.eot",
-      "fontFamily": "'Prompt'",
-      "fontStyle": "italic",
-      "fontWeight": "900",
-      "woff": "https://fonts.gstatic.com/s/prompt/v4/-W_6XJnvUD7dzB2KZeKcaVMiW5Y.woff",
-      "local": [
-        "Prompt Black Italic",
-        "Prompt-BlackItalic"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=-W_6XJnvUD7dzB2KZeKcaVMiW5c&skey=cc86e5fc7dbe738c&v=v4#Prompt",
-      "ttf": "https://fonts.gstatic.com/s/prompt/v4/-W_6XJnvUD7dzB2KZeKcaVMiW5U.ttf",
-      "woff2": "https://fonts.gstatic.com/s/prompt/v4/-W_6XJnvUD7dzB2KZeKcaVMiW5A.woff2",
+      "ttf": "https://fonts.gstatic.com/s/prompt/v4/-W_6XJnvUD7dzB2KZeK4aFMiW5U.ttf",
       "errored": false
     },
     {
@@ -286,28 +270,44 @@
         "Prompt-Black"
       ],
       "woff2": "https://fonts.gstatic.com/s/prompt/v4/-W_8XJnvUD7dzB2C4_0IZ2Mu.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=-W_8XJnvUD7dzB2C4_0IZ2Mp&skey=13e0e7d3a96dd4a2&v=v4#Prompt",
       "ttf": "https://fonts.gstatic.com/s/prompt/v4/-W_8XJnvUD7dzB2C4_0IZ2Mr.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=-W_8XJnvUD7dzB2C4_0IZ2Mp&skey=13e0e7d3a96dd4a2&v=v4#Prompt",
+      "errored": false
+    },
+    {
+      "id": "900italic",
+      "eot": "https://fonts.gstatic.com/s/prompt/v4/-W_6XJnvUD7dzB2KZeKcaVMiW5Q.eot",
+      "fontFamily": "'Prompt'",
+      "fontStyle": "italic",
+      "fontWeight": "900",
+      "woff": "https://fonts.gstatic.com/s/prompt/v4/-W_6XJnvUD7dzB2KZeKcaVMiW5Y.woff",
+      "local": [
+        "Prompt Black Italic",
+        "Prompt-BlackItalic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/prompt/v4/-W_6XJnvUD7dzB2KZeKcaVMiW5A.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=-W_6XJnvUD7dzB2KZeKcaVMiW5c&skey=cc86e5fc7dbe738c&v=v4#Prompt",
+      "ttf": "https://fonts.gstatic.com/s/prompt/v4/-W_6XJnvUD7dzB2KZeKcaVMiW5U.ttf",
       "errored": false
     }
   ],
   "subsets": [
     "vietnamese",
     "latin",
-    "latin-ext",
-    "thai"
+    "thai",
+    "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v4",
   "lastModified": "2019-07-17",
-  "popularity": 97,
+  "popularity": 92,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "vietnamese": false,
     "latin": true,
-    "latin-ext": true,
-    "thai": false
+    "thai": false,
+    "latin-ext": true
   },
   "storeID": "latin-ext_latin"
 }

@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/harmattan/v6/goksH6L2DkFvVvRp9XpjSUqi.woff2",
+      "woff": "https://fonts.gstatic.com/s/harmattan/v6/goksH6L2DkFvVvRp9XpjSUqk.woff",
       "fontFamily": "'Harmattan'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,26 +12,26 @@
         "Harmattan",
         "Harmattan-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=goksH6L2DkFvVvRp9XpjSUql&skey=455aa37d69b7e881&v=v6#Harmattan",
-      "woff": "https://fonts.gstatic.com/s/harmattan/v6/goksH6L2DkFvVvRp9XpjSUqk.woff",
-      "eot": "https://fonts.gstatic.com/s/harmattan/v6/goksH6L2DkFvVvRp9XpjSUqm.eot",
       "ttf": "https://fonts.gstatic.com/s/harmattan/v6/goksH6L2DkFvVvRp9XpjSUqn.ttf",
+      "woff2": "https://fonts.gstatic.com/s/harmattan/v6/goksH6L2DkFvVvRp9XpjSUqi.woff2",
+      "eot": "https://fonts.gstatic.com/s/harmattan/v6/goksH6L2DkFvVvRp9XpjSUqm.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=goksH6L2DkFvVvRp9XpjSUql&skey=455aa37d69b7e881&v=v6#Harmattan",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
-    "arabic"
+    "arabic",
+    "latin"
   ],
   "category": "sans-serif",
   "version": "v6",
   "lastModified": "2019-07-16",
-  "popularity": 540,
+  "popularity": 548,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
-    "arabic": true
+    "arabic": true,
+    "latin": true
   },
-  "storeID": "arabic_latin"
+  "storeID": "latin_arabic"
 }

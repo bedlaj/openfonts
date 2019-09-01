@@ -12,23 +12,23 @@
         "Laila Light",
         "Laila-Light"
       ],
-      "eot": "https://fonts.gstatic.com/s/laila/v6/LYjBdG_8nE8jDLzxojNGjVs.eot",
-      "woff2": "https://fonts.gstatic.com/s/laila/v6/LYjBdG_8nE8jDLzxojNGjV8.woff2",
       "woff": "https://fonts.gstatic.com/s/laila/v6/LYjBdG_8nE8jDLzxojNGjVk.woff",
+      "woff2": "https://fonts.gstatic.com/s/laila/v6/LYjBdG_8nE8jDLzxojNGjV8.woff2",
+      "eot": "https://fonts.gstatic.com/s/laila/v6/LYjBdG_8nE8jDLzxojNGjVs.eot",
       "ttf": "https://fonts.gstatic.com/s/laila/v6/LYjBdG_8nE8jDLzxojNGjVo.ttf",
       "errored": false
     },
     {
       "id": "500",
-      "woff": "https://fonts.gstatic.com/s/laila/v6/LYjBdG_8nE8jDLypozNGjVk.woff",
+      "eot": "https://fonts.gstatic.com/s/laila/v6/LYjBdG_8nE8jDLypozNGjVs.eot",
       "fontFamily": "'Laila'",
       "fontStyle": "normal",
       "fontWeight": "500",
+      "woff": "https://fonts.gstatic.com/s/laila/v6/LYjBdG_8nE8jDLypozNGjVk.woff",
       "local": [
         "Laila Medium",
         "Laila-Medium"
       ],
-      "eot": "https://fonts.gstatic.com/s/laila/v6/LYjBdG_8nE8jDLypozNGjVs.eot",
       "woff2": "https://fonts.gstatic.com/s/laila/v6/LYjBdG_8nE8jDLypozNGjV8.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=LYjBdG_8nE8jDLypozNGjVg&skey=7be6b5ab3ef2670b&v=v6#Laila",
       "ttf": "https://fonts.gstatic.com/s/laila/v6/LYjBdG_8nE8jDLypozNGjVo.ttf",
@@ -45,25 +45,9 @@
         "Laila-Regular"
       ],
       "woff2": "https://fonts.gstatic.com/s/laila/v6/LYjMdG_8nE8jDLRbgCY.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=LYjMdG_8nE8jDLRbgCE&skey=1dcd754bec11ed63&v=v6#Laila",
       "ttf": "https://fonts.gstatic.com/s/laila/v6/LYjMdG_8nE8jDLRbgCM.ttf",
       "eot": "https://fonts.gstatic.com/s/laila/v6/LYjMdG_8nE8jDLRbgCI.eot",
-      "errored": false
-    },
-    {
-      "id": "700",
-      "eot": "https://fonts.gstatic.com/s/laila/v6/LYjBdG_8nE8jDLzhpTNGjVs.eot",
-      "fontFamily": "'Laila'",
-      "fontStyle": "normal",
-      "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/laila/v6/LYjBdG_8nE8jDLzhpTNGjVk.woff",
-      "local": [
-        "Laila Bold",
-        "Laila-Bold"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/laila/v6/LYjBdG_8nE8jDLzhpTNGjV8.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=LYjBdG_8nE8jDLzhpTNGjVg&skey=62e2c4c922e5a90&v=v6#Laila",
-      "ttf": "https://fonts.gstatic.com/s/laila/v6/LYjBdG_8nE8jDLzhpTNGjVo.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=LYjMdG_8nE8jDLRbgCE&skey=1dcd754bec11ed63&v=v6#Laila",
       "errored": false
     },
     {
@@ -81,23 +65,39 @@
       "ttf": "https://fonts.gstatic.com/s/laila/v6/LYjBdG_8nE8jDLyFpDNGjVo.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=LYjBdG_8nE8jDLyFpDNGjVg&skey=3b8bd068fc8634e8&v=v6#Laila",
       "errored": false
+    },
+    {
+      "id": "700",
+      "woff": "https://fonts.gstatic.com/s/laila/v6/LYjBdG_8nE8jDLzhpTNGjVk.woff",
+      "fontFamily": "'Laila'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Laila Bold",
+        "Laila-Bold"
+      ],
+      "eot": "https://fonts.gstatic.com/s/laila/v6/LYjBdG_8nE8jDLzhpTNGjVs.eot",
+      "woff2": "https://fonts.gstatic.com/s/laila/v6/LYjBdG_8nE8jDLzhpTNGjV8.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=LYjBdG_8nE8jDLzhpTNGjVg&skey=62e2c4c922e5a90&v=v6#Laila",
+      "ttf": "https://fonts.gstatic.com/s/laila/v6/LYjBdG_8nE8jDLzhpTNGjVo.ttf",
+      "errored": false
     }
   ],
   "subsets": [
-    "latin",
     "devanagari",
+    "latin",
     "latin-ext"
   ],
   "category": "serif",
   "version": "v6",
   "lastModified": "2019-07-16",
-  "popularity": 404,
+  "popularity": 377,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
     "devanagari": true,
+    "latin": true,
     "latin-ext": false
   },
-  "storeID": "devanagari_latin"
+  "storeID": "latin_devanagari"
 }

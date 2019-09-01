@@ -4,34 +4,34 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/amaticsc/v13/TUZyzwprpvBS1izr_vOECuSf.woff2",
+      "eot": "https://fonts.gstatic.com/s/amaticsc/v13/TUZyzwprpvBS1izr_vOECuSb.eot",
       "fontFamily": "'Amatic SC'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/amaticsc/v13/TUZyzwprpvBS1izr_vOECuSf.woff2",
       "local": [
         "Amatic SC Regular",
         "AmaticSC-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/amaticsc/v13/TUZyzwprpvBS1izr_vOECuSb.eot",
+      "ttf": "https://fonts.gstatic.com/s/amaticsc/v13/TUZyzwprpvBS1izr_vOECuSa.ttf",
       "woff": "https://fonts.gstatic.com/s/amaticsc/v13/TUZyzwprpvBS1izr_vOECuSZ.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=TUZyzwprpvBS1izr_vOECuSY&skey=fb863bec8adba0c7&v=v13#AmaticSC",
-      "ttf": "https://fonts.gstatic.com/s/amaticsc/v13/TUZyzwprpvBS1izr_vOECuSa.ttf",
       "errored": false
     },
     {
       "id": "700",
-      "woff": "https://fonts.gstatic.com/s/amaticsc/v13/TUZ3zwprpvBS1izr_vOMscGKfrUE.woff",
+      "eot": "https://fonts.gstatic.com/s/amaticsc/v13/TUZ3zwprpvBS1izr_vOMscGKfrUG.eot",
       "fontFamily": "'Amatic SC'",
       "fontStyle": "normal",
       "fontWeight": "700",
+      "svg": "https://fonts.gstatic.com/l/font?kit=TUZ3zwprpvBS1izr_vOMscGKfrUF&skey=f5c87b6211811ffa&v=v13#AmaticSC",
       "local": [
         "Amatic SC Bold",
         "AmaticSC-Bold"
       ],
       "woff2": "https://fonts.gstatic.com/s/amaticsc/v13/TUZ3zwprpvBS1izr_vOMscGKfrUC.woff2",
-      "eot": "https://fonts.gstatic.com/s/amaticsc/v13/TUZ3zwprpvBS1izr_vOMscGKfrUG.eot",
+      "woff": "https://fonts.gstatic.com/s/amaticsc/v13/TUZ3zwprpvBS1izr_vOMscGKfrUE.woff",
       "ttf": "https://fonts.gstatic.com/s/amaticsc/v13/TUZ3zwprpvBS1izr_vOMscGKfrUH.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=TUZ3zwprpvBS1izr_vOMscGKfrUF&skey=f5c87b6211811ffa&v=v13#AmaticSC",
       "errored": false
     }
   ],
@@ -39,21 +39,21 @@
     "hebrew",
     "vietnamese",
     "latin",
-    "latin-ext",
-    "cyrillic"
+    "cyrillic",
+    "latin-ext"
   ],
   "category": "handwriting",
   "version": "v13",
   "lastModified": "2019-07-17",
-  "popularity": 85,
+  "popularity": 83,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "hebrew": false,
     "vietnamese": false,
     "latin": true,
-    "latin-ext": false,
-    "cyrillic": false
+    "cyrillic": false,
+    "latin-ext": false
   },
   "storeID": "latin"
 }

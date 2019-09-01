@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/nixieone/v10/lW-8wjkKLXjg5y2o2uUYV-t3.ttf",
+      "woff": "https://fonts.gstatic.com/s/nixieone/v10/lW-8wjkKLXjg5y2o2uUYV-t0.woff",
       "fontFamily": "'Nixie One'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Nixie One",
         "NixieOne-Regular"
       ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=lW-8wjkKLXjg5y2o2uUYV-t1&skey=8867a65129e19fc&v=v10#NixieOne",
+      "ttf": "https://fonts.gstatic.com/s/nixieone/v10/lW-8wjkKLXjg5y2o2uUYV-t3.ttf",
       "eot": "https://fonts.gstatic.com/s/nixieone/v10/lW-8wjkKLXjg5y2o2uUYV-t2.eot",
       "woff2": "https://fonts.gstatic.com/s/nixieone/v10/lW-8wjkKLXjg5y2o2uUYV-ty.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=lW-8wjkKLXjg5y2o2uUYV-t1&skey=8867a65129e19fc&v=v10#NixieOne",
-      "woff": "https://fonts.gstatic.com/s/nixieone/v10/lW-8wjkKLXjg5y2o2uUYV-t0.woff",
       "errored": false
     }
   ],
@@ -25,7 +25,7 @@
   "category": "display",
   "version": "v10",
   "lastModified": "2019-07-16",
-  "popularity": 381,
+  "popularity": 407,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

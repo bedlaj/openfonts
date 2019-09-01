@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=VdGfAZUfHosahXxYDkwT&skey=7de61f5b97e020bc&v=v7#Risque",
+      "woff2": "https://fonts.gstatic.com/s/risque/v7/VdGfAZUfHosahXxYDkwU.woff2",
       "fontFamily": "'Risque'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Risque",
         "Risque-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/risque/v7/VdGfAZUfHosahXxYDkwR.ttf",
-      "woff": "https://fonts.gstatic.com/s/risque/v7/VdGfAZUfHosahXxYDkwS.woff",
-      "woff2": "https://fonts.gstatic.com/s/risque/v7/VdGfAZUfHosahXxYDkwU.woff2",
       "eot": "https://fonts.gstatic.com/s/risque/v7/VdGfAZUfHosahXxYDkwQ.eot",
+      "woff": "https://fonts.gstatic.com/s/risque/v7/VdGfAZUfHosahXxYDkwS.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=VdGfAZUfHosahXxYDkwT&skey=7de61f5b97e020bc&v=v7#Risque",
+      "ttf": "https://fonts.gstatic.com/s/risque/v7/VdGfAZUfHosahXxYDkwR.ttf",
       "errored": false
     }
   ],
@@ -26,7 +26,7 @@
   "category": "display",
   "version": "v7",
   "lastModified": "2019-07-16",
-  "popularity": 877,
+  "popularity": 884,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/mclaren/v7/2EbnL-ZuAXFqZFXIeY8V9w.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=2EbnL-ZuAXFqZFXIeY8V9Q&skey=7a52c350b8e180c0&v=v7#McLaren",
       "fontFamily": "'McLaren'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -13,9 +13,9 @@
         "McLaren-Regular"
       ],
       "woff": "https://fonts.gstatic.com/s/mclaren/v7/2EbnL-ZuAXFqZFXIeY8V9A.woff",
-      "eot": "https://fonts.gstatic.com/s/mclaren/v7/2EbnL-ZuAXFqZFXIeY8V9g.eot",
       "woff2": "https://fonts.gstatic.com/s/mclaren/v7/2EbnL-ZuAXFqZFXIeY8V8g.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=2EbnL-ZuAXFqZFXIeY8V9Q&skey=7a52c350b8e180c0&v=v7#McLaren",
+      "eot": "https://fonts.gstatic.com/s/mclaren/v7/2EbnL-ZuAXFqZFXIeY8V9g.eot",
+      "ttf": "https://fonts.gstatic.com/s/mclaren/v7/2EbnL-ZuAXFqZFXIeY8V9w.ttf",
       "errored": false
     }
   ],
@@ -26,7 +26,7 @@
   "category": "display",
   "version": "v7",
   "lastModified": "2019-07-16",
-  "popularity": 555,
+  "popularity": 576,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

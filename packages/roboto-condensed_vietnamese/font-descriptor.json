@@ -61,25 +61,25 @@
         "Roboto Condensed Italic",
         "RobotoCondensed-Italic"
       ],
-      "woff2": "https://fonts.gstatic.com/s/robotocondensed/v18/ieVj2ZhZI2eCN5jzbjEETS9weq8-19eLAAM9.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=ieVj2ZhZI2eCN5jzbjEETS9weq8-19eLAAM6&skey=7b4bef3e83279e13&v=v18#RobotoCondensed",
       "ttf": "https://fonts.gstatic.com/s/robotocondensed/v18/ieVj2ZhZI2eCN5jzbjEETS9weq8-19eLAAM4.ttf",
+      "woff2": "https://fonts.gstatic.com/s/robotocondensed/v18/ieVj2ZhZI2eCN5jzbjEETS9weq8-19eLAAM9.woff2",
       "errored": false
     },
     {
       "id": "700",
-      "eot": "https://fonts.gstatic.com/s/robotocondensed/v18/ieVi2ZhZI2eCN5jzbjEETS9weq8-32meGCsYaw.eot",
+      "woff": "https://fonts.gstatic.com/s/robotocondensed/v18/ieVi2ZhZI2eCN5jzbjEETS9weq8-32meGCsYaQ.woff",
       "fontFamily": "'Roboto Condensed'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/robotocondensed/v18/ieVi2ZhZI2eCN5jzbjEETS9weq8-32meGCsYaQ.woff",
       "local": [
         "Roboto Condensed Bold",
         "RobotoCondensed-Bold"
       ],
+      "eot": "https://fonts.gstatic.com/s/robotocondensed/v18/ieVi2ZhZI2eCN5jzbjEETS9weq8-32meGCsYaw.eot",
       "woff2": "https://fonts.gstatic.com/s/robotocondensed/v18/ieVi2ZhZI2eCN5jzbjEETS9weq8-32meGCsYbw.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=ieVi2ZhZI2eCN5jzbjEETS9weq8-32meGCsYaA&skey=b54a1a8c4612f15a&v=v18#RobotoCondensed",
       "ttf": "https://fonts.gstatic.com/s/robotocondensed/v18/ieVi2ZhZI2eCN5jzbjEETS9weq8-32meGCsYag.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=ieVi2ZhZI2eCN5jzbjEETS9weq8-32meGCsYaA&skey=b54a1a8c4612f15a&v=v18#RobotoCondensed",
       "errored": false
     },
     {
@@ -93,20 +93,20 @@
         "Roboto Condensed Bold Italic",
         "RobotoCondensed-BoldItalic"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=ieVg2ZhZI2eCN5jzbjEETS9weq8-19eDtCYoYtNe&skey=1e9005c9612bc9e3&v=v18#RobotoCondensed",
       "woff2": "https://fonts.gstatic.com/s/robotocondensed/v18/ieVg2ZhZI2eCN5jzbjEETS9weq8-19eDtCYoYtNZ.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=ieVg2ZhZI2eCN5jzbjEETS9weq8-19eDtCYoYtNe&skey=1e9005c9612bc9e3&v=v18#RobotoCondensed",
       "ttf": "https://fonts.gstatic.com/s/robotocondensed/v18/ieVg2ZhZI2eCN5jzbjEETS9weq8-19eDtCYoYtNc.ttf",
       "errored": false
     }
   ],
   "subsets": [
+    "greek",
     "greek-ext",
     "vietnamese",
-    "greek",
     "latin",
-    "latin-ext",
+    "cyrillic-ext",
     "cyrillic",
-    "cyrillic-ext"
+    "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v18",
@@ -115,13 +115,13 @@
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
+    "greek": false,
     "greek-ext": false,
     "vietnamese": true,
-    "greek": false,
     "latin": true,
-    "latin-ext": false,
+    "cyrillic-ext": false,
     "cyrillic": false,
-    "cyrillic-ext": false
+    "latin-ext": false
   },
   "storeID": "latin_vietnamese"
 }

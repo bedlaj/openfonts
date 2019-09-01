@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/combo/v8/BXRlvF3Jh_fIhj0lDO4.woff2",
+      "eot": "https://fonts.gstatic.com/s/combo/v8/BXRlvF3Jh_fIhj0lDOo.eot",
       "fontFamily": "'Combo'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "ttf": "https://fonts.gstatic.com/s/combo/v8/BXRlvF3Jh_fIhj0lDOs.ttf",
       "local": [
         "Combo",
         "Combo-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/combo/v8/BXRlvF3Jh_fIhj0lDOo.eot",
-      "ttf": "https://fonts.gstatic.com/s/combo/v8/BXRlvF3Jh_fIhj0lDOs.ttf",
-      "woff": "https://fonts.gstatic.com/s/combo/v8/BXRlvF3Jh_fIhj0lDOg.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=BXRlvF3Jh_fIhj0lDOk&skey=5d39bfc218062a9c&v=v8#Combo",
+      "woff": "https://fonts.gstatic.com/s/combo/v8/BXRlvF3Jh_fIhj0lDOg.woff",
+      "woff2": "https://fonts.gstatic.com/s/combo/v8/BXRlvF3Jh_fIhj0lDO4.woff2",
       "errored": false
     }
   ],
@@ -26,7 +26,7 @@
   "category": "display",
   "version": "v8",
   "lastModified": "2019-07-16",
-  "popularity": 893,
+  "popularity": 899,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

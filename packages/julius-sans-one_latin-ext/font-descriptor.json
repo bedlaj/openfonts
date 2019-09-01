@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/juliussansone/v8/1Pt2g8TAX_SGgBGUi0tGOYEga5WOzHsX.woff2",
+      "woff": "https://fonts.gstatic.com/s/juliussansone/v8/1Pt2g8TAX_SGgBGUi0tGOYEga5WOzHsR.woff",
       "fontFamily": "'Julius Sans One'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Julius Sans One",
         "JuliusSansOne-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/juliussansone/v8/1Pt2g8TAX_SGgBGUi0tGOYEga5WOzHsR.woff",
-      "ttf": "https://fonts.gstatic.com/s/juliussansone/v8/1Pt2g8TAX_SGgBGUi0tGOYEga5WOzHsS.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=1Pt2g8TAX_SGgBGUi0tGOYEga5WOzHsQ&skey=11a1a6d9a3450da&v=v8#JuliusSansOne",
       "eot": "https://fonts.gstatic.com/s/juliussansone/v8/1Pt2g8TAX_SGgBGUi0tGOYEga5WOzHsT.eot",
+      "ttf": "https://fonts.gstatic.com/s/juliussansone/v8/1Pt2g8TAX_SGgBGUi0tGOYEga5WOzHsS.ttf",
+      "woff2": "https://fonts.gstatic.com/s/juliussansone/v8/1Pt2g8TAX_SGgBGUi0tGOYEga5WOzHsX.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=1Pt2g8TAX_SGgBGUi0tGOYEga5WOzHsQ&skey=11a1a6d9a3450da&v=v8#JuliusSansOne",
       "errored": false
     }
   ],
@@ -26,7 +26,7 @@
   "category": "sans-serif",
   "version": "v8",
   "lastModified": "2019-07-16",
-  "popularity": 225,
+  "popularity": 227,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

@@ -4,17 +4,17 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/diplomata/v11/Cn-0JtiMXwhNwp-wKxyvaWZf.woff",
+      "eot": "https://fonts.gstatic.com/s/diplomata/v11/Cn-0JtiMXwhNwp-wKxyvaWZd.eot",
       "fontFamily": "'Diplomata'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/diplomata/v11/Cn-0JtiMXwhNwp-wKxyvaWZZ.woff2",
       "local": [
         "Diplomata",
         "Diplomata-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/diplomata/v11/Cn-0JtiMXwhNwp-wKxyvaWZZ.woff2",
-      "eot": "https://fonts.gstatic.com/s/diplomata/v11/Cn-0JtiMXwhNwp-wKxyvaWZd.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=Cn-0JtiMXwhNwp-wKxyvaWZe&skey=226c83f2711f8678&v=v11#Diplomata",
+      "woff": "https://fonts.gstatic.com/s/diplomata/v11/Cn-0JtiMXwhNwp-wKxyvaWZf.woff",
       "ttf": "https://fonts.gstatic.com/s/diplomata/v11/Cn-0JtiMXwhNwp-wKxyvaWZc.ttf",
       "errored": false
     }
@@ -26,7 +26,7 @@
   "category": "display",
   "version": "v11",
   "lastModified": "2019-07-16",
-  "popularity": 758,
+  "popularity": 744,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

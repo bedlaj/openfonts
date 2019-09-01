@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Noa16Uzzzp2FIkfhq5vm9thxPg&skey=3699402d0d6ef054&v=v5#BalooBhaina",
+      "ttf": "https://fonts.gstatic.com/s/baloobhaina/v5/Noa16Uzzzp2FIkfhq5vm9thxPA.ttf",
       "fontFamily": "'Baloo Bhaina'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -15,27 +15,27 @@
       "woff": "https://fonts.gstatic.com/s/baloobhaina/v5/Noa16Uzzzp2FIkfhq5vm9thxPw.woff",
       "eot": "https://fonts.gstatic.com/s/baloobhaina/v5/Noa16Uzzzp2FIkfhq5vm9thxPQ.eot",
       "woff2": "https://fonts.gstatic.com/s/baloobhaina/v5/Noa16Uzzzp2FIkfhq5vm9thxOQ.woff2",
-      "ttf": "https://fonts.gstatic.com/s/baloobhaina/v5/Noa16Uzzzp2FIkfhq5vm9thxPA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Noa16Uzzzp2FIkfhq5vm9thxPg&skey=3699402d0d6ef054&v=v5#BalooBhaina",
       "errored": false
     }
   ],
   "subsets": [
+    "oriya",
     "vietnamese",
     "latin",
-    "latin-ext",
-    "oriya"
+    "latin-ext"
   ],
   "category": "display",
   "version": "v5",
   "lastModified": "2019-07-16",
-  "popularity": 401,
+  "popularity": 390,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
+    "oriya": true,
     "vietnamese": true,
     "latin": true,
-    "latin-ext": true,
-    "oriya": true
+    "latin-ext": true
   },
-  "storeID": "oriya_latin-ext_latin_vietnamese"
+  "storeID": "latin-ext_latin_vietnamese_oriya"
 }

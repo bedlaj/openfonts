@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/radley/v14/LYjDdGzinEIjCN1NpwND.woff",
+      "ttf": "https://fonts.gstatic.com/s/radley/v14/LYjDdGzinEIjCN1NpwNA.ttf",
       "fontFamily": "'Radley'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,26 +12,26 @@
         "Radley Regular",
         "Radley-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/radley/v14/LYjDdGzinEIjCN1NpwNA.ttf",
-      "woff2": "https://fonts.gstatic.com/s/radley/v14/LYjDdGzinEIjCN1NpwNF.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=LYjDdGzinEIjCN1NpwNC&skey=e57d4c4ee339b3e9&v=v14#Radley",
+      "woff": "https://fonts.gstatic.com/s/radley/v14/LYjDdGzinEIjCN1NpwND.woff",
       "eot": "https://fonts.gstatic.com/s/radley/v14/LYjDdGzinEIjCN1NpwNB.eot",
+      "woff2": "https://fonts.gstatic.com/s/radley/v14/LYjDdGzinEIjCN1NpwNF.woff2",
       "errored": false
     },
     {
       "id": "italic",
-      "woff2": "https://fonts.gstatic.com/s/radley/v14/LYjBdGzinEIjCN1NojNHjV8.woff2",
+      "eot": "https://fonts.gstatic.com/s/radley/v14/LYjBdGzinEIjCN1NojNHjVs.eot",
       "fontFamily": "'Radley'",
       "fontStyle": "italic",
       "fontWeight": "400",
+      "svg": "https://fonts.gstatic.com/l/font?kit=LYjBdGzinEIjCN1NojNHjVg&skey=f88eaec2b5b471b2&v=v14#Radley",
       "local": [
         "Radley Italic",
         "Radley-Italic"
       ],
-      "woff": "https://fonts.gstatic.com/s/radley/v14/LYjBdGzinEIjCN1NojNHjVk.woff",
-      "eot": "https://fonts.gstatic.com/s/radley/v14/LYjBdGzinEIjCN1NojNHjVs.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=LYjBdGzinEIjCN1NojNHjVg&skey=f88eaec2b5b471b2&v=v14#Radley",
+      "woff2": "https://fonts.gstatic.com/s/radley/v14/LYjBdGzinEIjCN1NojNHjV8.woff2",
       "ttf": "https://fonts.gstatic.com/s/radley/v14/LYjBdGzinEIjCN1NojNHjVo.ttf",
+      "woff": "https://fonts.gstatic.com/s/radley/v14/LYjBdGzinEIjCN1NojNHjVk.woff",
       "errored": false
     }
   ],
@@ -42,7 +42,7 @@
   "category": "serif",
   "version": "v14",
   "lastModified": "2019-07-16",
-  "popularity": 297,
+  "popularity": 291,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

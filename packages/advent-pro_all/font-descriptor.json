@@ -4,50 +4,18 @@
   "variants": [
     {
       "id": "100",
-      "woff": "https://fonts.gstatic.com/s/adventpro/v10/V8mCoQfxVT4Dvddr_yOwjVmtLg.woff",
+      "eot": "https://fonts.gstatic.com/s/adventpro/v10/V8mCoQfxVT4Dvddr_yOwjVmtLA.eot",
       "fontFamily": "'Advent Pro'",
       "fontStyle": "normal",
       "fontWeight": "100",
+      "woff2": "https://fonts.gstatic.com/s/adventpro/v10/V8mCoQfxVT4Dvddr_yOwjVmtKA.woff2",
       "local": [
         "Advent Pro Thin",
         "AdventPro-Thin"
       ],
-      "ttf": "https://fonts.gstatic.com/s/adventpro/v10/V8mCoQfxVT4Dvddr_yOwjVmtLQ.ttf",
-      "woff2": "https://fonts.gstatic.com/s/adventpro/v10/V8mCoQfxVT4Dvddr_yOwjVmtKA.woff2",
+      "woff": "https://fonts.gstatic.com/s/adventpro/v10/V8mCoQfxVT4Dvddr_yOwjVmtLg.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=V8mCoQfxVT4Dvddr_yOwjVmtLw&skey=39f352263cfcdefb&v=v10#AdventPro",
-      "eot": "https://fonts.gstatic.com/s/adventpro/v10/V8mCoQfxVT4Dvddr_yOwjVmtLA.eot",
-      "errored": false
-    },
-    {
-      "id": "200",
-      "woff": "https://fonts.gstatic.com/s/adventpro/v10/V8mDoQfxVT4Dvddr_yOwjfWMDbU.woff",
-      "fontFamily": "'Advent Pro'",
-      "fontStyle": "normal",
-      "fontWeight": "200",
-      "local": [
-        "Advent Pro ExtraLight",
-        "AdventPro-ExtraLight"
-      ],
-      "eot": "https://fonts.gstatic.com/s/adventpro/v10/V8mDoQfxVT4Dvddr_yOwjfWMDbc.eot",
-      "woff2": "https://fonts.gstatic.com/s/adventpro/v10/V8mDoQfxVT4Dvddr_yOwjfWMDbM.woff2",
-      "ttf": "https://fonts.gstatic.com/s/adventpro/v10/V8mDoQfxVT4Dvddr_yOwjfWMDbY.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=V8mDoQfxVT4Dvddr_yOwjfWMDbQ&skey=a8f9bab76971672c&v=v10#AdventPro",
-      "errored": false
-    },
-    {
-      "id": "300",
-      "eot": "https://fonts.gstatic.com/s/adventpro/v10/V8mDoQfxVT4Dvddr_yOwjZGPDbc.eot",
-      "fontFamily": "'Advent Pro'",
-      "fontStyle": "normal",
-      "fontWeight": "300",
-      "woff": "https://fonts.gstatic.com/s/adventpro/v10/V8mDoQfxVT4Dvddr_yOwjZGPDbU.woff",
-      "local": [
-        "Advent Pro Light",
-        "AdventPro-Light"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=V8mDoQfxVT4Dvddr_yOwjZGPDbQ&skey=4515d2b87cabd51f&v=v10#AdventPro",
-      "woff2": "https://fonts.gstatic.com/s/adventpro/v10/V8mDoQfxVT4Dvddr_yOwjZGPDbM.woff2",
-      "ttf": "https://fonts.gstatic.com/s/adventpro/v10/V8mDoQfxVT4Dvddr_yOwjZGPDbY.ttf",
+      "ttf": "https://fonts.gstatic.com/s/adventpro/v10/V8mCoQfxVT4Dvddr_yOwjVmtLQ.ttf",
       "errored": false
     },
     {
@@ -67,6 +35,38 @@
       "errored": false
     },
     {
+      "id": "300",
+      "woff": "https://fonts.gstatic.com/s/adventpro/v10/V8mDoQfxVT4Dvddr_yOwjZGPDbU.woff",
+      "fontFamily": "'Advent Pro'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "local": [
+        "Advent Pro Light",
+        "AdventPro-Light"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/adventpro/v10/V8mDoQfxVT4Dvddr_yOwjZGPDbM.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=V8mDoQfxVT4Dvddr_yOwjZGPDbQ&skey=4515d2b87cabd51f&v=v10#AdventPro",
+      "ttf": "https://fonts.gstatic.com/s/adventpro/v10/V8mDoQfxVT4Dvddr_yOwjZGPDbY.ttf",
+      "eot": "https://fonts.gstatic.com/s/adventpro/v10/V8mDoQfxVT4Dvddr_yOwjZGPDbc.eot",
+      "errored": false
+    },
+    {
+      "id": "200",
+      "eot": "https://fonts.gstatic.com/s/adventpro/v10/V8mDoQfxVT4Dvddr_yOwjfWMDbc.eot",
+      "fontFamily": "'Advent Pro'",
+      "fontStyle": "normal",
+      "fontWeight": "200",
+      "woff": "https://fonts.gstatic.com/s/adventpro/v10/V8mDoQfxVT4Dvddr_yOwjfWMDbU.woff",
+      "local": [
+        "Advent Pro ExtraLight",
+        "AdventPro-ExtraLight"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/adventpro/v10/V8mDoQfxVT4Dvddr_yOwjfWMDbM.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=V8mDoQfxVT4Dvddr_yOwjfWMDbQ&skey=a8f9bab76971672c&v=v10#AdventPro",
+      "ttf": "https://fonts.gstatic.com/s/adventpro/v10/V8mDoQfxVT4Dvddr_yOwjfWMDbY.ttf",
+      "errored": false
+    },
+    {
       "id": "500",
       "eot": "https://fonts.gstatic.com/s/adventpro/v10/V8mDoQfxVT4Dvddr_yOwjcmODbc.eot",
       "fontFamily": "'Advent Pro'",
@@ -77,23 +77,23 @@
         "Advent Pro Medium",
         "AdventPro-Medium"
       ],
-      "woff2": "https://fonts.gstatic.com/s/adventpro/v10/V8mDoQfxVT4Dvddr_yOwjcmODbM.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=V8mDoQfxVT4Dvddr_yOwjcmODbQ&skey=1e9961e60fd847ac&v=v10#AdventPro",
       "ttf": "https://fonts.gstatic.com/s/adventpro/v10/V8mDoQfxVT4Dvddr_yOwjcmODbY.ttf",
+      "woff2": "https://fonts.gstatic.com/s/adventpro/v10/V8mDoQfxVT4Dvddr_yOwjcmODbM.woff2",
       "errored": false
     },
     {
       "id": "600",
-      "woff": "https://fonts.gstatic.com/s/adventpro/v10/V8mDoQfxVT4Dvddr_yOwjeWJDbU.woff",
+      "eot": "https://fonts.gstatic.com/s/adventpro/v10/V8mDoQfxVT4Dvddr_yOwjeWJDbc.eot",
       "fontFamily": "'Advent Pro'",
       "fontStyle": "normal",
       "fontWeight": "600",
+      "woff": "https://fonts.gstatic.com/s/adventpro/v10/V8mDoQfxVT4Dvddr_yOwjeWJDbU.woff",
       "local": [
         "Advent Pro SemiBold",
         "AdventPro-SemiBold"
       ],
       "woff2": "https://fonts.gstatic.com/s/adventpro/v10/V8mDoQfxVT4Dvddr_yOwjeWJDbM.woff2",
-      "eot": "https://fonts.gstatic.com/s/adventpro/v10/V8mDoQfxVT4Dvddr_yOwjeWJDbc.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=V8mDoQfxVT4Dvddr_yOwjeWJDbQ&skey=cc01488abf93c39b&v=v10#AdventPro",
       "ttf": "https://fonts.gstatic.com/s/adventpro/v10/V8mDoQfxVT4Dvddr_yOwjeWJDbY.ttf",
       "errored": false
@@ -104,13 +104,13 @@
       "fontFamily": "'Advent Pro'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/adventpro/v10/V8mDoQfxVT4Dvddr_yOwjYGIDbU.woff",
+      "woff2": "https://fonts.gstatic.com/s/adventpro/v10/V8mDoQfxVT4Dvddr_yOwjYGIDbM.woff2",
       "local": [
         "Advent Pro Bold",
         "AdventPro-Bold"
       ],
+      "woff": "https://fonts.gstatic.com/s/adventpro/v10/V8mDoQfxVT4Dvddr_yOwjYGIDbU.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=V8mDoQfxVT4Dvddr_yOwjYGIDbQ&skey=2ccfc5338aad45a&v=v10#AdventPro",
-      "woff2": "https://fonts.gstatic.com/s/adventpro/v10/V8mDoQfxVT4Dvddr_yOwjYGIDbM.woff2",
       "ttf": "https://fonts.gstatic.com/s/adventpro/v10/V8mDoQfxVT4Dvddr_yOwjYGIDbY.ttf",
       "errored": false
     }
@@ -123,7 +123,7 @@
   "category": "sans-serif",
   "version": "v10",
   "lastModified": "2019-07-16",
-  "popularity": 193,
+  "popularity": 197,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

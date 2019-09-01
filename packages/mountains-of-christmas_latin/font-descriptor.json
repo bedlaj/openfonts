@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/mountainsofchristmas/v12/3y9w6a4zcCnn5X0FDyrKi2ZRUBIy8uxoUo7eDNGsMQ.woff2",
+      "woff": "https://fonts.gstatic.com/s/mountainsofchristmas/v12/3y9w6a4zcCnn5X0FDyrKi2ZRUBIy8uxoUo7eDNGsNw.woff",
       "fontFamily": "'Mountains of Christmas'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,15 +12,15 @@
         "Mountains of Christmas Regular",
         "MountainsofChristmas-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=3y9w6a4zcCnn5X0FDyrKi2ZRUBIy8uxoUo7eDNGsNg&skey=d3b4d63b5003aa4a&v=v12#MountainsofChristmas",
-      "ttf": "https://fonts.gstatic.com/s/mountainsofchristmas/v12/3y9w6a4zcCnn5X0FDyrKi2ZRUBIy8uxoUo7eDNGsNA.ttf",
+      "woff2": "https://fonts.gstatic.com/s/mountainsofchristmas/v12/3y9w6a4zcCnn5X0FDyrKi2ZRUBIy8uxoUo7eDNGsMQ.woff2",
       "eot": "https://fonts.gstatic.com/s/mountainsofchristmas/v12/3y9w6a4zcCnn5X0FDyrKi2ZRUBIy8uxoUo7eDNGsNQ.eot",
-      "woff": "https://fonts.gstatic.com/s/mountainsofchristmas/v12/3y9w6a4zcCnn5X0FDyrKi2ZRUBIy8uxoUo7eDNGsNw.woff",
+      "ttf": "https://fonts.gstatic.com/s/mountainsofchristmas/v12/3y9w6a4zcCnn5X0FDyrKi2ZRUBIy8uxoUo7eDNGsNA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=3y9w6a4zcCnn5X0FDyrKi2ZRUBIy8uxoUo7eDNGsNg&skey=d3b4d63b5003aa4a&v=v12#MountainsofChristmas",
       "errored": false
     },
     {
       "id": "700",
-      "woff": "https://fonts.gstatic.com/s/mountainsofchristmas/v12/3y9z6a4zcCnn5X0FDyrKi2ZRUBIy8uxoUo7eBGqJJPxIPQ.woff",
+      "woff2": "https://fonts.gstatic.com/s/mountainsofchristmas/v12/3y9z6a4zcCnn5X0FDyrKi2ZRUBIy8uxoUo7eBGqJJPxIOw.woff2",
       "fontFamily": "'Mountains of Christmas'",
       "fontStyle": "normal",
       "fontWeight": "700",
@@ -28,10 +28,10 @@
         "Mountains of Christmas Bold",
         "MountainsofChristmas-Bold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/mountainsofchristmas/v12/3y9z6a4zcCnn5X0FDyrKi2ZRUBIy8uxoUo7eBGqJJPxIOw.woff2",
-      "eot": "https://fonts.gstatic.com/s/mountainsofchristmas/v12/3y9z6a4zcCnn5X0FDyrKi2ZRUBIy8uxoUo7eBGqJJPxIPw.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=3y9z6a4zcCnn5X0FDyrKi2ZRUBIy8uxoUo7eBGqJJPxIPA&skey=cc188c4b1060ab5c&v=v12#MountainsofChristmas",
       "ttf": "https://fonts.gstatic.com/s/mountainsofchristmas/v12/3y9z6a4zcCnn5X0FDyrKi2ZRUBIy8uxoUo7eBGqJJPxIPg.ttf",
+      "eot": "https://fonts.gstatic.com/s/mountainsofchristmas/v12/3y9z6a4zcCnn5X0FDyrKi2ZRUBIy8uxoUo7eBGqJJPxIPw.eot",
+      "woff": "https://fonts.gstatic.com/s/mountainsofchristmas/v12/3y9z6a4zcCnn5X0FDyrKi2ZRUBIy8uxoUo7eBGqJJPxIPQ.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=3y9z6a4zcCnn5X0FDyrKi2ZRUBIy8uxoUo7eBGqJJPxIPA&skey=cc188c4b1060ab5c&v=v12#MountainsofChristmas",
       "errored": false
     }
   ],
@@ -41,7 +41,7 @@
   "category": "display",
   "version": "v12",
   "lastModified": "2019-07-16",
-  "popularity": 330,
+  "popularity": 327,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

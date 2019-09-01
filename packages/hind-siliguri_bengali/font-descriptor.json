@@ -4,18 +4,50 @@
   "variants": [
     {
       "id": "300",
-      "woff": "https://fonts.gstatic.com/s/hindsiliguri/v6/ijwOs5juQtsyLLR5jN4cxBEoRDf40vQVLQ.woff",
+      "eot": "https://fonts.gstatic.com/s/hindsiliguri/v6/ijwOs5juQtsyLLR5jN4cxBEoRDf40vQVLw.eot",
       "fontFamily": "'Hind Siliguri'",
       "fontStyle": "normal",
       "fontWeight": "300",
+      "woff": "https://fonts.gstatic.com/s/hindsiliguri/v6/ijwOs5juQtsyLLR5jN4cxBEoRDf40vQVLQ.woff",
       "local": [
         "Hind Siliguri Light",
         "HindSiliguri-Light"
       ],
-      "ttf": "https://fonts.gstatic.com/s/hindsiliguri/v6/ijwOs5juQtsyLLR5jN4cxBEoRDf40vQVLg.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=ijwOs5juQtsyLLR5jN4cxBEoRDf40vQVLA&skey=285dedcdf7848409&v=v6#HindSiliguri",
       "woff2": "https://fonts.gstatic.com/s/hindsiliguri/v6/ijwOs5juQtsyLLR5jN4cxBEoRDf40vQVKw.woff2",
-      "eot": "https://fonts.gstatic.com/s/hindsiliguri/v6/ijwOs5juQtsyLLR5jN4cxBEoRDf40vQVLw.eot",
+      "ttf": "https://fonts.gstatic.com/s/hindsiliguri/v6/ijwOs5juQtsyLLR5jN4cxBEoRDf40vQVLg.ttf",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/hindsiliguri/v6/ijwTs5juQtsyLLR5jN4cxBEoTI7aww.eot",
+      "fontFamily": "'Hind Siliguri'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/hindsiliguri/v6/ijwTs5juQtsyLLR5jN4cxBEoTI7axw.woff2",
+      "local": [
+        "Hind Siliguri Regular",
+        "HindSiliguri-Regular"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/hindsiliguri/v6/ijwTs5juQtsyLLR5jN4cxBEoTI7awg.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=ijwTs5juQtsyLLR5jN4cxBEoTI7awA&skey=5aed9b95d255b37c&v=v6#HindSiliguri",
+      "woff": "https://fonts.gstatic.com/s/hindsiliguri/v6/ijwTs5juQtsyLLR5jN4cxBEoTI7awQ.woff",
+      "errored": false
+    },
+    {
+      "id": "500",
+      "eot": "https://fonts.gstatic.com/s/hindsiliguri/v6/ijwOs5juQtsyLLR5jN4cxBEoRG_50vQVLw.eot",
+      "fontFamily": "'Hind Siliguri'",
+      "fontStyle": "normal",
+      "fontWeight": "500",
+      "woff": "https://fonts.gstatic.com/s/hindsiliguri/v6/ijwOs5juQtsyLLR5jN4cxBEoRG_50vQVLQ.woff",
+      "local": [
+        "Hind Siliguri Medium",
+        "HindSiliguri-Medium"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/hindsiliguri/v6/ijwOs5juQtsyLLR5jN4cxBEoRG_50vQVKw.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=ijwOs5juQtsyLLR5jN4cxBEoRG_50vQVLA&skey=ce4ad4f45fe03f15&v=v6#HindSiliguri",
+      "ttf": "https://fonts.gstatic.com/s/hindsiliguri/v6/ijwOs5juQtsyLLR5jN4cxBEoRG_50vQVLg.ttf",
       "errored": false
     },
     {
@@ -24,80 +56,48 @@
       "fontFamily": "'Hind Siliguri'",
       "fontStyle": "normal",
       "fontWeight": "600",
-      "woff": "https://fonts.gstatic.com/s/hindsiliguri/v6/ijwOs5juQtsyLLR5jN4cxBEoREP-0vQVLQ.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=ijwOs5juQtsyLLR5jN4cxBEoREP-0vQVLA&skey=66f00c40586bb1f9&v=v6#HindSiliguri",
       "local": [
         "Hind Siliguri SemiBold",
         "HindSiliguri-SemiBold"
       ],
       "woff2": "https://fonts.gstatic.com/s/hindsiliguri/v6/ijwOs5juQtsyLLR5jN4cxBEoREP-0vQVKw.woff2",
+      "woff": "https://fonts.gstatic.com/s/hindsiliguri/v6/ijwOs5juQtsyLLR5jN4cxBEoREP-0vQVLQ.woff",
       "ttf": "https://fonts.gstatic.com/s/hindsiliguri/v6/ijwOs5juQtsyLLR5jN4cxBEoREP-0vQVLg.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=ijwOs5juQtsyLLR5jN4cxBEoREP-0vQVLA&skey=66f00c40586bb1f9&v=v6#HindSiliguri",
-      "errored": false
-    },
-    {
-      "id": "500",
-      "woff": "https://fonts.gstatic.com/s/hindsiliguri/v6/ijwOs5juQtsyLLR5jN4cxBEoRG_50vQVLQ.woff",
-      "fontFamily": "'Hind Siliguri'",
-      "fontStyle": "normal",
-      "fontWeight": "500",
-      "local": [
-        "Hind Siliguri Medium",
-        "HindSiliguri-Medium"
-      ],
-      "eot": "https://fonts.gstatic.com/s/hindsiliguri/v6/ijwOs5juQtsyLLR5jN4cxBEoRG_50vQVLw.eot",
-      "woff2": "https://fonts.gstatic.com/s/hindsiliguri/v6/ijwOs5juQtsyLLR5jN4cxBEoRG_50vQVKw.woff2",
-      "ttf": "https://fonts.gstatic.com/s/hindsiliguri/v6/ijwOs5juQtsyLLR5jN4cxBEoRG_50vQVLg.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=ijwOs5juQtsyLLR5jN4cxBEoRG_50vQVLA&skey=ce4ad4f45fe03f15&v=v6#HindSiliguri",
-      "errored": false
-    },
-    {
-      "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=ijwTs5juQtsyLLR5jN4cxBEoTI7awA&skey=5aed9b95d255b37c&v=v6#HindSiliguri",
-      "fontFamily": "'Hind Siliguri'",
-      "fontStyle": "normal",
-      "fontWeight": "400",
-      "local": [
-        "Hind Siliguri Regular",
-        "HindSiliguri-Regular"
-      ],
-      "woff": "https://fonts.gstatic.com/s/hindsiliguri/v6/ijwTs5juQtsyLLR5jN4cxBEoTI7awQ.woff",
-      "ttf": "https://fonts.gstatic.com/s/hindsiliguri/v6/ijwTs5juQtsyLLR5jN4cxBEoTI7awg.ttf",
-      "woff2": "https://fonts.gstatic.com/s/hindsiliguri/v6/ijwTs5juQtsyLLR5jN4cxBEoTI7axw.woff2",
-      "eot": "https://fonts.gstatic.com/s/hindsiliguri/v6/ijwTs5juQtsyLLR5jN4cxBEoTI7aww.eot",
       "errored": false
     },
     {
       "id": "700",
-      "eot": "https://fonts.gstatic.com/s/hindsiliguri/v6/ijwOs5juQtsyLLR5jN4cxBEoRCf_0vQVLw.eot",
+      "woff2": "https://fonts.gstatic.com/s/hindsiliguri/v6/ijwOs5juQtsyLLR5jN4cxBEoRCf_0vQVKw.woff2",
       "fontFamily": "'Hind Siliguri'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/hindsiliguri/v6/ijwOs5juQtsyLLR5jN4cxBEoRCf_0vQVLQ.woff",
       "local": [
         "Hind Siliguri Bold",
         "HindSiliguri-Bold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/hindsiliguri/v6/ijwOs5juQtsyLLR5jN4cxBEoRCf_0vQVKw.woff2",
       "ttf": "https://fonts.gstatic.com/s/hindsiliguri/v6/ijwOs5juQtsyLLR5jN4cxBEoRCf_0vQVLg.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=ijwOs5juQtsyLLR5jN4cxBEoRCf_0vQVLA&skey=abb4efea7259d7b0&v=v6#HindSiliguri",
+      "eot": "https://fonts.gstatic.com/s/hindsiliguri/v6/ijwOs5juQtsyLLR5jN4cxBEoRCf_0vQVLw.eot",
+      "woff": "https://fonts.gstatic.com/s/hindsiliguri/v6/ijwOs5juQtsyLLR5jN4cxBEoRCf_0vQVLQ.woff",
       "errored": false
     }
   ],
   "subsets": [
     "latin",
-    "latin-ext",
-    "bengali"
+    "bengali",
+    "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v6",
   "lastModified": "2019-07-17",
-  "popularity": 66,
+  "popularity": 64,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "latin": true,
-    "latin-ext": false,
-    "bengali": true
+    "bengali": true,
+    "latin-ext": false
   },
   "storeID": "bengali_latin"
 }

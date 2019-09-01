@@ -4,34 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/puritan/v11/845YNMgkAJ2VTtIoxJ36Qg.woff",
+      "eot": "https://fonts.gstatic.com/s/puritan/v11/845YNMgkAJ2VTtIoxJ36QA.eot",
       "fontFamily": "'Puritan'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/puritan/v11/845YNMgkAJ2VTtIoxJ36Qg.woff",
       "local": [
         "Puritan Regular",
         "Puritan-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=845YNMgkAJ2VTtIoxJ36Qw&skey=c4ee420d84cc3c41&v=v11#Puritan",
-      "eot": "https://fonts.gstatic.com/s/puritan/v11/845YNMgkAJ2VTtIoxJ36QA.eot",
       "woff2": "https://fonts.gstatic.com/s/puritan/v11/845YNMgkAJ2VTtIoxJ36RA.woff2",
       "ttf": "https://fonts.gstatic.com/s/puritan/v11/845YNMgkAJ2VTtIoxJ36QQ.ttf",
-      "errored": false
-    },
-    {
-      "id": "italic",
-      "woff2": "https://fonts.gstatic.com/s/puritan/v11/845aNMgkAJ2VTtIoxJjKRv6M.woff2",
-      "fontFamily": "'Puritan'",
-      "fontStyle": "italic",
-      "fontWeight": "400",
-      "local": [
-        "Puritan Italic",
-        "Puritan-Italic"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=845aNMgkAJ2VTtIoxJjKRv6L&skey=7a03ceb3f7ea5f17&v=v11#Puritan",
-      "eot": "https://fonts.gstatic.com/s/puritan/v11/845aNMgkAJ2VTtIoxJjKRv6I.eot",
-      "woff": "https://fonts.gstatic.com/s/puritan/v11/845aNMgkAJ2VTtIoxJjKRv6K.woff",
-      "ttf": "https://fonts.gstatic.com/s/puritan/v11/845aNMgkAJ2VTtIoxJjKRv6J.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=845YNMgkAJ2VTtIoxJ36Qw&skey=c4ee420d84cc3c41&v=v11#Puritan",
       "errored": false
     },
     {
@@ -65,6 +49,22 @@
       "svg": "https://fonts.gstatic.com/l/font?kit=845fNMgkAJ2VTtIoxJjC_duZ-GLF&skey=c4f924ac51adaaa0&v=v11#Puritan",
       "ttf": "https://fonts.gstatic.com/s/puritan/v11/845fNMgkAJ2VTtIoxJjC_duZ-GLH.ttf",
       "errored": false
+    },
+    {
+      "id": "italic",
+      "eot": "https://fonts.gstatic.com/s/puritan/v11/845aNMgkAJ2VTtIoxJjKRv6I.eot",
+      "fontFamily": "'Puritan'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/puritan/v11/845aNMgkAJ2VTtIoxJjKRv6M.woff2",
+      "local": [
+        "Puritan Italic",
+        "Puritan-Italic"
+      ],
+      "woff": "https://fonts.gstatic.com/s/puritan/v11/845aNMgkAJ2VTtIoxJjKRv6K.woff",
+      "ttf": "https://fonts.gstatic.com/s/puritan/v11/845aNMgkAJ2VTtIoxJjKRv6J.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=845aNMgkAJ2VTtIoxJjKRv6L&skey=7a03ceb3f7ea5f17&v=v11#Puritan",
+      "errored": false
     }
   ],
   "subsets": [
@@ -73,7 +73,7 @@
   "category": "sans-serif",
   "version": "v11",
   "lastModified": "2019-07-16",
-  "popularity": 553,
+  "popularity": 559,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

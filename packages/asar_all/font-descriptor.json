@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/asar/v7/sZlLdRyI6TBIXkU.woff",
+      "woff2": "https://fonts.gstatic.com/s/asar/v7/sZlLdRyI6TBIXkM.woff2",
       "fontFamily": "'Asar'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,28 +12,28 @@
         "Asar Regular",
         "Asar-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/asar/v7/sZlLdRyI6TBIXkM.woff2",
+      "ttf": "https://fonts.gstatic.com/s/asar/v7/sZlLdRyI6TBIXkY.ttf",
+      "woff": "https://fonts.gstatic.com/s/asar/v7/sZlLdRyI6TBIXkU.woff",
       "eot": "https://fonts.gstatic.com/s/asar/v7/sZlLdRyI6TBIXkc.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=sZlLdRyI6TBIXkQ&skey=a29dbc6a54d5d953&v=v7#Asar",
-      "ttf": "https://fonts.gstatic.com/s/asar/v7/sZlLdRyI6TBIXkY.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
     "devanagari",
+    "latin",
     "latin-ext"
   ],
   "category": "serif",
   "version": "v7",
   "lastModified": "2019-07-16",
-  "popularity": 798,
+  "popularity": 810,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
     "devanagari": true,
+    "latin": true,
     "latin-ext": true
   },
-  "storeID": "latin-ext_devanagari_latin"
+  "storeID": "latin-ext_latin_devanagari"
 }

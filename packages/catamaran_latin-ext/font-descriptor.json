@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "100",
-      "woff": "https://fonts.gstatic.com/s/catamaran/v6/o-0OIpQoyXQa2RxT7-5jhgRMQ_8.woff",
+      "eot": "https://fonts.gstatic.com/s/catamaran/v6/o-0OIpQoyXQa2RxT7-5jhgRMQ_0.eot",
       "fontFamily": "'Catamaran'",
       "fontStyle": "normal",
       "fontWeight": "100",
+      "woff": "https://fonts.gstatic.com/s/catamaran/v6/o-0OIpQoyXQa2RxT7-5jhgRMQ_8.woff",
       "local": [
         "Catamaran Thin",
         "Catamaran-Thin"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=o-0OIpQoyXQa2RxT7-5jhgRMQ_4&skey=a9b56938d2f1cef2&v=v6#Catamaran",
       "woff2": "https://fonts.gstatic.com/s/catamaran/v6/o-0OIpQoyXQa2RxT7-5jhgRMQ_k.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=o-0OIpQoyXQa2RxT7-5jhgRMQ_4&skey=a9b56938d2f1cef2&v=v6#Catamaran",
       "ttf": "https://fonts.gstatic.com/s/catamaran/v6/o-0OIpQoyXQa2RxT7-5jhgRMQ_w.ttf",
-      "eot": "https://fonts.gstatic.com/s/catamaran/v6/o-0OIpQoyXQa2RxT7-5jhgRMQ_0.eot",
       "errored": false
     },
     {
@@ -24,30 +24,14 @@
       "fontFamily": "'Catamaran'",
       "fontStyle": "normal",
       "fontWeight": "200",
-      "woff2": "https://fonts.gstatic.com/s/catamaran/v6/o-0NIpQoyXQa2RxT7-5jKhVVatyB.woff2",
+      "woff": "https://fonts.gstatic.com/s/catamaran/v6/o-0NIpQoyXQa2RxT7-5jKhVVatyH.woff",
       "local": [
         "Catamaran ExtraLight",
         "Catamaran-ExtraLight"
       ],
-      "ttf": "https://fonts.gstatic.com/s/catamaran/v6/o-0NIpQoyXQa2RxT7-5jKhVVatyE.ttf",
+      "woff2": "https://fonts.gstatic.com/s/catamaran/v6/o-0NIpQoyXQa2RxT7-5jKhVVatyB.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=o-0NIpQoyXQa2RxT7-5jKhVVatyG&skey=94ef7a70ab64c3a3&v=v6#Catamaran",
-      "woff": "https://fonts.gstatic.com/s/catamaran/v6/o-0NIpQoyXQa2RxT7-5jKhVVatyH.woff",
-      "errored": false
-    },
-    {
-      "id": "300",
-      "eot": "https://fonts.gstatic.com/s/catamaran/v6/o-0NIpQoyXQa2RxT7-5jThZVatyF.eot",
-      "fontFamily": "'Catamaran'",
-      "fontStyle": "normal",
-      "fontWeight": "300",
-      "woff": "https://fonts.gstatic.com/s/catamaran/v6/o-0NIpQoyXQa2RxT7-5jThZVatyH.woff",
-      "local": [
-        "Catamaran Light",
-        "Catamaran-Light"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/catamaran/v6/o-0NIpQoyXQa2RxT7-5jThZVatyB.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=o-0NIpQoyXQa2RxT7-5jThZVatyG&skey=4b5f965596e3b29f&v=v6#Catamaran",
-      "ttf": "https://fonts.gstatic.com/s/catamaran/v6/o-0NIpQoyXQa2RxT7-5jThZVatyE.ttf",
+      "ttf": "https://fonts.gstatic.com/s/catamaran/v6/o-0NIpQoyXQa2RxT7-5jKhVVatyE.ttf",
       "errored": false
     },
     {
@@ -78,8 +62,24 @@
         "Catamaran-Medium"
       ],
       "woff2": "https://fonts.gstatic.com/s/catamaran/v6/o-0NIpQoyXQa2RxT7-5jFhdVatyB.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=o-0NIpQoyXQa2RxT7-5jFhdVatyG&skey=1f7c0bfcad7e7889&v=v6#Catamaran",
       "ttf": "https://fonts.gstatic.com/s/catamaran/v6/o-0NIpQoyXQa2RxT7-5jFhdVatyE.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=o-0NIpQoyXQa2RxT7-5jFhdVatyG&skey=1f7c0bfcad7e7889&v=v6#Catamaran",
+      "errored": false
+    },
+    {
+      "id": "300",
+      "woff": "https://fonts.gstatic.com/s/catamaran/v6/o-0NIpQoyXQa2RxT7-5jThZVatyH.woff",
+      "fontFamily": "'Catamaran'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "local": [
+        "Catamaran Light",
+        "Catamaran-Light"
+      ],
+      "eot": "https://fonts.gstatic.com/s/catamaran/v6/o-0NIpQoyXQa2RxT7-5jThZVatyF.eot",
+      "woff2": "https://fonts.gstatic.com/s/catamaran/v6/o-0NIpQoyXQa2RxT7-5jThZVatyB.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=o-0NIpQoyXQa2RxT7-5jThZVatyG&skey=4b5f965596e3b29f&v=v6#Catamaran",
+      "ttf": "https://fonts.gstatic.com/s/catamaran/v6/o-0NIpQoyXQa2RxT7-5jThZVatyE.ttf",
       "errored": false
     },
     {
@@ -93,9 +93,9 @@
         "Catamaran SemiBold",
         "Catamaran-SemiBold"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=o-0NIpQoyXQa2RxT7-5jOhBVatyG&skey=6135f1cc0c1b3810&v=v6#Catamaran",
       "woff2": "https://fonts.gstatic.com/s/catamaran/v6/o-0NIpQoyXQa2RxT7-5jOhBVatyB.woff2",
       "ttf": "https://fonts.gstatic.com/s/catamaran/v6/o-0NIpQoyXQa2RxT7-5jOhBVatyE.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=o-0NIpQoyXQa2RxT7-5jOhBVatyG&skey=6135f1cc0c1b3810&v=v6#Catamaran",
       "errored": false
     },
     {
@@ -104,14 +104,30 @@
       "fontFamily": "'Catamaran'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/catamaran/v6/o-0NIpQoyXQa2RxT7-5jXhFVatyH.woff",
+      "woff2": "https://fonts.gstatic.com/s/catamaran/v6/o-0NIpQoyXQa2RxT7-5jXhFVatyB.woff2",
       "local": [
         "Catamaran Bold",
         "Catamaran-Bold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/catamaran/v6/o-0NIpQoyXQa2RxT7-5jXhFVatyB.woff2",
-      "ttf": "https://fonts.gstatic.com/s/catamaran/v6/o-0NIpQoyXQa2RxT7-5jXhFVatyE.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=o-0NIpQoyXQa2RxT7-5jXhFVatyG&skey=57b3a2830111dbc0&v=v6#Catamaran",
+      "woff": "https://fonts.gstatic.com/s/catamaran/v6/o-0NIpQoyXQa2RxT7-5jXhFVatyH.woff",
+      "ttf": "https://fonts.gstatic.com/s/catamaran/v6/o-0NIpQoyXQa2RxT7-5jXhFVatyE.ttf",
+      "errored": false
+    },
+    {
+      "id": "900",
+      "eot": "https://fonts.gstatic.com/s/catamaran/v6/o-0NIpQoyXQa2RxT7-5jZhNVatyF.eot",
+      "fontFamily": "'Catamaran'",
+      "fontStyle": "normal",
+      "fontWeight": "900",
+      "woff": "https://fonts.gstatic.com/s/catamaran/v6/o-0NIpQoyXQa2RxT7-5jZhNVatyH.woff",
+      "local": [
+        "Catamaran Black",
+        "Catamaran-Black"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=o-0NIpQoyXQa2RxT7-5jZhNVatyG&skey=9770b7dd9fa233f5&v=v6#Catamaran",
+      "ttf": "https://fonts.gstatic.com/s/catamaran/v6/o-0NIpQoyXQa2RxT7-5jZhNVatyE.ttf",
+      "woff2": "https://fonts.gstatic.com/s/catamaran/v6/o-0NIpQoyXQa2RxT7-5jZhNVatyB.woff2",
       "errored": false
     },
     {
@@ -125,43 +141,27 @@
         "Catamaran ExtraBold",
         "Catamaran-ExtraBold"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=o-0NIpQoyXQa2RxT7-5jQhJVatyG&skey=474b56ec2b042111&v=v6#Catamaran",
-      "ttf": "https://fonts.gstatic.com/s/catamaran/v6/o-0NIpQoyXQa2RxT7-5jQhJVatyE.ttf",
       "woff2": "https://fonts.gstatic.com/s/catamaran/v6/o-0NIpQoyXQa2RxT7-5jQhJVatyB.woff2",
-      "errored": false
-    },
-    {
-      "id": "900",
-      "eot": "https://fonts.gstatic.com/s/catamaran/v6/o-0NIpQoyXQa2RxT7-5jZhNVatyF.eot",
-      "fontFamily": "'Catamaran'",
-      "fontStyle": "normal",
-      "fontWeight": "900",
-      "woff2": "https://fonts.gstatic.com/s/catamaran/v6/o-0NIpQoyXQa2RxT7-5jZhNVatyB.woff2",
-      "local": [
-        "Catamaran Black",
-        "Catamaran-Black"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=o-0NIpQoyXQa2RxT7-5jZhNVatyG&skey=9770b7dd9fa233f5&v=v6#Catamaran",
-      "ttf": "https://fonts.gstatic.com/s/catamaran/v6/o-0NIpQoyXQa2RxT7-5jZhNVatyE.ttf",
-      "woff": "https://fonts.gstatic.com/s/catamaran/v6/o-0NIpQoyXQa2RxT7-5jZhNVatyH.woff",
+      "ttf": "https://fonts.gstatic.com/s/catamaran/v6/o-0NIpQoyXQa2RxT7-5jQhJVatyE.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=o-0NIpQoyXQa2RxT7-5jQhJVatyG&skey=474b56ec2b042111&v=v6#Catamaran",
       "errored": false
     }
   ],
   "subsets": [
+    "tamil",
     "latin",
-    "latin-ext",
-    "tamil"
+    "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v6",
   "lastModified": "2019-07-17",
-  "popularity": 76,
+  "popularity": 78,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
+    "tamil": false,
     "latin": true,
-    "latin-ext": true,
-    "tamil": false
+    "latin-ext": true
   },
   "storeID": "latin-ext_latin"
 }

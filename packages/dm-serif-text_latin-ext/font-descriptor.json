@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/dmseriftext/v3/rnCu-xZa_krGokauCeNq1wWyWfqFWw.woff",
+      "woff2": "https://fonts.gstatic.com/s/dmseriftext/v3/rnCu-xZa_krGokauCeNq1wWyWfqFXQ.woff2",
       "fontFamily": "'DM Serif Text'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,15 +12,15 @@
         "DM Serif Text Regular",
         "DMSerifText-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/dmseriftext/v3/rnCu-xZa_krGokauCeNq1wWyWfqFXQ.woff2",
       "eot": "https://fonts.gstatic.com/s/dmseriftext/v3/rnCu-xZa_krGokauCeNq1wWyWfqFWQ.eot",
+      "woff": "https://fonts.gstatic.com/s/dmseriftext/v3/rnCu-xZa_krGokauCeNq1wWyWfqFWw.woff",
       "ttf": "https://fonts.gstatic.com/s/dmseriftext/v3/rnCu-xZa_krGokauCeNq1wWyWfqFWA.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=rnCu-xZa_krGokauCeNq1wWyWfqFWg&skey=1cce8e1adc5342b&v=v3#DMSerifText",
       "errored": false
     },
     {
       "id": "italic",
-      "woff": "https://fonts.gstatic.com/s/dmseriftext/v3/rnCw-xZa_krGokauCeNq1wWyWfG1UVoL.woff",
+      "ttf": "https://fonts.gstatic.com/s/dmseriftext/v3/rnCw-xZa_krGokauCeNq1wWyWfG1UVoI.ttf",
       "fontFamily": "'DM Serif Text'",
       "fontStyle": "italic",
       "fontWeight": "400",
@@ -28,10 +28,10 @@
         "DM Serif Text Italic",
         "DMSerifText-Italic"
       ],
-      "woff2": "https://fonts.gstatic.com/s/dmseriftext/v3/rnCw-xZa_krGokauCeNq1wWyWfG1UVoN.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=rnCw-xZa_krGokauCeNq1wWyWfG1UVoK&skey=526da8f819302c18&v=v3#DMSerifText",
-      "ttf": "https://fonts.gstatic.com/s/dmseriftext/v3/rnCw-xZa_krGokauCeNq1wWyWfG1UVoI.ttf",
       "eot": "https://fonts.gstatic.com/s/dmseriftext/v3/rnCw-xZa_krGokauCeNq1wWyWfG1UVoJ.eot",
+      "woff2": "https://fonts.gstatic.com/s/dmseriftext/v3/rnCw-xZa_krGokauCeNq1wWyWfG1UVoN.woff2",
+      "woff": "https://fonts.gstatic.com/s/dmseriftext/v3/rnCw-xZa_krGokauCeNq1wWyWfG1UVoL.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=rnCw-xZa_krGokauCeNq1wWyWfG1UVoK&skey=526da8f819302c18&v=v3#DMSerifText",
       "errored": false
     }
   ],
@@ -42,7 +42,7 @@
   "category": "serif",
   "version": "v3",
   "lastModified": "2019-07-16",
-  "popularity": 593,
+  "popularity": 652,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

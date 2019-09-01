@@ -4,17 +4,17 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/novamono/v10/Cn-0JtiGWQ5Ajb--MRKvZGZZ.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Cn-0JtiGWQ5Ajb--MRKvZGZe&skey=573d932cf583f4f3&v=v10#NovaMono",
       "fontFamily": "'Nova Mono'",
       "fontStyle": "normal",
       "fontWeight": "400",
       "local": [
         "NovaMono"
       ],
-      "ttf": "https://fonts.gstatic.com/s/novamono/v10/Cn-0JtiGWQ5Ajb--MRKvZGZc.ttf",
       "woff": "https://fonts.gstatic.com/s/novamono/v10/Cn-0JtiGWQ5Ajb--MRKvZGZf.woff",
+      "woff2": "https://fonts.gstatic.com/s/novamono/v10/Cn-0JtiGWQ5Ajb--MRKvZGZZ.woff2",
       "eot": "https://fonts.gstatic.com/s/novamono/v10/Cn-0JtiGWQ5Ajb--MRKvZGZd.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Cn-0JtiGWQ5Ajb--MRKvZGZe&skey=573d932cf583f4f3&v=v10#NovaMono",
+      "ttf": "https://fonts.gstatic.com/s/novamono/v10/Cn-0JtiGWQ5Ajb--MRKvZGZc.ttf",
       "errored": false
     }
   ],
@@ -25,7 +25,7 @@
   "category": "monospace",
   "version": "v10",
   "lastModified": "2019-07-16",
-  "popularity": 637,
+  "popularity": 663,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

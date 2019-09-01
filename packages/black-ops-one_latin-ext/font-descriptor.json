@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/blackopsone/v11/qWcsB6-ypo7xBdr6Xshe96H3aDXbsQ.woff",
+      "eot": "https://fonts.gstatic.com/s/blackopsone/v11/qWcsB6-ypo7xBdr6Xshe96H3aDXbsw.eot",
       "fontFamily": "'Black Ops One'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/blackopsone/v11/qWcsB6-ypo7xBdr6Xshe96H3aDXbtw.woff2",
       "local": [
         "Black Ops One Regular",
         "BlackOpsOne-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/blackopsone/v11/qWcsB6-ypo7xBdr6Xshe96H3aDXbsg.ttf",
-      "woff2": "https://fonts.gstatic.com/s/blackopsone/v11/qWcsB6-ypo7xBdr6Xshe96H3aDXbtw.woff2",
+      "woff": "https://fonts.gstatic.com/s/blackopsone/v11/qWcsB6-ypo7xBdr6Xshe96H3aDXbsQ.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=qWcsB6-ypo7xBdr6Xshe96H3aDXbsA&skey=66ec0066d463fba3&v=v11#BlackOpsOne",
-      "eot": "https://fonts.gstatic.com/s/blackopsone/v11/qWcsB6-ypo7xBdr6Xshe96H3aDXbsw.eot",
+      "ttf": "https://fonts.gstatic.com/s/blackopsone/v11/qWcsB6-ypo7xBdr6Xshe96H3aDXbsg.ttf",
       "errored": false
     }
   ],
@@ -26,7 +26,7 @@
   "category": "display",
   "version": "v11",
   "lastModified": "2019-07-16",
-  "popularity": 288,
+  "popularity": 297,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

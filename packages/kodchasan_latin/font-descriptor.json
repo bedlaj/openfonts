@@ -4,18 +4,34 @@
   "variants": [
     {
       "id": "200",
-      "eot": "https://fonts.gstatic.com/s/kodchasan/v3/1cX0aUPOAJv9sG4I-DJeR1CQhuCt.eot",
+      "woff": "https://fonts.gstatic.com/s/kodchasan/v3/1cX0aUPOAJv9sG4I-DJeR1CQhuCv.woff",
       "fontFamily": "'Kodchasan'",
       "fontStyle": "normal",
       "fontWeight": "200",
-      "woff": "https://fonts.gstatic.com/s/kodchasan/v3/1cX0aUPOAJv9sG4I-DJeR1CQhuCv.woff",
       "local": [
         "Kodchasan ExtraLight",
         "Kodchasan-ExtraLight"
       ],
+      "eot": "https://fonts.gstatic.com/s/kodchasan/v3/1cX0aUPOAJv9sG4I-DJeR1CQhuCt.eot",
+      "ttf": "https://fonts.gstatic.com/s/kodchasan/v3/1cX0aUPOAJv9sG4I-DJeR1CQhuCs.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=1cX0aUPOAJv9sG4I-DJeR1CQhuCu&skey=4901786d993e810f&v=v3#Kodchasan",
       "woff2": "https://fonts.gstatic.com/s/kodchasan/v3/1cX0aUPOAJv9sG4I-DJeR1CQhuCp.woff2",
-      "ttf": "https://fonts.gstatic.com/s/kodchasan/v3/1cX0aUPOAJv9sG4I-DJeR1CQhuCs.ttf",
+      "errored": false
+    },
+    {
+      "id": "300",
+      "eot": "https://fonts.gstatic.com/s/kodchasan/v3/1cX0aUPOAJv9sG4I-DJeI1OQhuCt.eot",
+      "fontFamily": "'Kodchasan'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "woff": "https://fonts.gstatic.com/s/kodchasan/v3/1cX0aUPOAJv9sG4I-DJeI1OQhuCv.woff",
+      "local": [
+        "Kodchasan Light",
+        "Kodchasan-Light"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=1cX0aUPOAJv9sG4I-DJeI1OQhuCu&skey=297e10434901b4e4&v=v3#Kodchasan",
+      "ttf": "https://fonts.gstatic.com/s/kodchasan/v3/1cX0aUPOAJv9sG4I-DJeI1OQhuCs.ttf",
+      "woff2": "https://fonts.gstatic.com/s/kodchasan/v3/1cX0aUPOAJv9sG4I-DJeI1OQhuCp.woff2",
       "errored": false
     },
     {
@@ -24,45 +40,29 @@
       "fontFamily": "'Kodchasan'",
       "fontStyle": "italic",
       "fontWeight": "200",
-      "woff2": "https://fonts.gstatic.com/s/kodchasan/v3/1cXqaUPOAJv9sG4I-DJWjUlIgNCr9ec.woff2",
+      "ttf": "https://fonts.gstatic.com/s/kodchasan/v3/1cXqaUPOAJv9sG4I-DJWjUlIgNCr9eI.ttf",
       "local": [
         "Kodchasan ExtraLight Italic",
         "Kodchasan-ExtraLightItalic"
       ],
-      "woff": "https://fonts.gstatic.com/s/kodchasan/v3/1cXqaUPOAJv9sG4I-DJWjUlIgNCr9eE.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=1cXqaUPOAJv9sG4I-DJWjUlIgNCr9eA&skey=a4bcf9e68fe558b2&v=v3#Kodchasan",
-      "ttf": "https://fonts.gstatic.com/s/kodchasan/v3/1cXqaUPOAJv9sG4I-DJWjUlIgNCr9eI.ttf",
-      "errored": false
-    },
-    {
-      "id": "300",
-      "woff": "https://fonts.gstatic.com/s/kodchasan/v3/1cX0aUPOAJv9sG4I-DJeI1OQhuCv.woff",
-      "fontFamily": "'Kodchasan'",
-      "fontStyle": "normal",
-      "fontWeight": "300",
-      "local": [
-        "Kodchasan Light",
-        "Kodchasan-Light"
-      ],
-      "eot": "https://fonts.gstatic.com/s/kodchasan/v3/1cX0aUPOAJv9sG4I-DJeI1OQhuCt.eot",
-      "woff2": "https://fonts.gstatic.com/s/kodchasan/v3/1cX0aUPOAJv9sG4I-DJeI1OQhuCp.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=1cX0aUPOAJv9sG4I-DJeI1OQhuCu&skey=297e10434901b4e4&v=v3#Kodchasan",
-      "ttf": "https://fonts.gstatic.com/s/kodchasan/v3/1cX0aUPOAJv9sG4I-DJeI1OQhuCs.ttf",
+      "woff2": "https://fonts.gstatic.com/s/kodchasan/v3/1cXqaUPOAJv9sG4I-DJWjUlIgNCr9ec.woff2",
+      "woff": "https://fonts.gstatic.com/s/kodchasan/v3/1cXqaUPOAJv9sG4I-DJWjUlIgNCr9eE.woff",
       "errored": false
     },
     {
       "id": "300italic",
-      "woff": "https://fonts.gstatic.com/s/kodchasan/v3/1cXqaUPOAJv9sG4I-DJWjUksg9Cr9eE.woff",
+      "eot": "https://fonts.gstatic.com/s/kodchasan/v3/1cXqaUPOAJv9sG4I-DJWjUksg9Cr9eM.eot",
       "fontFamily": "'Kodchasan'",
       "fontStyle": "italic",
       "fontWeight": "300",
+      "woff": "https://fonts.gstatic.com/s/kodchasan/v3/1cXqaUPOAJv9sG4I-DJWjUksg9Cr9eE.woff",
       "local": [
         "Kodchasan Light Italic",
         "Kodchasan-LightItalic"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=1cXqaUPOAJv9sG4I-DJWjUksg9Cr9eA&skey=4145d453e7d2dcef&v=v3#Kodchasan",
-      "eot": "https://fonts.gstatic.com/s/kodchasan/v3/1cXqaUPOAJv9sG4I-DJWjUksg9Cr9eM.eot",
       "woff2": "https://fonts.gstatic.com/s/kodchasan/v3/1cXqaUPOAJv9sG4I-DJWjUksg9Cr9ec.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=1cXqaUPOAJv9sG4I-DJWjUksg9Cr9eA&skey=4145d453e7d2dcef&v=v3#Kodchasan",
       "ttf": "https://fonts.gstatic.com/s/kodchasan/v3/1cXqaUPOAJv9sG4I-DJWjUksg9Cr9eI.ttf",
       "errored": false
     },
@@ -83,22 +83,6 @@
       "errored": false
     },
     {
-      "id": "italic",
-      "woff": "https://fonts.gstatic.com/s/kodchasan/v3/1cX3aUPOAJv9sG4I-DJWjUGHocM.woff",
-      "fontFamily": "'Kodchasan'",
-      "fontStyle": "italic",
-      "fontWeight": "400",
-      "local": [
-        "Kodchasan Italic",
-        "Kodchasan-Italic"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/kodchasan/v3/1cX3aUPOAJv9sG4I-DJWjUGHocU.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=1cX3aUPOAJv9sG4I-DJWjUGHocI&skey=bc86ab073bcaf21d&v=v3#Kodchasan",
-      "eot": "https://fonts.gstatic.com/s/kodchasan/v3/1cX3aUPOAJv9sG4I-DJWjUGHocE.eot",
-      "ttf": "https://fonts.gstatic.com/s/kodchasan/v3/1cX3aUPOAJv9sG4I-DJWjUGHocA.ttf",
-      "errored": false
-    },
-    {
       "id": "500",
       "eot": "https://fonts.gstatic.com/s/kodchasan/v3/1cX0aUPOAJv9sG4I-DJee1KQhuCt.eot",
       "fontFamily": "'Kodchasan'",
@@ -109,41 +93,73 @@
         "Kodchasan Medium",
         "Kodchasan-Medium"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=1cX0aUPOAJv9sG4I-DJee1KQhuCu&skey=18a20738ee7d49f9&v=v3#Kodchasan",
       "woff2": "https://fonts.gstatic.com/s/kodchasan/v3/1cX0aUPOAJv9sG4I-DJee1KQhuCp.woff2",
       "ttf": "https://fonts.gstatic.com/s/kodchasan/v3/1cX0aUPOAJv9sG4I-DJee1KQhuCs.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=1cX0aUPOAJv9sG4I-DJee1KQhuCu&skey=18a20738ee7d49f9&v=v3#Kodchasan",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "eot": "https://fonts.gstatic.com/s/kodchasan/v3/1cX3aUPOAJv9sG4I-DJWjUGHocE.eot",
+      "fontFamily": "'Kodchasan'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "ttf": "https://fonts.gstatic.com/s/kodchasan/v3/1cX3aUPOAJv9sG4I-DJWjUGHocA.ttf",
+      "local": [
+        "Kodchasan Italic",
+        "Kodchasan-Italic"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=1cX3aUPOAJv9sG4I-DJWjUGHocI&skey=bc86ab073bcaf21d&v=v3#Kodchasan",
+      "woff2": "https://fonts.gstatic.com/s/kodchasan/v3/1cX3aUPOAJv9sG4I-DJWjUGHocU.woff2",
+      "woff": "https://fonts.gstatic.com/s/kodchasan/v3/1cX3aUPOAJv9sG4I-DJWjUGHocM.woff",
       "errored": false
     },
     {
       "id": "500italic",
-      "woff2": "https://fonts.gstatic.com/s/kodchasan/v3/1cXqaUPOAJv9sG4I-DJWjUl0gtCr9ec.woff2",
+      "eot": "https://fonts.gstatic.com/s/kodchasan/v3/1cXqaUPOAJv9sG4I-DJWjUl0gtCr9eM.eot",
       "fontFamily": "'Kodchasan'",
       "fontStyle": "italic",
       "fontWeight": "500",
+      "woff": "https://fonts.gstatic.com/s/kodchasan/v3/1cXqaUPOAJv9sG4I-DJWjUl0gtCr9eE.woff",
       "local": [
         "Kodchasan Medium Italic",
         "Kodchasan-MediumItalic"
       ],
+      "woff2": "https://fonts.gstatic.com/s/kodchasan/v3/1cXqaUPOAJv9sG4I-DJWjUl0gtCr9ec.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=1cXqaUPOAJv9sG4I-DJWjUl0gtCr9eA&skey=96ff851f4c11adb3&v=v3#Kodchasan",
-      "eot": "https://fonts.gstatic.com/s/kodchasan/v3/1cXqaUPOAJv9sG4I-DJWjUl0gtCr9eM.eot",
-      "woff": "https://fonts.gstatic.com/s/kodchasan/v3/1cXqaUPOAJv9sG4I-DJWjUl0gtCr9eE.woff",
       "ttf": "https://fonts.gstatic.com/s/kodchasan/v3/1cXqaUPOAJv9sG4I-DJWjUl0gtCr9eI.ttf",
       "errored": false
     },
     {
       "id": "600",
-      "woff2": "https://fonts.gstatic.com/s/kodchasan/v3/1cX0aUPOAJv9sG4I-DJeV1WQhuCp.woff2",
+      "eot": "https://fonts.gstatic.com/s/kodchasan/v3/1cX0aUPOAJv9sG4I-DJeV1WQhuCt.eot",
       "fontFamily": "'Kodchasan'",
       "fontStyle": "normal",
       "fontWeight": "600",
+      "woff": "https://fonts.gstatic.com/s/kodchasan/v3/1cX0aUPOAJv9sG4I-DJeV1WQhuCv.woff",
       "local": [
         "Kodchasan SemiBold",
         "Kodchasan-SemiBold"
       ],
-      "eot": "https://fonts.gstatic.com/s/kodchasan/v3/1cX0aUPOAJv9sG4I-DJeV1WQhuCt.eot",
+      "woff2": "https://fonts.gstatic.com/s/kodchasan/v3/1cX0aUPOAJv9sG4I-DJeV1WQhuCp.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=1cX0aUPOAJv9sG4I-DJeV1WQhuCu&skey=7621259f95440ef2&v=v3#Kodchasan",
-      "woff": "https://fonts.gstatic.com/s/kodchasan/v3/1cX0aUPOAJv9sG4I-DJeV1WQhuCv.woff",
       "ttf": "https://fonts.gstatic.com/s/kodchasan/v3/1cX0aUPOAJv9sG4I-DJeV1WQhuCs.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/kodchasan/v3/1cX0aUPOAJv9sG4I-DJeM1SQhuCt.eot",
+      "fontFamily": "'Kodchasan'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/kodchasan/v3/1cX0aUPOAJv9sG4I-DJeM1SQhuCv.woff",
+      "local": [
+        "Kodchasan Bold",
+        "Kodchasan-Bold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/kodchasan/v3/1cX0aUPOAJv9sG4I-DJeM1SQhuCp.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=1cX0aUPOAJv9sG4I-DJeM1SQhuCu&skey=d872aaaa27b56bd1&v=v3#Kodchasan",
+      "ttf": "https://fonts.gstatic.com/s/kodchasan/v3/1cX0aUPOAJv9sG4I-DJeM1SQhuCs.ttf",
       "errored": false
     },
     {
@@ -156,62 +172,46 @@
         "Kodchasan SemiBold Italic",
         "Kodchasan-SemiBoldItalic"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=1cXqaUPOAJv9sG4I-DJWjUlYhdCr9eA&skey=ca1f96b2f53d76c8&v=v3#Kodchasan",
       "woff2": "https://fonts.gstatic.com/s/kodchasan/v3/1cXqaUPOAJv9sG4I-DJWjUlYhdCr9ec.woff2",
-      "eot": "https://fonts.gstatic.com/s/kodchasan/v3/1cXqaUPOAJv9sG4I-DJWjUlYhdCr9eM.eot",
       "ttf": "https://fonts.gstatic.com/s/kodchasan/v3/1cXqaUPOAJv9sG4I-DJWjUlYhdCr9eI.ttf",
-      "errored": false
-    },
-    {
-      "id": "700",
-      "woff2": "https://fonts.gstatic.com/s/kodchasan/v3/1cX0aUPOAJv9sG4I-DJeM1SQhuCp.woff2",
-      "fontFamily": "'Kodchasan'",
-      "fontStyle": "normal",
-      "fontWeight": "700",
-      "local": [
-        "Kodchasan Bold",
-        "Kodchasan-Bold"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=1cX0aUPOAJv9sG4I-DJeM1SQhuCu&skey=d872aaaa27b56bd1&v=v3#Kodchasan",
-      "eot": "https://fonts.gstatic.com/s/kodchasan/v3/1cX0aUPOAJv9sG4I-DJeM1SQhuCt.eot",
-      "woff": "https://fonts.gstatic.com/s/kodchasan/v3/1cX0aUPOAJv9sG4I-DJeM1SQhuCv.woff",
-      "ttf": "https://fonts.gstatic.com/s/kodchasan/v3/1cX0aUPOAJv9sG4I-DJeM1SQhuCs.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=1cXqaUPOAJv9sG4I-DJWjUlYhdCr9eA&skey=ca1f96b2f53d76c8&v=v3#Kodchasan",
+      "eot": "https://fonts.gstatic.com/s/kodchasan/v3/1cXqaUPOAJv9sG4I-DJWjUlYhdCr9eM.eot",
       "errored": false
     },
     {
       "id": "700italic",
-      "svg": "https://fonts.gstatic.com/l/font?kit=1cXqaUPOAJv9sG4I-DJWjUk8hNCr9eA&skey=685cfcbeb73051ac&v=v3#Kodchasan",
+      "eot": "https://fonts.gstatic.com/s/kodchasan/v3/1cXqaUPOAJv9sG4I-DJWjUk8hNCr9eM.eot",
       "fontFamily": "'Kodchasan'",
       "fontStyle": "italic",
       "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/kodchasan/v3/1cXqaUPOAJv9sG4I-DJWjUk8hNCr9eE.woff",
       "local": [
         "Kodchasan Bold Italic",
         "Kodchasan-BoldItalic"
       ],
-      "woff": "https://fonts.gstatic.com/s/kodchasan/v3/1cXqaUPOAJv9sG4I-DJWjUk8hNCr9eE.woff",
-      "ttf": "https://fonts.gstatic.com/s/kodchasan/v3/1cXqaUPOAJv9sG4I-DJWjUk8hNCr9eI.ttf",
-      "eot": "https://fonts.gstatic.com/s/kodchasan/v3/1cXqaUPOAJv9sG4I-DJWjUk8hNCr9eM.eot",
       "woff2": "https://fonts.gstatic.com/s/kodchasan/v3/1cXqaUPOAJv9sG4I-DJWjUk8hNCr9ec.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=1cXqaUPOAJv9sG4I-DJWjUk8hNCr9eA&skey=685cfcbeb73051ac&v=v3#Kodchasan",
+      "ttf": "https://fonts.gstatic.com/s/kodchasan/v3/1cXqaUPOAJv9sG4I-DJWjUk8hNCr9eI.ttf",
       "errored": false
     }
   ],
   "subsets": [
     "vietnamese",
     "latin",
-    "latin-ext",
-    "thai"
+    "thai",
+    "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v3",
   "lastModified": "2019-07-16",
-  "popularity": 788,
+  "popularity": 785,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "vietnamese": false,
     "latin": true,
-    "latin-ext": false,
-    "thai": false
+    "thai": false,
+    "latin-ext": false
   },
   "storeID": "latin"
 }

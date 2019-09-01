@@ -13,27 +13,27 @@
         "RussoOne-Regular"
       ],
       "eot": "https://fonts.gstatic.com/s/russoone/v8/Z9XUDmZRWg6M1LvRYsHOz8mN.eot",
-      "woff2": "https://fonts.gstatic.com/s/russoone/v8/Z9XUDmZRWg6M1LvRYsHOz8mJ.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=Z9XUDmZRWg6M1LvRYsHOz8mO&skey=5cda4fb5bcbd2a2c&v=v8#RussoOne",
+      "woff2": "https://fonts.gstatic.com/s/russoone/v8/Z9XUDmZRWg6M1LvRYsHOz8mJ.woff2",
       "ttf": "https://fonts.gstatic.com/s/russoone/v8/Z9XUDmZRWg6M1LvRYsHOz8mM.ttf",
       "errored": false
     }
   ],
   "subsets": [
     "latin",
-    "latin-ext",
-    "cyrillic"
+    "cyrillic",
+    "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v8",
   "lastModified": "2019-07-17",
-  "popularity": 143,
+  "popularity": 144,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "latin": true,
-    "latin-ext": false,
-    "cyrillic": false
+    "cyrillic": false,
+    "latin-ext": false
   },
   "storeID": "latin"
 }

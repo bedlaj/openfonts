@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=bx6aNwSJtayYxOkbYFsT6hMsLzX7u85rJrrQtjw&skey=906399d54c97c2e3&v=v9#IMFellGreatPrimer",
+      "eot": "https://fonts.gstatic.com/s/imfellgreatprimer/v9/bx6aNwSJtayYxOkbYFsT6hMsLzX7u85rJrrQtj8.eot",
       "fontFamily": "'IM Fell Great Primer'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/imfellgreatprimer/v9/bx6aNwSJtayYxOkbYFsT6hMsLzX7u85rJrrQtj0.woff",
       "local": [
         "IM FELL Great Primer Roman",
         "IM_FELL_Great_Primer_Roman"
       ],
-      "eot": "https://fonts.gstatic.com/s/imfellgreatprimer/v9/bx6aNwSJtayYxOkbYFsT6hMsLzX7u85rJrrQtj8.eot",
-      "woff2": "https://fonts.gstatic.com/s/imfellgreatprimer/v9/bx6aNwSJtayYxOkbYFsT6hMsLzX7u85rJrrQtjs.woff2",
-      "woff": "https://fonts.gstatic.com/s/imfellgreatprimer/v9/bx6aNwSJtayYxOkbYFsT6hMsLzX7u85rJrrQtj0.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=bx6aNwSJtayYxOkbYFsT6hMsLzX7u85rJrrQtjw&skey=906399d54c97c2e3&v=v9#IMFellGreatPrimer",
       "ttf": "https://fonts.gstatic.com/s/imfellgreatprimer/v9/bx6aNwSJtayYxOkbYFsT6hMsLzX7u85rJrrQtj4.ttf",
+      "woff2": "https://fonts.gstatic.com/s/imfellgreatprimer/v9/bx6aNwSJtayYxOkbYFsT6hMsLzX7u85rJrrQtjs.woff2",
       "errored": false
     },
     {
@@ -30,8 +30,8 @@
         "IM_FELL_Great_Primer_Italic"
       ],
       "woff": "https://fonts.gstatic.com/s/imfellgreatprimer/v9/bx6UNwSJtayYxOkbYFsT6hMsLzX7u85rJrrVhjkfSw.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=bx6UNwSJtayYxOkbYFsT6hMsLzX7u85rJrrVhjkfSg&skey=3f9cf92ebbb0969b&v=v9#IMFellGreatPrimer",
       "ttf": "https://fonts.gstatic.com/s/imfellgreatprimer/v9/bx6UNwSJtayYxOkbYFsT6hMsLzX7u85rJrrVhjkfSA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=bx6UNwSJtayYxOkbYFsT6hMsLzX7u85rJrrVhjkfSg&skey=3f9cf92ebbb0969b&v=v9#IMFellGreatPrimer",
       "errored": false
     }
   ],
@@ -41,7 +41,7 @@
   "category": "serif",
   "version": "v9",
   "lastModified": "2019-07-16",
-  "popularity": 750,
+  "popularity": 745,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

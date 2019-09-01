@@ -4,40 +4,40 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/ranga/v5/C8ct4cYisGb28q6FJjg.ttf",
+      "eot": "https://fonts.gstatic.com/s/ranga/v5/C8ct4cYisGb28q6FJjk.eot",
       "fontFamily": "'Ranga'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/ranga/v5/C8ct4cYisGb28q6FJjs.woff",
       "local": [
         "Ranga Regular",
         "Ranga-Regular"
       ],
       "woff2": "https://fonts.gstatic.com/s/ranga/v5/C8ct4cYisGb28q6FJj0.woff2",
-      "woff": "https://fonts.gstatic.com/s/ranga/v5/C8ct4cYisGb28q6FJjs.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=C8ct4cYisGb28q6FJjo&skey=ca2e4a542575f9f9&v=v5#Ranga",
-      "eot": "https://fonts.gstatic.com/s/ranga/v5/C8ct4cYisGb28q6FJjk.eot",
+      "ttf": "https://fonts.gstatic.com/s/ranga/v5/C8ct4cYisGb28q6FJjg.ttf",
       "errored": false
     },
     {
       "id": "700",
-      "ttf": "https://fonts.gstatic.com/s/ranga/v5/C8cg4cYisGb28qY-AygW43k.ttf",
+      "eot": "https://fonts.gstatic.com/s/ranga/v5/C8cg4cYisGb28qY-AygW43g.eot",
       "fontFamily": "'Ranga'",
       "fontStyle": "normal",
       "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/ranga/v5/C8cg4cYisGb28qY-AygW43o.woff",
       "local": [
         "Ranga Bold",
         "Ranga-Bold"
       ],
-      "eot": "https://fonts.gstatic.com/s/ranga/v5/C8cg4cYisGb28qY-AygW43g.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=C8cg4cYisGb28qY-AygW43s&skey=fd05ca4bf9d6ec31&v=v5#Ranga",
-      "woff": "https://fonts.gstatic.com/s/ranga/v5/C8cg4cYisGb28qY-AygW43o.woff",
       "woff2": "https://fonts.gstatic.com/s/ranga/v5/C8cg4cYisGb28qY-AygW43w.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=C8cg4cYisGb28qY-AygW43s&skey=fd05ca4bf9d6ec31&v=v5#Ranga",
+      "ttf": "https://fonts.gstatic.com/s/ranga/v5/C8cg4cYisGb28qY-AygW43k.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
     "devanagari",
+    "latin",
     "latin-ext"
   ],
   "category": "display",
@@ -47,8 +47,8 @@
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
     "devanagari": false,
+    "latin": true,
     "latin-ext": false
   },
   "storeID": "latin"

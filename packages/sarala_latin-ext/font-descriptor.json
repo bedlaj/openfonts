@@ -4,40 +4,40 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/sarala/v4/uK_y4riEZv4o1w9hAxcW.eot",
+      "woff": "https://fonts.gstatic.com/s/sarala/v4/uK_y4riEZv4o1w9hAxcU.woff",
       "fontFamily": "'Sarala'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/sarala/v4/uK_y4riEZv4o1w9hAxcU.woff",
       "local": [
         "Sarala",
         "Sarala-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/sarala/v4/uK_y4riEZv4o1w9hAxcS.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=uK_y4riEZv4o1w9hAxcV&skey=5f92b31c258ef44&v=v4#Sarala",
       "ttf": "https://fonts.gstatic.com/s/sarala/v4/uK_y4riEZv4o1w9hAxcX.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=uK_y4riEZv4o1w9hAxcV&skey=5f92b31c258ef44&v=v4#Sarala",
+      "eot": "https://fonts.gstatic.com/s/sarala/v4/uK_y4riEZv4o1w9hAxcW.eot",
+      "woff2": "https://fonts.gstatic.com/s/sarala/v4/uK_y4riEZv4o1w9hAxcS.woff2",
       "errored": false
     },
     {
       "id": "700",
-      "woff": "https://fonts.gstatic.com/s/sarala/v4/uK_x4riEZv4o1w9ptjIHM9-f.woff",
+      "eot": "https://fonts.gstatic.com/s/sarala/v4/uK_x4riEZv4o1w9ptjIHM9-d.eot",
       "fontFamily": "'Sarala'",
       "fontStyle": "normal",
       "fontWeight": "700",
+      "ttf": "https://fonts.gstatic.com/s/sarala/v4/uK_x4riEZv4o1w9ptjIHM9-c.ttf",
       "local": [
         "Sarala Bold",
         "Sarala-Bold"
       ],
-      "eot": "https://fonts.gstatic.com/s/sarala/v4/uK_x4riEZv4o1w9ptjIHM9-d.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=uK_x4riEZv4o1w9ptjIHM9-e&skey=e274e9b47540b42e&v=v4#Sarala",
-      "ttf": "https://fonts.gstatic.com/s/sarala/v4/uK_x4riEZv4o1w9ptjIHM9-c.ttf",
       "woff2": "https://fonts.gstatic.com/s/sarala/v4/uK_x4riEZv4o1w9ptjIHM9-Z.woff2",
+      "woff": "https://fonts.gstatic.com/s/sarala/v4/uK_x4riEZv4o1w9ptjIHM9-f.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=uK_x4riEZv4o1w9ptjIHM9-e&skey=e274e9b47540b42e&v=v4#Sarala",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
     "devanagari",
+    "latin",
     "latin-ext"
   ],
   "category": "sans-serif",
@@ -47,8 +47,8 @@
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
     "devanagari": false,
+    "latin": true,
     "latin-ext": true
   },
   "storeID": "latin-ext_latin"

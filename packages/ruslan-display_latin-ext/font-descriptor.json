@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/ruslandisplay/v10/Gw6jwczl81XcIZuckK_e3Upfdwxin90.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Gw6jwczl81XcIZuckK_e3Upfdwxin9o&skey=88a0d883c875985e&v=v10#RuslanDisplay",
       "fontFamily": "'Ruslan Display'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,28 +12,28 @@
         "Ruslan Display",
         "RuslanDisplay"
       ],
-      "eot": "https://fonts.gstatic.com/s/ruslandisplay/v10/Gw6jwczl81XcIZuckK_e3Upfdwxin9k.eot",
-      "woff": "https://fonts.gstatic.com/s/ruslandisplay/v10/Gw6jwczl81XcIZuckK_e3Upfdwxin9s.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Gw6jwczl81XcIZuckK_e3Upfdwxin9o&skey=88a0d883c875985e&v=v10#RuslanDisplay",
       "ttf": "https://fonts.gstatic.com/s/ruslandisplay/v10/Gw6jwczl81XcIZuckK_e3Upfdwxin9g.ttf",
+      "eot": "https://fonts.gstatic.com/s/ruslandisplay/v10/Gw6jwczl81XcIZuckK_e3Upfdwxin9k.eot",
+      "woff2": "https://fonts.gstatic.com/s/ruslandisplay/v10/Gw6jwczl81XcIZuckK_e3Upfdwxin90.woff2",
+      "woff": "https://fonts.gstatic.com/s/ruslandisplay/v10/Gw6jwczl81XcIZuckK_e3Upfdwxin9s.woff",
       "errored": false
     }
   ],
   "subsets": [
     "latin",
-    "latin-ext",
-    "cyrillic"
+    "cyrillic",
+    "latin-ext"
   ],
   "category": "display",
   "version": "v10",
   "lastModified": "2019-07-16",
-  "popularity": 725,
+  "popularity": 715,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "latin": true,
-    "latin-ext": true,
-    "cyrillic": false
+    "cyrillic": false,
+    "latin-ext": true
   },
   "storeID": "latin-ext_latin"
 }

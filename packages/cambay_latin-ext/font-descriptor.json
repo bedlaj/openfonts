@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/cambay/v6/SLXJc1rY6H0_ZDs2Z76J.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=SLXJc1rY6H0_ZDs2Z76O&skey=65e6fec681751af2&v=v6#Cambay",
       "fontFamily": "'Cambay'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -14,24 +14,8 @@
       ],
       "eot": "https://fonts.gstatic.com/s/cambay/v6/SLXJc1rY6H0_ZDs2Z76N.eot",
       "ttf": "https://fonts.gstatic.com/s/cambay/v6/SLXJc1rY6H0_ZDs2Z76M.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=SLXJc1rY6H0_ZDs2Z76O&skey=65e6fec681751af2&v=v6#Cambay",
       "woff": "https://fonts.gstatic.com/s/cambay/v6/SLXJc1rY6H0_ZDs2Z76P.woff",
-      "errored": false
-    },
-    {
-      "id": "italic",
-      "woff": "https://fonts.gstatic.com/s/cambay/v6/SLXLc1rY6H0_ZDs2bI6F59A.woff",
-      "fontFamily": "'Cambay'",
-      "fontStyle": "italic",
-      "fontWeight": "400",
-      "local": [
-        "Cambay Italic",
-        "Cambay-Italic"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=SLXLc1rY6H0_ZDs2bI6F59E&skey=e5bd29ad3697f3e&v=v6#Cambay",
-      "ttf": "https://fonts.gstatic.com/s/cambay/v6/SLXLc1rY6H0_ZDs2bI6F59M.ttf",
-      "eot": "https://fonts.gstatic.com/s/cambay/v6/SLXLc1rY6H0_ZDs2bI6F59I.eot",
-      "woff2": "https://fonts.gstatic.com/s/cambay/v6/SLXLc1rY6H0_ZDs2bI6F59Y.woff2",
+      "woff2": "https://fonts.gstatic.com/s/cambay/v6/SLXJc1rY6H0_ZDs2Z76J.woff2",
       "errored": false
     },
     {
@@ -40,47 +24,63 @@
       "fontFamily": "'Cambay'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff2": "https://fonts.gstatic.com/s/cambay/v6/SLXKc1rY6H0_ZDs-0puczvNx.woff2",
+      "woff": "https://fonts.gstatic.com/s/cambay/v6/SLXKc1rY6H0_ZDs-0puczvN3.woff",
       "local": [
         "Cambay Bold",
         "Cambay-Bold"
       ],
-      "woff": "https://fonts.gstatic.com/s/cambay/v6/SLXKc1rY6H0_ZDs-0puczvN3.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=SLXKc1rY6H0_ZDs-0puczvN2&skey=9ce85acf2b162d00&v=v6#Cambay",
+      "woff2": "https://fonts.gstatic.com/s/cambay/v6/SLXKc1rY6H0_ZDs-0puczvNx.woff2",
       "ttf": "https://fonts.gstatic.com/s/cambay/v6/SLXKc1rY6H0_ZDs-0puczvN0.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=SLXKc1rY6H0_ZDs-0puczvN2&skey=9ce85acf2b162d00&v=v6#Cambay",
       "errored": false
     },
     {
       "id": "700italic",
-      "woff": "https://fonts.gstatic.com/s/cambay/v6/SLXMc1rY6H0_ZDs2bIYwwsN9SX0.woff",
+      "eot": "https://fonts.gstatic.com/s/cambay/v6/SLXMc1rY6H0_ZDs2bIYwwsN9SX8.eot",
       "fontFamily": "'Cambay'",
       "fontStyle": "italic",
       "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/cambay/v6/SLXMc1rY6H0_ZDs2bIYwwsN9SX0.woff",
       "local": [
         "Cambay Bold Italic",
         "Cambay-BoldItalic"
       ],
-      "woff2": "https://fonts.gstatic.com/s/cambay/v6/SLXMc1rY6H0_ZDs2bIYwwsN9SXs.woff2",
-      "eot": "https://fonts.gstatic.com/s/cambay/v6/SLXMc1rY6H0_ZDs2bIYwwsN9SX8.eot",
       "ttf": "https://fonts.gstatic.com/s/cambay/v6/SLXMc1rY6H0_ZDs2bIYwwsN9SX4.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=SLXMc1rY6H0_ZDs2bIYwwsN9SXw&skey=9075a27258cb299f&v=v6#Cambay",
+      "woff2": "https://fonts.gstatic.com/s/cambay/v6/SLXMc1rY6H0_ZDs2bIYwwsN9SXs.woff2",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "ttf": "https://fonts.gstatic.com/s/cambay/v6/SLXLc1rY6H0_ZDs2bI6F59M.ttf",
+      "fontFamily": "'Cambay'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "local": [
+        "Cambay Italic",
+        "Cambay-Italic"
+      ],
+      "woff": "https://fonts.gstatic.com/s/cambay/v6/SLXLc1rY6H0_ZDs2bI6F59A.woff",
+      "eot": "https://fonts.gstatic.com/s/cambay/v6/SLXLc1rY6H0_ZDs2bI6F59I.eot",
+      "woff2": "https://fonts.gstatic.com/s/cambay/v6/SLXLc1rY6H0_ZDs2bI6F59Y.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=SLXLc1rY6H0_ZDs2bI6F59E&skey=e5bd29ad3697f3e&v=v6#Cambay",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
     "devanagari",
+    "latin",
     "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v6",
   "lastModified": "2019-07-16",
-  "popularity": 428,
+  "popularity": 418,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
     "devanagari": false,
+    "latin": true,
     "latin-ext": true
   },
   "storeID": "latin-ext_latin"

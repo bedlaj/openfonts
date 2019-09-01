@@ -4,17 +4,17 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/magra/v8/uK_94ruaZus72n52KjI.woff2",
+      "eot": "https://fonts.gstatic.com/s/magra/v8/uK_94ruaZus72n52KjY.eot",
       "fontFamily": "'Magra'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/magra/v8/uK_94ruaZus72n52KjQ.woff",
       "local": [
         "Magra"
       ],
-      "woff": "https://fonts.gstatic.com/s/magra/v8/uK_94ruaZus72n52KjQ.woff",
-      "ttf": "https://fonts.gstatic.com/s/magra/v8/uK_94ruaZus72n52Kjc.ttf",
+      "woff2": "https://fonts.gstatic.com/s/magra/v8/uK_94ruaZus72n52KjI.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=uK_94ruaZus72n52KjU&skey=9abba3c66818028c&v=v8#Magra",
-      "eot": "https://fonts.gstatic.com/s/magra/v8/uK_94ruaZus72n52KjY.eot",
+      "ttf": "https://fonts.gstatic.com/s/magra/v8/uK_94ruaZus72n52Kjc.ttf",
       "errored": false
     },
     {
@@ -27,9 +27,9 @@
         "Magra Bold",
         "Magra-Bold"
       ],
+      "woff2": "https://fonts.gstatic.com/s/magra/v8/uK_w4ruaZus72nbNDycQGvo.woff2",
       "woff": "https://fonts.gstatic.com/s/magra/v8/uK_w4ruaZus72nbNDycQGvw.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=uK_w4ruaZus72nbNDycQGv0&skey=26cb1ea4207d004&v=v8#Magra",
-      "woff2": "https://fonts.gstatic.com/s/magra/v8/uK_w4ruaZus72nbNDycQGvo.woff2",
       "eot": "https://fonts.gstatic.com/s/magra/v8/uK_w4ruaZus72nbNDycQGv4.eot",
       "errored": false
     }
@@ -41,7 +41,7 @@
   "category": "sans-serif",
   "version": "v8",
   "lastModified": "2019-07-16",
-  "popularity": 292,
+  "popularity": 276,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

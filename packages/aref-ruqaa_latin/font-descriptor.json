@@ -4,17 +4,17 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/arefruqaa/v8/WwkbxPW1E165rajQKDulIIcoUQ.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=WwkbxPW1E165rajQKDulIIcoUg&skey=42031ebbc54bfc32&v=v8#ArefRuqaa",
       "fontFamily": "'Aref Ruqaa'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/arefruqaa/v8/WwkbxPW1E165rajQKDulIIcoVQ.woff2",
       "local": [
         "Aref Ruqaa Regular",
         "ArefRuqaa-Regular"
       ],
+      "eot": "https://fonts.gstatic.com/s/arefruqaa/v8/WwkbxPW1E165rajQKDulIIcoUQ.eot",
       "ttf": "https://fonts.gstatic.com/s/arefruqaa/v8/WwkbxPW1E165rajQKDulIIcoUA.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=WwkbxPW1E165rajQKDulIIcoUg&skey=42031ebbc54bfc32&v=v8#ArefRuqaa",
+      "woff2": "https://fonts.gstatic.com/s/arefruqaa/v8/WwkbxPW1E165rajQKDulIIcoVQ.woff2",
       "woff": "https://fonts.gstatic.com/s/arefruqaa/v8/WwkbxPW1E165rajQKDulIIcoUw.woff",
       "errored": false
     },
@@ -29,25 +29,25 @@
         "ArefRuqaa-Bold"
       ],
       "woff": "https://fonts.gstatic.com/s/arefruqaa/v8/WwkYxPW1E165rajQKDulKDwNQNUY3w.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=WwkYxPW1E165rajQKDulKDwNQNUY3g&skey=7bd179854eb23c4&v=v8#ArefRuqaa",
-      "eot": "https://fonts.gstatic.com/s/arefruqaa/v8/WwkYxPW1E165rajQKDulKDwNQNUY3Q.eot",
       "ttf": "https://fonts.gstatic.com/s/arefruqaa/v8/WwkYxPW1E165rajQKDulKDwNQNUY3A.ttf",
+      "eot": "https://fonts.gstatic.com/s/arefruqaa/v8/WwkYxPW1E165rajQKDulKDwNQNUY3Q.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=WwkYxPW1E165rajQKDulKDwNQNUY3g&skey=7bd179854eb23c4&v=v8#ArefRuqaa",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
-    "arabic"
+    "arabic",
+    "latin"
   ],
   "category": "serif",
   "version": "v8",
   "lastModified": "2019-07-16",
-  "popularity": 533,
+  "popularity": 509,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
-    "arabic": false
+    "arabic": false,
+    "latin": true
   },
   "storeID": "latin"
 }

@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "300",
-      "woff": "https://fonts.gstatic.com/s/cormorant/v8/H4cgBXOCl9bbnla_nHIiRLmoiIa1.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=H4cgBXOCl9bbnla_nHIiRLmoiIa0&skey=c3b9f7b75bda2dcc&v=v8#Cormorant",
       "fontFamily": "'Cormorant'",
       "fontStyle": "normal",
       "fontWeight": "300",
@@ -12,10 +12,10 @@
         "Cormorant Light",
         "Cormorant-Light"
       ],
-      "woff2": "https://fonts.gstatic.com/s/cormorant/v8/H4cgBXOCl9bbnla_nHIiRLmoiIaz.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=H4cgBXOCl9bbnla_nHIiRLmoiIa0&skey=c3b9f7b75bda2dcc&v=v8#Cormorant",
       "eot": "https://fonts.gstatic.com/s/cormorant/v8/H4cgBXOCl9bbnla_nHIiRLmoiIa3.eot",
       "ttf": "https://fonts.gstatic.com/s/cormorant/v8/H4cgBXOCl9bbnla_nHIiRLmoiIa2.ttf",
+      "woff2": "https://fonts.gstatic.com/s/cormorant/v8/H4cgBXOCl9bbnla_nHIiRLmoiIaz.woff2",
+      "woff": "https://fonts.gstatic.com/s/cormorant/v8/H4cgBXOCl9bbnla_nHIiRLmoiIa1.woff",
       "errored": false
     },
     {
@@ -30,24 +30,8 @@
         "Cormorant-Regular"
       ],
       "woff2": "https://fonts.gstatic.com/s/cormorant/v8/H4clBXOCl9bbnla_nHIq4pu9.woff2",
-      "ttf": "https://fonts.gstatic.com/s/cormorant/v8/H4clBXOCl9bbnla_nHIq4pu4.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=H4clBXOCl9bbnla_nHIq4pu6&skey=c05230f4b79293a6&v=v8#Cormorant",
-      "errored": false
-    },
-    {
-      "id": "300italic",
-      "woff2": "https://fonts.gstatic.com/s/cormorant/v8/H4c-BXOCl9bbnla_nHIq6qMUgLa8SzU.woff2",
-      "fontFamily": "'Cormorant'",
-      "fontStyle": "italic",
-      "fontWeight": "300",
-      "local": [
-        "Cormorant Light Italic",
-        "Cormorant-LightItalic"
-      ],
-      "ttf": "https://fonts.gstatic.com/s/cormorant/v8/H4c-BXOCl9bbnla_nHIq6qMUgLa8SzA.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=H4c-BXOCl9bbnla_nHIq6qMUgLa8SzI&skey=880a42c6c2a7e48&v=v8#Cormorant",
-      "woff": "https://fonts.gstatic.com/s/cormorant/v8/H4c-BXOCl9bbnla_nHIq6qMUgLa8SzM.woff",
-      "eot": "https://fonts.gstatic.com/s/cormorant/v8/H4c-BXOCl9bbnla_nHIq6qMUgLa8SzE.eot",
+      "ttf": "https://fonts.gstatic.com/s/cormorant/v8/H4clBXOCl9bbnla_nHIq4pu4.ttf",
       "errored": false
     },
     {
@@ -67,6 +51,22 @@
       "errored": false
     },
     {
+      "id": "300italic",
+      "woff2": "https://fonts.gstatic.com/s/cormorant/v8/H4c-BXOCl9bbnla_nHIq6qMUgLa8SzU.woff2",
+      "fontFamily": "'Cormorant'",
+      "fontStyle": "italic",
+      "fontWeight": "300",
+      "local": [
+        "Cormorant Light Italic",
+        "Cormorant-LightItalic"
+      ],
+      "eot": "https://fonts.gstatic.com/s/cormorant/v8/H4c-BXOCl9bbnla_nHIq6qMUgLa8SzE.eot",
+      "woff": "https://fonts.gstatic.com/s/cormorant/v8/H4c-BXOCl9bbnla_nHIq6qMUgLa8SzM.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=H4c-BXOCl9bbnla_nHIq6qMUgLa8SzI&skey=880a42c6c2a7e48&v=v8#Cormorant",
+      "ttf": "https://fonts.gstatic.com/s/cormorant/v8/H4c-BXOCl9bbnla_nHIq6qMUgLa8SzA.ttf",
+      "errored": false
+    },
+    {
       "id": "500",
       "eot": "https://fonts.gstatic.com/s/cormorant/v8/H4cgBXOCl9bbnla_nHIiHLioiIa3.eot",
       "fontFamily": "'Cormorant'",
@@ -83,19 +83,35 @@
       "errored": false
     },
     {
+      "id": "500italic",
+      "eot": "https://fonts.gstatic.com/s/cormorant/v8/H4c-BXOCl9bbnla_nHIq6qNMgba8SzE.eot",
+      "fontFamily": "'Cormorant'",
+      "fontStyle": "italic",
+      "fontWeight": "500",
+      "woff2": "https://fonts.gstatic.com/s/cormorant/v8/H4c-BXOCl9bbnla_nHIq6qNMgba8SzU.woff2",
+      "local": [
+        "Cormorant Medium Italic",
+        "Cormorant-MediumItalic"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/cormorant/v8/H4c-BXOCl9bbnla_nHIq6qNMgba8SzA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=H4c-BXOCl9bbnla_nHIq6qNMgba8SzI&skey=f8ba0d7482015c2a&v=v8#Cormorant",
+      "woff": "https://fonts.gstatic.com/s/cormorant/v8/H4c-BXOCl9bbnla_nHIq6qNMgba8SzM.woff",
+      "errored": false
+    },
+    {
       "id": "600",
-      "woff": "https://fonts.gstatic.com/s/cormorant/v8/H4cgBXOCl9bbnla_nHIiML-oiIa1.woff",
+      "eot": "https://fonts.gstatic.com/s/cormorant/v8/H4cgBXOCl9bbnla_nHIiML-oiIa3.eot",
       "fontFamily": "'Cormorant'",
       "fontStyle": "normal",
       "fontWeight": "600",
+      "woff": "https://fonts.gstatic.com/s/cormorant/v8/H4cgBXOCl9bbnla_nHIiML-oiIa1.woff",
       "local": [
         "Cormorant SemiBold",
         "Cormorant-SemiBold"
       ],
       "woff2": "https://fonts.gstatic.com/s/cormorant/v8/H4cgBXOCl9bbnla_nHIiML-oiIaz.woff2",
-      "eot": "https://fonts.gstatic.com/s/cormorant/v8/H4cgBXOCl9bbnla_nHIiML-oiIa3.eot",
-      "ttf": "https://fonts.gstatic.com/s/cormorant/v8/H4cgBXOCl9bbnla_nHIiML-oiIa2.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=H4cgBXOCl9bbnla_nHIiML-oiIa0&skey=c7d791cddd8b143c&v=v8#Cormorant",
+      "ttf": "https://fonts.gstatic.com/s/cormorant/v8/H4cgBXOCl9bbnla_nHIiML-oiIa2.ttf",
       "errored": false
     },
     {
@@ -109,41 +125,9 @@
         "Cormorant SemiBold Italic",
         "Cormorant-SemiBoldItalic"
       ],
-      "woff2": "https://fonts.gstatic.com/s/cormorant/v8/H4c-BXOCl9bbnla_nHIq6qNghra8SzU.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=H4c-BXOCl9bbnla_nHIq6qNghra8SzI&skey=549a685ba96a6462&v=v8#Cormorant",
+      "woff2": "https://fonts.gstatic.com/s/cormorant/v8/H4c-BXOCl9bbnla_nHIq6qNghra8SzU.woff2",
       "ttf": "https://fonts.gstatic.com/s/cormorant/v8/H4c-BXOCl9bbnla_nHIq6qNghra8SzA.ttf",
-      "errored": false
-    },
-    {
-      "id": "500italic",
-      "ttf": "https://fonts.gstatic.com/s/cormorant/v8/H4c-BXOCl9bbnla_nHIq6qNMgba8SzA.ttf",
-      "fontFamily": "'Cormorant'",
-      "fontStyle": "italic",
-      "fontWeight": "500",
-      "local": [
-        "Cormorant Medium Italic",
-        "Cormorant-MediumItalic"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=H4c-BXOCl9bbnla_nHIq6qNMgba8SzI&skey=f8ba0d7482015c2a&v=v8#Cormorant",
-      "eot": "https://fonts.gstatic.com/s/cormorant/v8/H4c-BXOCl9bbnla_nHIq6qNMgba8SzE.eot",
-      "woff2": "https://fonts.gstatic.com/s/cormorant/v8/H4c-BXOCl9bbnla_nHIq6qNMgba8SzU.woff2",
-      "woff": "https://fonts.gstatic.com/s/cormorant/v8/H4c-BXOCl9bbnla_nHIq6qNMgba8SzM.woff",
-      "errored": false
-    },
-    {
-      "id": "700",
-      "eot": "https://fonts.gstatic.com/s/cormorant/v8/H4cgBXOCl9bbnla_nHIiVL6oiIa3.eot",
-      "fontFamily": "'Cormorant'",
-      "fontStyle": "normal",
-      "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/cormorant/v8/H4cgBXOCl9bbnla_nHIiVL6oiIa1.woff",
-      "local": [
-        "Cormorant Bold",
-        "Cormorant-Bold"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/cormorant/v8/H4cgBXOCl9bbnla_nHIiVL6oiIaz.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=H4cgBXOCl9bbnla_nHIiVL6oiIa0&skey=b5890d6cd81a661b&v=v8#Cormorant",
-      "ttf": "https://fonts.gstatic.com/s/cormorant/v8/H4cgBXOCl9bbnla_nHIiVL6oiIa2.ttf",
       "errored": false
     },
     {
@@ -161,27 +145,43 @@
       "svg": "https://fonts.gstatic.com/l/font?kit=H4c-BXOCl9bbnla_nHIq6qMEh7a8SzI&skey=9900c6152b34197e&v=v8#Cormorant",
       "ttf": "https://fonts.gstatic.com/s/cormorant/v8/H4c-BXOCl9bbnla_nHIq6qMEh7a8SzA.ttf",
       "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/cormorant/v8/H4cgBXOCl9bbnla_nHIiVL6oiIa3.eot",
+      "fontFamily": "'Cormorant'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff2": "https://fonts.gstatic.com/s/cormorant/v8/H4cgBXOCl9bbnla_nHIiVL6oiIaz.woff2",
+      "local": [
+        "Cormorant Bold",
+        "Cormorant-Bold"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=H4cgBXOCl9bbnla_nHIiVL6oiIa0&skey=b5890d6cd81a661b&v=v8#Cormorant",
+      "woff": "https://fonts.gstatic.com/s/cormorant/v8/H4cgBXOCl9bbnla_nHIiVL6oiIa1.woff",
+      "ttf": "https://fonts.gstatic.com/s/cormorant/v8/H4cgBXOCl9bbnla_nHIiVL6oiIa2.ttf",
+      "errored": false
     }
   ],
   "subsets": [
     "vietnamese",
     "latin",
-    "latin-ext",
+    "cyrillic-ext",
     "cyrillic",
-    "cyrillic-ext"
+    "latin-ext"
   ],
   "category": "serif",
   "version": "v8",
   "lastModified": "2019-07-16",
-  "popularity": 267,
+  "popularity": 263,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "vietnamese": false,
     "latin": true,
-    "latin-ext": false,
+    "cyrillic-ext": true,
     "cyrillic": false,
-    "cyrillic-ext": true
+    "latin-ext": false
   },
   "storeID": "cyrillic-ext_latin"
 }

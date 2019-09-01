@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/gfsdidot/v9/Jqzh5TybZ9vZMWFssvwSE-3C.ttf",
+      "woff2": "https://fonts.gstatic.com/s/gfsdidot/v9/Jqzh5TybZ9vZMWFssvwSE-3H.woff2",
       "fontFamily": "'GFS Didot'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -13,9 +13,9 @@
         "GFSDidot-Regular"
       ],
       "eot": "https://fonts.gstatic.com/s/gfsdidot/v9/Jqzh5TybZ9vZMWFssvwSE-3D.eot",
-      "woff2": "https://fonts.gstatic.com/s/gfsdidot/v9/Jqzh5TybZ9vZMWFssvwSE-3H.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Jqzh5TybZ9vZMWFssvwSE-3A&skey=e557a45a8e5b3a1b&v=v9#GFSDidot",
       "woff": "https://fonts.gstatic.com/s/gfsdidot/v9/Jqzh5TybZ9vZMWFssvwSE-3B.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Jqzh5TybZ9vZMWFssvwSE-3A&skey=e557a45a8e5b3a1b&v=v9#GFSDidot",
+      "ttf": "https://fonts.gstatic.com/s/gfsdidot/v9/Jqzh5TybZ9vZMWFssvwSE-3C.ttf",
       "errored": false
     }
   ],
@@ -25,7 +25,7 @@
   "category": "serif",
   "version": "v9",
   "lastModified": "2019-07-16",
-  "popularity": 400,
+  "popularity": 385,
   "defSubset": "greek",
   "defVariant": "regular",
   "subsetMap": {

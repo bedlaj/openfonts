@@ -19,24 +19,8 @@
       "errored": false
     },
     {
-      "id": "500",
-      "eot": "https://fonts.gstatic.com/s/mirza/v7/co3FmWlikiN5EtIpAdO_k6I.eot",
-      "fontFamily": "'Mirza'",
-      "fontStyle": "normal",
-      "fontWeight": "500",
-      "svg": "https://fonts.gstatic.com/l/font?kit=co3FmWlikiN5EtIpAdO_k6E&skey=324b00f62d363988&v=v7#Mirza",
-      "local": [
-        "Mirza Medium",
-        "Mirza-Medium"
-      ],
-      "woff": "https://fonts.gstatic.com/s/mirza/v7/co3FmWlikiN5EtIpAdO_k6A.woff",
-      "woff2": "https://fonts.gstatic.com/s/mirza/v7/co3FmWlikiN5EtIpAdO_k6Y.woff2",
-      "ttf": "https://fonts.gstatic.com/s/mirza/v7/co3FmWlikiN5EtIpAdO_k6M.ttf",
-      "errored": false
-    },
-    {
       "id": "600",
-      "woff": "https://fonts.gstatic.com/s/mirza/v7/co3FmWlikiN5EtIFBtO_k6A.woff",
+      "woff2": "https://fonts.gstatic.com/s/mirza/v7/co3FmWlikiN5EtIFBtO_k6Y.woff2",
       "fontFamily": "'Mirza'",
       "fontStyle": "normal",
       "fontWeight": "600",
@@ -44,10 +28,26 @@
         "Mirza SemiBold",
         "Mirza-SemiBold"
       ],
+      "woff": "https://fonts.gstatic.com/s/mirza/v7/co3FmWlikiN5EtIFBtO_k6A.woff",
       "eot": "https://fonts.gstatic.com/s/mirza/v7/co3FmWlikiN5EtIFBtO_k6I.eot",
-      "woff2": "https://fonts.gstatic.com/s/mirza/v7/co3FmWlikiN5EtIFBtO_k6Y.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=co3FmWlikiN5EtIFBtO_k6E&skey=ce10965f006be061&v=v7#Mirza",
       "ttf": "https://fonts.gstatic.com/s/mirza/v7/co3FmWlikiN5EtIFBtO_k6M.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=co3FmWlikiN5EtIFBtO_k6E&skey=ce10965f006be061&v=v7#Mirza",
+      "errored": false
+    },
+    {
+      "id": "500",
+      "eot": "https://fonts.gstatic.com/s/mirza/v7/co3FmWlikiN5EtIpAdO_k6I.eot",
+      "fontFamily": "'Mirza'",
+      "fontStyle": "normal",
+      "fontWeight": "500",
+      "woff": "https://fonts.gstatic.com/s/mirza/v7/co3FmWlikiN5EtIpAdO_k6A.woff",
+      "local": [
+        "Mirza Medium",
+        "Mirza-Medium"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/mirza/v7/co3FmWlikiN5EtIpAdO_k6M.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=co3FmWlikiN5EtIpAdO_k6E&skey=324b00f62d363988&v=v7#Mirza",
+      "woff2": "https://fonts.gstatic.com/s/mirza/v7/co3FmWlikiN5EtIpAdO_k6Y.woff2",
       "errored": false
     },
     {
@@ -61,27 +61,27 @@
         "Mirza Bold",
         "Mirza-Bold"
       ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=co3FmWlikiN5EtJhB9O_k6E&skey=2a5b706a5c111009&v=v7#Mirza",
       "ttf": "https://fonts.gstatic.com/s/mirza/v7/co3FmWlikiN5EtJhB9O_k6M.ttf",
       "woff": "https://fonts.gstatic.com/s/mirza/v7/co3FmWlikiN5EtJhB9O_k6A.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=co3FmWlikiN5EtJhB9O_k6E&skey=2a5b706a5c111009&v=v7#Mirza",
       "errored": false
     }
   ],
   "subsets": [
+    "arabic",
     "latin",
-    "latin-ext",
-    "arabic"
+    "latin-ext"
   ],
   "category": "display",
   "version": "v7",
   "lastModified": "2019-07-16",
-  "popularity": 507,
+  "popularity": 522,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
+    "arabic": false,
     "latin": true,
-    "latin-ext": false,
-    "arabic": false
+    "latin-ext": false
   },
   "storeID": "latin"
 }

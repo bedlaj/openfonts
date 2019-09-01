@@ -4,18 +4,34 @@
   "variants": [
     {
       "id": "200",
-      "eot": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVqekqgxzS.eot",
+      "woff": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVqekqgxzQ.woff",
       "fontFamily": "'Martel'",
       "fontStyle": "normal",
       "fontWeight": "200",
-      "woff": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVqekqgxzQ.woff",
       "local": [
         "Martel UltraLight",
         "Martel-UltraLight"
       ],
-      "woff2": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVqekqgxzW.woff2",
-      "ttf": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVqekqgxzT.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=PN_yRfK9oXHga0XVqekqgxzR&skey=865a7af3f62c4b29&v=v4#Martel",
+      "woff2": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVqekqgxzW.woff2",
+      "eot": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVqekqgxzS.eot",
+      "ttf": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVqekqgxzT.ttf",
+      "errored": false
+    },
+    {
+      "id": "300",
+      "woff": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVzeoqgxzQ.woff",
+      "fontFamily": "'Martel'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "local": [
+        "Martel Light",
+        "Martel-Light"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVzeoqgxzW.woff2",
+      "eot": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVzeoqgxzS.eot",
+      "ttf": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVzeoqgxzT.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=PN_yRfK9oXHga0XVzeoqgxzR&skey=3005143b04f7a910&v=v4#Martel",
       "errored": false
     },
     {
@@ -29,8 +45,8 @@
         "Martel",
         "Martel-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/martel/v4/PN_xRfK9oXHga0XdZ8g_.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=PN_xRfK9oXHga0XdZ8g4&skey=59fb7792dca42154&v=v4#Martel",
+      "woff2": "https://fonts.gstatic.com/s/martel/v4/PN_xRfK9oXHga0XdZ8g_.woff2",
       "ttf": "https://fonts.gstatic.com/s/martel/v4/PN_xRfK9oXHga0XdZ8g6.ttf",
       "errored": false
     },
@@ -46,24 +62,8 @@
         "Martel-DemiBold"
       ],
       "woff2": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVuewqgxzW.woff2",
-      "ttf": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVuewqgxzT.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=PN_yRfK9oXHga0XVuewqgxzR&skey=8f6259619cbf6f4f&v=v4#Martel",
-      "errored": false
-    },
-    {
-      "id": "300",
-      "woff": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVzeoqgxzQ.woff",
-      "fontFamily": "'Martel'",
-      "fontStyle": "normal",
-      "fontWeight": "300",
-      "local": [
-        "Martel Light",
-        "Martel-Light"
-      ],
-      "eot": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVzeoqgxzS.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=PN_yRfK9oXHga0XVzeoqgxzR&skey=3005143b04f7a910&v=v4#Martel",
-      "ttf": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVzeoqgxzT.ttf",
-      "woff2": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVzeoqgxzW.woff2",
+      "ttf": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVuewqgxzT.ttf",
       "errored": false
     },
     {
@@ -72,14 +72,30 @@
       "fontFamily": "'Martel'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff2": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XV3e0qgxzW.woff2",
+      "woff": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XV3e0qgxzQ.woff",
       "local": [
         "Martel Bold",
         "Martel-Bold"
       ],
+      "woff2": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XV3e0qgxzW.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=PN_yRfK9oXHga0XV3e0qgxzR&skey=ce0c9c4932e263d0&v=v4#Martel",
-      "woff": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XV3e0qgxzQ.woff",
       "ttf": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XV3e0qgxzT.ttf",
+      "errored": false
+    },
+    {
+      "id": "800",
+      "eot": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVwe4qgxzS.eot",
+      "fontFamily": "'Martel'",
+      "fontStyle": "normal",
+      "fontWeight": "800",
+      "woff": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVwe4qgxzQ.woff",
+      "local": [
+        "Martel ExtraBold",
+        "Martel-ExtraBold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVwe4qgxzW.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=PN_yRfK9oXHga0XVwe4qgxzR&skey=54db9712fcce8986&v=v4#Martel",
+      "ttf": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVwe4qgxzT.ttf",
       "errored": false
     },
     {
@@ -97,39 +113,23 @@
       "svg": "https://fonts.gstatic.com/l/font?kit=PN_yRfK9oXHga0XV5e8qgxzR&skey=b49d7587e0fc5d49&v=v4#Martel",
       "ttf": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XV5e8qgxzT.ttf",
       "errored": false
-    },
-    {
-      "id": "800",
-      "eot": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVwe4qgxzS.eot",
-      "fontFamily": "'Martel'",
-      "fontStyle": "normal",
-      "fontWeight": "800",
-      "woff": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVwe4qgxzQ.woff",
-      "local": [
-        "Martel ExtraBold",
-        "Martel-ExtraBold"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVwe4qgxzW.woff2",
-      "ttf": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVwe4qgxzT.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=PN_yRfK9oXHga0XVwe4qgxzR&skey=54db9712fcce8986&v=v4#Martel",
-      "errored": false
     }
   ],
   "subsets": [
-    "latin",
     "devanagari",
+    "latin",
     "latin-ext"
   ],
   "category": "serif",
   "version": "v4",
   "lastModified": "2019-07-17",
-  "popularity": 115,
+  "popularity": 105,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
     "devanagari": true,
+    "latin": true,
     "latin-ext": false
   },
-  "storeID": "devanagari_latin"
+  "storeID": "latin_devanagari"
 }

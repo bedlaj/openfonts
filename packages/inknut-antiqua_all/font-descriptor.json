@@ -3,40 +3,40 @@
   "family": "Inknut Antiqua",
   "variants": [
     {
-      "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/inknutantiqua/v5/Y4GSYax7VC4ot_qNB4nYpBdaKXUC.eot",
-      "fontFamily": "'Inknut Antiqua'",
-      "fontStyle": "normal",
-      "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/inknutantiqua/v5/Y4GSYax7VC4ot_qNB4nYpBdaKXUA.woff",
-      "local": [
-        "Inknut Antiqua Regular",
-        "InknutAntiqua-Regular"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/inknutantiqua/v5/Y4GSYax7VC4ot_qNB4nYpBdaKXUG.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Y4GSYax7VC4ot_qNB4nYpBdaKXUB&skey=a8d718863b929f45&v=v5#InknutAntiqua",
-      "ttf": "https://fonts.gstatic.com/s/inknutantiqua/v5/Y4GSYax7VC4ot_qNB4nYpBdaKXUD.ttf",
-      "errored": false
-    },
-    {
       "id": "300",
       "eot": "https://fonts.gstatic.com/s/inknutantiqua/v5/Y4GRYax7VC4ot_qNB4nYpBdaKU2vwrj4.eot",
       "fontFamily": "'Inknut Antiqua'",
       "fontStyle": "normal",
       "fontWeight": "300",
-      "woff": "https://fonts.gstatic.com/s/inknutantiqua/v5/Y4GRYax7VC4ot_qNB4nYpBdaKU2vwrj6.woff",
+      "woff2": "https://fonts.gstatic.com/s/inknutantiqua/v5/Y4GRYax7VC4ot_qNB4nYpBdaKU2vwrj8.woff2",
       "local": [
         "Inknut Antiqua Light",
         "InknutAntiqua-Light"
       ],
       "svg": "https://fonts.gstatic.com/l/font?kit=Y4GRYax7VC4ot_qNB4nYpBdaKU2vwrj7&skey=46d0e07a86defd0f&v=v5#InknutAntiqua",
-      "woff2": "https://fonts.gstatic.com/s/inknutantiqua/v5/Y4GRYax7VC4ot_qNB4nYpBdaKU2vwrj8.woff2",
+      "woff": "https://fonts.gstatic.com/s/inknutantiqua/v5/Y4GRYax7VC4ot_qNB4nYpBdaKU2vwrj6.woff",
       "ttf": "https://fonts.gstatic.com/s/inknutantiqua/v5/Y4GRYax7VC4ot_qNB4nYpBdaKU2vwrj5.ttf",
       "errored": false
     },
     {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/inknutantiqua/v5/Y4GSYax7VC4ot_qNB4nYpBdaKXUA.woff",
+      "fontFamily": "'Inknut Antiqua'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Inknut Antiqua Regular",
+        "InknutAntiqua-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/inknutantiqua/v5/Y4GSYax7VC4ot_qNB4nYpBdaKXUG.woff2",
+      "ttf": "https://fonts.gstatic.com/s/inknutantiqua/v5/Y4GSYax7VC4ot_qNB4nYpBdaKXUD.ttf",
+      "eot": "https://fonts.gstatic.com/s/inknutantiqua/v5/Y4GSYax7VC4ot_qNB4nYpBdaKXUC.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Y4GSYax7VC4ot_qNB4nYpBdaKXUB&skey=a8d718863b929f45&v=v5#InknutAntiqua",
+      "errored": false
+    },
+    {
       "id": "500",
-      "woff2": "https://fonts.gstatic.com/s/inknutantiqua/v5/Y4GRYax7VC4ot_qNB4nYpBdaKU33w7j8.woff2",
+      "woff": "https://fonts.gstatic.com/s/inknutantiqua/v5/Y4GRYax7VC4ot_qNB4nYpBdaKU33w7j6.woff",
       "fontFamily": "'Inknut Antiqua'",
       "fontStyle": "normal",
       "fontWeight": "500",
@@ -44,26 +44,10 @@
         "Inknut Antiqua Medium",
         "InknutAntiqua-Medium"
       ],
-      "woff": "https://fonts.gstatic.com/s/inknutantiqua/v5/Y4GRYax7VC4ot_qNB4nYpBdaKU33w7j6.woff",
       "eot": "https://fonts.gstatic.com/s/inknutantiqua/v5/Y4GRYax7VC4ot_qNB4nYpBdaKU33w7j4.eot",
+      "woff2": "https://fonts.gstatic.com/s/inknutantiqua/v5/Y4GRYax7VC4ot_qNB4nYpBdaKU33w7j8.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=Y4GRYax7VC4ot_qNB4nYpBdaKU33w7j7&skey=1e36365059af3854&v=v5#InknutAntiqua",
       "ttf": "https://fonts.gstatic.com/s/inknutantiqua/v5/Y4GRYax7VC4ot_qNB4nYpBdaKU33w7j5.ttf",
-      "errored": false
-    },
-    {
-      "id": "700",
-      "woff": "https://fonts.gstatic.com/s/inknutantiqua/v5/Y4GRYax7VC4ot_qNB4nYpBdaKU2_xbj6.woff",
-      "fontFamily": "'Inknut Antiqua'",
-      "fontStyle": "normal",
-      "fontWeight": "700",
-      "local": [
-        "Inknut Antiqua Bold",
-        "InknutAntiqua-Bold"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/inknutantiqua/v5/Y4GRYax7VC4ot_qNB4nYpBdaKU2_xbj8.woff2",
-      "ttf": "https://fonts.gstatic.com/s/inknutantiqua/v5/Y4GRYax7VC4ot_qNB4nYpBdaKU2_xbj5.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Y4GRYax7VC4ot_qNB4nYpBdaKU2_xbj7&skey=aa11e3ecfa335951&v=v5#InknutAntiqua",
-      "eot": "https://fonts.gstatic.com/s/inknutantiqua/v5/Y4GRYax7VC4ot_qNB4nYpBdaKU2_xbj4.eot",
       "errored": false
     },
     {
@@ -77,25 +61,25 @@
         "Inknut Antiqua SemiBold",
         "InknutAntiqua-SemiBold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/inknutantiqua/v5/Y4GRYax7VC4ot_qNB4nYpBdaKU3bxLj8.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=Y4GRYax7VC4ot_qNB4nYpBdaKU3bxLj7&skey=dd0df3c8b9ee2475&v=v5#InknutAntiqua",
+      "woff2": "https://fonts.gstatic.com/s/inknutantiqua/v5/Y4GRYax7VC4ot_qNB4nYpBdaKU3bxLj8.woff2",
       "ttf": "https://fonts.gstatic.com/s/inknutantiqua/v5/Y4GRYax7VC4ot_qNB4nYpBdaKU3bxLj5.ttf",
       "errored": false
     },
     {
-      "id": "800",
-      "eot": "https://fonts.gstatic.com/s/inknutantiqua/v5/Y4GRYax7VC4ot_qNB4nYpBdaKU2jxrj4.eot",
+      "id": "700",
+      "woff2": "https://fonts.gstatic.com/s/inknutantiqua/v5/Y4GRYax7VC4ot_qNB4nYpBdaKU2_xbj8.woff2",
       "fontFamily": "'Inknut Antiqua'",
       "fontStyle": "normal",
-      "fontWeight": "800",
-      "woff2": "https://fonts.gstatic.com/s/inknutantiqua/v5/Y4GRYax7VC4ot_qNB4nYpBdaKU2jxrj8.woff2",
+      "fontWeight": "700",
       "local": [
-        "Inknut Antiqua ExtraBold",
-        "InknutAntiqua-ExtraBold"
+        "Inknut Antiqua Bold",
+        "InknutAntiqua-Bold"
       ],
-      "woff": "https://fonts.gstatic.com/s/inknutantiqua/v5/Y4GRYax7VC4ot_qNB4nYpBdaKU2jxrj6.woff",
-      "ttf": "https://fonts.gstatic.com/s/inknutantiqua/v5/Y4GRYax7VC4ot_qNB4nYpBdaKU2jxrj5.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Y4GRYax7VC4ot_qNB4nYpBdaKU2jxrj7&skey=731697920b7c6ec9&v=v5#InknutAntiqua",
+      "eot": "https://fonts.gstatic.com/s/inknutantiqua/v5/Y4GRYax7VC4ot_qNB4nYpBdaKU2_xbj4.eot",
+      "woff": "https://fonts.gstatic.com/s/inknutantiqua/v5/Y4GRYax7VC4ot_qNB4nYpBdaKU2_xbj6.woff",
+      "ttf": "https://fonts.gstatic.com/s/inknutantiqua/v5/Y4GRYax7VC4ot_qNB4nYpBdaKU2_xbj5.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Y4GRYax7VC4ot_qNB4nYpBdaKU2_xbj7&skey=aa11e3ecfa335951&v=v5#InknutAntiqua",
       "errored": false
     },
     {
@@ -104,32 +88,48 @@
       "fontFamily": "'Inknut Antiqua'",
       "fontStyle": "normal",
       "fontWeight": "900",
-      "woff2": "https://fonts.gstatic.com/s/inknutantiqua/v5/Y4GRYax7VC4ot_qNB4nYpBdaKU2Hx7j8.woff2",
+      "woff": "https://fonts.gstatic.com/s/inknutantiqua/v5/Y4GRYax7VC4ot_qNB4nYpBdaKU2Hx7j6.woff",
       "local": [
         "Inknut Antiqua Black",
         "InknutAntiqua-Black"
       ],
+      "woff2": "https://fonts.gstatic.com/s/inknutantiqua/v5/Y4GRYax7VC4ot_qNB4nYpBdaKU2Hx7j8.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=Y4GRYax7VC4ot_qNB4nYpBdaKU2Hx7j7&skey=7b83b759aae0f97&v=v5#InknutAntiqua",
-      "woff": "https://fonts.gstatic.com/s/inknutantiqua/v5/Y4GRYax7VC4ot_qNB4nYpBdaKU2Hx7j6.woff",
       "ttf": "https://fonts.gstatic.com/s/inknutantiqua/v5/Y4GRYax7VC4ot_qNB4nYpBdaKU2Hx7j5.ttf",
+      "errored": false
+    },
+    {
+      "id": "800",
+      "eot": "https://fonts.gstatic.com/s/inknutantiqua/v5/Y4GRYax7VC4ot_qNB4nYpBdaKU2jxrj4.eot",
+      "fontFamily": "'Inknut Antiqua'",
+      "fontStyle": "normal",
+      "fontWeight": "800",
+      "woff": "https://fonts.gstatic.com/s/inknutantiqua/v5/Y4GRYax7VC4ot_qNB4nYpBdaKU2jxrj6.woff",
+      "local": [
+        "Inknut Antiqua ExtraBold",
+        "InknutAntiqua-ExtraBold"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/inknutantiqua/v5/Y4GRYax7VC4ot_qNB4nYpBdaKU2jxrj5.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Y4GRYax7VC4ot_qNB4nYpBdaKU2jxrj7&skey=731697920b7c6ec9&v=v5#InknutAntiqua",
+      "woff2": "https://fonts.gstatic.com/s/inknutantiqua/v5/Y4GRYax7VC4ot_qNB4nYpBdaKU2jxrj8.woff2",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
     "devanagari",
+    "latin",
     "latin-ext"
   ],
   "category": "serif",
   "version": "v5",
   "lastModified": "2019-07-16",
-  "popularity": 705,
+  "popularity": 689,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
     "devanagari": true,
+    "latin": true,
     "latin-ext": true
   },
-  "storeID": "latin-ext_devanagari_latin"
+  "storeID": "latin-ext_latin_devanagari"
 }

@@ -4,51 +4,51 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/amita/v5/HhyaU5si9Om7PTlmC_E.eot",
+      "woff": "https://fonts.gstatic.com/s/amita/v5/HhyaU5si9Om7PTlmC_M.woff",
       "fontFamily": "'Amita'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/amita/v5/HhyaU5si9Om7PTlmC_U.woff2",
       "local": [
         "Amita Regular",
         "Amita-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/amita/v5/HhyaU5si9Om7PTlmC_A.ttf",
+      "woff2": "https://fonts.gstatic.com/s/amita/v5/HhyaU5si9Om7PTlmC_U.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=HhyaU5si9Om7PTlmC_I&skey=3dfbdf6b2e59f965&v=v5#Amita",
-      "woff": "https://fonts.gstatic.com/s/amita/v5/HhyaU5si9Om7PTlmC_M.woff",
+      "ttf": "https://fonts.gstatic.com/s/amita/v5/HhyaU5si9Om7PTlmC_A.ttf",
+      "eot": "https://fonts.gstatic.com/s/amita/v5/HhyaU5si9Om7PTlmC_E.eot",
       "errored": false
     },
     {
       "id": "700",
-      "woff": "https://fonts.gstatic.com/s/amita/v5/HhyXU5si9Om7PTHTLuCLMI0.woff",
+      "eot": "https://fonts.gstatic.com/s/amita/v5/HhyXU5si9Om7PTHTLuCLMI8.eot",
       "fontFamily": "'Amita'",
       "fontStyle": "normal",
       "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/amita/v5/HhyXU5si9Om7PTHTLuCLMI0.woff",
       "local": [
         "Amita Bold",
         "Amita-Bold"
       ],
+      "woff2": "https://fonts.gstatic.com/s/amita/v5/HhyXU5si9Om7PTHTLuCLMIs.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=HhyXU5si9Om7PTHTLuCLMIw&skey=f4d9463ce099459b&v=v5#Amita",
       "ttf": "https://fonts.gstatic.com/s/amita/v5/HhyXU5si9Om7PTHTLuCLMI4.ttf",
-      "woff2": "https://fonts.gstatic.com/s/amita/v5/HhyXU5si9Om7PTHTLuCLMIs.woff2",
-      "eot": "https://fonts.gstatic.com/s/amita/v5/HhyXU5si9Om7PTHTLuCLMI8.eot",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
     "devanagari",
+    "latin",
     "latin-ext"
   ],
   "category": "handwriting",
   "version": "v5",
   "lastModified": "2019-07-16",
-  "popularity": 487,
+  "popularity": 463,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
     "devanagari": false,
+    "latin": true,
     "latin-ext": true
   },
   "storeID": "latin-ext_latin"

@@ -4,18 +4,50 @@
   "variants": [
     {
       "id": "200",
-      "eot": "https://fonts.gstatic.com/s/neuton/v12/UMBQrPtMoH62xUZKAKkvcwr8.eot",
+      "woff": "https://fonts.gstatic.com/s/neuton/v12/UMBQrPtMoH62xUZKAKkvcwr-.woff",
       "fontFamily": "'Neuton'",
       "fontStyle": "normal",
       "fontWeight": "200",
-      "woff2": "https://fonts.gstatic.com/s/neuton/v12/UMBQrPtMoH62xUZKAKkvcwr4.woff2",
       "local": [
         "Neuton ExtraLight",
         "Neuton-ExtraLight"
       ],
-      "woff": "https://fonts.gstatic.com/s/neuton/v12/UMBQrPtMoH62xUZKAKkvcwr-.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=UMBQrPtMoH62xUZKAKkvcwr_&skey=13890a023ea5f0b7&v=v12#Neuton",
+      "woff2": "https://fonts.gstatic.com/s/neuton/v12/UMBQrPtMoH62xUZKAKkvcwr4.woff2",
+      "eot": "https://fonts.gstatic.com/s/neuton/v12/UMBQrPtMoH62xUZKAKkvcwr8.eot",
       "ttf": "https://fonts.gstatic.com/s/neuton/v12/UMBQrPtMoH62xUZKAKkvcwr9.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=UMBQrPtMoH62xUZKAKkvcwr_&skey=13890a023ea5f0b7&v=v12#Neuton",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/neuton/v12/UMBTrPtMoH62xUZCwYg8.woff",
+      "fontFamily": "'Neuton'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Neuton Regular",
+        "Neuton-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/neuton/v12/UMBTrPtMoH62xUZCwYg-.eot",
+      "woff2": "https://fonts.gstatic.com/s/neuton/v12/UMBTrPtMoH62xUZCwYg6.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=UMBTrPtMoH62xUZCwYg9&skey=88f950a540847181&v=v12#Neuton",
+      "ttf": "https://fonts.gstatic.com/s/neuton/v12/UMBTrPtMoH62xUZCwYg_.ttf",
+      "errored": false
+    },
+    {
+      "id": "300",
+      "svg": "https://fonts.gstatic.com/l/font?kit=UMBQrPtMoH62xUZKZKovcwr_&skey=56881972de0a6bb6&v=v12#Neuton",
+      "fontFamily": "'Neuton'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "local": [
+        "Neuton Light",
+        "Neuton-Light"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/neuton/v12/UMBQrPtMoH62xUZKZKovcwr9.ttf",
+      "woff": "https://fonts.gstatic.com/s/neuton/v12/UMBQrPtMoH62xUZKZKovcwr-.woff",
+      "woff2": "https://fonts.gstatic.com/s/neuton/v12/UMBQrPtMoH62xUZKZKovcwr4.woff2",
+      "eot": "https://fonts.gstatic.com/s/neuton/v12/UMBQrPtMoH62xUZKZKovcwr8.eot",
       "errored": false
     },
     {
@@ -29,62 +61,30 @@
         "Neuton Italic",
         "Neuton-Italic"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=UMBRrPtMoH62xUZCyrg2Wig&skey=891dadfcf29cd902&v=v12#Neuton",
       "woff2": "https://fonts.gstatic.com/s/neuton/v12/UMBRrPtMoH62xUZCyrg2Wi8.woff2",
       "ttf": "https://fonts.gstatic.com/s/neuton/v12/UMBRrPtMoH62xUZCyrg2Wio.ttf",
-      "errored": false
-    },
-    {
-      "id": "300",
-      "eot": "https://fonts.gstatic.com/s/neuton/v12/UMBQrPtMoH62xUZKZKovcwr8.eot",
-      "fontFamily": "'Neuton'",
-      "fontStyle": "normal",
-      "fontWeight": "300",
-      "ttf": "https://fonts.gstatic.com/s/neuton/v12/UMBQrPtMoH62xUZKZKovcwr9.ttf",
-      "local": [
-        "Neuton Light",
-        "Neuton-Light"
-      ],
-      "woff": "https://fonts.gstatic.com/s/neuton/v12/UMBQrPtMoH62xUZKZKovcwr-.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=UMBQrPtMoH62xUZKZKovcwr_&skey=56881972de0a6bb6&v=v12#Neuton",
-      "woff2": "https://fonts.gstatic.com/s/neuton/v12/UMBQrPtMoH62xUZKZKovcwr4.woff2",
-      "errored": false
-    },
-    {
-      "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/neuton/v12/UMBTrPtMoH62xUZCwYg-.eot",
-      "fontFamily": "'Neuton'",
-      "fontStyle": "normal",
-      "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/neuton/v12/UMBTrPtMoH62xUZCwYg8.woff",
-      "local": [
-        "Neuton Regular",
-        "Neuton-Regular"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/neuton/v12/UMBTrPtMoH62xUZCwYg6.woff2",
-      "ttf": "https://fonts.gstatic.com/s/neuton/v12/UMBTrPtMoH62xUZCwYg_.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=UMBTrPtMoH62xUZCwYg9&skey=88f950a540847181&v=v12#Neuton",
+      "svg": "https://fonts.gstatic.com/l/font?kit=UMBRrPtMoH62xUZCyrg2Wig&skey=891dadfcf29cd902&v=v12#Neuton",
       "errored": false
     },
     {
       "id": "700",
-      "eot": "https://fonts.gstatic.com/s/neuton/v12/UMBQrPtMoH62xUZKdK0vcwr8.eot",
+      "woff": "https://fonts.gstatic.com/s/neuton/v12/UMBQrPtMoH62xUZKdK0vcwr-.woff",
       "fontFamily": "'Neuton'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/neuton/v12/UMBQrPtMoH62xUZKdK0vcwr-.woff",
       "local": [
         "Neuton Bold",
         "Neuton-Bold"
       ],
+      "eot": "https://fonts.gstatic.com/s/neuton/v12/UMBQrPtMoH62xUZKdK0vcwr8.eot",
       "woff2": "https://fonts.gstatic.com/s/neuton/v12/UMBQrPtMoH62xUZKdK0vcwr4.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=UMBQrPtMoH62xUZKdK0vcwr_&skey=2fa4dd900c5363d8&v=v12#Neuton",
       "ttf": "https://fonts.gstatic.com/s/neuton/v12/UMBQrPtMoH62xUZKdK0vcwr9.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=UMBQrPtMoH62xUZKdK0vcwr_&skey=2fa4dd900c5363d8&v=v12#Neuton",
       "errored": false
     },
     {
       "id": "800",
-      "woff": "https://fonts.gstatic.com/s/neuton/v12/UMBQrPtMoH62xUZKaK4vcwr-.woff",
+      "woff2": "https://fonts.gstatic.com/s/neuton/v12/UMBQrPtMoH62xUZKaK4vcwr4.woff2",
       "fontFamily": "'Neuton'",
       "fontStyle": "normal",
       "fontWeight": "800",
@@ -94,8 +94,8 @@
       ],
       "svg": "https://fonts.gstatic.com/l/font?kit=UMBQrPtMoH62xUZKaK4vcwr_&skey=e658fa9062cfc891&v=v12#Neuton",
       "ttf": "https://fonts.gstatic.com/s/neuton/v12/UMBQrPtMoH62xUZKaK4vcwr9.ttf",
+      "woff": "https://fonts.gstatic.com/s/neuton/v12/UMBQrPtMoH62xUZKaK4vcwr-.woff",
       "eot": "https://fonts.gstatic.com/s/neuton/v12/UMBQrPtMoH62xUZKaK4vcwr8.eot",
-      "woff2": "https://fonts.gstatic.com/s/neuton/v12/UMBQrPtMoH62xUZKaK4vcwr4.woff2",
       "errored": false
     }
   ],
@@ -106,7 +106,7 @@
   "category": "serif",
   "version": "v12",
   "lastModified": "2019-07-16",
-  "popularity": 162,
+  "popularity": 176,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

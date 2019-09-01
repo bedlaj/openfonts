@@ -4,33 +4,33 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/lateef/v15/hESw6XVnNCxEvkb8pB2B.eot",
+      "woff": "https://fonts.gstatic.com/s/lateef/v15/hESw6XVnNCxEvkb8pB2D.woff",
       "fontFamily": "'Lateef'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/lateef/v15/hESw6XVnNCxEvkb8pB2D.woff",
       "local": [
         "Lateef"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=hESw6XVnNCxEvkb8pB2C&skey=c6edfa7a4a5da33&v=v15#Lateef",
+      "eot": "https://fonts.gstatic.com/s/lateef/v15/hESw6XVnNCxEvkb8pB2B.eot",
       "woff2": "https://fonts.gstatic.com/s/lateef/v15/hESw6XVnNCxEvkb8pB2F.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=hESw6XVnNCxEvkb8pB2C&skey=c6edfa7a4a5da33&v=v15#Lateef",
       "ttf": "https://fonts.gstatic.com/s/lateef/v15/hESw6XVnNCxEvkb8pB2A.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
-    "arabic"
+    "arabic",
+    "latin"
   ],
   "category": "handwriting",
   "version": "v15",
   "lastModified": "2019-07-16",
-  "popularity": 320,
+  "popularity": 321,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
-    "arabic": true
+    "arabic": true,
+    "latin": true
   },
-  "storeID": "arabic_latin"
+  "storeID": "latin_arabic"
 }

@@ -4,18 +4,34 @@
   "variants": [
     {
       "id": "200",
-      "eot": "https://fonts.gstatic.com/s/maitree/v4/MjQDmil5tffhpBrklhGNaJiiuQ.eot",
+      "woff": "https://fonts.gstatic.com/s/maitree/v4/MjQDmil5tffhpBrklhGNaJiiuw.woff",
       "fontFamily": "'Maitree'",
       "fontStyle": "normal",
       "fontWeight": "200",
-      "woff2": "https://fonts.gstatic.com/s/maitree/v4/MjQDmil5tffhpBrklhGNaJiivQ.woff2",
       "local": [
         "Maitree ExtraLight",
         "Maitree-ExtraLight"
       ],
-      "woff": "https://fonts.gstatic.com/s/maitree/v4/MjQDmil5tffhpBrklhGNaJiiuw.woff",
-      "ttf": "https://fonts.gstatic.com/s/maitree/v4/MjQDmil5tffhpBrklhGNaJiiuA.ttf",
+      "eot": "https://fonts.gstatic.com/s/maitree/v4/MjQDmil5tffhpBrklhGNaJiiuQ.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=MjQDmil5tffhpBrklhGNaJiiug&skey=3038b1c661a551ae&v=v4#Maitree",
+      "ttf": "https://fonts.gstatic.com/s/maitree/v4/MjQDmil5tffhpBrklhGNaJiiuA.ttf",
+      "woff2": "https://fonts.gstatic.com/s/maitree/v4/MjQDmil5tffhpBrklhGNaJiivQ.woff2",
+      "errored": false
+    },
+    {
+      "id": "300",
+      "woff": "https://fonts.gstatic.com/s/maitree/v4/MjQDmil5tffhpBrklnWOaJiiuw.woff",
+      "fontFamily": "'Maitree'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "local": [
+        "Maitree Light",
+        "Maitree-Light"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=MjQDmil5tffhpBrklnWOaJiiug&skey=734bb18926fba8dc&v=v4#Maitree",
+      "eot": "https://fonts.gstatic.com/s/maitree/v4/MjQDmil5tffhpBrklnWOaJiiuQ.eot",
+      "woff2": "https://fonts.gstatic.com/s/maitree/v4/MjQDmil5tffhpBrklnWOaJiivQ.woff2",
+      "ttf": "https://fonts.gstatic.com/s/maitree/v4/MjQDmil5tffhpBrklnWOaJiiuA.ttf",
       "errored": false
     },
     {
@@ -24,38 +40,21 @@
       "fontFamily": "'Maitree'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/maitree/v4/MjQGmil5tffhpBrkntCsew.woff",
+      "woff2": "https://fonts.gstatic.com/s/maitree/v4/MjQGmil5tffhpBrkntCsfQ.woff2",
       "local": [
         "Maitree"
       ],
-      "woff2": "https://fonts.gstatic.com/s/maitree/v4/MjQGmil5tffhpBrkntCsfQ.woff2",
+      "woff": "https://fonts.gstatic.com/s/maitree/v4/MjQGmil5tffhpBrkntCsew.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=MjQGmil5tffhpBrkntCseg&skey=762eb1b170e72cb3&v=v4#Maitree",
       "ttf": "https://fonts.gstatic.com/s/maitree/v4/MjQGmil5tffhpBrkntCseA.ttf",
       "errored": false
     },
     {
-      "id": "300",
-      "woff2": "https://fonts.gstatic.com/s/maitree/v4/MjQDmil5tffhpBrklnWOaJiivQ.woff2",
-      "fontFamily": "'Maitree'",
-      "fontStyle": "normal",
-      "fontWeight": "300",
-      "local": [
-        "Maitree Light",
-        "Maitree-Light"
-      ],
-      "woff": "https://fonts.gstatic.com/s/maitree/v4/MjQDmil5tffhpBrklnWOaJiiuw.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=MjQDmil5tffhpBrklnWOaJiiug&skey=734bb18926fba8dc&v=v4#Maitree",
-      "ttf": "https://fonts.gstatic.com/s/maitree/v4/MjQDmil5tffhpBrklnWOaJiiuA.ttf",
-      "eot": "https://fonts.gstatic.com/s/maitree/v4/MjQDmil5tffhpBrklnWOaJiiuQ.eot",
-      "errored": false
-    },
-    {
       "id": "500",
-      "eot": "https://fonts.gstatic.com/s/maitree/v4/MjQDmil5tffhpBrkli2PaJiiuQ.eot",
+      "woff": "https://fonts.gstatic.com/s/maitree/v4/MjQDmil5tffhpBrkli2PaJiiuw.woff",
       "fontFamily": "'Maitree'",
       "fontStyle": "normal",
       "fontWeight": "500",
-      "woff": "https://fonts.gstatic.com/s/maitree/v4/MjQDmil5tffhpBrkli2PaJiiuw.woff",
       "local": [
         "Maitree Medium",
         "Maitree-Medium"
@@ -63,58 +62,59 @@
       "woff2": "https://fonts.gstatic.com/s/maitree/v4/MjQDmil5tffhpBrkli2PaJiivQ.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=MjQDmil5tffhpBrkli2PaJiiug&skey=33968a24a966ef28&v=v4#Maitree",
       "ttf": "https://fonts.gstatic.com/s/maitree/v4/MjQDmil5tffhpBrkli2PaJiiuA.ttf",
+      "eot": "https://fonts.gstatic.com/s/maitree/v4/MjQDmil5tffhpBrkli2PaJiiuQ.eot",
       "errored": false
     },
     {
       "id": "600",
-      "eot": "https://fonts.gstatic.com/s/maitree/v4/MjQDmil5tffhpBrklgGIaJiiuQ.eot",
+      "woff": "https://fonts.gstatic.com/s/maitree/v4/MjQDmil5tffhpBrklgGIaJiiuw.woff",
       "fontFamily": "'Maitree'",
       "fontStyle": "normal",
       "fontWeight": "600",
-      "woff": "https://fonts.gstatic.com/s/maitree/v4/MjQDmil5tffhpBrklgGIaJiiuw.woff",
       "local": [
         "Maitree SemiBold",
         "Maitree-SemiBold"
       ],
+      "eot": "https://fonts.gstatic.com/s/maitree/v4/MjQDmil5tffhpBrklgGIaJiiuQ.eot",
       "woff2": "https://fonts.gstatic.com/s/maitree/v4/MjQDmil5tffhpBrklgGIaJiivQ.woff2",
-      "ttf": "https://fonts.gstatic.com/s/maitree/v4/MjQDmil5tffhpBrklgGIaJiiuA.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=MjQDmil5tffhpBrklgGIaJiiug&skey=7218daf92f402559&v=v4#Maitree",
+      "ttf": "https://fonts.gstatic.com/s/maitree/v4/MjQDmil5tffhpBrklgGIaJiiuA.ttf",
       "errored": false
     },
     {
       "id": "700",
-      "eot": "https://fonts.gstatic.com/s/maitree/v4/MjQDmil5tffhpBrklmWJaJiiuQ.eot",
+      "woff2": "https://fonts.gstatic.com/s/maitree/v4/MjQDmil5tffhpBrklmWJaJiivQ.woff2",
       "fontFamily": "'Maitree'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/maitree/v4/MjQDmil5tffhpBrklmWJaJiiuw.woff",
       "local": [
         "Maitree Bold",
         "Maitree-Bold"
       ],
+      "eot": "https://fonts.gstatic.com/s/maitree/v4/MjQDmil5tffhpBrklmWJaJiiuQ.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=MjQDmil5tffhpBrklmWJaJiiug&skey=8ce5182ec735cec5&v=v4#Maitree",
-      "woff2": "https://fonts.gstatic.com/s/maitree/v4/MjQDmil5tffhpBrklmWJaJiivQ.woff2",
       "ttf": "https://fonts.gstatic.com/s/maitree/v4/MjQDmil5tffhpBrklmWJaJiiuA.ttf",
+      "woff": "https://fonts.gstatic.com/s/maitree/v4/MjQDmil5tffhpBrklmWJaJiiuw.woff",
       "errored": false
     }
   ],
   "subsets": [
     "vietnamese",
     "latin",
-    "latin-ext",
-    "thai"
+    "thai",
+    "latin-ext"
   ],
   "category": "serif",
   "version": "v4",
   "lastModified": "2019-07-16",
-  "popularity": 435,
+  "popularity": 445,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "vietnamese": false,
     "latin": true,
-    "latin-ext": true,
-    "thai": false
+    "thai": false,
+    "latin-ext": true
   },
   "storeID": "latin-ext_latin"
 }

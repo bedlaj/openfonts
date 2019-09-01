@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/macondoswashcaps/v7/6NUL8EaAJgGKZA7lpt941Z9s6ZYgDq6-fUAe.ttf",
+      "eot": "https://fonts.gstatic.com/s/macondoswashcaps/v7/6NUL8EaAJgGKZA7lpt941Z9s6ZYgDq6-fUAf.eot",
       "fontFamily": "'Macondo Swash Caps'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "ttf": "https://fonts.gstatic.com/s/macondoswashcaps/v7/6NUL8EaAJgGKZA7lpt941Z9s6ZYgDq6-fUAe.ttf",
       "local": [
         "Macondo Swash Caps",
         "MacondoSwashCaps-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=6NUL8EaAJgGKZA7lpt941Z9s6ZYgDq6-fUAc&skey=e481c3cce08b10c0&v=v7#MacondoSwashCaps",
       "woff": "https://fonts.gstatic.com/s/macondoswashcaps/v7/6NUL8EaAJgGKZA7lpt941Z9s6ZYgDq6-fUAd.woff",
-      "eot": "https://fonts.gstatic.com/s/macondoswashcaps/v7/6NUL8EaAJgGKZA7lpt941Z9s6ZYgDq6-fUAf.eot",
       "woff2": "https://fonts.gstatic.com/s/macondoswashcaps/v7/6NUL8EaAJgGKZA7lpt941Z9s6ZYgDq6-fUAb.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=6NUL8EaAJgGKZA7lpt941Z9s6ZYgDq6-fUAc&skey=e481c3cce08b10c0&v=v7#MacondoSwashCaps",
       "errored": false
     }
   ],
@@ -25,7 +25,7 @@
   "category": "display",
   "version": "v7",
   "lastModified": "2019-07-16",
-  "popularity": 749,
+  "popularity": 725,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

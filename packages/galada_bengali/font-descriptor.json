@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/galada/v5/H4cmBXyGmcjXlUXO5yY6.ttf",
+      "woff2": "https://fonts.gstatic.com/s/galada/v5/H4cmBXyGmcjXlUXO5yY_.woff2",
       "fontFamily": "'Galada'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Galada Regular",
         "Galada-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=H4cmBXyGmcjXlUXO5yY4&skey=de71fa94111f3d7d&v=v5#Galada",
-      "woff": "https://fonts.gstatic.com/s/galada/v5/H4cmBXyGmcjXlUXO5yY5.woff",
       "eot": "https://fonts.gstatic.com/s/galada/v5/H4cmBXyGmcjXlUXO5yY7.eot",
-      "woff2": "https://fonts.gstatic.com/s/galada/v5/H4cmBXyGmcjXlUXO5yY_.woff2",
+      "woff": "https://fonts.gstatic.com/s/galada/v5/H4cmBXyGmcjXlUXO5yY5.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=H4cmBXyGmcjXlUXO5yY4&skey=de71fa94111f3d7d&v=v5#Galada",
+      "ttf": "https://fonts.gstatic.com/s/galada/v5/H4cmBXyGmcjXlUXO5yY6.ttf",
       "errored": false
     }
   ],
@@ -26,7 +26,7 @@
   "category": "display",
   "version": "v5",
   "lastModified": "2019-07-16",
-  "popularity": 600,
+  "popularity": 592,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

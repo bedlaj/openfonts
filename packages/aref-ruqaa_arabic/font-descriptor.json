@@ -3,6 +3,22 @@
   "family": "Aref Ruqaa",
   "variants": [
     {
+      "id": "700",
+      "woff": "https://fonts.gstatic.com/s/arefruqaa/v8/WwkYxPW1E165rajQKDulKDwNQNAY3w.woff",
+      "fontFamily": "'Aref Ruqaa'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Aref Ruqaa Bold",
+        "ArefRuqaa-Bold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/arefruqaa/v8/WwkYxPW1E165rajQKDulKDwNQNAY2Q.woff2",
+      "eot": "https://fonts.gstatic.com/s/arefruqaa/v8/WwkYxPW1E165rajQKDulKDwNQNAY3Q.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=WwkYxPW1E165rajQKDulKDwNQNAY3g&skey=7bd179854eb23c4&v=v8#ArefRuqaa",
+      "ttf": "https://fonts.gstatic.com/s/arefruqaa/v8/WwkYxPW1E165rajQKDulKDwNQNAY3A.ttf",
+      "errored": false
+    },
+    {
       "id": "regular",
       "eot": "https://fonts.gstatic.com/s/arefruqaa/v8/WwkbxPW1E165rajQKDulIIIoUQ.eot",
       "fontFamily": "'Aref Ruqaa'",
@@ -17,37 +33,21 @@
       "woff2": "https://fonts.gstatic.com/s/arefruqaa/v8/WwkbxPW1E165rajQKDulIIIoVQ.woff2",
       "ttf": "https://fonts.gstatic.com/s/arefruqaa/v8/WwkbxPW1E165rajQKDulIIIoUA.ttf",
       "errored": false
-    },
-    {
-      "id": "700",
-      "eot": "https://fonts.gstatic.com/s/arefruqaa/v8/WwkYxPW1E165rajQKDulKDwNQNAY3Q.eot",
-      "fontFamily": "'Aref Ruqaa'",
-      "fontStyle": "normal",
-      "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/arefruqaa/v8/WwkYxPW1E165rajQKDulKDwNQNAY3w.woff",
-      "local": [
-        "Aref Ruqaa Bold",
-        "ArefRuqaa-Bold"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/arefruqaa/v8/WwkYxPW1E165rajQKDulKDwNQNAY2Q.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=WwkYxPW1E165rajQKDulKDwNQNAY3g&skey=7bd179854eb23c4&v=v8#ArefRuqaa",
-      "ttf": "https://fonts.gstatic.com/s/arefruqaa/v8/WwkYxPW1E165rajQKDulKDwNQNAY3A.ttf",
-      "errored": false
     }
   ],
   "subsets": [
-    "latin",
-    "arabic"
+    "arabic",
+    "latin"
   ],
   "category": "serif",
   "version": "v8",
   "lastModified": "2019-07-16",
-  "popularity": 533,
+  "popularity": 509,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
-    "arabic": true
+    "arabic": true,
+    "latin": true
   },
-  "storeID": "arabic_latin"
+  "storeID": "latin_arabic"
 }

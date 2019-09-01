@@ -4,23 +4,23 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/zillaslabhighlight/v7/gNMbW2BrTpK8-inLtBJgMMfbm6uNVDvRxitPaWc.woff",
+      "eot": "https://fonts.gstatic.com/s/zillaslabhighlight/v7/gNMbW2BrTpK8-inLtBJgMMfbm6uNVDvRxitPaWU.eot",
       "fontFamily": "'Zilla Slab Highlight'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/zillaslabhighlight/v7/gNMbW2BrTpK8-inLtBJgMMfbm6uNVDvRxitPaWE.woff2",
       "local": [
         "Zilla Slab Highlight",
         "ZillaSlabHighlight-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/zillaslabhighlight/v7/gNMbW2BrTpK8-inLtBJgMMfbm6uNVDvRxitPaWU.eot",
-      "woff2": "https://fonts.gstatic.com/s/zillaslabhighlight/v7/gNMbW2BrTpK8-inLtBJgMMfbm6uNVDvRxitPaWE.woff2",
+      "woff": "https://fonts.gstatic.com/s/zillaslabhighlight/v7/gNMbW2BrTpK8-inLtBJgMMfbm6uNVDvRxitPaWc.woff",
       "ttf": "https://fonts.gstatic.com/s/zillaslabhighlight/v7/gNMbW2BrTpK8-inLtBJgMMfbm6uNVDvRxitPaWQ.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=gNMbW2BrTpK8-inLtBJgMMfbm6uNVDvRxitPaWY&skey=ab6529b68fd6f762&v=v7#ZillaSlabHighlight",
       "errored": false
     },
     {
       "id": "700",
-      "woff2": "https://fonts.gstatic.com/s/zillaslabhighlight/v7/gNMUW2BrTpK8-inLtBJgMMfbm6uNVDvRxiP0THT_aGQ.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=gNMUW2BrTpK8-inLtBJgMMfbm6uNVDvRxiP0THT_aGM&skey=e02368dac1502ffe&v=v7#ZillaSlabHighlight",
       "fontFamily": "'Zilla Slab Highlight'",
       "fontStyle": "normal",
       "fontWeight": "700",
@@ -28,10 +28,10 @@
         "Zilla Slab Highlight Bold",
         "ZillaSlabHighlight-Bold"
       ],
-      "ttf": "https://fonts.gstatic.com/s/zillaslabhighlight/v7/gNMUW2BrTpK8-inLtBJgMMfbm6uNVDvRxiP0THT_aGE.ttf",
-      "eot": "https://fonts.gstatic.com/s/zillaslabhighlight/v7/gNMUW2BrTpK8-inLtBJgMMfbm6uNVDvRxiP0THT_aGA.eot",
       "woff": "https://fonts.gstatic.com/s/zillaslabhighlight/v7/gNMUW2BrTpK8-inLtBJgMMfbm6uNVDvRxiP0THT_aGI.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=gNMUW2BrTpK8-inLtBJgMMfbm6uNVDvRxiP0THT_aGM&skey=e02368dac1502ffe&v=v7#ZillaSlabHighlight",
+      "ttf": "https://fonts.gstatic.com/s/zillaslabhighlight/v7/gNMUW2BrTpK8-inLtBJgMMfbm6uNVDvRxiP0THT_aGE.ttf",
+      "woff2": "https://fonts.gstatic.com/s/zillaslabhighlight/v7/gNMUW2BrTpK8-inLtBJgMMfbm6uNVDvRxiP0THT_aGQ.woff2",
+      "eot": "https://fonts.gstatic.com/s/zillaslabhighlight/v7/gNMUW2BrTpK8-inLtBJgMMfbm6uNVDvRxiP0THT_aGA.eot",
       "errored": false
     }
   ],
@@ -42,7 +42,7 @@
   "category": "display",
   "version": "v7",
   "lastModified": "2019-07-16",
-  "popularity": 668,
+  "popularity": 756,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

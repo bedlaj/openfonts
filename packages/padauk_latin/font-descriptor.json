@@ -13,41 +13,41 @@
         "",
         "Padauk-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/padauk/v6/RrQRboJg-id7OnbxbEXn.woff",
       "ttf": "https://fonts.gstatic.com/s/padauk/v6/RrQRboJg-id7OnbxbEXk.ttf",
+      "woff": "https://fonts.gstatic.com/s/padauk/v6/RrQRboJg-id7OnbxbEXn.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=RrQRboJg-id7OnbxbEXm&skey=432b8f321c2c2942&v=v6#Padauk",
       "errored": false
     },
     {
       "id": "700",
-      "woff": "https://fonts.gstatic.com/s/padauk/v6/RrQSboJg-id7Onb512D005hD.woff",
+      "eot": "https://fonts.gstatic.com/s/padauk/v6/RrQSboJg-id7Onb512D005hB.eot",
       "fontFamily": "'Padauk'",
       "fontStyle": "normal",
       "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/padauk/v6/RrQSboJg-id7Onb512D005hD.woff",
       "local": [
         " ",
         "Padauk-Bold"
       ],
       "svg": "https://fonts.gstatic.com/l/font?kit=RrQSboJg-id7Onb512D005hC&skey=87ced0acc31e145d&v=v6#Padauk",
-      "ttf": "https://fonts.gstatic.com/s/padauk/v6/RrQSboJg-id7Onb512D005hA.ttf",
-      "eot": "https://fonts.gstatic.com/s/padauk/v6/RrQSboJg-id7Onb512D005hB.eot",
       "woff2": "https://fonts.gstatic.com/s/padauk/v6/RrQSboJg-id7Onb512D005hF.woff2",
+      "ttf": "https://fonts.gstatic.com/s/padauk/v6/RrQSboJg-id7Onb512D005hA.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
-    "myanmar"
+    "myanmar",
+    "latin"
   ],
   "category": "sans-serif",
   "version": "v6",
   "lastModified": "2019-07-16",
-  "popularity": 641,
+  "popularity": 627,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
-    "myanmar": false
+    "myanmar": false,
+    "latin": true
   },
   "storeID": "latin"
 }

@@ -8,30 +8,30 @@
       "fontFamily": "'East Sea Dokdo'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "ttf": "https://fonts.gstatic.com/s/eastseadokdo/v8/xfuo0Wn2V2_KanASqXSZp22m06_XE68.ttf",
+      "woff2": "https://fonts.gstatic.com/s/eastseadokdo/v8/xfuo0Wn2V2_KanASqXSZp22m06_XE6o.woff2",
       "local": [
         "East Sea Dokdo Regular",
         "EastSeaDokdo-Regular"
       ],
       "svg": "https://fonts.gstatic.com/l/font?kit=xfuo0Wn2V2_KanASqXSZp22m06_XE60&skey=44c2728630a38fc5&v=v8#EastSeaDokdo",
+      "ttf": "https://fonts.gstatic.com/s/eastseadokdo/v8/xfuo0Wn2V2_KanASqXSZp22m06_XE68.ttf",
       "woff": "https://fonts.gstatic.com/s/eastseadokdo/v8/xfuo0Wn2V2_KanASqXSZp22m06_XE6w.woff",
-      "woff2": "https://fonts.gstatic.com/s/eastseadokdo/v8/xfuo0Wn2V2_KanASqXSZp22m06_XE6o.woff2",
       "errored": false
     }
   ],
   "subsets": [
-    "korean",
-    "latin"
+    "latin",
+    "korean"
   ],
   "category": "handwriting",
   "version": "v8",
   "lastModified": "2019-07-16",
-  "popularity": 866,
+  "popularity": 831,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "korean": true,
-    "latin": true
+    "latin": true,
+    "korean": true
   },
-  "storeID": "latin_korean"
+  "storeID": "korean_latin"
 }

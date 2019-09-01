@@ -3,22 +3,6 @@
   "family": "Pragati Narrow",
   "variants": [
     {
-      "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/pragatinarrow/v5/vm8vdRf0T0bS1ffgsPB7WZ-mD272wNc.ttf",
-      "fontFamily": "'Pragati Narrow'",
-      "fontStyle": "normal",
-      "fontWeight": "400",
-      "local": [
-        "Pragati Narrow",
-        "PragatiNarrow-Regular"
-      ],
-      "woff": "https://fonts.gstatic.com/s/pragatinarrow/v5/vm8vdRf0T0bS1ffgsPB7WZ-mD272wNQ.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=vm8vdRf0T0bS1ffgsPB7WZ-mD272wNU&skey=b6e4ea7fd62f73f&v=v5#PragatiNarrow",
-      "eot": "https://fonts.gstatic.com/s/pragatinarrow/v5/vm8vdRf0T0bS1ffgsPB7WZ-mD272wNY.eot",
-      "woff2": "https://fonts.gstatic.com/s/pragatinarrow/v5/vm8vdRf0T0bS1ffgsPB7WZ-mD272wNI.woff2",
-      "errored": false
-    },
-    {
       "id": "700",
       "eot": "https://fonts.gstatic.com/s/pragatinarrow/v5/vm8sdRf0T0bS1ffgsPB7WZ-mD2ZD5cd2EpY.eot",
       "fontFamily": "'Pragati Narrow'",
@@ -29,26 +13,42 @@
         "Pragati Narrow Bold",
         "PragatiNarrow-Bold"
       ],
-      "ttf": "https://fonts.gstatic.com/s/pragatinarrow/v5/vm8sdRf0T0bS1ffgsPB7WZ-mD2ZD5cd2Epc.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=vm8sdRf0T0bS1ffgsPB7WZ-mD2ZD5cd2EpU&skey=94136af606b6a494&v=v5#PragatiNarrow",
       "woff2": "https://fonts.gstatic.com/s/pragatinarrow/v5/vm8sdRf0T0bS1ffgsPB7WZ-mD2ZD5cd2EpI.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=vm8sdRf0T0bS1ffgsPB7WZ-mD2ZD5cd2EpU&skey=94136af606b6a494&v=v5#PragatiNarrow",
+      "ttf": "https://fonts.gstatic.com/s/pragatinarrow/v5/vm8sdRf0T0bS1ffgsPB7WZ-mD2ZD5cd2Epc.ttf",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/pragatinarrow/v5/vm8vdRf0T0bS1ffgsPB7WZ-mD272wNY.eot",
+      "fontFamily": "'Pragati Narrow'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/pragatinarrow/v5/vm8vdRf0T0bS1ffgsPB7WZ-mD272wNQ.woff",
+      "local": [
+        "Pragati Narrow",
+        "PragatiNarrow-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/pragatinarrow/v5/vm8vdRf0T0bS1ffgsPB7WZ-mD272wNI.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=vm8vdRf0T0bS1ffgsPB7WZ-mD272wNU&skey=b6e4ea7fd62f73f&v=v5#PragatiNarrow",
+      "ttf": "https://fonts.gstatic.com/s/pragatinarrow/v5/vm8vdRf0T0bS1ffgsPB7WZ-mD272wNc.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
     "devanagari",
+    "latin",
     "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v5",
   "lastModified": "2019-07-16",
-  "popularity": 255,
+  "popularity": 259,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
     "devanagari": false,
+    "latin": true,
     "latin-ext": true
   },
   "storeID": "latin-ext_latin"

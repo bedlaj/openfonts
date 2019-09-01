@@ -4,34 +4,34 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/blackhansans/v8/ea8Aad44WunzF9a-dL6toA8r8kqSK3E.eot",
+      "ttf": "https://fonts.gstatic.com/s/blackhansans/v8/ea8Aad44WunzF9a-dL6toA8r8kqSK3A.ttf",
       "fontFamily": "'Black Han Sans'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/blackhansans/v8/ea8Aad44WunzF9a-dL6toA8r8kqSK3U.woff2",
       "local": [
         "Black Han Sans Regular",
         "BlackHanSans-Regular"
       ],
       "woff": "https://fonts.gstatic.com/s/blackhansans/v8/ea8Aad44WunzF9a-dL6toA8r8kqSK3M.woff",
-      "ttf": "https://fonts.gstatic.com/s/blackhansans/v8/ea8Aad44WunzF9a-dL6toA8r8kqSK3A.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=ea8Aad44WunzF9a-dL6toA8r8kqSK3I&skey=10d56f3563364219&v=v8#BlackHanSans",
+      "woff2": "https://fonts.gstatic.com/s/blackhansans/v8/ea8Aad44WunzF9a-dL6toA8r8kqSK3U.woff2",
+      "eot": "https://fonts.gstatic.com/s/blackhansans/v8/ea8Aad44WunzF9a-dL6toA8r8kqSK3E.eot",
       "errored": false
     }
   ],
   "subsets": [
-    "korean",
-    "latin"
+    "latin",
+    "korean"
   ],
   "category": "sans-serif",
   "version": "v8",
   "lastModified": "2019-07-16",
-  "popularity": 419,
+  "popularity": 417,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "korean": false,
-    "latin": true
+    "latin": true,
+    "korean": false
   },
   "storeID": "latin"
 }

@@ -4,17 +4,17 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/mandali/v8/LhWlMVbYOfASNfNUZEI_Yw.woff",
+      "ttf": "https://fonts.gstatic.com/s/mandali/v8/LhWlMVbYOfASNfNUZEI_YA.ttf",
       "fontFamily": "'Mandali'",
       "fontStyle": "normal",
       "fontWeight": "400",
       "local": [
         "Mandali"
       ],
-      "ttf": "https://fonts.gstatic.com/s/mandali/v8/LhWlMVbYOfASNfNUZEI_YA.ttf",
-      "woff2": "https://fonts.gstatic.com/s/mandali/v8/LhWlMVbYOfASNfNUZEI_ZQ.woff2",
-      "eot": "https://fonts.gstatic.com/s/mandali/v8/LhWlMVbYOfASNfNUZEI_YQ.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=LhWlMVbYOfASNfNUZEI_Yg&skey=9c05afd86886abb8&v=v8#Mandali",
+      "woff2": "https://fonts.gstatic.com/s/mandali/v8/LhWlMVbYOfASNfNUZEI_ZQ.woff2",
+      "woff": "https://fonts.gstatic.com/s/mandali/v8/LhWlMVbYOfASNfNUZEI_Yw.woff",
+      "eot": "https://fonts.gstatic.com/s/mandali/v8/LhWlMVbYOfASNfNUZEI_YQ.eot",
       "errored": false
     }
   ],
@@ -25,7 +25,7 @@
   "category": "sans-serif",
   "version": "v8",
   "lastModified": "2019-07-16",
-  "popularity": 643,
+  "popularity": 635,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

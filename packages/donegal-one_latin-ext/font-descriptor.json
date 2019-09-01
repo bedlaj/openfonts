@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/donegalone/v7/m8JWjfRYea-ZnFz6fsK9FaRMTmg.woff",
+      "eot": "https://fonts.gstatic.com/s/donegalone/v7/m8JWjfRYea-ZnFz6fsK9FaRMTmo.eot",
       "fontFamily": "'Donegal One'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/donegalone/v7/m8JWjfRYea-ZnFz6fsK9FaRMTmg.woff",
       "local": [
         "Donegal One",
         "DonegalOne-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/donegalone/v7/m8JWjfRYea-ZnFz6fsK9FaRMTms.ttf",
-      "eot": "https://fonts.gstatic.com/s/donegalone/v7/m8JWjfRYea-ZnFz6fsK9FaRMTmo.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=m8JWjfRYea-ZnFz6fsK9FaRMTmk&skey=30881e7cfe9fede3&v=v7#DonegalOne",
       "woff2": "https://fonts.gstatic.com/s/donegalone/v7/m8JWjfRYea-ZnFz6fsK9FaRMTm4.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=m8JWjfRYea-ZnFz6fsK9FaRMTmk&skey=30881e7cfe9fede3&v=v7#DonegalOne",
+      "ttf": "https://fonts.gstatic.com/s/donegalone/v7/m8JWjfRYea-ZnFz6fsK9FaRMTms.ttf",
       "errored": false
     }
   ],
@@ -26,7 +26,7 @@
   "category": "serif",
   "version": "v7",
   "lastModified": "2019-07-16",
-  "popularity": 651,
+  "popularity": 653,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

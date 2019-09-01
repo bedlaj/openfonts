@@ -4,33 +4,33 @@
   "variants": [
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=If2IXTPxciS3H4S2oZDVOQ&skey=dd6c9651a76f041a&v=v7#Oregano",
+      "eot": "https://fonts.gstatic.com/s/oregano/v7/If2IXTPxciS3H4S2oZDVOg.eot",
       "fontFamily": "'Oregano'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "svg": "https://fonts.gstatic.com/l/font?kit=If2IXTPxciS3H4S2oZDVOQ&skey=dd6c9651a76f041a&v=v7#Oregano",
       "local": [
         "Oregano",
         "Oregano-Regular"
       ],
       "woff2": "https://fonts.gstatic.com/s/oregano/v7/If2IXTPxciS3H4S2oZDVPg.woff2",
-      "eot": "https://fonts.gstatic.com/s/oregano/v7/If2IXTPxciS3H4S2oZDVOg.eot",
-      "woff": "https://fonts.gstatic.com/s/oregano/v7/If2IXTPxciS3H4S2oZDVOA.woff",
       "ttf": "https://fonts.gstatic.com/s/oregano/v7/If2IXTPxciS3H4S2oZDVOw.ttf",
+      "woff": "https://fonts.gstatic.com/s/oregano/v7/If2IXTPxciS3H4S2oZDVOA.woff",
       "errored": false
     },
     {
       "id": "italic",
-      "woff": "https://fonts.gstatic.com/s/oregano/v7/If2KXTPxciS3H4S2oZXlPBHM.woff",
+      "eot": "https://fonts.gstatic.com/s/oregano/v7/If2KXTPxciS3H4S2oZXlPBHO.eot",
       "fontFamily": "'Oregano'",
       "fontStyle": "italic",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/oregano/v7/If2KXTPxciS3H4S2oZXlPBHM.woff",
       "local": [
         "Oregano Italic",
         "Oregano-Italic"
       ],
       "woff2": "https://fonts.gstatic.com/s/oregano/v7/If2KXTPxciS3H4S2oZXlPBHK.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=If2KXTPxciS3H4S2oZXlPBHN&skey=c349953193d858e4&v=v7#Oregano",
-      "eot": "https://fonts.gstatic.com/s/oregano/v7/If2KXTPxciS3H4S2oZXlPBHO.eot",
       "ttf": "https://fonts.gstatic.com/s/oregano/v7/If2KXTPxciS3H4S2oZXlPBHP.ttf",
       "errored": false
     }
@@ -42,7 +42,7 @@
   "category": "display",
   "version": "v7",
   "lastModified": "2019-07-16",
-  "popularity": 509,
+  "popularity": 500,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

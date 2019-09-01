@@ -3,24 +3,40 @@
   "family": "Noto Serif",
   "variants": [
     {
+      "id": "italic",
+      "woff": "https://fonts.gstatic.com/s/notoserif/v8/ga6Kaw1J5X9T9RW6j9bNfFIWbg.woff",
+      "fontFamily": "'Noto Serif'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "local": [
+        "Noto Serif Italic",
+        "NotoSerif-Italic"
+      ],
+      "eot": "https://fonts.gstatic.com/s/notoserif/v8/ga6Kaw1J5X9T9RW6j9bNfFIWbA.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=ga6Kaw1J5X9T9RW6j9bNfFIWbw&skey=39fc6d597fb39b7e&v=v8#NotoSerif",
+      "ttf": "https://fonts.gstatic.com/s/notoserif/v8/ga6Kaw1J5X9T9RW6j9bNfFIWbQ.ttf",
+      "woff2": "https://fonts.gstatic.com/s/notoserif/v8/ga6Kaw1J5X9T9RW6j9bNfFIWaA.woff2",
+      "errored": false
+    },
+    {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/notoserif/v8/ga6Iaw1J5X9T9RW6j9bNTFU.woff2",
+      "eot": "https://fonts.gstatic.com/s/notoserif/v8/ga6Iaw1J5X9T9RW6j9bNTFE.eot",
       "fontFamily": "'Noto Serif'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "svg": "https://fonts.gstatic.com/l/font?kit=ga6Iaw1J5X9T9RW6j9bNTFI&skey=ff3f102bd67fc93c&v=v8#NotoSerif",
       "local": [
         "Noto Serif",
         "NotoSerif"
       ],
-      "eot": "https://fonts.gstatic.com/s/notoserif/v8/ga6Iaw1J5X9T9RW6j9bNTFE.eot",
       "woff": "https://fonts.gstatic.com/s/notoserif/v8/ga6Iaw1J5X9T9RW6j9bNTFM.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=ga6Iaw1J5X9T9RW6j9bNTFI&skey=ff3f102bd67fc93c&v=v8#NotoSerif",
       "ttf": "https://fonts.gstatic.com/s/notoserif/v8/ga6Iaw1J5X9T9RW6j9bNTFA.ttf",
+      "woff2": "https://fonts.gstatic.com/s/notoserif/v8/ga6Iaw1J5X9T9RW6j9bNTFU.woff2",
       "errored": false
     },
     {
       "id": "700",
-      "woff2": "https://fonts.gstatic.com/s/notoserif/v8/ga6Law1J5X9T9RW6j9bNdOwzTRU.woff2",
+      "woff": "https://fonts.gstatic.com/s/notoserif/v8/ga6Law1J5X9T9RW6j9bNdOwzTRM.woff",
       "fontFamily": "'Noto Serif'",
       "fontStyle": "normal",
       "fontWeight": "700",
@@ -28,9 +44,9 @@
         "Noto Serif Bold",
         "NotoSerif-Bold"
       ],
-      "eot": "https://fonts.gstatic.com/s/notoserif/v8/ga6Law1J5X9T9RW6j9bNdOwzTRE.eot",
-      "woff": "https://fonts.gstatic.com/s/notoserif/v8/ga6Law1J5X9T9RW6j9bNdOwzTRM.woff",
+      "woff2": "https://fonts.gstatic.com/s/notoserif/v8/ga6Law1J5X9T9RW6j9bNdOwzTRU.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=ga6Law1J5X9T9RW6j9bNdOwzTRI&skey=d061d87fe9231c&v=v8#NotoSerif",
+      "eot": "https://fonts.gstatic.com/s/notoserif/v8/ga6Law1J5X9T9RW6j9bNdOwzTRE.eot",
       "ttf": "https://fonts.gstatic.com/s/notoserif/v8/ga6Law1J5X9T9RW6j9bNdOwzTRA.ttf",
       "errored": false
     },
@@ -45,36 +61,20 @@
         "NotoSerif-BoldItalic"
       ],
       "woff2": "https://fonts.gstatic.com/s/notoserif/v8/ga6Vaw1J5X9T9RW6j9bNfFIu0RWecQ.woff2",
-      "eot": "https://fonts.gstatic.com/s/notoserif/v8/ga6Vaw1J5X9T9RW6j9bNfFIu0RWedQ.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=ga6Vaw1J5X9T9RW6j9bNfFIu0RWedg&skey=9777b861e0fad22b&v=v8#NotoSerif",
+      "eot": "https://fonts.gstatic.com/s/notoserif/v8/ga6Vaw1J5X9T9RW6j9bNfFIu0RWedQ.eot",
       "ttf": "https://fonts.gstatic.com/s/notoserif/v8/ga6Vaw1J5X9T9RW6j9bNfFIu0RWedA.ttf",
-      "errored": false
-    },
-    {
-      "id": "italic",
-      "woff2": "https://fonts.gstatic.com/s/notoserif/v8/ga6Kaw1J5X9T9RW6j9bNfFIWaA.woff2",
-      "fontFamily": "'Noto Serif'",
-      "fontStyle": "italic",
-      "fontWeight": "400",
-      "local": [
-        "Noto Serif Italic",
-        "NotoSerif-Italic"
-      ],
-      "eot": "https://fonts.gstatic.com/s/notoserif/v8/ga6Kaw1J5X9T9RW6j9bNfFIWbA.eot",
-      "woff": "https://fonts.gstatic.com/s/notoserif/v8/ga6Kaw1J5X9T9RW6j9bNfFIWbg.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=ga6Kaw1J5X9T9RW6j9bNfFIWbw&skey=39fc6d597fb39b7e&v=v8#NotoSerif",
-      "ttf": "https://fonts.gstatic.com/s/notoserif/v8/ga6Kaw1J5X9T9RW6j9bNfFIWbQ.ttf",
       "errored": false
     }
   ],
   "subsets": [
+    "greek",
     "greek-ext",
     "vietnamese",
-    "greek",
     "latin",
-    "latin-ext",
+    "cyrillic-ext",
     "cyrillic",
-    "cyrillic-ext"
+    "latin-ext"
   ],
   "category": "serif",
   "version": "v8",
@@ -83,13 +83,13 @@
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
+    "greek": true,
     "greek-ext": true,
     "vietnamese": true,
-    "greek": true,
     "latin": true,
-    "latin-ext": true,
+    "cyrillic-ext": true,
     "cyrillic": true,
-    "cyrillic-ext": true
+    "latin-ext": true
   },
-  "storeID": "cyrillic-ext_cyrillic_latin-ext_latin_greek_vietnamese_greek-ext"
+  "storeID": "latin-ext_cyrillic_cyrillic-ext_latin_vietnamese_greek-ext_greek"
 }

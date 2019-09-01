@@ -14,40 +14,40 @@
       ],
       "woff2": "https://fonts.gstatic.com/s/amiri/v13/J7aRnpd8CGxBHpUutLM.woff2",
       "eot": "https://fonts.gstatic.com/s/amiri/v13/J7aRnpd8CGxBHpUutLc.eot",
-      "ttf": "https://fonts.gstatic.com/s/amiri/v13/J7aRnpd8CGxBHpUutLY.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=J7aRnpd8CGxBHpUutLQ&skey=159039cc026b7e65&v=v13#Amiri",
-      "errored": false
-    },
-    {
-      "id": "italic",
-      "woff": "https://fonts.gstatic.com/s/amiri/v13/J7afnpd8CGxBHpUrhLEY7Q.woff",
-      "fontFamily": "'Amiri'",
-      "fontStyle": "italic",
-      "fontWeight": "400",
-      "local": [
-        "Amiri Italic",
-        "Amiri-Italic"
-      ],
-      "eot": "https://fonts.gstatic.com/s/amiri/v13/J7afnpd8CGxBHpUrhLEY7w.eot",
-      "ttf": "https://fonts.gstatic.com/s/amiri/v13/J7afnpd8CGxBHpUrhLEY7g.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=J7afnpd8CGxBHpUrhLEY7A&skey=6f7852bf6f540377&v=v13#Amiri",
-      "woff2": "https://fonts.gstatic.com/s/amiri/v13/J7afnpd8CGxBHpUrhLEY6w.woff2",
+      "ttf": "https://fonts.gstatic.com/s/amiri/v13/J7aRnpd8CGxBHpUutLY.ttf",
       "errored": false
     },
     {
       "id": "700",
-      "woff": "https://fonts.gstatic.com/s/amiri/v13/J7acnpd8CGxBHp2VkaY_zpg.woff",
+      "eot": "https://fonts.gstatic.com/s/amiri/v13/J7acnpd8CGxBHp2VkaY_zpo.eot",
       "fontFamily": "'Amiri'",
       "fontStyle": "normal",
       "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/amiri/v13/J7acnpd8CGxBHp2VkaY_zpg.woff",
       "local": [
         "Amiri Bold",
         "Amiri-Bold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/amiri/v13/J7acnpd8CGxBHp2VkaY_zp4.woff2",
-      "eot": "https://fonts.gstatic.com/s/amiri/v13/J7acnpd8CGxBHp2VkaY_zpo.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=J7acnpd8CGxBHp2VkaY_zpk&skey=5c9e4d49faf75fc2&v=v13#Amiri",
+      "woff2": "https://fonts.gstatic.com/s/amiri/v13/J7acnpd8CGxBHp2VkaY_zp4.woff2",
       "ttf": "https://fonts.gstatic.com/s/amiri/v13/J7acnpd8CGxBHp2VkaY_zps.ttf",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "eot": "https://fonts.gstatic.com/s/amiri/v13/J7afnpd8CGxBHpUrhLEY7w.eot",
+      "fontFamily": "'Amiri'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/amiri/v13/J7afnpd8CGxBHpUrhLEY7Q.woff",
+      "local": [
+        "Amiri Italic",
+        "Amiri-Italic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/amiri/v13/J7afnpd8CGxBHpUrhLEY6w.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=J7afnpd8CGxBHpUrhLEY7A&skey=6f7852bf6f540377&v=v13#Amiri",
+      "ttf": "https://fonts.gstatic.com/s/amiri/v13/J7afnpd8CGxBHpUrhLEY7g.ttf",
       "errored": false
     },
     {
@@ -56,32 +56,32 @@
       "fontFamily": "'Amiri'",
       "fontStyle": "italic",
       "fontWeight": "700",
-      "woff2": "https://fonts.gstatic.com/s/amiri/v13/J7aanpd8CGxBHpUrjAo9_pxqHw.woff2",
+      "woff": "https://fonts.gstatic.com/s/amiri/v13/J7aanpd8CGxBHpUrjAo9_pxqGQ.woff",
       "local": [
         "Amiri Bold Italic",
         "Amiri-BoldItalic"
       ],
-      "ttf": "https://fonts.gstatic.com/s/amiri/v13/J7aanpd8CGxBHpUrjAo9_pxqGg.ttf",
-      "woff": "https://fonts.gstatic.com/s/amiri/v13/J7aanpd8CGxBHpUrjAo9_pxqGQ.woff",
+      "woff2": "https://fonts.gstatic.com/s/amiri/v13/J7aanpd8CGxBHpUrjAo9_pxqHw.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=J7aanpd8CGxBHpUrjAo9_pxqGA&skey=ccca51069e17c5a2&v=v13#Amiri",
+      "ttf": "https://fonts.gstatic.com/s/amiri/v13/J7aanpd8CGxBHpUrjAo9_pxqGg.ttf",
       "errored": false
     }
   ],
   "subsets": [
+    "arabic",
     "latin",
-    "latin-ext",
-    "arabic"
+    "latin-ext"
   ],
   "category": "serif",
   "version": "v13",
   "lastModified": "2019-07-17",
-  "popularity": 98,
+  "popularity": 97,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
+    "arabic": false,
     "latin": true,
-    "latin-ext": false,
-    "arabic": false
+    "latin-ext": false
   },
   "storeID": "latin"
 }

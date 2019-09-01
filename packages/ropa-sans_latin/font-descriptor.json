@@ -4,33 +4,33 @@
   "variants": [
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=EYqxmaNOzLlWtsZSScy6XTNu&skey=edf65b5a911839ad&v=v9#RopaSans",
+      "eot": "https://fonts.gstatic.com/s/ropasans/v9/EYqxmaNOzLlWtsZSScy6XTNt.eot",
       "fontFamily": "'Ropa Sans'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "ttf": "https://fonts.gstatic.com/s/ropasans/v9/EYqxmaNOzLlWtsZSScy6XTNs.ttf",
       "local": [
         "Ropa Sans Regular",
         "RopaSans-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/ropasans/v9/EYqxmaNOzLlWtsZSScy6XTNv.woff",
-      "eot": "https://fonts.gstatic.com/s/ropasans/v9/EYqxmaNOzLlWtsZSScy6XTNt.eot",
-      "ttf": "https://fonts.gstatic.com/s/ropasans/v9/EYqxmaNOzLlWtsZSScy6XTNs.ttf",
       "woff2": "https://fonts.gstatic.com/s/ropasans/v9/EYqxmaNOzLlWtsZSScy6XTNp.woff2",
+      "woff": "https://fonts.gstatic.com/s/ropasans/v9/EYqxmaNOzLlWtsZSScy6XTNv.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=EYqxmaNOzLlWtsZSScy6XTNu&skey=edf65b5a911839ad&v=v9#RopaSans",
       "errored": false
     },
     {
       "id": "italic",
-      "woff2": "https://fonts.gstatic.com/s/ropasans/v9/EYq3maNOzLlWtsZSScy6WANre5Y.woff2",
+      "eot": "https://fonts.gstatic.com/s/ropasans/v9/EYq3maNOzLlWtsZSScy6WANre5I.eot",
       "fontFamily": "'Ropa Sans'",
       "fontStyle": "italic",
       "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/ropasans/v9/EYq3maNOzLlWtsZSScy6WANre5Y.woff2",
       "local": [
         "Ropa Sans Italic",
         "RopaSans-Italic"
       ],
-      "eot": "https://fonts.gstatic.com/s/ropasans/v9/EYq3maNOzLlWtsZSScy6WANre5I.eot",
-      "woff": "https://fonts.gstatic.com/s/ropasans/v9/EYq3maNOzLlWtsZSScy6WANre5A.woff",
       "ttf": "https://fonts.gstatic.com/s/ropasans/v9/EYq3maNOzLlWtsZSScy6WANre5M.ttf",
+      "woff": "https://fonts.gstatic.com/s/ropasans/v9/EYq3maNOzLlWtsZSScy6WANre5A.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=EYq3maNOzLlWtsZSScy6WANre5E&skey=c6198dadd1bf5d82&v=v9#RopaSans",
       "errored": false
     }
@@ -42,7 +42,7 @@
   "category": "sans-serif",
   "version": "v9",
   "lastModified": "2019-07-17",
-  "popularity": 91,
+  "popularity": 85,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

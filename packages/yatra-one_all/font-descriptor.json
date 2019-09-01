@@ -13,27 +13,27 @@
         "Yatra One Regular",
         "YatraOne-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/yatraone/v6/C8ch4copsHzj8p7NaF0xww.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=C8ch4copsHzj8p7NaF0xwQ&skey=3921a9df435bda23&v=v6#YatraOne",
       "woff2": "https://fonts.gstatic.com/s/yatraone/v6/C8ch4copsHzj8p7NaF0xxg.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=C8ch4copsHzj8p7NaF0xwQ&skey=3921a9df435bda23&v=v6#YatraOne",
+      "ttf": "https://fonts.gstatic.com/s/yatraone/v6/C8ch4copsHzj8p7NaF0xww.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
     "devanagari",
+    "latin",
     "latin-ext"
   ],
   "category": "display",
   "version": "v6",
   "lastModified": "2019-07-16",
-  "popularity": 660,
+  "popularity": 642,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
     "devanagari": true,
+    "latin": true,
     "latin-ext": true
   },
-  "storeID": "latin-ext_devanagari_latin"
+  "storeID": "latin-ext_latin_devanagari"
 }

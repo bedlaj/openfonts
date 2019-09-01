@@ -4,34 +4,34 @@
   "variants": [
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=jizfREFUsnUct9P6cDfd0OStKg&skey=e23f2981588de137&v=v8#PoorStory",
+      "eot": "https://fonts.gstatic.com/s/poorstory/v8/jizfREFUsnUct9P6cDfd0OStKQ.eot",
       "fontFamily": "'Poor Story'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/poorstory/v8/jizfREFUsnUct9P6cDfd0OStLQ.woff2",
       "local": [
         "Poor Story Regular",
         "PoorStory-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/poorstory/v8/jizfREFUsnUct9P6cDfd0OStKQ.eot",
-      "woff2": "https://fonts.gstatic.com/s/poorstory/v8/jizfREFUsnUct9P6cDfd0OStLQ.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=jizfREFUsnUct9P6cDfd0OStKg&skey=e23f2981588de137&v=v8#PoorStory",
       "woff": "https://fonts.gstatic.com/s/poorstory/v8/jizfREFUsnUct9P6cDfd0OStKw.woff",
       "ttf": "https://fonts.gstatic.com/s/poorstory/v8/jizfREFUsnUct9P6cDfd0OStKA.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "korean",
-    "latin"
+    "latin",
+    "korean"
   ],
   "category": "display",
   "version": "v8",
   "lastModified": "2019-07-16",
-  "popularity": 817,
+  "popularity": 800,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "korean": true,
-    "latin": true
+    "latin": true,
+    "korean": true
   },
-  "storeID": "latin_korean"
+  "storeID": "korean_latin"
 }

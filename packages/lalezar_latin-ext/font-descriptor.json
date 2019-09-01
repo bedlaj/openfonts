@@ -4,38 +4,38 @@
   "variants": [
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=zrfl0HLVx-HwTP82Yan4JA&skey=98b64abaf403d4dc&v=v6#Lalezar",
+      "eot": "https://fonts.gstatic.com/s/lalezar/v6/zrfl0HLVx-HwTP82Yan4Jw.eot",
       "fontFamily": "'Lalezar'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/lalezar/v6/zrfl0HLVx-HwTP82Yan4JQ.woff",
       "local": [
         "Lalezar",
         "Lalezar-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/lalezar/v6/zrfl0HLVx-HwTP82Yan4Jw.eot",
-      "ttf": "https://fonts.gstatic.com/s/lalezar/v6/zrfl0HLVx-HwTP82Yan4Jg.ttf",
-      "woff": "https://fonts.gstatic.com/s/lalezar/v6/zrfl0HLVx-HwTP82Yan4JQ.woff",
       "woff2": "https://fonts.gstatic.com/s/lalezar/v6/zrfl0HLVx-HwTP82Yan4Iw.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=zrfl0HLVx-HwTP82Yan4JA&skey=98b64abaf403d4dc&v=v6#Lalezar",
+      "ttf": "https://fonts.gstatic.com/s/lalezar/v6/zrfl0HLVx-HwTP82Yan4Jg.ttf",
       "errored": false
     }
   ],
   "subsets": [
     "vietnamese",
+    "arabic",
     "latin",
-    "latin-ext",
-    "arabic"
+    "latin-ext"
   ],
   "category": "display",
   "version": "v6",
   "lastModified": "2019-07-16",
-  "popularity": 165,
+  "popularity": 145,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "vietnamese": false,
+    "arabic": false,
     "latin": true,
-    "latin-ext": true,
-    "arabic": false
+    "latin-ext": true
   },
   "storeID": "latin-ext_latin"
 }

@@ -12,30 +12,30 @@
         "Prata Regular",
         "Prata-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/prata/v10/6xKhdSpbNNCT-sWCCmo.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=6xKhdSpbNNCT-sWCCmk&skey=3b0c7d1d6e89685d&v=v10#Prata",
       "woff2": "https://fonts.gstatic.com/s/prata/v10/6xKhdSpbNNCT-sWCCm4.woff2",
       "ttf": "https://fonts.gstatic.com/s/prata/v10/6xKhdSpbNNCT-sWCCms.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=6xKhdSpbNNCT-sWCCmk&skey=3b0c7d1d6e89685d&v=v10#Prata",
+      "eot": "https://fonts.gstatic.com/s/prata/v10/6xKhdSpbNNCT-sWCCmo.eot",
       "errored": false
     }
   ],
   "subsets": [
     "vietnamese",
     "latin",
-    "cyrillic",
-    "cyrillic-ext"
+    "cyrillic-ext",
+    "cyrillic"
   ],
   "category": "serif",
   "version": "v10",
   "lastModified": "2019-07-16",
-  "popularity": 169,
+  "popularity": 173,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "vietnamese": false,
     "latin": true,
-    "cyrillic": false,
-    "cyrillic-ext": true
+    "cyrillic-ext": true,
+    "cyrillic": false
   },
   "storeID": "cyrillic-ext_latin"
 }

@@ -4,34 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/abhayalibre/v5/e3tmeuGtX-Co5MNzeAOqinEQYUnT.eot",
+      "woff": "https://fonts.gstatic.com/s/abhayalibre/v5/e3tmeuGtX-Co5MNzeAOqinEQYUnR.woff",
       "fontFamily": "'Abhaya Libre'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "ttf": "https://fonts.gstatic.com/s/abhayalibre/v5/e3tmeuGtX-Co5MNzeAOqinEQYUnS.ttf",
       "local": [
         "Abhaya Libre Regular",
         "AbhayaLibre-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/abhayalibre/v5/e3tmeuGtX-Co5MNzeAOqinEQYUnR.woff",
+      "ttf": "https://fonts.gstatic.com/s/abhayalibre/v5/e3tmeuGtX-Co5MNzeAOqinEQYUnS.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=e3tmeuGtX-Co5MNzeAOqinEQYUnQ&skey=4aba808beb02377b&v=v5#AbhayaLibre",
+      "eot": "https://fonts.gstatic.com/s/abhayalibre/v5/e3tmeuGtX-Co5MNzeAOqinEQYUnT.eot",
       "woff2": "https://fonts.gstatic.com/s/abhayalibre/v5/e3tmeuGtX-Co5MNzeAOqinEQYUnX.woff2",
-      "errored": false
-    },
-    {
-      "id": "500",
-      "ttf": "https://fonts.gstatic.com/s/abhayalibre/v5/e3t5euGtX-Co5MNzeAOqinEYj2rCsNZM.ttf",
-      "fontFamily": "'Abhaya Libre'",
-      "fontStyle": "normal",
-      "fontWeight": "500",
-      "local": [
-        "Abhaya Libre Medium",
-        "AbhayaLibre-Medium"
-      ],
-      "woff": "https://fonts.gstatic.com/s/abhayalibre/v5/e3t5euGtX-Co5MNzeAOqinEYj2rCsNZP.woff",
-      "woff2": "https://fonts.gstatic.com/s/abhayalibre/v5/e3t5euGtX-Co5MNzeAOqinEYj2rCsNZJ.woff2",
-      "eot": "https://fonts.gstatic.com/s/abhayalibre/v5/e3t5euGtX-Co5MNzeAOqinEYj2rCsNZN.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=e3t5euGtX-Co5MNzeAOqinEYj2rCsNZO&skey=c9f234d72fbefdc5&v=v5#AbhayaLibre",
       "errored": false
     },
     {
@@ -45,59 +29,75 @@
         "Abhaya Libre SemiBold",
         "AbhayaLibre-SemiBold"
       ],
-      "woff": "https://fonts.gstatic.com/s/abhayalibre/v5/e3t5euGtX-Co5MNzeAOqinEYo23CsNZP.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=e3t5euGtX-Co5MNzeAOqinEYo23CsNZO&skey=7806b586edfb51c5&v=v5#AbhayaLibre",
       "ttf": "https://fonts.gstatic.com/s/abhayalibre/v5/e3t5euGtX-Co5MNzeAOqinEYo23CsNZM.ttf",
+      "woff": "https://fonts.gstatic.com/s/abhayalibre/v5/e3t5euGtX-Co5MNzeAOqinEYo23CsNZP.woff",
       "errored": false
     },
     {
       "id": "700",
-      "eot": "https://fonts.gstatic.com/s/abhayalibre/v5/e3t5euGtX-Co5MNzeAOqinEYx2zCsNZN.eot",
+      "woff": "https://fonts.gstatic.com/s/abhayalibre/v5/e3t5euGtX-Co5MNzeAOqinEYx2zCsNZP.woff",
       "fontFamily": "'Abhaya Libre'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/abhayalibre/v5/e3t5euGtX-Co5MNzeAOqinEYx2zCsNZP.woff",
       "local": [
         "Abhaya Libre Bold",
         "AbhayaLibre-Bold"
       ],
       "woff2": "https://fonts.gstatic.com/s/abhayalibre/v5/e3t5euGtX-Co5MNzeAOqinEYx2zCsNZJ.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=e3t5euGtX-Co5MNzeAOqinEYx2zCsNZO&skey=236daab164e65f82&v=v5#AbhayaLibre",
+      "eot": "https://fonts.gstatic.com/s/abhayalibre/v5/e3t5euGtX-Co5MNzeAOqinEYx2zCsNZN.eot",
       "ttf": "https://fonts.gstatic.com/s/abhayalibre/v5/e3t5euGtX-Co5MNzeAOqinEYx2zCsNZM.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=e3t5euGtX-Co5MNzeAOqinEYx2zCsNZO&skey=236daab164e65f82&v=v5#AbhayaLibre",
+      "errored": false
+    },
+    {
+      "id": "500",
+      "woff": "https://fonts.gstatic.com/s/abhayalibre/v5/e3t5euGtX-Co5MNzeAOqinEYj2rCsNZP.woff",
+      "fontFamily": "'Abhaya Libre'",
+      "fontStyle": "normal",
+      "fontWeight": "500",
+      "local": [
+        "Abhaya Libre Medium",
+        "AbhayaLibre-Medium"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/abhayalibre/v5/e3t5euGtX-Co5MNzeAOqinEYj2rCsNZJ.woff2",
+      "ttf": "https://fonts.gstatic.com/s/abhayalibre/v5/e3t5euGtX-Co5MNzeAOqinEYj2rCsNZM.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=e3t5euGtX-Co5MNzeAOqinEYj2rCsNZO&skey=c9f234d72fbefdc5&v=v5#AbhayaLibre",
+      "eot": "https://fonts.gstatic.com/s/abhayalibre/v5/e3t5euGtX-Co5MNzeAOqinEYj2rCsNZN.eot",
       "errored": false
     },
     {
       "id": "800",
-      "woff2": "https://fonts.gstatic.com/s/abhayalibre/v5/e3t5euGtX-Co5MNzeAOqinEY22_CsNZJ.woff2",
+      "eot": "https://fonts.gstatic.com/s/abhayalibre/v5/e3t5euGtX-Co5MNzeAOqinEY22_CsNZN.eot",
       "fontFamily": "'Abhaya Libre'",
       "fontStyle": "normal",
       "fontWeight": "800",
+      "woff2": "https://fonts.gstatic.com/s/abhayalibre/v5/e3t5euGtX-Co5MNzeAOqinEY22_CsNZJ.woff2",
       "local": [
         "Abhaya Libre ExtraBold",
         "AbhayaLibre-ExtraBold"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=e3t5euGtX-Co5MNzeAOqinEY22_CsNZO&skey=e1f8d1be735feb1c&v=v5#AbhayaLibre",
-      "ttf": "https://fonts.gstatic.com/s/abhayalibre/v5/e3t5euGtX-Co5MNzeAOqinEY22_CsNZM.ttf",
-      "eot": "https://fonts.gstatic.com/s/abhayalibre/v5/e3t5euGtX-Co5MNzeAOqinEY22_CsNZN.eot",
       "woff": "https://fonts.gstatic.com/s/abhayalibre/v5/e3t5euGtX-Co5MNzeAOqinEY22_CsNZP.woff",
+      "ttf": "https://fonts.gstatic.com/s/abhayalibre/v5/e3t5euGtX-Co5MNzeAOqinEY22_CsNZM.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=e3t5euGtX-Co5MNzeAOqinEY22_CsNZO&skey=e1f8d1be735feb1c&v=v5#AbhayaLibre",
       "errored": false
     }
   ],
   "subsets": [
+    "sinhala",
     "latin",
-    "latin-ext",
-    "sinhala"
+    "latin-ext"
   ],
   "category": "serif",
   "version": "v5",
   "lastModified": "2019-07-16",
-  "popularity": 253,
+  "popularity": 262,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
+    "sinhala": true,
     "latin": true,
-    "latin-ext": false,
-    "sinhala": true
+    "latin-ext": false
   },
-  "storeID": "sinhala_latin"
+  "storeID": "latin_sinhala"
 }

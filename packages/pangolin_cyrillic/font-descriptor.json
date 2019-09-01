@@ -12,9 +12,9 @@
         "Pangolin Regular",
         "Pangolin-Regular"
       ],
+      "woff2": "https://fonts.gstatic.com/s/pangolin/v5/cY9GfjGcW0FPpi-tWMfJ79w.woff2",
       "ttf": "https://fonts.gstatic.com/s/pangolin/v5/cY9GfjGcW0FPpi-tWMfJ79k.ttf",
       "eot": "https://fonts.gstatic.com/s/pangolin/v5/cY9GfjGcW0FPpi-tWMfJ79g.eot",
-      "woff2": "https://fonts.gstatic.com/s/pangolin/v5/cY9GfjGcW0FPpi-tWMfJ79w.woff2",
       "woff": "https://fonts.gstatic.com/s/pangolin/v5/cY9GfjGcW0FPpi-tWMfJ79o.woff",
       "errored": false
     }
@@ -22,22 +22,22 @@
   "subsets": [
     "vietnamese",
     "latin",
-    "latin-ext",
+    "cyrillic-ext",
     "cyrillic",
-    "cyrillic-ext"
+    "latin-ext"
   ],
   "category": "handwriting",
   "version": "v5",
   "lastModified": "2019-07-16",
-  "popularity": 332,
+  "popularity": 337,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "vietnamese": false,
     "latin": true,
-    "latin-ext": false,
+    "cyrillic-ext": false,
     "cyrillic": true,
-    "cyrillic-ext": false
+    "latin-ext": false
   },
   "storeID": "cyrillic_latin"
 }

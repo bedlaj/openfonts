@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/pressstart2p/v8/e3t4euO8T-267oIAQAu6jDQyK3nVivU.woff",
+      "woff2": "https://fonts.gstatic.com/s/pressstart2p/v8/e3t4euO8T-267oIAQAu6jDQyK3nVivM.woff2",
       "fontFamily": "'Press Start 2P'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,32 +12,32 @@
         "Press Start 2P Regular",
         "PressStart2P-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=e3t4euO8T-267oIAQAu6jDQyK3nVivQ&skey=24cc298767068e24&v=v8#PressStart2P",
-      "woff2": "https://fonts.gstatic.com/s/pressstart2p/v8/e3t4euO8T-267oIAQAu6jDQyK3nVivM.woff2",
-      "eot": "https://fonts.gstatic.com/s/pressstart2p/v8/e3t4euO8T-267oIAQAu6jDQyK3nVivc.eot",
+      "woff": "https://fonts.gstatic.com/s/pressstart2p/v8/e3t4euO8T-267oIAQAu6jDQyK3nVivU.woff",
       "ttf": "https://fonts.gstatic.com/s/pressstart2p/v8/e3t4euO8T-267oIAQAu6jDQyK3nVivY.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=e3t4euO8T-267oIAQAu6jDQyK3nVivQ&skey=24cc298767068e24&v=v8#PressStart2P",
+      "eot": "https://fonts.gstatic.com/s/pressstart2p/v8/e3t4euO8T-267oIAQAu6jDQyK3nVivc.eot",
       "errored": false
     }
   ],
   "subsets": [
     "greek",
     "latin",
-    "latin-ext",
+    "cyrillic-ext",
     "cyrillic",
-    "cyrillic-ext"
+    "latin-ext"
   ],
   "category": "display",
   "version": "v8",
   "lastModified": "2019-07-16",
-  "popularity": 205,
+  "popularity": 204,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "greek": false,
     "latin": true,
-    "latin-ext": false,
+    "cyrillic-ext": false,
     "cyrillic": false,
-    "cyrillic-ext": false
+    "latin-ext": false
   },
   "storeID": "latin"
 }

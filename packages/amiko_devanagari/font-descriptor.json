@@ -4,68 +4,68 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/amiko/v4/WwkQxPq1DFK04uqjeVk.woff",
+      "eot": "https://fonts.gstatic.com/s/amiko/v4/WwkQxPq1DFK04uqjeVs.eot",
       "fontFamily": "'Amiko'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "ttf": "https://fonts.gstatic.com/s/amiko/v4/WwkQxPq1DFK04uqjeVo.ttf",
       "local": [
         "Amiko",
         "Amiko-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/amiko/v4/WwkQxPq1DFK04uqjeVs.eot",
       "woff2": "https://fonts.gstatic.com/s/amiko/v4/WwkQxPq1DFK04uqjeV8.woff2",
+      "woff": "https://fonts.gstatic.com/s/amiko/v4/WwkQxPq1DFK04uqjeVk.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=WwkQxPq1DFK04uqjeVg&skey=9370075dbbb9661d&v=v4#Amiko",
-      "ttf": "https://fonts.gstatic.com/s/amiko/v4/WwkQxPq1DFK04uqjeVo.ttf",
       "errored": false
     },
     {
       "id": "700",
-      "woff": "https://fonts.gstatic.com/s/amiko/v4/WwkdxPq1DFK04uIZXErCEIM.woff",
+      "eot": "https://fonts.gstatic.com/s/amiko/v4/WwkdxPq1DFK04uIZXErCEIE.eot",
       "fontFamily": "'Amiko'",
       "fontStyle": "normal",
       "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/amiko/v4/WwkdxPq1DFK04uIZXErCEIM.woff",
       "local": [
         "Amiko Bold",
         "Amiko-Bold"
       ],
-      "eot": "https://fonts.gstatic.com/s/amiko/v4/WwkdxPq1DFK04uIZXErCEIE.eot",
-      "woff2": "https://fonts.gstatic.com/s/amiko/v4/WwkdxPq1DFK04uIZXErCEIU.woff2",
-      "ttf": "https://fonts.gstatic.com/s/amiko/v4/WwkdxPq1DFK04uIZXErCEIA.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=WwkdxPq1DFK04uIZXErCEII&skey=b0f97d34e902453e&v=v4#Amiko",
+      "ttf": "https://fonts.gstatic.com/s/amiko/v4/WwkdxPq1DFK04uIZXErCEIA.ttf",
+      "woff2": "https://fonts.gstatic.com/s/amiko/v4/WwkdxPq1DFK04uIZXErCEIU.woff2",
       "errored": false
     },
     {
       "id": "600",
-      "eot": "https://fonts.gstatic.com/s/amiko/v4/WwkdxPq1DFK04uJ9XUrCEIE.eot",
+      "woff2": "https://fonts.gstatic.com/s/amiko/v4/WwkdxPq1DFK04uJ9XUrCEIU.woff2",
       "fontFamily": "'Amiko'",
       "fontStyle": "normal",
       "fontWeight": "600",
-      "woff2": "https://fonts.gstatic.com/s/amiko/v4/WwkdxPq1DFK04uJ9XUrCEIU.woff2",
       "local": [
         "Amiko SemiBold",
         "Amiko-SemiBold"
       ],
       "ttf": "https://fonts.gstatic.com/s/amiko/v4/WwkdxPq1DFK04uJ9XUrCEIA.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=WwkdxPq1DFK04uJ9XUrCEII&skey=dc341fb169f5b947&v=v4#Amiko",
       "woff": "https://fonts.gstatic.com/s/amiko/v4/WwkdxPq1DFK04uJ9XUrCEIM.woff",
+      "eot": "https://fonts.gstatic.com/s/amiko/v4/WwkdxPq1DFK04uJ9XUrCEIE.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=WwkdxPq1DFK04uJ9XUrCEII&skey=dc341fb169f5b947&v=v4#Amiko",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
     "devanagari",
+    "latin",
     "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v4",
   "lastModified": "2019-07-16",
-  "popularity": 466,
+  "popularity": 479,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
     "devanagari": true,
+    "latin": true,
     "latin-ext": false
   },
-  "storeID": "devanagari_latin"
+  "storeID": "latin_devanagari"
 }

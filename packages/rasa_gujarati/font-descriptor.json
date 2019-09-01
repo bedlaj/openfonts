@@ -14,24 +14,8 @@
         "Rasa-Light"
       ],
       "woff": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdg52ghyxTA.woff",
-      "ttf": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdg52ghyxTw.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=xn7gYHIn1mWmdg52ghyxTQ&skey=67368781f9a5bb98&v=v5#Rasa",
-      "errored": false
-    },
-    {
-      "id": "500",
-      "eot": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdlZ3ghyxTg.eot",
-      "fontFamily": "'Rasa'",
-      "fontStyle": "normal",
-      "fontWeight": "500",
-      "woff2": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdlZ3ghyxSg.woff2",
-      "local": [
-        "Rasa Medium",
-        "Rasa-Medium"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=xn7gYHIn1mWmdlZ3ghyxTQ&skey=2ea360b732075747&v=v5#Rasa",
-      "woff": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdlZ3ghyxTA.woff",
-      "ttf": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdlZ3ghyxTw.ttf",
+      "ttf": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdg52ghyxTw.ttf",
       "errored": false
     },
     {
@@ -40,14 +24,14 @@
       "fontFamily": "'Rasa'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/rasa/v5/xn7vYHIn1mWmfr5Ulw.woff2",
+      "woff": "https://fonts.gstatic.com/s/rasa/v5/xn7vYHIn1mWmfr5UkQ.woff",
       "local": [
         "Rasa Regular",
         "Rasa-Regular"
       ],
       "svg": "https://fonts.gstatic.com/l/font?kit=xn7vYHIn1mWmfr5UkA&skey=3c5158bdcde195ad&v=v5#Rasa",
       "ttf": "https://fonts.gstatic.com/s/rasa/v5/xn7vYHIn1mWmfr5Ukg.ttf",
-      "woff": "https://fonts.gstatic.com/s/rasa/v5/xn7vYHIn1mWmfr5UkQ.woff",
+      "woff2": "https://fonts.gstatic.com/s/rasa/v5/xn7vYHIn1mWmfr5Ulw.woff2",
       "errored": false
     },
     {
@@ -61,9 +45,9 @@
         "Rasa SemiBold",
         "Rasa-SemiBold"
       ],
+      "woff2": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdnpwghyxSg.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=xn7gYHIn1mWmdnpwghyxTQ&skey=17261dab7f0cb1f8&v=v5#Rasa",
       "ttf": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdnpwghyxTw.ttf",
-      "woff2": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdnpwghyxSg.woff2",
       "errored": false
     },
     {
@@ -72,32 +56,48 @@
       "fontFamily": "'Rasa'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdh5xghyxTA.woff",
+      "woff2": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdh5xghyxSg.woff2",
       "local": [
         "Rasa Bold",
         "Rasa-Bold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdh5xghyxSg.woff2",
-      "ttf": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdh5xghyxTw.ttf",
+      "woff": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdh5xghyxTA.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=xn7gYHIn1mWmdh5xghyxTQ&skey=704d133d144191f0&v=v5#Rasa",
+      "ttf": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdh5xghyxTw.ttf",
+      "errored": false
+    },
+    {
+      "id": "500",
+      "woff": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdlZ3ghyxTA.woff",
+      "fontFamily": "'Rasa'",
+      "fontStyle": "normal",
+      "fontWeight": "500",
+      "local": [
+        "Rasa Medium",
+        "Rasa-Medium"
+      ],
+      "eot": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdlZ3ghyxTg.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=xn7gYHIn1mWmdlZ3ghyxTQ&skey=2ea360b732075747&v=v5#Rasa",
+      "woff2": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdlZ3ghyxSg.woff2",
+      "ttf": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdlZ3ghyxTw.ttf",
       "errored": false
     }
   ],
   "subsets": [
+    "gujarati",
     "latin",
-    "latin-ext",
-    "gujarati"
+    "latin-ext"
   ],
   "category": "serif",
   "version": "v5",
   "lastModified": "2019-07-16",
-  "popularity": 238,
+  "popularity": 226,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
+    "gujarati": true,
     "latin": true,
-    "latin-ext": false,
-    "gujarati": true
+    "latin-ext": false
   },
-  "storeID": "gujarati_latin"
+  "storeID": "latin_gujarati"
 }

@@ -4,39 +4,39 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/cardo/v11/wlp_gwjKBV1pqhv43IU.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=wlp_gwjKBV1pqhv43IY&skey=6e473b3c3fa37289&v=v11#Cardo",
       "fontFamily": "'Cardo'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/cardo/v11/wlp_gwjKBV1pqhv43IE.woff2",
       "local": [
         "Cardo",
         "Cardo-Regular"
       ],
+      "woff2": "https://fonts.gstatic.com/s/cardo/v11/wlp_gwjKBV1pqhv43IE.woff2",
       "ttf": "https://fonts.gstatic.com/s/cardo/v11/wlp_gwjKBV1pqhv43IQ.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=wlp_gwjKBV1pqhv43IY&skey=6e473b3c3fa37289&v=v11#Cardo",
+      "eot": "https://fonts.gstatic.com/s/cardo/v11/wlp_gwjKBV1pqhv43IU.eot",
       "woff": "https://fonts.gstatic.com/s/cardo/v11/wlp_gwjKBV1pqhv43Ic.woff",
       "errored": false
     },
     {
       "id": "italic",
-      "woff": "https://fonts.gstatic.com/s/cardo/v11/wlpxgwjKBV1pqhv97IMx2g.woff",
+      "eot": "https://fonts.gstatic.com/s/cardo/v11/wlpxgwjKBV1pqhv97IMx2A.eot",
       "fontFamily": "'Cardo'",
       "fontStyle": "italic",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/cardo/v11/wlpxgwjKBV1pqhv97IMx2g.woff",
       "local": [
         "Cardo Italic",
         "Cardo-Italic"
       ],
-      "woff2": "https://fonts.gstatic.com/s/cardo/v11/wlpxgwjKBV1pqhv97IMx3A.woff2",
-      "ttf": "https://fonts.gstatic.com/s/cardo/v11/wlpxgwjKBV1pqhv97IMx2Q.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=wlpxgwjKBV1pqhv97IMx2w&skey=26bb5df469a255da&v=v11#Cardo",
-      "eot": "https://fonts.gstatic.com/s/cardo/v11/wlpxgwjKBV1pqhv97IMx2A.eot",
+      "ttf": "https://fonts.gstatic.com/s/cardo/v11/wlpxgwjKBV1pqhv97IMx2Q.ttf",
+      "woff2": "https://fonts.gstatic.com/s/cardo/v11/wlpxgwjKBV1pqhv97IMx3A.woff2",
       "errored": false
     },
     {
       "id": "700",
-      "svg": "https://fonts.gstatic.com/l/font?kit=wlpygwjKBV1pqhND-ZQW-WQ&skey=90e31575a38858c1&v=v11#Cardo",
+      "woff": "https://fonts.gstatic.com/s/cardo/v11/wlpygwjKBV1pqhND-ZQW-WU.woff",
       "fontFamily": "'Cardo'",
       "fontStyle": "normal",
       "fontWeight": "700",
@@ -45,27 +45,27 @@
         "Cardo-Bold"
       ],
       "woff2": "https://fonts.gstatic.com/s/cardo/v11/wlpygwjKBV1pqhND-ZQW-WM.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=wlpygwjKBV1pqhND-ZQW-WQ&skey=90e31575a38858c1&v=v11#Cardo",
       "ttf": "https://fonts.gstatic.com/s/cardo/v11/wlpygwjKBV1pqhND-ZQW-WY.ttf",
       "eot": "https://fonts.gstatic.com/s/cardo/v11/wlpygwjKBV1pqhND-ZQW-Wc.eot",
-      "woff": "https://fonts.gstatic.com/s/cardo/v11/wlpygwjKBV1pqhND-ZQW-WU.woff",
       "errored": false
     }
   ],
   "subsets": [
-    "greek-ext",
     "greek",
+    "greek-ext",
     "latin",
     "latin-ext"
   ],
   "category": "serif",
   "version": "v11",
   "lastModified": "2019-07-17",
-  "popularity": 124,
+  "popularity": 122,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "greek-ext": false,
     "greek": false,
+    "greek-ext": false,
     "latin": true,
     "latin-ext": false
   },

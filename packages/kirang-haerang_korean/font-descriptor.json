@@ -13,25 +13,25 @@
         "KirangHaerang-Regular"
       ],
       "eot": "https://fonts.gstatic.com/s/kiranghaerang/v8/E21-_dn_gvvIjhYON1lpIU4-bfqiUvM.eot",
-      "woff2": "https://fonts.gstatic.com/s/kiranghaerang/v8/E21-_dn_gvvIjhYON1lpIU4-bfqiUvc.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=E21-_dn_gvvIjhYON1lpIU4-bfqiUvA&skey=1bd15a4b6f98a28a&v=v8#KirangHaerang",
+      "woff2": "https://fonts.gstatic.com/s/kiranghaerang/v8/E21-_dn_gvvIjhYON1lpIU4-bfqiUvc.woff2",
       "ttf": "https://fonts.gstatic.com/s/kiranghaerang/v8/E21-_dn_gvvIjhYON1lpIU4-bfqiUvI.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "korean",
-    "latin"
+    "latin",
+    "korean"
   ],
   "category": "display",
   "version": "v8",
   "lastModified": "2019-07-16",
-  "popularity": 870,
+  "popularity": 863,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "korean": true,
-    "latin": true
+    "latin": true,
+    "korean": true
   },
-  "storeID": "latin_korean"
+  "storeID": "korean_latin"
 }

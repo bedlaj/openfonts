@@ -14,28 +14,28 @@
         "BalooPaaji-Regular"
       ],
       "svg": "https://fonts.gstatic.com/l/font?kit=8AttGsyxM5KQQU-Y4MTwVZnR&skey=caf630a2319205bb&v=v6#BalooPaaji",
-      "woff": "https://fonts.gstatic.com/s/baloopaaji/v6/8AttGsyxM5KQQU-Y4MTwVZnQ.woff",
       "ttf": "https://fonts.gstatic.com/s/baloopaaji/v6/8AttGsyxM5KQQU-Y4MTwVZnT.ttf",
+      "woff": "https://fonts.gstatic.com/s/baloopaaji/v6/8AttGsyxM5KQQU-Y4MTwVZnQ.woff",
       "errored": false
     }
   ],
   "subsets": [
+    "gurmukhi",
     "vietnamese",
     "latin",
-    "gurmukhi",
     "latin-ext"
   ],
   "category": "display",
   "version": "v6",
   "lastModified": "2019-07-16",
-  "popularity": 572,
+  "popularity": 524,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
+    "gurmukhi": true,
     "vietnamese": true,
     "latin": true,
-    "gurmukhi": true,
     "latin-ext": true
   },
-  "storeID": "latin-ext_gurmukhi_latin_vietnamese"
+  "storeID": "latin-ext_latin_vietnamese_gurmukhi"
 }

@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/herrvonmuellerhoff/v9/WBL6rFjRZkREW8WqmCWYLgCkQKXb4CAft0c99KU.woff",
+      "woff2": "https://fonts.gstatic.com/s/herrvonmuellerhoff/v9/WBL6rFjRZkREW8WqmCWYLgCkQKXb4CAft0c99KM.woff2",
       "fontFamily": "'Herr Von Muellerhoff'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Herr Von Muellerhoff Regular",
         "HerrVonMuellerhoff-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=WBL6rFjRZkREW8WqmCWYLgCkQKXb4CAft0c99KQ&skey=6136c26fe1786204&v=v9#HerrVonMuellerhoff",
-      "woff2": "https://fonts.gstatic.com/s/herrvonmuellerhoff/v9/WBL6rFjRZkREW8WqmCWYLgCkQKXb4CAft0c99KM.woff2",
-      "ttf": "https://fonts.gstatic.com/s/herrvonmuellerhoff/v9/WBL6rFjRZkREW8WqmCWYLgCkQKXb4CAft0c99KY.ttf",
       "eot": "https://fonts.gstatic.com/s/herrvonmuellerhoff/v9/WBL6rFjRZkREW8WqmCWYLgCkQKXb4CAft0c99Kc.eot",
+      "ttf": "https://fonts.gstatic.com/s/herrvonmuellerhoff/v9/WBL6rFjRZkREW8WqmCWYLgCkQKXb4CAft0c99KY.ttf",
+      "woff": "https://fonts.gstatic.com/s/herrvonmuellerhoff/v9/WBL6rFjRZkREW8WqmCWYLgCkQKXb4CAft0c99KU.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=WBL6rFjRZkREW8WqmCWYLgCkQKXb4CAft0c99KQ&skey=6136c26fe1786204&v=v9#HerrVonMuellerhoff",
       "errored": false
     }
   ],
@@ -26,7 +26,7 @@
   "category": "handwriting",
   "version": "v9",
   "lastModified": "2019-07-16",
-  "popularity": 393,
+  "popularity": 414,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

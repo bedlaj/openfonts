@@ -4,17 +4,17 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/vibur/v10/DPEiYwmEzw0QRgTuJD0.woff",
+      "woff2": "https://fonts.gstatic.com/s/vibur/v10/DPEiYwmEzw0QRgTuJDs.woff2",
       "fontFamily": "'Vibur'",
       "fontStyle": "normal",
       "fontWeight": "400",
       "local": [
         "Vibur"
       ],
+      "woff": "https://fonts.gstatic.com/s/vibur/v10/DPEiYwmEzw0QRgTuJD0.woff",
+      "ttf": "https://fonts.gstatic.com/s/vibur/v10/DPEiYwmEzw0QRgTuJD4.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=DPEiYwmEzw0QRgTuJDw&skey=78db927127d153c7&v=v10#Vibur",
       "eot": "https://fonts.gstatic.com/s/vibur/v10/DPEiYwmEzw0QRgTuJD8.eot",
-      "woff2": "https://fonts.gstatic.com/s/vibur/v10/DPEiYwmEzw0QRgTuJDs.woff2",
-      "ttf": "https://fonts.gstatic.com/s/vibur/v10/DPEiYwmEzw0QRgTuJD4.ttf",
       "errored": false
     }
   ],
@@ -24,7 +24,7 @@
   "category": "handwriting",
   "version": "v10",
   "lastModified": "2019-07-16",
-  "popularity": 563,
+  "popularity": 591,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

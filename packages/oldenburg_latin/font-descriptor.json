@@ -4,17 +4,17 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/oldenburg/v7/fC1jPY5JYWzbywv7c4VKVkSv.woff",
+      "eot": "https://fonts.gstatic.com/s/oldenburg/v7/fC1jPY5JYWzbywv7c4VKVkSt.eot",
       "fontFamily": "'Oldenburg'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/oldenburg/v7/fC1jPY5JYWzbywv7c4VKVkSp.woff2",
       "local": [
         "Oldenburg",
         "Oldenburg-Regular"
       ],
       "svg": "https://fonts.gstatic.com/l/font?kit=fC1jPY5JYWzbywv7c4VKVkSu&skey=9bde624bd7bf0d51&v=v7#Oldenburg",
-      "woff2": "https://fonts.gstatic.com/s/oldenburg/v7/fC1jPY5JYWzbywv7c4VKVkSp.woff2",
-      "eot": "https://fonts.gstatic.com/s/oldenburg/v7/fC1jPY5JYWzbywv7c4VKVkSt.eot",
+      "woff": "https://fonts.gstatic.com/s/oldenburg/v7/fC1jPY5JYWzbywv7c4VKVkSv.woff",
       "ttf": "https://fonts.gstatic.com/s/oldenburg/v7/fC1jPY5JYWzbywv7c4VKVkSs.ttf",
       "errored": false
     }
@@ -26,7 +26,7 @@
   "category": "display",
   "version": "v7",
   "lastModified": "2019-07-16",
-  "popularity": 809,
+  "popularity": 808,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

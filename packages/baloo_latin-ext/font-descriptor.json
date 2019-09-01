@@ -8,33 +8,33 @@
       "fontFamily": "'Baloo'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/baloo/v5/6xKhdSpJJ92I9MWBCm4.woff2",
+      "woff": "https://fonts.gstatic.com/s/baloo/v5/6xKhdSpJJ92I9MWBCmg.woff",
       "local": [
         "Baloo Regular",
         "Baloo-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/baloo/v5/6xKhdSpJJ92I9MWBCmg.woff",
-      "ttf": "https://fonts.gstatic.com/s/baloo/v5/6xKhdSpJJ92I9MWBCms.ttf",
+      "woff2": "https://fonts.gstatic.com/s/baloo/v5/6xKhdSpJJ92I9MWBCm4.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=6xKhdSpJJ92I9MWBCmk&skey=909b6264e020bb06&v=v5#Baloo",
+      "ttf": "https://fonts.gstatic.com/s/baloo/v5/6xKhdSpJJ92I9MWBCms.ttf",
       "errored": false
     }
   ],
   "subsets": [
+    "devanagari",
     "vietnamese",
     "latin",
-    "devanagari",
     "latin-ext"
   ],
   "category": "display",
   "version": "v5",
   "lastModified": "2019-07-16",
-  "popularity": 171,
+  "popularity": 137,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
+    "devanagari": false,
     "vietnamese": false,
     "latin": true,
-    "devanagari": false,
     "latin-ext": true
   },
   "storeID": "latin-ext_latin"

@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "100",
-      "eot": "https://fonts.gstatic.com/s/gothica1/v8/CSR74z5ZnPydRjlCCwlCCPcnaNI.eot",
+      "ttf": "https://fonts.gstatic.com/s/gothica1/v8/CSR74z5ZnPydRjlCCwlCCPcnaNM.ttf",
       "fontFamily": "'Gothic A1'",
       "fontStyle": "normal",
       "fontWeight": "100",
-      "ttf": "https://fonts.gstatic.com/s/gothica1/v8/CSR74z5ZnPydRjlCCwlCCPcnaNM.ttf",
       "local": [
         "Gothic A1 Thin",
         "GothicA1-Thin"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=CSR74z5ZnPydRjlCCwlCCPcnaNE&skey=aed5aef5ee6c39e9&v=v8#GothicA1",
+      "eot": "https://fonts.gstatic.com/s/gothica1/v8/CSR74z5ZnPydRjlCCwlCCPcnaNI.eot",
       "woff2": "https://fonts.gstatic.com/s/gothica1/v8/CSR74z5ZnPydRjlCCwlCCPcnaNY.woff2",
       "woff": "https://fonts.gstatic.com/s/gothica1/v8/CSR74z5ZnPydRjlCCwlCCPcnaNA.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=CSR74z5ZnPydRjlCCwlCCPcnaNE&skey=aed5aef5ee6c39e9&v=v8#GothicA1",
       "errored": false
     },
     {
@@ -35,19 +35,35 @@
       "errored": false
     },
     {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/gothica1/v8/CSR94z5ZnPydRjlCCwlKYccp.woff",
+      "fontFamily": "'Gothic A1'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Gothic A1 Regular",
+        "GothicA1-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/gothica1/v8/CSR94z5ZnPydRjlCCwlKYccr.eot",
+      "woff2": "https://fonts.gstatic.com/s/gothica1/v8/CSR94z5ZnPydRjlCCwlKYccv.woff2",
+      "ttf": "https://fonts.gstatic.com/s/gothica1/v8/CSR94z5ZnPydRjlCCwlKYccq.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=CSR94z5ZnPydRjlCCwlKYcco&skey=1af563512a1075cb&v=v8#GothicA1",
+      "errored": false
+    },
+    {
       "id": "200",
-      "eot": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCpOY6RfN_.eot",
+      "woff": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCpOY6RfN9.woff",
       "fontFamily": "'Gothic A1'",
       "fontStyle": "normal",
       "fontWeight": "200",
-      "woff2": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCpOY6RfN7.woff2",
       "local": [
         "Gothic A1 ExtraLight",
         "GothicA1-ExtraLight"
       ],
-      "ttf": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCpOY6RfN-.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=CSR44z5ZnPydRjlCCwlCpOY6RfN8&skey=22cb706f135d56c&v=v8#GothicA1",
-      "woff": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCpOY6RfN9.woff",
+      "woff2": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCpOY6RfN7.woff2",
+      "ttf": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCpOY6RfN-.ttf",
+      "eot": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCpOY6RfN_.eot",
       "errored": false
     },
     {
@@ -62,40 +78,24 @@
         "GothicA1-Medium"
       ],
       "woff2": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCmOQ6RfN7.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=CSR44z5ZnPydRjlCCwlCmOQ6RfN8&skey=281dc522e2205412&v=v8#GothicA1",
       "ttf": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCmOQ6RfN-.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=CSR44z5ZnPydRjlCCwlCmOQ6RfN8&skey=281dc522e2205412&v=v8#GothicA1",
       "errored": false
     },
     {
-      "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/gothica1/v8/CSR94z5ZnPydRjlCCwlKYccr.eot",
+      "id": "600",
+      "eot": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCtOM6RfN_.eot",
       "fontFamily": "'Gothic A1'",
       "fontStyle": "normal",
-      "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/gothica1/v8/CSR94z5ZnPydRjlCCwlKYccp.woff",
+      "fontWeight": "600",
+      "woff": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCtOM6RfN9.woff",
       "local": [
-        "Gothic A1 Regular",
-        "GothicA1-Regular"
+        "Gothic A1 SemiBold",
+        "GothicA1-SemiBold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/gothica1/v8/CSR94z5ZnPydRjlCCwlKYccv.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=CSR94z5ZnPydRjlCCwlKYcco&skey=1af563512a1075cb&v=v8#GothicA1",
-      "ttf": "https://fonts.gstatic.com/s/gothica1/v8/CSR94z5ZnPydRjlCCwlKYccq.ttf",
-      "errored": false
-    },
-    {
-      "id": "700",
-      "eot": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlC0OI6RfN_.eot",
-      "fontFamily": "'Gothic A1'",
-      "fontStyle": "normal",
-      "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlC0OI6RfN9.woff",
-      "local": [
-        "Gothic A1 Bold",
-        "GothicA1-Bold"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlC0OI6RfN7.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=CSR44z5ZnPydRjlCCwlC0OI6RfN8&skey=5147d2c0bc1a53be&v=v8#GothicA1",
-      "ttf": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlC0OI6RfN-.ttf",
+      "woff2": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCtOM6RfN7.woff2",
+      "ttf": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCtOM6RfN-.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=CSR44z5ZnPydRjlCCwlCtOM6RfN8&skey=7778aa6aaecbbf52&v=v8#GothicA1",
       "errored": false
     },
     {
@@ -115,22 +115,6 @@
       "errored": false
     },
     {
-      "id": "600",
-      "eot": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCtOM6RfN_.eot",
-      "fontFamily": "'Gothic A1'",
-      "fontStyle": "normal",
-      "fontWeight": "600",
-      "woff": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCtOM6RfN9.woff",
-      "local": [
-        "Gothic A1 SemiBold",
-        "GothicA1-SemiBold"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCtOM6RfN7.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=CSR44z5ZnPydRjlCCwlCtOM6RfN8&skey=7778aa6aaecbbf52&v=v8#GothicA1",
-      "ttf": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlCtOM6RfN-.ttf",
-      "errored": false
-    },
-    {
       "id": "900",
       "woff": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlC6OA6RfN9.woff",
       "fontFamily": "'Gothic A1'",
@@ -141,25 +125,41 @@
         "GothicA1-Black"
       ],
       "eot": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlC6OA6RfN_.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=CSR44z5ZnPydRjlCCwlC6OA6RfN8&skey=860729d6e445984a&v=v8#GothicA1",
       "woff2": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlC6OA6RfN7.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=CSR44z5ZnPydRjlCCwlC6OA6RfN8&skey=860729d6e445984a&v=v8#GothicA1",
       "ttf": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlC6OA6RfN-.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlC0OI6RfN_.eot",
+      "fontFamily": "'Gothic A1'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff2": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlC0OI6RfN7.woff2",
+      "local": [
+        "Gothic A1 Bold",
+        "GothicA1-Bold"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=CSR44z5ZnPydRjlCCwlC0OI6RfN8&skey=5147d2c0bc1a53be&v=v8#GothicA1",
+      "ttf": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlC0OI6RfN-.ttf",
+      "woff": "https://fonts.gstatic.com/s/gothica1/v8/CSR44z5ZnPydRjlCCwlC0OI6RfN9.woff",
       "errored": false
     }
   ],
   "subsets": [
-    "korean",
-    "latin"
+    "latin",
+    "korean"
   ],
   "category": "sans-serif",
   "version": "v8",
   "lastModified": "2019-07-16",
-  "popularity": 166,
+  "popularity": 192,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "korean": true,
-    "latin": true
+    "latin": true,
+    "korean": true
   },
-  "storeID": "latin_korean"
+  "storeID": "korean_latin"
 }

@@ -12,10 +12,10 @@
         "Biryani ExtraLight",
         "Biryani-ExtraLight"
       ],
-      "eot": "https://fonts.gstatic.com/s/biryani/v5/hv-TlzNxIFoO84YddYQyKTlYVg.eot",
       "woff": "https://fonts.gstatic.com/s/biryani/v5/hv-TlzNxIFoO84YddYQyKTlYVA.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=hv-TlzNxIFoO84YddYQyKTlYVQ&skey=d42b7163daf22ee9&v=v5#Biryani",
+      "eot": "https://fonts.gstatic.com/s/biryani/v5/hv-TlzNxIFoO84YddYQyKTlYVg.eot",
       "ttf": "https://fonts.gstatic.com/s/biryani/v5/hv-TlzNxIFoO84YddYQyKTlYVw.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=hv-TlzNxIFoO84YddYQyKTlYVQ&skey=d42b7163daf22ee9&v=v5#Biryani",
       "errored": false
     },
     {
@@ -52,18 +52,18 @@
     },
     {
       "id": "300",
-      "eot": "https://fonts.gstatic.com/s/biryani/v5/hv-TlzNxIFoO84YddeAxKTlYVg.eot",
+      "woff2": "https://fonts.gstatic.com/s/biryani/v5/hv-TlzNxIFoO84YddeAxKTlYUg.woff2",
       "fontFamily": "'Biryani'",
       "fontStyle": "normal",
       "fontWeight": "300",
-      "woff": "https://fonts.gstatic.com/s/biryani/v5/hv-TlzNxIFoO84YddeAxKTlYVA.woff",
       "local": [
         "Biryani Light",
         "Biryani-Light"
       ],
+      "woff": "https://fonts.gstatic.com/s/biryani/v5/hv-TlzNxIFoO84YddeAxKTlYVA.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=hv-TlzNxIFoO84YddeAxKTlYVQ&skey=e54893269db4ddbe&v=v5#Biryani",
       "ttf": "https://fonts.gstatic.com/s/biryani/v5/hv-TlzNxIFoO84YddeAxKTlYVw.ttf",
-      "woff2": "https://fonts.gstatic.com/s/biryani/v5/hv-TlzNxIFoO84YddeAxKTlYUg.woff2",
+      "eot": "https://fonts.gstatic.com/s/biryani/v5/hv-TlzNxIFoO84YddeAxKTlYVg.eot",
       "errored": false
     },
     {
@@ -88,13 +88,13 @@
       "fontFamily": "'Biryani'",
       "fontStyle": "normal",
       "fontWeight": "800",
-      "woff2": "https://fonts.gstatic.com/s/biryani/v5/hv-TlzNxIFoO84Yddew1KTlYUg.woff2",
+      "woff": "https://fonts.gstatic.com/s/biryani/v5/hv-TlzNxIFoO84Yddew1KTlYVA.woff",
       "local": [
         "Biryani ExtraBold",
         "Biryani-ExtraBold"
       ],
-      "woff": "https://fonts.gstatic.com/s/biryani/v5/hv-TlzNxIFoO84Yddew1KTlYVA.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=hv-TlzNxIFoO84Yddew1KTlYVQ&skey=1ca99bb6f7b098ac&v=v5#Biryani",
+      "woff2": "https://fonts.gstatic.com/s/biryani/v5/hv-TlzNxIFoO84Yddew1KTlYUg.woff2",
       "ttf": "https://fonts.gstatic.com/s/biryani/v5/hv-TlzNxIFoO84Yddew1KTlYVw.ttf",
       "errored": false
     },
@@ -104,31 +104,31 @@
       "fontFamily": "'Biryani'",
       "fontStyle": "normal",
       "fontWeight": "900",
-      "woff": "https://fonts.gstatic.com/s/biryani/v5/hv-TlzNxIFoO84Yddcg0KTlYVA.woff",
+      "woff2": "https://fonts.gstatic.com/s/biryani/v5/hv-TlzNxIFoO84Yddcg0KTlYUg.woff2",
       "local": [
         "Biryani Black",
         "Biryani-Black"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=hv-TlzNxIFoO84Yddcg0KTlYVQ&skey=87a891a314ca2a5c&v=v5#Biryani",
+      "woff": "https://fonts.gstatic.com/s/biryani/v5/hv-TlzNxIFoO84Yddcg0KTlYVA.woff",
       "ttf": "https://fonts.gstatic.com/s/biryani/v5/hv-TlzNxIFoO84Yddcg0KTlYVw.ttf",
-      "woff2": "https://fonts.gstatic.com/s/biryani/v5/hv-TlzNxIFoO84Yddcg0KTlYUg.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=hv-TlzNxIFoO84Yddcg0KTlYVQ&skey=87a891a314ca2a5c&v=v5#Biryani",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
     "devanagari",
+    "latin",
     "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v5",
   "lastModified": "2019-07-16",
-  "popularity": 307,
+  "popularity": 309,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
     "devanagari": false,
+    "latin": true,
     "latin-ext": true
   },
   "storeID": "latin-ext_latin"

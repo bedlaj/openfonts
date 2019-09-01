@@ -8,46 +8,30 @@
       "fontFamily": "'Mirza'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "svg": "https://fonts.gstatic.com/l/font?kit=co3ImWlikiN5Eurf&skey=c087d899b55de9f0&v=v7#Mirza",
+      "woff": "https://fonts.gstatic.com/s/mirza/v7/co3ImWlikiN5Eure.woff",
       "local": [
         "Mirza Regular",
         "Mirza-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/mirza/v7/co3ImWlikiN5Eure.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=co3ImWlikiN5Eurf&skey=c087d899b55de9f0&v=v7#Mirza",
       "woff2": "https://fonts.gstatic.com/s/mirza/v7/co3ImWlikiN5EurY.woff2",
       "ttf": "https://fonts.gstatic.com/s/mirza/v7/co3ImWlikiN5Eurd.ttf",
       "errored": false
     },
     {
       "id": "500",
-      "woff": "https://fonts.gstatic.com/s/mirza/v7/co3FmWlikiN5EtIpAeO7.woff",
+      "eot": "https://fonts.gstatic.com/s/mirza/v7/co3FmWlikiN5EtIpAeO5.eot",
       "fontFamily": "'Mirza'",
       "fontStyle": "normal",
       "fontWeight": "500",
+      "svg": "https://fonts.gstatic.com/l/font?kit=co3FmWlikiN5EtIpAeO6&skey=324b00f62d363988&v=v7#Mirza",
       "local": [
         "Mirza Medium",
         "Mirza-Medium"
       ],
-      "woff2": "https://fonts.gstatic.com/s/mirza/v7/co3FmWlikiN5EtIpAeO9.woff2",
       "ttf": "https://fonts.gstatic.com/s/mirza/v7/co3FmWlikiN5EtIpAeO4.ttf",
-      "eot": "https://fonts.gstatic.com/s/mirza/v7/co3FmWlikiN5EtIpAeO5.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=co3FmWlikiN5EtIpAeO6&skey=324b00f62d363988&v=v7#Mirza",
-      "errored": false
-    },
-    {
-      "id": "700",
-      "eot": "https://fonts.gstatic.com/s/mirza/v7/co3FmWlikiN5EtJhB-O5.eot",
-      "fontFamily": "'Mirza'",
-      "fontStyle": "normal",
-      "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/mirza/v7/co3FmWlikiN5EtJhB-O7.woff",
-      "local": [
-        "Mirza Bold",
-        "Mirza-Bold"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/mirza/v7/co3FmWlikiN5EtJhB-O9.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=co3FmWlikiN5EtJhB-O6&skey=2a5b706a5c111009&v=v7#Mirza",
-      "ttf": "https://fonts.gstatic.com/s/mirza/v7/co3FmWlikiN5EtJhB-O4.ttf",
+      "woff": "https://fonts.gstatic.com/s/mirza/v7/co3FmWlikiN5EtIpAeO7.woff",
+      "woff2": "https://fonts.gstatic.com/s/mirza/v7/co3FmWlikiN5EtIpAeO9.woff2",
       "errored": false
     },
     {
@@ -56,32 +40,48 @@
       "fontFamily": "'Mirza'",
       "fontStyle": "normal",
       "fontWeight": "600",
-      "woff": "https://fonts.gstatic.com/s/mirza/v7/co3FmWlikiN5EtIFBuO7.woff",
+      "woff2": "https://fonts.gstatic.com/s/mirza/v7/co3FmWlikiN5EtIFBuO9.woff2",
       "local": [
         "Mirza SemiBold",
         "Mirza-SemiBold"
       ],
+      "woff": "https://fonts.gstatic.com/s/mirza/v7/co3FmWlikiN5EtIFBuO7.woff",
       "ttf": "https://fonts.gstatic.com/s/mirza/v7/co3FmWlikiN5EtIFBuO4.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=co3FmWlikiN5EtIFBuO6&skey=ce10965f006be061&v=v7#Mirza",
-      "woff2": "https://fonts.gstatic.com/s/mirza/v7/co3FmWlikiN5EtIFBuO9.woff2",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/mirza/v7/co3FmWlikiN5EtJhB-O5.eot",
+      "fontFamily": "'Mirza'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff2": "https://fonts.gstatic.com/s/mirza/v7/co3FmWlikiN5EtJhB-O9.woff2",
+      "local": [
+        "Mirza Bold",
+        "Mirza-Bold"
+      ],
+      "woff": "https://fonts.gstatic.com/s/mirza/v7/co3FmWlikiN5EtJhB-O7.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=co3FmWlikiN5EtJhB-O6&skey=2a5b706a5c111009&v=v7#Mirza",
+      "ttf": "https://fonts.gstatic.com/s/mirza/v7/co3FmWlikiN5EtJhB-O4.ttf",
       "errored": false
     }
   ],
   "subsets": [
+    "arabic",
     "latin",
-    "latin-ext",
-    "arabic"
+    "latin-ext"
   ],
   "category": "display",
   "version": "v7",
   "lastModified": "2019-07-16",
-  "popularity": 507,
+  "popularity": 522,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
+    "arabic": true,
     "latin": true,
-    "latin-ext": true,
-    "arabic": true
+    "latin-ext": true
   },
-  "storeID": "arabic_latin-ext_latin"
+  "storeID": "latin-ext_latin_arabic"
 }

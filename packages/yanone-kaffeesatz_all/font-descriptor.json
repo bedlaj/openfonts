@@ -4,50 +4,34 @@
   "variants": [
     {
       "id": "200",
-      "eot": "https://fonts.gstatic.com/s/yanonekaffeesatz/v11/3y9-6aknfjLm_3lMKjiMgmUUYBs04YfUPs-s.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=3y9-6aknfjLm_3lMKjiMgmUUYBs04YfUPs-v&skey=28742c87b28c371c&v=v11#YanoneKaffeesatz",
       "fontFamily": "'Yanone Kaffeesatz'",
       "fontStyle": "normal",
       "fontWeight": "200",
-      "ttf": "https://fonts.gstatic.com/s/yanonekaffeesatz/v11/3y9-6aknfjLm_3lMKjiMgmUUYBs04YfUPs-t.ttf",
       "local": [
         "Yanone Kaffeesatz ExtraLight",
         "YanoneKaffeesatz-ExtraLight"
       ],
+      "ttf": "https://fonts.gstatic.com/s/yanonekaffeesatz/v11/3y9-6aknfjLm_3lMKjiMgmUUYBs04YfUPs-t.ttf",
       "woff": "https://fonts.gstatic.com/s/yanonekaffeesatz/v11/3y9-6aknfjLm_3lMKjiMgmUUYBs04YfUPs-u.woff",
+      "eot": "https://fonts.gstatic.com/s/yanonekaffeesatz/v11/3y9-6aknfjLm_3lMKjiMgmUUYBs04YfUPs-s.eot",
       "woff2": "https://fonts.gstatic.com/s/yanonekaffeesatz/v11/3y9-6aknfjLm_3lMKjiMgmUUYBs04YfUPs-o.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=3y9-6aknfjLm_3lMKjiMgmUUYBs04YfUPs-v&skey=28742c87b28c371c&v=v11#YanoneKaffeesatz",
-      "errored": false
-    },
-    {
-      "id": "300",
-      "woff": "https://fonts.gstatic.com/s/yanonekaffeesatz/v11/3y9-6aknfjLm_3lMKjiMgmUUYBs04YewPc-u.woff",
-      "fontFamily": "'Yanone Kaffeesatz'",
-      "fontStyle": "normal",
-      "fontWeight": "300",
-      "local": [
-        "Yanone Kaffeesatz Light",
-        "YanoneKaffeesatz-Light"
-      ],
-      "eot": "https://fonts.gstatic.com/s/yanonekaffeesatz/v11/3y9-6aknfjLm_3lMKjiMgmUUYBs04YewPc-s.eot",
-      "woff2": "https://fonts.gstatic.com/s/yanonekaffeesatz/v11/3y9-6aknfjLm_3lMKjiMgmUUYBs04YewPc-o.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=3y9-6aknfjLm_3lMKjiMgmUUYBs04YewPc-v&skey=7ed7f9a84d49bf3e&v=v11#YanoneKaffeesatz",
-      "ttf": "https://fonts.gstatic.com/s/yanonekaffeesatz/v11/3y9-6aknfjLm_3lMKjiMgmUUYBs04YewPc-t.ttf",
       "errored": false
     },
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/yanonekaffeesatz/v11/3y976aknfjLm_3lMKjiMgmUUYBs04b8f.woff",
+      "eot": "https://fonts.gstatic.com/s/yanonekaffeesatz/v11/3y976aknfjLm_3lMKjiMgmUUYBs04b8d.eot",
       "fontFamily": "'Yanone Kaffeesatz'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/yanonekaffeesatz/v11/3y976aknfjLm_3lMKjiMgmUUYBs04b8f.woff",
       "local": [
         "Yanone Kaffeesatz Regular",
         "YanoneKaffeesatz-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/yanonekaffeesatz/v11/3y976aknfjLm_3lMKjiMgmUUYBs04b8c.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=3y976aknfjLm_3lMKjiMgmUUYBs04b8e&skey=3fc37ea29e333560&v=v11#YanoneKaffeesatz",
       "woff2": "https://fonts.gstatic.com/s/yanonekaffeesatz/v11/3y976aknfjLm_3lMKjiMgmUUYBs04b8Z.woff2",
-      "eot": "https://fonts.gstatic.com/s/yanonekaffeesatz/v11/3y976aknfjLm_3lMKjiMgmUUYBs04b8d.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=3y976aknfjLm_3lMKjiMgmUUYBs04b8e&skey=3fc37ea29e333560&v=v11#YanoneKaffeesatz",
+      "ttf": "https://fonts.gstatic.com/s/yanonekaffeesatz/v11/3y976aknfjLm_3lMKjiMgmUUYBs04b8c.ttf",
       "errored": false
     },
     {
@@ -56,34 +40,50 @@
       "fontFamily": "'Yanone Kaffeesatz'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/yanonekaffeesatz/v11/3y9-6aknfjLm_3lMKjiMgmUUYBs04YegOs-u.woff",
+      "woff2": "https://fonts.gstatic.com/s/yanonekaffeesatz/v11/3y9-6aknfjLm_3lMKjiMgmUUYBs04YegOs-o.woff2",
       "local": [
         "Yanone Kaffeesatz Bold",
         "YanoneKaffeesatz-Bold"
       ],
+      "woff": "https://fonts.gstatic.com/s/yanonekaffeesatz/v11/3y9-6aknfjLm_3lMKjiMgmUUYBs04YegOs-u.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=3y9-6aknfjLm_3lMKjiMgmUUYBs04YegOs-v&skey=32629c9b4862b696&v=v11#YanoneKaffeesatz",
-      "woff2": "https://fonts.gstatic.com/s/yanonekaffeesatz/v11/3y9-6aknfjLm_3lMKjiMgmUUYBs04YegOs-o.woff2",
       "ttf": "https://fonts.gstatic.com/s/yanonekaffeesatz/v11/3y9-6aknfjLm_3lMKjiMgmUUYBs04YegOs-t.ttf",
+      "errored": false
+    },
+    {
+      "id": "300",
+      "eot": "https://fonts.gstatic.com/s/yanonekaffeesatz/v11/3y9-6aknfjLm_3lMKjiMgmUUYBs04YewPc-s.eot",
+      "fontFamily": "'Yanone Kaffeesatz'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "woff2": "https://fonts.gstatic.com/s/yanonekaffeesatz/v11/3y9-6aknfjLm_3lMKjiMgmUUYBs04YewPc-o.woff2",
+      "local": [
+        "Yanone Kaffeesatz Light",
+        "YanoneKaffeesatz-Light"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/yanonekaffeesatz/v11/3y9-6aknfjLm_3lMKjiMgmUUYBs04YewPc-t.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=3y9-6aknfjLm_3lMKjiMgmUUYBs04YewPc-v&skey=7ed7f9a84d49bf3e&v=v11#YanoneKaffeesatz",
+      "woff": "https://fonts.gstatic.com/s/yanonekaffeesatz/v11/3y9-6aknfjLm_3lMKjiMgmUUYBs04YewPc-u.woff",
       "errored": false
     }
   ],
   "subsets": [
     "vietnamese",
     "latin",
-    "latin-ext",
-    "cyrillic"
+    "cyrillic",
+    "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v11",
   "lastModified": "2019-07-17",
-  "popularity": 68,
+  "popularity": 70,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "vietnamese": true,
     "latin": true,
-    "latin-ext": true,
-    "cyrillic": true
+    "cyrillic": true,
+    "latin-ext": true
   },
-  "storeID": "cyrillic_latin-ext_latin_vietnamese"
+  "storeID": "latin-ext_cyrillic_latin_vietnamese"
 }

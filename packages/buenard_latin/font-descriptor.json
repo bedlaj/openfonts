@@ -4,10 +4,11 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/buenard/v11/OD5DuM6Cyma8FnnsDzD3rw.woff",
+      "eot": "https://fonts.gstatic.com/s/buenard/v11/OD5DuM6Cyma8FnnsDzD3rQ.eot",
       "fontFamily": "'Buenard'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/buenard/v11/OD5DuM6Cyma8FnnsDzD3rw.woff",
       "local": [
         "Buenard Regular",
         "Buenard-Regular"
@@ -15,23 +16,22 @@
       "svg": "https://fonts.gstatic.com/l/font?kit=OD5DuM6Cyma8FnnsDzD3rg&skey=9765affe45fa9583&v=v11#Buenard",
       "woff2": "https://fonts.gstatic.com/s/buenard/v11/OD5DuM6Cyma8FnnsDzD3qQ.woff2",
       "ttf": "https://fonts.gstatic.com/s/buenard/v11/OD5DuM6Cyma8FnnsDzD3rA.ttf",
-      "eot": "https://fonts.gstatic.com/s/buenard/v11/OD5DuM6Cyma8FnnsDzD3rQ.eot",
       "errored": false
     },
     {
       "id": "700",
-      "woff": "https://fonts.gstatic.com/s/buenard/v11/OD5GuM6Cyma8FnnsB4vSvGecBw.woff",
+      "eot": "https://fonts.gstatic.com/s/buenard/v11/OD5GuM6Cyma8FnnsB4vSvGecBQ.eot",
       "fontFamily": "'Buenard'",
       "fontStyle": "normal",
       "fontWeight": "700",
+      "svg": "https://fonts.gstatic.com/l/font?kit=OD5GuM6Cyma8FnnsB4vSvGecBg&skey=f0ec52c5a48bc809&v=v11#Buenard",
       "local": [
         "Buenard Bold",
         "Buenard-Bold"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=OD5GuM6Cyma8FnnsB4vSvGecBg&skey=f0ec52c5a48bc809&v=v11#Buenard",
-      "eot": "https://fonts.gstatic.com/s/buenard/v11/OD5GuM6Cyma8FnnsB4vSvGecBQ.eot",
-      "woff2": "https://fonts.gstatic.com/s/buenard/v11/OD5GuM6Cyma8FnnsB4vSvGecAQ.woff2",
       "ttf": "https://fonts.gstatic.com/s/buenard/v11/OD5GuM6Cyma8FnnsB4vSvGecBA.ttf",
+      "woff": "https://fonts.gstatic.com/s/buenard/v11/OD5GuM6Cyma8FnnsB4vSvGecBw.woff",
+      "woff2": "https://fonts.gstatic.com/s/buenard/v11/OD5GuM6Cyma8FnnsB4vSvGecAQ.woff2",
       "errored": false
     }
   ],
@@ -42,7 +42,7 @@
   "category": "serif",
   "version": "v11",
   "lastModified": "2019-07-16",
-  "popularity": 388,
+  "popularity": 344,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

@@ -8,30 +8,30 @@
       "fontFamily": "'Amatic SC'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/amaticsc/v13/TUZyzwprpvBS1izr_vOEDuSf.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=TUZyzwprpvBS1izr_vOEDuSY&skey=fb863bec8adba0c7&v=v13#AmaticSC",
       "local": [
         "Amatic SC Regular",
         "AmaticSC-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=TUZyzwprpvBS1izr_vOEDuSY&skey=fb863bec8adba0c7&v=v13#AmaticSC",
-      "woff": "https://fonts.gstatic.com/s/amaticsc/v13/TUZyzwprpvBS1izr_vOEDuSZ.woff",
       "ttf": "https://fonts.gstatic.com/s/amaticsc/v13/TUZyzwprpvBS1izr_vOEDuSa.ttf",
+      "woff2": "https://fonts.gstatic.com/s/amaticsc/v13/TUZyzwprpvBS1izr_vOEDuSf.woff2",
+      "woff": "https://fonts.gstatic.com/s/amaticsc/v13/TUZyzwprpvBS1izr_vOEDuSZ.woff",
       "errored": false
     },
     {
       "id": "700",
-      "ttf": "https://fonts.gstatic.com/s/amaticsc/v13/TUZ3zwprpvBS1izr_vOMscGKerUH.ttf",
+      "eot": "https://fonts.gstatic.com/s/amaticsc/v13/TUZ3zwprpvBS1izr_vOMscGKerUG.eot",
       "fontFamily": "'Amatic SC'",
       "fontStyle": "normal",
       "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/amaticsc/v13/TUZ3zwprpvBS1izr_vOMscGKerUE.woff",
       "local": [
         "Amatic SC Bold",
         "AmaticSC-Bold"
       ],
-      "eot": "https://fonts.gstatic.com/s/amaticsc/v13/TUZ3zwprpvBS1izr_vOMscGKerUG.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=TUZ3zwprpvBS1izr_vOMscGKerUF&skey=f5c87b6211811ffa&v=v13#AmaticSC",
       "woff2": "https://fonts.gstatic.com/s/amaticsc/v13/TUZ3zwprpvBS1izr_vOMscGKerUC.woff2",
-      "woff": "https://fonts.gstatic.com/s/amaticsc/v13/TUZ3zwprpvBS1izr_vOMscGKerUE.woff",
+      "ttf": "https://fonts.gstatic.com/s/amaticsc/v13/TUZ3zwprpvBS1izr_vOMscGKerUH.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=TUZ3zwprpvBS1izr_vOMscGKerUF&skey=f5c87b6211811ffa&v=v13#AmaticSC",
       "errored": false
     }
   ],
@@ -39,21 +39,21 @@
     "hebrew",
     "vietnamese",
     "latin",
-    "latin-ext",
-    "cyrillic"
+    "cyrillic",
+    "latin-ext"
   ],
   "category": "handwriting",
   "version": "v13",
   "lastModified": "2019-07-17",
-  "popularity": 85,
+  "popularity": 83,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "hebrew": false,
     "vietnamese": false,
     "latin": true,
-    "latin-ext": false,
-    "cyrillic": true
+    "cyrillic": true,
+    "latin-ext": false
   },
   "storeID": "cyrillic_latin"
 }

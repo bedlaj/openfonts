@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/coda/v15/SLXHc1jY5nQ8FUsGbQ.woff",
+      "eot": "https://fonts.gstatic.com/s/coda/v15/SLXHc1jY5nQ8FUsGbw.eot",
       "fontFamily": "'Coda'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/coda/v15/SLXHc1jY5nQ8FUsGaw.woff2",
       "local": [
         "Coda Regular",
         "Coda-Regular"
       ],
       "svg": "https://fonts.gstatic.com/l/font?kit=SLXHc1jY5nQ8FUsGbA&skey=85bb675133fabe3&v=v15#Coda",
-      "eot": "https://fonts.gstatic.com/s/coda/v15/SLXHc1jY5nQ8FUsGbw.eot",
+      "woff": "https://fonts.gstatic.com/s/coda/v15/SLXHc1jY5nQ8FUsGbQ.woff",
       "ttf": "https://fonts.gstatic.com/s/coda/v15/SLXHc1jY5nQ8FUsGbg.ttf",
-      "woff2": "https://fonts.gstatic.com/s/coda/v15/SLXHc1jY5nQ8FUsGaw.woff2",
       "errored": false
     },
     {
@@ -28,10 +28,10 @@
         "Coda ExtraBold",
         "Coda-ExtraBold"
       ],
-      "eot": "https://fonts.gstatic.com/s/coda/v15/SLXIc1jY5nQ8HeIgfpesxg.eot",
-      "woff2": "https://fonts.gstatic.com/s/coda/v15/SLXIc1jY5nQ8HeIgfpeswg.woff2",
       "ttf": "https://fonts.gstatic.com/s/coda/v15/SLXIc1jY5nQ8HeIgfpesxw.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=SLXIc1jY5nQ8HeIgfpesxQ&skey=4835f90a6ea1d5e3&v=v15#Coda",
+      "woff2": "https://fonts.gstatic.com/s/coda/v15/SLXIc1jY5nQ8HeIgfpeswg.woff2",
+      "eot": "https://fonts.gstatic.com/s/coda/v15/SLXIc1jY5nQ8HeIgfpesxg.eot",
       "errored": false
     }
   ],
@@ -42,7 +42,7 @@
   "category": "display",
   "version": "v15",
   "lastModified": "2019-07-16",
-  "popularity": 295,
+  "popularity": 236,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

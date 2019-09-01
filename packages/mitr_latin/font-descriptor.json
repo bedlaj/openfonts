@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "200",
-      "svg": "https://fonts.gstatic.com/l/font?kit=pxiEypw5ucZF8fMZJJfedQ&skey=8b1e120e0c5cab67&v=v5#Mitr",
+      "woff2": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8fMZJJfecg.woff2",
       "fontFamily": "'Mitr'",
       "fontStyle": "normal",
       "fontWeight": "200",
@@ -12,42 +12,42 @@
         "Mitr ExtraLight",
         "Mitr-ExtraLight"
       ],
-      "woff2": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8fMZJJfecg.woff2",
-      "eot": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8fMZJJfedg.eot",
-      "ttf": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8fMZJJfedw.ttf",
       "woff": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8fMZJJfedA.woff",
+      "eot": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8fMZJJfedg.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=pxiEypw5ucZF8fMZJJfedQ&skey=8b1e120e0c5cab67&v=v5#Mitr",
+      "ttf": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8fMZJJfedw.ttf",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/mitr/v5/pxiLypw5ucZF-Tw4NQ.eot",
+      "fontFamily": "'Mitr'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/mitr/v5/pxiLypw5ucZF-Tw4Nw.woff",
+      "local": [
+        "Mitr Regular",
+        "Mitr-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/mitr/v5/pxiLypw5ucZF-Tw4MQ.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=pxiLypw5ucZF-Tw4Ng&skey=d9d553d0e1ce1028&v=v5#Mitr",
+      "ttf": "https://fonts.gstatic.com/s/mitr/v5/pxiLypw5ucZF-Tw4NA.ttf",
       "errored": false
     },
     {
       "id": "300",
-      "woff": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8ZcaJJfedA.woff",
+      "eot": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8ZcaJJfedg.eot",
       "fontFamily": "'Mitr'",
       "fontStyle": "normal",
       "fontWeight": "300",
+      "ttf": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8ZcaJJfedw.ttf",
       "local": [
         "Mitr Light",
         "Mitr-Light"
       ],
       "woff2": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8ZcaJJfecg.woff2",
-      "eot": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8ZcaJJfedg.eot",
+      "woff": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8ZcaJJfedA.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=pxiEypw5ucZF8ZcaJJfedQ&skey=6b814b7e1d9784a5&v=v5#Mitr",
-      "ttf": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8ZcaJJfedw.ttf",
-      "errored": false
-    },
-    {
-      "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/mitr/v5/pxiLypw5ucZF-Tw4Nw.woff",
-      "fontFamily": "'Mitr'",
-      "fontStyle": "normal",
-      "fontWeight": "400",
-      "local": [
-        "Mitr Regular",
-        "Mitr-Regular"
-      ],
-      "eot": "https://fonts.gstatic.com/s/mitr/v5/pxiLypw5ucZF-Tw4NQ.eot",
-      "woff2": "https://fonts.gstatic.com/s/mitr/v5/pxiLypw5ucZF-Tw4MQ.woff2",
-      "ttf": "https://fonts.gstatic.com/s/mitr/v5/pxiLypw5ucZF-Tw4NA.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=pxiLypw5ucZF-Tw4Ng&skey=d9d553d0e1ce1028&v=v5#Mitr",
       "errored": false
     },
     {
@@ -61,34 +61,17 @@
         "Mitr Medium",
         "Mitr-Medium"
       ],
-      "woff2": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8c8bJJfecg.woff2",
-      "ttf": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8c8bJJfedw.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=pxiEypw5ucZF8c8bJJfedQ&skey=2decc630fed765c1&v=v5#Mitr",
-      "errored": false
-    },
-    {
-      "id": "600",
-      "eot": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8eMcJJfedg.eot",
-      "fontFamily": "'Mitr'",
-      "fontStyle": "normal",
-      "fontWeight": "600",
-      "woff": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8eMcJJfedA.woff",
-      "local": [
-        "Mitr SemiBold",
-        "Mitr-SemiBold"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8eMcJJfecg.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=pxiEypw5ucZF8eMcJJfedQ&skey=fff00b7b84b6ca5a&v=v5#Mitr",
-      "ttf": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8eMcJJfedw.ttf",
+      "ttf": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8c8bJJfedw.ttf",
+      "woff2": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8c8bJJfecg.woff2",
       "errored": false
     },
     {
       "id": "700",
-      "eot": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8YcdJJfedg.eot",
+      "woff2": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8YcdJJfecg.woff2",
       "fontFamily": "'Mitr'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff2": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8YcdJJfecg.woff2",
       "local": [
         "Mitr Bold",
         "Mitr-Bold"
@@ -96,26 +79,43 @@
       "woff": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8YcdJJfedA.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=pxiEypw5ucZF8YcdJJfedQ&skey=96da9a487f210d6e&v=v5#Mitr",
       "ttf": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8YcdJJfedw.ttf",
+      "eot": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8YcdJJfedg.eot",
+      "errored": false
+    },
+    {
+      "id": "600",
+      "woff": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8eMcJJfedA.woff",
+      "fontFamily": "'Mitr'",
+      "fontStyle": "normal",
+      "fontWeight": "600",
+      "local": [
+        "Mitr SemiBold",
+        "Mitr-SemiBold"
+      ],
+      "eot": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8eMcJJfedg.eot",
+      "woff2": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8eMcJJfecg.woff2",
+      "ttf": "https://fonts.gstatic.com/s/mitr/v5/pxiEypw5ucZF8eMcJJfedw.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=pxiEypw5ucZF8eMcJJfedQ&skey=fff00b7b84b6ca5a&v=v5#Mitr",
       "errored": false
     }
   ],
   "subsets": [
     "vietnamese",
     "latin",
-    "latin-ext",
-    "thai"
+    "thai",
+    "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v5",
   "lastModified": "2019-07-16",
-  "popularity": 226,
+  "popularity": 193,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "vietnamese": false,
     "latin": true,
-    "latin-ext": false,
-    "thai": false
+    "thai": false,
+    "latin-ext": false
   },
   "storeID": "latin"
 }

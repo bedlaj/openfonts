@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/anton/v11/1Ptgg87LROyAm3Kz-Ck.woff",
+      "woff2": "https://fonts.gstatic.com/s/anton/v11/1Ptgg87LROyAm3Kz-C8.woff2",
       "fontFamily": "'Anton'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Anton Regular",
         "Anton-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/anton/v11/1Ptgg87LROyAm3Kz-Cs.eot",
       "ttf": "https://fonts.gstatic.com/s/anton/v11/1Ptgg87LROyAm3Kz-Co.ttf",
-      "woff2": "https://fonts.gstatic.com/s/anton/v11/1Ptgg87LROyAm3Kz-C8.woff2",
+      "eot": "https://fonts.gstatic.com/s/anton/v11/1Ptgg87LROyAm3Kz-Cs.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=1Ptgg87LROyAm3Kz-Cg&skey=3e16a04254d4c9b3&v=v11#Anton",
+      "woff": "https://fonts.gstatic.com/s/anton/v11/1Ptgg87LROyAm3Kz-Ck.woff",
       "errored": false
     }
   ],
@@ -27,7 +27,7 @@
   "category": "sans-serif",
   "version": "v11",
   "lastModified": "2019-07-17",
-  "popularity": 44,
+  "popularity": 40,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

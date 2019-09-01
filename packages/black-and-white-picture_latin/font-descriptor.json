@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/blackandwhitepicture/v8/TwMe-JAERlQd3ooUHBUXGmrmioKjjnRSFO-NqL5AZ8I.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=TwMe-JAERlQd3ooUHBUXGmrmioKjjnRSFO-NqL5AZ8U&skey=978d467907d5ff57&v=v8#BlackAndWhitePicture",
       "fontFamily": "'Black And White Picture'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,26 +12,26 @@
         "Black And White Picture Regular",
         "BlackAndWhitePicture-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/blackandwhitepicture/v8/TwMe-JAERlQd3ooUHBUXGmrmioKjjnRSFO-NqL5AZ8Y.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=TwMe-JAERlQd3ooUHBUXGmrmioKjjnRSFO-NqL5AZ8U&skey=978d467907d5ff57&v=v8#BlackAndWhitePicture",
       "woff": "https://fonts.gstatic.com/s/blackandwhitepicture/v8/TwMe-JAERlQd3ooUHBUXGmrmioKjjnRSFO-NqL5AZ8Q.woff",
+      "woff2": "https://fonts.gstatic.com/s/blackandwhitepicture/v8/TwMe-JAERlQd3ooUHBUXGmrmioKjjnRSFO-NqL5AZ8I.woff2",
+      "eot": "https://fonts.gstatic.com/s/blackandwhitepicture/v8/TwMe-JAERlQd3ooUHBUXGmrmioKjjnRSFO-NqL5AZ8Y.eot",
       "ttf": "https://fonts.gstatic.com/s/blackandwhitepicture/v8/TwMe-JAERlQd3ooUHBUXGmrmioKjjnRSFO-NqL5AZ8c.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "korean",
-    "latin"
+    "latin",
+    "korean"
   ],
   "category": "sans-serif",
   "version": "v8",
   "lastModified": "2019-07-16",
-  "popularity": 885,
+  "popularity": 890,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "korean": false,
-    "latin": true
+    "latin": true,
+    "korean": false
   },
   "storeID": "latin"
 }

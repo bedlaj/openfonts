@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "200",
-      "svg": "https://fonts.gstatic.com/l/font?kit=sZlEdRyC6CRYZo47GKJyQQ&skey=66a2da335df5cb8e&v=v3#Krub",
+      "eot": "https://fonts.gstatic.com/s/krub/v3/sZlEdRyC6CRYZo47GKJyQg.eot",
       "fontFamily": "'Krub'",
       "fontStyle": "normal",
       "fontWeight": "200",
+      "woff2": "https://fonts.gstatic.com/s/krub/v3/sZlEdRyC6CRYZo47GKJyRg.woff2",
       "local": [
         "Krub ExtraLight",
         "Krub-ExtraLight"
       ],
-      "ttf": "https://fonts.gstatic.com/s/krub/v3/sZlEdRyC6CRYZo47GKJyQw.ttf",
-      "eot": "https://fonts.gstatic.com/s/krub/v3/sZlEdRyC6CRYZo47GKJyQg.eot",
-      "woff2": "https://fonts.gstatic.com/s/krub/v3/sZlEdRyC6CRYZo47GKJyRg.woff2",
       "woff": "https://fonts.gstatic.com/s/krub/v3/sZlEdRyC6CRYZo47GKJyQA.woff",
+      "ttf": "https://fonts.gstatic.com/s/krub/v3/sZlEdRyC6CRYZo47GKJyQw.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=sZlEdRyC6CRYZo47GKJyQQ&skey=66a2da335df5cb8e&v=v3#Krub",
       "errored": false
     },
     {
@@ -30,24 +30,8 @@
         "Krub-Light"
       ],
       "svg": "https://fonts.gstatic.com/l/font?kit=sZlEdRyC6CRYZuo4GKJyQQ&skey=46b37114ceec7d71&v=v3#Krub",
-      "ttf": "https://fonts.gstatic.com/s/krub/v3/sZlEdRyC6CRYZuo4GKJyQw.ttf",
       "woff2": "https://fonts.gstatic.com/s/krub/v3/sZlEdRyC6CRYZuo4GKJyRg.woff2",
-      "errored": false
-    },
-    {
-      "id": "200italic",
-      "woff2": "https://fonts.gstatic.com/s/krub/v3/sZlGdRyC6CRYbkQiwLBCUIAS.woff2",
-      "fontFamily": "'Krub'",
-      "fontStyle": "italic",
-      "fontWeight": "200",
-      "local": [
-        "Krub ExtraLight Italic",
-        "Krub-ExtraLightItalic"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=sZlGdRyC6CRYbkQiwLBCUIAV&skey=dec7c02b8dbf0b69&v=v3#Krub",
-      "woff": "https://fonts.gstatic.com/s/krub/v3/sZlGdRyC6CRYbkQiwLBCUIAU.woff",
-      "ttf": "https://fonts.gstatic.com/s/krub/v3/sZlGdRyC6CRYbkQiwLBCUIAX.ttf",
-      "eot": "https://fonts.gstatic.com/s/krub/v3/sZlGdRyC6CRYbkQiwLBCUIAW.eot",
+      "ttf": "https://fonts.gstatic.com/s/krub/v3/sZlEdRyC6CRYZuo4GKJyQw.ttf",
       "errored": false
     },
     {
@@ -61,9 +45,25 @@
         "Krub Light Italic",
         "Krub-LightItalic"
       ],
-      "woff2": "https://fonts.gstatic.com/s/krub/v3/sZlGdRyC6CRYbkQipLNCUIAS.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=sZlGdRyC6CRYbkQipLNCUIAV&skey=fec9869ecc0a0417&v=v3#Krub",
+      "woff2": "https://fonts.gstatic.com/s/krub/v3/sZlGdRyC6CRYbkQipLNCUIAS.woff2",
       "ttf": "https://fonts.gstatic.com/s/krub/v3/sZlGdRyC6CRYbkQipLNCUIAX.ttf",
+      "errored": false
+    },
+    {
+      "id": "200italic",
+      "woff": "https://fonts.gstatic.com/s/krub/v3/sZlGdRyC6CRYbkQiwLBCUIAU.woff",
+      "fontFamily": "'Krub'",
+      "fontStyle": "italic",
+      "fontWeight": "200",
+      "local": [
+        "Krub ExtraLight Italic",
+        "Krub-ExtraLightItalic"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=sZlGdRyC6CRYbkQiwLBCUIAV&skey=dec7c02b8dbf0b69&v=v3#Krub",
+      "eot": "https://fonts.gstatic.com/s/krub/v3/sZlGdRyC6CRYbkQiwLBCUIAW.eot",
+      "woff2": "https://fonts.gstatic.com/s/krub/v3/sZlGdRyC6CRYbkQiwLBCUIAS.woff2",
+      "ttf": "https://fonts.gstatic.com/s/krub/v3/sZlGdRyC6CRYbkQiwLBCUIAX.ttf",
       "errored": false
     },
     {
@@ -72,46 +72,46 @@
       "fontFamily": "'Krub'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/krub/v3/sZlLdRyC6CRYblUaDQ.woff2",
+      "woff": "https://fonts.gstatic.com/s/krub/v3/sZlLdRyC6CRYblUaCw.woff",
       "local": [
         "Krub Regular",
         "Krub-Regular"
       ],
       "svg": "https://fonts.gstatic.com/l/font?kit=sZlLdRyC6CRYblUaCg&skey=279c1533cb23a2a&v=v3#Krub",
       "ttf": "https://fonts.gstatic.com/s/krub/v3/sZlLdRyC6CRYblUaCA.ttf",
-      "woff": "https://fonts.gstatic.com/s/krub/v3/sZlLdRyC6CRYblUaCw.woff",
+      "woff2": "https://fonts.gstatic.com/s/krub/v3/sZlLdRyC6CRYblUaDQ.woff2",
       "errored": false
     },
     {
       "id": "500",
-      "eot": "https://fonts.gstatic.com/s/krub/v3/sZlEdRyC6CRYZrI5GKJyQg.eot",
+      "woff": "https://fonts.gstatic.com/s/krub/v3/sZlEdRyC6CRYZrI5GKJyQA.woff",
       "fontFamily": "'Krub'",
       "fontStyle": "normal",
       "fontWeight": "500",
-      "woff": "https://fonts.gstatic.com/s/krub/v3/sZlEdRyC6CRYZrI5GKJyQA.woff",
       "local": [
         "Krub Medium",
         "Krub-Medium"
       ],
       "woff2": "https://fonts.gstatic.com/s/krub/v3/sZlEdRyC6CRYZrI5GKJyRg.woff2",
+      "eot": "https://fonts.gstatic.com/s/krub/v3/sZlEdRyC6CRYZrI5GKJyQg.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=sZlEdRyC6CRYZrI5GKJyQQ&skey=6128aeabaab7448&v=v3#Krub",
       "ttf": "https://fonts.gstatic.com/s/krub/v3/sZlEdRyC6CRYZrI5GKJyQw.ttf",
       "errored": false
     },
     {
       "id": "italic",
-      "woff": "https://fonts.gstatic.com/s/krub/v3/sZlFdRyC6CRYbkQqG5FR.woff",
+      "eot": "https://fonts.gstatic.com/s/krub/v3/sZlFdRyC6CRYbkQqG5FT.eot",
       "fontFamily": "'Krub'",
       "fontStyle": "italic",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/krub/v3/sZlFdRyC6CRYbkQqG5FR.woff",
       "local": [
         "Krub Italic",
         "Krub-Italic"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=sZlFdRyC6CRYbkQqG5FQ&skey=d36cadc71c02de4d&v=v3#Krub",
-      "ttf": "https://fonts.gstatic.com/s/krub/v3/sZlFdRyC6CRYbkQqG5FS.ttf",
-      "eot": "https://fonts.gstatic.com/s/krub/v3/sZlFdRyC6CRYbkQqG5FT.eot",
       "woff2": "https://fonts.gstatic.com/s/krub/v3/sZlFdRyC6CRYbkQqG5FX.woff2",
+      "ttf": "https://fonts.gstatic.com/s/krub/v3/sZlFdRyC6CRYbkQqG5FS.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=sZlFdRyC6CRYbkQqG5FQ&skey=d36cadc71c02de4d&v=v3#Krub",
       "errored": false
     },
     {
@@ -125,25 +125,9 @@
         "Krub Medium Italic",
         "Krub-MediumItalic"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=sZlGdRyC6CRYbkQi_LJCUIAV&skey=8967b5144182ebec&v=v3#Krub",
       "woff": "https://fonts.gstatic.com/s/krub/v3/sZlGdRyC6CRYbkQi_LJCUIAU.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=sZlGdRyC6CRYbkQi_LJCUIAV&skey=8967b5144182ebec&v=v3#Krub",
       "ttf": "https://fonts.gstatic.com/s/krub/v3/sZlGdRyC6CRYbkQi_LJCUIAX.ttf",
-      "errored": false
-    },
-    {
-      "id": "600italic",
-      "eot": "https://fonts.gstatic.com/s/krub/v3/sZlGdRyC6CRYbkQi0LVCUIAW.eot",
-      "fontFamily": "'Krub'",
-      "fontStyle": "italic",
-      "fontWeight": "600",
-      "woff": "https://fonts.gstatic.com/s/krub/v3/sZlGdRyC6CRYbkQi0LVCUIAU.woff",
-      "local": [
-        "Krub SemiBold Italic",
-        "Krub-SemiBoldItalic"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=sZlGdRyC6CRYbkQi0LVCUIAV&skey=931aa30556216678&v=v3#Krub",
-      "ttf": "https://fonts.gstatic.com/s/krub/v3/sZlGdRyC6CRYbkQi0LVCUIAX.ttf",
-      "woff2": "https://fonts.gstatic.com/s/krub/v3/sZlGdRyC6CRYbkQi0LVCUIAS.woff2",
       "errored": false
     },
     {
@@ -160,6 +144,22 @@
       "woff2": "https://fonts.gstatic.com/s/krub/v3/sZlEdRyC6CRYZp4-GKJyRg.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=sZlEdRyC6CRYZp4-GKJyQQ&skey=21ce910568c75b41&v=v3#Krub",
       "ttf": "https://fonts.gstatic.com/s/krub/v3/sZlEdRyC6CRYZp4-GKJyQw.ttf",
+      "errored": false
+    },
+    {
+      "id": "600italic",
+      "eot": "https://fonts.gstatic.com/s/krub/v3/sZlGdRyC6CRYbkQi0LVCUIAW.eot",
+      "fontFamily": "'Krub'",
+      "fontStyle": "italic",
+      "fontWeight": "600",
+      "woff": "https://fonts.gstatic.com/s/krub/v3/sZlGdRyC6CRYbkQi0LVCUIAU.woff",
+      "local": [
+        "Krub SemiBold Italic",
+        "Krub-SemiBoldItalic"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=sZlGdRyC6CRYbkQi0LVCUIAV&skey=931aa30556216678&v=v3#Krub",
+      "ttf": "https://fonts.gstatic.com/s/krub/v3/sZlGdRyC6CRYbkQi0LVCUIAX.ttf",
+      "woff2": "https://fonts.gstatic.com/s/krub/v3/sZlGdRyC6CRYbkQi0LVCUIAS.woff2",
       "errored": false
     },
     {
@@ -190,28 +190,28 @@
         "Krub-BoldItalic"
       ],
       "woff2": "https://fonts.gstatic.com/s/krub/v3/sZlGdRyC6CRYbkQitLRCUIAS.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=sZlGdRyC6CRYbkQitLRCUIAV&skey=272769a11a0bebbd&v=v3#Krub",
       "ttf": "https://fonts.gstatic.com/s/krub/v3/sZlGdRyC6CRYbkQitLRCUIAX.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=sZlGdRyC6CRYbkQitLRCUIAV&skey=272769a11a0bebbd&v=v3#Krub",
       "errored": false
     }
   ],
   "subsets": [
     "vietnamese",
     "latin",
-    "latin-ext",
-    "thai"
+    "thai",
+    "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v3",
   "lastModified": "2019-07-16",
-  "popularity": 495,
+  "popularity": 472,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "vietnamese": false,
     "latin": true,
-    "latin-ext": false,
-    "thai": true
+    "thai": true,
+    "latin-ext": false
   },
   "storeID": "thai_latin"
 }

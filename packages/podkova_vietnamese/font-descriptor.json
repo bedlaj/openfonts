@@ -3,22 +3,6 @@
   "family": "Podkova",
   "variants": [
     {
-      "id": "500",
-      "eot": "https://fonts.gstatic.com/s/podkova/v13/K2F0fZ1EmftJSV9VYGrQMoKABg.eot",
-      "fontFamily": "'Podkova'",
-      "fontStyle": "normal",
-      "fontWeight": "500",
-      "woff2": "https://fonts.gstatic.com/s/podkova/v13/K2F0fZ1EmftJSV9VYGrQMoKAAg.woff2",
-      "local": [
-        "Podkova Medium",
-        "Podkova-Medium"
-      ],
-      "woff": "https://fonts.gstatic.com/s/podkova/v13/K2F0fZ1EmftJSV9VYGrQMoKABA.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=K2F0fZ1EmftJSV9VYGrQMoKABQ&skey=83048aaef08b4c86&v=v13#Podkova",
-      "ttf": "https://fonts.gstatic.com/s/podkova/v13/K2F0fZ1EmftJSV9VYGrQMoKABw.ttf",
-      "errored": false
-    },
-    {
       "id": "600",
       "eot": "https://fonts.gstatic.com/s/podkova/v13/K2F0fZ1EmftJSV9VYEbXMoKABg.eot",
       "fontFamily": "'Podkova'",
@@ -30,13 +14,13 @@
         "Podkova-SemiBold"
       ],
       "woff2": "https://fonts.gstatic.com/s/podkova/v13/K2F0fZ1EmftJSV9VYEbXMoKAAg.woff2",
-      "ttf": "https://fonts.gstatic.com/s/podkova/v13/K2F0fZ1EmftJSV9VYEbXMoKABw.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=K2F0fZ1EmftJSV9VYEbXMoKABQ&skey=57f6208afeb498c7&v=v13#Podkova",
+      "ttf": "https://fonts.gstatic.com/s/podkova/v13/K2F0fZ1EmftJSV9VYEbXMoKABw.ttf",
       "errored": false
     },
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/podkova/v13/K2FxfZ1EmftJSV9VaJbzJw.woff2",
+      "woff": "https://fonts.gstatic.com/s/podkova/v13/K2FxfZ1EmftJSV9VaJbzIQ.woff",
       "fontFamily": "'Podkova'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -44,10 +28,26 @@
         "Podkova Regular",
         "Podkova-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/podkova/v13/K2FxfZ1EmftJSV9VaJbzIw.eot",
-      "woff": "https://fonts.gstatic.com/s/podkova/v13/K2FxfZ1EmftJSV9VaJbzIQ.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=K2FxfZ1EmftJSV9VaJbzIA&skey=f253628f1750e862&v=v13#Podkova",
       "ttf": "https://fonts.gstatic.com/s/podkova/v13/K2FxfZ1EmftJSV9VaJbzIg.ttf",
+      "woff2": "https://fonts.gstatic.com/s/podkova/v13/K2FxfZ1EmftJSV9VaJbzJw.woff2",
+      "eot": "https://fonts.gstatic.com/s/podkova/v13/K2FxfZ1EmftJSV9VaJbzIw.eot",
+      "errored": false
+    },
+    {
+      "id": "500",
+      "eot": "https://fonts.gstatic.com/s/podkova/v13/K2F0fZ1EmftJSV9VYGrQMoKABg.eot",
+      "fontFamily": "'Podkova'",
+      "fontStyle": "normal",
+      "fontWeight": "500",
+      "woff": "https://fonts.gstatic.com/s/podkova/v13/K2F0fZ1EmftJSV9VYGrQMoKABA.woff",
+      "local": [
+        "Podkova Medium",
+        "Podkova-Medium"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/podkova/v13/K2F0fZ1EmftJSV9VYGrQMoKAAg.woff2",
+      "ttf": "https://fonts.gstatic.com/s/podkova/v13/K2F0fZ1EmftJSV9VYGrQMoKABw.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=K2F0fZ1EmftJSV9VYGrQMoKABQ&skey=83048aaef08b4c86&v=v13#Podkova",
       "errored": false
     },
     {
@@ -62,8 +62,8 @@
         "Podkova-Bold"
       ],
       "woff2": "https://fonts.gstatic.com/s/podkova/v13/K2F0fZ1EmftJSV9VYCLWMoKAAg.woff2",
-      "ttf": "https://fonts.gstatic.com/s/podkova/v13/K2F0fZ1EmftJSV9VYCLWMoKABw.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=K2F0fZ1EmftJSV9VYCLWMoKABQ&skey=abf2e359e3b3822b&v=v13#Podkova",
+      "ttf": "https://fonts.gstatic.com/s/podkova/v13/K2F0fZ1EmftJSV9VYCLWMoKABw.ttf",
       "errored": false
     },
     {
@@ -78,30 +78,30 @@
         "Podkova-ExtraBold"
       ],
       "woff2": "https://fonts.gstatic.com/s/podkova/v13/K2F0fZ1EmftJSV9VYD7VMoKAAg.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=K2F0fZ1EmftJSV9VYD7VMoKABQ&skey=1b0c8f2ee2b61806&v=v13#Podkova",
       "ttf": "https://fonts.gstatic.com/s/podkova/v13/K2F0fZ1EmftJSV9VYD7VMoKABw.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=K2F0fZ1EmftJSV9VYD7VMoKABQ&skey=1b0c8f2ee2b61806&v=v13#Podkova",
       "errored": false
     }
   ],
   "subsets": [
     "vietnamese",
     "latin",
-    "latin-ext",
+    "cyrillic-ext",
     "cyrillic",
-    "cyrillic-ext"
+    "latin-ext"
   ],
   "category": "serif",
   "version": "v13",
   "lastModified": "2019-07-16",
-  "popularity": 517,
+  "popularity": 519,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "vietnamese": true,
     "latin": true,
-    "latin-ext": false,
+    "cyrillic-ext": false,
     "cyrillic": false,
-    "cyrillic-ext": false
+    "latin-ext": false
   },
   "storeID": "latin_vietnamese"
 }

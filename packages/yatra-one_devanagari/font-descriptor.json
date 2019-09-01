@@ -4,36 +4,36 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/yatraone/v6/C8ch4copsHzj8p7NaF0BxVmE.eot",
+      "woff": "https://fonts.gstatic.com/s/yatraone/v6/C8ch4copsHzj8p7NaF0BxVmG.woff",
       "fontFamily": "'Yatra One'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "svg": "https://fonts.gstatic.com/l/font?kit=C8ch4copsHzj8p7NaF0BxVmH&skey=3921a9df435bda23&v=v6#YatraOne",
       "local": [
         "Yatra One Regular",
         "YatraOne-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/yatraone/v6/C8ch4copsHzj8p7NaF0BxVmG.woff",
+      "eot": "https://fonts.gstatic.com/s/yatraone/v6/C8ch4copsHzj8p7NaF0BxVmE.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=C8ch4copsHzj8p7NaF0BxVmH&skey=3921a9df435bda23&v=v6#YatraOne",
       "woff2": "https://fonts.gstatic.com/s/yatraone/v6/C8ch4copsHzj8p7NaF0BxVmA.woff2",
       "ttf": "https://fonts.gstatic.com/s/yatraone/v6/C8ch4copsHzj8p7NaF0BxVmF.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
     "devanagari",
+    "latin",
     "latin-ext"
   ],
   "category": "display",
   "version": "v6",
   "lastModified": "2019-07-16",
-  "popularity": 660,
+  "popularity": 642,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
     "devanagari": true,
+    "latin": true,
     "latin-ext": false
   },
-  "storeID": "devanagari_latin"
+  "storeID": "latin_devanagari"
 }

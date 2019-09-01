@@ -4,34 +4,18 @@
   "variants": [
     {
       "id": "100",
-      "woff2": "https://fonts.gstatic.com/s/trirong/v5/7r3EqXNgp8wxdOdOl-gY2o5k.woff2",
+      "eot": "https://fonts.gstatic.com/s/trirong/v5/7r3EqXNgp8wxdOdOl-gY2o5g.eot",
       "fontFamily": "'Trirong'",
       "fontStyle": "normal",
       "fontWeight": "100",
+      "woff": "https://fonts.gstatic.com/s/trirong/v5/7r3EqXNgp8wxdOdOl-gY2o5i.woff",
       "local": [
         "Trirong Thin",
         "Trirong-Thin"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=7r3EqXNgp8wxdOdOl-gY2o5j&skey=8b436c76f5b27f54&v=v5#Trirong",
-      "eot": "https://fonts.gstatic.com/s/trirong/v5/7r3EqXNgp8wxdOdOl-gY2o5g.eot",
-      "woff": "https://fonts.gstatic.com/s/trirong/v5/7r3EqXNgp8wxdOdOl-gY2o5i.woff",
+      "woff2": "https://fonts.gstatic.com/s/trirong/v5/7r3EqXNgp8wxdOdOl-gY2o5k.woff2",
       "ttf": "https://fonts.gstatic.com/s/trirong/v5/7r3EqXNgp8wxdOdOl-gY2o5h.ttf",
-      "errored": false
-    },
-    {
-      "id": "100italic",
-      "ttf": "https://fonts.gstatic.com/s/trirong/v5/7r3CqXNgp8wxdOdOn44Qub5mwuk.ttf",
-      "fontFamily": "'Trirong'",
-      "fontStyle": "italic",
-      "fontWeight": "100",
-      "local": [
-        "Trirong Thin Italic",
-        "Trirong-ThinItalic"
-      ],
-      "woff": "https://fonts.gstatic.com/s/trirong/v5/7r3CqXNgp8wxdOdOn44Qub5mwuo.woff",
-      "woff2": "https://fonts.gstatic.com/s/trirong/v5/7r3CqXNgp8wxdOdOn44Qub5mwuw.woff2",
-      "eot": "https://fonts.gstatic.com/s/trirong/v5/7r3CqXNgp8wxdOdOn44Qub5mwug.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=7r3CqXNgp8wxdOdOn44Qub5mwus&skey=aed6f5122c0f83c6&v=v5#Trirong",
+      "svg": "https://fonts.gstatic.com/l/font?kit=7r3EqXNgp8wxdOdOl-gY2o5j&skey=8b436c76f5b27f54&v=v5#Trirong",
       "errored": false
     },
     {
@@ -40,14 +24,30 @@
       "fontFamily": "'Trirong'",
       "fontStyle": "normal",
       "fontWeight": "200",
-      "ttf": "https://fonts.gstatic.com/s/trirong/v5/7r3DqXNgp8wxdOdOl0QJzalB4g.ttf",
+      "woff": "https://fonts.gstatic.com/s/trirong/v5/7r3DqXNgp8wxdOdOl0QJzalB4Q.woff",
       "local": [
         "Trirong ExtraLight",
         "Trirong-ExtraLight"
       ],
       "svg": "https://fonts.gstatic.com/l/font?kit=7r3DqXNgp8wxdOdOl0QJzalB4A&skey=a08115bad4b92700&v=v5#Trirong",
       "woff2": "https://fonts.gstatic.com/s/trirong/v5/7r3DqXNgp8wxdOdOl0QJzalB5w.woff2",
-      "woff": "https://fonts.gstatic.com/s/trirong/v5/7r3DqXNgp8wxdOdOl0QJzalB4Q.woff",
+      "ttf": "https://fonts.gstatic.com/s/trirong/v5/7r3DqXNgp8wxdOdOl0QJzalB4g.ttf",
+      "errored": false
+    },
+    {
+      "id": "100italic",
+      "eot": "https://fonts.gstatic.com/s/trirong/v5/7r3CqXNgp8wxdOdOn44Qub5mwug.eot",
+      "fontFamily": "'Trirong'",
+      "fontStyle": "italic",
+      "fontWeight": "100",
+      "svg": "https://fonts.gstatic.com/l/font?kit=7r3CqXNgp8wxdOdOn44Qub5mwus&skey=aed6f5122c0f83c6&v=v5#Trirong",
+      "local": [
+        "Trirong Thin Italic",
+        "Trirong-ThinItalic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/trirong/v5/7r3CqXNgp8wxdOdOn44Qub5mwuw.woff2",
+      "woff": "https://fonts.gstatic.com/s/trirong/v5/7r3CqXNgp8wxdOdOn44Qub5mwuo.woff",
+      "ttf": "https://fonts.gstatic.com/s/trirong/v5/7r3CqXNgp8wxdOdOn44Qub5mwuk.ttf",
       "errored": false
     },
     {
@@ -56,14 +56,14 @@
       "fontFamily": "'Trirong'",
       "fontStyle": "italic",
       "fontWeight": "200",
-      "woff2": "https://fonts.gstatic.com/s/trirong/v5/7r3BqXNgp8wxdOdOn44QFa9x5cn6.woff2",
+      "woff": "https://fonts.gstatic.com/s/trirong/v5/7r3BqXNgp8wxdOdOn44QFa9x5cn8.woff",
       "local": [
         "Trirong ExtraLight Italic",
         "Trirong-ExtraLightItalic"
       ],
+      "woff2": "https://fonts.gstatic.com/s/trirong/v5/7r3BqXNgp8wxdOdOn44QFa9x5cn6.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=7r3BqXNgp8wxdOdOn44QFa9x5cn9&skey=7b37276d49c74118&v=v5#Trirong",
       "ttf": "https://fonts.gstatic.com/s/trirong/v5/7r3BqXNgp8wxdOdOn44QFa9x5cn_.ttf",
-      "woff": "https://fonts.gstatic.com/s/trirong/v5/7r3BqXNgp8wxdOdOn44QFa9x5cn8.woff",
       "errored": false
     },
     {
@@ -77,9 +77,25 @@
         "Trirong Light",
         "Trirong-Light"
       ],
-      "ttf": "https://fonts.gstatic.com/s/trirong/v5/7r3DqXNgp8wxdOdOlyAKzalB4g.ttf",
       "woff2": "https://fonts.gstatic.com/s/trirong/v5/7r3DqXNgp8wxdOdOlyAKzalB5w.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=7r3DqXNgp8wxdOdOlyAKzalB4A&skey=86b65b552c2ebbdc&v=v5#Trirong",
+      "ttf": "https://fonts.gstatic.com/s/trirong/v5/7r3DqXNgp8wxdOdOlyAKzalB4g.ttf",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/trirong/v5/7r3GqXNgp8wxdOdOn4so3g.woff",
+      "fontFamily": "'Trirong'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Trirong Regular",
+        "Trirong-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/trirong/v5/7r3GqXNgp8wxdOdOn4so3A.eot",
+      "woff2": "https://fonts.gstatic.com/s/trirong/v5/7r3GqXNgp8wxdOdOn4so2A.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=7r3GqXNgp8wxdOdOn4so3w&skey=3c72210defd34244&v=v5#Trirong",
+      "ttf": "https://fonts.gstatic.com/s/trirong/v5/7r3GqXNgp8wxdOdOn4so3Q.ttf",
       "errored": false
     },
     {
@@ -94,24 +110,8 @@
         "Trirong-LightItalic"
       ],
       "woff2": "https://fonts.gstatic.com/s/trirong/v5/7r3BqXNgp8wxdOdOn44Qcaxx5cn6.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=7r3BqXNgp8wxdOdOn44Qcaxx5cn9&skey=a1e76fa69d375c30&v=v5#Trirong",
       "ttf": "https://fonts.gstatic.com/s/trirong/v5/7r3BqXNgp8wxdOdOn44Qcaxx5cn_.ttf",
-      "errored": false
-    },
-    {
-      "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/trirong/v5/7r3GqXNgp8wxdOdOn4so3A.eot",
-      "fontFamily": "'Trirong'",
-      "fontStyle": "normal",
-      "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/trirong/v5/7r3GqXNgp8wxdOdOn4so2A.woff2",
-      "local": [
-        "Trirong Regular",
-        "Trirong-Regular"
-      ],
-      "woff": "https://fonts.gstatic.com/s/trirong/v5/7r3GqXNgp8wxdOdOn4so3g.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=7r3GqXNgp8wxdOdOn4so3w&skey=3c72210defd34244&v=v5#Trirong",
-      "ttf": "https://fonts.gstatic.com/s/trirong/v5/7r3GqXNgp8wxdOdOn4so3Q.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=7r3BqXNgp8wxdOdOn44Qcaxx5cn9&skey=a1e76fa69d375c30&v=v5#Trirong",
       "errored": false
     },
     {
@@ -120,14 +120,30 @@
       "fontFamily": "'Trirong'",
       "fontStyle": "italic",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/trirong/v5/7r3EqXNgp8wxdOdOn44Y2o5k.woff2",
+      "woff": "https://fonts.gstatic.com/s/trirong/v5/7r3EqXNgp8wxdOdOn44Y2o5i.woff",
       "local": [
         "Trirong Italic",
         "Trirong-Italic"
       ],
-      "woff": "https://fonts.gstatic.com/s/trirong/v5/7r3EqXNgp8wxdOdOn44Y2o5i.woff",
+      "woff2": "https://fonts.gstatic.com/s/trirong/v5/7r3EqXNgp8wxdOdOn44Y2o5k.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=7r3EqXNgp8wxdOdOn44Y2o5j&skey=ac16b8c4afa1f55c&v=v5#Trirong",
       "ttf": "https://fonts.gstatic.com/s/trirong/v5/7r3EqXNgp8wxdOdOn44Y2o5h.ttf",
+      "errored": false
+    },
+    {
+      "id": "600",
+      "eot": "https://fonts.gstatic.com/s/trirong/v5/7r3DqXNgp8wxdOdOl1QMzalB4w.eot",
+      "fontFamily": "'Trirong'",
+      "fontStyle": "normal",
+      "fontWeight": "600",
+      "woff": "https://fonts.gstatic.com/s/trirong/v5/7r3DqXNgp8wxdOdOl1QMzalB4Q.woff",
+      "local": [
+        "Trirong SemiBold",
+        "Trirong-SemiBold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/trirong/v5/7r3DqXNgp8wxdOdOl1QMzalB5w.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=7r3DqXNgp8wxdOdOl1QMzalB4A&skey=c7c232f8893f10a0&v=v5#Trirong",
+      "ttf": "https://fonts.gstatic.com/s/trirong/v5/7r3DqXNgp8wxdOdOl1QMzalB4g.ttf",
       "errored": false
     },
     {
@@ -147,38 +163,6 @@
       "errored": false
     },
     {
-      "id": "500italic",
-      "eot": "https://fonts.gstatic.com/s/trirong/v5/7r3BqXNgp8wxdOdOn44QKa1x5cn-.eot",
-      "fontFamily": "'Trirong'",
-      "fontStyle": "italic",
-      "fontWeight": "500",
-      "woff": "https://fonts.gstatic.com/s/trirong/v5/7r3BqXNgp8wxdOdOn44QKa1x5cn8.woff",
-      "local": [
-        "Trirong Medium Italic",
-        "Trirong-MediumItalic"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/trirong/v5/7r3BqXNgp8wxdOdOn44QKa1x5cn6.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=7r3BqXNgp8wxdOdOn44QKa1x5cn9&skey=ca2fa461eb11668f&v=v5#Trirong",
-      "ttf": "https://fonts.gstatic.com/s/trirong/v5/7r3BqXNgp8wxdOdOn44QKa1x5cn_.ttf",
-      "errored": false
-    },
-    {
-      "id": "600",
-      "eot": "https://fonts.gstatic.com/s/trirong/v5/7r3DqXNgp8wxdOdOl1QMzalB4w.eot",
-      "fontFamily": "'Trirong'",
-      "fontStyle": "normal",
-      "fontWeight": "600",
-      "ttf": "https://fonts.gstatic.com/s/trirong/v5/7r3DqXNgp8wxdOdOl1QMzalB4g.ttf",
-      "local": [
-        "Trirong SemiBold",
-        "Trirong-SemiBold"
-      ],
-      "woff": "https://fonts.gstatic.com/s/trirong/v5/7r3DqXNgp8wxdOdOl1QMzalB4Q.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=7r3DqXNgp8wxdOdOl1QMzalB4A&skey=c7c232f8893f10a0&v=v5#Trirong",
-      "woff2": "https://fonts.gstatic.com/s/trirong/v5/7r3DqXNgp8wxdOdOl1QMzalB5w.woff2",
-      "errored": false
-    },
-    {
       "id": "600italic",
       "eot": "https://fonts.gstatic.com/s/trirong/v5/7r3BqXNgp8wxdOdOn44QBapx5cn-.eot",
       "fontFamily": "'Trirong'",
@@ -195,51 +179,51 @@
       "errored": false
     },
     {
-      "id": "700",
-      "woff2": "https://fonts.gstatic.com/s/trirong/v5/7r3DqXNgp8wxdOdOlzANzalB5w.woff2",
+      "id": "500italic",
+      "eot": "https://fonts.gstatic.com/s/trirong/v5/7r3BqXNgp8wxdOdOn44QKa1x5cn-.eot",
       "fontFamily": "'Trirong'",
-      "fontStyle": "normal",
-      "fontWeight": "700",
+      "fontStyle": "italic",
+      "fontWeight": "500",
+      "woff": "https://fonts.gstatic.com/s/trirong/v5/7r3BqXNgp8wxdOdOn44QKa1x5cn8.woff",
       "local": [
-        "Trirong Bold",
-        "Trirong-Bold"
+        "Trirong Medium Italic",
+        "Trirong-MediumItalic"
       ],
-      "woff": "https://fonts.gstatic.com/s/trirong/v5/7r3DqXNgp8wxdOdOlzANzalB4Q.woff",
-      "eot": "https://fonts.gstatic.com/s/trirong/v5/7r3DqXNgp8wxdOdOlzANzalB4w.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=7r3DqXNgp8wxdOdOlzANzalB4A&skey=8b826e9aa425dbd2&v=v5#Trirong",
-      "ttf": "https://fonts.gstatic.com/s/trirong/v5/7r3DqXNgp8wxdOdOlzANzalB4g.ttf",
+      "woff2": "https://fonts.gstatic.com/s/trirong/v5/7r3BqXNgp8wxdOdOn44QKa1x5cn6.woff2",
+      "ttf": "https://fonts.gstatic.com/s/trirong/v5/7r3BqXNgp8wxdOdOn44QKa1x5cn_.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=7r3BqXNgp8wxdOdOn44QKa1x5cn9&skey=ca2fa461eb11668f&v=v5#Trirong",
       "errored": false
     },
     {
       "id": "700italic",
-      "woff": "https://fonts.gstatic.com/s/trirong/v5/7r3BqXNgp8wxdOdOn44QYatx5cn8.woff",
+      "eot": "https://fonts.gstatic.com/s/trirong/v5/7r3BqXNgp8wxdOdOn44QYatx5cn-.eot",
       "fontFamily": "'Trirong'",
       "fontStyle": "italic",
       "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/trirong/v5/7r3BqXNgp8wxdOdOn44QYatx5cn8.woff",
       "local": [
         "Trirong Bold Italic",
         "Trirong-BoldItalic"
       ],
+      "woff2": "https://fonts.gstatic.com/s/trirong/v5/7r3BqXNgp8wxdOdOn44QYatx5cn6.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=7r3BqXNgp8wxdOdOn44QYatx5cn9&skey=4c55d42ba1a827db&v=v5#Trirong",
       "ttf": "https://fonts.gstatic.com/s/trirong/v5/7r3BqXNgp8wxdOdOn44QYatx5cn_.ttf",
-      "woff2": "https://fonts.gstatic.com/s/trirong/v5/7r3BqXNgp8wxdOdOn44QYatx5cn6.woff2",
-      "eot": "https://fonts.gstatic.com/s/trirong/v5/7r3BqXNgp8wxdOdOn44QYatx5cn-.eot",
       "errored": false
     },
     {
-      "id": "800",
-      "eot": "https://fonts.gstatic.com/s/trirong/v5/7r3DqXNgp8wxdOdOlywOzalB4w.eot",
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/trirong/v5/7r3DqXNgp8wxdOdOlzANzalB4w.eot",
       "fontFamily": "'Trirong'",
       "fontStyle": "normal",
-      "fontWeight": "800",
-      "woff2": "https://fonts.gstatic.com/s/trirong/v5/7r3DqXNgp8wxdOdOlywOzalB5w.woff2",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/trirong/v5/7r3DqXNgp8wxdOdOlzANzalB4Q.woff",
       "local": [
-        "Trirong ExtraBold",
-        "Trirong-ExtraBold"
+        "Trirong Bold",
+        "Trirong-Bold"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=7r3DqXNgp8wxdOdOlywOzalB4A&skey=dd550b405d3cd6e4&v=v5#Trirong",
-      "woff": "https://fonts.gstatic.com/s/trirong/v5/7r3DqXNgp8wxdOdOlywOzalB4Q.woff",
-      "ttf": "https://fonts.gstatic.com/s/trirong/v5/7r3DqXNgp8wxdOdOlywOzalB4g.ttf",
+      "woff2": "https://fonts.gstatic.com/s/trirong/v5/7r3DqXNgp8wxdOdOlzANzalB5w.woff2",
+      "ttf": "https://fonts.gstatic.com/s/trirong/v5/7r3DqXNgp8wxdOdOlzANzalB4g.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=7r3DqXNgp8wxdOdOlzANzalB4A&skey=8b826e9aa425dbd2&v=v5#Trirong",
       "errored": false
     },
     {
@@ -253,24 +237,40 @@
         "Trirong ExtraBold Italic",
         "Trirong-ExtraBoldItalic"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=7r3BqXNgp8wxdOdOn44Qfahx5cn9&skey=c78576fab76bc847&v=v5#Trirong",
       "woff2": "https://fonts.gstatic.com/s/trirong/v5/7r3BqXNgp8wxdOdOn44Qfahx5cn6.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=7r3BqXNgp8wxdOdOn44Qfahx5cn9&skey=c78576fab76bc847&v=v5#Trirong",
       "ttf": "https://fonts.gstatic.com/s/trirong/v5/7r3BqXNgp8wxdOdOn44Qfahx5cn_.ttf",
       "errored": false
     },
     {
+      "id": "800",
+      "woff": "https://fonts.gstatic.com/s/trirong/v5/7r3DqXNgp8wxdOdOlywOzalB4Q.woff",
+      "fontFamily": "'Trirong'",
+      "fontStyle": "normal",
+      "fontWeight": "800",
+      "local": [
+        "Trirong ExtraBold",
+        "Trirong-ExtraBold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/trirong/v5/7r3DqXNgp8wxdOdOlywOzalB5w.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=7r3DqXNgp8wxdOdOlywOzalB4A&skey=dd550b405d3cd6e4&v=v5#Trirong",
+      "ttf": "https://fonts.gstatic.com/s/trirong/v5/7r3DqXNgp8wxdOdOlywOzalB4g.ttf",
+      "eot": "https://fonts.gstatic.com/s/trirong/v5/7r3DqXNgp8wxdOdOlywOzalB4w.eot",
+      "errored": false
+    },
+    {
       "id": "900",
-      "woff": "https://fonts.gstatic.com/s/trirong/v5/7r3DqXNgp8wxdOdOlwgPzalB4Q.woff",
+      "eot": "https://fonts.gstatic.com/s/trirong/v5/7r3DqXNgp8wxdOdOlwgPzalB4w.eot",
       "fontFamily": "'Trirong'",
       "fontStyle": "normal",
       "fontWeight": "900",
+      "woff": "https://fonts.gstatic.com/s/trirong/v5/7r3DqXNgp8wxdOdOlwgPzalB4Q.woff",
       "local": [
         "Trirong Black",
         "Trirong-Black"
       ],
       "woff2": "https://fonts.gstatic.com/s/trirong/v5/7r3DqXNgp8wxdOdOlwgPzalB5w.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=7r3DqXNgp8wxdOdOlwgPzalB4A&skey=769b39092e5dd607&v=v5#Trirong",
-      "eot": "https://fonts.gstatic.com/s/trirong/v5/7r3DqXNgp8wxdOdOlwgPzalB4w.eot",
       "ttf": "https://fonts.gstatic.com/s/trirong/v5/7r3DqXNgp8wxdOdOlwgPzalB4g.ttf",
       "errored": false
     },
@@ -285,29 +285,29 @@
         "Trirong Black Italic",
         "Trirong-BlackItalic"
       ],
+      "woff2": "https://fonts.gstatic.com/s/trirong/v5/7r3BqXNgp8wxdOdOn44QWalx5cn6.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=7r3BqXNgp8wxdOdOn44QWalx5cn9&skey=abffb9c425eb1282&v=v5#Trirong",
       "ttf": "https://fonts.gstatic.com/s/trirong/v5/7r3BqXNgp8wxdOdOn44QWalx5cn_.ttf",
-      "woff2": "https://fonts.gstatic.com/s/trirong/v5/7r3BqXNgp8wxdOdOn44QWalx5cn6.woff2",
       "errored": false
     }
   ],
   "subsets": [
     "vietnamese",
     "latin",
-    "latin-ext",
-    "thai"
+    "thai",
+    "latin-ext"
   ],
   "category": "serif",
   "version": "v5",
   "lastModified": "2019-07-16",
-  "popularity": 377,
+  "popularity": 396,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "vietnamese": false,
     "latin": true,
-    "latin-ext": false,
-    "thai": false
+    "thai": false,
+    "latin-ext": false
   },
   "storeID": "latin"
 }

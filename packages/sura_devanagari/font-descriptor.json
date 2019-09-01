@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/sura/v4/SZc23FL5PbyzJfheXg.eot",
+      "woff": "https://fonts.gstatic.com/s/sura/v4/SZc23FL5PbyzJfheXA.woff",
       "fontFamily": "'Sura'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/sura/v4/SZc23FL5PbyzJfheXA.woff",
       "local": [
         "Sura",
         "Sura-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/sura/v4/SZc23FL5PbyzJfheXw.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=SZc23FL5PbyzJfheXQ&skey=ef535c3779017afa&v=v4#Sura",
       "woff2": "https://fonts.gstatic.com/s/sura/v4/SZc23FL5PbyzJfheWg.woff2",
+      "eot": "https://fonts.gstatic.com/s/sura/v4/SZc23FL5PbyzJfheXg.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=SZc23FL5PbyzJfheXQ&skey=ef535c3779017afa&v=v4#Sura",
+      "ttf": "https://fonts.gstatic.com/s/sura/v4/SZc23FL5PbyzJfheXw.ttf",
       "errored": false
     },
     {
@@ -28,28 +28,28 @@
         "Sura Bold",
         "Sura-Bold"
       ],
-      "woff": "https://fonts.gstatic.com/s/sura/v4/SZc53FL5PbyzLUJ7TzvMlg.woff",
       "ttf": "https://fonts.gstatic.com/s/sura/v4/SZc53FL5PbyzLUJ7TzvMlQ.ttf",
-      "eot": "https://fonts.gstatic.com/s/sura/v4/SZc53FL5PbyzLUJ7TzvMlA.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=SZc53FL5PbyzLUJ7TzvMlw&skey=ec0c744fd09d77e7&v=v4#Sura",
+      "eot": "https://fonts.gstatic.com/s/sura/v4/SZc53FL5PbyzLUJ7TzvMlA.eot",
+      "woff": "https://fonts.gstatic.com/s/sura/v4/SZc53FL5PbyzLUJ7TzvMlg.woff",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
     "devanagari",
+    "latin",
     "latin-ext"
   ],
   "category": "serif",
   "version": "v4",
   "lastModified": "2019-07-16",
-  "popularity": 729,
+  "popularity": 727,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
     "devanagari": true,
+    "latin": true,
     "latin-ext": false
   },
-  "storeID": "devanagari_latin"
+  "storeID": "latin_devanagari"
 }

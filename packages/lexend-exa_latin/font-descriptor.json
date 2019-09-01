@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/lexendexa/v1/UMBXrPdOoHOnxExyjdBeai3dAw.woff2",
+      "ttf": "https://fonts.gstatic.com/s/lexendexa/v1/UMBXrPdOoHOnxExyjdBeai3dBg.ttf",
       "fontFamily": "'Lexend Exa'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Lexend Exa Regular",
         "LexendExa-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/lexendexa/v1/UMBXrPdOoHOnxExyjdBeai3dBQ.woff",
-      "ttf": "https://fonts.gstatic.com/s/lexendexa/v1/UMBXrPdOoHOnxExyjdBeai3dBg.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=UMBXrPdOoHOnxExyjdBeai3dBA&skey=2b8d663f338010ea&v=v1#LexendExa",
       "eot": "https://fonts.gstatic.com/s/lexendexa/v1/UMBXrPdOoHOnxExyjdBeai3dBw.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=UMBXrPdOoHOnxExyjdBeai3dBA&skey=2b8d663f338010ea&v=v1#LexendExa",
+      "woff": "https://fonts.gstatic.com/s/lexendexa/v1/UMBXrPdOoHOnxExyjdBeai3dBQ.woff",
+      "woff2": "https://fonts.gstatic.com/s/lexendexa/v1/UMBXrPdOoHOnxExyjdBeai3dAw.woff2",
       "errored": false
     }
   ],
@@ -27,7 +27,7 @@
   "category": "sans-serif",
   "version": "v1",
   "lastModified": "2019-08-14",
-  "popularity": 803,
+  "popularity": 769,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

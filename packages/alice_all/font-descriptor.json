@@ -14,26 +14,26 @@
       ],
       "eot": "https://fonts.gstatic.com/s/alice/v11/OpNCnoEEmtHa6GcDrgo.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=OpNCnoEEmtHa6GcDrgk&skey=8a351bda90f672d8&v=v11#Alice",
-      "ttf": "https://fonts.gstatic.com/s/alice/v11/OpNCnoEEmtHa6GcDrgs.ttf",
       "woff2": "https://fonts.gstatic.com/s/alice/v11/OpNCnoEEmtHa6GcDrg4.woff2",
+      "ttf": "https://fonts.gstatic.com/s/alice/v11/OpNCnoEEmtHa6GcDrgs.ttf",
       "errored": false
     }
   ],
   "subsets": [
     "latin",
-    "cyrillic",
-    "cyrillic-ext"
+    "cyrillic-ext",
+    "cyrillic"
   ],
   "category": "serif",
   "version": "v11",
   "lastModified": "2019-07-16",
-  "popularity": 196,
+  "popularity": 203,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "latin": true,
-    "cyrillic": true,
-    "cyrillic-ext": true
+    "cyrillic-ext": true,
+    "cyrillic": true
   },
-  "storeID": "cyrillic-ext_cyrillic_latin"
+  "storeID": "cyrillic_cyrillic-ext_latin"
 }

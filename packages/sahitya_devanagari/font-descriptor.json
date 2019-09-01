@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/sahitya/v4/6qLAKZkOuhnuqlJAWSEPOw.ttf",
+      "woff": "https://fonts.gstatic.com/s/sahitya/v4/6qLAKZkOuhnuqlJAWSEPOA.woff",
       "fontFamily": "'Sahitya'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,9 +12,9 @@
         "Sahitya",
         "Sahitya-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/sahitya/v4/6qLAKZkOuhnuqlJAWSEPPg.woff2",
       "eot": "https://fonts.gstatic.com/s/sahitya/v4/6qLAKZkOuhnuqlJAWSEPOg.eot",
-      "woff": "https://fonts.gstatic.com/s/sahitya/v4/6qLAKZkOuhnuqlJAWSEPOA.woff",
+      "woff2": "https://fonts.gstatic.com/s/sahitya/v4/6qLAKZkOuhnuqlJAWSEPPg.woff2",
+      "ttf": "https://fonts.gstatic.com/s/sahitya/v4/6qLAKZkOuhnuqlJAWSEPOw.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=6qLAKZkOuhnuqlJAWSEPOQ&skey=980a4c34e0a2c199&v=v4#Sahitya",
       "errored": false
     },
@@ -24,30 +24,30 @@
       "fontFamily": "'Sahitya'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "svg": "https://fonts.gstatic.com/l/font?kit=6qLFKZkOuhnuqlJAUZsqKyIlFA&skey=4a09c211f370817d&v=v4#Sahitya",
+      "woff": "https://fonts.gstatic.com/s/sahitya/v4/6qLFKZkOuhnuqlJAUZsqKyIlFQ.woff",
       "local": [
         "Sahitya Bold",
         "Sahitya-Bold"
       ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=6qLFKZkOuhnuqlJAUZsqKyIlFA&skey=4a09c211f370817d&v=v4#Sahitya",
       "woff2": "https://fonts.gstatic.com/s/sahitya/v4/6qLFKZkOuhnuqlJAUZsqKyIlEw.woff2",
       "ttf": "https://fonts.gstatic.com/s/sahitya/v4/6qLFKZkOuhnuqlJAUZsqKyIlFg.ttf",
-      "woff": "https://fonts.gstatic.com/s/sahitya/v4/6qLFKZkOuhnuqlJAUZsqKyIlFQ.woff",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
-    "devanagari"
+    "devanagari",
+    "latin"
   ],
   "category": "serif",
   "version": "v4",
   "lastModified": "2019-07-16",
-  "popularity": 830,
+  "popularity": 825,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
-    "devanagari": true
+    "devanagari": true,
+    "latin": true
   },
-  "storeID": "devanagari_latin"
+  "storeID": "latin_devanagari"
 }

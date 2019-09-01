@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "200",
-      "woff": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbEOjGmc8WY.woff",
+      "ttf": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbEOjGmc8WU.ttf",
       "fontFamily": "'Mukta'",
       "fontStyle": "normal",
       "fontWeight": "200",
@@ -12,42 +12,26 @@
         "Mukta ExtraLight",
         "Mukta-ExtraLight"
       ],
-      "woff2": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbEOjGmc8WA.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=iJWHBXyXfDDVXbEOjGmc8Wc&skey=b0f5e948f14f09ea&v=v7#Mukta",
+      "woff": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbEOjGmc8WY.woff",
       "eot": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbEOjGmc8WQ.eot",
-      "ttf": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbEOjGmc8WU.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=iJWHBXyXfDDVXbEOjGmc8Wc&skey=b0f5e948f14f09ea&v=v7#Mukta",
+      "woff2": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbEOjGmc8WA.woff2",
       "errored": false
     },
     {
       "id": "300",
-      "eot": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbFqj2mc8WQ.eot",
+      "woff": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbFqj2mc8WY.woff",
       "fontFamily": "'Mukta'",
       "fontStyle": "normal",
       "fontWeight": "300",
-      "svg": "https://fonts.gstatic.com/l/font?kit=iJWHBXyXfDDVXbFqj2mc8Wc&skey=28d7cadd0fd3def&v=v7#Mukta",
       "local": [
         "Mukta Light",
         "Mukta-Light"
       ],
-      "ttf": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbFqj2mc8WU.ttf",
-      "woff": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbFqj2mc8WY.woff",
       "woff2": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbFqj2mc8WA.woff2",
-      "errored": false
-    },
-    {
-      "id": "500",
-      "eot": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbEyjmmc8WQ.eot",
-      "fontFamily": "'Mukta'",
-      "fontStyle": "normal",
-      "fontWeight": "500",
-      "woff": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbEyjmmc8WY.woff",
-      "local": [
-        "Mukta Medium",
-        "Mukta-Medium"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbEyjmmc8WA.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=iJWHBXyXfDDVXbEyjmmc8Wc&skey=7e02db405fcfde6f&v=v7#Mukta",
-      "ttf": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbEyjmmc8WU.ttf",
+      "eot": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbFqj2mc8WQ.eot",
+      "ttf": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbFqj2mc8WU.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=iJWHBXyXfDDVXbFqj2mc8Wc&skey=28d7cadd0fd3def&v=v7#Mukta",
       "errored": false
     },
     {
@@ -60,10 +44,26 @@
         "Mukta Regular",
         "Mukta-Regular"
       ],
+      "eot": "https://fonts.gstatic.com/s/mukta/v7/iJWKBXyXfDDVXbnArXg.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=iJWKBXyXfDDVXbnArXs&skey=1924b0eeab402e18&v=v7#Mukta",
       "woff2": "https://fonts.gstatic.com/s/mukta/v7/iJWKBXyXfDDVXbnArXw.woff2",
       "ttf": "https://fonts.gstatic.com/s/mukta/v7/iJWKBXyXfDDVXbnArXk.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=iJWKBXyXfDDVXbnArXs&skey=1924b0eeab402e18&v=v7#Mukta",
-      "eot": "https://fonts.gstatic.com/s/mukta/v7/iJWKBXyXfDDVXbnArXg.eot",
+      "errored": false
+    },
+    {
+      "id": "500",
+      "woff": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbEyjmmc8WY.woff",
+      "fontFamily": "'Mukta'",
+      "fontStyle": "normal",
+      "fontWeight": "500",
+      "local": [
+        "Mukta Medium",
+        "Mukta-Medium"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbEyjmmc8WA.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=iJWHBXyXfDDVXbEyjmmc8Wc&skey=7e02db405fcfde6f&v=v7#Mukta",
+      "ttf": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbEyjmmc8WU.ttf",
+      "eot": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbEyjmmc8WQ.eot",
       "errored": false
     },
     {
@@ -76,15 +76,15 @@
         "Mukta SemiBold",
         "Mukta-SemiBold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbEeiWmc8WA.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=iJWHBXyXfDDVXbEeiWmc8Wc&skey=b6217d1b1487e999&v=v7#Mukta",
       "eot": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbEeiWmc8WQ.eot",
+      "woff2": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbEeiWmc8WA.woff2",
       "ttf": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbEeiWmc8WU.ttf",
       "errored": false
     },
     {
       "id": "700",
-      "svg": "https://fonts.gstatic.com/l/font?kit=iJWHBXyXfDDVXbF6iGmc8Wc&skey=2dd8ff0c402d2647&v=v7#Mukta",
+      "woff2": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbF6iGmc8WA.woff2",
       "fontFamily": "'Mukta'",
       "fontStyle": "normal",
       "fontWeight": "700",
@@ -92,9 +92,9 @@
         "Mukta Bold",
         "Mukta-Bold"
       ],
-      "eot": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbF6iGmc8WQ.eot",
-      "woff2": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbF6iGmc8WA.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=iJWHBXyXfDDVXbF6iGmc8Wc&skey=2dd8ff0c402d2647&v=v7#Mukta",
       "woff": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbF6iGmc8WY.woff",
+      "eot": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbF6iGmc8WQ.eot",
       "ttf": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbF6iGmc8WU.ttf",
       "errored": false
     },
@@ -109,27 +109,27 @@
         "Mukta ExtraBold",
         "Mukta-ExtraBold"
       ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=iJWHBXyXfDDVXbFmi2mc8Wc&skey=800c584f86d8cf55&v=v7#Mukta",
       "woff2": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbFmi2mc8WA.woff2",
       "ttf": "https://fonts.gstatic.com/s/mukta/v7/iJWHBXyXfDDVXbFmi2mc8WU.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=iJWHBXyXfDDVXbFmi2mc8Wc&skey=800c584f86d8cf55&v=v7#Mukta",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
     "devanagari",
+    "latin",
     "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v7",
   "lastModified": "2019-07-17",
-  "popularity": 55,
+  "popularity": 53,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
     "devanagari": true,
+    "latin": true,
     "latin-ext": false
   },
-  "storeID": "devanagari_latin"
+  "storeID": "latin_devanagari"
 }

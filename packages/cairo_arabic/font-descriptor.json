@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "200",
-      "svg": "https://fonts.gstatic.com/l/font?kit=SLXLc1nY6Hkvalrub46O59E&skey=fcc35fc9b193d704&v=v6#Cairo",
+      "ttf": "https://fonts.gstatic.com/s/cairo/v6/SLXLc1nY6Hkvalrub46O59M.ttf",
       "fontFamily": "'Cairo'",
       "fontStyle": "normal",
       "fontWeight": "200",
@@ -12,15 +12,15 @@
         "Cairo ExtraLight",
         "Cairo-ExtraLight"
       ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=SLXLc1nY6Hkvalrub46O59E&skey=fcc35fc9b193d704&v=v6#Cairo",
       "eot": "https://fonts.gstatic.com/s/cairo/v6/SLXLc1nY6Hkvalrub46O59I.eot",
-      "woff": "https://fonts.gstatic.com/s/cairo/v6/SLXLc1nY6Hkvalrub46O59A.woff",
       "woff2": "https://fonts.gstatic.com/s/cairo/v6/SLXLc1nY6Hkvalrub46O59Y.woff2",
-      "ttf": "https://fonts.gstatic.com/s/cairo/v6/SLXLc1nY6Hkvalrub46O59M.ttf",
+      "woff": "https://fonts.gstatic.com/s/cairo/v6/SLXLc1nY6Hkvalrub46O59A.woff",
       "errored": false
     },
     {
       "id": "300",
-      "ttf": "https://fonts.gstatic.com/s/cairo/v6/SLXLc1nY6HkvalqKbI6O59M.ttf",
+      "woff2": "https://fonts.gstatic.com/s/cairo/v6/SLXLc1nY6HkvalqKbI6O59Y.woff2",
       "fontFamily": "'Cairo'",
       "fontStyle": "normal",
       "fontWeight": "300",
@@ -28,9 +28,9 @@
         "Cairo Light",
         "Cairo-Light"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=SLXLc1nY6HkvalqKbI6O59E&skey=9125b8b962935364&v=v6#Cairo",
-      "woff2": "https://fonts.gstatic.com/s/cairo/v6/SLXLc1nY6HkvalqKbI6O59Y.woff2",
       "eot": "https://fonts.gstatic.com/s/cairo/v6/SLXLc1nY6HkvalqKbI6O59I.eot",
+      "ttf": "https://fonts.gstatic.com/s/cairo/v6/SLXLc1nY6HkvalqKbI6O59M.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=SLXLc1nY6HkvalqKbI6O59E&skey=9125b8b962935364&v=v6#Cairo",
       "woff": "https://fonts.gstatic.com/s/cairo/v6/SLXLc1nY6HkvalqKbI6O59A.woff",
       "errored": false
     },
@@ -40,30 +40,46 @@
       "fontFamily": "'Cairo'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/cairo/v6/SLXGc1nY6HkvalIkTps.woff2",
+      "woff": "https://fonts.gstatic.com/s/cairo/v6/SLXGc1nY6HkvalIkTp0.woff",
       "local": [
         "Cairo",
         "Cairo-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/cairo/v6/SLXGc1nY6HkvalIkTp0.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=SLXGc1nY6HkvalIkTpw&skey=ee6e3b9105e1a754&v=v6#Cairo",
+      "woff2": "https://fonts.gstatic.com/s/cairo/v6/SLXGc1nY6HkvalIkTps.woff2",
       "ttf": "https://fonts.gstatic.com/s/cairo/v6/SLXGc1nY6HkvalIkTp4.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=SLXGc1nY6HkvalIkTpw&skey=ee6e3b9105e1a754&v=v6#Cairo",
       "errored": false
     },
     {
       "id": "600",
-      "woff": "https://fonts.gstatic.com/s/cairo/v6/SLXLc1nY6Hkvalr-ao6O59A.woff",
+      "eot": "https://fonts.gstatic.com/s/cairo/v6/SLXLc1nY6Hkvalr-ao6O59I.eot",
       "fontFamily": "'Cairo'",
       "fontStyle": "normal",
       "fontWeight": "600",
+      "woff": "https://fonts.gstatic.com/s/cairo/v6/SLXLc1nY6Hkvalr-ao6O59A.woff",
       "local": [
         "Cairo SemiBold",
         "Cairo-SemiBold"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=SLXLc1nY6Hkvalr-ao6O59E&skey=2cbc68d40dd42eff&v=v6#Cairo",
-      "ttf": "https://fonts.gstatic.com/s/cairo/v6/SLXLc1nY6Hkvalr-ao6O59M.ttf",
-      "eot": "https://fonts.gstatic.com/s/cairo/v6/SLXLc1nY6Hkvalr-ao6O59I.eot",
       "woff2": "https://fonts.gstatic.com/s/cairo/v6/SLXLc1nY6Hkvalr-ao6O59Y.woff2",
+      "ttf": "https://fonts.gstatic.com/s/cairo/v6/SLXLc1nY6Hkvalr-ao6O59M.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=SLXLc1nY6Hkvalr-ao6O59E&skey=2cbc68d40dd42eff&v=v6#Cairo",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "svg": "https://fonts.gstatic.com/l/font?kit=SLXLc1nY6Hkvalqaa46O59E&skey=63dc25841419bb82&v=v6#Cairo",
+      "fontFamily": "'Cairo'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Cairo Bold",
+        "Cairo-Bold"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/cairo/v6/SLXLc1nY6Hkvalqaa46O59M.ttf",
+      "woff": "https://fonts.gstatic.com/s/cairo/v6/SLXLc1nY6Hkvalqaa46O59A.woff",
+      "eot": "https://fonts.gstatic.com/s/cairo/v6/SLXLc1nY6Hkvalqaa46O59I.eot",
+      "woff2": "https://fonts.gstatic.com/s/cairo/v6/SLXLc1nY6Hkvalqaa46O59Y.woff2",
       "errored": false
     },
     {
@@ -78,42 +94,26 @@
         "Cairo-Black"
       ],
       "woff2": "https://fonts.gstatic.com/s/cairo/v6/SLXLc1nY6HkvalqiaY6O59Y.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=SLXLc1nY6HkvalqiaY6O59E&skey=a12bc2e34741a2fa&v=v6#Cairo",
       "ttf": "https://fonts.gstatic.com/s/cairo/v6/SLXLc1nY6HkvalqiaY6O59M.ttf",
-      "errored": false
-    },
-    {
-      "id": "700",
-      "woff2": "https://fonts.gstatic.com/s/cairo/v6/SLXLc1nY6Hkvalqaa46O59Y.woff2",
-      "fontFamily": "'Cairo'",
-      "fontStyle": "normal",
-      "fontWeight": "700",
-      "local": [
-        "Cairo Bold",
-        "Cairo-Bold"
-      ],
-      "ttf": "https://fonts.gstatic.com/s/cairo/v6/SLXLc1nY6Hkvalqaa46O59M.ttf",
-      "eot": "https://fonts.gstatic.com/s/cairo/v6/SLXLc1nY6Hkvalqaa46O59I.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=SLXLc1nY6Hkvalqaa46O59E&skey=63dc25841419bb82&v=v6#Cairo",
-      "woff": "https://fonts.gstatic.com/s/cairo/v6/SLXLc1nY6Hkvalqaa46O59A.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=SLXLc1nY6HkvalqiaY6O59E&skey=a12bc2e34741a2fa&v=v6#Cairo",
       "errored": false
     }
   ],
   "subsets": [
+    "arabic",
     "latin",
-    "latin-ext",
-    "arabic"
+    "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v6",
   "lastModified": "2019-07-17",
-  "popularity": 71,
+  "popularity": 67,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
+    "arabic": true,
     "latin": true,
-    "latin-ext": false,
-    "arabic": true
+    "latin-ext": false
   },
-  "storeID": "arabic_latin"
+  "storeID": "latin_arabic"
 }

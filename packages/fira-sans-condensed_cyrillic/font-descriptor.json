@@ -4,18 +4,34 @@
   "variants": [
     {
       "id": "100",
-      "woff2": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOjEADFm8hSaQTFG18FErVhsC9x-tarWZXdq-NR.woff2",
+      "eot": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOjEADFm8hSaQTFG18FErVhsC9x-tarWZXdq-NV.eot",
       "fontFamily": "'Fira Sans Condensed'",
       "fontStyle": "normal",
       "fontWeight": "100",
+      "woff": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOjEADFm8hSaQTFG18FErVhsC9x-tarWZXdq-NX.woff",
       "local": [
         "Fira Sans Condensed Thin",
         "FiraSansCondensed-Thin"
       ],
-      "ttf": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOjEADFm8hSaQTFG18FErVhsC9x-tarWZXdq-NU.ttf",
-      "eot": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOjEADFm8hSaQTFG18FErVhsC9x-tarWZXdq-NV.eot",
+      "woff2": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOjEADFm8hSaQTFG18FErVhsC9x-tarWZXdq-NR.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=wEOjEADFm8hSaQTFG18FErVhsC9x-tarWZXdq-NW&skey=757e24dd2d13b88c&v=v4#FiraSansCondensed",
-      "woff": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOjEADFm8hSaQTFG18FErVhsC9x-tarWZXdq-NX.woff",
+      "ttf": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOjEADFm8hSaQTFG18FErVhsC9x-tarWZXdq-NU.ttf",
+      "errored": false
+    },
+    {
+      "id": "100italic",
+      "eot": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOtEADFm8hSaQTFG18FErVhsC9x-tarUfPVzNNXVx8.eot",
+      "fontFamily": "'Fira Sans Condensed'",
+      "fontStyle": "italic",
+      "fontWeight": "100",
+      "woff": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOtEADFm8hSaQTFG18FErVhsC9x-tarUfPVzNNXVx0.woff",
+      "local": [
+        "Fira Sans Condensed Thin Italic",
+        "FiraSansCondensed-ThinItalic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOtEADFm8hSaQTFG18FErVhsC9x-tarUfPVzNNXVxs.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=wEOtEADFm8hSaQTFG18FErVhsC9x-tarUfPVzNNXVxw&skey=3ad413d8dfb7bd19&v=v4#FiraSansCondensed",
+      "ttf": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOtEADFm8hSaQTFG18FErVhsC9x-tarUfPVzNNXVx4.ttf",
       "errored": false
     },
     {
@@ -35,32 +51,16 @@
       "errored": false
     },
     {
-      "id": "100italic",
-      "eot": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOtEADFm8hSaQTFG18FErVhsC9x-tarUfPVzNNXVx8.eot",
-      "fontFamily": "'Fira Sans Condensed'",
-      "fontStyle": "italic",
-      "fontWeight": "100",
-      "woff2": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOtEADFm8hSaQTFG18FErVhsC9x-tarUfPVzNNXVxs.woff2",
-      "local": [
-        "Fira Sans Condensed Thin Italic",
-        "FiraSansCondensed-ThinItalic"
-      ],
-      "ttf": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOtEADFm8hSaQTFG18FErVhsC9x-tarUfPVzNNXVx4.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=wEOtEADFm8hSaQTFG18FErVhsC9x-tarUfPVzNNXVxw&skey=3ad413d8dfb7bd19&v=v4#FiraSansCondensed",
-      "woff": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOtEADFm8hSaQTFG18FErVhsC9x-tarUfPVzNNXVx0.woff",
-      "errored": false
-    },
-    {
       "id": "200italic",
-      "eot": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVYMJEdD5b.eot",
+      "woff": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVYMJEdD5Z.woff",
       "fontFamily": "'Fira Sans Condensed'",
       "fontStyle": "italic",
       "fontWeight": "200",
-      "woff": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVYMJEdD5Z.woff",
       "local": [
         "Fira Sans Condensed ExtraLight Italic",
         "FiraSansCondensed-ExtraLightItalic"
       ],
+      "eot": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVYMJEdD5b.eot",
       "woff2": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVYMJEdD5f.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVYMJEdD5Y&skey=5a1635463629eab0&v=v4#FiraSansCondensed",
       "ttf": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVYMJEdD5a.ttf",
@@ -77,9 +77,25 @@
         "Fira Sans Condensed Light",
         "FiraSansCondensed-Light"
       ],
+      "woff2": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOsEADFm8hSaQTFG18FErVhsC9x-tarWV3PuMB0cg.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=wEOsEADFm8hSaQTFG18FErVhsC9x-tarWV3PuMB0dQ&skey=a014e8090d14b783&v=v4#FiraSansCondensed",
       "ttf": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOsEADFm8hSaQTFG18FErVhsC9x-tarWV3PuMB0dw.ttf",
-      "woff2": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOsEADFm8hSaQTFG18FErVhsC9x-tarWV3PuMB0cg.woff2",
+      "errored": false
+    },
+    {
+      "id": "300italic",
+      "eot": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVBMFEdD5b.eot",
+      "fontFamily": "'Fira Sans Condensed'",
+      "fontStyle": "italic",
+      "fontWeight": "300",
+      "woff": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVBMFEdD5Z.woff",
+      "local": [
+        "Fira Sans Condensed Light Italic",
+        "FiraSansCondensed-LightItalic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVBMFEdD5f.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVBMFEdD5Y&skey=99ec36cc427f65e9&v=v4#FiraSansCondensed",
+      "ttf": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVBMFEdD5a.ttf",
       "errored": false
     },
     {
@@ -99,19 +115,19 @@
       "errored": false
     },
     {
-      "id": "300italic",
-      "eot": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVBMFEdD5b.eot",
+      "id": "italic",
+      "eot": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOjEADFm8hSaQTFG18FErVhsC9x-tarUfPdq-NV.eot",
       "fontFamily": "'Fira Sans Condensed'",
       "fontStyle": "italic",
-      "fontWeight": "300",
-      "svg": "https://fonts.gstatic.com/l/font?kit=wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVBMFEdD5Y&skey=99ec36cc427f65e9&v=v4#FiraSansCondensed",
+      "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOjEADFm8hSaQTFG18FErVhsC9x-tarUfPdq-NX.woff",
       "local": [
-        "Fira Sans Condensed Light Italic",
-        "FiraSansCondensed-LightItalic"
+        "Fira Sans Condensed Italic",
+        "FiraSansCondensed-Italic"
       ],
-      "woff": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVBMFEdD5Z.woff",
-      "ttf": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVBMFEdD5a.ttf",
-      "woff2": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVBMFEdD5f.woff2",
+      "woff2": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOjEADFm8hSaQTFG18FErVhsC9x-tarUfPdq-NR.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=wEOjEADFm8hSaQTFG18FErVhsC9x-tarUfPdq-NW&skey=3a5e8471b6814bd2&v=v4#FiraSansCondensed",
+      "ttf": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOjEADFm8hSaQTFG18FErVhsC9x-tarUfPdq-NU.ttf",
       "errored": false
     },
     {
@@ -126,8 +142,8 @@
         "FiraSansCondensed-Medium"
       ],
       "woff2": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOsEADFm8hSaQTFG18FErVhsC9x-tarWQXOuMB0cg.woff2",
-      "ttf": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOsEADFm8hSaQTFG18FErVhsC9x-tarWQXOuMB0dw.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=wEOsEADFm8hSaQTFG18FErVhsC9x-tarWQXOuMB0dQ&skey=d6a657503c629186&v=v4#FiraSansCondensed",
+      "ttf": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOsEADFm8hSaQTFG18FErVhsC9x-tarWQXOuMB0dw.ttf",
       "errored": false
     },
     {
@@ -147,35 +163,35 @@
       "errored": false
     },
     {
-      "id": "italic",
-      "eot": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOjEADFm8hSaQTFG18FErVhsC9x-tarUfPdq-NV.eot",
-      "fontFamily": "'Fira Sans Condensed'",
-      "fontStyle": "italic",
-      "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOjEADFm8hSaQTFG18FErVhsC9x-tarUfPdq-NR.woff2",
-      "local": [
-        "Fira Sans Condensed Italic",
-        "FiraSansCondensed-Italic"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=wEOjEADFm8hSaQTFG18FErVhsC9x-tarUfPdq-NW&skey=3a5e8471b6814bd2&v=v4#FiraSansCondensed",
-      "woff": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOjEADFm8hSaQTFG18FErVhsC9x-tarUfPdq-NX.woff",
-      "ttf": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOjEADFm8hSaQTFG18FErVhsC9x-tarUfPdq-NU.ttf",
-      "errored": false
-    },
-    {
       "id": "600",
-      "woff2": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOsEADFm8hSaQTFG18FErVhsC9x-tarWSnJuMB0cg.woff2",
+      "eot": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOsEADFm8hSaQTFG18FErVhsC9x-tarWSnJuMB0dg.eot",
       "fontFamily": "'Fira Sans Condensed'",
       "fontStyle": "normal",
       "fontWeight": "600",
+      "woff": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOsEADFm8hSaQTFG18FErVhsC9x-tarWSnJuMB0dA.woff",
       "local": [
         "Fira Sans Condensed SemiBold",
         "FiraSansCondensed-SemiBold"
       ],
-      "woff": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOsEADFm8hSaQTFG18FErVhsC9x-tarWSnJuMB0dA.woff",
+      "woff2": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOsEADFm8hSaQTFG18FErVhsC9x-tarWSnJuMB0cg.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=wEOsEADFm8hSaQTFG18FErVhsC9x-tarWSnJuMB0dQ&skey=cc45b6dceab562dd&v=v4#FiraSansCondensed",
       "ttf": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOsEADFm8hSaQTFG18FErVhsC9x-tarWSnJuMB0dw.ttf",
-      "eot": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOsEADFm8hSaQTFG18FErVhsC9x-tarWSnJuMB0dg.eot",
+      "errored": false
+    },
+    {
+      "id": "600italic",
+      "eot": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVcMdEdD5b.eot",
+      "fontFamily": "'Fira Sans Condensed'",
+      "fontStyle": "italic",
+      "fontWeight": "600",
+      "woff": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVcMdEdD5Z.woff",
+      "local": [
+        "Fira Sans Condensed SemiBold Italic",
+        "FiraSansCondensed-SemiBoldItalic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVcMdEdD5f.woff2",
+      "ttf": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVcMdEdD5a.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVcMdEdD5Y&skey=a58e8555e5202816&v=v4#FiraSansCondensed",
       "errored": false
     },
     {
@@ -189,41 +205,9 @@
         "Fira Sans Condensed Bold",
         "FiraSansCondensed-Bold"
       ],
+      "woff2": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOsEADFm8hSaQTFG18FErVhsC9x-tarWU3IuMB0cg.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=wEOsEADFm8hSaQTFG18FErVhsC9x-tarWU3IuMB0dQ&skey=4e18c89becbd4d36&v=v4#FiraSansCondensed",
       "ttf": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOsEADFm8hSaQTFG18FErVhsC9x-tarWU3IuMB0dw.ttf",
-      "woff2": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOsEADFm8hSaQTFG18FErVhsC9x-tarWU3IuMB0cg.woff2",
-      "errored": false
-    },
-    {
-      "id": "600italic",
-      "woff": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVcMdEdD5Z.woff",
-      "fontFamily": "'Fira Sans Condensed'",
-      "fontStyle": "italic",
-      "fontWeight": "600",
-      "local": [
-        "Fira Sans Condensed SemiBold Italic",
-        "FiraSansCondensed-SemiBoldItalic"
-      ],
-      "eot": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVcMdEdD5b.eot",
-      "woff2": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVcMdEdD5f.woff2",
-      "ttf": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVcMdEdD5a.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVcMdEdD5Y&skey=a58e8555e5202816&v=v4#FiraSansCondensed",
-      "errored": false
-    },
-    {
-      "id": "800",
-      "eot": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOsEADFm8hSaQTFG18FErVhsC9x-tarWVHLuMB0dg.eot",
-      "fontFamily": "'Fira Sans Condensed'",
-      "fontStyle": "normal",
-      "fontWeight": "800",
-      "woff": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOsEADFm8hSaQTFG18FErVhsC9x-tarWVHLuMB0dA.woff",
-      "local": [
-        "Fira Sans Condensed ExtraBold",
-        "FiraSansCondensed-ExtraBold"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOsEADFm8hSaQTFG18FErVhsC9x-tarWVHLuMB0cg.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=wEOsEADFm8hSaQTFG18FErVhsC9x-tarWVHLuMB0dQ&skey=103b7d6491a1d7d9&v=v4#FiraSansCondensed",
-      "ttf": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOsEADFm8hSaQTFG18FErVhsC9x-tarWVHLuMB0dw.ttf",
       "errored": false
     },
     {
@@ -238,24 +222,40 @@
         "FiraSansCondensed-BoldItalic"
       ],
       "woff2": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVFMZEdD5f.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVFMZEdD5Y&skey=b35d9619d462c5a2&v=v4#FiraSansCondensed",
       "ttf": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVFMZEdD5a.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVFMZEdD5Y&skey=b35d9619d462c5a2&v=v4#FiraSansCondensed",
+      "errored": false
+    },
+    {
+      "id": "800",
+      "eot": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOsEADFm8hSaQTFG18FErVhsC9x-tarWVHLuMB0dg.eot",
+      "fontFamily": "'Fira Sans Condensed'",
+      "fontStyle": "normal",
+      "fontWeight": "800",
+      "woff": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOsEADFm8hSaQTFG18FErVhsC9x-tarWVHLuMB0dA.woff",
+      "local": [
+        "Fira Sans Condensed ExtraBold",
+        "FiraSansCondensed-ExtraBold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOsEADFm8hSaQTFG18FErVhsC9x-tarWVHLuMB0cg.woff2",
+      "ttf": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOsEADFm8hSaQTFG18FErVhsC9x-tarWVHLuMB0dw.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=wEOsEADFm8hSaQTFG18FErVhsC9x-tarWVHLuMB0dQ&skey=103b7d6491a1d7d9&v=v4#FiraSansCondensed",
       "errored": false
     },
     {
       "id": "800italic",
-      "woff": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVCMVEdD5Z.woff",
+      "eot": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVCMVEdD5b.eot",
       "fontFamily": "'Fira Sans Condensed'",
       "fontStyle": "italic",
       "fontWeight": "800",
+      "woff": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVCMVEdD5Z.woff",
       "local": [
         "Fira Sans Condensed ExtraBold Italic",
         "FiraSansCondensed-ExtraBoldItalic"
       ],
       "woff2": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVCMVEdD5f.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVCMVEdD5Y&skey=d974ee9ad8d47bc5&v=v4#FiraSansCondensed",
       "ttf": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVCMVEdD5a.ttf",
-      "eot": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVCMVEdD5b.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=wEOuEADFm8hSaQTFG18FErVhsC9x-tarUfPVCMVEdD5Y&skey=d974ee9ad8d47bc5&v=v4#FiraSansCondensed",
       "errored": false
     },
     {
@@ -264,13 +264,13 @@
       "fontFamily": "'Fira Sans Condensed'",
       "fontStyle": "normal",
       "fontWeight": "900",
-      "woff2": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOsEADFm8hSaQTFG18FErVhsC9x-tarWXXKuMB0cg.woff2",
+      "woff": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOsEADFm8hSaQTFG18FErVhsC9x-tarWXXKuMB0dA.woff",
       "local": [
         "Fira Sans Condensed Black",
         "FiraSansCondensed-Black"
       ],
+      "woff2": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOsEADFm8hSaQTFG18FErVhsC9x-tarWXXKuMB0cg.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=wEOsEADFm8hSaQTFG18FErVhsC9x-tarWXXKuMB0dQ&skey=db544b239e097f6&v=v4#FiraSansCondensed",
-      "woff": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOsEADFm8hSaQTFG18FErVhsC9x-tarWXXKuMB0dA.woff",
       "ttf": "https://fonts.gstatic.com/s/firasanscondensed/v4/wEOsEADFm8hSaQTFG18FErVhsC9x-tarWXXKuMB0dw.ttf",
       "errored": false
     },
@@ -292,28 +292,28 @@
     }
   ],
   "subsets": [
+    "greek",
     "greek-ext",
     "vietnamese",
-    "greek",
     "latin",
-    "latin-ext",
+    "cyrillic-ext",
     "cyrillic",
-    "cyrillic-ext"
+    "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v4",
   "lastModified": "2019-07-17",
-  "popularity": 87,
+  "popularity": 91,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
+    "greek": false,
     "greek-ext": false,
     "vietnamese": false,
-    "greek": false,
     "latin": true,
-    "latin-ext": false,
+    "cyrillic-ext": false,
     "cyrillic": true,
-    "cyrillic-ext": false
+    "latin-ext": false
   },
   "storeID": "cyrillic_latin"
 }

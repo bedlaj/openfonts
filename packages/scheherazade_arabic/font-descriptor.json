@@ -4,50 +4,50 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/scheherazade/v17/YA9Ur0yF4ETZN60keViq1kQQtZmt.eot",
+      "ttf": "https://fonts.gstatic.com/s/scheherazade/v17/YA9Ur0yF4ETZN60keViq1kQQtZms.ttf",
       "fontFamily": "'Scheherazade'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/scheherazade/v17/YA9Ur0yF4ETZN60keViq1kQQtZmv.woff",
       "local": [
         "Scheherazade",
         "Scheherazade-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=YA9Ur0yF4ETZN60keViq1kQQtZmu&skey=7780c105dffad02f&v=v17#Scheherazade",
-      "ttf": "https://fonts.gstatic.com/s/scheherazade/v17/YA9Ur0yF4ETZN60keViq1kQQtZms.ttf",
+      "woff": "https://fonts.gstatic.com/s/scheherazade/v17/YA9Ur0yF4ETZN60keViq1kQQtZmv.woff",
       "woff2": "https://fonts.gstatic.com/s/scheherazade/v17/YA9Ur0yF4ETZN60keViq1kQQtZmp.woff2",
+      "eot": "https://fonts.gstatic.com/s/scheherazade/v17/YA9Ur0yF4ETZN60keViq1kQQtZmt.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=YA9Ur0yF4ETZN60keViq1kQQtZmu&skey=7780c105dffad02f&v=v17#Scheherazade",
       "errored": false
     },
     {
       "id": "700",
-      "eot": "https://fonts.gstatic.com/s/scheherazade/v17/YA9Lr0yF4ETZN60keViq1kQYC7y8jNfQ.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=YA9Lr0yF4ETZN60keViq1kQYC7y8jNfT&skey=6c19111046461d0d&v=v17#Scheherazade",
       "fontFamily": "'Scheherazade'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/scheherazade/v17/YA9Lr0yF4ETZN60keViq1kQYC7y8jNfS.woff",
       "local": [
         "Scheherazade Bold",
         "Scheherazade-Bold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/scheherazade/v17/YA9Lr0yF4ETZN60keViq1kQYC7y8jNfU.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=YA9Lr0yF4ETZN60keViq1kQYC7y8jNfT&skey=6c19111046461d0d&v=v17#Scheherazade",
+      "woff": "https://fonts.gstatic.com/s/scheherazade/v17/YA9Lr0yF4ETZN60keViq1kQYC7y8jNfS.woff",
       "ttf": "https://fonts.gstatic.com/s/scheherazade/v17/YA9Lr0yF4ETZN60keViq1kQYC7y8jNfR.ttf",
+      "woff2": "https://fonts.gstatic.com/s/scheherazade/v17/YA9Lr0yF4ETZN60keViq1kQYC7y8jNfU.woff2",
+      "eot": "https://fonts.gstatic.com/s/scheherazade/v17/YA9Lr0yF4ETZN60keViq1kQYC7y8jNfQ.eot",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
-    "arabic"
+    "arabic",
+    "latin"
   ],
   "category": "serif",
   "version": "v17",
   "lastModified": "2019-07-16",
-  "popularity": 293,
+  "popularity": 304,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
-    "arabic": true
+    "arabic": true,
+    "latin": true
   },
-  "storeID": "arabic_latin"
+  "storeID": "latin_arabic"
 }

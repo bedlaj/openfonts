@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/economica/v7/Qw3fZQZaHCLgIWa29ZBbOMIB.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Qw3fZQZaHCLgIWa29ZBbOMIG&skey=787fcf9775092ba7&v=v7#Economica",
       "fontFamily": "'Economica'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,26 @@
         "Economica",
         "Economica-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/economica/v7/Qw3fZQZaHCLgIWa29ZBbOMIE.ttf",
-      "eot": "https://fonts.gstatic.com/s/economica/v7/Qw3fZQZaHCLgIWa29ZBbOMIF.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Qw3fZQZaHCLgIWa29ZBbOMIG&skey=787fcf9775092ba7&v=v7#Economica",
       "woff": "https://fonts.gstatic.com/s/economica/v7/Qw3fZQZaHCLgIWa29ZBbOMIH.woff",
+      "ttf": "https://fonts.gstatic.com/s/economica/v7/Qw3fZQZaHCLgIWa29ZBbOMIE.ttf",
+      "woff2": "https://fonts.gstatic.com/s/economica/v7/Qw3fZQZaHCLgIWa29ZBbOMIB.woff2",
+      "eot": "https://fonts.gstatic.com/s/economica/v7/Qw3fZQZaHCLgIWa29ZBbOMIF.eot",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Qw3ZZQZaHCLgIWa29ZBbM_INKl4&skey=b1d41ffb59574c9f&v=v7#Economica",
+      "fontFamily": "'Economica'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "local": [
+        "Economica Italic",
+        "Economica-Italic"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/economica/v7/Qw3ZZQZaHCLgIWa29ZBbM_INKlw.ttf",
+      "woff": "https://fonts.gstatic.com/s/economica/v7/Qw3ZZQZaHCLgIWa29ZBbM_INKl8.woff",
+      "eot": "https://fonts.gstatic.com/s/economica/v7/Qw3ZZQZaHCLgIWa29ZBbM_INKl0.eot",
+      "woff2": "https://fonts.gstatic.com/s/economica/v7/Qw3ZZQZaHCLgIWa29ZBbM_INKlk.woff2",
       "errored": false
     },
     {
@@ -29,41 +45,25 @@
         "Economica Bold",
         "Economica-Bold"
       ],
-      "woff": "https://fonts.gstatic.com/s/economica/v7/Qw3aZQZaHCLgIWa29ZBTjecUA3x-.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=Qw3aZQZaHCLgIWa29ZBTjecUA3x_&skey=c307f37a667ae92d&v=v7#Economica",
       "ttf": "https://fonts.gstatic.com/s/economica/v7/Qw3aZQZaHCLgIWa29ZBTjecUA3x9.ttf",
-      "errored": false
-    },
-    {
-      "id": "italic",
-      "eot": "https://fonts.gstatic.com/s/economica/v7/Qw3ZZQZaHCLgIWa29ZBbM_INKl0.eot",
-      "fontFamily": "'Economica'",
-      "fontStyle": "italic",
-      "fontWeight": "400",
-      "ttf": "https://fonts.gstatic.com/s/economica/v7/Qw3ZZQZaHCLgIWa29ZBbM_INKlw.ttf",
-      "local": [
-        "Economica Italic",
-        "Economica-Italic"
-      ],
-      "woff": "https://fonts.gstatic.com/s/economica/v7/Qw3ZZQZaHCLgIWa29ZBbM_INKl8.woff",
-      "woff2": "https://fonts.gstatic.com/s/economica/v7/Qw3ZZQZaHCLgIWa29ZBbM_INKlk.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Qw3ZZQZaHCLgIWa29ZBbM_INKl4&skey=b1d41ffb59574c9f&v=v7#Economica",
+      "woff": "https://fonts.gstatic.com/s/economica/v7/Qw3aZQZaHCLgIWa29ZBTjecUA3x-.woff",
       "errored": false
     },
     {
       "id": "700italic",
-      "woff": "https://fonts.gstatic.com/s/economica/v7/Qw3EZQZaHCLgIWa29ZBbM_q4D0x0XH4.woff",
+      "eot": "https://fonts.gstatic.com/s/economica/v7/Qw3EZQZaHCLgIWa29ZBbM_q4D0x0XHw.eot",
       "fontFamily": "'Economica'",
       "fontStyle": "italic",
       "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/economica/v7/Qw3EZQZaHCLgIWa29ZBbM_q4D0x0XH4.woff",
       "local": [
         "Economica Bold Italic",
         "Economica-BoldItalic"
       ],
-      "woff2": "https://fonts.gstatic.com/s/economica/v7/Qw3EZQZaHCLgIWa29ZBbM_q4D0x0XHg.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=Qw3EZQZaHCLgIWa29ZBbM_q4D0x0XH8&skey=9f803a65f8e309cb&v=v7#Economica",
       "ttf": "https://fonts.gstatic.com/s/economica/v7/Qw3EZQZaHCLgIWa29ZBbM_q4D0x0XH0.ttf",
-      "eot": "https://fonts.gstatic.com/s/economica/v7/Qw3EZQZaHCLgIWa29ZBbM_q4D0x0XHw.eot",
+      "woff2": "https://fonts.gstatic.com/s/economica/v7/Qw3EZQZaHCLgIWa29ZBbM_q4D0x0XHg.woff2",
       "errored": false
     }
   ],
@@ -74,7 +74,7 @@
   "category": "sans-serif",
   "version": "v7",
   "lastModified": "2019-07-16",
-  "popularity": 160,
+  "popularity": 188,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

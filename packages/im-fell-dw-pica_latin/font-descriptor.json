@@ -4,32 +4,32 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/imfelldwpica/v9/2sDGZGRQotv9nbn2qSl0TxXVYNwNYwnR.eot",
+      "woff2": "https://fonts.gstatic.com/s/imfelldwpica/v9/2sDGZGRQotv9nbn2qSl0TxXVYNwNYwnV.woff2",
       "fontFamily": "'IM Fell DW Pica'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/imfelldwpica/v9/2sDGZGRQotv9nbn2qSl0TxXVYNwNYwnT.woff",
       "local": [
         "IM FELL DW Pica Roman",
         "IM_FELL_DW_Pica_Roman"
       ],
       "ttf": "https://fonts.gstatic.com/s/imfelldwpica/v9/2sDGZGRQotv9nbn2qSl0TxXVYNwNYwnQ.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=2sDGZGRQotv9nbn2qSl0TxXVYNwNYwnS&skey=22ed7eafcced41ff&v=v9#IMFellDWPica",
-      "woff2": "https://fonts.gstatic.com/s/imfelldwpica/v9/2sDGZGRQotv9nbn2qSl0TxXVYNwNYwnV.woff2",
+      "eot": "https://fonts.gstatic.com/s/imfelldwpica/v9/2sDGZGRQotv9nbn2qSl0TxXVYNwNYwnR.eot",
+      "woff": "https://fonts.gstatic.com/s/imfelldwpica/v9/2sDGZGRQotv9nbn2qSl0TxXVYNwNYwnT.woff",
       "errored": false
     },
     {
       "id": "italic",
-      "eot": "https://fonts.gstatic.com/s/imfelldwpica/v9/2sDEZGRQotv9nbn2qSl0TxXVYNwNZjnXli8.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=2sDEZGRQotv9nbn2qSl0TxXVYNwNZjnXliw&skey=c4934a67e6f2a36b&v=v9#IMFellDWPica",
       "fontFamily": "'IM Fell DW Pica'",
       "fontStyle": "italic",
       "fontWeight": "400",
-      "ttf": "https://fonts.gstatic.com/s/imfelldwpica/v9/2sDEZGRQotv9nbn2qSl0TxXVYNwNZjnXli4.ttf",
       "local": [
         "IM FELL DW Pica Italic",
         "IM_FELL_DW_Pica_Italic"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=2sDEZGRQotv9nbn2qSl0TxXVYNwNZjnXliw&skey=c4934a67e6f2a36b&v=v9#IMFellDWPica",
+      "ttf": "https://fonts.gstatic.com/s/imfelldwpica/v9/2sDEZGRQotv9nbn2qSl0TxXVYNwNZjnXli4.ttf",
+      "eot": "https://fonts.gstatic.com/s/imfelldwpica/v9/2sDEZGRQotv9nbn2qSl0TxXVYNwNZjnXli8.eot",
       "woff2": "https://fonts.gstatic.com/s/imfelldwpica/v9/2sDEZGRQotv9nbn2qSl0TxXVYNwNZjnXlis.woff2",
       "woff": "https://fonts.gstatic.com/s/imfelldwpica/v9/2sDEZGRQotv9nbn2qSl0TxXVYNwNZjnXli0.woff",
       "errored": false
@@ -41,7 +41,7 @@
   "category": "serif",
   "version": "v9",
   "lastModified": "2019-07-16",
-  "popularity": 550,
+  "popularity": 527,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

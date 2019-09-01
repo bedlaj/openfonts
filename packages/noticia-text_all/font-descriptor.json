@@ -4,18 +4,34 @@
   "variants": [
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=VuJ2dNDF2Yv9qppOePKYRP1GYw&skey=ebbf84981792db5&v=v9#NoticiaText",
+      "eot": "https://fonts.gstatic.com/s/noticiatext/v9/VuJ2dNDF2Yv9qppOePKYRP1GYA.eot",
       "fontFamily": "'Noticia Text'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/noticiatext/v9/VuJ2dNDF2Yv9qppOePKYRP1GYg.woff",
       "local": [
         "Noticia Text",
         "NoticiaText-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/noticiatext/v9/VuJ2dNDF2Yv9qppOePKYRP1GYQ.ttf",
-      "eot": "https://fonts.gstatic.com/s/noticiatext/v9/VuJ2dNDF2Yv9qppOePKYRP1GYA.eot",
-      "woff": "https://fonts.gstatic.com/s/noticiatext/v9/VuJ2dNDF2Yv9qppOePKYRP1GYg.woff",
       "woff2": "https://fonts.gstatic.com/s/noticiatext/v9/VuJ2dNDF2Yv9qppOePKYRP1GZA.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=VuJ2dNDF2Yv9qppOePKYRP1GYw&skey=ebbf84981792db5&v=v9#NoticiaText",
+      "ttf": "https://fonts.gstatic.com/s/noticiatext/v9/VuJ2dNDF2Yv9qppOePKYRP1GYQ.ttf",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "woff": "https://fonts.gstatic.com/s/noticiatext/v9/VuJodNDF2Yv9qppOePKYRP12Yzte.woff",
+      "fontFamily": "'Noticia Text'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "local": [
+        "Noticia Text Italic",
+        "NoticiaText-Italic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/noticiatext/v9/VuJodNDF2Yv9qppOePKYRP12YztY.woff2",
+      "eot": "https://fonts.gstatic.com/s/noticiatext/v9/VuJodNDF2Yv9qppOePKYRP12Yztc.eot",
+      "ttf": "https://fonts.gstatic.com/s/noticiatext/v9/VuJodNDF2Yv9qppOePKYRP12Yztd.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=VuJodNDF2Yv9qppOePKYRP12Yztf&skey=30669c460dd81720&v=v9#NoticiaText",
       "errored": false
     },
     {
@@ -24,46 +40,30 @@
       "fontFamily": "'Noticia Text'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff2": "https://fonts.gstatic.com/s/noticiatext/v9/VuJpdNDF2Yv9qppOePKYRP1-3R59ug.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=VuJpdNDF2Yv9qppOePKYRP1-3R59vQ&skey=bea077d1ab0bfaf0&v=v9#NoticiaText",
       "local": [
         "Noticia Text Bold",
         "NoticiaText-Bold"
       ],
-      "woff": "https://fonts.gstatic.com/s/noticiatext/v9/VuJpdNDF2Yv9qppOePKYRP1-3R59vA.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=VuJpdNDF2Yv9qppOePKYRP1-3R59vQ&skey=bea077d1ab0bfaf0&v=v9#NoticiaText",
+      "woff2": "https://fonts.gstatic.com/s/noticiatext/v9/VuJpdNDF2Yv9qppOePKYRP1-3R59ug.woff2",
       "ttf": "https://fonts.gstatic.com/s/noticiatext/v9/VuJpdNDF2Yv9qppOePKYRP1-3R59vw.ttf",
-      "errored": false
-    },
-    {
-      "id": "italic",
-      "eot": "https://fonts.gstatic.com/s/noticiatext/v9/VuJodNDF2Yv9qppOePKYRP12Yztc.eot",
-      "fontFamily": "'Noticia Text'",
-      "fontStyle": "italic",
-      "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/noticiatext/v9/VuJodNDF2Yv9qppOePKYRP12Yzte.woff",
-      "local": [
-        "Noticia Text Italic",
-        "NoticiaText-Italic"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/noticiatext/v9/VuJodNDF2Yv9qppOePKYRP12YztY.woff2",
-      "ttf": "https://fonts.gstatic.com/s/noticiatext/v9/VuJodNDF2Yv9qppOePKYRP12Yztd.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=VuJodNDF2Yv9qppOePKYRP12Yztf&skey=30669c460dd81720&v=v9#NoticiaText",
+      "woff": "https://fonts.gstatic.com/s/noticiatext/v9/VuJpdNDF2Yv9qppOePKYRP1-3R59vA.woff",
       "errored": false
     },
     {
       "id": "700italic",
-      "eot": "https://fonts.gstatic.com/s/noticiatext/v9/VuJrdNDF2Yv9qppOePKYRP12YwPhumvU.eot",
+      "woff": "https://fonts.gstatic.com/s/noticiatext/v9/VuJrdNDF2Yv9qppOePKYRP12YwPhumvW.woff",
       "fontFamily": "'Noticia Text'",
       "fontStyle": "italic",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/noticiatext/v9/VuJrdNDF2Yv9qppOePKYRP12YwPhumvW.woff",
       "local": [
         "Noticia Text Bold Italic",
         "NoticiaText-BoldItalic"
       ],
-      "woff2": "https://fonts.gstatic.com/s/noticiatext/v9/VuJrdNDF2Yv9qppOePKYRP12YwPhumvQ.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=VuJrdNDF2Yv9qppOePKYRP12YwPhumvX&skey=91633cfc4b65e760&v=v9#NoticiaText",
+      "woff2": "https://fonts.gstatic.com/s/noticiatext/v9/VuJrdNDF2Yv9qppOePKYRP12YwPhumvQ.woff2",
       "ttf": "https://fonts.gstatic.com/s/noticiatext/v9/VuJrdNDF2Yv9qppOePKYRP12YwPhumvV.ttf",
+      "eot": "https://fonts.gstatic.com/s/noticiatext/v9/VuJrdNDF2Yv9qppOePKYRP12YwPhumvU.eot",
       "errored": false
     }
   ],

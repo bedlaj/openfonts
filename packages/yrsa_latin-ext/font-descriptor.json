@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "300",
-      "ttf": "https://fonts.gstatic.com/s/yrsa/v5/wlpxgwnQFlxs3af97I0x2Q.ttf",
+      "woff": "https://fonts.gstatic.com/s/yrsa/v5/wlpxgwnQFlxs3af97I0x2g.woff",
       "fontFamily": "'Yrsa'",
       "fontStyle": "normal",
       "fontWeight": "300",
@@ -12,26 +12,10 @@
         "Yrsa Light",
         "Yrsa-Light"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=wlpxgwnQFlxs3af97I0x2w&skey=c78a34621f12b2b0&v=v5#Yrsa",
-      "eot": "https://fonts.gstatic.com/s/yrsa/v5/wlpxgwnQFlxs3af97I0x2A.eot",
-      "woff": "https://fonts.gstatic.com/s/yrsa/v5/wlpxgwnQFlxs3af97I0x2g.woff",
       "woff2": "https://fonts.gstatic.com/s/yrsa/v5/wlpxgwnQFlxs3af97I0x3A.woff2",
-      "errored": false
-    },
-    {
-      "id": "500",
-      "woff": "https://fonts.gstatic.com/s/yrsa/v5/wlpxgwnQFlxs3f_87I0x2g.woff",
-      "fontFamily": "'Yrsa'",
-      "fontStyle": "normal",
-      "fontWeight": "500",
-      "local": [
-        "Yrsa Medium",
-        "Yrsa-Medium"
-      ],
-      "eot": "https://fonts.gstatic.com/s/yrsa/v5/wlpxgwnQFlxs3f_87I0x2A.eot",
-      "woff2": "https://fonts.gstatic.com/s/yrsa/v5/wlpxgwnQFlxs3f_87I0x3A.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=wlpxgwnQFlxs3f_87I0x2w&skey=4d72fd23a8cdc32a&v=v5#Yrsa",
-      "ttf": "https://fonts.gstatic.com/s/yrsa/v5/wlpxgwnQFlxs3f_87I0x2Q.ttf",
+      "eot": "https://fonts.gstatic.com/s/yrsa/v5/wlpxgwnQFlxs3af97I0x2A.eot",
+      "ttf": "https://fonts.gstatic.com/s/yrsa/v5/wlpxgwnQFlxs3af97I0x2Q.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=wlpxgwnQFlxs3af97I0x2w&skey=c78a34621f12b2b0&v=v5#Yrsa",
       "errored": false
     },
     {
@@ -40,14 +24,30 @@
       "fontFamily": "'Yrsa'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/yrsa/v5/wlp-gwnQFlxs1QLf-Q.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=wlp-gwnQFlxs1QLf_g&skey=aa6df136beb91752&v=v5#Yrsa",
       "local": [
         "Yrsa Regular",
         "Yrsa-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/yrsa/v5/wlp-gwnQFlxs1QLf_w.woff",
       "ttf": "https://fonts.gstatic.com/s/yrsa/v5/wlp-gwnQFlxs1QLf_A.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=wlp-gwnQFlxs1QLf_g&skey=aa6df136beb91752&v=v5#Yrsa",
+      "woff2": "https://fonts.gstatic.com/s/yrsa/v5/wlp-gwnQFlxs1QLf-Q.woff2",
+      "woff": "https://fonts.gstatic.com/s/yrsa/v5/wlp-gwnQFlxs1QLf_w.woff",
+      "errored": false
+    },
+    {
+      "id": "500",
+      "eot": "https://fonts.gstatic.com/s/yrsa/v5/wlpxgwnQFlxs3f_87I0x2A.eot",
+      "fontFamily": "'Yrsa'",
+      "fontStyle": "normal",
+      "fontWeight": "500",
+      "woff": "https://fonts.gstatic.com/s/yrsa/v5/wlpxgwnQFlxs3f_87I0x2g.woff",
+      "local": [
+        "Yrsa Medium",
+        "Yrsa-Medium"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=wlpxgwnQFlxs3f_87I0x2w&skey=4d72fd23a8cdc32a&v=v5#Yrsa",
+      "ttf": "https://fonts.gstatic.com/s/yrsa/v5/wlpxgwnQFlxs3f_87I0x2Q.ttf",
+      "woff2": "https://fonts.gstatic.com/s/yrsa/v5/wlpxgwnQFlxs3f_87I0x3A.woff2",
       "errored": false
     },
     {
@@ -77,9 +77,9 @@
         "Yrsa Bold",
         "Yrsa-Bold"
       ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=wlpxgwnQFlxs3bf67I0x2w&skey=b50f6c711e26684f&v=v5#Yrsa",
       "ttf": "https://fonts.gstatic.com/s/yrsa/v5/wlpxgwnQFlxs3bf67I0x2Q.ttf",
       "woff2": "https://fonts.gstatic.com/s/yrsa/v5/wlpxgwnQFlxs3bf67I0x3A.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=wlpxgwnQFlxs3bf67I0x2w&skey=b50f6c711e26684f&v=v5#Yrsa",
       "errored": false
     }
   ],
@@ -90,7 +90,7 @@
   "category": "serif",
   "version": "v5",
   "lastModified": "2019-07-16",
-  "popularity": 182,
+  "popularity": 180,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

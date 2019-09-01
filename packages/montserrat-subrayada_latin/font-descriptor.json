@@ -4,32 +4,32 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/montserratsubrayada/v9/U9MD6c-o9H7PgjlTHThBnNHGVUORwteQQH8MaOM.ttf",
+      "woff": "https://fonts.gstatic.com/s/montserratsubrayada/v9/U9MD6c-o9H7PgjlTHThBnNHGVUORwteQQH8MaOA.woff",
       "fontFamily": "'Montserrat Subrayada'",
       "fontStyle": "normal",
       "fontWeight": "400",
       "local": [
         "MontserratSubrayada-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=U9MD6c-o9H7PgjlTHThBnNHGVUORwteQQH8MaOE&skey=b9d78a68a81ccefa&v=v9#MontserratSubrayada",
-      "woff": "https://fonts.gstatic.com/s/montserratsubrayada/v9/U9MD6c-o9H7PgjlTHThBnNHGVUORwteQQH8MaOA.woff",
       "eot": "https://fonts.gstatic.com/s/montserratsubrayada/v9/U9MD6c-o9H7PgjlTHThBnNHGVUORwteQQH8MaOI.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=U9MD6c-o9H7PgjlTHThBnNHGVUORwteQQH8MaOE&skey=b9d78a68a81ccefa&v=v9#MontserratSubrayada",
+      "ttf": "https://fonts.gstatic.com/s/montserratsubrayada/v9/U9MD6c-o9H7PgjlTHThBnNHGVUORwteQQH8MaOM.ttf",
       "woff2": "https://fonts.gstatic.com/s/montserratsubrayada/v9/U9MD6c-o9H7PgjlTHThBnNHGVUORwteQQH8MaOY.woff2",
       "errored": false
     },
     {
       "id": "700",
-      "ttf": "https://fonts.gstatic.com/s/montserratsubrayada/v9/U9MM6c-o9H7PgjlTHThBnNHGVUORwteQQHe3TfMRiXw.ttf",
+      "woff": "https://fonts.gstatic.com/s/montserratsubrayada/v9/U9MM6c-o9H7PgjlTHThBnNHGVUORwteQQHe3TfMRiX8.woff",
       "fontFamily": "'Montserrat Subrayada'",
       "fontStyle": "normal",
       "fontWeight": "700",
       "local": [
         "MontserratSubrayada-Bold"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=U9MM6c-o9H7PgjlTHThBnNHGVUORwteQQHe3TfMRiX4&skey=cf0011ee8bfb5b92&v=v9#MontserratSubrayada",
-      "woff2": "https://fonts.gstatic.com/s/montserratsubrayada/v9/U9MM6c-o9H7PgjlTHThBnNHGVUORwteQQHe3TfMRiXk.woff2",
-      "woff": "https://fonts.gstatic.com/s/montserratsubrayada/v9/U9MM6c-o9H7PgjlTHThBnNHGVUORwteQQHe3TfMRiX8.woff",
       "eot": "https://fonts.gstatic.com/s/montserratsubrayada/v9/U9MM6c-o9H7PgjlTHThBnNHGVUORwteQQHe3TfMRiX0.eot",
+      "ttf": "https://fonts.gstatic.com/s/montserratsubrayada/v9/U9MM6c-o9H7PgjlTHThBnNHGVUORwteQQHe3TfMRiXw.ttf",
+      "woff2": "https://fonts.gstatic.com/s/montserratsubrayada/v9/U9MM6c-o9H7PgjlTHThBnNHGVUORwteQQHe3TfMRiXk.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=U9MM6c-o9H7PgjlTHThBnNHGVUORwteQQHe3TfMRiX4&skey=cf0011ee8bfb5b92&v=v9#MontserratSubrayada",
       "errored": false
     }
   ],
@@ -39,7 +39,7 @@
   "category": "sans-serif",
   "version": "v9",
   "lastModified": "2019-07-16",
-  "popularity": 616,
+  "popularity": 607,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

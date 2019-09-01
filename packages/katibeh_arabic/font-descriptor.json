@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/katibeh/v7/ZGjXol5MQJog4bxDWC9bVQ.woff2",
+      "woff": "https://fonts.gstatic.com/s/katibeh/v7/ZGjXol5MQJog4bxDWC9bUw.woff",
       "fontFamily": "'Katibeh'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,27 +12,27 @@
         "Katibeh-Regular"
       ],
       "ttf": "https://fonts.gstatic.com/s/katibeh/v7/ZGjXol5MQJog4bxDWC9bUA.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=ZGjXol5MQJog4bxDWC9bUg&skey=5f417d48499acf32&v=v7#Katibeh",
-      "woff": "https://fonts.gstatic.com/s/katibeh/v7/ZGjXol5MQJog4bxDWC9bUw.woff",
+      "woff2": "https://fonts.gstatic.com/s/katibeh/v7/ZGjXol5MQJog4bxDWC9bVQ.woff2",
       "eot": "https://fonts.gstatic.com/s/katibeh/v7/ZGjXol5MQJog4bxDWC9bUQ.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=ZGjXol5MQJog4bxDWC9bUg&skey=5f417d48499acf32&v=v7#Katibeh",
       "errored": false
     }
   ],
   "subsets": [
+    "arabic",
     "latin",
-    "latin-ext",
-    "arabic"
+    "latin-ext"
   ],
   "category": "display",
   "version": "v7",
   "lastModified": "2019-07-16",
-  "popularity": 575,
+  "popularity": 547,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
+    "arabic": true,
     "latin": true,
-    "latin-ext": false,
-    "arabic": true
+    "latin-ext": false
   },
-  "storeID": "arabic_latin"
+  "storeID": "latin_arabic"
 }

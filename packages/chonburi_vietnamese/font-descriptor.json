@@ -8,34 +8,34 @@
       "fontFamily": "'Chonburi'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/chonburi/v4/8AtqGs-wOpGRTBq66LWSHLw.woff2",
+      "ttf": "https://fonts.gstatic.com/s/chonburi/v4/8AtqGs-wOpGRTBq66LWSHLk.ttf",
       "local": [
         "Chonburi",
         "Chonburi-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/chonburi/v4/8AtqGs-wOpGRTBq66LWSHLo.woff",
-      "ttf": "https://fonts.gstatic.com/s/chonburi/v4/8AtqGs-wOpGRTBq66LWSHLk.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=8AtqGs-wOpGRTBq66LWSHLs&skey=c7df2cb94921e7b4&v=v4#Chonburi",
+      "woff2": "https://fonts.gstatic.com/s/chonburi/v4/8AtqGs-wOpGRTBq66LWSHLw.woff2",
+      "woff": "https://fonts.gstatic.com/s/chonburi/v4/8AtqGs-wOpGRTBq66LWSHLo.woff",
       "errored": false
     }
   ],
   "subsets": [
     "vietnamese",
     "latin",
-    "latin-ext",
-    "thai"
+    "thai",
+    "latin-ext"
   ],
   "category": "display",
   "version": "v4",
   "lastModified": "2019-07-16",
-  "popularity": 504,
+  "popularity": 477,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "vietnamese": true,
     "latin": true,
-    "latin-ext": false,
-    "thai": false
+    "thai": false,
+    "latin-ext": false
   },
   "storeID": "latin_vietnamese"
 }

@@ -4,17 +4,17 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/rambla/v7/snfrs0ip98hx6mrEKrgL.eot",
+      "woff2": "https://fonts.gstatic.com/s/rambla/v7/snfrs0ip98hx6mrEKrgP.woff2",
       "fontFamily": "'Rambla'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/rambla/v7/snfrs0ip98hx6mrEKrgJ.woff",
       "local": [
         "Rambla",
         "Rambla-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/rambla/v7/snfrs0ip98hx6mrEKrgP.woff2",
+      "eot": "https://fonts.gstatic.com/s/rambla/v7/snfrs0ip98hx6mrEKrgL.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=snfrs0ip98hx6mrEKrgI&skey=e63d0094ae861a60&v=v7#Rambla",
+      "woff": "https://fonts.gstatic.com/s/rambla/v7/snfrs0ip98hx6mrEKrgJ.woff",
       "ttf": "https://fonts.gstatic.com/s/rambla/v7/snfrs0ip98hx6mrEKrgK.ttf",
       "errored": false
     },
@@ -30,13 +30,13 @@
       ],
       "eot": "https://fonts.gstatic.com/s/rambla/v7/snfos0ip98hx6mrMn50aN_l9.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=snfos0ip98hx6mrMn50aN_l-&skey=f540a7c4b2d0c23f&v=v7#Rambla",
-      "ttf": "https://fonts.gstatic.com/s/rambla/v7/snfos0ip98hx6mrMn50aN_l8.ttf",
       "woff2": "https://fonts.gstatic.com/s/rambla/v7/snfos0ip98hx6mrMn50aN_l5.woff2",
+      "ttf": "https://fonts.gstatic.com/s/rambla/v7/snfos0ip98hx6mrMn50aN_l8.ttf",
       "errored": false
     },
     {
       "id": "italic",
-      "woff": "https://fonts.gstatic.com/s/rambla/v7/snfps0ip98hx6mrEIYgDHto.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=snfps0ip98hx6mrEIYgDHts&skey=700eb9d8d0daf87b&v=v7#Rambla",
       "fontFamily": "'Rambla'",
       "fontStyle": "italic",
       "fontWeight": "400",
@@ -44,10 +44,10 @@
         "Rambla Italic",
         "Rambla-Italic"
       ],
-      "eot": "https://fonts.gstatic.com/s/rambla/v7/snfps0ip98hx6mrEIYgDHtg.eot",
       "ttf": "https://fonts.gstatic.com/s/rambla/v7/snfps0ip98hx6mrEIYgDHtk.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=snfps0ip98hx6mrEIYgDHts&skey=700eb9d8d0daf87b&v=v7#Rambla",
       "woff2": "https://fonts.gstatic.com/s/rambla/v7/snfps0ip98hx6mrEIYgDHtw.woff2",
+      "woff": "https://fonts.gstatic.com/s/rambla/v7/snfps0ip98hx6mrEIYgDHto.woff",
+      "eot": "https://fonts.gstatic.com/s/rambla/v7/snfps0ip98hx6mrEIYgDHtg.eot",
       "errored": false
     },
     {
@@ -62,8 +62,8 @@
         "Rambla-BoldItalic"
       ],
       "woff2": "https://fonts.gstatic.com/s/rambla/v7/snfus0ip98hx6mrEIYC2O8l14J8.woff2",
-      "ttf": "https://fonts.gstatic.com/s/rambla/v7/snfus0ip98hx6mrEIYC2O8l14Jo.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=snfus0ip98hx6mrEIYC2O8l14Jg&skey=7dee048d13cb7320&v=v7#Rambla",
+      "ttf": "https://fonts.gstatic.com/s/rambla/v7/snfus0ip98hx6mrEIYC2O8l14Jo.ttf",
       "errored": false
     }
   ],
@@ -74,7 +74,7 @@
   "category": "sans-serif",
   "version": "v7",
   "lastModified": "2019-07-16",
-  "popularity": 290,
+  "popularity": 286,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

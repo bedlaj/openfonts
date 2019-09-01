@@ -4,17 +4,17 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/timmana/v4/6xKvdShfL9yK-rvpOnDRLw.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=6xKvdShfL9yK-rvpOnDRLg&skey=909c473ed6ecde4d&v=v4#Timmana",
       "fontFamily": "'Timmana'",
       "fontStyle": "normal",
       "fontWeight": "400",
       "local": [
         "Timmana"
       ],
-      "woff2": "https://fonts.gstatic.com/s/timmana/v4/6xKvdShfL9yK-rvpOnDRKQ.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=6xKvdShfL9yK-rvpOnDRLg&skey=909c473ed6ecde4d&v=v4#Timmana",
-      "eot": "https://fonts.gstatic.com/s/timmana/v4/6xKvdShfL9yK-rvpOnDRLQ.eot",
       "ttf": "https://fonts.gstatic.com/s/timmana/v4/6xKvdShfL9yK-rvpOnDRLA.ttf",
+      "eot": "https://fonts.gstatic.com/s/timmana/v4/6xKvdShfL9yK-rvpOnDRLQ.eot",
+      "woff": "https://fonts.gstatic.com/s/timmana/v4/6xKvdShfL9yK-rvpOnDRLw.woff",
+      "woff2": "https://fonts.gstatic.com/s/timmana/v4/6xKvdShfL9yK-rvpOnDRKQ.woff2",
       "errored": false
     }
   ],
@@ -25,7 +25,7 @@
   "category": "sans-serif",
   "version": "v4",
   "lastModified": "2019-07-16",
-  "popularity": 565,
+  "popularity": 553,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

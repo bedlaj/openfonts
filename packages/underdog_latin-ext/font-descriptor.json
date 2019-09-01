@@ -4,36 +4,36 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/underdog/v8/CHygV-jCElj7diMroWSrWVo.ttf",
+      "eot": "https://fonts.gstatic.com/s/underdog/v8/CHygV-jCElj7diMroWSrWVs.eot",
       "fontFamily": "'Underdog'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/underdog/v8/CHygV-jCElj7diMroWSrWVk.woff",
       "local": [
         "Underdog",
         "Underdog-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/underdog/v8/CHygV-jCElj7diMroWSrWVs.eot",
-      "woff": "https://fonts.gstatic.com/s/underdog/v8/CHygV-jCElj7diMroWSrWVk.woff",
       "woff2": "https://fonts.gstatic.com/s/underdog/v8/CHygV-jCElj7diMroWSrWV8.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=CHygV-jCElj7diMroWSrWVg&skey=419e757df0aff982&v=v8#Underdog",
+      "ttf": "https://fonts.gstatic.com/s/underdog/v8/CHygV-jCElj7diMroWSrWVo.ttf",
       "errored": false
     }
   ],
   "subsets": [
     "latin",
-    "latin-ext",
-    "cyrillic"
+    "cyrillic",
+    "latin-ext"
   ],
   "category": "display",
   "version": "v8",
   "lastModified": "2019-07-16",
-  "popularity": 766,
+  "popularity": 758,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "latin": true,
-    "latin-ext": true,
-    "cyrillic": false
+    "cyrillic": false,
+    "latin-ext": true
   },
   "storeID": "latin-ext_latin"
 }

@@ -8,32 +8,32 @@
       "fontFamily": "'Poiret One'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/poiretone/v8/UqyVK80NJXN4zfRgbdfbo55cVw.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=UqyVK80NJXN4zfRgbdfbo55cUA&skey=b92d66791719178&v=v8#PoiretOne",
       "local": [
         "Poiret One",
         "PoiretOne-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=UqyVK80NJXN4zfRgbdfbo55cUA&skey=b92d66791719178&v=v8#PoiretOne",
-      "ttf": "https://fonts.gstatic.com/s/poiretone/v8/UqyVK80NJXN4zfRgbdfbo55cUg.ttf",
+      "woff2": "https://fonts.gstatic.com/s/poiretone/v8/UqyVK80NJXN4zfRgbdfbo55cVw.woff2",
       "woff": "https://fonts.gstatic.com/s/poiretone/v8/UqyVK80NJXN4zfRgbdfbo55cUQ.woff",
+      "ttf": "https://fonts.gstatic.com/s/poiretone/v8/UqyVK80NJXN4zfRgbdfbo55cUg.ttf",
       "errored": false
     }
   ],
   "subsets": [
     "latin",
-    "latin-ext",
-    "cyrillic"
+    "cyrillic",
+    "latin-ext"
   ],
   "category": "display",
   "version": "v8",
   "lastModified": "2019-07-16",
-  "popularity": 144,
+  "popularity": 149,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "latin": true,
-    "latin-ext": false,
-    "cyrillic": false
+    "cyrillic": false,
+    "latin-ext": false
   },
   "storeID": "latin"
 }

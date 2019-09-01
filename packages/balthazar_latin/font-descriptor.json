@@ -4,17 +4,17 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/balthazar/v9/d6lKkaajS8Gm4CVQjFEfzh7p.woff2",
+      "eot": "https://fonts.gstatic.com/s/balthazar/v9/d6lKkaajS8Gm4CVQjFEfzh7t.eot",
       "fontFamily": "'Balthazar'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/balthazar/v9/d6lKkaajS8Gm4CVQjFEfzh7v.woff",
       "local": [
         "Balthazar Regular",
         "Balthazar-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/balthazar/v9/d6lKkaajS8Gm4CVQjFEfzh7v.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=d6lKkaajS8Gm4CVQjFEfzh7u&skey=eb41b13c48ddda62&v=v9#Balthazar",
-      "eot": "https://fonts.gstatic.com/s/balthazar/v9/d6lKkaajS8Gm4CVQjFEfzh7t.eot",
+      "woff2": "https://fonts.gstatic.com/s/balthazar/v9/d6lKkaajS8Gm4CVQjFEfzh7p.woff2",
       "ttf": "https://fonts.gstatic.com/s/balthazar/v9/d6lKkaajS8Gm4CVQjFEfzh7s.ttf",
       "errored": false
     }
@@ -25,7 +25,7 @@
   "category": "serif",
   "version": "v9",
   "lastModified": "2019-07-16",
-  "popularity": 447,
+  "popularity": 446,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

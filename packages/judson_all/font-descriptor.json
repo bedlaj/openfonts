@@ -3,35 +3,19 @@
   "family": "Judson",
   "variants": [
     {
-      "id": "italic",
-      "woff": "https://fonts.gstatic.com/s/judson/v12/FeVTS0Fbvbc14VxhDblz.woff",
-      "fontFamily": "'Judson'",
-      "fontStyle": "italic",
-      "fontWeight": "400",
-      "local": [
-        "Judson Italic",
-        "Judson-Italic"
-      ],
-      "eot": "https://fonts.gstatic.com/s/judson/v12/FeVTS0Fbvbc14VxhDblx.eot",
-      "woff2": "https://fonts.gstatic.com/s/judson/v12/FeVTS0Fbvbc14VxhDbl1.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=FeVTS0Fbvbc14VxhDbly&skey=d937ef2f415e3371&v=v12#Judson",
-      "ttf": "https://fonts.gstatic.com/s/judson/v12/FeVTS0Fbvbc14VxhDblw.ttf",
-      "errored": false
-    },
-    {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/judson/v12/FeVRS0Fbvbc14VxRDA.woff",
+      "eot": "https://fonts.gstatic.com/s/judson/v12/FeVRS0Fbvbc14VxRDg.eot",
       "fontFamily": "'Judson'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/judson/v12/FeVRS0Fbvbc14VxRCg.woff2",
       "local": [
         "Judson Regular",
         "Judson-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/judson/v12/FeVRS0Fbvbc14VxRCg.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=FeVRS0Fbvbc14VxRDQ&skey=5e4bbbcb41f6cd25&v=v12#Judson",
-      "eot": "https://fonts.gstatic.com/s/judson/v12/FeVRS0Fbvbc14VxRDg.eot",
       "ttf": "https://fonts.gstatic.com/s/judson/v12/FeVRS0Fbvbc14VxRDw.ttf",
+      "woff": "https://fonts.gstatic.com/s/judson/v12/FeVRS0Fbvbc14VxRDA.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=FeVRS0Fbvbc14VxRDQ&skey=5e4bbbcb41f6cd25&v=v12#Judson",
       "errored": false
     },
     {
@@ -46,8 +30,24 @@
         "Judson-Bold"
       ],
       "woff2": "https://fonts.gstatic.com/s/judson/v12/FeVSS0Fbvbc14Vxps5xQ2A.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=FeVSS0Fbvbc14Vxps5xQ3w&skey=2a4e7d9700bda035&v=v12#Judson",
       "ttf": "https://fonts.gstatic.com/s/judson/v12/FeVSS0Fbvbc14Vxps5xQ3Q.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=FeVSS0Fbvbc14Vxps5xQ3w&skey=2a4e7d9700bda035&v=v12#Judson",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "eot": "https://fonts.gstatic.com/s/judson/v12/FeVTS0Fbvbc14VxhDblx.eot",
+      "fontFamily": "'Judson'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/judson/v12/FeVTS0Fbvbc14VxhDblz.woff",
+      "local": [
+        "Judson Italic",
+        "Judson-Italic"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=FeVTS0Fbvbc14VxhDbly&skey=d937ef2f415e3371&v=v12#Judson",
+      "woff2": "https://fonts.gstatic.com/s/judson/v12/FeVTS0Fbvbc14VxhDbl1.woff2",
+      "ttf": "https://fonts.gstatic.com/s/judson/v12/FeVTS0Fbvbc14VxhDblw.ttf",
       "errored": false
     }
   ],
@@ -59,7 +59,7 @@
   "category": "serif",
   "version": "v12",
   "lastModified": "2019-07-16",
-  "popularity": 418,
+  "popularity": 433,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

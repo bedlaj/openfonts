@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/charmonman/v3/MjQDmiR3vP_nuxDv47jiaJiiuA.ttf",
+      "woff2": "https://fonts.gstatic.com/s/charmonman/v3/MjQDmiR3vP_nuxDv47jiaJiivQ.woff2",
       "fontFamily": "'Charmonman'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,9 +12,9 @@
         "Charmonman Regular",
         "Charmonman-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/charmonman/v3/MjQDmiR3vP_nuxDv47jiaJiiuQ.eot",
       "woff": "https://fonts.gstatic.com/s/charmonman/v3/MjQDmiR3vP_nuxDv47jiaJiiuw.woff",
-      "woff2": "https://fonts.gstatic.com/s/charmonman/v3/MjQDmiR3vP_nuxDv47jiaJiivQ.woff2",
+      "ttf": "https://fonts.gstatic.com/s/charmonman/v3/MjQDmiR3vP_nuxDv47jiaJiiuA.ttf",
+      "eot": "https://fonts.gstatic.com/s/charmonman/v3/MjQDmiR3vP_nuxDv47jiaJiiuQ.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=MjQDmiR3vP_nuxDv47jiaJiiug&skey=ec7d9de60d8da527&v=v3#Charmonman",
       "errored": false
     },
@@ -29,29 +29,29 @@
         "Charmonman Bold",
         "Charmonman-Bold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/charmonman/v3/MjQAmiR3vP_nuxDv47jiYC2HqLZA9Q.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=MjQAmiR3vP_nuxDv47jiYC2HqLZA8g&skey=b984f529c1aa8e40&v=v3#Charmonman",
       "ttf": "https://fonts.gstatic.com/s/charmonman/v3/MjQAmiR3vP_nuxDv47jiYC2HqLZA8A.ttf",
+      "woff2": "https://fonts.gstatic.com/s/charmonman/v3/MjQAmiR3vP_nuxDv47jiYC2HqLZA9Q.woff2",
       "errored": false
     }
   ],
   "subsets": [
     "vietnamese",
     "latin",
-    "latin-ext",
-    "thai"
+    "thai",
+    "latin-ext"
   ],
   "category": "handwriting",
   "version": "v3",
   "lastModified": "2019-07-16",
-  "popularity": 797,
+  "popularity": 790,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "vietnamese": false,
     "latin": true,
-    "latin-ext": true,
-    "thai": false
+    "thai": false,
+    "latin-ext": true
   },
   "storeID": "latin-ext_latin"
 }

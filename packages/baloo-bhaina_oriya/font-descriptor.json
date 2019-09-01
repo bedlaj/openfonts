@@ -12,30 +12,30 @@
         "Baloo Bhaina Regular",
         "BalooBhaina-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/baloobhaina/v5/Noa16Uzzzp2FIkfhq5vm9thBIg54.eot",
       "woff2": "https://fonts.gstatic.com/s/baloobhaina/v5/Noa16Uzzzp2FIkfhq5vm9thBIg58.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Noa16Uzzzp2FIkfhq5vm9thBIg57&skey=3699402d0d6ef054&v=v5#BalooBhaina",
+      "eot": "https://fonts.gstatic.com/s/baloobhaina/v5/Noa16Uzzzp2FIkfhq5vm9thBIg54.eot",
       "ttf": "https://fonts.gstatic.com/s/baloobhaina/v5/Noa16Uzzzp2FIkfhq5vm9thBIg55.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Noa16Uzzzp2FIkfhq5vm9thBIg57&skey=3699402d0d6ef054&v=v5#BalooBhaina",
       "errored": false
     }
   ],
   "subsets": [
+    "oriya",
     "vietnamese",
     "latin",
-    "latin-ext",
-    "oriya"
+    "latin-ext"
   ],
   "category": "display",
   "version": "v5",
   "lastModified": "2019-07-16",
-  "popularity": 401,
+  "popularity": 390,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
+    "oriya": true,
     "vietnamese": false,
     "latin": true,
-    "latin-ext": false,
-    "oriya": true
+    "latin-ext": false
   },
-  "storeID": "oriya_latin"
+  "storeID": "latin_oriya"
 }

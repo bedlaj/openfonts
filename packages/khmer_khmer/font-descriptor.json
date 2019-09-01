@@ -4,17 +4,17 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/khmer/v12/MjQImit_vPPwpG-Nrto.woff",
+      "woff2": "https://fonts.gstatic.com/s/khmer/v12/MjQImit_vPPwpG-Nrtw.woff2",
       "fontFamily": "'Khmer'",
       "fontStyle": "normal",
       "fontWeight": "400",
       "local": [
         "Khmer"
       ],
-      "woff2": "https://fonts.gstatic.com/s/khmer/v12/MjQImit_vPPwpG-Nrtw.woff2",
       "eot": "https://fonts.gstatic.com/s/khmer/v12/MjQImit_vPPwpG-Nrtg.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=MjQImit_vPPwpG-Nrts&skey=6527b71fcb030ef0&v=v12#Khmer",
+      "woff": "https://fonts.gstatic.com/s/khmer/v12/MjQImit_vPPwpG-Nrto.woff",
       "ttf": "https://fonts.gstatic.com/s/khmer/v12/MjQImit_vPPwpG-Nrtk.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=MjQImit_vPPwpG-Nrts&skey=6527b71fcb030ef0&v=v12#Khmer",
       "errored": false
     }
   ],
@@ -24,7 +24,7 @@
   "category": "display",
   "version": "v12",
   "lastModified": "2019-07-16",
-  "popularity": 672,
+  "popularity": 677,
   "defSubset": "khmer",
   "defVariant": "regular",
   "subsetMap": {

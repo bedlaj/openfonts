@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/cuprum/v11/dg4k_pLmvrkcOkBNIutH.ttf",
+      "woff2": "https://fonts.gstatic.com/s/cuprum/v11/dg4k_pLmvrkcOkBNIutC.woff2",
       "fontFamily": "'Cuprum'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Cuprum Regular",
         "Cuprum-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/cuprum/v11/dg4k_pLmvrkcOkBNIutG.eot",
-      "woff2": "https://fonts.gstatic.com/s/cuprum/v11/dg4k_pLmvrkcOkBNIutC.woff2",
       "woff": "https://fonts.gstatic.com/s/cuprum/v11/dg4k_pLmvrkcOkBNIutE.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=dg4k_pLmvrkcOkBNIutF&skey=89fd952ea8dac949&v=v11#Cuprum",
+      "ttf": "https://fonts.gstatic.com/s/cuprum/v11/dg4k_pLmvrkcOkBNIutH.ttf",
+      "eot": "https://fonts.gstatic.com/s/cuprum/v11/dg4k_pLmvrkcOkBNIutG.eot",
       "errored": false
     },
     {
@@ -30,8 +30,8 @@
         "Cuprum-Italic"
       ],
       "woff2": "https://fonts.gstatic.com/s/cuprum/v11/dg4m_pLmvrkcOkBNI9tEr7k.woff2",
-      "ttf": "https://fonts.gstatic.com/s/cuprum/v11/dg4m_pLmvrkcOkBNI9tEr7w.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=dg4m_pLmvrkcOkBNI9tEr74&skey=e4f5190924c87a50&v=v11#Cuprum",
+      "ttf": "https://fonts.gstatic.com/s/cuprum/v11/dg4m_pLmvrkcOkBNI9tEr7w.ttf",
       "errored": false
     },
     {
@@ -40,52 +40,52 @@
       "fontFamily": "'Cuprum'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff2": "https://fonts.gstatic.com/s/cuprum/v11/dg4n_pLmvrkcOkBFnc5XjJwo.woff2",
+      "woff": "https://fonts.gstatic.com/s/cuprum/v11/dg4n_pLmvrkcOkBFnc5XjJwu.woff",
       "local": [
         "Cuprum Bold",
         "Cuprum-Bold"
       ],
       "svg": "https://fonts.gstatic.com/l/font?kit=dg4n_pLmvrkcOkBFnc5XjJwv&skey=7b6263ce29ee5ae7&v=v11#Cuprum",
-      "woff": "https://fonts.gstatic.com/s/cuprum/v11/dg4n_pLmvrkcOkBFnc5XjJwu.woff",
+      "woff2": "https://fonts.gstatic.com/s/cuprum/v11/dg4n_pLmvrkcOkBFnc5XjJwo.woff2",
       "ttf": "https://fonts.gstatic.com/s/cuprum/v11/dg4n_pLmvrkcOkBFnc5XjJwt.ttf",
       "errored": false
     },
     {
       "id": "700italic",
-      "eot": "https://fonts.gstatic.com/s/cuprum/v11/dg4h_pLmvrkcOkBNI9P7iqwuawM.eot",
+      "woff2": "https://fonts.gstatic.com/s/cuprum/v11/dg4h_pLmvrkcOkBNI9P7iqwuawc.woff2",
       "fontFamily": "'Cuprum'",
       "fontStyle": "italic",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/cuprum/v11/dg4h_pLmvrkcOkBNI9P7iqwuawE.woff",
       "local": [
         "Cuprum Bold Italic",
         "Cuprum-BoldItalic"
       ],
-      "woff2": "https://fonts.gstatic.com/s/cuprum/v11/dg4h_pLmvrkcOkBNI9P7iqwuawc.woff2",
-      "ttf": "https://fonts.gstatic.com/s/cuprum/v11/dg4h_pLmvrkcOkBNI9P7iqwuawI.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=dg4h_pLmvrkcOkBNI9P7iqwuawA&skey=5ed0713c7afd3827&v=v11#Cuprum",
+      "ttf": "https://fonts.gstatic.com/s/cuprum/v11/dg4h_pLmvrkcOkBNI9P7iqwuawI.ttf",
+      "eot": "https://fonts.gstatic.com/s/cuprum/v11/dg4h_pLmvrkcOkBNI9P7iqwuawM.eot",
+      "woff": "https://fonts.gstatic.com/s/cuprum/v11/dg4h_pLmvrkcOkBNI9P7iqwuawE.woff",
       "errored": false
     }
   ],
   "subsets": [
     "vietnamese",
     "latin",
-    "latin-ext",
+    "cyrillic-ext",
     "cyrillic",
-    "cyrillic-ext"
+    "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v11",
   "lastModified": "2019-07-17",
-  "popularity": 105,
+  "popularity": 103,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "vietnamese": false,
     "latin": true,
-    "latin-ext": false,
+    "cyrillic-ext": false,
     "cyrillic": true,
-    "cyrillic-ext": false
+    "latin-ext": false
   },
   "storeID": "cyrillic_latin"
 }

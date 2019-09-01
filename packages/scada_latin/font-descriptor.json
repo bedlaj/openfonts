@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/scada/v8/RLpxK5Pv5qumeVJvzTQ.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=RLpxK5Pv5qumeVJvzTM&skey=53f06583923e86b2&v=v8#Scada",
       "fontFamily": "'Scada'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,42 +12,42 @@
         "Scada Regular",
         "Scada-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=RLpxK5Pv5qumeVJvzTM&skey=53f06583923e86b2&v=v8#Scada",
-      "woff": "https://fonts.gstatic.com/s/scada/v8/RLpxK5Pv5qumeVJvzTI.woff",
       "ttf": "https://fonts.gstatic.com/s/scada/v8/RLpxK5Pv5qumeVJvzTE.ttf",
+      "woff2": "https://fonts.gstatic.com/s/scada/v8/RLpxK5Pv5qumeVJvzTQ.woff2",
+      "woff": "https://fonts.gstatic.com/s/scada/v8/RLpxK5Pv5qumeVJvzTI.woff",
       "eot": "https://fonts.gstatic.com/s/scada/v8/RLpxK5Pv5qumeVJvzTA.eot",
       "errored": false
     },
     {
       "id": "italic",
-      "eot": "https://fonts.gstatic.com/s/scada/v8/RLp_K5Pv5qumeVJq_TYAbg.eot",
+      "ttf": "https://fonts.gstatic.com/s/scada/v8/RLp_K5Pv5qumeVJq_TYAbw.ttf",
       "fontFamily": "'Scada'",
       "fontStyle": "italic",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/scada/v8/RLp_K5Pv5qumeVJq_TYAag.woff2",
       "local": [
         "Scada Italic",
         "Scada-Italic"
       ],
-      "ttf": "https://fonts.gstatic.com/s/scada/v8/RLp_K5Pv5qumeVJq_TYAbw.ttf",
+      "eot": "https://fonts.gstatic.com/s/scada/v8/RLp_K5Pv5qumeVJq_TYAbg.eot",
+      "woff2": "https://fonts.gstatic.com/s/scada/v8/RLp_K5Pv5qumeVJq_TYAag.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=RLp_K5Pv5qumeVJq_TYAbQ&skey=fff7a9fb170d569a&v=v8#Scada",
       "woff": "https://fonts.gstatic.com/s/scada/v8/RLp_K5Pv5qumeVJq_TYAbA.woff",
       "errored": false
     },
     {
       "id": "700",
-      "woff": "https://fonts.gstatic.com/s/scada/v8/RLp8K5Pv5qumeVrU6CEnT1A.woff",
+      "eot": "https://fonts.gstatic.com/s/scada/v8/RLp8K5Pv5qumeVrU6CEnT1I.eot",
       "fontFamily": "'Scada'",
       "fontStyle": "normal",
       "fontWeight": "700",
+      "svg": "https://fonts.gstatic.com/l/font?kit=RLp8K5Pv5qumeVrU6CEnT1E&skey=c007d1874c6c2a77&v=v8#Scada",
       "local": [
         "Scada Bold",
         "Scada-Bold"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=RLp8K5Pv5qumeVrU6CEnT1E&skey=c007d1874c6c2a77&v=v8#Scada",
-      "ttf": "https://fonts.gstatic.com/s/scada/v8/RLp8K5Pv5qumeVrU6CEnT1M.ttf",
-      "eot": "https://fonts.gstatic.com/s/scada/v8/RLp8K5Pv5qumeVrU6CEnT1I.eot",
       "woff2": "https://fonts.gstatic.com/s/scada/v8/RLp8K5Pv5qumeVrU6CEnT1Y.woff2",
+      "woff": "https://fonts.gstatic.com/s/scada/v8/RLp8K5Pv5qumeVrU6CEnT1A.woff",
+      "ttf": "https://fonts.gstatic.com/s/scada/v8/RLp8K5Pv5qumeVrU6CEnT1M.ttf",
       "errored": false
     },
     {
@@ -60,30 +60,30 @@
         "Scada Bold Italic",
         "Scada-BoldItalic"
       ],
-      "eot": "https://fonts.gstatic.com/s/scada/v8/RLp6K5Pv5qumeVJq9Y0lf1TOZA.eot",
-      "woff2": "https://fonts.gstatic.com/s/scada/v8/RLp6K5Pv5qumeVJq9Y0lf1TOYA.woff2",
       "woff": "https://fonts.gstatic.com/s/scada/v8/RLp6K5Pv5qumeVJq9Y0lf1TOZg.woff",
+      "eot": "https://fonts.gstatic.com/s/scada/v8/RLp6K5Pv5qumeVJq9Y0lf1TOZA.eot",
       "ttf": "https://fonts.gstatic.com/s/scada/v8/RLp6K5Pv5qumeVJq9Y0lf1TOZQ.ttf",
+      "woff2": "https://fonts.gstatic.com/s/scada/v8/RLp6K5Pv5qumeVJq9Y0lf1TOYA.woff2",
       "errored": false
     }
   ],
   "subsets": [
     "latin",
-    "latin-ext",
+    "cyrillic-ext",
     "cyrillic",
-    "cyrillic-ext"
+    "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v8",
   "lastModified": "2019-07-16",
-  "popularity": 275,
+  "popularity": 233,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "latin": true,
-    "latin-ext": false,
+    "cyrillic-ext": false,
     "cyrillic": false,
-    "cyrillic-ext": false
+    "latin-ext": false
   },
   "storeID": "latin"
 }

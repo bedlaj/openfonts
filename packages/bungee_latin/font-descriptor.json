@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/bungee/v5/N0bU2SZBIuF2PU_0DXRz.woff",
+      "ttf": "https://fonts.gstatic.com/s/bungee/v5/N0bU2SZBIuF2PU_0DXRw.ttf",
       "fontFamily": "'Bungee'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,9 +12,9 @@
         "Bungee",
         "Bungee-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/bungee/v5/N0bU2SZBIuF2PU_0DXRw.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=N0bU2SZBIuF2PU_0DXRy&skey=2e93db42ee6e0e28&v=v5#Bungee",
       "woff2": "https://fonts.gstatic.com/s/bungee/v5/N0bU2SZBIuF2PU_0DXR1.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=N0bU2SZBIuF2PU_0DXRy&skey=2e93db42ee6e0e28&v=v5#Bungee",
+      "woff": "https://fonts.gstatic.com/s/bungee/v5/N0bU2SZBIuF2PU_0DXRz.woff",
       "eot": "https://fonts.gstatic.com/s/bungee/v5/N0bU2SZBIuF2PU_0DXRx.eot",
       "errored": false
     }
@@ -27,7 +27,7 @@
   "category": "display",
   "version": "v5",
   "lastModified": "2019-07-16",
-  "popularity": 378,
+  "popularity": 375,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Qw3cZQlNHiblL3jPlNFJ&skey=838fd7946900648&v=v7#Rakkas",
+      "woff2": "https://fonts.gstatic.com/s/rakkas/v7/Qw3cZQlNHiblL3jPlNFO.woff2",
       "fontFamily": "'Rakkas'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,28 +12,28 @@
         "Rakkas Regular",
         "Rakkas-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/rakkas/v7/Qw3cZQlNHiblL3jPlNFO.woff2",
-      "ttf": "https://fonts.gstatic.com/s/rakkas/v7/Qw3cZQlNHiblL3jPlNFL.ttf",
-      "woff": "https://fonts.gstatic.com/s/rakkas/v7/Qw3cZQlNHiblL3jPlNFI.woff",
       "eot": "https://fonts.gstatic.com/s/rakkas/v7/Qw3cZQlNHiblL3jPlNFK.eot",
+      "woff": "https://fonts.gstatic.com/s/rakkas/v7/Qw3cZQlNHiblL3jPlNFI.woff",
+      "ttf": "https://fonts.gstatic.com/s/rakkas/v7/Qw3cZQlNHiblL3jPlNFL.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Qw3cZQlNHiblL3jPlNFJ&skey=838fd7946900648&v=v7#Rakkas",
       "errored": false
     }
   ],
   "subsets": [
+    "arabic",
     "latin",
-    "latin-ext",
-    "arabic"
+    "latin-ext"
   ],
   "category": "display",
   "version": "v7",
   "lastModified": "2019-07-16",
-  "popularity": 599,
+  "popularity": 594,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
+    "arabic": true,
     "latin": true,
-    "latin-ext": false,
-    "arabic": true
+    "latin-ext": false
   },
-  "storeID": "arabic_latin"
+  "storeID": "latin_arabic"
 }

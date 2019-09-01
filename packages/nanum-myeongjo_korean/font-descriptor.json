@@ -8,29 +8,13 @@
       "fontFamily": "'Nanum Myeongjo'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "svg": "https://fonts.gstatic.com/l/font?kit=9Btx3DZF0dXLMZlywRbVRNhxy2LmcnI&skey=c8f5ea5084209dd&v=v15#NanumMyeongjo",
+      "woff": "https://fonts.gstatic.com/s/nanummyeongjo/v15/9Btx3DZF0dXLMZlywRbVRNhxy2LmcnM.woff",
       "local": [
         "NanumMyeongjo"
       ],
       "woff2": "https://fonts.gstatic.com/s/nanummyeongjo/v15/9Btx3DZF0dXLMZlywRbVRNhxy2LmcnU.woff2",
-      "woff": "https://fonts.gstatic.com/s/nanummyeongjo/v15/9Btx3DZF0dXLMZlywRbVRNhxy2LmcnM.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=9Btx3DZF0dXLMZlywRbVRNhxy2LmcnI&skey=c8f5ea5084209dd&v=v15#NanumMyeongjo",
       "ttf": "https://fonts.gstatic.com/s/nanummyeongjo/v15/9Btx3DZF0dXLMZlywRbVRNhxy2LmcnA.ttf",
-      "errored": false
-    },
-    {
-      "id": "800",
-      "eot": "https://fonts.gstatic.com/s/nanummyeongjo/v15/9Bty3DZF0dXLMZlywRbVRNhxy2pLVGA5r_U.eot",
-      "fontFamily": "'Nanum Myeongjo'",
-      "fontStyle": "normal",
-      "fontWeight": "800",
-      "svg": "https://fonts.gstatic.com/l/font?kit=9Bty3DZF0dXLMZlywRbVRNhxy2pLVGA5r_Y&skey=7f88cf83bf337c15&v=v15#NanumMyeongjo",
-      "local": [
-        "NanumMyeongjo ExtraBold",
-        "NanumMyeongjoExtraBold"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/nanummyeongjo/v15/9Bty3DZF0dXLMZlywRbVRNhxy2pLVGA5r_E.woff2",
-      "woff": "https://fonts.gstatic.com/s/nanummyeongjo/v15/9Bty3DZF0dXLMZlywRbVRNhxy2pLVGA5r_c.woff",
-      "ttf": "https://fonts.gstatic.com/s/nanummyeongjo/v15/9Bty3DZF0dXLMZlywRbVRNhxy2pLVGA5r_Q.ttf",
       "errored": false
     },
     {
@@ -48,21 +32,37 @@
       "svg": "https://fonts.gstatic.com/l/font?kit=9Bty3DZF0dXLMZlywRbVRNhxy2pXV2A5r_Y&skey=40a011740daa4120&v=v15#NanumMyeongjo",
       "ttf": "https://fonts.gstatic.com/s/nanummyeongjo/v15/9Bty3DZF0dXLMZlywRbVRNhxy2pXV2A5r_Q.ttf",
       "errored": false
+    },
+    {
+      "id": "800",
+      "eot": "https://fonts.gstatic.com/s/nanummyeongjo/v15/9Bty3DZF0dXLMZlywRbVRNhxy2pLVGA5r_U.eot",
+      "fontFamily": "'Nanum Myeongjo'",
+      "fontStyle": "normal",
+      "fontWeight": "800",
+      "svg": "https://fonts.gstatic.com/l/font?kit=9Bty3DZF0dXLMZlywRbVRNhxy2pLVGA5r_Y&skey=7f88cf83bf337c15&v=v15#NanumMyeongjo",
+      "local": [
+        "NanumMyeongjo ExtraBold",
+        "NanumMyeongjoExtraBold"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/nanummyeongjo/v15/9Bty3DZF0dXLMZlywRbVRNhxy2pLVGA5r_Q.ttf",
+      "woff2": "https://fonts.gstatic.com/s/nanummyeongjo/v15/9Bty3DZF0dXLMZlywRbVRNhxy2pLVGA5r_E.woff2",
+      "woff": "https://fonts.gstatic.com/s/nanummyeongjo/v15/9Bty3DZF0dXLMZlywRbVRNhxy2pLVGA5r_c.woff",
+      "errored": false
     }
   ],
   "subsets": [
-    "korean",
-    "latin"
+    "latin",
+    "korean"
   ],
   "category": "serif",
   "version": "v15",
   "lastModified": "2019-07-17",
-  "popularity": 140,
+  "popularity": 148,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "korean": true,
-    "latin": true
+    "latin": true,
+    "korean": true
   },
-  "storeID": "latin_korean"
+  "storeID": "korean_latin"
 }

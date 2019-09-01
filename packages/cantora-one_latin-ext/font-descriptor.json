@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/cantoraone/v9/gyB4hws1JdgnKy56GB_JX5zUbYw.woff",
+      "woff2": "https://fonts.gstatic.com/s/cantoraone/v9/gyB4hws1JdgnKy56GB_JX5zUbYo.woff2",
       "fontFamily": "'Cantora One'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -13,9 +13,9 @@
         "CantoraOne-Regular"
       ],
       "eot": "https://fonts.gstatic.com/s/cantoraone/v9/gyB4hws1JdgnKy56GB_JX5zUbY4.eot",
-      "woff2": "https://fonts.gstatic.com/s/cantoraone/v9/gyB4hws1JdgnKy56GB_JX5zUbYo.woff2",
-      "ttf": "https://fonts.gstatic.com/s/cantoraone/v9/gyB4hws1JdgnKy56GB_JX5zUbY8.ttf",
+      "woff": "https://fonts.gstatic.com/s/cantoraone/v9/gyB4hws1JdgnKy56GB_JX5zUbYw.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=gyB4hws1JdgnKy56GB_JX5zUbY0&skey=e3630653699ec3bd&v=v9#CantoraOne",
+      "ttf": "https://fonts.gstatic.com/s/cantoraone/v9/gyB4hws1JdgnKy56GB_JX5zUbY8.ttf",
       "errored": false
     }
   ],
@@ -26,7 +26,7 @@
   "category": "sans-serif",
   "version": "v9",
   "lastModified": "2019-07-16",
-  "popularity": 515,
+  "popularity": 539,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

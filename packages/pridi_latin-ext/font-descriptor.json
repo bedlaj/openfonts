@@ -4,18 +4,34 @@
   "variants": [
     {
       "id": "200",
-      "woff2": "https://fonts.gstatic.com/s/pridi/v5/2sDdZG5JnZLfkc1SiH0qT0A.woff2",
+      "eot": "https://fonts.gstatic.com/s/pridi/v5/2sDdZG5JnZLfkc1SiH0qT0Q.eot",
       "fontFamily": "'Pridi'",
       "fontStyle": "normal",
       "fontWeight": "200",
+      "woff": "https://fonts.gstatic.com/s/pridi/v5/2sDdZG5JnZLfkc1SiH0qT0Y.woff",
       "local": [
         "Pridi ExtraLight",
         "Pridi-ExtraLight"
       ],
-      "woff": "https://fonts.gstatic.com/s/pridi/v5/2sDdZG5JnZLfkc1SiH0qT0Y.woff",
-      "ttf": "https://fonts.gstatic.com/s/pridi/v5/2sDdZG5JnZLfkc1SiH0qT0U.ttf",
-      "eot": "https://fonts.gstatic.com/s/pridi/v5/2sDdZG5JnZLfkc1SiH0qT0Q.eot",
+      "woff2": "https://fonts.gstatic.com/s/pridi/v5/2sDdZG5JnZLfkc1SiH0qT0A.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=2sDdZG5JnZLfkc1SiH0qT0c&skey=6defbaa5424aa26a&v=v5#Pridi",
+      "ttf": "https://fonts.gstatic.com/s/pridi/v5/2sDdZG5JnZLfkc1SiH0qT0U.ttf",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/pridi/v5/2sDQZG5JnZLfkcWTqWw.eot",
+      "fontFamily": "'Pridi'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/pridi/v5/2sDQZG5JnZLfkcWTqW4.woff",
+      "local": [
+        "Pridi Regular",
+        "Pridi-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/pridi/v5/2sDQZG5JnZLfkcWTqWg.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=2sDQZG5JnZLfkcWTqW8&skey=43d1c43aae7d1f74&v=v5#Pridi",
+      "ttf": "https://fonts.gstatic.com/s/pridi/v5/2sDQZG5JnZLfkcWTqW0.ttf",
       "errored": false
     },
     {
@@ -29,8 +45,8 @@
         "Pridi Light",
         "Pridi-Light"
       ],
-      "ttf": "https://fonts.gstatic.com/s/pridi/v5/2sDdZG5JnZLfkc02i30qT0U.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=2sDdZG5JnZLfkc02i30qT0c&skey=561533c817801d75&v=v5#Pridi",
+      "ttf": "https://fonts.gstatic.com/s/pridi/v5/2sDdZG5JnZLfkc02i30qT0U.ttf",
       "woff": "https://fonts.gstatic.com/s/pridi/v5/2sDdZG5JnZLfkc02i30qT0Y.woff",
       "errored": false
     },
@@ -56,30 +72,14 @@
       "fontFamily": "'Pridi'",
       "fontStyle": "normal",
       "fontWeight": "600",
-      "woff2": "https://fonts.gstatic.com/s/pridi/v5/2sDdZG5JnZLfkc1CjX0qT0A.woff2",
+      "woff": "https://fonts.gstatic.com/s/pridi/v5/2sDdZG5JnZLfkc1CjX0qT0Y.woff",
       "local": [
         "Pridi SemiBold",
         "Pridi-SemiBold"
       ],
-      "woff": "https://fonts.gstatic.com/s/pridi/v5/2sDdZG5JnZLfkc1CjX0qT0Y.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=2sDdZG5JnZLfkc1CjX0qT0c&skey=b825c36542fbd3d3&v=v5#Pridi",
+      "woff2": "https://fonts.gstatic.com/s/pridi/v5/2sDdZG5JnZLfkc1CjX0qT0A.woff2",
       "ttf": "https://fonts.gstatic.com/s/pridi/v5/2sDdZG5JnZLfkc1CjX0qT0U.ttf",
-      "errored": false
-    },
-    {
-      "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/pridi/v5/2sDQZG5JnZLfkcWTqWw.eot",
-      "fontFamily": "'Pridi'",
-      "fontStyle": "normal",
-      "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/pridi/v5/2sDQZG5JnZLfkcWTqW4.woff",
-      "local": [
-        "Pridi Regular",
-        "Pridi-Regular"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/pridi/v5/2sDQZG5JnZLfkcWTqWg.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=2sDQZG5JnZLfkcWTqW8&skey=43d1c43aae7d1f74&v=v5#Pridi",
-      "ttf": "https://fonts.gstatic.com/s/pridi/v5/2sDQZG5JnZLfkcWTqW0.ttf",
       "errored": false
     },
     {
@@ -88,34 +88,34 @@
       "fontFamily": "'Pridi'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/pridi/v5/2sDdZG5JnZLfkc0mjH0qT0Y.woff",
+      "woff2": "https://fonts.gstatic.com/s/pridi/v5/2sDdZG5JnZLfkc0mjH0qT0A.woff2",
       "local": [
         "Pridi Bold",
         "Pridi-Bold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/pridi/v5/2sDdZG5JnZLfkc0mjH0qT0A.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=2sDdZG5JnZLfkc0mjH0qT0c&skey=8dbedb040627946f&v=v5#Pridi",
       "ttf": "https://fonts.gstatic.com/s/pridi/v5/2sDdZG5JnZLfkc0mjH0qT0U.ttf",
+      "woff": "https://fonts.gstatic.com/s/pridi/v5/2sDdZG5JnZLfkc0mjH0qT0Y.woff",
       "errored": false
     }
   ],
   "subsets": [
     "vietnamese",
     "latin",
-    "latin-ext",
-    "thai"
+    "thai",
+    "latin-ext"
   ],
   "category": "serif",
   "version": "v5",
   "lastModified": "2019-07-16",
-  "popularity": 215,
+  "popularity": 205,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "vietnamese": false,
     "latin": true,
-    "latin-ext": true,
-    "thai": false
+    "thai": false,
+    "latin-ext": true
   },
   "storeID": "latin-ext_latin"
 }

@@ -4,54 +4,54 @@
   "variants": [
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Wnz6HAc5bAfYB2Q7azYf&skey=7833cd5b856b60c9&v=v7#Caveat",
+      "eot": "https://fonts.gstatic.com/s/caveat/v7/Wnz6HAc5bAfYB2Q7azYc.eot",
       "fontFamily": "'Caveat'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/caveat/v7/Wnz6HAc5bAfYB2Q7azYe.woff",
       "local": [
         "Caveat Regular",
         "Caveat-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/caveat/v7/Wnz6HAc5bAfYB2Q7azYe.woff",
-      "ttf": "https://fonts.gstatic.com/s/caveat/v7/Wnz6HAc5bAfYB2Q7azYd.ttf",
       "woff2": "https://fonts.gstatic.com/s/caveat/v7/Wnz6HAc5bAfYB2Q7azYY.woff2",
-      "eot": "https://fonts.gstatic.com/s/caveat/v7/Wnz6HAc5bAfYB2Q7azYc.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Wnz6HAc5bAfYB2Q7azYf&skey=7833cd5b856b60c9&v=v7#Caveat",
+      "ttf": "https://fonts.gstatic.com/s/caveat/v7/Wnz6HAc5bAfYB2Q7azYd.ttf",
       "errored": false
     },
     {
       "id": "700",
-      "woff": "https://fonts.gstatic.com/s/caveat/v7/Wnz5HAc5bAfYB2Qz3RMNqC7X.woff",
+      "eot": "https://fonts.gstatic.com/s/caveat/v7/Wnz5HAc5bAfYB2Qz3RMNqC7V.eot",
       "fontFamily": "'Caveat'",
       "fontStyle": "normal",
       "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/caveat/v7/Wnz5HAc5bAfYB2Qz3RMNqC7X.woff",
       "local": [
         "Caveat Bold",
         "Caveat-Bold"
       ],
       "woff2": "https://fonts.gstatic.com/s/caveat/v7/Wnz5HAc5bAfYB2Qz3RMNqC7R.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Wnz5HAc5bAfYB2Qz3RMNqC7W&skey=23f4c72b4f49a52d&v=v7#Caveat",
-      "eot": "https://fonts.gstatic.com/s/caveat/v7/Wnz5HAc5bAfYB2Qz3RMNqC7V.eot",
       "ttf": "https://fonts.gstatic.com/s/caveat/v7/Wnz5HAc5bAfYB2Qz3RMNqC7U.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Wnz5HAc5bAfYB2Qz3RMNqC7W&skey=23f4c72b4f49a52d&v=v7#Caveat",
       "errored": false
     }
   ],
   "subsets": [
     "latin",
-    "latin-ext",
+    "cyrillic-ext",
     "cyrillic",
-    "cyrillic-ext"
+    "latin-ext"
   ],
   "category": "handwriting",
   "version": "v7",
   "lastModified": "2019-07-17",
-  "popularity": 122,
+  "popularity": 119,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "latin": true,
-    "latin-ext": false,
+    "cyrillic-ext": true,
     "cyrillic": false,
-    "cyrillic-ext": true
+    "latin-ext": false
   },
   "storeID": "cyrillic-ext_latin"
 }

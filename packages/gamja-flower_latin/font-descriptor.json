@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=6NUR8FiKJg-Pa0rM6uN40Z4UzvVD&skey=a4227ed69d6a2f43&v=v8#GamjaFlower",
+      "woff2": "https://fonts.gstatic.com/s/gamjaflower/v8/6NUR8FiKJg-Pa0rM6uN40Z4UzvVE.woff2",
       "fontFamily": "'Gamja Flower'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,26 +12,26 @@
         "Gamja Flower Regular",
         "GamjaFlower-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/gamjaflower/v8/6NUR8FiKJg-Pa0rM6uN40Z4UzvVA.eot",
-      "woff": "https://fonts.gstatic.com/s/gamjaflower/v8/6NUR8FiKJg-Pa0rM6uN40Z4UzvVC.woff",
       "ttf": "https://fonts.gstatic.com/s/gamjaflower/v8/6NUR8FiKJg-Pa0rM6uN40Z4UzvVB.ttf",
-      "woff2": "https://fonts.gstatic.com/s/gamjaflower/v8/6NUR8FiKJg-Pa0rM6uN40Z4UzvVE.woff2",
+      "woff": "https://fonts.gstatic.com/s/gamjaflower/v8/6NUR8FiKJg-Pa0rM6uN40Z4UzvVC.woff",
+      "eot": "https://fonts.gstatic.com/s/gamjaflower/v8/6NUR8FiKJg-Pa0rM6uN40Z4UzvVA.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=6NUR8FiKJg-Pa0rM6uN40Z4UzvVD&skey=a4227ed69d6a2f43&v=v8#GamjaFlower",
       "errored": false
     }
   ],
   "subsets": [
-    "korean",
-    "latin"
+    "latin",
+    "korean"
   ],
   "category": "handwriting",
   "version": "v8",
   "lastModified": "2019-07-16",
-  "popularity": 898,
+  "popularity": 904,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "korean": false,
-    "latin": true
+    "latin": true,
+    "korean": false
   },
   "storeID": "latin"
 }

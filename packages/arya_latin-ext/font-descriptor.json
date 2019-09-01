@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/arya/v5/ga6CawNG-HJdxU__-A.woff2",
+      "eot": "https://fonts.gstatic.com/s/arya/v5/ga6CawNG-HJdxU___A.eot",
       "fontFamily": "'Arya'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "ttf": "https://fonts.gstatic.com/s/arya/v5/ga6CawNG-HJdxU___Q.ttf",
       "local": [
         "Arya Regular",
         "Arya-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=ga6CawNG-HJdxU___w&skey=1738d136b939f402&v=v5#Arya",
-      "ttf": "https://fonts.gstatic.com/s/arya/v5/ga6CawNG-HJdxU___Q.ttf",
       "woff": "https://fonts.gstatic.com/s/arya/v5/ga6CawNG-HJdxU___g.woff",
-      "eot": "https://fonts.gstatic.com/s/arya/v5/ga6CawNG-HJdxU___A.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=ga6CawNG-HJdxU___w&skey=1738d136b939f402&v=v5#Arya",
+      "woff2": "https://fonts.gstatic.com/s/arya/v5/ga6CawNG-HJdxU__-A.woff2",
       "errored": false
     },
     {
@@ -24,31 +24,31 @@
       "fontFamily": "'Arya'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "ttf": "https://fonts.gstatic.com/s/arya/v5/ga6NawNG-HJdzfra7baLbA.ttf",
+      "woff": "https://fonts.gstatic.com/s/arya/v5/ga6NawNG-HJdzfra7baLbw.woff",
       "local": [
         "Arya Bold",
         "Arya-Bold"
       ],
       "svg": "https://fonts.gstatic.com/l/font?kit=ga6NawNG-HJdzfra7baLbg&skey=80c71c480b2039a7&v=v5#Arya",
-      "woff": "https://fonts.gstatic.com/s/arya/v5/ga6NawNG-HJdzfra7baLbw.woff",
       "woff2": "https://fonts.gstatic.com/s/arya/v5/ga6NawNG-HJdzfra7baLaQ.woff2",
+      "ttf": "https://fonts.gstatic.com/s/arya/v5/ga6NawNG-HJdzfra7baLbA.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
     "devanagari",
+    "latin",
     "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v5",
   "lastModified": "2019-07-16",
-  "popularity": 647,
+  "popularity": 630,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
     "devanagari": false,
+    "latin": true,
     "latin-ext": true
   },
   "storeID": "latin-ext_latin"

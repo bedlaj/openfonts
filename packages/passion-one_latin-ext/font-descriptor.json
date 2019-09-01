@@ -4,39 +4,23 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/passionone/v10/PbynFmL8HhTPqbjUzux3JEuf9ls.woff2",
+      "eot": "https://fonts.gstatic.com/s/passionone/v10/PbynFmL8HhTPqbjUzux3JEuf9l8.eot",
       "fontFamily": "'Passion One'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/passionone/v10/PbynFmL8HhTPqbjUzux3JEuf9ls.woff2",
       "local": [
         "Passion One Regular",
         "PassionOne-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=PbynFmL8HhTPqbjUzux3JEuf9lw&skey=36208c49537b53f2&v=v10#PassionOne",
-      "eot": "https://fonts.gstatic.com/s/passionone/v10/PbynFmL8HhTPqbjUzux3JEuf9l8.eot",
       "woff": "https://fonts.gstatic.com/s/passionone/v10/PbynFmL8HhTPqbjUzux3JEuf9l0.woff",
       "ttf": "https://fonts.gstatic.com/s/passionone/v10/PbynFmL8HhTPqbjUzux3JEuf9l4.ttf",
-      "errored": false
-    },
-    {
-      "id": "900",
-      "woff": "https://fonts.gstatic.com/s/passionone/v10/Pby6FmL8HhTPqbjUzux3JEMS0U7hyJE.woff",
-      "fontFamily": "'Passion One'",
-      "fontStyle": "normal",
-      "fontWeight": "900",
-      "local": [
-        "Passion One Black",
-        "PassionOne-Black"
-      ],
-      "eot": "https://fonts.gstatic.com/s/passionone/v10/Pby6FmL8HhTPqbjUzux3JEMS0U7hyJM.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Pby6FmL8HhTPqbjUzux3JEMS0U7hyJA&skey=8340617b2b6408a3&v=v10#PassionOne",
-      "ttf": "https://fonts.gstatic.com/s/passionone/v10/Pby6FmL8HhTPqbjUzux3JEMS0U7hyJI.ttf",
-      "woff2": "https://fonts.gstatic.com/s/passionone/v10/Pby6FmL8HhTPqbjUzux3JEMS0U7hyJc.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=PbynFmL8HhTPqbjUzux3JEuf9lw&skey=36208c49537b53f2&v=v10#PassionOne",
       "errored": false
     },
     {
       "id": "700",
-      "ttf": "https://fonts.gstatic.com/s/passionone/v10/Pby6FmL8HhTPqbjUzux3JEMq007hyJI.ttf",
+      "woff2": "https://fonts.gstatic.com/s/passionone/v10/Pby6FmL8HhTPqbjUzux3JEMq007hyJc.woff2",
       "fontFamily": "'Passion One'",
       "fontStyle": "normal",
       "fontWeight": "700",
@@ -44,10 +28,26 @@
         "Passion One Bold",
         "PassionOne-Bold"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=Pby6FmL8HhTPqbjUzux3JEMq007hyJA&skey=2010b1f537e24c19&v=v10#PassionOne",
-      "woff": "https://fonts.gstatic.com/s/passionone/v10/Pby6FmL8HhTPqbjUzux3JEMq007hyJE.woff",
-      "woff2": "https://fonts.gstatic.com/s/passionone/v10/Pby6FmL8HhTPqbjUzux3JEMq007hyJc.woff2",
       "eot": "https://fonts.gstatic.com/s/passionone/v10/Pby6FmL8HhTPqbjUzux3JEMq007hyJM.eot",
+      "woff": "https://fonts.gstatic.com/s/passionone/v10/Pby6FmL8HhTPqbjUzux3JEMq007hyJE.woff",
+      "ttf": "https://fonts.gstatic.com/s/passionone/v10/Pby6FmL8HhTPqbjUzux3JEMq007hyJI.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Pby6FmL8HhTPqbjUzux3JEMq007hyJA&skey=2010b1f537e24c19&v=v10#PassionOne",
+      "errored": false
+    },
+    {
+      "id": "900",
+      "woff2": "https://fonts.gstatic.com/s/passionone/v10/Pby6FmL8HhTPqbjUzux3JEMS0U7hyJc.woff2",
+      "fontFamily": "'Passion One'",
+      "fontStyle": "normal",
+      "fontWeight": "900",
+      "local": [
+        "Passion One Black",
+        "PassionOne-Black"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/passionone/v10/Pby6FmL8HhTPqbjUzux3JEMS0U7hyJI.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Pby6FmL8HhTPqbjUzux3JEMS0U7hyJA&skey=8340617b2b6408a3&v=v10#PassionOne",
+      "eot": "https://fonts.gstatic.com/s/passionone/v10/Pby6FmL8HhTPqbjUzux3JEMS0U7hyJM.eot",
+      "woff": "https://fonts.gstatic.com/s/passionone/v10/Pby6FmL8HhTPqbjUzux3JEMS0U7hyJE.woff",
       "errored": false
     }
   ],
@@ -58,7 +58,7 @@
   "category": "display",
   "version": "v10",
   "lastModified": "2019-07-16",
-  "popularity": 156,
+  "popularity": 143,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

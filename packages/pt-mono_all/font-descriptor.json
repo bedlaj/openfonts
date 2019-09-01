@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/ptmono/v7/9oRONYoBnWILk-9ArCs.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=9oRONYoBnWILk-9ArCo&skey=a4defc8e382ed677&v=v7#PTMono",
       "fontFamily": "'PT Mono'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -13,29 +13,29 @@
         "PTMono-Regular"
       ],
       "woff2": "https://fonts.gstatic.com/s/ptmono/v7/9oRONYoBnWILk-9ArC0.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=9oRONYoBnWILk-9ArCo&skey=a4defc8e382ed677&v=v7#PTMono",
       "ttf": "https://fonts.gstatic.com/s/ptmono/v7/9oRONYoBnWILk-9ArCg.ttf",
       "eot": "https://fonts.gstatic.com/s/ptmono/v7/9oRONYoBnWILk-9ArCk.eot",
+      "woff": "https://fonts.gstatic.com/s/ptmono/v7/9oRONYoBnWILk-9ArCs.woff",
       "errored": false
     }
   ],
   "subsets": [
     "latin",
-    "latin-ext",
+    "cyrillic-ext",
     "cyrillic",
-    "cyrillic-ext"
+    "latin-ext"
   ],
   "category": "monospace",
   "version": "v7",
   "lastModified": "2019-07-16",
-  "popularity": 223,
+  "popularity": 230,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "latin": true,
-    "latin-ext": true,
+    "cyrillic-ext": true,
     "cyrillic": true,
-    "cyrillic-ext": true
+    "latin-ext": true
   },
-  "storeID": "cyrillic-ext_cyrillic_latin-ext_latin"
+  "storeID": "latin-ext_cyrillic_cyrillic-ext_latin"
 }

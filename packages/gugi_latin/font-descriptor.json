@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/gugi/v8/A2BVn5dXywshZAmK8w.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=A2BVn5dXywshZAmK8g&skey=207df05a0760ad00&v=v8#Gugi",
       "fontFamily": "'Gugi'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,26 +12,26 @@
         "Gugi Regular",
         "Gugi-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/gugi/v8/A2BVn5dXywshZAmK8A.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=A2BVn5dXywshZAmK8g&skey=207df05a0760ad00&v=v8#Gugi",
       "eot": "https://fonts.gstatic.com/s/gugi/v8/A2BVn5dXywshZAmK8Q.eot",
+      "woff": "https://fonts.gstatic.com/s/gugi/v8/A2BVn5dXywshZAmK8w.woff",
+      "ttf": "https://fonts.gstatic.com/s/gugi/v8/A2BVn5dXywshZAmK8A.ttf",
       "woff2": "https://fonts.gstatic.com/s/gugi/v8/A2BVn5dXywshZAmK9Q.woff2",
       "errored": false
     }
   ],
   "subsets": [
-    "korean",
-    "latin"
+    "latin",
+    "korean"
   ],
   "category": "display",
   "version": "v8",
   "lastModified": "2019-07-16",
-  "popularity": 662,
+  "popularity": 654,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "korean": false,
-    "latin": true
+    "latin": true,
+    "korean": false
   },
   "storeID": "latin"
 }

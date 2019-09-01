@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Wnz9HAw9aB_JD2VGQVR80We3LA2Jjw&skey=b5c43dfa07efda99&v=v11#GentiumBasic",
+      "ttf": "https://fonts.gstatic.com/s/gentiumbasic/v11/Wnz9HAw9aB_JD2VGQVR80We3LA2JjQ.ttf",
       "fontFamily": "'Gentium Basic'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,26 +12,10 @@
         "Gentium Basic",
         "GentiumBasic"
       ],
-      "woff": "https://fonts.gstatic.com/s/gentiumbasic/v11/Wnz9HAw9aB_JD2VGQVR80We3LA2Jjg.woff",
       "eot": "https://fonts.gstatic.com/s/gentiumbasic/v11/Wnz9HAw9aB_JD2VGQVR80We3LA2JjA.eot",
+      "woff": "https://fonts.gstatic.com/s/gentiumbasic/v11/Wnz9HAw9aB_JD2VGQVR80We3LA2Jjg.woff",
       "woff2": "https://fonts.gstatic.com/s/gentiumbasic/v11/Wnz9HAw9aB_JD2VGQVR80We3LA2JiA.woff2",
-      "ttf": "https://fonts.gstatic.com/s/gentiumbasic/v11/Wnz9HAw9aB_JD2VGQVR80We3LA2JjQ.ttf",
-      "errored": false
-    },
-    {
-      "id": "italic",
-      "svg": "https://fonts.gstatic.com/l/font?kit=WnzjHAw9aB_JD2VGQVR80We3LAi5iho8&skey=470b462549031946&v=v11#GentiumBasic",
-      "fontFamily": "'Gentium Basic'",
-      "fontStyle": "italic",
-      "fontWeight": "400",
-      "local": [
-        "Gentium Basic Italic",
-        "GentiumBasic-Italic"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/gentiumbasic/v11/WnzjHAw9aB_JD2VGQVR80We3LAi5iho7.woff2",
-      "ttf": "https://fonts.gstatic.com/s/gentiumbasic/v11/WnzjHAw9aB_JD2VGQVR80We3LAi5iho-.ttf",
-      "woff": "https://fonts.gstatic.com/s/gentiumbasic/v11/WnzjHAw9aB_JD2VGQVR80We3LAi5iho9.woff",
-      "eot": "https://fonts.gstatic.com/s/gentiumbasic/v11/WnzjHAw9aB_JD2VGQVR80We3LAi5iho_.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Wnz9HAw9aB_JD2VGQVR80We3LA2Jjw&skey=b5c43dfa07efda99&v=v11#GentiumBasic",
       "errored": false
     },
     {
@@ -46,8 +30,8 @@
         "GentiumBasic-Bold"
       ],
       "woff2": "https://fonts.gstatic.com/s/gentiumbasic/v11/WnzgHAw9aB_JD2VGQVR80We3JLasnT0ebQ.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=WnzgHAw9aB_JD2VGQVR80We3JLasnT0eag&skey=2883f05f34134ff6&v=v11#GentiumBasic",
       "ttf": "https://fonts.gstatic.com/s/gentiumbasic/v11/WnzgHAw9aB_JD2VGQVR80We3JLasnT0eaA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=WnzgHAw9aB_JD2VGQVR80We3JLasnT0eag&skey=2883f05f34134ff6&v=v11#GentiumBasic",
       "errored": false
     },
     {
@@ -60,10 +44,26 @@
         "Gentium Basic Bold Italic",
         "GentiumBasic-BoldItalic"
       ],
-      "woff2": "https://fonts.gstatic.com/s/gentiumbasic/v11/WnzmHAw9aB_JD2VGQVR80We3LAixMT8ub6KM.woff2",
       "eot": "https://fonts.gstatic.com/s/gentiumbasic/v11/WnzmHAw9aB_JD2VGQVR80We3LAixMT8ub6KI.eot",
+      "woff2": "https://fonts.gstatic.com/s/gentiumbasic/v11/WnzmHAw9aB_JD2VGQVR80We3LAixMT8ub6KM.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=WnzmHAw9aB_JD2VGQVR80We3LAixMT8ub6KL&skey=ed279e75f2d6c22f&v=v11#GentiumBasic",
       "ttf": "https://fonts.gstatic.com/s/gentiumbasic/v11/WnzmHAw9aB_JD2VGQVR80We3LAixMT8ub6KJ.ttf",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "woff2": "https://fonts.gstatic.com/s/gentiumbasic/v11/WnzjHAw9aB_JD2VGQVR80We3LAi5iho7.woff2",
+      "fontFamily": "'Gentium Basic'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "local": [
+        "Gentium Basic Italic",
+        "GentiumBasic-Italic"
+      ],
+      "woff": "https://fonts.gstatic.com/s/gentiumbasic/v11/WnzjHAw9aB_JD2VGQVR80We3LAi5iho9.woff",
+      "ttf": "https://fonts.gstatic.com/s/gentiumbasic/v11/WnzjHAw9aB_JD2VGQVR80We3LAi5iho-.ttf",
+      "eot": "https://fonts.gstatic.com/s/gentiumbasic/v11/WnzjHAw9aB_JD2VGQVR80We3LAi5iho_.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=WnzjHAw9aB_JD2VGQVR80We3LAi5iho8&skey=470b462549031946&v=v11#GentiumBasic",
       "errored": false
     }
   ],
@@ -74,7 +74,7 @@
   "category": "serif",
   "version": "v11",
   "lastModified": "2019-07-16",
-  "popularity": 199,
+  "popularity": 210,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

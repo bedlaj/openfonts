@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/headlandone/v7/yYLu0hHR2vKnp89Tk1TCq3TB2fNX.ttf",
+      "woff": "https://fonts.gstatic.com/s/headlandone/v7/yYLu0hHR2vKnp89Tk1TCq3TB2fNU.woff",
       "fontFamily": "'Headland One'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,9 +12,9 @@
         "Headland One",
         "HeadlandOne-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/headlandone/v7/yYLu0hHR2vKnp89Tk1TCq3TB2fNU.woff",
-      "woff2": "https://fonts.gstatic.com/s/headlandone/v7/yYLu0hHR2vKnp89Tk1TCq3TB2fNS.woff2",
       "eot": "https://fonts.gstatic.com/s/headlandone/v7/yYLu0hHR2vKnp89Tk1TCq3TB2fNW.eot",
+      "woff2": "https://fonts.gstatic.com/s/headlandone/v7/yYLu0hHR2vKnp89Tk1TCq3TB2fNS.woff2",
+      "ttf": "https://fonts.gstatic.com/s/headlandone/v7/yYLu0hHR2vKnp89Tk1TCq3TB2fNX.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=yYLu0hHR2vKnp89Tk1TCq3TB2fNV&skey=8cb712da05e7381c&v=v7#HeadlandOne",
       "errored": false
     }
@@ -26,7 +26,7 @@
   "category": "serif",
   "version": "v7",
   "lastModified": "2019-07-16",
-  "popularity": 568,
+  "popularity": 566,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

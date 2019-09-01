@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/homenaje/v9/FwZY7-Q-xVAi_l-6Le6H6Mw.ttf",
+      "woff": "https://fonts.gstatic.com/s/homenaje/v9/FwZY7-Q-xVAi_l-6Le6H6M8.woff",
       "fontFamily": "'Homenaje'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Homenaje Regular",
         "Homenaje-Regular"
       ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=FwZY7-Q-xVAi_l-6Le6H6M4&skey=9b887fa224ab3cec&v=v9#Homenaje",
       "woff2": "https://fonts.gstatic.com/s/homenaje/v9/FwZY7-Q-xVAi_l-6Le6H6Mk.woff2",
       "eot": "https://fonts.gstatic.com/s/homenaje/v9/FwZY7-Q-xVAi_l-6Le6H6M0.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=FwZY7-Q-xVAi_l-6Le6H6M4&skey=9b887fa224ab3cec&v=v9#Homenaje",
-      "woff": "https://fonts.gstatic.com/s/homenaje/v9/FwZY7-Q-xVAi_l-6Le6H6M8.woff",
+      "ttf": "https://fonts.gstatic.com/s/homenaje/v9/FwZY7-Q-xVAi_l-6Le6H6Mw.ttf",
       "errored": false
     }
   ],
@@ -25,7 +25,7 @@
   "category": "sans-serif",
   "version": "v9",
   "lastModified": "2019-07-16",
-  "popularity": 456,
+  "popularity": 459,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

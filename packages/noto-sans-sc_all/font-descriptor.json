@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "100",
-      "woff": "https://fonts.gstatic.com/s/notosanssc/v9/k3kJo84MPvpLmixcA63oeALZTYKO.woff",
+      "woff2": "https://fonts.gstatic.com/s/notosanssc/v9/k3kJo84MPvpLmixcA63oeALZTYKI.woff2",
       "fontFamily": "'Noto Sans SC'",
       "fontStyle": "normal",
       "fontWeight": "100",
@@ -14,7 +14,22 @@
       ],
       "eot": "https://fonts.gstatic.com/s/notosanssc/v9/k3kJo84MPvpLmixcA63oeALZTYKM.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=k3kJo84MPvpLmixcA63oeALZTYKP&skey=2c088e9d7432444&v=v9#NotoSansSC",
-      "woff2": "https://fonts.gstatic.com/s/notosanssc/v9/k3kJo84MPvpLmixcA63oeALZTYKI.woff2",
+      "woff": "https://fonts.gstatic.com/s/notosanssc/v9/k3kJo84MPvpLmixcA63oeALZTYKO.woff",
+      "errored": false
+    },
+    {
+      "id": "300",
+      "woff": "https://fonts.gstatic.com/s/notosanssc/v9/k3kIo84MPvpLmixcA63oeALZhaCt8g.woff",
+      "fontFamily": "'Noto Sans SC'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "local": [
+        "Noto Sans SC Light",
+        "NotoSansSC-Light"
+      ],
+      "eot": "https://fonts.gstatic.com/s/notosanssc/v9/k3kIo84MPvpLmixcA63oeALZhaCt8A.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=k3kIo84MPvpLmixcA63oeALZhaCt8w&skey=f4a268e2294618a0&v=v9#NotoSansSC",
+      "woff2": "https://fonts.gstatic.com/s/notosanssc/v9/k3kIo84MPvpLmixcA63oeALZhaCt9A.woff2",
       "errored": false
     },
     {
@@ -23,71 +38,56 @@
       "fontFamily": "'Noto Sans SC'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/notosanssc/v9/k3kXo84MPvpLmixcA63oeALhKg.woff",
+      "woff2": "https://fonts.gstatic.com/s/notosanssc/v9/k3kXo84MPvpLmixcA63oeALhLA.woff2",
       "local": [
         "Noto Sans SC Regular",
         "NotoSansSC-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/notosanssc/v9/k3kXo84MPvpLmixcA63oeALhLA.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=k3kXo84MPvpLmixcA63oeALhKw&skey=cf0bb10b5602fdc3&v=v9#NotoSansSC",
+      "woff": "https://fonts.gstatic.com/s/notosanssc/v9/k3kXo84MPvpLmixcA63oeALhKg.woff",
       "errored": false
     },
     {
       "id": "500",
-      "eot": "https://fonts.gstatic.com/s/notosanssc/v9/k3kIo84MPvpLmixcA63oeALZ3aGt8A.eot",
+      "woff2": "https://fonts.gstatic.com/s/notosanssc/v9/k3kIo84MPvpLmixcA63oeALZ3aGt9A.woff2",
       "fontFamily": "'Noto Sans SC'",
       "fontStyle": "normal",
       "fontWeight": "500",
-      "woff2": "https://fonts.gstatic.com/s/notosanssc/v9/k3kIo84MPvpLmixcA63oeALZ3aGt9A.woff2",
       "local": [
         "Noto Sans SC Medium",
         "NotoSansSC-Medium"
       ],
-      "woff": "https://fonts.gstatic.com/s/notosanssc/v9/k3kIo84MPvpLmixcA63oeALZ3aGt8g.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=k3kIo84MPvpLmixcA63oeALZ3aGt8w&skey=80663169997273a5&v=v9#NotoSansSC",
-      "errored": false
-    },
-    {
-      "id": "300",
-      "woff2": "https://fonts.gstatic.com/s/notosanssc/v9/k3kIo84MPvpLmixcA63oeALZhaCt9A.woff2",
-      "fontFamily": "'Noto Sans SC'",
-      "fontStyle": "normal",
-      "fontWeight": "300",
-      "local": [
-        "Noto Sans SC Light",
-        "NotoSansSC-Light"
-      ],
-      "woff": "https://fonts.gstatic.com/s/notosanssc/v9/k3kIo84MPvpLmixcA63oeALZhaCt8g.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=k3kIo84MPvpLmixcA63oeALZhaCt8w&skey=f4a268e2294618a0&v=v9#NotoSansSC",
-      "eot": "https://fonts.gstatic.com/s/notosanssc/v9/k3kIo84MPvpLmixcA63oeALZhaCt8A.eot",
+      "eot": "https://fonts.gstatic.com/s/notosanssc/v9/k3kIo84MPvpLmixcA63oeALZ3aGt8A.eot",
+      "woff": "https://fonts.gstatic.com/s/notosanssc/v9/k3kIo84MPvpLmixcA63oeALZ3aGt8g.woff",
       "errored": false
     },
     {
       "id": "700",
-      "woff": "https://fonts.gstatic.com/s/notosanssc/v9/k3kIo84MPvpLmixcA63oeALZlaet8g.woff",
+      "eot": "https://fonts.gstatic.com/s/notosanssc/v9/k3kIo84MPvpLmixcA63oeALZlaet8A.eot",
       "fontFamily": "'Noto Sans SC'",
       "fontStyle": "normal",
       "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/notosanssc/v9/k3kIo84MPvpLmixcA63oeALZlaet8g.woff",
       "local": [
         "Noto Sans SC Bold",
         "NotoSansSC-Bold"
       ],
-      "eot": "https://fonts.gstatic.com/s/notosanssc/v9/k3kIo84MPvpLmixcA63oeALZlaet8A.eot",
-      "woff2": "https://fonts.gstatic.com/s/notosanssc/v9/k3kIo84MPvpLmixcA63oeALZlaet9A.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=k3kIo84MPvpLmixcA63oeALZlaet8w&skey=1685d19e676f33b8&v=v9#NotoSansSC",
+      "woff2": "https://fonts.gstatic.com/s/notosanssc/v9/k3kIo84MPvpLmixcA63oeALZlaet9A.woff2",
       "errored": false
     },
     {
       "id": "900",
-      "eot": "https://fonts.gstatic.com/s/notosanssc/v9/k3kIo84MPvpLmixcA63oeALZraWt8A.eot",
+      "woff": "https://fonts.gstatic.com/s/notosanssc/v9/k3kIo84MPvpLmixcA63oeALZraWt8g.woff",
       "fontFamily": "'Noto Sans SC'",
       "fontStyle": "normal",
       "fontWeight": "900",
-      "woff": "https://fonts.gstatic.com/s/notosanssc/v9/k3kIo84MPvpLmixcA63oeALZraWt8g.woff",
       "local": [
         "Noto Sans SC Black",
         "NotoSansSC-Black"
       ],
+      "eot": "https://fonts.gstatic.com/s/notosanssc/v9/k3kIo84MPvpLmixcA63oeALZraWt8A.eot",
       "woff2": "https://fonts.gstatic.com/s/notosanssc/v9/k3kIo84MPvpLmixcA63oeALZraWt9A.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=k3kIo84MPvpLmixcA63oeALZraWt8w&skey=f81247bb9424f4f9&v=v9#NotoSansSC",
       "errored": false
@@ -95,21 +95,21 @@
   ],
   "subsets": [
     "vietnamese",
+    "chinese-simplified",
     "latin",
-    "cyrillic",
-    "chinese-simplified"
+    "cyrillic"
   ],
   "category": "sans-serif",
   "version": "v9",
   "lastModified": "2019-07-17",
-  "popularity": 74,
+  "popularity": 75,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "vietnamese": true,
+    "chinese-simplified": true,
     "latin": true,
-    "cyrillic": true,
-    "chinese-simplified": true
+    "cyrillic": true
   },
-  "storeID": "chinese-simplified_cyrillic_latin_vietnamese"
+  "storeID": "cyrillic_latin_chinese-simplified_vietnamese"
 }

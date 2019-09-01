@@ -4,26 +4,14 @@
   "variants": [
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=or38Q6P12-iJxAIgLa78DkTtAoDhk0oVpaLlYp5R&skey=e5398b3698d0752&v=v9#Literata",
+      "ttf": "https://fonts.gstatic.com/s/literata/v9/or38Q6P12-iJxAIgLa78DkTtAoDhk0oVpaLlYp5T.ttf",
       "fontFamily": "'Literata'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "eot": "https://fonts.gstatic.com/s/literata/v9/or38Q6P12-iJxAIgLa78DkTtAoDhk0oVpaLlYp5S.eot",
       "woff": "https://fonts.gstatic.com/s/literata/v9/or38Q6P12-iJxAIgLa78DkTtAoDhk0oVpaLlYp5Q.woff",
-      "ttf": "https://fonts.gstatic.com/s/literata/v9/or38Q6P12-iJxAIgLa78DkTtAoDhk0oVpaLlYp5T.ttf",
+      "eot": "https://fonts.gstatic.com/s/literata/v9/or38Q6P12-iJxAIgLa78DkTtAoDhk0oVpaLlYp5S.eot",
       "woff2": "https://fonts.gstatic.com/s/literata/v9/or38Q6P12-iJxAIgLa78DkTtAoDhk0oVpaLlYp5W.woff2",
-      "errored": false
-    },
-    {
-      "id": "italic",
-      "svg": "https://fonts.gstatic.com/l/font?kit=or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeE9KK5a5C4&skey=7ce582f541f3de8d&v=v9#Literata",
-      "fontFamily": "'Literata'",
-      "fontStyle": "italic",
-      "fontWeight": "400",
-      "ttf": "https://fonts.gstatic.com/s/literata/v9/or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeE9KK5a5Cw.ttf",
-      "woff2": "https://fonts.gstatic.com/s/literata/v9/or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeE9KK5a5Ck.woff2",
-      "eot": "https://fonts.gstatic.com/s/literata/v9/or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeE9KK5a5C0.eot",
-      "woff": "https://fonts.gstatic.com/s/literata/v9/or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeE9KK5a5C8.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=or38Q6P12-iJxAIgLa78DkTtAoDhk0oVpaLlYp5R&skey=e5398b3698d0752&v=v9#Literata",
       "errored": false
     },
     {
@@ -32,10 +20,22 @@
       "fontFamily": "'Literata'",
       "fontStyle": "normal",
       "fontWeight": "500",
-      "woff2": "https://fonts.gstatic.com/s/literata/v9/or38Q6P12-iJxAIgLa78DkTtAoDhk0oVl6LlYp5W.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=or38Q6P12-iJxAIgLa78DkTtAoDhk0oVl6LlYp5R&skey=e5398b3698d0752&v=v9#Literata",
       "woff": "https://fonts.gstatic.com/s/literata/v9/or38Q6P12-iJxAIgLa78DkTtAoDhk0oVl6LlYp5Q.woff",
+      "woff2": "https://fonts.gstatic.com/s/literata/v9/or38Q6P12-iJxAIgLa78DkTtAoDhk0oVl6LlYp5W.woff2",
       "ttf": "https://fonts.gstatic.com/s/literata/v9/or38Q6P12-iJxAIgLa78DkTtAoDhk0oVl6LlYp5T.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=or38Q6P12-iJxAIgLa78DkTtAoDhk0oVl6LlYp5R&skey=e5398b3698d0752&v=v9#Literata",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "woff": "https://fonts.gstatic.com/s/literata/v9/or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeE9KK5a5C8.woff",
+      "fontFamily": "'Literata'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/literata/v9/or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeE9KK5a5Ck.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeE9KK5a5C4&skey=7ce582f541f3de8d&v=v9#Literata",
+      "eot": "https://fonts.gstatic.com/s/literata/v9/or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeE9KK5a5C0.eot",
+      "ttf": "https://fonts.gstatic.com/s/literata/v9/or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeE9KK5a5Cw.ttf",
       "errored": false
     },
     {
@@ -45,21 +45,9 @@
       "fontStyle": "italic",
       "fontWeight": "500",
       "woff2": "https://fonts.gstatic.com/s/literata/v9/or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeEPKK5a5Ck.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeEPKK5a5C4&skey=7ce582f541f3de8d&v=v9#Literata",
-      "ttf": "https://fonts.gstatic.com/s/literata/v9/or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeEPKK5a5Cw.ttf",
       "woff": "https://fonts.gstatic.com/s/literata/v9/or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeEPKK5a5C8.woff",
-      "errored": false
-    },
-    {
-      "id": "600italic",
-      "eot": "https://fonts.gstatic.com/s/literata/v9/or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeHjL65a5C0.eot",
-      "fontFamily": "'Literata'",
-      "fontStyle": "italic",
-      "fontWeight": "600",
-      "woff": "https://fonts.gstatic.com/s/literata/v9/or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeHjL65a5C8.woff",
-      "ttf": "https://fonts.gstatic.com/s/literata/v9/or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeHjL65a5Cw.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeHjL65a5C4&skey=7ce582f541f3de8d&v=v9#Literata",
-      "woff2": "https://fonts.gstatic.com/s/literata/v9/or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeHjL65a5Ck.woff2",
+      "ttf": "https://fonts.gstatic.com/s/literata/v9/or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeEPKK5a5Cw.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeEPKK5a5C4&skey=7ce582f541f3de8d&v=v9#Literata",
       "errored": false
     },
     {
@@ -68,22 +56,10 @@
       "fontFamily": "'Literata'",
       "fontStyle": "normal",
       "fontWeight": "600",
-      "svg": "https://fonts.gstatic.com/l/font?kit=or38Q6P12-iJxAIgLa78DkTtAoDhk0oVe6XlYp5R&skey=e5398b3698d0752&v=v9#Literata",
-      "ttf": "https://fonts.gstatic.com/s/literata/v9/or38Q6P12-iJxAIgLa78DkTtAoDhk0oVe6XlYp5T.ttf",
       "woff": "https://fonts.gstatic.com/s/literata/v9/or38Q6P12-iJxAIgLa78DkTtAoDhk0oVe6XlYp5Q.woff",
       "woff2": "https://fonts.gstatic.com/s/literata/v9/or38Q6P12-iJxAIgLa78DkTtAoDhk0oVe6XlYp5W.woff2",
-      "errored": false
-    },
-    {
-      "id": "700italic",
-      "woff": "https://fonts.gstatic.com/s/literata/v9/or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeHaL65a5C8.woff",
-      "fontFamily": "'Literata'",
-      "fontStyle": "italic",
-      "fontWeight": "700",
-      "woff2": "https://fonts.gstatic.com/s/literata/v9/or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeHaL65a5Ck.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeHaL65a5C4&skey=7ce582f541f3de8d&v=v9#Literata",
-      "ttf": "https://fonts.gstatic.com/s/literata/v9/or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeHaL65a5Cw.ttf",
-      "eot": "https://fonts.gstatic.com/s/literata/v9/or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeHaL65a5C0.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=or38Q6P12-iJxAIgLa78DkTtAoDhk0oVe6XlYp5R&skey=e5398b3698d0752&v=v9#Literata",
+      "ttf": "https://fonts.gstatic.com/s/literata/v9/or38Q6P12-iJxAIgLa78DkTtAoDhk0oVe6XlYp5T.ttf",
       "errored": false
     },
     {
@@ -97,29 +73,53 @@
       "svg": "https://fonts.gstatic.com/l/font?kit=or38Q6P12-iJxAIgLa78DkTtAoDhk0oVQqXlYp5R&skey=e5398b3698d0752&v=v9#Literata",
       "ttf": "https://fonts.gstatic.com/s/literata/v9/or38Q6P12-iJxAIgLa78DkTtAoDhk0oVQqXlYp5T.ttf",
       "errored": false
+    },
+    {
+      "id": "600italic",
+      "woff": "https://fonts.gstatic.com/s/literata/v9/or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeHjL65a5C8.woff",
+      "fontFamily": "'Literata'",
+      "fontStyle": "italic",
+      "fontWeight": "600",
+      "svg": "https://fonts.gstatic.com/l/font?kit=or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeHjL65a5C4&skey=7ce582f541f3de8d&v=v9#Literata",
+      "ttf": "https://fonts.gstatic.com/s/literata/v9/or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeHjL65a5Cw.ttf",
+      "eot": "https://fonts.gstatic.com/s/literata/v9/or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeHjL65a5C0.eot",
+      "woff2": "https://fonts.gstatic.com/s/literata/v9/or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeHjL65a5Ck.woff2",
+      "errored": false
+    },
+    {
+      "id": "700italic",
+      "eot": "https://fonts.gstatic.com/s/literata/v9/or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeHaL65a5C0.eot",
+      "fontFamily": "'Literata'",
+      "fontStyle": "italic",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/literata/v9/or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeHaL65a5C8.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeHaL65a5C4&skey=7ce582f541f3de8d&v=v9#Literata",
+      "ttf": "https://fonts.gstatic.com/s/literata/v9/or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeHaL65a5Cw.ttf",
+      "woff2": "https://fonts.gstatic.com/s/literata/v9/or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeHaL65a5Ck.woff2",
+      "errored": false
     }
   ],
   "subsets": [
+    "greek",
     "greek-ext",
     "vietnamese",
-    "greek",
     "latin",
-    "latin-ext",
-    "cyrillic"
+    "cyrillic",
+    "latin-ext"
   ],
   "category": "serif",
   "version": "v9",
   "lastModified": "2019-08-27",
-  "popularity": 781,
+  "popularity": 796,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
+    "greek": false,
     "greek-ext": false,
     "vietnamese": false,
-    "greek": false,
     "latin": true,
-    "latin-ext": true,
-    "cyrillic": false
+    "cyrillic": false,
+    "latin-ext": true
   },
   "storeID": "latin-ext_latin"
 }

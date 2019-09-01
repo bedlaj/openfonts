@@ -12,18 +12,18 @@
         "Baloo Tamma Regular",
         "BalooTamma-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/balootamma/v6/JTUTjIk68Cy27gWhOWIghH5G7g4.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=JTUTjIk68Cy27gWhOWIghH5G7gw&skey=4e17e9c5a355a699&v=v6#BalooTamma",
       "eot": "https://fonts.gstatic.com/s/balootamma/v6/JTUTjIk68Cy27gWhOWIghH5G7g8.eot",
       "woff": "https://fonts.gstatic.com/s/balootamma/v6/JTUTjIk68Cy27gWhOWIghH5G7g0.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=JTUTjIk68Cy27gWhOWIghH5G7gw&skey=4e17e9c5a355a699&v=v6#BalooTamma",
+      "ttf": "https://fonts.gstatic.com/s/balootamma/v6/JTUTjIk68Cy27gWhOWIghH5G7g4.ttf",
       "errored": false
     }
   ],
   "subsets": [
     "vietnamese",
+    "kannada",
     "latin",
-    "latin-ext",
-    "kannada"
+    "latin-ext"
   ],
   "category": "display",
   "version": "v6",
@@ -33,9 +33,9 @@
   "defVariant": "regular",
   "subsetMap": {
     "vietnamese": false,
+    "kannada": false,
     "latin": true,
-    "latin-ext": false,
-    "kannada": false
+    "latin-ext": false
   },
   "storeID": "latin"
 }

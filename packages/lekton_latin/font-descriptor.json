@@ -12,40 +12,40 @@
         "Lekton",
         "Lekton-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/lekton/v10/SZc43FDmLaWmWpBuWB3t.eot",
       "woff2": "https://fonts.gstatic.com/s/lekton/v10/SZc43FDmLaWmWpBuWB3p.woff2",
-      "ttf": "https://fonts.gstatic.com/s/lekton/v10/SZc43FDmLaWmWpBuWB3s.ttf",
       "woff": "https://fonts.gstatic.com/s/lekton/v10/SZc43FDmLaWmWpBuWB3v.woff",
-      "errored": false
-    },
-    {
-      "id": "italic",
-      "woff2": "https://fonts.gstatic.com/s/lekton/v10/SZc63FDmLaWmWpBuXS3rtUc.woff2",
-      "fontFamily": "'Lekton'",
-      "fontStyle": "italic",
-      "fontWeight": "400",
-      "local": [
-        "Lekton-Italic"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=SZc63FDmLaWmWpBuXS3rtUA&skey=f90240a45c2af78&v=v10#Lekton",
-      "woff": "https://fonts.gstatic.com/s/lekton/v10/SZc63FDmLaWmWpBuXS3rtUE.woff",
-      "ttf": "https://fonts.gstatic.com/s/lekton/v10/SZc63FDmLaWmWpBuXS3rtUI.ttf",
-      "eot": "https://fonts.gstatic.com/s/lekton/v10/SZc63FDmLaWmWpBuXS3rtUM.eot",
+      "ttf": "https://fonts.gstatic.com/s/lekton/v10/SZc43FDmLaWmWpBuWB3s.ttf",
+      "eot": "https://fonts.gstatic.com/s/lekton/v10/SZc43FDmLaWmWpBuWB3t.eot",
       "errored": false
     },
     {
       "id": "700",
-      "woff": "https://fonts.gstatic.com/s/lekton/v10/SZc73FDmLaWmWpBm4zj8kmLQ.woff",
+      "eot": "https://fonts.gstatic.com/s/lekton/v10/SZc73FDmLaWmWpBm4zj8kmLS.eot",
       "fontFamily": "'Lekton'",
       "fontStyle": "normal",
       "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/lekton/v10/SZc73FDmLaWmWpBm4zj8kmLQ.woff",
       "local": [
         "Lekton-Bold"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=SZc73FDmLaWmWpBm4zj8kmLR&skey=bda8e77f1d703414&v=v10#Lekton",
       "woff2": "https://fonts.gstatic.com/s/lekton/v10/SZc73FDmLaWmWpBm4zj8kmLW.woff2",
-      "eot": "https://fonts.gstatic.com/s/lekton/v10/SZc73FDmLaWmWpBm4zj8kmLS.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=SZc73FDmLaWmWpBm4zj8kmLR&skey=bda8e77f1d703414&v=v10#Lekton",
       "ttf": "https://fonts.gstatic.com/s/lekton/v10/SZc73FDmLaWmWpBm4zj8kmLT.ttf",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "eot": "https://fonts.gstatic.com/s/lekton/v10/SZc63FDmLaWmWpBuXS3rtUM.eot",
+      "fontFamily": "'Lekton'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/lekton/v10/SZc63FDmLaWmWpBuXS3rtUE.woff",
+      "local": [
+        "Lekton-Italic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/lekton/v10/SZc63FDmLaWmWpBuXS3rtUc.woff2",
+      "ttf": "https://fonts.gstatic.com/s/lekton/v10/SZc63FDmLaWmWpBuXS3rtUI.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=SZc63FDmLaWmWpBuXS3rtUA&skey=f90240a45c2af78&v=v10#Lekton",
       "errored": false
     }
   ],
@@ -56,7 +56,7 @@
   "category": "sans-serif",
   "version": "v10",
   "lastModified": "2019-07-16",
-  "popularity": 355,
+  "popularity": 361,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

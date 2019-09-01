@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/alegreyasc/v11/taiOGmRtCJ62-O0HhNEa-Z6i2ZY.woff",
+      "woff2": "https://fonts.gstatic.com/s/alegreyasc/v11/taiOGmRtCJ62-O0HhNEa-Z6i2ZA.woff2",
       "fontFamily": "'Alegreya SC'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,26 +12,10 @@
         "Alegreya SC Regular",
         "AlegreyaSC-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/alegreyasc/v11/taiOGmRtCJ62-O0HhNEa-Z6i2ZQ.eot",
-      "woff2": "https://fonts.gstatic.com/s/alegreyasc/v11/taiOGmRtCJ62-O0HhNEa-Z6i2ZA.woff2",
-      "ttf": "https://fonts.gstatic.com/s/alegreyasc/v11/taiOGmRtCJ62-O0HhNEa-Z6i2ZU.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=taiOGmRtCJ62-O0HhNEa-Z6i2Zc&skey=c9182af3dcd1bd2c&v=v11#AlegreyaSC",
-      "errored": false
-    },
-    {
-      "id": "italic",
-      "eot": "https://fonts.gstatic.com/s/alegreyasc/v11/taiMGmRtCJ62-O0HhNEa-Z6q6Z8RaQ.eot",
-      "fontFamily": "'Alegreya SC'",
-      "fontStyle": "italic",
-      "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/alegreyasc/v11/taiMGmRtCJ62-O0HhNEa-Z6q6Z8Raw.woff",
-      "local": [
-        "Alegreya SC Italic",
-        "AlegreyaSC-Italic"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/alegreyasc/v11/taiMGmRtCJ62-O0HhNEa-Z6q6Z8RbQ.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=taiMGmRtCJ62-O0HhNEa-Z6q6Z8Rag&skey=845e0c91d68ef2fd&v=v11#AlegreyaSC",
-      "ttf": "https://fonts.gstatic.com/s/alegreyasc/v11/taiMGmRtCJ62-O0HhNEa-Z6q6Z8RaA.ttf",
+      "woff": "https://fonts.gstatic.com/s/alegreyasc/v11/taiOGmRtCJ62-O0HhNEa-Z6i2ZY.woff",
+      "eot": "https://fonts.gstatic.com/s/alegreyasc/v11/taiOGmRtCJ62-O0HhNEa-Z6i2ZQ.eot",
+      "ttf": "https://fonts.gstatic.com/s/alegreyasc/v11/taiOGmRtCJ62-O0HhNEa-Z6i2ZU.ttf",
       "errored": false
     },
     {
@@ -40,14 +24,30 @@
       "fontFamily": "'Alegreya SC'",
       "fontStyle": "normal",
       "fontWeight": "500",
-      "woff": "https://fonts.gstatic.com/s/alegreyasc/v11/taiTGmRtCJ62-O0HhNEa-ZZc-oU7SKw.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=taiTGmRtCJ62-O0HhNEa-ZZc-oU7SK0&skey=6fb530d5a4aef674&v=v11#AlegreyaSC",
       "local": [
         "Alegreya SC Medium",
         "AlegreyaSC-Medium"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=taiTGmRtCJ62-O0HhNEa-ZZc-oU7SK0&skey=6fb530d5a4aef674&v=v11#AlegreyaSC",
       "woff2": "https://fonts.gstatic.com/s/alegreyasc/v11/taiTGmRtCJ62-O0HhNEa-ZZc-oU7SKo.woff2",
       "ttf": "https://fonts.gstatic.com/s/alegreyasc/v11/taiTGmRtCJ62-O0HhNEa-ZZc-oU7SK8.ttf",
+      "woff": "https://fonts.gstatic.com/s/alegreyasc/v11/taiTGmRtCJ62-O0HhNEa-ZZc-oU7SKw.woff",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "woff": "https://fonts.gstatic.com/s/alegreyasc/v11/taiMGmRtCJ62-O0HhNEa-Z6q6Z8Raw.woff",
+      "fontFamily": "'Alegreya SC'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "local": [
+        "Alegreya SC Italic",
+        "AlegreyaSC-Italic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/alegreyasc/v11/taiMGmRtCJ62-O0HhNEa-Z6q6Z8RbQ.woff2",
+      "ttf": "https://fonts.gstatic.com/s/alegreyasc/v11/taiMGmRtCJ62-O0HhNEa-Z6q6Z8RaA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=taiMGmRtCJ62-O0HhNEa-Z6q6Z8Rag&skey=845e0c91d68ef2fd&v=v11#AlegreyaSC",
+      "eot": "https://fonts.gstatic.com/s/alegreyasc/v11/taiMGmRtCJ62-O0HhNEa-Z6q6Z8RaQ.eot",
       "errored": false
     },
     {
@@ -61,9 +61,9 @@
         "Alegreya SC Medium Italic",
         "AlegreyaSC-MediumItalic"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=taiRGmRtCJ62-O0HhNEa-Z6q4WEyeKWeFg&skey=f70f00235db45ffc&v=v11#AlegreyaSC",
       "woff2": "https://fonts.gstatic.com/s/alegreyasc/v11/taiRGmRtCJ62-O0HhNEa-Z6q4WEyeKWeEQ.woff2",
       "ttf": "https://fonts.gstatic.com/s/alegreyasc/v11/taiRGmRtCJ62-O0HhNEa-Z6q4WEyeKWeFA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=taiRGmRtCJ62-O0HhNEa-Z6q4WEyeKWeFg&skey=f70f00235db45ffc&v=v11#AlegreyaSC",
       "errored": false
     },
     {
@@ -72,30 +72,14 @@
       "fontFamily": "'Alegreya SC'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff2": "https://fonts.gstatic.com/s/alegreyasc/v11/taiTGmRtCJ62-O0HhNEa-ZYU_IU7SKo.woff2",
+      "woff": "https://fonts.gstatic.com/s/alegreyasc/v11/taiTGmRtCJ62-O0HhNEa-ZYU_IU7SKw.woff",
       "local": [
         "Alegreya SC Bold",
         "AlegreyaSC-Bold"
       ],
+      "woff2": "https://fonts.gstatic.com/s/alegreyasc/v11/taiTGmRtCJ62-O0HhNEa-ZYU_IU7SKo.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=taiTGmRtCJ62-O0HhNEa-ZYU_IU7SK0&skey=6aff66d9fa0eca05&v=v11#AlegreyaSC",
-      "woff": "https://fonts.gstatic.com/s/alegreyasc/v11/taiTGmRtCJ62-O0HhNEa-ZYU_IU7SKw.woff",
       "ttf": "https://fonts.gstatic.com/s/alegreyasc/v11/taiTGmRtCJ62-O0HhNEa-ZYU_IU7SK8.ttf",
-      "errored": false
-    },
-    {
-      "id": "700italic",
-      "woff2": "https://fonts.gstatic.com/s/alegreyasc/v11/taiRGmRtCJ62-O0HhNEa-Z6q4Sk0eKWeEQ.woff2",
-      "fontFamily": "'Alegreya SC'",
-      "fontStyle": "italic",
-      "fontWeight": "700",
-      "local": [
-        "Alegreya SC Bold Italic",
-        "AlegreyaSC-BoldItalic"
-      ],
-      "ttf": "https://fonts.gstatic.com/s/alegreyasc/v11/taiRGmRtCJ62-O0HhNEa-Z6q4Sk0eKWeFA.ttf",
-      "eot": "https://fonts.gstatic.com/s/alegreyasc/v11/taiRGmRtCJ62-O0HhNEa-Z6q4Sk0eKWeFQ.eot",
-      "woff": "https://fonts.gstatic.com/s/alegreyasc/v11/taiRGmRtCJ62-O0HhNEa-Z6q4Sk0eKWeFw.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=taiRGmRtCJ62-O0HhNEa-Z6q4Sk0eKWeFg&skey=457a1804d9918cfb&v=v11#AlegreyaSC",
       "errored": false
     },
     {
@@ -109,9 +93,9 @@
         "Alegreya SC ExtraBold",
         "AlegreyaSC-ExtraBold"
       ],
-      "ttf": "https://fonts.gstatic.com/s/alegreyasc/v11/taiTGmRtCJ62-O0HhNEa-ZYI_4U7SK8.ttf",
-      "woff2": "https://fonts.gstatic.com/s/alegreyasc/v11/taiTGmRtCJ62-O0HhNEa-ZYI_4U7SKo.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=taiTGmRtCJ62-O0HhNEa-ZYI_4U7SK0&skey=7995df6a714ce496&v=v11#AlegreyaSC",
+      "woff2": "https://fonts.gstatic.com/s/alegreyasc/v11/taiTGmRtCJ62-O0HhNEa-ZYI_4U7SKo.woff2",
+      "ttf": "https://fonts.gstatic.com/s/alegreyasc/v11/taiTGmRtCJ62-O0HhNEa-ZYI_4U7SK8.ttf",
       "errored": false
     },
     {
@@ -126,24 +110,40 @@
         "AlegreyaSC-ExtraBoldItalic"
       ],
       "woff2": "https://fonts.gstatic.com/s/alegreyasc/v11/taiRGmRtCJ62-O0HhNEa-Z6q4TU3eKWeEQ.woff2",
-      "ttf": "https://fonts.gstatic.com/s/alegreyasc/v11/taiRGmRtCJ62-O0HhNEa-Z6q4TU3eKWeFA.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=taiRGmRtCJ62-O0HhNEa-Z6q4TU3eKWeFg&skey=94bb0467eff0e386&v=v11#AlegreyaSC",
+      "ttf": "https://fonts.gstatic.com/s/alegreyasc/v11/taiRGmRtCJ62-O0HhNEa-Z6q4TU3eKWeFA.ttf",
       "errored": false
     },
     {
       "id": "900",
-      "woff": "https://fonts.gstatic.com/s/alegreyasc/v11/taiTGmRtCJ62-O0HhNEa-ZYs_oU7SKw.woff",
+      "eot": "https://fonts.gstatic.com/s/alegreyasc/v11/taiTGmRtCJ62-O0HhNEa-ZYs_oU7SK4.eot",
       "fontFamily": "'Alegreya SC'",
       "fontStyle": "normal",
       "fontWeight": "900",
+      "woff": "https://fonts.gstatic.com/s/alegreyasc/v11/taiTGmRtCJ62-O0HhNEa-ZYs_oU7SKw.woff",
       "local": [
         "Alegreya SC Black",
         "AlegreyaSC-Black"
       ],
-      "eot": "https://fonts.gstatic.com/s/alegreyasc/v11/taiTGmRtCJ62-O0HhNEa-ZYs_oU7SK4.eot",
       "woff2": "https://fonts.gstatic.com/s/alegreyasc/v11/taiTGmRtCJ62-O0HhNEa-ZYs_oU7SKo.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=taiTGmRtCJ62-O0HhNEa-ZYs_oU7SK0&skey=7724af2489421d01&v=v11#AlegreyaSC",
       "ttf": "https://fonts.gstatic.com/s/alegreyasc/v11/taiTGmRtCJ62-O0HhNEa-ZYs_oU7SK8.ttf",
+      "errored": false
+    },
+    {
+      "id": "700italic",
+      "eot": "https://fonts.gstatic.com/s/alegreyasc/v11/taiRGmRtCJ62-O0HhNEa-Z6q4Sk0eKWeFQ.eot",
+      "fontFamily": "'Alegreya SC'",
+      "fontStyle": "italic",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/alegreyasc/v11/taiRGmRtCJ62-O0HhNEa-Z6q4Sk0eKWeFw.woff",
+      "local": [
+        "Alegreya SC Bold Italic",
+        "AlegreyaSC-BoldItalic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/alegreyasc/v11/taiRGmRtCJ62-O0HhNEa-Z6q4Sk0eKWeEQ.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=taiRGmRtCJ62-O0HhNEa-Z6q4Sk0eKWeFg&skey=457a1804d9918cfb&v=v11#AlegreyaSC",
+      "ttf": "https://fonts.gstatic.com/s/alegreyasc/v11/taiRGmRtCJ62-O0HhNEa-Z6q4Sk0eKWeFA.ttf",
       "errored": false
     },
     {
@@ -164,28 +164,28 @@
     }
   ],
   "subsets": [
+    "greek",
     "greek-ext",
     "vietnamese",
-    "greek",
     "latin",
-    "latin-ext",
+    "cyrillic-ext",
     "cyrillic",
-    "cyrillic-ext"
+    "latin-ext"
   ],
   "category": "serif",
   "version": "v11",
   "lastModified": "2019-07-16",
-  "popularity": 349,
+  "popularity": 351,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
+    "greek": false,
     "greek-ext": false,
     "vietnamese": false,
-    "greek": false,
     "latin": true,
-    "latin-ext": false,
+    "cyrillic-ext": true,
     "cyrillic": false,
-    "cyrillic-ext": true
+    "latin-ext": false
   },
   "storeID": "cyrillic-ext_latin"
 }

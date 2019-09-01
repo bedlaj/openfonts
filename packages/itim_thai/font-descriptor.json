@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/itim/v4/0nknC9ziJOYe8BdAlQ.ttf",
+      "woff2": "https://fonts.gstatic.com/s/itim/v4/0nknC9ziJOYe8BdAkA.woff2",
       "fontFamily": "'Itim'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,9 +12,9 @@
         "Itim",
         "Itim-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/itim/v4/0nknC9ziJOYe8BdAkA.woff2",
-      "woff": "https://fonts.gstatic.com/s/itim/v4/0nknC9ziJOYe8BdAlg.woff",
       "eot": "https://fonts.gstatic.com/s/itim/v4/0nknC9ziJOYe8BdAlA.eot",
+      "ttf": "https://fonts.gstatic.com/s/itim/v4/0nknC9ziJOYe8BdAlQ.ttf",
+      "woff": "https://fonts.gstatic.com/s/itim/v4/0nknC9ziJOYe8BdAlg.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=0nknC9ziJOYe8BdAlw&skey=5906924f6c9ed948&v=v4#Itim",
       "errored": false
     }
@@ -22,20 +22,20 @@
   "subsets": [
     "vietnamese",
     "latin",
-    "latin-ext",
-    "thai"
+    "thai",
+    "latin-ext"
   ],
   "category": "handwriting",
   "version": "v4",
   "lastModified": "2019-07-16",
-  "popularity": 333,
+  "popularity": 332,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "vietnamese": false,
     "latin": true,
-    "latin-ext": false,
-    "thai": true
+    "thai": true,
+    "latin-ext": false
   },
   "storeID": "thai_latin"
 }

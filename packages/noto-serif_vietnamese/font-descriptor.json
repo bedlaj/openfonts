@@ -8,14 +8,14 @@
       "fontFamily": "'Noto Serif'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "ttf": "https://fonts.gstatic.com/s/notoserif/v8/ga6Iaw1J5X9T9RW6j9bNfFgWbQ.ttf",
+      "woff": "https://fonts.gstatic.com/s/notoserif/v8/ga6Iaw1J5X9T9RW6j9bNfFgWbg.woff",
       "local": [
         "Noto Serif",
         "NotoSerif"
       ],
-      "woff2": "https://fonts.gstatic.com/s/notoserif/v8/ga6Iaw1J5X9T9RW6j9bNfFgWaA.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=ga6Iaw1J5X9T9RW6j9bNfFgWbw&skey=ff3f102bd67fc93c&v=v8#NotoSerif",
-      "woff": "https://fonts.gstatic.com/s/notoserif/v8/ga6Iaw1J5X9T9RW6j9bNfFgWbg.woff",
+      "woff2": "https://fonts.gstatic.com/s/notoserif/v8/ga6Iaw1J5X9T9RW6j9bNfFgWaA.woff2",
+      "ttf": "https://fonts.gstatic.com/s/notoserif/v8/ga6Iaw1J5X9T9RW6j9bNfFgWbQ.ttf",
       "errored": false
     },
     {
@@ -24,12 +24,12 @@
       "fontFamily": "'Noto Serif'",
       "fontStyle": "italic",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/notoserif/v8/ga6Kaw1J5X9T9RW6j9bNfFImZTC9.woff",
+      "woff2": "https://fonts.gstatic.com/s/notoserif/v8/ga6Kaw1J5X9T9RW6j9bNfFImZTC7.woff2",
       "local": [
         "Noto Serif Italic",
         "NotoSerif-Italic"
       ],
-      "woff2": "https://fonts.gstatic.com/s/notoserif/v8/ga6Kaw1J5X9T9RW6j9bNfFImZTC7.woff2",
+      "woff": "https://fonts.gstatic.com/s/notoserif/v8/ga6Kaw1J5X9T9RW6j9bNfFImZTC9.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=ga6Kaw1J5X9T9RW6j9bNfFImZTC8&skey=39fc6d597fb39b7e&v=v8#NotoSerif",
       "ttf": "https://fonts.gstatic.com/s/notoserif/v8/ga6Kaw1J5X9T9RW6j9bNfFImZTC-.ttf",
       "errored": false
@@ -46,35 +46,35 @@
         "NotoSerif-Bold"
       ],
       "woff2": "https://fonts.gstatic.com/s/notoserif/v8/ga6Law1J5X9T9RW6j9bNdOwzfRiecQ.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=ga6Law1J5X9T9RW6j9bNdOwzfRiedg&skey=d061d87fe9231c&v=v8#NotoSerif",
       "ttf": "https://fonts.gstatic.com/s/notoserif/v8/ga6Law1J5X9T9RW6j9bNdOwzfRiedA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=ga6Law1J5X9T9RW6j9bNdOwzfRiedg&skey=d061d87fe9231c&v=v8#NotoSerif",
       "errored": false
     },
     {
       "id": "700italic",
-      "woff": "https://fonts.gstatic.com/s/notoserif/v8/ga6Vaw1J5X9T9RW6j9bNfFIu0RWufOVK.woff",
+      "eot": "https://fonts.gstatic.com/s/notoserif/v8/ga6Vaw1J5X9T9RW6j9bNfFIu0RWufOVI.eot",
       "fontFamily": "'Noto Serif'",
       "fontStyle": "italic",
       "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/notoserif/v8/ga6Vaw1J5X9T9RW6j9bNfFIu0RWufOVK.woff",
       "local": [
         "Noto Serif Bold Italic",
         "NotoSerif-BoldItalic"
       ],
-      "eot": "https://fonts.gstatic.com/s/notoserif/v8/ga6Vaw1J5X9T9RW6j9bNfFIu0RWufOVI.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=ga6Vaw1J5X9T9RW6j9bNfFIu0RWufOVL&skey=9777b861e0fad22b&v=v8#NotoSerif",
       "woff2": "https://fonts.gstatic.com/s/notoserif/v8/ga6Vaw1J5X9T9RW6j9bNfFIu0RWufOVM.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=ga6Vaw1J5X9T9RW6j9bNfFIu0RWufOVL&skey=9777b861e0fad22b&v=v8#NotoSerif",
       "ttf": "https://fonts.gstatic.com/s/notoserif/v8/ga6Vaw1J5X9T9RW6j9bNfFIu0RWufOVJ.ttf",
       "errored": false
     }
   ],
   "subsets": [
+    "greek",
     "greek-ext",
     "vietnamese",
-    "greek",
     "latin",
-    "latin-ext",
+    "cyrillic-ext",
     "cyrillic",
-    "cyrillic-ext"
+    "latin-ext"
   ],
   "category": "serif",
   "version": "v8",
@@ -83,13 +83,13 @@
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
+    "greek": false,
     "greek-ext": false,
     "vietnamese": true,
-    "greek": false,
     "latin": true,
-    "latin-ext": false,
+    "cyrillic-ext": false,
     "cyrillic": false,
-    "cyrillic-ext": false
+    "latin-ext": false
   },
   "storeID": "latin_vietnamese"
 }

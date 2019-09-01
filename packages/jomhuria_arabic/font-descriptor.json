@@ -4,36 +4,36 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/jomhuria/v7/Dxxp8j-TMXf-llKur1b3OuY.woff",
+      "eot": "https://fonts.gstatic.com/s/jomhuria/v7/Dxxp8j-TMXf-llKur1b3OuQ.eot",
       "fontFamily": "'Jomhuria'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/jomhuria/v7/Dxxp8j-TMXf-llKur1b3OuY.woff",
       "local": [
         "Jomhuria",
         "Jomhuria-Regular"
       ],
       "woff2": "https://fonts.gstatic.com/s/jomhuria/v7/Dxxp8j-TMXf-llKur1b3OuA.woff2",
-      "eot": "https://fonts.gstatic.com/s/jomhuria/v7/Dxxp8j-TMXf-llKur1b3OuQ.eot",
       "ttf": "https://fonts.gstatic.com/s/jomhuria/v7/Dxxp8j-TMXf-llKur1b3OuU.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=Dxxp8j-TMXf-llKur1b3Ouc&skey=e8318179d6e93cfb&v=v7#Jomhuria",
       "errored": false
     }
   ],
   "subsets": [
+    "arabic",
     "latin",
-    "latin-ext",
-    "arabic"
+    "latin-ext"
   ],
   "category": "display",
   "version": "v7",
   "lastModified": "2019-07-16",
-  "popularity": 850,
+  "popularity": 844,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
+    "arabic": true,
     "latin": true,
-    "latin-ext": false,
-    "arabic": true
+    "latin-ext": false
   },
-  "storeID": "arabic_latin"
+  "storeID": "latin_arabic"
 }

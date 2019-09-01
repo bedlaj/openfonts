@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/anton/v11/1Ptgg87LROyAm3K9-Ck.woff",
+      "ttf": "https://fonts.gstatic.com/s/anton/v11/1Ptgg87LROyAm3K9-Co.ttf",
       "fontFamily": "'Anton'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Anton Regular",
         "Anton-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/anton/v11/1Ptgg87LROyAm3K9-C8.woff2",
-      "ttf": "https://fonts.gstatic.com/s/anton/v11/1Ptgg87LROyAm3K9-Co.ttf",
-      "eot": "https://fonts.gstatic.com/s/anton/v11/1Ptgg87LROyAm3K9-Cs.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=1Ptgg87LROyAm3K9-Cg&skey=3e16a04254d4c9b3&v=v11#Anton",
+      "eot": "https://fonts.gstatic.com/s/anton/v11/1Ptgg87LROyAm3K9-Cs.eot",
+      "woff": "https://fonts.gstatic.com/s/anton/v11/1Ptgg87LROyAm3K9-Ck.woff",
+      "woff2": "https://fonts.gstatic.com/s/anton/v11/1Ptgg87LROyAm3K9-C8.woff2",
       "errored": false
     }
   ],
@@ -27,7 +27,7 @@
   "category": "sans-serif",
   "version": "v11",
   "lastModified": "2019-07-17",
-  "popularity": 44,
+  "popularity": 40,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

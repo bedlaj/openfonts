@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGUmQSNjdsmc35JDF1K5GRxSD8.woff",
+      "eot": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGUmQSNjdsmc35JDF1K5GRxSD0.eot",
       "fontFamily": "'EB Garamond'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "svg": "https://fonts.gstatic.com/l/font?kit=SlGUmQSNjdsmc35JDF1K5GRxSD4&skey=fde9b303600e495b&v=v11#EBGaramond",
       "local": [
         "EB Garamond Regular",
         "EBGaramond-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGUmQSNjdsmc35JDF1K5GRxSD0.eot",
-      "ttf": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGUmQSNjdsmc35JDF1K5GRxSDw.ttf",
       "woff2": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGUmQSNjdsmc35JDF1K5GRxSDk.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=SlGUmQSNjdsmc35JDF1K5GRxSD4&skey=fde9b303600e495b&v=v11#EBGaramond",
+      "woff": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGUmQSNjdsmc35JDF1K5GRxSD8.woff",
+      "ttf": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGUmQSNjdsmc35JDF1K5GRxSDw.ttf",
       "errored": false
     },
     {
@@ -36,7 +36,7 @@
     },
     {
       "id": "italic",
-      "woff2": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGWmQSNjdsmc35JDF1K5GRweD81Zw.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=SlGWmQSNjdsmc35JDF1K5GRweD81YA&skey=b76c0cb3db3b0fac&v=v11#EBGaramond",
       "fontFamily": "'EB Garamond'",
       "fontStyle": "italic",
       "fontWeight": "400",
@@ -45,9 +45,9 @@
         "EBGaramond-Italic"
       ],
       "woff": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGWmQSNjdsmc35JDF1K5GRweD81YQ.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=SlGWmQSNjdsmc35JDF1K5GRweD81YA&skey=b76c0cb3db3b0fac&v=v11#EBGaramond",
-      "ttf": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGWmQSNjdsmc35JDF1K5GRweD81Yg.ttf",
       "eot": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGWmQSNjdsmc35JDF1K5GRweD81Yw.eot",
+      "ttf": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGWmQSNjdsmc35JDF1K5GRweD81Yg.ttf",
+      "woff2": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGWmQSNjdsmc35JDF1K5GRweD81Zw.woff2",
       "errored": false
     },
     {
@@ -56,46 +56,30 @@
       "fontFamily": "'EB Garamond'",
       "fontStyle": "italic",
       "fontWeight": "500",
-      "woff2": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGLmQSNjdsmc35JDF1K5GRwcMgWcgjoqA.woff2",
+      "woff": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGLmQSNjdsmc35JDF1K5GRwcMgWcgjorg.woff",
       "local": [
         "EB Garamond Medium Italic",
         "EBGaramond-MediumItalic"
       ],
-      "woff": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGLmQSNjdsmc35JDF1K5GRwcMgWcgjorg.woff",
-      "ttf": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGLmQSNjdsmc35JDF1K5GRwcMgWcgjorQ.ttf",
+      "woff2": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGLmQSNjdsmc35JDF1K5GRwcMgWcgjoqA.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=SlGLmQSNjdsmc35JDF1K5GRwcMgWcgjorw&skey=359828743c54a049&v=v11#EBGaramond",
+      "ttf": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGLmQSNjdsmc35JDF1K5GRwcMgWcgjorQ.ttf",
       "errored": false
     },
     {
       "id": "600",
-      "eot": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGJmQSNjdsmc35JDF1K5GyqbCwWQgo.eot",
+      "woff": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGJmQSNjdsmc35JDF1K5GyqbCwWQgg.woff",
       "fontFamily": "'EB Garamond'",
       "fontStyle": "normal",
       "fontWeight": "600",
-      "woff2": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGJmQSNjdsmc35JDF1K5GyqbCwWQg4.woff2",
       "local": [
         "EB Garamond SemiBold",
         "EBGaramond-SemiBold"
       ],
-      "woff": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGJmQSNjdsmc35JDF1K5GyqbCwWQgg.woff",
+      "eot": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGJmQSNjdsmc35JDF1K5GyqbCwWQgo.eot",
+      "woff2": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGJmQSNjdsmc35JDF1K5GyqbCwWQg4.woff2",
       "ttf": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGJmQSNjdsmc35JDF1K5GyqbCwWQgs.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=SlGJmQSNjdsmc35JDF1K5GyqbCwWQgk&skey=1456ed3d39d4bdc7&v=v11#EBGaramond",
-      "errored": false
-    },
-    {
-      "id": "700",
-      "eot": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGJmQSNjdsmc35JDF1K5GzObSwWQgo.eot",
-      "fontFamily": "'EB Garamond'",
-      "fontStyle": "normal",
-      "fontWeight": "700",
-      "woff2": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGJmQSNjdsmc35JDF1K5GzObSwWQg4.woff2",
-      "local": [
-        "EB Garamond Bold",
-        "EBGaramond-Bold"
-      ],
-      "woff": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGJmQSNjdsmc35JDF1K5GzObSwWQgg.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=SlGJmQSNjdsmc35JDF1K5GzObSwWQgk&skey=cab16d7dfc1081cd&v=v11#EBGaramond",
-      "ttf": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGJmQSNjdsmc35JDF1K5GzObSwWQgs.ttf",
       "errored": false
     },
     {
@@ -115,6 +99,54 @@
       "errored": false
     },
     {
+      "id": "700",
+      "woff": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGJmQSNjdsmc35JDF1K5GzObSwWQgg.woff",
+      "fontFamily": "'EB Garamond'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "EB Garamond Bold",
+        "EBGaramond-Bold"
+      ],
+      "eot": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGJmQSNjdsmc35JDF1K5GzObSwWQgo.eot",
+      "woff2": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGJmQSNjdsmc35JDF1K5GzObSwWQg4.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=SlGJmQSNjdsmc35JDF1K5GzObSwWQgk&skey=cab16d7dfc1081cd&v=v11#EBGaramond",
+      "ttf": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGJmQSNjdsmc35JDF1K5GzObSwWQgs.ttf",
+      "errored": false
+    },
+    {
+      "id": "800",
+      "woff": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGJmQSNjdsmc35JDF1K5GzSbiwWQgg.woff",
+      "fontFamily": "'EB Garamond'",
+      "fontStyle": "normal",
+      "fontWeight": "800",
+      "local": [
+        "EB Garamond ExtraBold",
+        "EBGaramond-ExtraBold"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=SlGJmQSNjdsmc35JDF1K5GzSbiwWQgk&skey=b6942a6d44576469&v=v11#EBGaramond",
+      "woff2": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGJmQSNjdsmc35JDF1K5GzSbiwWQg4.woff2",
+      "eot": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGJmQSNjdsmc35JDF1K5GzSbiwWQgo.eot",
+      "ttf": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGJmQSNjdsmc35JDF1K5GzSbiwWQgs.ttf",
+      "errored": false
+    },
+    {
+      "id": "800italic",
+      "eot": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGLmQSNjdsmc35JDF1K5GRwcJwTcgjorA.eot",
+      "fontFamily": "'EB Garamond'",
+      "fontStyle": "italic",
+      "fontWeight": "800",
+      "woff": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGLmQSNjdsmc35JDF1K5GRwcJwTcgjorg.woff",
+      "local": [
+        "EB Garamond ExtraBold Italic",
+        "EBGaramond-ExtraBoldItalic"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=SlGLmQSNjdsmc35JDF1K5GRwcJwTcgjorw&skey=4c324481c0d7a586&v=v11#EBGaramond",
+      "ttf": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGLmQSNjdsmc35JDF1K5GRwcJwTcgjorQ.ttf",
+      "woff2": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGLmQSNjdsmc35JDF1K5GRwcJwTcgjoqA.woff2",
+      "errored": false
+    },
+    {
       "id": "700italic",
       "woff": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGLmQSNjdsmc35JDF1K5GRwcIAQcgjorg.woff",
       "fontFamily": "'EB Garamond'",
@@ -124,68 +156,36 @@
         "EB Garamond Bold Italic",
         "EBGaramond-BoldItalic"
       ],
+      "eot": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGLmQSNjdsmc35JDF1K5GRwcIAQcgjorA.eot",
       "woff2": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGLmQSNjdsmc35JDF1K5GRwcIAQcgjoqA.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=SlGLmQSNjdsmc35JDF1K5GRwcIAQcgjorw&skey=1d8f4e3493b15b68&v=v11#EBGaramond",
-      "eot": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGLmQSNjdsmc35JDF1K5GRwcIAQcgjorA.eot",
       "ttf": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGLmQSNjdsmc35JDF1K5GRwcIAQcgjorQ.ttf",
-      "errored": false
-    },
-    {
-      "id": "800",
-      "eot": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGJmQSNjdsmc35JDF1K5GzSbiwWQgo.eot",
-      "fontFamily": "'EB Garamond'",
-      "fontStyle": "normal",
-      "fontWeight": "800",
-      "woff": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGJmQSNjdsmc35JDF1K5GzSbiwWQgg.woff",
-      "local": [
-        "EB Garamond ExtraBold",
-        "EBGaramond-ExtraBold"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGJmQSNjdsmc35JDF1K5GzSbiwWQg4.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=SlGJmQSNjdsmc35JDF1K5GzSbiwWQgk&skey=b6942a6d44576469&v=v11#EBGaramond",
-      "ttf": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGJmQSNjdsmc35JDF1K5GzSbiwWQgs.ttf",
-      "errored": false
-    },
-    {
-      "id": "800italic",
-      "woff": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGLmQSNjdsmc35JDF1K5GRwcJwTcgjorg.woff",
-      "fontFamily": "'EB Garamond'",
-      "fontStyle": "italic",
-      "fontWeight": "800",
-      "local": [
-        "EB Garamond ExtraBold Italic",
-        "EBGaramond-ExtraBoldItalic"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGLmQSNjdsmc35JDF1K5GRwcJwTcgjoqA.woff2",
-      "eot": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGLmQSNjdsmc35JDF1K5GRwcJwTcgjorA.eot",
-      "ttf": "https://fonts.gstatic.com/s/ebgaramond/v11/SlGLmQSNjdsmc35JDF1K5GRwcJwTcgjorQ.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=SlGLmQSNjdsmc35JDF1K5GRwcJwTcgjorw&skey=4c324481c0d7a586&v=v11#EBGaramond",
       "errored": false
     }
   ],
   "subsets": [
+    "greek",
     "greek-ext",
     "vietnamese",
-    "greek",
     "latin",
-    "latin-ext",
+    "cyrillic-ext",
     "cyrillic",
-    "cyrillic-ext"
+    "latin-ext"
   ],
   "category": "serif",
   "version": "v11",
   "lastModified": "2019-07-17",
-  "popularity": 78,
+  "popularity": 77,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
+    "greek": false,
     "greek-ext": false,
     "vietnamese": false,
-    "greek": false,
     "latin": true,
-    "latin-ext": false,
+    "cyrillic-ext": false,
     "cyrillic": true,
-    "cyrillic-ext": false
+    "latin-ext": false
   },
   "storeID": "cyrillic_latin"
 }

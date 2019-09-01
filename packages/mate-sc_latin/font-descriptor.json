@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/matesc/v8/-nF8OGQ1-uoVr2wK-iLT8A.woff",
+      "woff2": "https://fonts.gstatic.com/s/matesc/v8/-nF8OGQ1-uoVr2wK-iLT9g.woff2",
       "fontFamily": "'Mate SC'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Mate SC Regular",
         "MateSC-Regular"
       ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=-nF8OGQ1-uoVr2wK-iLT8Q&skey=9d865f50b2871cd&v=v8#MateSC",
+      "woff": "https://fonts.gstatic.com/s/matesc/v8/-nF8OGQ1-uoVr2wK-iLT8A.woff",
       "eot": "https://fonts.gstatic.com/s/matesc/v8/-nF8OGQ1-uoVr2wK-iLT8g.eot",
       "ttf": "https://fonts.gstatic.com/s/matesc/v8/-nF8OGQ1-uoVr2wK-iLT8w.ttf",
-      "woff2": "https://fonts.gstatic.com/s/matesc/v8/-nF8OGQ1-uoVr2wK-iLT9g.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=-nF8OGQ1-uoVr2wK-iLT8Q&skey=9d865f50b2871cd&v=v8#MateSC",
       "errored": false
     }
   ],
@@ -25,7 +25,7 @@
   "category": "serif",
   "version": "v8",
   "lastModified": "2019-07-16",
-  "popularity": 666,
+  "popularity": 660,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

@@ -12,28 +12,28 @@
         "Ledger",
         "Ledger-Regular"
       ],
+      "eot": "https://fonts.gstatic.com/s/ledger/v7/j8_q6-HK1L3if_sxmg.eot",
+      "woff2": "https://fonts.gstatic.com/s/ledger/v7/j8_q6-HK1L3if_sxng.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=j8_q6-HK1L3if_sxmQ&skey=6e1b03f801dd56e8&v=v7#Ledger",
       "ttf": "https://fonts.gstatic.com/s/ledger/v7/j8_q6-HK1L3if_sxmw.ttf",
-      "woff2": "https://fonts.gstatic.com/s/ledger/v7/j8_q6-HK1L3if_sxng.woff2",
-      "eot": "https://fonts.gstatic.com/s/ledger/v7/j8_q6-HK1L3if_sxmg.eot",
       "errored": false
     }
   ],
   "subsets": [
     "latin",
-    "latin-ext",
-    "cyrillic"
+    "cyrillic",
+    "latin-ext"
   ],
   "category": "serif",
   "version": "v7",
   "lastModified": "2019-07-16",
-  "popularity": 587,
+  "popularity": 577,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "latin": true,
-    "latin-ext": true,
-    "cyrillic": true
+    "cyrillic": true,
+    "latin-ext": true
   },
-  "storeID": "cyrillic_latin-ext_latin"
+  "storeID": "latin-ext_cyrillic_latin"
 }

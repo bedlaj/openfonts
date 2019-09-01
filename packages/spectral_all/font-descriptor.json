@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "200",
-      "woff": "https://fonts.gstatic.com/s/spectral/v6/rnCs-xNNww_2s0amA9v2s13F.woff",
+      "woff2": "https://fonts.gstatic.com/s/spectral/v6/rnCs-xNNww_2s0amA9v2s13D.woff2",
       "fontFamily": "'Spectral'",
       "fontStyle": "normal",
       "fontWeight": "200",
@@ -12,10 +12,10 @@
         "Spectral ExtraLight",
         "Spectral-ExtraLight"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=rnCs-xNNww_2s0amA9v2s13E&skey=d3c6dadd4e2c6f3b&v=v6#Spectral",
-      "woff2": "https://fonts.gstatic.com/s/spectral/v6/rnCs-xNNww_2s0amA9v2s13D.woff2",
       "eot": "https://fonts.gstatic.com/s/spectral/v6/rnCs-xNNww_2s0amA9v2s13H.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=rnCs-xNNww_2s0amA9v2s13E&skey=d3c6dadd4e2c6f3b&v=v6#Spectral",
       "ttf": "https://fonts.gstatic.com/s/spectral/v6/rnCs-xNNww_2s0amA9v2s13G.ttf",
+      "woff": "https://fonts.gstatic.com/s/spectral/v6/rnCs-xNNww_2s0amA9v2s13F.woff",
       "errored": false
     },
     {
@@ -29,22 +29,22 @@
         "Spectral Light",
         "Spectral-Light"
       ],
-      "woff": "https://fonts.gstatic.com/s/spectral/v6/rnCs-xNNww_2s0amA9uSsF3F.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=rnCs-xNNww_2s0amA9uSsF3E&skey=6aaca5dbf3a7aa4c&v=v6#Spectral",
+      "woff": "https://fonts.gstatic.com/s/spectral/v6/rnCs-xNNww_2s0amA9uSsF3F.woff",
       "ttf": "https://fonts.gstatic.com/s/spectral/v6/rnCs-xNNww_2s0amA9uSsF3G.ttf",
       "errored": false
     },
     {
       "id": "300italic",
-      "woff": "https://fonts.gstatic.com/s/spectral/v6/rnCu-xNNww_2s0amA9M8qtHEafA.woff",
+      "eot": "https://fonts.gstatic.com/s/spectral/v6/rnCu-xNNww_2s0amA9M8qtHEafI.eot",
       "fontFamily": "'Spectral'",
       "fontStyle": "italic",
       "fontWeight": "300",
+      "woff": "https://fonts.gstatic.com/s/spectral/v6/rnCu-xNNww_2s0amA9M8qtHEafA.woff",
       "local": [
         "Spectral Light Italic",
         "Spectral-LightItalic"
       ],
-      "eot": "https://fonts.gstatic.com/s/spectral/v6/rnCu-xNNww_2s0amA9M8qtHEafI.eot",
       "woff2": "https://fonts.gstatic.com/s/spectral/v6/rnCu-xNNww_2s0amA9M8qtHEafY.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=rnCu-xNNww_2s0amA9M8qtHEafE&skey=d2adc46f15bcfb8d&v=v6#Spectral",
       "ttf": "https://fonts.gstatic.com/s/spectral/v6/rnCu-xNNww_2s0amA9M8qtHEafM.ttf",
@@ -52,18 +52,18 @@
     },
     {
       "id": "200italic",
-      "eot": "https://fonts.gstatic.com/s/spectral/v6/rnCu-xNNww_2s0amA9M8qrXHafI.eot",
+      "woff": "https://fonts.gstatic.com/s/spectral/v6/rnCu-xNNww_2s0amA9M8qrXHafA.woff",
       "fontFamily": "'Spectral'",
       "fontStyle": "italic",
       "fontWeight": "200",
-      "woff2": "https://fonts.gstatic.com/s/spectral/v6/rnCu-xNNww_2s0amA9M8qrXHafY.woff2",
       "local": [
         "Spectral ExtraLight Italic",
         "Spectral-ExtraLightItalic"
       ],
-      "woff": "https://fonts.gstatic.com/s/spectral/v6/rnCu-xNNww_2s0amA9M8qrXHafA.woff",
-      "ttf": "https://fonts.gstatic.com/s/spectral/v6/rnCu-xNNww_2s0amA9M8qrXHafM.ttf",
+      "woff2": "https://fonts.gstatic.com/s/spectral/v6/rnCu-xNNww_2s0amA9M8qrXHafY.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=rnCu-xNNww_2s0amA9M8qrXHafE&skey=d0f6fc1954684471&v=v6#Spectral",
+      "ttf": "https://fonts.gstatic.com/s/spectral/v6/rnCu-xNNww_2s0amA9M8qrXHafM.ttf",
+      "eot": "https://fonts.gstatic.com/s/spectral/v6/rnCu-xNNww_2s0amA9M8qrXHafI.eot",
       "errored": false
     },
     {
@@ -100,34 +100,50 @@
     },
     {
       "id": "500",
-      "eot": "https://fonts.gstatic.com/s/spectral/v6/rnCs-xNNww_2s0amA9vKsV3H.eot",
+      "woff2": "https://fonts.gstatic.com/s/spectral/v6/rnCs-xNNww_2s0amA9vKsV3D.woff2",
       "fontFamily": "'Spectral'",
       "fontStyle": "normal",
       "fontWeight": "500",
-      "woff": "https://fonts.gstatic.com/s/spectral/v6/rnCs-xNNww_2s0amA9vKsV3F.woff",
       "local": [
         "Spectral Medium",
         "Spectral-Medium"
       ],
       "svg": "https://fonts.gstatic.com/l/font?kit=rnCs-xNNww_2s0amA9vKsV3E&skey=10d6409f23e209dd&v=v6#Spectral",
-      "woff2": "https://fonts.gstatic.com/s/spectral/v6/rnCs-xNNww_2s0amA9vKsV3D.woff2",
       "ttf": "https://fonts.gstatic.com/s/spectral/v6/rnCs-xNNww_2s0amA9vKsV3G.ttf",
+      "eot": "https://fonts.gstatic.com/s/spectral/v6/rnCs-xNNww_2s0amA9vKsV3H.eot",
+      "woff": "https://fonts.gstatic.com/s/spectral/v6/rnCs-xNNww_2s0amA9vKsV3F.woff",
       "errored": false
     },
     {
       "id": "500italic",
-      "woff": "https://fonts.gstatic.com/s/spectral/v6/rnCu-xNNww_2s0amA9M8qonFafA.woff",
+      "eot": "https://fonts.gstatic.com/s/spectral/v6/rnCu-xNNww_2s0amA9M8qonFafI.eot",
       "fontFamily": "'Spectral'",
       "fontStyle": "italic",
       "fontWeight": "500",
+      "woff": "https://fonts.gstatic.com/s/spectral/v6/rnCu-xNNww_2s0amA9M8qonFafA.woff",
       "local": [
         "Spectral Medium Italic",
         "Spectral-MediumItalic"
       ],
-      "eot": "https://fonts.gstatic.com/s/spectral/v6/rnCu-xNNww_2s0amA9M8qonFafI.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=rnCu-xNNww_2s0amA9M8qonFafE&skey=6db07f4e137c2321&v=v6#Spectral",
-      "ttf": "https://fonts.gstatic.com/s/spectral/v6/rnCu-xNNww_2s0amA9M8qonFafM.ttf",
       "woff2": "https://fonts.gstatic.com/s/spectral/v6/rnCu-xNNww_2s0amA9M8qonFafY.woff2",
+      "ttf": "https://fonts.gstatic.com/s/spectral/v6/rnCu-xNNww_2s0amA9M8qonFafM.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=rnCu-xNNww_2s0amA9M8qonFafE&skey=6db07f4e137c2321&v=v6#Spectral",
+      "errored": false
+    },
+    {
+      "id": "600",
+      "eot": "https://fonts.gstatic.com/s/spectral/v6/rnCs-xNNww_2s0amA9vmtl3H.eot",
+      "fontFamily": "'Spectral'",
+      "fontStyle": "normal",
+      "fontWeight": "600",
+      "woff": "https://fonts.gstatic.com/s/spectral/v6/rnCs-xNNww_2s0amA9vmtl3F.woff",
+      "local": [
+        "Spectral SemiBold",
+        "Spectral-SemiBold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/spectral/v6/rnCs-xNNww_2s0amA9vmtl3D.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=rnCs-xNNww_2s0amA9vmtl3E&skey=aa2f81fe73d66396&v=v6#Spectral",
+      "ttf": "https://fonts.gstatic.com/s/spectral/v6/rnCs-xNNww_2s0amA9vmtl3G.ttf",
       "errored": false
     },
     {
@@ -142,37 +158,21 @@
         "Spectral-SemiBoldItalic"
       ],
       "woff": "https://fonts.gstatic.com/s/spectral/v6/rnCu-xNNww_2s0amA9M8qqXCafA.woff",
-      "ttf": "https://fonts.gstatic.com/s/spectral/v6/rnCu-xNNww_2s0amA9M8qqXCafM.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=rnCu-xNNww_2s0amA9M8qqXCafE&skey=5d525d4f63eeb586&v=v6#Spectral",
-      "errored": false
-    },
-    {
-      "id": "600",
-      "eot": "https://fonts.gstatic.com/s/spectral/v6/rnCs-xNNww_2s0amA9vmtl3H.eot",
-      "fontFamily": "'Spectral'",
-      "fontStyle": "normal",
-      "fontWeight": "600",
-      "svg": "https://fonts.gstatic.com/l/font?kit=rnCs-xNNww_2s0amA9vmtl3E&skey=aa2f81fe73d66396&v=v6#Spectral",
-      "local": [
-        "Spectral SemiBold",
-        "Spectral-SemiBold"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/spectral/v6/rnCs-xNNww_2s0amA9vmtl3D.woff2",
-      "woff": "https://fonts.gstatic.com/s/spectral/v6/rnCs-xNNww_2s0amA9vmtl3F.woff",
-      "ttf": "https://fonts.gstatic.com/s/spectral/v6/rnCs-xNNww_2s0amA9vmtl3G.ttf",
+      "ttf": "https://fonts.gstatic.com/s/spectral/v6/rnCu-xNNww_2s0amA9M8qqXCafM.ttf",
       "errored": false
     },
     {
       "id": "700",
-      "woff": "https://fonts.gstatic.com/s/spectral/v6/rnCs-xNNww_2s0amA9uCt13F.woff",
+      "eot": "https://fonts.gstatic.com/s/spectral/v6/rnCs-xNNww_2s0amA9uCt13H.eot",
       "fontFamily": "'Spectral'",
       "fontStyle": "normal",
       "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/spectral/v6/rnCs-xNNww_2s0amA9uCt13F.woff",
       "local": [
         "Spectral Bold",
         "Spectral-Bold"
       ],
-      "eot": "https://fonts.gstatic.com/s/spectral/v6/rnCs-xNNww_2s0amA9uCt13H.eot",
       "woff2": "https://fonts.gstatic.com/s/spectral/v6/rnCs-xNNww_2s0amA9uCt13D.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=rnCs-xNNww_2s0amA9uCt13E&skey=d62f803196c024a3&v=v6#Spectral",
       "ttf": "https://fonts.gstatic.com/s/spectral/v6/rnCs-xNNww_2s0amA9uCt13G.ttf",
@@ -184,14 +184,14 @@
       "fontFamily": "'Spectral'",
       "fontStyle": "italic",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/spectral/v6/rnCu-xNNww_2s0amA9M8qsHDafA.woff",
+      "woff2": "https://fonts.gstatic.com/s/spectral/v6/rnCu-xNNww_2s0amA9M8qsHDafY.woff2",
       "local": [
         "Spectral Bold Italic",
         "Spectral-BoldItalic"
       ],
       "svg": "https://fonts.gstatic.com/l/font?kit=rnCu-xNNww_2s0amA9M8qsHDafE&skey=d878faef11c5b2c2&v=v6#Spectral",
       "ttf": "https://fonts.gstatic.com/s/spectral/v6/rnCu-xNNww_2s0amA9M8qsHDafM.ttf",
-      "woff2": "https://fonts.gstatic.com/s/spectral/v6/rnCu-xNNww_2s0amA9M8qsHDafY.woff2",
+      "woff": "https://fonts.gstatic.com/s/spectral/v6/rnCu-xNNww_2s0amA9M8qsHDafA.woff",
       "errored": false
     },
     {
@@ -206,8 +206,8 @@
         "Spectral-ExtraBold"
       ],
       "woff2": "https://fonts.gstatic.com/s/spectral/v6/rnCs-xNNww_2s0amA9uetF3D.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=rnCs-xNNww_2s0amA9uetF3E&skey=b803eae687458930&v=v6#Spectral",
       "ttf": "https://fonts.gstatic.com/s/spectral/v6/rnCs-xNNww_2s0amA9uetF3G.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=rnCs-xNNww_2s0amA9uetF3E&skey=b803eae687458930&v=v6#Spectral",
       "errored": false
     },
     {
@@ -230,20 +230,20 @@
   "subsets": [
     "vietnamese",
     "latin",
-    "latin-ext",
-    "cyrillic"
+    "cyrillic",
+    "latin-ext"
   ],
   "category": "serif",
   "version": "v6",
   "lastModified": "2019-07-16",
-  "popularity": 227,
+  "popularity": 234,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "vietnamese": true,
     "latin": true,
-    "latin-ext": true,
-    "cyrillic": true
+    "cyrillic": true,
+    "latin-ext": true
   },
-  "storeID": "cyrillic_latin-ext_latin_vietnamese"
+  "storeID": "latin-ext_cyrillic_latin_vietnamese"
 }

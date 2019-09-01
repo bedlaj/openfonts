@@ -4,17 +4,17 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/fresca/v8/6ae94K--SKgCzbMGE7cR.woff",
+      "ttf": "https://fonts.gstatic.com/s/fresca/v8/6ae94K--SKgCzbMGE7cS.ttf",
       "fontFamily": "'Fresca'",
       "fontStyle": "normal",
       "fontWeight": "400",
       "local": [
         "Fresca-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=6ae94K--SKgCzbMGE7cQ&skey=3ce39b8c0a3206e0&v=v8#Fresca",
-      "ttf": "https://fonts.gstatic.com/s/fresca/v8/6ae94K--SKgCzbMGE7cS.ttf",
-      "eot": "https://fonts.gstatic.com/s/fresca/v8/6ae94K--SKgCzbMGE7cT.eot",
+      "woff": "https://fonts.gstatic.com/s/fresca/v8/6ae94K--SKgCzbMGE7cR.woff",
       "woff2": "https://fonts.gstatic.com/s/fresca/v8/6ae94K--SKgCzbMGE7cX.woff2",
+      "eot": "https://fonts.gstatic.com/s/fresca/v8/6ae94K--SKgCzbMGE7cT.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=6ae94K--SKgCzbMGE7cQ&skey=3ce39b8c0a3206e0&v=v8#Fresca",
       "errored": false
     }
   ],
@@ -25,7 +25,7 @@
   "category": "sans-serif",
   "version": "v8",
   "lastModified": "2019-07-16",
-  "popularity": 607,
+  "popularity": 600,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

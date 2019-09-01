@@ -4,18 +4,34 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/overlock/v9/Z9XVDmdMWRiN1_T9Z7TX6Oo.woff",
+      "eot": "https://fonts.gstatic.com/s/overlock/v9/Z9XVDmdMWRiN1_T9Z7TX6Og.eot",
       "fontFamily": "'Overlock'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/overlock/v9/Z9XVDmdMWRiN1_T9Z7TX6Oo.woff",
       "local": [
         "Overlock Regular",
         "Overlock-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/overlock/v9/Z9XVDmdMWRiN1_T9Z7TX6Ow.woff2",
-      "eot": "https://fonts.gstatic.com/s/overlock/v9/Z9XVDmdMWRiN1_T9Z7TX6Og.eot",
-      "ttf": "https://fonts.gstatic.com/s/overlock/v9/Z9XVDmdMWRiN1_T9Z7TX6Ok.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=Z9XVDmdMWRiN1_T9Z7TX6Os&skey=f7e0b7327793af6c&v=v9#Overlock",
+      "ttf": "https://fonts.gstatic.com/s/overlock/v9/Z9XVDmdMWRiN1_T9Z7TX6Ok.ttf",
+      "woff2": "https://fonts.gstatic.com/s/overlock/v9/Z9XVDmdMWRiN1_T9Z7TX6Ow.woff2",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "eot": "https://fonts.gstatic.com/s/overlock/v9/Z9XTDmdMWRiN1_T9Z7Tc2OCslw.eot",
+      "fontFamily": "'Overlock'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/overlock/v9/Z9XTDmdMWRiN1_T9Z7Tc2OCslQ.woff",
+      "local": [
+        "Overlock Italic",
+        "Overlock-Italic"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/overlock/v9/Z9XTDmdMWRiN1_T9Z7Tc2OCslg.ttf",
+      "woff2": "https://fonts.gstatic.com/s/overlock/v9/Z9XTDmdMWRiN1_T9Z7Tc2OCskw.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Z9XTDmdMWRiN1_T9Z7Tc2OCslA&skey=e00196b89987d926&v=v9#Overlock",
       "errored": false
     },
     {
@@ -29,25 +45,9 @@
         "Overlock Bold",
         "Overlock-Bold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/overlock/v9/Z9XSDmdMWRiN1_T9Z7xizfmFtrw.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=Z9XSDmdMWRiN1_T9Z7xizfmFtrs&skey=91394cdd6f0e46b0&v=v9#Overlock",
+      "woff2": "https://fonts.gstatic.com/s/overlock/v9/Z9XSDmdMWRiN1_T9Z7xizfmFtrw.woff2",
       "ttf": "https://fonts.gstatic.com/s/overlock/v9/Z9XSDmdMWRiN1_T9Z7xizfmFtrk.ttf",
-      "errored": false
-    },
-    {
-      "id": "italic",
-      "eot": "https://fonts.gstatic.com/s/overlock/v9/Z9XTDmdMWRiN1_T9Z7Tc2OCslw.eot",
-      "fontFamily": "'Overlock'",
-      "fontStyle": "italic",
-      "fontWeight": "400",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Z9XTDmdMWRiN1_T9Z7Tc2OCslA&skey=e00196b89987d926&v=v9#Overlock",
-      "local": [
-        "Overlock Italic",
-        "Overlock-Italic"
-      ],
-      "ttf": "https://fonts.gstatic.com/s/overlock/v9/Z9XTDmdMWRiN1_T9Z7Tc2OCslg.ttf",
-      "woff2": "https://fonts.gstatic.com/s/overlock/v9/Z9XTDmdMWRiN1_T9Z7Tc2OCskw.woff2",
-      "woff": "https://fonts.gstatic.com/s/overlock/v9/Z9XTDmdMWRiN1_T9Z7Tc2OCslQ.woff",
       "errored": false
     },
     {
@@ -72,14 +72,14 @@
       "fontFamily": "'Overlock'",
       "fontStyle": "normal",
       "fontWeight": "900",
-      "woff2": "https://fonts.gstatic.com/s/overlock/v9/Z9XSDmdMWRiN1_T9Z7xaz_mFtrw.woff2",
+      "woff": "https://fonts.gstatic.com/s/overlock/v9/Z9XSDmdMWRiN1_T9Z7xaz_mFtro.woff",
       "local": [
         "Overlock Black",
         "Overlock-Black"
       ],
-      "woff": "https://fonts.gstatic.com/s/overlock/v9/Z9XSDmdMWRiN1_T9Z7xaz_mFtro.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Z9XSDmdMWRiN1_T9Z7xaz_mFtrs&skey=b7b51fbca36f84ca&v=v9#Overlock",
+      "woff2": "https://fonts.gstatic.com/s/overlock/v9/Z9XSDmdMWRiN1_T9Z7xaz_mFtrw.woff2",
       "ttf": "https://fonts.gstatic.com/s/overlock/v9/Z9XSDmdMWRiN1_T9Z7xaz_mFtrk.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Z9XSDmdMWRiN1_T9Z7xaz_mFtrs&skey=b7b51fbca36f84ca&v=v9#Overlock",
       "errored": false
     },
     {
@@ -94,8 +94,8 @@
         "Overlock-BlackItalic"
       ],
       "svg": "https://fonts.gstatic.com/l/font?kit=Z9XQDmdMWRiN1_T9Z7Tc0G2LhrCj9g&skey=b1a2ce99348334cc&v=v9#Overlock",
-      "ttf": "https://fonts.gstatic.com/s/overlock/v9/Z9XQDmdMWRiN1_T9Z7Tc0G2LhrCj9A.ttf",
       "woff2": "https://fonts.gstatic.com/s/overlock/v9/Z9XQDmdMWRiN1_T9Z7Tc0G2LhrCj8Q.woff2",
+      "ttf": "https://fonts.gstatic.com/s/overlock/v9/Z9XQDmdMWRiN1_T9Z7Tc0G2LhrCj9A.ttf",
       "errored": false
     }
   ],
@@ -106,7 +106,7 @@
   "category": "display",
   "version": "v9",
   "lastModified": "2019-07-16",
-  "popularity": 324,
+  "popularity": 340,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

@@ -4,42 +4,42 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/didactgothic/v13/ahcfv8qz1zt6hCC5G4F_P4ASlUiYpg.woff2",
+      "eot": "https://fonts.gstatic.com/s/didactgothic/v13/ahcfv8qz1zt6hCC5G4F_P4ASlUiYog.eot",
       "fontFamily": "'Didact Gothic'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/didactgothic/v13/ahcfv8qz1zt6hCC5G4F_P4ASlUiYoA.woff",
       "local": [
         "Didact Gothic Regular",
         "DidactGothic-Regular"
       ],
+      "woff2": "https://fonts.gstatic.com/s/didactgothic/v13/ahcfv8qz1zt6hCC5G4F_P4ASlUiYpg.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=ahcfv8qz1zt6hCC5G4F_P4ASlUiYoQ&skey=21ea6a7f9674c318&v=v13#DidactGothic",
       "ttf": "https://fonts.gstatic.com/s/didactgothic/v13/ahcfv8qz1zt6hCC5G4F_P4ASlUiYow.ttf",
-      "eot": "https://fonts.gstatic.com/s/didactgothic/v13/ahcfv8qz1zt6hCC5G4F_P4ASlUiYog.eot",
-      "woff": "https://fonts.gstatic.com/s/didactgothic/v13/ahcfv8qz1zt6hCC5G4F_P4ASlUiYoA.woff",
       "errored": false
     }
   ],
   "subsets": [
-    "greek-ext",
     "greek",
+    "greek-ext",
     "latin",
-    "latin-ext",
+    "cyrillic-ext",
     "cyrillic",
-    "cyrillic-ext"
+    "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v13",
   "lastModified": "2019-07-17",
-  "popularity": 142,
+  "popularity": 147,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "greek-ext": false,
     "greek": true,
+    "greek-ext": false,
     "latin": true,
-    "latin-ext": false,
+    "cyrillic-ext": false,
     "cyrillic": false,
-    "cyrillic-ext": false
+    "latin-ext": false
   },
   "storeID": "latin_greek"
 }

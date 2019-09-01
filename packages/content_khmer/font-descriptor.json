@@ -4,22 +4,22 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/content/v12/zrfl0HLayePhU_AwYaz4JQ.woff",
+      "eot": "https://fonts.gstatic.com/s/content/v12/zrfl0HLayePhU_AwYaz4Jw.eot",
       "fontFamily": "'Content'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/content/v12/zrfl0HLayePhU_AwYaz4Iw.woff2",
       "local": [
         "Content"
       ],
+      "woff": "https://fonts.gstatic.com/s/content/v12/zrfl0HLayePhU_AwYaz4JQ.woff",
       "ttf": "https://fonts.gstatic.com/s/content/v12/zrfl0HLayePhU_AwYaz4Jg.ttf",
-      "woff2": "https://fonts.gstatic.com/s/content/v12/zrfl0HLayePhU_AwYaz4Iw.woff2",
-      "eot": "https://fonts.gstatic.com/s/content/v12/zrfl0HLayePhU_AwYaz4Jw.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=zrfl0HLayePhU_AwYaz4JA&skey=df16c0bda2ebb594&v=v12#Content",
       "errored": false
     },
     {
       "id": "700",
-      "ttf": "https://fonts.gstatic.com/s/content/v12/zrfg0HLayePhU_AwaRzdNibVXA.ttf",
+      "woff": "https://fonts.gstatic.com/s/content/v12/zrfg0HLayePhU_AwaRzdNibVXw.woff",
       "fontFamily": "'Content'",
       "fontStyle": "normal",
       "fontWeight": "700",
@@ -27,10 +27,10 @@
         "Content Bold",
         "Content-Bold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/content/v12/zrfg0HLayePhU_AwaRzdNibVWQ.woff2",
-      "woff": "https://fonts.gstatic.com/s/content/v12/zrfg0HLayePhU_AwaRzdNibVXw.woff",
       "eot": "https://fonts.gstatic.com/s/content/v12/zrfg0HLayePhU_AwaRzdNibVXQ.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=zrfg0HLayePhU_AwaRzdNibVXg&skey=2cb501a81b30e788&v=v12#Content",
+      "woff2": "https://fonts.gstatic.com/s/content/v12/zrfg0HLayePhU_AwaRzdNibVWQ.woff2",
+      "ttf": "https://fonts.gstatic.com/s/content/v12/zrfg0HLayePhU_AwaRzdNibVXA.ttf",
       "errored": false
     }
   ],
@@ -40,7 +40,7 @@
   "category": "display",
   "version": "v12",
   "lastModified": "2019-07-16",
-  "popularity": 811,
+  "popularity": 813,
   "defSubset": "khmer",
   "defVariant": "regular",
   "subsetMap": {

@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/mina/v3/-nFzOGc18vARnypp6Q.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=-nFzOGc18vARnypp6A&skey=443fdf0a1d81ab47&v=v3#Mina",
       "fontFamily": "'Mina'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,15 +12,15 @@
         "Mina",
         "Mina-Regular"
       ],
+      "woff": "https://fonts.gstatic.com/s/mina/v3/-nFzOGc18vARnypp6Q.woff",
       "eot": "https://fonts.gstatic.com/s/mina/v3/-nFzOGc18vARnypp6w.eot",
       "woff2": "https://fonts.gstatic.com/s/mina/v3/-nFzOGc18vARnypp7w.woff2",
       "ttf": "https://fonts.gstatic.com/s/mina/v3/-nFzOGc18vARnypp6g.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=-nFzOGc18vARnypp6A&skey=443fdf0a1d81ab47&v=v3#Mina",
       "errored": false
     },
     {
       "id": "700",
-      "woff": "https://fonts.gstatic.com/s/mina/v3/-nF8OGc18vARl4NM-jDT8A.woff",
+      "woff2": "https://fonts.gstatic.com/s/mina/v3/-nF8OGc18vARl4NM-jDT9g.woff2",
       "fontFamily": "'Mina'",
       "fontStyle": "normal",
       "fontWeight": "700",
@@ -28,28 +28,28 @@
         "Mina Bold",
         "Mina-Bold"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=-nF8OGc18vARl4NM-jDT8Q&skey=c886375473c13d5&v=v3#Mina",
-      "woff2": "https://fonts.gstatic.com/s/mina/v3/-nF8OGc18vARl4NM-jDT9g.woff2",
       "ttf": "https://fonts.gstatic.com/s/mina/v3/-nF8OGc18vARl4NM-jDT8w.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=-nF8OGc18vARl4NM-jDT8Q&skey=c886375473c13d5&v=v3#Mina",
       "eot": "https://fonts.gstatic.com/s/mina/v3/-nF8OGc18vARl4NM-jDT8g.eot",
+      "woff": "https://fonts.gstatic.com/s/mina/v3/-nF8OGc18vARl4NM-jDT8A.woff",
       "errored": false
     }
   ],
   "subsets": [
     "latin",
-    "latin-ext",
-    "bengali"
+    "bengali",
+    "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v3",
   "lastModified": "2019-07-16",
-  "popularity": 735,
+  "popularity": 754,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "latin": true,
-    "latin-ext": false,
-    "bengali": true
+    "bengali": true,
+    "latin-ext": false
   },
   "storeID": "bengali_latin"
 }

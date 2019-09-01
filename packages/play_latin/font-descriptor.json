@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/play/v11/6aez4K2oVqwIvtU2Gg.ttf",
+      "woff2": "https://fonts.gstatic.com/s/play/v11/6aez4K2oVqwIvtU2Hw.woff2",
       "fontFamily": "'Play'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,50 +12,50 @@
         "Play Regular",
         "Play-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/play/v11/6aez4K2oVqwIvtU2Gw.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=6aez4K2oVqwIvtU2GA&skey=b09c7c1d7347911b&v=v11#Play",
-      "woff2": "https://fonts.gstatic.com/s/play/v11/6aez4K2oVqwIvtU2Hw.woff2",
       "woff": "https://fonts.gstatic.com/s/play/v11/6aez4K2oVqwIvtU2GQ.woff",
+      "eot": "https://fonts.gstatic.com/s/play/v11/6aez4K2oVqwIvtU2Gw.eot",
+      "ttf": "https://fonts.gstatic.com/s/play/v11/6aez4K2oVqwIvtU2Gg.ttf",
       "errored": false
     },
     {
       "id": "700",
-      "svg": "https://fonts.gstatic.com/l/font?kit=6ae84K2oVqwItm4TCpAy3Q&skey=545b346b46c13d48&v=v11#Play",
+      "eot": "https://fonts.gstatic.com/s/play/v11/6ae84K2oVqwItm4TCpAy3g.eot",
       "fontFamily": "'Play'",
       "fontStyle": "normal",
       "fontWeight": "700",
+      "svg": "https://fonts.gstatic.com/l/font?kit=6ae84K2oVqwItm4TCpAy3Q&skey=545b346b46c13d48&v=v11#Play",
       "local": [
         "Play Bold",
         "Play-Bold"
       ],
       "woff": "https://fonts.gstatic.com/s/play/v11/6ae84K2oVqwItm4TCpAy3A.woff",
-      "woff2": "https://fonts.gstatic.com/s/play/v11/6ae84K2oVqwItm4TCpAy2g.woff2",
       "ttf": "https://fonts.gstatic.com/s/play/v11/6ae84K2oVqwItm4TCpAy3w.ttf",
-      "eot": "https://fonts.gstatic.com/s/play/v11/6ae84K2oVqwItm4TCpAy3g.eot",
+      "woff2": "https://fonts.gstatic.com/s/play/v11/6ae84K2oVqwItm4TCpAy2g.woff2",
       "errored": false
     }
   ],
   "subsets": [
-    "vietnamese",
     "greek",
+    "vietnamese",
     "latin",
-    "latin-ext",
+    "cyrillic-ext",
     "cyrillic",
-    "cyrillic-ext"
+    "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v11",
   "lastModified": "2019-07-17",
-  "popularity": 93,
+  "popularity": 90,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "vietnamese": false,
     "greek": false,
+    "vietnamese": false,
     "latin": true,
-    "latin-ext": false,
+    "cyrillic-ext": false,
     "cyrillic": false,
-    "cyrillic-ext": false
+    "latin-ext": false
   },
   "storeID": "latin"
 }

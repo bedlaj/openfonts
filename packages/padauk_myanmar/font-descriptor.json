@@ -12,42 +12,42 @@
         "",
         "Padauk-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/padauk/v6/RrQRboJg-id7OnbxckXl.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=RrQRboJg-id7OnbxckXm&skey=432b8f321c2c2942&v=v6#Padauk",
-      "woff2": "https://fonts.gstatic.com/s/padauk/v6/RrQRboJg-id7OnbxckXh.woff2",
       "ttf": "https://fonts.gstatic.com/s/padauk/v6/RrQRboJg-id7OnbxckXk.ttf",
+      "woff2": "https://fonts.gstatic.com/s/padauk/v6/RrQRboJg-id7OnbxckXh.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=RrQRboJg-id7OnbxckXm&skey=432b8f321c2c2942&v=v6#Padauk",
+      "eot": "https://fonts.gstatic.com/s/padauk/v6/RrQRboJg-id7OnbxckXl.eot",
       "errored": false
     },
     {
       "id": "700",
-      "eot": "https://fonts.gstatic.com/s/padauk/v6/RrQSboJg-id7Onb512D0zZhB.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=RrQSboJg-id7Onb512D0zZhC&skey=87ced0acc31e145d&v=v6#Padauk",
       "fontFamily": "'Padauk'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "svg": "https://fonts.gstatic.com/l/font?kit=RrQSboJg-id7Onb512D0zZhC&skey=87ced0acc31e145d&v=v6#Padauk",
       "local": [
         " ",
         "Padauk-Bold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/padauk/v6/RrQSboJg-id7Onb512D0zZhF.woff2",
-      "ttf": "https://fonts.gstatic.com/s/padauk/v6/RrQSboJg-id7Onb512D0zZhA.ttf",
       "woff": "https://fonts.gstatic.com/s/padauk/v6/RrQSboJg-id7Onb512D0zZhD.woff",
+      "eot": "https://fonts.gstatic.com/s/padauk/v6/RrQSboJg-id7Onb512D0zZhB.eot",
+      "ttf": "https://fonts.gstatic.com/s/padauk/v6/RrQSboJg-id7Onb512D0zZhA.ttf",
+      "woff2": "https://fonts.gstatic.com/s/padauk/v6/RrQSboJg-id7Onb512D0zZhF.woff2",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
-    "myanmar"
+    "myanmar",
+    "latin"
   ],
   "category": "sans-serif",
   "version": "v6",
   "lastModified": "2019-07-16",
-  "popularity": 641,
+  "popularity": 627,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
-    "myanmar": true
+    "myanmar": true,
+    "latin": true
   },
-  "storeID": "myanmar_latin"
+  "storeID": "latin_myanmar"
 }

@@ -30,26 +30,26 @@
         "Jaldi-Bold"
       ],
       "woff2": "https://fonts.gstatic.com/s/jaldi/v6/or3hQ67z0_CI33voSbTy.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=or3hQ67z0_CI33voSbT1&skey=b6fe25580230f49d&v=v6#Jaldi",
       "ttf": "https://fonts.gstatic.com/s/jaldi/v6/or3hQ67z0_CI33voSbT3.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=or3hQ67z0_CI33voSbT1&skey=b6fe25580230f49d&v=v6#Jaldi",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
     "devanagari",
+    "latin",
     "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v6",
   "lastModified": "2019-07-16",
-  "popularity": 231,
+  "popularity": 237,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
     "devanagari": true,
+    "latin": true,
     "latin-ext": true
   },
-  "storeID": "latin-ext_devanagari_latin"
+  "storeID": "latin-ext_latin_devanagari"
 }

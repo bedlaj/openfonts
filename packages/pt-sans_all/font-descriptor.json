@@ -4,34 +4,50 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/ptsans/v11/jizaRExUiTo99u79P0Q.eot",
+      "woff2": "https://fonts.gstatic.com/s/ptsans/v11/jizaRExUiTo99u79P0A.woff2",
       "fontFamily": "'PT Sans'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/ptsans/v11/jizaRExUiTo99u79P0A.woff2",
       "local": [
         "PT Sans",
         "PTSans-Regular"
       ],
+      "woff": "https://fonts.gstatic.com/s/ptsans/v11/jizaRExUiTo99u79P0Y.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=jizaRExUiTo99u79P0c&skey=fd0b32f0f3e6a1fc&v=v11#PTSans",
       "ttf": "https://fonts.gstatic.com/s/ptsans/v11/jizaRExUiTo99u79P0U.ttf",
-      "woff": "https://fonts.gstatic.com/s/ptsans/v11/jizaRExUiTo99u79P0Y.woff",
+      "eot": "https://fonts.gstatic.com/s/ptsans/v11/jizaRExUiTo99u79P0Q.eot",
       "errored": false
     },
     {
       "id": "italic",
-      "eot": "https://fonts.gstatic.com/s/ptsans/v11/jizYRExUiTo99u79D0eEwQ.eot",
+      "ttf": "https://fonts.gstatic.com/s/ptsans/v11/jizYRExUiTo99u79D0eEwA.ttf",
       "fontFamily": "'PT Sans'",
       "fontStyle": "italic",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/ptsans/v11/jizYRExUiTo99u79D0eEww.woff",
       "local": [
         "PT Sans Italic",
         "PTSans-Italic"
       ],
-      "woff2": "https://fonts.gstatic.com/s/ptsans/v11/jizYRExUiTo99u79D0eExQ.woff2",
+      "woff": "https://fonts.gstatic.com/s/ptsans/v11/jizYRExUiTo99u79D0eEww.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=jizYRExUiTo99u79D0eEwg&skey=cef7fd018888390e&v=v11#PTSans",
-      "ttf": "https://fonts.gstatic.com/s/ptsans/v11/jizYRExUiTo99u79D0eEwA.ttf",
+      "eot": "https://fonts.gstatic.com/s/ptsans/v11/jizYRExUiTo99u79D0eEwQ.eot",
+      "woff2": "https://fonts.gstatic.com/s/ptsans/v11/jizYRExUiTo99u79D0eExQ.woff2",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/ptsans/v11/jizfRExUiTo99u79B_mh4Og.eot",
+      "fontFamily": "'PT Sans'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff2": "https://fonts.gstatic.com/s/ptsans/v11/jizfRExUiTo99u79B_mh4Ow.woff2",
+      "local": [
+        "PT Sans Bold",
+        "PTSans-Bold"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=jizfRExUiTo99u79B_mh4Os&skey=a45e760d002c9b10&v=v11#PTSans",
+      "woff": "https://fonts.gstatic.com/s/ptsans/v11/jizfRExUiTo99u79B_mh4Oo.woff",
+      "ttf": "https://fonts.gstatic.com/s/ptsans/v11/jizfRExUiTo99u79B_mh4Ok.ttf",
       "errored": false
     },
     {
@@ -45,33 +61,17 @@
         "PT Sans Bold Italic",
         "PTSans-BoldItalic"
       ],
-      "woff2": "https://fonts.gstatic.com/s/ptsans/v11/jizdRExUiTo99u79D0e8fOytLQ.woff2",
       "woff": "https://fonts.gstatic.com/s/ptsans/v11/jizdRExUiTo99u79D0e8fOytKw.woff",
       "ttf": "https://fonts.gstatic.com/s/ptsans/v11/jizdRExUiTo99u79D0e8fOytKA.ttf",
-      "errored": false
-    },
-    {
-      "id": "700",
-      "woff": "https://fonts.gstatic.com/s/ptsans/v11/jizfRExUiTo99u79B_mh4Oo.woff",
-      "fontFamily": "'PT Sans'",
-      "fontStyle": "normal",
-      "fontWeight": "700",
-      "local": [
-        "PT Sans Bold",
-        "PTSans-Bold"
-      ],
-      "eot": "https://fonts.gstatic.com/s/ptsans/v11/jizfRExUiTo99u79B_mh4Og.eot",
-      "ttf": "https://fonts.gstatic.com/s/ptsans/v11/jizfRExUiTo99u79B_mh4Ok.ttf",
-      "woff2": "https://fonts.gstatic.com/s/ptsans/v11/jizfRExUiTo99u79B_mh4Ow.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=jizfRExUiTo99u79B_mh4Os&skey=a45e760d002c9b10&v=v11#PTSans",
+      "woff2": "https://fonts.gstatic.com/s/ptsans/v11/jizdRExUiTo99u79D0e8fOytLQ.woff2",
       "errored": false
     }
   ],
   "subsets": [
     "latin",
-    "latin-ext",
+    "cyrillic-ext",
     "cyrillic",
-    "cyrillic-ext"
+    "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v11",
@@ -81,9 +81,9 @@
   "defVariant": "regular",
   "subsetMap": {
     "latin": true,
-    "latin-ext": true,
+    "cyrillic-ext": true,
     "cyrillic": true,
-    "cyrillic-ext": true
+    "latin-ext": true
   },
-  "storeID": "cyrillic-ext_cyrillic_latin-ext_latin"
+  "storeID": "latin-ext_cyrillic_cyrillic-ext_latin"
 }

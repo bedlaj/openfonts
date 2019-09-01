@@ -4,50 +4,50 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/elmessiri/v6/K2F0fZBRmr9vQ1pHEey6MomABg.eot",
+      "woff": "https://fonts.gstatic.com/s/elmessiri/v6/K2F0fZBRmr9vQ1pHEey6MomABA.woff",
       "fontFamily": "'El Messiri'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "svg": "https://fonts.gstatic.com/l/font?kit=K2F0fZBRmr9vQ1pHEey6MomABQ&skey=25ae73c7898b7d9b&v=v6#ElMessiri",
       "local": [
         "El Messiri",
         "ElMessiri-Regular"
       ],
+      "eot": "https://fonts.gstatic.com/s/elmessiri/v6/K2F0fZBRmr9vQ1pHEey6MomABg.eot",
       "ttf": "https://fonts.gstatic.com/s/elmessiri/v6/K2F0fZBRmr9vQ1pHEey6MomABw.ttf",
-      "woff": "https://fonts.gstatic.com/s/elmessiri/v6/K2F0fZBRmr9vQ1pHEey6MomABA.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=K2F0fZBRmr9vQ1pHEey6MomABQ&skey=25ae73c7898b7d9b&v=v6#ElMessiri",
       "woff2": "https://fonts.gstatic.com/s/elmessiri/v6/K2F0fZBRmr9vQ1pHEey6MomAAg.woff2",
       "errored": false
     },
     {
-      "id": "500",
-      "eot": "https://fonts.gstatic.com/s/elmessiri/v6/K2F3fZBRmr9vQ1pHEey6On6jFynSZA.eot",
-      "fontFamily": "'El Messiri'",
-      "fontStyle": "normal",
-      "fontWeight": "500",
-      "woff2": "https://fonts.gstatic.com/s/elmessiri/v6/K2F3fZBRmr9vQ1pHEey6On6jFynSYA.woff2",
-      "local": [
-        "El Messiri Medium",
-        "ElMessiri-Medium"
-      ],
-      "woff": "https://fonts.gstatic.com/s/elmessiri/v6/K2F3fZBRmr9vQ1pHEey6On6jFynSZg.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=K2F3fZBRmr9vQ1pHEey6On6jFynSZw&skey=b06bc5a3906ec150&v=v6#ElMessiri",
-      "ttf": "https://fonts.gstatic.com/s/elmessiri/v6/K2F3fZBRmr9vQ1pHEey6On6jFynSZQ.ttf",
-      "errored": false
-    },
-    {
       "id": "600",
-      "eot": "https://fonts.gstatic.com/s/elmessiri/v6/K2F3fZBRmr9vQ1pHEey6OlKkFynSZA.eot",
+      "woff": "https://fonts.gstatic.com/s/elmessiri/v6/K2F3fZBRmr9vQ1pHEey6OlKkFynSZg.woff",
       "fontFamily": "'El Messiri'",
       "fontStyle": "normal",
       "fontWeight": "600",
-      "woff": "https://fonts.gstatic.com/s/elmessiri/v6/K2F3fZBRmr9vQ1pHEey6OlKkFynSZg.woff",
       "local": [
         "El Messiri SemiBold",
         "ElMessiri-SemiBold"
       ],
+      "eot": "https://fonts.gstatic.com/s/elmessiri/v6/K2F3fZBRmr9vQ1pHEey6OlKkFynSZA.eot",
       "woff2": "https://fonts.gstatic.com/s/elmessiri/v6/K2F3fZBRmr9vQ1pHEey6OlKkFynSYA.woff2",
-      "ttf": "https://fonts.gstatic.com/s/elmessiri/v6/K2F3fZBRmr9vQ1pHEey6OlKkFynSZQ.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=K2F3fZBRmr9vQ1pHEey6OlKkFynSZw&skey=a4ca1922da8b820d&v=v6#ElMessiri",
+      "ttf": "https://fonts.gstatic.com/s/elmessiri/v6/K2F3fZBRmr9vQ1pHEey6OlKkFynSZQ.ttf",
+      "errored": false
+    },
+    {
+      "id": "500",
+      "ttf": "https://fonts.gstatic.com/s/elmessiri/v6/K2F3fZBRmr9vQ1pHEey6On6jFynSZQ.ttf",
+      "fontFamily": "'El Messiri'",
+      "fontStyle": "normal",
+      "fontWeight": "500",
+      "local": [
+        "El Messiri Medium",
+        "ElMessiri-Medium"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/elmessiri/v6/K2F3fZBRmr9vQ1pHEey6On6jFynSYA.woff2",
+      "eot": "https://fonts.gstatic.com/s/elmessiri/v6/K2F3fZBRmr9vQ1pHEey6On6jFynSZA.eot",
+      "woff": "https://fonts.gstatic.com/s/elmessiri/v6/K2F3fZBRmr9vQ1pHEey6On6jFynSZg.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=K2F3fZBRmr9vQ1pHEey6On6jFynSZw&skey=b06bc5a3906ec150&v=v6#ElMessiri",
       "errored": false
     },
     {
@@ -61,27 +61,27 @@
         "El Messiri Bold",
         "ElMessiri-Bold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/elmessiri/v6/K2F3fZBRmr9vQ1pHEey6OjalFynSYA.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=K2F3fZBRmr9vQ1pHEey6OjalFynSZw&skey=8fb573dc631d7809&v=v6#ElMessiri",
       "ttf": "https://fonts.gstatic.com/s/elmessiri/v6/K2F3fZBRmr9vQ1pHEey6OjalFynSZQ.ttf",
+      "woff2": "https://fonts.gstatic.com/s/elmessiri/v6/K2F3fZBRmr9vQ1pHEey6OjalFynSYA.woff2",
       "errored": false
     }
   ],
   "subsets": [
+    "arabic",
     "latin",
-    "cyrillic",
-    "arabic"
+    "cyrillic"
   ],
   "category": "sans-serif",
   "version": "v6",
   "lastModified": "2019-07-16",
-  "popularity": 239,
+  "popularity": 223,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
+    "arabic": false,
     "latin": true,
-    "cyrillic": true,
-    "arabic": false
+    "cyrillic": true
   },
   "storeID": "cyrillic_latin"
 }

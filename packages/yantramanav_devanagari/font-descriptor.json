@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "100",
-      "svg": "https://fonts.gstatic.com/l/font?kit=flU-Rqu5zY00QEpyWJYWN5-QbeV5Cg&skey=4d8237ae265bcb5&v=v5#Yantramanav",
+      "ttf": "https://fonts.gstatic.com/s/yantramanav/v5/flU-Rqu5zY00QEpyWJYWN5-QbeV5CA.ttf",
       "fontFamily": "'Yantramanav'",
       "fontStyle": "normal",
       "fontWeight": "100",
@@ -13,25 +13,9 @@
         "Yantramanav-Thin"
       ],
       "woff2": "https://fonts.gstatic.com/s/yantramanav/v5/flU-Rqu5zY00QEpyWJYWN5-QbeV5DQ.woff2",
-      "ttf": "https://fonts.gstatic.com/s/yantramanav/v5/flU-Rqu5zY00QEpyWJYWN5-QbeV5CA.ttf",
-      "woff": "https://fonts.gstatic.com/s/yantramanav/v5/flU-Rqu5zY00QEpyWJYWN5-QbeV5Cw.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=flU-Rqu5zY00QEpyWJYWN5-QbeV5Cg&skey=4d8237ae265bcb5&v=v5#Yantramanav",
       "eot": "https://fonts.gstatic.com/s/yantramanav/v5/flU-Rqu5zY00QEpyWJYWN5-QbeV5CQ.eot",
-      "errored": false
-    },
-    {
-      "id": "300",
-      "woff": "https://fonts.gstatic.com/s/yantramanav/v5/flUhRqu5zY00QEpyWJYWN59Yf_NfKBU.woff",
-      "fontFamily": "'Yantramanav'",
-      "fontStyle": "normal",
-      "fontWeight": "300",
-      "local": [
-        "Yantramanav Light",
-        "Yantramanav-Light"
-      ],
-      "eot": "https://fonts.gstatic.com/s/yantramanav/v5/flUhRqu5zY00QEpyWJYWN59Yf_NfKBc.eot",
-      "woff2": "https://fonts.gstatic.com/s/yantramanav/v5/flUhRqu5zY00QEpyWJYWN59Yf_NfKBM.woff2",
-      "ttf": "https://fonts.gstatic.com/s/yantramanav/v5/flUhRqu5zY00QEpyWJYWN59Yf_NfKBY.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=flUhRqu5zY00QEpyWJYWN59Yf_NfKBQ&skey=4fb8a5ec5d9364f0&v=v5#Yantramanav",
+      "woff": "https://fonts.gstatic.com/s/yantramanav/v5/flU-Rqu5zY00QEpyWJYWN5-QbeV5Cw.woff",
       "errored": false
     },
     {
@@ -40,14 +24,30 @@
       "fontFamily": "'Yantramanav'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/yantramanav/v5/flU8Rqu5zY00QEpyWJYWN5fyXeY.woff2",
+      "woff": "https://fonts.gstatic.com/s/yantramanav/v5/flU8Rqu5zY00QEpyWJYWN5fyXeA.woff",
       "local": [
         "Yantramanav Regular",
         "Yantramanav-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/yantramanav/v5/flU8Rqu5zY00QEpyWJYWN5fyXeA.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=flU8Rqu5zY00QEpyWJYWN5fyXeE&skey=d721e4e4fbd1e850&v=v5#Yantramanav",
       "ttf": "https://fonts.gstatic.com/s/yantramanav/v5/flU8Rqu5zY00QEpyWJYWN5fyXeM.ttf",
+      "woff2": "https://fonts.gstatic.com/s/yantramanav/v5/flU8Rqu5zY00QEpyWJYWN5fyXeY.woff2",
+      "errored": false
+    },
+    {
+      "id": "300",
+      "svg": "https://fonts.gstatic.com/l/font?kit=flUhRqu5zY00QEpyWJYWN59Yf_NfKBQ&skey=4fb8a5ec5d9364f0&v=v5#Yantramanav",
+      "fontFamily": "'Yantramanav'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "local": [
+        "Yantramanav Light",
+        "Yantramanav-Light"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/yantramanav/v5/flUhRqu5zY00QEpyWJYWN59Yf_NfKBY.ttf",
+      "woff2": "https://fonts.gstatic.com/s/yantramanav/v5/flUhRqu5zY00QEpyWJYWN59Yf_NfKBM.woff2",
+      "eot": "https://fonts.gstatic.com/s/yantramanav/v5/flUhRqu5zY00QEpyWJYWN59Yf_NfKBc.eot",
+      "woff": "https://fonts.gstatic.com/s/yantramanav/v5/flUhRqu5zY00QEpyWJYWN59Yf_NfKBU.woff",
       "errored": false
     },
     {
@@ -67,53 +67,53 @@
       "errored": false
     },
     {
-      "id": "700",
-      "eot": "https://fonts.gstatic.com/s/yantramanav/v5/flUhRqu5zY00QEpyWJYWN59IePNfKBc.eot",
-      "fontFamily": "'Yantramanav'",
-      "fontStyle": "normal",
-      "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/yantramanav/v5/flUhRqu5zY00QEpyWJYWN59IePNfKBU.woff",
-      "local": [
-        "Yantramanav Bold",
-        "Yantramanav-Bold"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/yantramanav/v5/flUhRqu5zY00QEpyWJYWN59IePNfKBM.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=flUhRqu5zY00QEpyWJYWN59IePNfKBQ&skey=35b397cfb7a17297&v=v5#Yantramanav",
-      "ttf": "https://fonts.gstatic.com/s/yantramanav/v5/flUhRqu5zY00QEpyWJYWN59IePNfKBY.ttf",
-      "errored": false
-    },
-    {
       "id": "900",
       "eot": "https://fonts.gstatic.com/s/yantramanav/v5/flUhRqu5zY00QEpyWJYWN59wevNfKBc.eot",
       "fontFamily": "'Yantramanav'",
       "fontStyle": "normal",
       "fontWeight": "900",
-      "woff2": "https://fonts.gstatic.com/s/yantramanav/v5/flUhRqu5zY00QEpyWJYWN59wevNfKBM.woff2",
+      "woff": "https://fonts.gstatic.com/s/yantramanav/v5/flUhRqu5zY00QEpyWJYWN59wevNfKBU.woff",
       "local": [
         "Yantramanav Black",
         "Yantramanav-Black"
       ],
+      "woff2": "https://fonts.gstatic.com/s/yantramanav/v5/flUhRqu5zY00QEpyWJYWN59wevNfKBM.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=flUhRqu5zY00QEpyWJYWN59wevNfKBQ&skey=6a026953c40595fa&v=v5#Yantramanav",
-      "woff": "https://fonts.gstatic.com/s/yantramanav/v5/flUhRqu5zY00QEpyWJYWN59wevNfKBU.woff",
       "ttf": "https://fonts.gstatic.com/s/yantramanav/v5/flUhRqu5zY00QEpyWJYWN59wevNfKBY.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/yantramanav/v5/flUhRqu5zY00QEpyWJYWN59IePNfKBc.eot",
+      "fontFamily": "'Yantramanav'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff2": "https://fonts.gstatic.com/s/yantramanav/v5/flUhRqu5zY00QEpyWJYWN59IePNfKBM.woff2",
+      "local": [
+        "Yantramanav Bold",
+        "Yantramanav-Bold"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=flUhRqu5zY00QEpyWJYWN59IePNfKBQ&skey=35b397cfb7a17297&v=v5#Yantramanav",
+      "ttf": "https://fonts.gstatic.com/s/yantramanav/v5/flUhRqu5zY00QEpyWJYWN59IePNfKBY.ttf",
+      "woff": "https://fonts.gstatic.com/s/yantramanav/v5/flUhRqu5zY00QEpyWJYWN59IePNfKBU.woff",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
     "devanagari",
+    "latin",
     "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v5",
   "lastModified": "2019-07-16",
-  "popularity": 172,
+  "popularity": 181,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
     "devanagari": true,
+    "latin": true,
     "latin-ext": false
   },
-  "storeID": "devanagari_latin"
+  "storeID": "latin_devanagari"
 }

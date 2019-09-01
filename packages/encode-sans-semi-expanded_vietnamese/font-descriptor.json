@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "100",
-      "woff": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v5/ke8xOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM-4FIwDi.woff",
+      "woff2": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v5/ke8xOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM-4FIwDk.woff2",
       "fontFamily": "'Encode Sans Semi Expanded'",
       "fontStyle": "normal",
       "fontWeight": "100",
@@ -12,26 +12,42 @@
         "Encode Sans Semi Expanded Thin",
         "EncodeSansSemiExpanded-Thin"
       ],
-      "woff2": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v5/ke8xOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM-4FIwDk.woff2",
       "eot": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v5/ke8xOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM-4FIwDg.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=ke8xOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM-4FIwDj&skey=dc0a4068b5ecf50a&v=v5#EncodeSansSemiExpanded",
+      "woff": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v5/ke8xOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM-4FIwDi.woff",
       "ttf": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v5/ke8xOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM-4FIwDh.ttf",
       "errored": false
     },
     {
+      "id": "200",
+      "woff": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v5/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM0IUOyjBIg.woff",
+      "fontFamily": "'Encode Sans Semi Expanded'",
+      "fontStyle": "normal",
+      "fontWeight": "200",
+      "local": [
+        "Encode Sans Semi Expanded ExtraLight",
+        "EncodeSansSemiExpanded-ExtraLight"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v5/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM0IUOyjBJA.woff2",
+      "eot": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v5/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM0IUOyjBIA.eot",
+      "ttf": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v5/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM0IUOyjBIQ.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM0IUOyjBIw&skey=bbb9731d46a038ad&v=v5#EncodeSansSemiExpanded",
+      "errored": false
+    },
+    {
       "id": "300",
-      "woff": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v5/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMyYXOyjBIg.woff",
+      "eot": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v5/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMyYXOyjBIA.eot",
       "fontFamily": "'Encode Sans Semi Expanded'",
       "fontStyle": "normal",
       "fontWeight": "300",
+      "woff": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v5/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMyYXOyjBIg.woff",
       "local": [
         "Encode Sans Semi Expanded Light",
         "EncodeSansSemiExpanded-Light"
       ],
       "woff2": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v5/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMyYXOyjBJA.woff2",
-      "eot": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v5/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMyYXOyjBIA.eot",
-      "ttf": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v5/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMyYXOyjBIQ.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMyYXOyjBIw&skey=fe4df3368e732156&v=v5#EncodeSansSemiExpanded",
+      "ttf": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v5/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMyYXOyjBIQ.ttf",
       "errored": false
     },
     {
@@ -40,30 +56,14 @@
       "fontFamily": "'Encode Sans Semi Expanded'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v5/ke83OhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TO4I1Lg.woff2",
+      "woff": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v5/ke83OhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TO4I1KA.woff",
       "local": [
         "Encode Sans Semi Expanded Regular",
         "EncodeSansSemiExpanded-Regular"
       ],
       "svg": "https://fonts.gstatic.com/l/font?kit=ke83OhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TO4I1KQ&skey=4f229740d3e0a176&v=v5#EncodeSansSemiExpanded",
-      "woff": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v5/ke83OhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TO4I1KA.woff",
+      "woff2": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v5/ke83OhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TO4I1Lg.woff2",
       "ttf": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v5/ke83OhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TO4I1Kw.ttf",
-      "errored": false
-    },
-    {
-      "id": "200",
-      "eot": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v5/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM0IUOyjBIA.eot",
-      "fontFamily": "'Encode Sans Semi Expanded'",
-      "fontStyle": "normal",
-      "fontWeight": "200",
-      "woff": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v5/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM0IUOyjBIg.woff",
-      "local": [
-        "Encode Sans Semi Expanded ExtraLight",
-        "EncodeSansSemiExpanded-ExtraLight"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM0IUOyjBIw&skey=bbb9731d46a038ad&v=v5#EncodeSansSemiExpanded",
-      "woff2": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v5/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM0IUOyjBJA.woff2",
-      "ttf": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v5/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM0IUOyjBIQ.ttf",
       "errored": false
     },
     {
@@ -93,9 +93,25 @@
         "EncodeSansSemiExpanded-SemiBold"
       ],
       "eot": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v5/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM1IROyjBIA.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM1IROyjBIw&skey=a215417dfb1dacc&v=v5#EncodeSansSemiExpanded",
-      "ttf": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v5/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM1IROyjBIQ.ttf",
       "woff2": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v5/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM1IROyjBJA.woff2",
+      "ttf": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v5/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM1IROyjBIQ.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TM1IROyjBIw&skey=a215417dfb1dacc&v=v5#EncodeSansSemiExpanded",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v5/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMzYQOyjBIA.eot",
+      "fontFamily": "'Encode Sans Semi Expanded'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v5/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMzYQOyjBIg.woff",
+      "local": [
+        "Encode Sans Semi Expanded Bold",
+        "EncodeSansSemiExpanded-Bold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v5/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMzYQOyjBJA.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMzYQOyjBIw&skey=a522d23b7cd26a0d&v=v5#EncodeSansSemiExpanded",
+      "ttf": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v5/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMzYQOyjBIQ.ttf",
       "errored": false
     },
     {
@@ -129,22 +145,6 @@
       "svg": "https://fonts.gstatic.com/l/font?kit=ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMw4SOyjBIw&skey=2462d6bf6de02c23&v=v5#EncodeSansSemiExpanded",
       "ttf": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v5/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMw4SOyjBIQ.ttf",
       "errored": false
-    },
-    {
-      "id": "700",
-      "woff": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v5/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMzYQOyjBIg.woff",
-      "fontFamily": "'Encode Sans Semi Expanded'",
-      "fontStyle": "normal",
-      "fontWeight": "700",
-      "local": [
-        "Encode Sans Semi Expanded Bold",
-        "EncodeSansSemiExpanded-Bold"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v5/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMzYQOyjBJA.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMzYQOyjBIw&skey=a522d23b7cd26a0d&v=v5#EncodeSansSemiExpanded",
-      "ttf": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v5/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMzYQOyjBIQ.ttf",
-      "eot": "https://fonts.gstatic.com/s/encodesanssemiexpanded/v5/ke8yOhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TMzYQOyjBIA.eot",
-      "errored": false
     }
   ],
   "subsets": [
@@ -155,7 +155,7 @@
   "category": "sans-serif",
   "version": "v5",
   "lastModified": "2019-07-16",
-  "popularity": 576,
+  "popularity": 525,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

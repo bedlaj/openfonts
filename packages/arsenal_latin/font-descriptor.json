@@ -12,10 +12,10 @@
         "Arsenal Regular",
         "Arsenal-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/arsenal/v4/wXKrE3kQtZQ4pF3D51jcBg.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=wXKrE3kQtZQ4pF3D51jcBw&skey=af599ca341f4a7aa&v=v4#Arsenal",
-      "eot": "https://fonts.gstatic.com/s/arsenal/v4/wXKrE3kQtZQ4pF3D51jcBA.eot",
       "woff2": "https://fonts.gstatic.com/s/arsenal/v4/wXKrE3kQtZQ4pF3D51jcAA.woff2",
+      "eot": "https://fonts.gstatic.com/s/arsenal/v4/wXKrE3kQtZQ4pF3D51jcBA.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=wXKrE3kQtZQ4pF3D51jcBw&skey=af599ca341f4a7aa&v=v4#Arsenal",
+      "woff": "https://fonts.gstatic.com/s/arsenal/v4/wXKrE3kQtZQ4pF3D51jcBg.woff",
       "errored": false
     },
     {
@@ -28,10 +28,10 @@
         "Arsenal Italic",
         "Arsenal-Italic"
       ],
-      "eot": "https://fonts.gstatic.com/s/arsenal/v4/wXKpE3kQtZQ4pF3D513sAsQr.eot",
-      "woff": "https://fonts.gstatic.com/s/arsenal/v4/wXKpE3kQtZQ4pF3D513sAsQp.woff",
-      "woff2": "https://fonts.gstatic.com/s/arsenal/v4/wXKpE3kQtZQ4pF3D513sAsQv.woff2",
       "ttf": "https://fonts.gstatic.com/s/arsenal/v4/wXKpE3kQtZQ4pF3D513sAsQq.ttf",
+      "woff2": "https://fonts.gstatic.com/s/arsenal/v4/wXKpE3kQtZQ4pF3D513sAsQv.woff2",
+      "woff": "https://fonts.gstatic.com/s/arsenal/v4/wXKpE3kQtZQ4pF3D513sAsQp.woff",
+      "eot": "https://fonts.gstatic.com/s/arsenal/v4/wXKpE3kQtZQ4pF3D513sAsQr.eot",
       "errored": false
     },
     {
@@ -44,15 +44,15 @@
         "Arsenal Bold",
         "Arsenal-Bold"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=wXKuE3kQtZQ4pF3D7-P5FeMKnw&skey=69954940f6d1b956&v=v4#Arsenal",
-      "eot": "https://fonts.gstatic.com/s/arsenal/v4/wXKuE3kQtZQ4pF3D7-P5FeMKnA.eot",
-      "ttf": "https://fonts.gstatic.com/s/arsenal/v4/wXKuE3kQtZQ4pF3D7-P5FeMKnQ.ttf",
       "woff2": "https://fonts.gstatic.com/s/arsenal/v4/wXKuE3kQtZQ4pF3D7-P5FeMKmA.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=wXKuE3kQtZQ4pF3D7-P5FeMKnw&skey=69954940f6d1b956&v=v4#Arsenal",
+      "ttf": "https://fonts.gstatic.com/s/arsenal/v4/wXKuE3kQtZQ4pF3D7-P5FeMKnQ.ttf",
+      "eot": "https://fonts.gstatic.com/s/arsenal/v4/wXKuE3kQtZQ4pF3D7-P5FeMKnA.eot",
       "errored": false
     },
     {
       "id": "700italic",
-      "woff2": "https://fonts.gstatic.com/s/arsenal/v4/wXKsE3kQtZQ4pF3D513kueE6mlc2.woff2",
+      "ttf": "https://fonts.gstatic.com/s/arsenal/v4/wXKsE3kQtZQ4pF3D513kueE6mlcz.ttf",
       "fontFamily": "'Arsenal'",
       "fontStyle": "italic",
       "fontWeight": "700",
@@ -60,9 +60,9 @@
         "Arsenal Bold Italic",
         "Arsenal-BoldItalic"
       ],
-      "ttf": "https://fonts.gstatic.com/s/arsenal/v4/wXKsE3kQtZQ4pF3D513kueE6mlcz.ttf",
       "eot": "https://fonts.gstatic.com/s/arsenal/v4/wXKsE3kQtZQ4pF3D513kueE6mlcy.eot",
       "woff": "https://fonts.gstatic.com/s/arsenal/v4/wXKsE3kQtZQ4pF3D513kueE6mlcw.woff",
+      "woff2": "https://fonts.gstatic.com/s/arsenal/v4/wXKsE3kQtZQ4pF3D513kueE6mlc2.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=wXKsE3kQtZQ4pF3D513kueE6mlcx&skey=441c0d9389e70183&v=v4#Arsenal",
       "errored": false
     }
@@ -70,22 +70,22 @@
   "subsets": [
     "vietnamese",
     "latin",
-    "latin-ext",
+    "cyrillic-ext",
     "cyrillic",
-    "cyrillic-ext"
+    "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v4",
   "lastModified": "2019-07-16",
-  "popularity": 359,
+  "popularity": 379,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "vietnamese": false,
     "latin": true,
-    "latin-ext": false,
+    "cyrillic-ext": false,
     "cyrillic": false,
-    "cyrillic-ext": false
+    "latin-ext": false
   },
   "storeID": "latin"
 }

@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "200",
-      "woff": "https://fonts.gstatic.com/s/assistant/v4/2sDZZGJYnIjSi6H75xk7p0SsBp0e.woff",
+      "woff2": "https://fonts.gstatic.com/s/assistant/v4/2sDZZGJYnIjSi6H75xk7p0SsBp0Y.woff2",
       "fontFamily": "'Assistant'",
       "fontStyle": "normal",
       "fontWeight": "200",
@@ -12,10 +12,26 @@
         "Assistant ExtraLight",
         "Assistant-ExtraLight"
       ],
-      "woff2": "https://fonts.gstatic.com/s/assistant/v4/2sDZZGJYnIjSi6H75xk7p0SsBp0Y.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=2sDZZGJYnIjSi6H75xk7p0SsBp0f&skey=dfefd67f2581d9e2&v=v4#Assistant",
       "ttf": "https://fonts.gstatic.com/s/assistant/v4/2sDZZGJYnIjSi6H75xk7p0SsBp0d.ttf",
       "eot": "https://fonts.gstatic.com/s/assistant/v4/2sDZZGJYnIjSi6H75xk7p0SsBp0c.eot",
+      "woff": "https://fonts.gstatic.com/s/assistant/v4/2sDZZGJYnIjSi6H75xk7p0SsBp0e.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=2sDZZGJYnIjSi6H75xk7p0SsBp0f&skey=dfefd67f2581d9e2&v=v4#Assistant",
+      "errored": false
+    },
+    {
+      "id": "300",
+      "eot": "https://fonts.gstatic.com/s/assistant/v4/2sDZZGJYnIjSi6H75xk7w0esBp0c.eot",
+      "fontFamily": "'Assistant'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "svg": "https://fonts.gstatic.com/l/font?kit=2sDZZGJYnIjSi6H75xk7w0esBp0f&skey=4ce3b54f60163ab5&v=v4#Assistant",
+      "local": [
+        "Assistant Light",
+        "Assistant-Light"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/assistant/v4/2sDZZGJYnIjSi6H75xk7w0esBp0Y.woff2",
+      "ttf": "https://fonts.gstatic.com/s/assistant/v4/2sDZZGJYnIjSi6H75xk7w0esBp0d.ttf",
+      "woff": "https://fonts.gstatic.com/s/assistant/v4/2sDZZGJYnIjSi6H75xk7w0esBp0e.woff",
       "errored": false
     },
     {
@@ -35,6 +51,22 @@
       "errored": false
     },
     {
+      "id": "700",
+      "svg": "https://fonts.gstatic.com/l/font?kit=2sDZZGJYnIjSi6H75xk700CsBp0f&skey=b4192a5faa2b691&v=v4#Assistant",
+      "fontFamily": "'Assistant'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Assistant Bold",
+        "Assistant-Bold"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/assistant/v4/2sDZZGJYnIjSi6H75xk700CsBp0d.ttf",
+      "woff2": "https://fonts.gstatic.com/s/assistant/v4/2sDZZGJYnIjSi6H75xk700CsBp0Y.woff2",
+      "woff": "https://fonts.gstatic.com/s/assistant/v4/2sDZZGJYnIjSi6H75xk700CsBp0e.woff",
+      "eot": "https://fonts.gstatic.com/s/assistant/v4/2sDZZGJYnIjSi6H75xk700CsBp0c.eot",
+      "errored": false
+    },
+    {
       "id": "600",
       "eot": "https://fonts.gstatic.com/s/assistant/v4/2sDZZGJYnIjSi6H75xk7t0GsBp0c.eot",
       "fontFamily": "'Assistant'",
@@ -51,38 +83,6 @@
       "errored": false
     },
     {
-      "id": "300",
-      "eot": "https://fonts.gstatic.com/s/assistant/v4/2sDZZGJYnIjSi6H75xk7w0esBp0c.eot",
-      "fontFamily": "'Assistant'",
-      "fontStyle": "normal",
-      "fontWeight": "300",
-      "woff": "https://fonts.gstatic.com/s/assistant/v4/2sDZZGJYnIjSi6H75xk7w0esBp0e.woff",
-      "local": [
-        "Assistant Light",
-        "Assistant-Light"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=2sDZZGJYnIjSi6H75xk7w0esBp0f&skey=4ce3b54f60163ab5&v=v4#Assistant",
-      "ttf": "https://fonts.gstatic.com/s/assistant/v4/2sDZZGJYnIjSi6H75xk7w0esBp0d.ttf",
-      "woff2": "https://fonts.gstatic.com/s/assistant/v4/2sDZZGJYnIjSi6H75xk7w0esBp0Y.woff2",
-      "errored": false
-    },
-    {
-      "id": "700",
-      "eot": "https://fonts.gstatic.com/s/assistant/v4/2sDZZGJYnIjSi6H75xk700CsBp0c.eot",
-      "fontFamily": "'Assistant'",
-      "fontStyle": "normal",
-      "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/assistant/v4/2sDZZGJYnIjSi6H75xk700CsBp0e.woff",
-      "local": [
-        "Assistant Bold",
-        "Assistant-Bold"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=2sDZZGJYnIjSi6H75xk700CsBp0f&skey=b4192a5faa2b691&v=v4#Assistant",
-      "woff2": "https://fonts.gstatic.com/s/assistant/v4/2sDZZGJYnIjSi6H75xk700CsBp0Y.woff2",
-      "ttf": "https://fonts.gstatic.com/s/assistant/v4/2sDZZGJYnIjSi6H75xk700CsBp0d.ttf",
-      "errored": false
-    },
-    {
       "id": "800",
       "eot": "https://fonts.gstatic.com/s/assistant/v4/2sDZZGJYnIjSi6H75xk7z0OsBp0c.eot",
       "fontFamily": "'Assistant'",
@@ -93,9 +93,9 @@
         "Assistant ExtraBold",
         "Assistant-ExtraBold"
       ],
+      "ttf": "https://fonts.gstatic.com/s/assistant/v4/2sDZZGJYnIjSi6H75xk7z0OsBp0d.ttf",
       "woff2": "https://fonts.gstatic.com/s/assistant/v4/2sDZZGJYnIjSi6H75xk7z0OsBp0Y.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=2sDZZGJYnIjSi6H75xk7z0OsBp0f&skey=7f1594a43bf6b558&v=v4#Assistant",
-      "ttf": "https://fonts.gstatic.com/s/assistant/v4/2sDZZGJYnIjSi6H75xk7z0OsBp0d.ttf",
       "errored": false
     }
   ],
@@ -106,7 +106,7 @@
   "category": "sans-serif",
   "version": "v4",
   "lastModified": "2019-07-17",
-  "popularity": 94,
+  "popularity": 89,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

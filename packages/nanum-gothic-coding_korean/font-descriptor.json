@@ -4,17 +4,17 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/nanumgothiccoding/v14/8QIVdjzHisX_8vv59_xMxtPFW4IXROws-6k7Vw.woff2",
+      "eot": "https://fonts.gstatic.com/s/nanumgothiccoding/v14/8QIVdjzHisX_8vv59_xMxtPFW4IXROws-6k7Uw.eot",
       "fontFamily": "'Nanum Gothic Coding'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "ttf": "https://fonts.gstatic.com/s/nanumgothiccoding/v14/8QIVdjzHisX_8vv59_xMxtPFW4IXROws-6k7Ug.ttf",
       "local": [
         "NanumGothicCoding"
       ],
-      "woff": "https://fonts.gstatic.com/s/nanumgothiccoding/v14/8QIVdjzHisX_8vv59_xMxtPFW4IXROws-6k7UQ.woff",
-      "eot": "https://fonts.gstatic.com/s/nanumgothiccoding/v14/8QIVdjzHisX_8vv59_xMxtPFW4IXROws-6k7Uw.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=8QIVdjzHisX_8vv59_xMxtPFW4IXROws-6k7UA&skey=252a63b28c363963&v=v14#NanumGothicCoding",
-      "ttf": "https://fonts.gstatic.com/s/nanumgothiccoding/v14/8QIVdjzHisX_8vv59_xMxtPFW4IXROws-6k7Ug.ttf",
+      "woff": "https://fonts.gstatic.com/s/nanumgothiccoding/v14/8QIVdjzHisX_8vv59_xMxtPFW4IXROws-6k7UQ.woff",
+      "woff2": "https://fonts.gstatic.com/s/nanumgothiccoding/v14/8QIVdjzHisX_8vv59_xMxtPFW4IXROws-6k7Vw.woff2",
       "errored": false
     },
     {
@@ -27,15 +27,15 @@
       "local": [
         "NanumGothicCoding-Bold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/nanumgothiccoding/v14/8QIYdjzHisX_8vv59_xMxtPFW4IXROws8xgeQsh28w.woff2",
       "woff": "https://fonts.gstatic.com/s/nanumgothiccoding/v14/8QIYdjzHisX_8vv59_xMxtPFW4IXROws8xgeQsh29Q.woff",
       "ttf": "https://fonts.gstatic.com/s/nanumgothiccoding/v14/8QIYdjzHisX_8vv59_xMxtPFW4IXROws8xgeQsh29g.ttf",
+      "woff2": "https://fonts.gstatic.com/s/nanumgothiccoding/v14/8QIYdjzHisX_8vv59_xMxtPFW4IXROws8xgeQsh28w.woff2",
       "errored": false
     }
   ],
   "subsets": [
-    "korean",
-    "latin"
+    "latin",
+    "korean"
   ],
   "category": "monospace",
   "version": "v14",
@@ -44,8 +44,8 @@
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "korean": true,
-    "latin": true
+    "latin": true,
+    "korean": true
   },
-  "storeID": "latin_korean"
+  "storeID": "korean_latin"
 }

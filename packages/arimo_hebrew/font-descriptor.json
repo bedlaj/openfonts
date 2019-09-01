@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=P5sMzZCDf9_T_10bxCY&skey=6457c0ab3b693f57&v=v13#Arimo",
+      "woff": "https://fonts.gstatic.com/s/arimo/v13/P5sMzZCDf9_T_10bxCc.woff",
       "fontFamily": "'Arimo'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -14,24 +14,8 @@
       ],
       "woff2": "https://fonts.gstatic.com/s/arimo/v13/P5sMzZCDf9_T_10bxCE.woff2",
       "eot": "https://fonts.gstatic.com/s/arimo/v13/P5sMzZCDf9_T_10bxCU.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=P5sMzZCDf9_T_10bxCY&skey=6457c0ab3b693f57&v=v13#Arimo",
       "ttf": "https://fonts.gstatic.com/s/arimo/v13/P5sMzZCDf9_T_10bxCQ.ttf",
-      "woff": "https://fonts.gstatic.com/s/arimo/v13/P5sMzZCDf9_T_10bxCc.woff",
-      "errored": false
-    },
-    {
-      "id": "italic",
-      "woff2": "https://fonts.gstatic.com/s/arimo/v13/P5sCzZCDf9_T_10c9CFkiA.woff2",
-      "fontFamily": "'Arimo'",
-      "fontStyle": "italic",
-      "fontWeight": "400",
-      "local": [
-        "Arimo Italic",
-        "Arimo-Italic"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=P5sCzZCDf9_T_10c9CFkjw&skey=cf144108a78a4937&v=v13#Arimo",
-      "ttf": "https://fonts.gstatic.com/s/arimo/v13/P5sCzZCDf9_T_10c9CFkjQ.ttf",
-      "woff": "https://fonts.gstatic.com/s/arimo/v13/P5sCzZCDf9_T_10c9CFkjg.woff",
-      "eot": "https://fonts.gstatic.com/s/arimo/v13/P5sCzZCDf9_T_10c9CFkjA.eot",
       "errored": false
     },
     {
@@ -40,14 +24,30 @@
       "fontFamily": "'Arimo'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "svg": "https://fonts.gstatic.com/l/font?kit=P5sBzZCDf9_T_1Wi4TRBrZU&skey=103f7caa82911f9&v=v13#Arimo",
+      "woff2": "https://fonts.gstatic.com/s/arimo/v13/P5sBzZCDf9_T_1Wi4TRBrZI.woff2",
       "local": [
         "Arimo Bold",
         "Arimo-Bold"
       ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=P5sBzZCDf9_T_1Wi4TRBrZU&skey=103f7caa82911f9&v=v13#Arimo",
       "ttf": "https://fonts.gstatic.com/s/arimo/v13/P5sBzZCDf9_T_1Wi4TRBrZc.ttf",
-      "woff2": "https://fonts.gstatic.com/s/arimo/v13/P5sBzZCDf9_T_1Wi4TRBrZI.woff2",
       "woff": "https://fonts.gstatic.com/s/arimo/v13/P5sBzZCDf9_T_1Wi4TRBrZQ.woff",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "eot": "https://fonts.gstatic.com/s/arimo/v13/P5sCzZCDf9_T_10c9CFkjA.eot",
+      "fontFamily": "'Arimo'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "svg": "https://fonts.gstatic.com/l/font?kit=P5sCzZCDf9_T_10c9CFkjw&skey=cf144108a78a4937&v=v13#Arimo",
+      "local": [
+        "Arimo Italic",
+        "Arimo-Italic"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/arimo/v13/P5sCzZCDf9_T_10c9CFkjQ.ttf",
+      "woff2": "https://fonts.gstatic.com/s/arimo/v13/P5sCzZCDf9_T_10c9CFkiA.woff2",
+      "woff": "https://fonts.gstatic.com/s/arimo/v13/P5sCzZCDf9_T_10c9CFkjg.woff",
       "errored": false
     },
     {
@@ -56,42 +56,42 @@
       "fontFamily": "'Arimo'",
       "fontStyle": "italic",
       "fontWeight": "700",
-      "svg": "https://fonts.gstatic.com/l/font?kit=P5sHzZCDf9_T_10c_JhBnZKP0w&skey=27fad731a46db7c8&v=v13#Arimo",
+      "woff": "https://fonts.gstatic.com/s/arimo/v13/P5sHzZCDf9_T_10c_JhBnZKP0g.woff",
       "local": [
         "Arimo Bold Italic",
         "Arimo-BoldItalic"
       ],
-      "ttf": "https://fonts.gstatic.com/s/arimo/v13/P5sHzZCDf9_T_10c_JhBnZKP0Q.ttf",
-      "woff": "https://fonts.gstatic.com/s/arimo/v13/P5sHzZCDf9_T_10c_JhBnZKP0g.woff",
       "woff2": "https://fonts.gstatic.com/s/arimo/v13/P5sHzZCDf9_T_10c_JhBnZKP1A.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=P5sHzZCDf9_T_10c_JhBnZKP0w&skey=27fad731a46db7c8&v=v13#Arimo",
+      "ttf": "https://fonts.gstatic.com/s/arimo/v13/P5sHzZCDf9_T_10c_JhBnZKP0Q.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "hebrew",
-    "greek-ext",
-    "vietnamese",
     "greek",
+    "greek-ext",
+    "hebrew",
+    "vietnamese",
     "latin",
-    "latin-ext",
+    "cyrillic-ext",
     "cyrillic",
-    "cyrillic-ext"
+    "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v13",
   "lastModified": "2019-07-22",
-  "popularity": 30,
+  "popularity": 28,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "hebrew": true,
-    "greek-ext": false,
-    "vietnamese": false,
     "greek": false,
+    "greek-ext": false,
+    "hebrew": true,
+    "vietnamese": false,
     "latin": true,
-    "latin-ext": false,
+    "cyrillic-ext": false,
     "cyrillic": false,
-    "cyrillic-ext": false
+    "latin-ext": false
   },
   "storeID": "latin_hebrew"
 }

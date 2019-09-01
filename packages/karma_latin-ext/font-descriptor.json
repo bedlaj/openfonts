@@ -14,8 +14,8 @@
         "Karma-Light"
       ],
       "woff2": "https://fonts.gstatic.com/s/karma/v10/va9F4kzAzMZRGLjDY_Z2sK0.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=va9F4kzAzMZRGLjDY_Z2sKo&skey=301d02d70f3f6693&v=v10#Karma",
       "ttf": "https://fonts.gstatic.com/s/karma/v10/va9F4kzAzMZRGLjDY_Z2sKg.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=va9F4kzAzMZRGLjDY_Z2sKo&skey=301d02d70f3f6693&v=v10#Karma",
       "errored": false
     },
     {
@@ -30,8 +30,24 @@
         "Karma-Medium"
       ],
       "woff2": "https://fonts.gstatic.com/s/karma/v10/va9F4kzAzMZRGLibYvZ2sK0.woff2",
-      "ttf": "https://fonts.gstatic.com/s/karma/v10/va9F4kzAzMZRGLibYvZ2sKg.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=va9F4kzAzMZRGLibYvZ2sKo&skey=6d66610cba92ba2d&v=v10#Karma",
+      "ttf": "https://fonts.gstatic.com/s/karma/v10/va9F4kzAzMZRGLibYvZ2sKg.ttf",
+      "errored": false
+    },
+    {
+      "id": "600",
+      "eot": "https://fonts.gstatic.com/s/karma/v10/va9F4kzAzMZRGLi3ZfZ2sKk.eot",
+      "fontFamily": "'Karma'",
+      "fontStyle": "normal",
+      "fontWeight": "600",
+      "woff": "https://fonts.gstatic.com/s/karma/v10/va9F4kzAzMZRGLi3ZfZ2sKs.woff",
+      "local": [
+        "Karma SemiBold",
+        "Karma-SemiBold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/karma/v10/va9F4kzAzMZRGLi3ZfZ2sK0.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=va9F4kzAzMZRGLi3ZfZ2sKo&skey=7f473d7381c31a0&v=v10#Karma",
+      "ttf": "https://fonts.gstatic.com/s/karma/v10/va9F4kzAzMZRGLi3ZfZ2sKg.ttf",
       "errored": false
     },
     {
@@ -45,25 +61,9 @@
         "Karma Regular",
         "Karma-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=va9I4kzAzMZRGLBmQeQ&skey=96e02c8687f4e117&v=v10#Karma",
       "ttf": "https://fonts.gstatic.com/s/karma/v10/va9I4kzAzMZRGLBmQeY.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=va9I4kzAzMZRGLBmQeQ&skey=96e02c8687f4e117&v=v10#Karma",
       "woff": "https://fonts.gstatic.com/s/karma/v10/va9I4kzAzMZRGLBmQeU.woff",
-      "errored": false
-    },
-    {
-      "id": "600",
-      "woff": "https://fonts.gstatic.com/s/karma/v10/va9F4kzAzMZRGLi3ZfZ2sKs.woff",
-      "fontFamily": "'Karma'",
-      "fontStyle": "normal",
-      "fontWeight": "600",
-      "local": [
-        "Karma SemiBold",
-        "Karma-SemiBold"
-      ],
-      "eot": "https://fonts.gstatic.com/s/karma/v10/va9F4kzAzMZRGLi3ZfZ2sKk.eot",
-      "woff2": "https://fonts.gstatic.com/s/karma/v10/va9F4kzAzMZRGLi3ZfZ2sK0.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=va9F4kzAzMZRGLi3ZfZ2sKo&skey=7f473d7381c31a0&v=v10#Karma",
-      "ttf": "https://fonts.gstatic.com/s/karma/v10/va9F4kzAzMZRGLi3ZfZ2sKg.ttf",
       "errored": false
     },
     {
@@ -72,20 +72,20 @@
       "fontFamily": "'Karma'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff2": "https://fonts.gstatic.com/s/karma/v10/va9F4kzAzMZRGLjTZPZ2sK0.woff2",
+      "woff": "https://fonts.gstatic.com/s/karma/v10/va9F4kzAzMZRGLjTZPZ2sKs.woff",
       "local": [
         "Karma Bold",
         "Karma-Bold"
       ],
-      "woff": "https://fonts.gstatic.com/s/karma/v10/va9F4kzAzMZRGLjTZPZ2sKs.woff",
-      "ttf": "https://fonts.gstatic.com/s/karma/v10/va9F4kzAzMZRGLjTZPZ2sKg.ttf",
+      "woff2": "https://fonts.gstatic.com/s/karma/v10/va9F4kzAzMZRGLjTZPZ2sK0.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=va9F4kzAzMZRGLjTZPZ2sKo&skey=3ea0640c64504210&v=v10#Karma",
+      "ttf": "https://fonts.gstatic.com/s/karma/v10/va9F4kzAzMZRGLjTZPZ2sKg.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
     "devanagari",
+    "latin",
     "latin-ext"
   ],
   "category": "serif",
@@ -95,8 +95,8 @@
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
     "devanagari": false,
+    "latin": true,
     "latin-ext": true
   },
   "storeID": "latin-ext_latin"

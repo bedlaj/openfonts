@@ -3,24 +3,8 @@
   "family": "DM Serif Display",
   "variants": [
     {
-      "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/dmserifdisplay/v3/-nFnOHM81r4j6k0gjAW3mujVU2B2G_5x1w.ttf",
-      "fontFamily": "'DM Serif Display'",
-      "fontStyle": "normal",
-      "fontWeight": "400",
-      "local": [
-        "DM Serif Display Regular",
-        "DMSerifDisplay-Regular"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/dmserifdisplay/v3/-nFnOHM81r4j6k0gjAW3mujVU2B2G_5x0g.woff2",
-      "eot": "https://fonts.gstatic.com/s/dmserifdisplay/v3/-nFnOHM81r4j6k0gjAW3mujVU2B2G_5x1g.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=-nFnOHM81r4j6k0gjAW3mujVU2B2G_5x1Q&skey=b35e2c4c711f6b3&v=v3#DMSerifDisplay",
-      "woff": "https://fonts.gstatic.com/s/dmserifdisplay/v3/-nFnOHM81r4j6k0gjAW3mujVU2B2G_5x1A.woff",
-      "errored": false
-    },
-    {
       "id": "italic",
-      "woff2": "https://fonts.gstatic.com/s/dmserifdisplay/v3/-nFhOHM81r4j6k0gjAW3mujVU2B2G_VB3vD2.woff2",
+      "woff": "https://fonts.gstatic.com/s/dmserifdisplay/v3/-nFhOHM81r4j6k0gjAW3mujVU2B2G_VB3vDw.woff",
       "fontFamily": "'DM Serif Display'",
       "fontStyle": "italic",
       "fontWeight": "400",
@@ -28,10 +12,26 @@
         "DM Serif Display Italic",
         "DMSerifDisplay-Italic"
       ],
-      "woff": "https://fonts.gstatic.com/s/dmserifdisplay/v3/-nFhOHM81r4j6k0gjAW3mujVU2B2G_VB3vDw.woff",
+      "eot": "https://fonts.gstatic.com/s/dmserifdisplay/v3/-nFhOHM81r4j6k0gjAW3mujVU2B2G_VB3vDy.eot",
+      "woff2": "https://fonts.gstatic.com/s/dmserifdisplay/v3/-nFhOHM81r4j6k0gjAW3mujVU2B2G_VB3vD2.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=-nFhOHM81r4j6k0gjAW3mujVU2B2G_VB3vDx&skey=9b354e2f4705b58c&v=v3#DMSerifDisplay",
       "ttf": "https://fonts.gstatic.com/s/dmserifdisplay/v3/-nFhOHM81r4j6k0gjAW3mujVU2B2G_VB3vDz.ttf",
-      "eot": "https://fonts.gstatic.com/s/dmserifdisplay/v3/-nFhOHM81r4j6k0gjAW3mujVU2B2G_VB3vDy.eot",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/dmserifdisplay/v3/-nFnOHM81r4j6k0gjAW3mujVU2B2G_5x1g.eot",
+      "fontFamily": "'DM Serif Display'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/dmserifdisplay/v3/-nFnOHM81r4j6k0gjAW3mujVU2B2G_5x0g.woff2",
+      "local": [
+        "DM Serif Display Regular",
+        "DMSerifDisplay-Regular"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=-nFnOHM81r4j6k0gjAW3mujVU2B2G_5x1Q&skey=b35e2c4c711f6b3&v=v3#DMSerifDisplay",
+      "ttf": "https://fonts.gstatic.com/s/dmserifdisplay/v3/-nFnOHM81r4j6k0gjAW3mujVU2B2G_5x1w.ttf",
+      "woff": "https://fonts.gstatic.com/s/dmserifdisplay/v3/-nFnOHM81r4j6k0gjAW3mujVU2B2G_5x1A.woff",
       "errored": false
     }
   ],
@@ -42,7 +42,7 @@
   "category": "serif",
   "version": "v3",
   "lastModified": "2019-07-16",
-  "popularity": 480,
+  "popularity": 496,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

@@ -4,34 +4,34 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/miriamlibre/v6/DdTh798HsHwubBAqfkcBTL_fZ5P4.woff",
+      "eot": "https://fonts.gstatic.com/s/miriamlibre/v6/DdTh798HsHwubBAqfkcBTL_fZ5P6.eot",
       "fontFamily": "'Miriam Libre'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/miriamlibre/v6/DdTh798HsHwubBAqfkcBTL_fZ5P4.woff",
       "local": [
         "Miriam Libre Regular",
         "MiriamLibre-Regular"
       ],
       "woff2": "https://fonts.gstatic.com/s/miriamlibre/v6/DdTh798HsHwubBAqfkcBTL_fZ5P-.woff2",
-      "ttf": "https://fonts.gstatic.com/s/miriamlibre/v6/DdTh798HsHwubBAqfkcBTL_fZ5P7.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=DdTh798HsHwubBAqfkcBTL_fZ5P5&skey=136d3f8b2b10bd59&v=v6#MiriamLibre",
-      "eot": "https://fonts.gstatic.com/s/miriamlibre/v6/DdTh798HsHwubBAqfkcBTL_fZ5P6.eot",
+      "ttf": "https://fonts.gstatic.com/s/miriamlibre/v6/DdTh798HsHwubBAqfkcBTL_fZ5P7.ttf",
       "errored": false
     },
     {
       "id": "700",
-      "svg": "https://fonts.gstatic.com/l/font?kit=DdT-798HsHwubBAqfkcBTL_X3LbrQsq9&skey=9a42f8a998b69846&v=v6#MiriamLibre",
+      "eot": "https://fonts.gstatic.com/s/miriamlibre/v6/DdT-798HsHwubBAqfkcBTL_X3LbrQsq-.eot",
       "fontFamily": "'Miriam Libre'",
       "fontStyle": "normal",
       "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/miriamlibre/v6/DdT-798HsHwubBAqfkcBTL_X3LbrQsq8.woff",
       "local": [
         "Miriam Libre Bold",
         "MiriamLibre-Bold"
       ],
-      "ttf": "https://fonts.gstatic.com/s/miriamlibre/v6/DdT-798HsHwubBAqfkcBTL_X3LbrQsq_.ttf",
-      "eot": "https://fonts.gstatic.com/s/miriamlibre/v6/DdT-798HsHwubBAqfkcBTL_X3LbrQsq-.eot",
       "woff2": "https://fonts.gstatic.com/s/miriamlibre/v6/DdT-798HsHwubBAqfkcBTL_X3LbrQsq6.woff2",
-      "woff": "https://fonts.gstatic.com/s/miriamlibre/v6/DdT-798HsHwubBAqfkcBTL_X3LbrQsq8.woff",
+      "ttf": "https://fonts.gstatic.com/s/miriamlibre/v6/DdT-798HsHwubBAqfkcBTL_X3LbrQsq_.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=DdT-798HsHwubBAqfkcBTL_X3LbrQsq9&skey=9a42f8a998b69846&v=v6#MiriamLibre",
       "errored": false
     }
   ],
@@ -43,7 +43,7 @@
   "category": "sans-serif",
   "version": "v6",
   "lastModified": "2019-07-16",
-  "popularity": 352,
+  "popularity": 395,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

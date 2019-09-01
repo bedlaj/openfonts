@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/lemon/v8/HI_EiYEVKqRMq3jGQ5I.woff",
+      "eot": "https://fonts.gstatic.com/s/lemon/v8/HI_EiYEVKqRMq3jGQ5A.eot",
       "fontFamily": "'Lemon'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/lemon/v8/HI_EiYEVKqRMq3jGQ5Q.woff2",
       "local": [
         "Lemon Regular",
         "Lemon-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/lemon/v8/HI_EiYEVKqRMq3jGQ5Q.woff2",
       "ttf": "https://fonts.gstatic.com/s/lemon/v8/HI_EiYEVKqRMq3jGQ5E.ttf",
-      "eot": "https://fonts.gstatic.com/s/lemon/v8/HI_EiYEVKqRMq3jGQ5A.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=HI_EiYEVKqRMq3jGQ5M&skey=5c2dd175e2a15bb6&v=v8#Lemon",
+      "woff": "https://fonts.gstatic.com/s/lemon/v8/HI_EiYEVKqRMq3jGQ5I.woff",
       "errored": false
     }
   ],
@@ -25,7 +25,7 @@
   "category": "display",
   "version": "v8",
   "lastModified": "2019-07-16",
-  "popularity": 538,
+  "popularity": 575,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

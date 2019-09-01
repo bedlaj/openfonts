@@ -4,22 +4,22 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/caudex/v9/esDQ311QOP6BJUrIzw.woff2",
+      "ttf": "https://fonts.gstatic.com/s/caudex/v9/esDQ311QOP6BJUrIyg.ttf",
       "fontFamily": "'Caudex'",
       "fontStyle": "normal",
       "fontWeight": "400",
       "local": [
         "Caudex"
       ],
+      "woff2": "https://fonts.gstatic.com/s/caudex/v9/esDQ311QOP6BJUrIzw.woff2",
       "woff": "https://fonts.gstatic.com/s/caudex/v9/esDQ311QOP6BJUrIyQ.woff",
       "eot": "https://fonts.gstatic.com/s/caudex/v9/esDQ311QOP6BJUrIyw.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=esDQ311QOP6BJUrIyA&skey=89ad97180e9c147c&v=v9#Caudex",
-      "ttf": "https://fonts.gstatic.com/s/caudex/v9/esDQ311QOP6BJUrIyg.ttf",
       "errored": false
     },
     {
       "id": "italic",
-      "woff": "https://fonts.gstatic.com/s/caudex/v9/esDS311QOP6BJUr4yPKH.woff",
+      "ttf": "https://fonts.gstatic.com/s/caudex/v9/esDS311QOP6BJUr4yPKE.ttf",
       "fontFamily": "'Caudex'",
       "fontStyle": "italic",
       "fontWeight": "400",
@@ -27,10 +27,26 @@
         "Caudex Italic",
         "Caudex-Italic"
       ],
-      "eot": "https://fonts.gstatic.com/s/caudex/v9/esDS311QOP6BJUr4yPKF.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=esDS311QOP6BJUr4yPKG&skey=1f54382299ea82c0&v=v9#Caudex",
-      "ttf": "https://fonts.gstatic.com/s/caudex/v9/esDS311QOP6BJUr4yPKE.ttf",
+      "woff": "https://fonts.gstatic.com/s/caudex/v9/esDS311QOP6BJUr4yPKH.woff",
+      "eot": "https://fonts.gstatic.com/s/caudex/v9/esDS311QOP6BJUr4yPKF.eot",
       "woff2": "https://fonts.gstatic.com/s/caudex/v9/esDS311QOP6BJUr4yPKB.woff2",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/caudex/v9/esDT311QOP6BJUrwdteklA.eot",
+      "fontFamily": "'Caudex'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/caudex/v9/esDT311QOP6BJUrwdteklg.woff",
+      "local": [
+        "Caudex Bold",
+        "Caudex-Bold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/caudex/v9/esDT311QOP6BJUrwdtekkA.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=esDT311QOP6BJUrwdteklw&skey=ef9bb145f0aa72ff&v=v9#Caudex",
+      "ttf": "https://fonts.gstatic.com/s/caudex/v9/esDT311QOP6BJUrwdteklQ.ttf",
       "errored": false
     },
     {
@@ -39,50 +55,34 @@
       "fontFamily": "'Caudex'",
       "fontStyle": "italic",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/caudex/v9/esDV311QOP6BJUr4yMo4kJ8F.woff",
+      "woff2": "https://fonts.gstatic.com/s/caudex/v9/esDV311QOP6BJUr4yMo4kJ8D.woff2",
       "local": [
         "Caudex Bold Italic",
         "Caudex-BoldItalic"
       ],
+      "woff": "https://fonts.gstatic.com/s/caudex/v9/esDV311QOP6BJUr4yMo4kJ8F.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=esDV311QOP6BJUr4yMo4kJ8E&skey=e75cb4af8e8842e6&v=v9#Caudex",
       "ttf": "https://fonts.gstatic.com/s/caudex/v9/esDV311QOP6BJUr4yMo4kJ8G.ttf",
-      "woff2": "https://fonts.gstatic.com/s/caudex/v9/esDV311QOP6BJUr4yMo4kJ8D.woff2",
-      "errored": false
-    },
-    {
-      "id": "700",
-      "woff": "https://fonts.gstatic.com/s/caudex/v9/esDT311QOP6BJUrwdteklg.woff",
-      "fontFamily": "'Caudex'",
-      "fontStyle": "normal",
-      "fontWeight": "700",
-      "local": [
-        "Caudex Bold",
-        "Caudex-Bold"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/caudex/v9/esDT311QOP6BJUrwdtekkA.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=esDT311QOP6BJUrwdteklw&skey=ef9bb145f0aa72ff&v=v9#Caudex",
-      "ttf": "https://fonts.gstatic.com/s/caudex/v9/esDT311QOP6BJUrwdteklQ.ttf",
-      "eot": "https://fonts.gstatic.com/s/caudex/v9/esDT311QOP6BJUrwdteklA.eot",
       "errored": false
     }
   ],
   "subsets": [
-    "greek-ext",
     "greek",
+    "greek-ext",
     "latin",
     "latin-ext"
   ],
   "category": "serif",
   "version": "v9",
   "lastModified": "2019-07-16",
-  "popularity": 386,
+  "popularity": 401,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "greek-ext": true,
     "greek": true,
+    "greek-ext": true,
     "latin": true,
     "latin-ext": true
   },
-  "storeID": "latin-ext_latin_greek_greek-ext"
+  "storeID": "latin-ext_latin_greek-ext_greek"
 }

@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/squadaone/v8/BCasqZ8XsOrx4mcOk6Mtaac2Xw.woff",
+      "woff2": "https://fonts.gstatic.com/s/squadaone/v8/BCasqZ8XsOrx4mcOk6Mtaac2WQ.woff2",
       "fontFamily": "'Squada One'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,9 +12,9 @@
         "Squada One",
         "SquadaOne-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/squadaone/v8/BCasqZ8XsOrx4mcOk6Mtaac2WQ.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=BCasqZ8XsOrx4mcOk6Mtaac2Xg&skey=367d3d9b9a52b6b3&v=v8#SquadaOne",
       "eot": "https://fonts.gstatic.com/s/squadaone/v8/BCasqZ8XsOrx4mcOk6Mtaac2XQ.eot",
+      "woff": "https://fonts.gstatic.com/s/squadaone/v8/BCasqZ8XsOrx4mcOk6Mtaac2Xw.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=BCasqZ8XsOrx4mcOk6Mtaac2Xg&skey=367d3d9b9a52b6b3&v=v8#SquadaOne",
       "ttf": "https://fonts.gstatic.com/s/squadaone/v8/BCasqZ8XsOrx4mcOk6Mtaac2XA.ttf",
       "errored": false
     }
@@ -25,7 +25,7 @@
   "category": "display",
   "version": "v8",
   "lastModified": "2019-07-16",
-  "popularity": 325,
+  "popularity": 313,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

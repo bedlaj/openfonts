@@ -4,15 +4,15 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/ntr/v7/RLpzK5Xy0ZjSA2Jo.ttf",
+      "woff": "https://fonts.gstatic.com/s/ntr/v7/RLpzK5Xy0ZjSA2Jr.woff",
       "fontFamily": "'NTR'",
       "fontStyle": "normal",
       "fontWeight": "400",
       "local": [
         "NTR"
       ],
+      "ttf": "https://fonts.gstatic.com/s/ntr/v7/RLpzK5Xy0ZjSA2Jo.ttf",
       "woff2": "https://fonts.gstatic.com/s/ntr/v7/RLpzK5Xy0ZjSA2Jt.woff2",
-      "woff": "https://fonts.gstatic.com/s/ntr/v7/RLpzK5Xy0ZjSA2Jr.woff",
       "eot": "https://fonts.gstatic.com/s/ntr/v7/RLpzK5Xy0ZjSA2Jp.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=RLpzK5Xy0ZjSA2Jq&skey=999f4d6f4b731465&v=v7#NTR",
       "errored": false
@@ -25,7 +25,7 @@
   "category": "sans-serif",
   "version": "v7",
   "lastModified": "2019-07-16",
-  "popularity": 549,
+  "popularity": 555,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

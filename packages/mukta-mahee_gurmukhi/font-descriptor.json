@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "200",
-      "woff2": "https://fonts.gstatic.com/s/muktamahee/v5/XRXN3IOIi0hcP8iVU67hA9MFcCojLHY.woff2",
+      "woff": "https://fonts.gstatic.com/s/muktamahee/v5/XRXN3IOIi0hcP8iVU67hA9MFcCojLHA.woff",
       "fontFamily": "'Mukta Mahee'",
       "fontStyle": "normal",
       "fontWeight": "200",
@@ -12,26 +12,10 @@
         "Mukta Mahee ExtraLight",
         "MuktaMahee-ExtraLight"
       ],
-      "woff": "https://fonts.gstatic.com/s/muktamahee/v5/XRXN3IOIi0hcP8iVU67hA9MFcCojLHA.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=XRXN3IOIi0hcP8iVU67hA9MFcCojLHE&skey=7a5444129384d98f&v=v5#MuktaMahee",
       "ttf": "https://fonts.gstatic.com/s/muktamahee/v5/XRXN3IOIi0hcP8iVU67hA9MFcCojLHM.ttf",
       "eot": "https://fonts.gstatic.com/s/muktamahee/v5/XRXN3IOIi0hcP8iVU67hA9MFcCojLHI.eot",
-      "errored": false
-    },
-    {
-      "id": "300",
-      "svg": "https://fonts.gstatic.com/l/font?kit=XRXN3IOIi0hcP8iVU67hA9NhcyojLHE&skey=ffce7cc203bb344a&v=v5#MuktaMahee",
-      "fontFamily": "'Mukta Mahee'",
-      "fontStyle": "normal",
-      "fontWeight": "300",
-      "local": [
-        "Mukta Mahee Light",
-        "MuktaMahee-Light"
-      ],
-      "woff": "https://fonts.gstatic.com/s/muktamahee/v5/XRXN3IOIi0hcP8iVU67hA9NhcyojLHA.woff",
-      "eot": "https://fonts.gstatic.com/s/muktamahee/v5/XRXN3IOIi0hcP8iVU67hA9NhcyojLHI.eot",
-      "woff2": "https://fonts.gstatic.com/s/muktamahee/v5/XRXN3IOIi0hcP8iVU67hA9NhcyojLHY.woff2",
-      "ttf": "https://fonts.gstatic.com/s/muktamahee/v5/XRXN3IOIi0hcP8iVU67hA9NhcyojLHM.ttf",
+      "woff2": "https://fonts.gstatic.com/s/muktamahee/v5/XRXN3IOIi0hcP8iVU67hA9MFcCojLHY.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=XRXN3IOIi0hcP8iVU67hA9MFcCojLHE&skey=7a5444129384d98f&v=v5#MuktaMahee",
       "errored": false
     },
     {
@@ -46,22 +30,38 @@
         "MuktaMahee-Regular"
       ],
       "woff2": "https://fonts.gstatic.com/s/muktamahee/v5/XRXQ3IOIi0hcP8iVU67hA9vpUT8.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=XRXQ3IOIi0hcP8iVU67hA9vpUTg&skey=855bb793d38aa635&v=v5#MuktaMahee",
       "ttf": "https://fonts.gstatic.com/s/muktamahee/v5/XRXQ3IOIi0hcP8iVU67hA9vpUTo.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=XRXQ3IOIi0hcP8iVU67hA9vpUTg&skey=855bb793d38aa635&v=v5#MuktaMahee",
+      "errored": false
+    },
+    {
+      "id": "300",
+      "eot": "https://fonts.gstatic.com/s/muktamahee/v5/XRXN3IOIi0hcP8iVU67hA9NhcyojLHI.eot",
+      "fontFamily": "'Mukta Mahee'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "woff": "https://fonts.gstatic.com/s/muktamahee/v5/XRXN3IOIi0hcP8iVU67hA9NhcyojLHA.woff",
+      "local": [
+        "Mukta Mahee Light",
+        "MuktaMahee-Light"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/muktamahee/v5/XRXN3IOIi0hcP8iVU67hA9NhcyojLHM.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=XRXN3IOIi0hcP8iVU67hA9NhcyojLHE&skey=ffce7cc203bb344a&v=v5#MuktaMahee",
+      "woff2": "https://fonts.gstatic.com/s/muktamahee/v5/XRXN3IOIi0hcP8iVU67hA9NhcyojLHY.woff2",
       "errored": false
     },
     {
       "id": "500",
-      "woff2": "https://fonts.gstatic.com/s/muktamahee/v5/XRXN3IOIi0hcP8iVU67hA9M5ciojLHY.woff2",
+      "eot": "https://fonts.gstatic.com/s/muktamahee/v5/XRXN3IOIi0hcP8iVU67hA9M5ciojLHI.eot",
       "fontFamily": "'Mukta Mahee'",
       "fontStyle": "normal",
       "fontWeight": "500",
+      "woff": "https://fonts.gstatic.com/s/muktamahee/v5/XRXN3IOIi0hcP8iVU67hA9M5ciojLHA.woff",
       "local": [
         "Mukta Mahee Medium",
         "MuktaMahee-Medium"
       ],
-      "eot": "https://fonts.gstatic.com/s/muktamahee/v5/XRXN3IOIi0hcP8iVU67hA9M5ciojLHI.eot",
-      "woff": "https://fonts.gstatic.com/s/muktamahee/v5/XRXN3IOIi0hcP8iVU67hA9M5ciojLHA.woff",
+      "woff2": "https://fonts.gstatic.com/s/muktamahee/v5/XRXN3IOIi0hcP8iVU67hA9M5ciojLHY.woff2",
       "ttf": "https://fonts.gstatic.com/s/muktamahee/v5/XRXN3IOIi0hcP8iVU67hA9M5ciojLHM.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=XRXN3IOIi0hcP8iVU67hA9M5ciojLHE&skey=4ae6321ea858b53e&v=v5#MuktaMahee",
       "errored": false
@@ -83,6 +83,22 @@
       "errored": false
     },
     {
+      "id": "800",
+      "eot": "https://fonts.gstatic.com/s/muktamahee/v5/XRXN3IOIi0hcP8iVU67hA9NtdyojLHI.eot",
+      "fontFamily": "'Mukta Mahee'",
+      "fontStyle": "normal",
+      "fontWeight": "800",
+      "woff": "https://fonts.gstatic.com/s/muktamahee/v5/XRXN3IOIi0hcP8iVU67hA9NtdyojLHA.woff",
+      "local": [
+        "Mukta Mahee ExtraBold",
+        "MuktaMahee-ExtraBold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/muktamahee/v5/XRXN3IOIi0hcP8iVU67hA9NtdyojLHY.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=XRXN3IOIi0hcP8iVU67hA9NtdyojLHE&skey=f19409c4dd733942&v=v5#MuktaMahee",
+      "ttf": "https://fonts.gstatic.com/s/muktamahee/v5/XRXN3IOIi0hcP8iVU67hA9NtdyojLHM.ttf",
+      "errored": false
+    },
+    {
       "id": "700",
       "eot": "https://fonts.gstatic.com/s/muktamahee/v5/XRXN3IOIi0hcP8iVU67hA9NxdCojLHI.eot",
       "fontFamily": "'Mukta Mahee'",
@@ -93,43 +109,27 @@
         "Mukta Mahee Bold",
         "MuktaMahee-Bold"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=XRXN3IOIi0hcP8iVU67hA9NxdCojLHE&skey=f27e05420a7299f0&v=v5#MuktaMahee",
       "woff2": "https://fonts.gstatic.com/s/muktamahee/v5/XRXN3IOIi0hcP8iVU67hA9NxdCojLHY.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=XRXN3IOIi0hcP8iVU67hA9NxdCojLHE&skey=f27e05420a7299f0&v=v5#MuktaMahee",
       "ttf": "https://fonts.gstatic.com/s/muktamahee/v5/XRXN3IOIi0hcP8iVU67hA9NxdCojLHM.ttf",
-      "errored": false
-    },
-    {
-      "id": "800",
-      "eot": "https://fonts.gstatic.com/s/muktamahee/v5/XRXN3IOIi0hcP8iVU67hA9NtdyojLHI.eot",
-      "fontFamily": "'Mukta Mahee'",
-      "fontStyle": "normal",
-      "fontWeight": "800",
-      "woff2": "https://fonts.gstatic.com/s/muktamahee/v5/XRXN3IOIi0hcP8iVU67hA9NtdyojLHY.woff2",
-      "local": [
-        "Mukta Mahee ExtraBold",
-        "MuktaMahee-ExtraBold"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=XRXN3IOIi0hcP8iVU67hA9NtdyojLHE&skey=f19409c4dd733942&v=v5#MuktaMahee",
-      "woff": "https://fonts.gstatic.com/s/muktamahee/v5/XRXN3IOIi0hcP8iVU67hA9NtdyojLHA.woff",
-      "ttf": "https://fonts.gstatic.com/s/muktamahee/v5/XRXN3IOIi0hcP8iVU67hA9NtdyojLHM.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
     "gurmukhi",
+    "latin",
     "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v5",
   "lastModified": "2019-07-16",
-  "popularity": 683,
+  "popularity": 676,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
     "gurmukhi": true,
+    "latin": true,
     "latin-ext": false
   },
-  "storeID": "gurmukhi_latin"
+  "storeID": "latin_gurmukhi"
 }

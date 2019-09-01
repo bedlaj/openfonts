@@ -13,27 +13,27 @@
         "Gabriela Regular",
         "Gabriela-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=qkBWXvsO6sreR8E-b8m0xLw&skey=146d0218141ab9a9&v=v8#Gabriela",
-      "ttf": "https://fonts.gstatic.com/s/gabriela/v8/qkBWXvsO6sreR8E-b8m0xL4.ttf",
       "woff2": "https://fonts.gstatic.com/s/gabriela/v8/qkBWXvsO6sreR8E-b8m0xLs.woff2",
+      "ttf": "https://fonts.gstatic.com/s/gabriela/v8/qkBWXvsO6sreR8E-b8m0xL4.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=qkBWXvsO6sreR8E-b8m0xLw&skey=146d0218141ab9a9&v=v8#Gabriela",
       "errored": false
     }
   ],
   "subsets": [
     "latin",
-    "cyrillic",
-    "cyrillic-ext"
+    "cyrillic-ext",
+    "cyrillic"
   ],
   "category": "serif",
   "version": "v8",
   "lastModified": "2019-07-16",
-  "popularity": 405,
+  "popularity": 400,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "latin": true,
-    "cyrillic": true,
-    "cyrillic-ext": true
+    "cyrillic-ext": true,
+    "cyrillic": true
   },
-  "storeID": "cyrillic-ext_cyrillic_latin"
+  "storeID": "cyrillic_cyrillic-ext_latin"
 }

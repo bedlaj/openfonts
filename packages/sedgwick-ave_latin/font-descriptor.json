@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/sedgwickave/v5/uK_04rKEYuguzAcSYRdWTJqMWWIy.woff",
+      "woff2": "https://fonts.gstatic.com/s/sedgwickave/v5/uK_04rKEYuguzAcSYRdWTJqMWWI0.woff2",
       "fontFamily": "'Sedgwick Ave'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Sedgwick Ave Regular",
         "SedgwickAve-Regular"
       ],
+      "woff": "https://fonts.gstatic.com/s/sedgwickave/v5/uK_04rKEYuguzAcSYRdWTJqMWWIy.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=uK_04rKEYuguzAcSYRdWTJqMWWIz&skey=12879115c1ef3a53&v=v5#SedgwickAve",
-      "woff2": "https://fonts.gstatic.com/s/sedgwickave/v5/uK_04rKEYuguzAcSYRdWTJqMWWI0.woff2",
-      "ttf": "https://fonts.gstatic.com/s/sedgwickave/v5/uK_04rKEYuguzAcSYRdWTJqMWWIx.ttf",
       "eot": "https://fonts.gstatic.com/s/sedgwickave/v5/uK_04rKEYuguzAcSYRdWTJqMWWIw.eot",
+      "ttf": "https://fonts.gstatic.com/s/sedgwickave/v5/uK_04rKEYuguzAcSYRdWTJqMWWIx.ttf",
       "errored": false
     }
   ],
@@ -27,7 +27,7 @@
   "category": "handwriting",
   "version": "v5",
   "lastModified": "2019-07-16",
-  "popularity": 430,
+  "popularity": 606,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

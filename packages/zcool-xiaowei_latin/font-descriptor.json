@@ -8,30 +8,30 @@
       "fontFamily": "'ZCOOL XiaoWei'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/zcoolxiaowei/v5/i7dMIFFrTRywPpUVX9_RJyM1UFWaHg.woff2",
+      "woff": "https://fonts.gstatic.com/s/zcoolxiaowei/v5/i7dMIFFrTRywPpUVX9_RJyM1UFWaGA.woff",
       "local": [
         "ZCOOL XiaoWei Regular",
         "ZCOOLXiaoWei-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/zcoolxiaowei/v5/i7dMIFFrTRywPpUVX9_RJyM1UFWaGA.woff",
+      "woff2": "https://fonts.gstatic.com/s/zcoolxiaowei/v5/i7dMIFFrTRywPpUVX9_RJyM1UFWaHg.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=i7dMIFFrTRywPpUVX9_RJyM1UFWaGQ&skey=14ca153fc38e039b&v=v5#ZCOOLXiaoWei",
       "ttf": "https://fonts.gstatic.com/s/zcoolxiaowei/v5/i7dMIFFrTRywPpUVX9_RJyM1UFWaGw.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
-    "chinese-simplified"
+    "chinese-simplified",
+    "latin"
   ],
   "category": "serif",
   "version": "v5",
   "lastModified": "2019-07-16",
-  "popularity": 688,
+  "popularity": 679,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
-    "chinese-simplified": false
+    "chinese-simplified": false,
+    "latin": true
   },
   "storeID": "latin"
 }

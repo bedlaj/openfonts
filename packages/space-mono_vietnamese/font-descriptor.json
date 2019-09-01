@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/spacemono/v5/i7dPIFZifjKcF5UAWdDRYE58Qw.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=i7dPIFZifjKcF5UAWdDRYE58Qg&skey=5e801b58db657470&v=v5#SpaceMono",
       "fontFamily": "'Space Mono'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,26 @@
         "Space Mono",
         "SpaceMono-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/spacemono/v5/i7dPIFZifjKcF5UAWdDRYE58QQ.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=i7dPIFZifjKcF5UAWdDRYE58Qg&skey=5e801b58db657470&v=v5#SpaceMono",
       "woff2": "https://fonts.gstatic.com/s/spacemono/v5/i7dPIFZifjKcF5UAWdDRYE58RQ.woff2",
       "ttf": "https://fonts.gstatic.com/s/spacemono/v5/i7dPIFZifjKcF5UAWdDRYE58QA.ttf",
+      "woff": "https://fonts.gstatic.com/s/spacemono/v5/i7dPIFZifjKcF5UAWdDRYE58Qw.woff",
+      "eot": "https://fonts.gstatic.com/s/spacemono/v5/i7dPIFZifjKcF5UAWdDRYE58QQ.eot",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "woff": "https://fonts.gstatic.com/s/spacemono/v5/i7dNIFZifjKcF5UAWdDRYERMSHK5.woff",
+      "fontFamily": "'Space Mono'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "local": [
+        "Space Mono Italic",
+        "SpaceMono-Italic"
+      ],
+      "eot": "https://fonts.gstatic.com/s/spacemono/v5/i7dNIFZifjKcF5UAWdDRYERMSHK7.eot",
+      "woff2": "https://fonts.gstatic.com/s/spacemono/v5/i7dNIFZifjKcF5UAWdDRYERMSHK_.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=i7dNIFZifjKcF5UAWdDRYERMSHK4&skey=f2396f001f60c566&v=v5#SpaceMono",
+      "ttf": "https://fonts.gstatic.com/s/spacemono/v5/i7dNIFZifjKcF5UAWdDRYERMSHK6.ttf",
       "errored": false
     },
     {
@@ -28,10 +44,10 @@
         "Space Mono Bold",
         "SpaceMono-Bold"
       ],
-      "eot": "https://fonts.gstatic.com/s/spacemono/v5/i7dMIFZifjKcF5UAWdDRaPpZUFqaGg.eot",
       "woff": "https://fonts.gstatic.com/s/spacemono/v5/i7dMIFZifjKcF5UAWdDRaPpZUFqaGA.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=i7dMIFZifjKcF5UAWdDRaPpZUFqaGQ&skey=a27e16c9683017d3&v=v5#SpaceMono",
       "ttf": "https://fonts.gstatic.com/s/spacemono/v5/i7dMIFZifjKcF5UAWdDRaPpZUFqaGw.ttf",
+      "eot": "https://fonts.gstatic.com/s/spacemono/v5/i7dMIFZifjKcF5UAWdDRaPpZUFqaGg.eot",
       "errored": false
     },
     {
@@ -40,30 +56,14 @@
       "fontFamily": "'Space Mono'",
       "fontStyle": "italic",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/spacemono/v5/i7dSIFZifjKcF5UAWdDRYERE_FeqEySX.woff",
+      "woff2": "https://fonts.gstatic.com/s/spacemono/v5/i7dSIFZifjKcF5UAWdDRYERE_FeqEySR.woff2",
       "local": [
         "Space Mono Bold Italic",
         "SpaceMono-BoldItalic"
       ],
-      "woff2": "https://fonts.gstatic.com/s/spacemono/v5/i7dSIFZifjKcF5UAWdDRYERE_FeqEySR.woff2",
+      "woff": "https://fonts.gstatic.com/s/spacemono/v5/i7dSIFZifjKcF5UAWdDRYERE_FeqEySX.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=i7dSIFZifjKcF5UAWdDRYERE_FeqEySW&skey=b23f6109ee1a67f7&v=v5#SpaceMono",
       "ttf": "https://fonts.gstatic.com/s/spacemono/v5/i7dSIFZifjKcF5UAWdDRYERE_FeqEySU.ttf",
-      "errored": false
-    },
-    {
-      "id": "italic",
-      "eot": "https://fonts.gstatic.com/s/spacemono/v5/i7dNIFZifjKcF5UAWdDRYERMSHK7.eot",
-      "fontFamily": "'Space Mono'",
-      "fontStyle": "italic",
-      "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/spacemono/v5/i7dNIFZifjKcF5UAWdDRYERMSHK_.woff2",
-      "local": [
-        "Space Mono Italic",
-        "SpaceMono-Italic"
-      ],
-      "woff": "https://fonts.gstatic.com/s/spacemono/v5/i7dNIFZifjKcF5UAWdDRYERMSHK5.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=i7dNIFZifjKcF5UAWdDRYERMSHK4&skey=f2396f001f60c566&v=v5#SpaceMono",
-      "ttf": "https://fonts.gstatic.com/s/spacemono/v5/i7dNIFZifjKcF5UAWdDRYERMSHK6.ttf",
       "errored": false
     }
   ],
@@ -75,7 +75,7 @@
   "category": "monospace",
   "version": "v5",
   "lastModified": "2019-07-16",
-  "popularity": 339,
+  "popularity": 358,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

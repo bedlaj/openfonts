@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/manuale/v4/f0X20eas_8Z-TFZdNPHOwg.woff2",
+      "woff": "https://fonts.gstatic.com/s/manuale/v4/f0X20eas_8Z-TFZdNPHOxA.woff",
       "fontFamily": "'Manuale'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,26 +12,10 @@
         "Manuale Regular",
         "Manuale-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=f0X20eas_8Z-TFZdNPHOxQ&skey=ea5c2e1eec98b791&v=v4#Manuale",
-      "woff": "https://fonts.gstatic.com/s/manuale/v4/f0X20eas_8Z-TFZdNPHOxA.woff",
-      "ttf": "https://fonts.gstatic.com/s/manuale/v4/f0X20eas_8Z-TFZdNPHOxw.ttf",
+      "woff2": "https://fonts.gstatic.com/s/manuale/v4/f0X20eas_8Z-TFZdNPHOwg.woff2",
       "eot": "https://fonts.gstatic.com/s/manuale/v4/f0X20eas_8Z-TFZdNPHOxg.eot",
-      "errored": false
-    },
-    {
-      "id": "italic",
-      "woff": "https://fonts.gstatic.com/s/manuale/v4/f0X00eas_8Z-TFZdNPT-wOHE.woff",
-      "fontFamily": "'Manuale'",
-      "fontStyle": "italic",
-      "fontWeight": "400",
-      "local": [
-        "Manuale Italic",
-        "Manuale-Italic"
-      ],
-      "ttf": "https://fonts.gstatic.com/s/manuale/v4/f0X00eas_8Z-TFZdNPT-wOHH.ttf",
-      "eot": "https://fonts.gstatic.com/s/manuale/v4/f0X00eas_8Z-TFZdNPT-wOHG.eot",
-      "woff2": "https://fonts.gstatic.com/s/manuale/v4/f0X00eas_8Z-TFZdNPT-wOHC.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=f0X00eas_8Z-TFZdNPT-wOHF&skey=d23698bab7e8d4c&v=v4#Manuale",
+      "ttf": "https://fonts.gstatic.com/s/manuale/v4/f0X20eas_8Z-TFZdNPHOxw.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=f0X20eas_8Z-TFZdNPHOxQ&skey=ea5c2e1eec98b791&v=v4#Manuale",
       "errored": false
     },
     {
@@ -46,53 +30,69 @@
         "Manuale-Medium"
       ],
       "woff2": "https://fonts.gstatic.com/s/manuale/v4/f0Xz0eas_8Z-TFZdPALt18bn9A.woff2",
-      "ttf": "https://fonts.gstatic.com/s/manuale/v4/f0Xz0eas_8Z-TFZdPALt18bn8Q.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=f0Xz0eas_8Z-TFZdPALt18bn8w&skey=3a0e7306ace6ed8a&v=v4#Manuale",
+      "ttf": "https://fonts.gstatic.com/s/manuale/v4/f0Xz0eas_8Z-TFZdPALt18bn8Q.ttf",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "woff2": "https://fonts.gstatic.com/s/manuale/v4/f0X00eas_8Z-TFZdNPT-wOHC.woff2",
+      "fontFamily": "'Manuale'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "local": [
+        "Manuale Italic",
+        "Manuale-Italic"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=f0X00eas_8Z-TFZdNPT-wOHF&skey=d23698bab7e8d4c&v=v4#Manuale",
+      "ttf": "https://fonts.gstatic.com/s/manuale/v4/f0X00eas_8Z-TFZdNPT-wOHH.ttf",
+      "woff": "https://fonts.gstatic.com/s/manuale/v4/f0X00eas_8Z-TFZdNPT-wOHE.woff",
+      "eot": "https://fonts.gstatic.com/s/manuale/v4/f0X00eas_8Z-TFZdNPT-wOHG.eot",
       "errored": false
     },
     {
       "id": "500italic",
-      "woff": "https://fonts.gstatic.com/s/manuale/v4/f0Xx0eas_8Z-TFZdNPT2M8LX9ocE.woff",
+      "eot": "https://fonts.gstatic.com/s/manuale/v4/f0Xx0eas_8Z-TFZdNPT2M8LX9ocG.eot",
       "fontFamily": "'Manuale'",
       "fontStyle": "italic",
       "fontWeight": "500",
+      "woff": "https://fonts.gstatic.com/s/manuale/v4/f0Xx0eas_8Z-TFZdNPT2M8LX9ocE.woff",
       "local": [
         "Manuale Medium Italic",
         "Manuale-MediumItalic"
       ],
       "woff2": "https://fonts.gstatic.com/s/manuale/v4/f0Xx0eas_8Z-TFZdNPT2M8LX9ocC.woff2",
       "ttf": "https://fonts.gstatic.com/s/manuale/v4/f0Xx0eas_8Z-TFZdNPT2M8LX9ocH.ttf",
-      "eot": "https://fonts.gstatic.com/s/manuale/v4/f0Xx0eas_8Z-TFZdNPT2M8LX9ocG.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=f0Xx0eas_8Z-TFZdNPT2M8LX9ocF&skey=22b9c51a91e32cfa&v=v4#Manuale",
       "errored": false
     },
     {
       "id": "600",
-      "woff": "https://fonts.gstatic.com/s/manuale/v4/f0Xz0eas_8Z-TFZdPC7q18bn8g.woff",
+      "eot": "https://fonts.gstatic.com/s/manuale/v4/f0Xz0eas_8Z-TFZdPC7q18bn8A.eot",
       "fontFamily": "'Manuale'",
       "fontStyle": "normal",
       "fontWeight": "600",
+      "woff": "https://fonts.gstatic.com/s/manuale/v4/f0Xz0eas_8Z-TFZdPC7q18bn8g.woff",
       "local": [
         "Manuale SemiBold",
         "Manuale-SemiBold"
       ],
-      "eot": "https://fonts.gstatic.com/s/manuale/v4/f0Xz0eas_8Z-TFZdPC7q18bn8A.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=f0Xz0eas_8Z-TFZdPC7q18bn8w&skey=11ad0706793aa48f&v=v4#Manuale",
-      "ttf": "https://fonts.gstatic.com/s/manuale/v4/f0Xz0eas_8Z-TFZdPC7q18bn8Q.ttf",
       "woff2": "https://fonts.gstatic.com/s/manuale/v4/f0Xz0eas_8Z-TFZdPC7q18bn9A.woff2",
+      "ttf": "https://fonts.gstatic.com/s/manuale/v4/f0Xz0eas_8Z-TFZdPC7q18bn8Q.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=f0Xz0eas_8Z-TFZdPC7q18bn8w&skey=11ad0706793aa48f&v=v4#Manuale",
       "errored": false
     },
     {
       "id": "600italic",
-      "woff2": "https://fonts.gstatic.com/s/manuale/v4/f0Xx0eas_8Z-TFZdNPT2H8XX9ocC.woff2",
+      "eot": "https://fonts.gstatic.com/s/manuale/v4/f0Xx0eas_8Z-TFZdNPT2H8XX9ocG.eot",
       "fontFamily": "'Manuale'",
       "fontStyle": "italic",
       "fontWeight": "600",
+      "woff2": "https://fonts.gstatic.com/s/manuale/v4/f0Xx0eas_8Z-TFZdNPT2H8XX9ocC.woff2",
       "local": [
         "Manuale SemiBold Italic",
         "Manuale-SemiBoldItalic"
       ],
-      "eot": "https://fonts.gstatic.com/s/manuale/v4/f0Xx0eas_8Z-TFZdNPT2H8XX9ocG.eot",
       "ttf": "https://fonts.gstatic.com/s/manuale/v4/f0Xx0eas_8Z-TFZdNPT2H8XX9ocH.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=f0Xx0eas_8Z-TFZdNPT2H8XX9ocF&skey=bc2f11adbaa17a37&v=v4#Manuale",
       "woff": "https://fonts.gstatic.com/s/manuale/v4/f0Xx0eas_8Z-TFZdNPT2H8XX9ocE.woff",
@@ -109,9 +109,9 @@
         "Manuale Bold",
         "Manuale-Bold"
       ],
+      "woff2": "https://fonts.gstatic.com/s/manuale/v4/f0Xz0eas_8Z-TFZdPErr18bn9A.woff2",
       "ttf": "https://fonts.gstatic.com/s/manuale/v4/f0Xz0eas_8Z-TFZdPErr18bn8Q.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=f0Xz0eas_8Z-TFZdPErr18bn8w&skey=24493e4a5aade7d7&v=v4#Manuale",
-      "woff2": "https://fonts.gstatic.com/s/manuale/v4/f0Xz0eas_8Z-TFZdPErr18bn9A.woff2",
       "errored": false
     },
     {
@@ -139,7 +139,7 @@
   "category": "serif",
   "version": "v4",
   "lastModified": "2019-07-16",
-  "popularity": 700,
+  "popularity": 724,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

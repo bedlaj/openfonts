@@ -12,25 +12,10 @@
         "Quantico",
         "Quantico-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/quantico/v9/rax-HiSdp9cPL3KIF7xrJD0.woff2",
-      "woff": "https://fonts.gstatic.com/s/quantico/v9/rax-HiSdp9cPL3KIF7xrJDs.woff",
       "eot": "https://fonts.gstatic.com/s/quantico/v9/rax-HiSdp9cPL3KIF7xrJDk.eot",
       "ttf": "https://fonts.gstatic.com/s/quantico/v9/rax-HiSdp9cPL3KIF7xrJDg.ttf",
-      "errored": false
-    },
-    {
-      "id": "italic",
-      "eot": "https://fonts.gstatic.com/s/quantico/v9/rax4HiSdp9cPL3KIF7xuFD96mg.eot",
-      "fontFamily": "'Quantico'",
-      "fontStyle": "italic",
-      "fontWeight": "400",
-      "ttf": "https://fonts.gstatic.com/s/quantico/v9/rax4HiSdp9cPL3KIF7xuFD96mw.ttf",
-      "local": [
-        "Quantico-Italic"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=rax4HiSdp9cPL3KIF7xuFD96mQ&skey=c8b95262ea7b7597&v=v9#Quantico",
-      "woff": "https://fonts.gstatic.com/s/quantico/v9/rax4HiSdp9cPL3KIF7xuFD96mA.woff",
-      "woff2": "https://fonts.gstatic.com/s/quantico/v9/rax4HiSdp9cPL3KIF7xuFD96ng.woff2",
+      "woff": "https://fonts.gstatic.com/s/quantico/v9/rax-HiSdp9cPL3KIF7xrJDs.woff",
+      "woff2": "https://fonts.gstatic.com/s/quantico/v9/rax-HiSdp9cPL3KIF7xrJD0.woff2",
       "errored": false
     },
     {
@@ -46,6 +31,21 @@
       "woff2": "https://fonts.gstatic.com/s/quantico/v9/rax5HiSdp9cPL3KIF7TQAShdu08.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=rax5HiSdp9cPL3KIF7TQAShdu0g&skey=c57d82e0b3475197&v=v9#Quantico",
       "ttf": "https://fonts.gstatic.com/s/quantico/v9/rax5HiSdp9cPL3KIF7TQAShdu0o.ttf",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "eot": "https://fonts.gstatic.com/s/quantico/v9/rax4HiSdp9cPL3KIF7xuFD96mg.eot",
+      "fontFamily": "'Quantico'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "svg": "https://fonts.gstatic.com/l/font?kit=rax4HiSdp9cPL3KIF7xuFD96mQ&skey=c8b95262ea7b7597&v=v9#Quantico",
+      "local": [
+        "Quantico-Italic"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/quantico/v9/rax4HiSdp9cPL3KIF7xuFD96mw.ttf",
+      "woff2": "https://fonts.gstatic.com/s/quantico/v9/rax4HiSdp9cPL3KIF7xuFD96ng.woff2",
+      "woff": "https://fonts.gstatic.com/s/quantico/v9/rax4HiSdp9cPL3KIF7xuFD96mA.woff",
       "errored": false
     },
     {
@@ -70,7 +70,7 @@
   "category": "sans-serif",
   "version": "v9",
   "lastModified": "2019-07-16",
-  "popularity": 314,
+  "popularity": 300,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

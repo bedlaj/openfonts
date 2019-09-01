@@ -12,34 +12,34 @@
         "Ubuntu Condensed",
         "UbuntuCondensed-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/ubuntucondensed/v10/u-4k0rCzjgs5J7oXnJcM_0kACGMtT-Tfrw.eot",
       "ttf": "https://fonts.gstatic.com/s/ubuntucondensed/v10/u-4k0rCzjgs5J7oXnJcM_0kACGMtT-Tfrg.ttf",
       "woff2": "https://fonts.gstatic.com/s/ubuntucondensed/v10/u-4k0rCzjgs5J7oXnJcM_0kACGMtT-Tfqw.woff2",
+      "eot": "https://fonts.gstatic.com/s/ubuntucondensed/v10/u-4k0rCzjgs5J7oXnJcM_0kACGMtT-Tfrw.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=u-4k0rCzjgs5J7oXnJcM_0kACGMtT-TfrA&skey=aeebafbe63d33be9&v=v10#UbuntuCondensed",
       "errored": false
     }
   ],
   "subsets": [
-    "greek-ext",
     "greek",
+    "greek-ext",
     "latin",
-    "latin-ext",
+    "cyrillic-ext",
     "cyrillic",
-    "cyrillic-ext"
+    "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v10",
   "lastModified": "2019-07-17",
-  "popularity": 84,
+  "popularity": 82,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "greek-ext": false,
     "greek": false,
+    "greek-ext": false,
     "latin": true,
-    "latin-ext": false,
+    "cyrillic-ext": false,
     "cyrillic": true,
-    "cyrillic-ext": false
+    "latin-ext": false
   },
   "storeID": "cyrillic_latin"
 }

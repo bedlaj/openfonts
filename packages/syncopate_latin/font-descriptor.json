@@ -4,34 +4,34 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/syncopate/v11/pe0sMIuPIYBCpEV5eFdCBfe_.woff2",
+      "eot": "https://fonts.gstatic.com/s/syncopate/v11/pe0sMIuPIYBCpEV5eFdCBfe7.eot",
       "fontFamily": "'Syncopate'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/syncopate/v11/pe0sMIuPIYBCpEV5eFdCBfe5.woff",
       "local": [
         "Syncopate Regular",
         "Syncopate-Regular"
       ],
       "ttf": "https://fonts.gstatic.com/s/syncopate/v11/pe0sMIuPIYBCpEV5eFdCBfe6.ttf",
+      "woff2": "https://fonts.gstatic.com/s/syncopate/v11/pe0sMIuPIYBCpEV5eFdCBfe_.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=pe0sMIuPIYBCpEV5eFdCBfe4&skey=cd91f76c305f38d&v=v11#Syncopate",
-      "woff": "https://fonts.gstatic.com/s/syncopate/v11/pe0sMIuPIYBCpEV5eFdCBfe5.woff",
-      "eot": "https://fonts.gstatic.com/s/syncopate/v11/pe0sMIuPIYBCpEV5eFdCBfe7.eot",
       "errored": false
     },
     {
       "id": "700",
-      "woff": "https://fonts.gstatic.com/s/syncopate/v11/pe0pMIuPIYBCpEV5eFdKvtKqBP5p.woff",
+      "eot": "https://fonts.gstatic.com/s/syncopate/v11/pe0pMIuPIYBCpEV5eFdKvtKqBP5r.eot",
       "fontFamily": "'Syncopate'",
       "fontStyle": "normal",
       "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/syncopate/v11/pe0pMIuPIYBCpEV5eFdKvtKqBP5p.woff",
       "local": [
         "Syncopate Bold",
         "Syncopate-Bold"
       ],
+      "ttf": "https://fonts.gstatic.com/s/syncopate/v11/pe0pMIuPIYBCpEV5eFdKvtKqBP5q.ttf",
       "woff2": "https://fonts.gstatic.com/s/syncopate/v11/pe0pMIuPIYBCpEV5eFdKvtKqBP5v.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=pe0pMIuPIYBCpEV5eFdKvtKqBP5o&skey=3047b1f9418cf2f7&v=v11#Syncopate",
-      "ttf": "https://fonts.gstatic.com/s/syncopate/v11/pe0pMIuPIYBCpEV5eFdKvtKqBP5q.ttf",
-      "eot": "https://fonts.gstatic.com/s/syncopate/v11/pe0pMIuPIYBCpEV5eFdKvtKqBP5r.eot",
       "errored": false
     }
   ],
@@ -41,7 +41,7 @@
   "category": "sans-serif",
   "version": "v11",
   "lastModified": "2019-07-16",
-  "popularity": 309,
+  "popularity": 302,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

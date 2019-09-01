@@ -3,40 +3,8 @@
   "family": "Darker Grotesque",
   "variants": [
     {
-      "id": "300",
-      "svg": "https://fonts.gstatic.com/l/font?kit=U9MA6cuh-mLQlC4BKCtayOfARkSVoxr2AW0&skey=7322dd10650a75d&v=v1#DarkerGrotesque",
-      "fontFamily": "'Darker Grotesque'",
-      "fontStyle": "normal",
-      "fontWeight": "300",
-      "local": [
-        "Darker Grotesque Light",
-        "DarkerGrotesque-Light"
-      ],
-      "eot": "https://fonts.gstatic.com/s/darkergrotesque/v1/U9MA6cuh-mLQlC4BKCtayOfARkSVoxr2AW4.eot",
-      "ttf": "https://fonts.gstatic.com/s/darkergrotesque/v1/U9MA6cuh-mLQlC4BKCtayOfARkSVoxr2AW8.ttf",
-      "woff": "https://fonts.gstatic.com/s/darkergrotesque/v1/U9MA6cuh-mLQlC4BKCtayOfARkSVoxr2AWw.woff",
-      "woff2": "https://fonts.gstatic.com/s/darkergrotesque/v1/U9MA6cuh-mLQlC4BKCtayOfARkSVoxr2AWo.woff2",
-      "errored": false
-    },
-    {
-      "id": "600",
-      "woff": "https://fonts.gstatic.com/s/darkergrotesque/v1/U9MA6cuh-mLQlC4BKCtayOfARkSVo27wAWw.woff",
-      "fontFamily": "'Darker Grotesque'",
-      "fontStyle": "normal",
-      "fontWeight": "600",
-      "local": [
-        "Darker Grotesque SemiBold",
-        "DarkerGrotesque-SemiBold"
-      ],
-      "eot": "https://fonts.gstatic.com/s/darkergrotesque/v1/U9MA6cuh-mLQlC4BKCtayOfARkSVo27wAW4.eot",
-      "woff2": "https://fonts.gstatic.com/s/darkergrotesque/v1/U9MA6cuh-mLQlC4BKCtayOfARkSVo27wAWo.woff2",
-      "ttf": "https://fonts.gstatic.com/s/darkergrotesque/v1/U9MA6cuh-mLQlC4BKCtayOfARkSVo27wAW8.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=U9MA6cuh-mLQlC4BKCtayOfARkSVo27wAW0&skey=8c5f4293841e8110&v=v1#DarkerGrotesque",
-      "errored": false
-    },
-    {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/darkergrotesque/v1/U9MH6cuh-mLQlC4BKCtayOfARkSVm7U.woff",
+      "woff2": "https://fonts.gstatic.com/s/darkergrotesque/v1/U9MH6cuh-mLQlC4BKCtayOfARkSVm7M.woff2",
       "fontFamily": "'Darker Grotesque'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -44,42 +12,58 @@
         "Darker Grotesque Regular",
         "DarkerGrotesque-Regular"
       ],
+      "woff": "https://fonts.gstatic.com/s/darkergrotesque/v1/U9MH6cuh-mLQlC4BKCtayOfARkSVm7U.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=U9MH6cuh-mLQlC4BKCtayOfARkSVm7Q&skey=659387bbda8b0a64&v=v1#DarkerGrotesque",
-      "woff2": "https://fonts.gstatic.com/s/darkergrotesque/v1/U9MH6cuh-mLQlC4BKCtayOfARkSVm7M.woff2",
       "ttf": "https://fonts.gstatic.com/s/darkergrotesque/v1/U9MH6cuh-mLQlC4BKCtayOfARkSVm7Y.ttf",
       "eot": "https://fonts.gstatic.com/s/darkergrotesque/v1/U9MH6cuh-mLQlC4BKCtayOfARkSVm7c.eot",
       "errored": false
     },
     {
+      "id": "300",
+      "eot": "https://fonts.gstatic.com/s/darkergrotesque/v1/U9MA6cuh-mLQlC4BKCtayOfARkSVoxr2AW4.eot",
+      "fontFamily": "'Darker Grotesque'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "woff": "https://fonts.gstatic.com/s/darkergrotesque/v1/U9MA6cuh-mLQlC4BKCtayOfARkSVoxr2AWw.woff",
+      "local": [
+        "Darker Grotesque Light",
+        "DarkerGrotesque-Light"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=U9MA6cuh-mLQlC4BKCtayOfARkSVoxr2AW0&skey=7322dd10650a75d&v=v1#DarkerGrotesque",
+      "ttf": "https://fonts.gstatic.com/s/darkergrotesque/v1/U9MA6cuh-mLQlC4BKCtayOfARkSVoxr2AW8.ttf",
+      "woff2": "https://fonts.gstatic.com/s/darkergrotesque/v1/U9MA6cuh-mLQlC4BKCtayOfARkSVoxr2AWo.woff2",
+      "errored": false
+    },
+    {
       "id": "500",
-      "woff": "https://fonts.gstatic.com/s/darkergrotesque/v1/U9MA6cuh-mLQlC4BKCtayOfARkSVo0L3AWw.woff",
+      "eot": "https://fonts.gstatic.com/s/darkergrotesque/v1/U9MA6cuh-mLQlC4BKCtayOfARkSVo0L3AW4.eot",
       "fontFamily": "'Darker Grotesque'",
       "fontStyle": "normal",
       "fontWeight": "500",
+      "woff": "https://fonts.gstatic.com/s/darkergrotesque/v1/U9MA6cuh-mLQlC4BKCtayOfARkSVo0L3AWw.woff",
       "local": [
         "Darker Grotesque Medium",
         "DarkerGrotesque-Medium"
       ],
-      "eot": "https://fonts.gstatic.com/s/darkergrotesque/v1/U9MA6cuh-mLQlC4BKCtayOfARkSVo0L3AW4.eot",
       "woff2": "https://fonts.gstatic.com/s/darkergrotesque/v1/U9MA6cuh-mLQlC4BKCtayOfARkSVo0L3AWo.woff2",
-      "ttf": "https://fonts.gstatic.com/s/darkergrotesque/v1/U9MA6cuh-mLQlC4BKCtayOfARkSVo0L3AW8.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=U9MA6cuh-mLQlC4BKCtayOfARkSVo0L3AW0&skey=3420f7c90947e830&v=v1#DarkerGrotesque",
+      "ttf": "https://fonts.gstatic.com/s/darkergrotesque/v1/U9MA6cuh-mLQlC4BKCtayOfARkSVo0L3AW8.ttf",
       "errored": false
     },
     {
-      "id": "700",
-      "eot": "https://fonts.gstatic.com/s/darkergrotesque/v1/U9MA6cuh-mLQlC4BKCtayOfARkSVowrxAW4.eot",
+      "id": "600",
+      "eot": "https://fonts.gstatic.com/s/darkergrotesque/v1/U9MA6cuh-mLQlC4BKCtayOfARkSVo27wAW4.eot",
       "fontFamily": "'Darker Grotesque'",
       "fontStyle": "normal",
-      "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/darkergrotesque/v1/U9MA6cuh-mLQlC4BKCtayOfARkSVowrxAWw.woff",
+      "fontWeight": "600",
+      "woff2": "https://fonts.gstatic.com/s/darkergrotesque/v1/U9MA6cuh-mLQlC4BKCtayOfARkSVo27wAWo.woff2",
       "local": [
-        "Darker Grotesque Bold",
-        "DarkerGrotesque-Bold"
+        "Darker Grotesque SemiBold",
+        "DarkerGrotesque-SemiBold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/darkergrotesque/v1/U9MA6cuh-mLQlC4BKCtayOfARkSVowrxAWo.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=U9MA6cuh-mLQlC4BKCtayOfARkSVowrxAW0&skey=c49b3e19337b57d5&v=v1#DarkerGrotesque",
-      "ttf": "https://fonts.gstatic.com/s/darkergrotesque/v1/U9MA6cuh-mLQlC4BKCtayOfARkSVowrxAW8.ttf",
+      "woff": "https://fonts.gstatic.com/s/darkergrotesque/v1/U9MA6cuh-mLQlC4BKCtayOfARkSVo27wAWw.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=U9MA6cuh-mLQlC4BKCtayOfARkSVo27wAW0&skey=8c5f4293841e8110&v=v1#DarkerGrotesque",
+      "ttf": "https://fonts.gstatic.com/s/darkergrotesque/v1/U9MA6cuh-mLQlC4BKCtayOfARkSVo27wAW8.ttf",
       "errored": false
     },
     {
@@ -93,9 +77,9 @@
         "Darker Grotesque ExtraBold",
         "DarkerGrotesque-ExtraBold"
       ],
+      "woff2": "https://fonts.gstatic.com/s/darkergrotesque/v1/U9MA6cuh-mLQlC4BKCtayOfARkSVoxbyAWo.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=U9MA6cuh-mLQlC4BKCtayOfARkSVoxbyAW0&skey=7da9c9dea05d1a63&v=v1#DarkerGrotesque",
       "ttf": "https://fonts.gstatic.com/s/darkergrotesque/v1/U9MA6cuh-mLQlC4BKCtayOfARkSVoxbyAW8.ttf",
-      "woff2": "https://fonts.gstatic.com/s/darkergrotesque/v1/U9MA6cuh-mLQlC4BKCtayOfARkSVoxbyAWo.woff2",
       "errored": false
     },
     {
@@ -104,14 +88,30 @@
       "fontFamily": "'Darker Grotesque'",
       "fontStyle": "normal",
       "fontWeight": "900",
-      "svg": "https://fonts.gstatic.com/l/font?kit=U9MA6cuh-mLQlC4BKCtayOfARkSVozLzAW0&skey=dab8f490ebcefd9c&v=v1#DarkerGrotesque",
+      "woff": "https://fonts.gstatic.com/s/darkergrotesque/v1/U9MA6cuh-mLQlC4BKCtayOfARkSVozLzAWw.woff",
       "local": [
         "Darker Grotesque Black",
         "DarkerGrotesque-Black"
       ],
-      "ttf": "https://fonts.gstatic.com/s/darkergrotesque/v1/U9MA6cuh-mLQlC4BKCtayOfARkSVozLzAW8.ttf",
-      "woff": "https://fonts.gstatic.com/s/darkergrotesque/v1/U9MA6cuh-mLQlC4BKCtayOfARkSVozLzAWw.woff",
       "woff2": "https://fonts.gstatic.com/s/darkergrotesque/v1/U9MA6cuh-mLQlC4BKCtayOfARkSVozLzAWo.woff2",
+      "ttf": "https://fonts.gstatic.com/s/darkergrotesque/v1/U9MA6cuh-mLQlC4BKCtayOfARkSVozLzAW8.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=U9MA6cuh-mLQlC4BKCtayOfARkSVozLzAW0&skey=dab8f490ebcefd9c&v=v1#DarkerGrotesque",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff": "https://fonts.gstatic.com/s/darkergrotesque/v1/U9MA6cuh-mLQlC4BKCtayOfARkSVowrxAWw.woff",
+      "fontFamily": "'Darker Grotesque'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Darker Grotesque Bold",
+        "DarkerGrotesque-Bold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/darkergrotesque/v1/U9MA6cuh-mLQlC4BKCtayOfARkSVowrxAWo.woff2",
+      "ttf": "https://fonts.gstatic.com/s/darkergrotesque/v1/U9MA6cuh-mLQlC4BKCtayOfARkSVowrxAW8.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=U9MA6cuh-mLQlC4BKCtayOfARkSVowrxAW0&skey=c49b3e19337b57d5&v=v1#DarkerGrotesque",
+      "eot": "https://fonts.gstatic.com/s/darkergrotesque/v1/U9MA6cuh-mLQlC4BKCtayOfARkSVowrxAW4.eot",
       "errored": false
     }
   ],
@@ -123,7 +123,7 @@
   "category": "sans-serif",
   "version": "v1",
   "lastModified": "2019-07-16",
-  "popularity": 882,
+  "popularity": 877,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

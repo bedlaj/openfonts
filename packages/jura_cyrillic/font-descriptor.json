@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "300",
-      "eot": "https://fonts.gstatic.com/s/jura/v11/z7NUdRfiaC4VVW9rRC9i1Q.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=z7NUdRfiaC4VVW9rRC9i1g&skey=c1194001c2a3361c&v=v11#Jura",
       "fontFamily": "'Jura'",
       "fontStyle": "normal",
       "fontWeight": "300",
-      "svg": "https://fonts.gstatic.com/l/font?kit=z7NUdRfiaC4VVW9rRC9i1g&skey=c1194001c2a3361c&v=v11#Jura",
       "local": [
         "Jura Light",
         "Jura-Light"
       ],
-      "ttf": "https://fonts.gstatic.com/s/jura/v11/z7NUdRfiaC4VVW9rRC9i1A.ttf",
-      "woff": "https://fonts.gstatic.com/s/jura/v11/z7NUdRfiaC4VVW9rRC9i1w.woff",
+      "eot": "https://fonts.gstatic.com/s/jura/v11/z7NUdRfiaC4VVW9rRC9i1Q.eot",
       "woff2": "https://fonts.gstatic.com/s/jura/v11/z7NUdRfiaC4VVW9rRC9i0Q.woff2",
+      "woff": "https://fonts.gstatic.com/s/jura/v11/z7NUdRfiaC4VVW9rRC9i1w.woff",
+      "ttf": "https://fonts.gstatic.com/s/jura/v11/z7NUdRfiaC4VVW9rRC9i1A.ttf",
       "errored": false
     },
     {
@@ -24,30 +24,14 @@
       "fontFamily": "'Jura'",
       "fontStyle": "normal",
       "fontWeight": "500",
-      "woff2": "https://fonts.gstatic.com/s/jura/v11/z7NUdRfiaC4VVTdqRC9i0Q.woff2",
+      "woff": "https://fonts.gstatic.com/s/jura/v11/z7NUdRfiaC4VVTdqRC9i1w.woff",
       "local": [
         "Jura Medium",
         "Jura-Medium"
       ],
-      "woff": "https://fonts.gstatic.com/s/jura/v11/z7NUdRfiaC4VVTdqRC9i1w.woff",
+      "woff2": "https://fonts.gstatic.com/s/jura/v11/z7NUdRfiaC4VVTdqRC9i0Q.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=z7NUdRfiaC4VVTdqRC9i1g&skey=ec1bb796d001ff30&v=v11#Jura",
       "ttf": "https://fonts.gstatic.com/s/jura/v11/z7NUdRfiaC4VVTdqRC9i1A.ttf",
-      "errored": false
-    },
-    {
-      "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/jura/v11/z7NbdRfiaC4VXcBJVQ.eot",
-      "fontFamily": "'Jura'",
-      "fontStyle": "normal",
-      "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/jura/v11/z7NbdRfiaC4VXcBJUQ.woff2",
-      "local": [
-        "Jura Regular",
-        "Jura-Regular"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=z7NbdRfiaC4VXcBJVg&skey=b9937b3ab2bb15f1&v=v11#Jura",
-      "woff": "https://fonts.gstatic.com/s/jura/v11/z7NbdRfiaC4VXcBJVw.woff",
-      "ttf": "https://fonts.gstatic.com/s/jura/v11/z7NbdRfiaC4VXcBJVA.ttf",
       "errored": false
     },
     {
@@ -62,8 +46,24 @@
         "Jura-SemiBold"
       ],
       "woff": "https://fonts.gstatic.com/s/jura/v11/z7NUdRfiaC4VVRttRC9i1w.woff",
-      "ttf": "https://fonts.gstatic.com/s/jura/v11/z7NUdRfiaC4VVRttRC9i1A.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=z7NUdRfiaC4VVRttRC9i1g&skey=282e270ca1cdaf0f&v=v11#Jura",
+      "ttf": "https://fonts.gstatic.com/s/jura/v11/z7NUdRfiaC4VVRttRC9i1A.ttf",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/jura/v11/z7NbdRfiaC4VXcBJUQ.woff2",
+      "fontFamily": "'Jura'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Jura Regular",
+        "Jura-Regular"
+      ],
+      "woff": "https://fonts.gstatic.com/s/jura/v11/z7NbdRfiaC4VXcBJVw.woff",
+      "ttf": "https://fonts.gstatic.com/s/jura/v11/z7NbdRfiaC4VXcBJVA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=z7NbdRfiaC4VXcBJVg&skey=b9937b3ab2bb15f1&v=v11#Jura",
+      "eot": "https://fonts.gstatic.com/s/jura/v11/z7NbdRfiaC4VXcBJVQ.eot",
       "errored": false
     },
     {
@@ -78,34 +78,34 @@
         "Jura-Bold"
       ],
       "woff2": "https://fonts.gstatic.com/s/jura/v11/z7NUdRfiaC4VVX9sRC9i0Q.woff2",
-      "ttf": "https://fonts.gstatic.com/s/jura/v11/z7NUdRfiaC4VVX9sRC9i1A.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=z7NUdRfiaC4VVX9sRC9i1g&skey=374a1000d66c7d71&v=v11#Jura",
+      "ttf": "https://fonts.gstatic.com/s/jura/v11/z7NUdRfiaC4VVX9sRC9i1A.ttf",
       "errored": false
     }
   ],
   "subsets": [
+    "greek",
     "greek-ext",
     "vietnamese",
-    "greek",
     "latin",
-    "latin-ext",
+    "cyrillic-ext",
     "cyrillic",
-    "cyrillic-ext"
+    "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v11",
   "lastModified": "2019-07-16",
-  "popularity": 263,
+  "popularity": 274,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
+    "greek": false,
     "greek-ext": false,
     "vietnamese": false,
-    "greek": false,
     "latin": true,
-    "latin-ext": false,
+    "cyrillic-ext": false,
     "cyrillic": true,
-    "cyrillic-ext": false
+    "latin-ext": false
   },
   "storeID": "cyrillic_latin"
 }

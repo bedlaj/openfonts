@@ -4,34 +4,34 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/rufina/v7/Yq6V-LyURyLy-aKCpB5j.woff",
+      "eot": "https://fonts.gstatic.com/s/rufina/v7/Yq6V-LyURyLy-aKCpB5h.eot",
       "fontFamily": "'Rufina'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Yq6V-LyURyLy-aKCpB5i&skey=87f93ede6042afc6&v=v7#Rufina",
       "local": [
         "Rufina",
         "Rufina-Regular"
       ],
       "woff2": "https://fonts.gstatic.com/s/rufina/v7/Yq6V-LyURyLy-aKCpB5l.woff2",
       "ttf": "https://fonts.gstatic.com/s/rufina/v7/Yq6V-LyURyLy-aKCpB5g.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Yq6V-LyURyLy-aKCpB5i&skey=87f93ede6042afc6&v=v7#Rufina",
-      "eot": "https://fonts.gstatic.com/s/rufina/v7/Yq6V-LyURyLy-aKCpB5h.eot",
+      "woff": "https://fonts.gstatic.com/s/rufina/v7/Yq6V-LyURyLy-aKCpB5j.woff",
       "errored": false
     },
     {
       "id": "700",
-      "ttf": "https://fonts.gstatic.com/s/rufina/v7/Yq6W-LyURyLy-aKKHztwu8Za.ttf",
+      "eot": "https://fonts.gstatic.com/s/rufina/v7/Yq6W-LyURyLy-aKKHztwu8Zb.eot",
       "fontFamily": "'Rufina'",
       "fontStyle": "normal",
       "fontWeight": "700",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Yq6W-LyURyLy-aKKHztwu8ZY&skey=a6e00281bfb527ba&v=v7#Rufina",
       "local": [
         "Rufina Bold",
         "Rufina-Bold"
       ],
       "woff2": "https://fonts.gstatic.com/s/rufina/v7/Yq6W-LyURyLy-aKKHztwu8Zf.woff2",
       "woff": "https://fonts.gstatic.com/s/rufina/v7/Yq6W-LyURyLy-aKKHztwu8ZZ.woff",
-      "eot": "https://fonts.gstatic.com/s/rufina/v7/Yq6W-LyURyLy-aKKHztwu8Zb.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Yq6W-LyURyLy-aKKHztwu8ZY&skey=a6e00281bfb527ba&v=v7#Rufina",
+      "ttf": "https://fonts.gstatic.com/s/rufina/v7/Yq6W-LyURyLy-aKKHztwu8Za.ttf",
       "errored": false
     }
   ],
@@ -42,7 +42,7 @@
   "category": "serif",
   "version": "v7",
   "lastModified": "2019-07-16",
-  "popularity": 334,
+  "popularity": 336,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

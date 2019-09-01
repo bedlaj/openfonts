@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/corben/v13/LYjDdGzzklQtCMpNqQND.woff",
+      "woff2": "https://fonts.gstatic.com/s/corben/v13/LYjDdGzzklQtCMpNqQNF.woff2",
       "fontFamily": "'Corben'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -14,22 +14,22 @@
       ],
       "ttf": "https://fonts.gstatic.com/s/corben/v13/LYjDdGzzklQtCMpNqQNA.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=LYjDdGzzklQtCMpNqQNC&skey=795061005e976bd6&v=v13#Corben",
-      "woff2": "https://fonts.gstatic.com/s/corben/v13/LYjDdGzzklQtCMpNqQNF.woff2",
+      "woff": "https://fonts.gstatic.com/s/corben/v13/LYjDdGzzklQtCMpNqQND.woff",
       "eot": "https://fonts.gstatic.com/s/corben/v13/LYjDdGzzklQtCMpNqQNB.eot",
       "errored": false
     },
     {
       "id": "700",
-      "eot": "https://fonts.gstatic.com/s/corben/v13/LYjAdGzzklQtCMpFHCZQpHou.eot",
+      "woff": "https://fonts.gstatic.com/s/corben/v13/LYjAdGzzklQtCMpFHCZQpHos.woff",
       "fontFamily": "'Corben'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/corben/v13/LYjAdGzzklQtCMpFHCZQpHos.woff",
       "local": [
         "Corben"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=LYjAdGzzklQtCMpFHCZQpHot&skey=f18040a69657653b&v=v13#Corben",
       "woff2": "https://fonts.gstatic.com/s/corben/v13/LYjAdGzzklQtCMpFHCZQpHoq.woff2",
+      "eot": "https://fonts.gstatic.com/s/corben/v13/LYjAdGzzklQtCMpFHCZQpHou.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=LYjAdGzzklQtCMpFHCZQpHot&skey=f18040a69657653b&v=v13#Corben",
       "ttf": "https://fonts.gstatic.com/s/corben/v13/LYjAdGzzklQtCMpFHCZQpHov.ttf",
       "errored": false
     }
@@ -41,7 +41,7 @@
   "category": "display",
   "version": "v13",
   "lastModified": "2019-07-16",
-  "popularity": 471,
+  "popularity": 456,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

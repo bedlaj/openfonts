@@ -12,28 +12,28 @@
         "Ledger",
         "Ledger-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/ledger/v7/j8_q6-HK1L3if_sBmMrx.woff2",
-      "ttf": "https://fonts.gstatic.com/s/ledger/v7/j8_q6-HK1L3if_sBmMr0.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=j8_q6-HK1L3if_sBmMr2&skey=6e1b03f801dd56e8&v=v7#Ledger",
       "eot": "https://fonts.gstatic.com/s/ledger/v7/j8_q6-HK1L3if_sBmMr1.eot",
+      "ttf": "https://fonts.gstatic.com/s/ledger/v7/j8_q6-HK1L3if_sBmMr0.ttf",
+      "woff2": "https://fonts.gstatic.com/s/ledger/v7/j8_q6-HK1L3if_sBmMrx.woff2",
       "errored": false
     }
   ],
   "subsets": [
     "latin",
-    "latin-ext",
-    "cyrillic"
+    "cyrillic",
+    "latin-ext"
   ],
   "category": "serif",
   "version": "v7",
   "lastModified": "2019-07-16",
-  "popularity": 587,
+  "popularity": 577,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "latin": true,
-    "latin-ext": false,
-    "cyrillic": true
+    "cyrillic": true,
+    "latin-ext": false
   },
   "storeID": "cyrillic_latin"
 }

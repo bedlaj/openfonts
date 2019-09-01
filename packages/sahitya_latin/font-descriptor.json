@@ -4,23 +4,23 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/sahitya/v4/6qLAKZkOuhnuqlJAWSAPOg.eot",
+      "woff2": "https://fonts.gstatic.com/s/sahitya/v4/6qLAKZkOuhnuqlJAWSAPPg.woff2",
       "fontFamily": "'Sahitya'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "svg": "https://fonts.gstatic.com/l/font?kit=6qLAKZkOuhnuqlJAWSAPOQ&skey=980a4c34e0a2c199&v=v4#Sahitya",
       "local": [
         "Sahitya",
         "Sahitya-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/sahitya/v4/6qLAKZkOuhnuqlJAWSAPOw.ttf",
-      "woff2": "https://fonts.gstatic.com/s/sahitya/v4/6qLAKZkOuhnuqlJAWSAPPg.woff2",
       "woff": "https://fonts.gstatic.com/s/sahitya/v4/6qLAKZkOuhnuqlJAWSAPOA.woff",
+      "ttf": "https://fonts.gstatic.com/s/sahitya/v4/6qLAKZkOuhnuqlJAWSAPOw.ttf",
+      "eot": "https://fonts.gstatic.com/s/sahitya/v4/6qLAKZkOuhnuqlJAWSAPOg.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=6qLAKZkOuhnuqlJAWSAPOQ&skey=980a4c34e0a2c199&v=v4#Sahitya",
       "errored": false
     },
     {
       "id": "700",
-      "svg": "https://fonts.gstatic.com/l/font?kit=6qLFKZkOuhnuqlJAUZsqKyMlFA&skey=4a09c211f370817d&v=v4#Sahitya",
+      "woff": "https://fonts.gstatic.com/s/sahitya/v4/6qLFKZkOuhnuqlJAUZsqKyMlFQ.woff",
       "fontFamily": "'Sahitya'",
       "fontStyle": "normal",
       "fontWeight": "700",
@@ -28,26 +28,26 @@
         "Sahitya Bold",
         "Sahitya-Bold"
       ],
-      "woff": "https://fonts.gstatic.com/s/sahitya/v4/6qLFKZkOuhnuqlJAUZsqKyMlFQ.woff",
-      "eot": "https://fonts.gstatic.com/s/sahitya/v4/6qLFKZkOuhnuqlJAUZsqKyMlFw.eot",
       "woff2": "https://fonts.gstatic.com/s/sahitya/v4/6qLFKZkOuhnuqlJAUZsqKyMlEw.woff2",
       "ttf": "https://fonts.gstatic.com/s/sahitya/v4/6qLFKZkOuhnuqlJAUZsqKyMlFg.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=6qLFKZkOuhnuqlJAUZsqKyMlFA&skey=4a09c211f370817d&v=v4#Sahitya",
+      "eot": "https://fonts.gstatic.com/s/sahitya/v4/6qLFKZkOuhnuqlJAUZsqKyMlFw.eot",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
-    "devanagari"
+    "devanagari",
+    "latin"
   ],
   "category": "serif",
   "version": "v4",
   "lastModified": "2019-07-16",
-  "popularity": 830,
+  "popularity": 825,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
-    "devanagari": false
+    "devanagari": false,
+    "latin": true
   },
   "storeID": "latin"
 }

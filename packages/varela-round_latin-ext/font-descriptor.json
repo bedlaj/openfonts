@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/varelaround/v12/w8gdH283Tvk__Lua32TysjIfqcuJ.woff",
+      "woff2": "https://fonts.gstatic.com/s/varelaround/v12/w8gdH283Tvk__Lua32TysjIfqcuP.woff2",
       "fontFamily": "'Varela Round'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Varela Round Regular",
         "VarelaRound-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/varelaround/v12/w8gdH283Tvk__Lua32TysjIfqcuL.eot",
-      "woff2": "https://fonts.gstatic.com/s/varelaround/v12/w8gdH283Tvk__Lua32TysjIfqcuP.woff2",
-      "ttf": "https://fonts.gstatic.com/s/varelaround/v12/w8gdH283Tvk__Lua32TysjIfqcuK.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=w8gdH283Tvk__Lua32TysjIfqcuI&skey=f4466053e3923597&v=v12#VarelaRound",
+      "woff": "https://fonts.gstatic.com/s/varelaround/v12/w8gdH283Tvk__Lua32TysjIfqcuJ.woff",
+      "ttf": "https://fonts.gstatic.com/s/varelaround/v12/w8gdH283Tvk__Lua32TysjIfqcuK.ttf",
+      "eot": "https://fonts.gstatic.com/s/varelaround/v12/w8gdH283Tvk__Lua32TysjIfqcuL.eot",
       "errored": false
     }
   ],
@@ -28,7 +28,7 @@
   "category": "sans-serif",
   "version": "v12",
   "lastModified": "2019-07-17",
-  "popularity": 58,
+  "popularity": 57,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

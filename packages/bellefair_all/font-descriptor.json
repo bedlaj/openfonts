@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/bellefair/v5/kJExBuYY6AAuhiXUxG19-g.woff2",
+      "eot": "https://fonts.gstatic.com/s/bellefair/v5/kJExBuYY6AAuhiXUxG19_g.eot",
       "fontFamily": "'Bellefair'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/bellefair/v5/kJExBuYY6AAuhiXUxG19-g.woff2",
       "local": [
         "Bellefair Regular",
         "Bellefair-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/bellefair/v5/kJExBuYY6AAuhiXUxG19_w.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=kJExBuYY6AAuhiXUxG19_Q&skey=5e2608507b793d9a&v=v5#Bellefair",
+      "ttf": "https://fonts.gstatic.com/s/bellefair/v5/kJExBuYY6AAuhiXUxG19_w.ttf",
       "woff": "https://fonts.gstatic.com/s/bellefair/v5/kJExBuYY6AAuhiXUxG19_A.woff",
-      "eot": "https://fonts.gstatic.com/s/bellefair/v5/kJExBuYY6AAuhiXUxG19_g.eot",
       "errored": false
     }
   ],
@@ -27,7 +27,7 @@
   "category": "serif",
   "version": "v5",
   "lastModified": "2019-07-16",
-  "popularity": 583,
+  "popularity": 573,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

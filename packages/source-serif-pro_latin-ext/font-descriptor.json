@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/sourceserifpro/v7/neIQzD-0qpwxpaWvjeD0X88SAOeauXo-oA.woff2",
+      "woff": "https://fonts.gstatic.com/s/sourceserifpro/v7/neIQzD-0qpwxpaWvjeD0X88SAOeauXo-pg.woff",
       "fontFamily": "'Source Serif Pro'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,26 @@
         "Source Serif Pro",
         "SourceSerifPro-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/sourceserifpro/v7/neIQzD-0qpwxpaWvjeD0X88SAOeauXo-pg.woff",
-      "ttf": "https://fonts.gstatic.com/s/sourceserifpro/v7/neIQzD-0qpwxpaWvjeD0X88SAOeauXo-pQ.ttf",
       "eot": "https://fonts.gstatic.com/s/sourceserifpro/v7/neIQzD-0qpwxpaWvjeD0X88SAOeauXo-pA.eot",
+      "ttf": "https://fonts.gstatic.com/s/sourceserifpro/v7/neIQzD-0qpwxpaWvjeD0X88SAOeauXo-pQ.ttf",
+      "woff2": "https://fonts.gstatic.com/s/sourceserifpro/v7/neIQzD-0qpwxpaWvjeD0X88SAOeauXo-oA.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=neIQzD-0qpwxpaWvjeD0X88SAOeauXo-pw&skey=ad61dbb9e6ec58fd&v=v7#SourceSerifPro",
+      "errored": false
+    },
+    {
+      "id": "600",
+      "woff": "https://fonts.gstatic.com/s/sourceserifpro/v7/neIXzD-0qpwxpaWvjeD0X88SAOeasasatSKqwg.woff",
+      "fontFamily": "'Source Serif Pro'",
+      "fontStyle": "normal",
+      "fontWeight": "600",
+      "local": [
+        "Source Serif Pro Semibold",
+        "SourceSerifPro-Semibold"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/sourceserifpro/v7/neIXzD-0qpwxpaWvjeD0X88SAOeasasatSKqwQ.ttf",
+      "eot": "https://fonts.gstatic.com/s/sourceserifpro/v7/neIXzD-0qpwxpaWvjeD0X88SAOeasasatSKqwA.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=neIXzD-0qpwxpaWvjeD0X88SAOeasasatSKqww&skey=b8235573d8a7dab9&v=v7#SourceSerifPro",
+      "woff2": "https://fonts.gstatic.com/s/sourceserifpro/v7/neIXzD-0qpwxpaWvjeD0X88SAOeasasatSKqxA.woff2",
       "errored": false
     },
     {
@@ -30,24 +46,8 @@
         "SourceSerifPro-Bold"
       ],
       "woff2": "https://fonts.gstatic.com/s/sourceserifpro/v7/neIXzD-0qpwxpaWvjeD0X88SAOeasc8btSKqxA.woff2",
-      "ttf": "https://fonts.gstatic.com/s/sourceserifpro/v7/neIXzD-0qpwxpaWvjeD0X88SAOeasc8btSKqwQ.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=neIXzD-0qpwxpaWvjeD0X88SAOeasc8btSKqww&skey=a66cfa1b65a371&v=v7#SourceSerifPro",
-      "errored": false
-    },
-    {
-      "id": "600",
-      "woff2": "https://fonts.gstatic.com/s/sourceserifpro/v7/neIXzD-0qpwxpaWvjeD0X88SAOeasasatSKqxA.woff2",
-      "fontFamily": "'Source Serif Pro'",
-      "fontStyle": "normal",
-      "fontWeight": "600",
-      "local": [
-        "Source Serif Pro Semibold",
-        "SourceSerifPro-Semibold"
-      ],
-      "woff": "https://fonts.gstatic.com/s/sourceserifpro/v7/neIXzD-0qpwxpaWvjeD0X88SAOeasasatSKqwg.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=neIXzD-0qpwxpaWvjeD0X88SAOeasasatSKqww&skey=b8235573d8a7dab9&v=v7#SourceSerifPro",
-      "eot": "https://fonts.gstatic.com/s/sourceserifpro/v7/neIXzD-0qpwxpaWvjeD0X88SAOeasasatSKqwA.eot",
-      "ttf": "https://fonts.gstatic.com/s/sourceserifpro/v7/neIXzD-0qpwxpaWvjeD0X88SAOeasasatSKqwQ.ttf",
+      "ttf": "https://fonts.gstatic.com/s/sourceserifpro/v7/neIXzD-0qpwxpaWvjeD0X88SAOeasc8btSKqwQ.ttf",
       "errored": false
     }
   ],
@@ -58,7 +58,7 @@
   "category": "serif",
   "version": "v7",
   "lastModified": "2019-07-17",
-  "popularity": 59,
+  "popularity": 58,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

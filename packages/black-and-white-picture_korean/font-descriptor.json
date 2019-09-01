@@ -4,15 +4,15 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/blackandwhitepicture/v8/TwMe-JAERlQd3ooUHBUXGmrmioKjjnRSFO-NqL5KZ8Q.woff",
+      "eot": "https://fonts.gstatic.com/s/blackandwhitepicture/v8/TwMe-JAERlQd3ooUHBUXGmrmioKjjnRSFO-NqL5KZ8Y.eot",
       "fontFamily": "'Black And White Picture'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/blackandwhitepicture/v8/TwMe-JAERlQd3ooUHBUXGmrmioKjjnRSFO-NqL5KZ8Q.woff",
       "local": [
         "Black And White Picture Regular",
         "BlackAndWhitePicture-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/blackandwhitepicture/v8/TwMe-JAERlQd3ooUHBUXGmrmioKjjnRSFO-NqL5KZ8Y.eot",
       "woff2": "https://fonts.gstatic.com/s/blackandwhitepicture/v8/TwMe-JAERlQd3ooUHBUXGmrmioKjjnRSFO-NqL5KZ8I.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=TwMe-JAERlQd3ooUHBUXGmrmioKjjnRSFO-NqL5KZ8U&skey=978d467907d5ff57&v=v8#BlackAndWhitePicture",
       "ttf": "https://fonts.gstatic.com/s/blackandwhitepicture/v8/TwMe-JAERlQd3ooUHBUXGmrmioKjjnRSFO-NqL5KZ8c.ttf",
@@ -20,18 +20,18 @@
     }
   ],
   "subsets": [
-    "korean",
-    "latin"
+    "latin",
+    "korean"
   ],
   "category": "sans-serif",
   "version": "v8",
   "lastModified": "2019-07-16",
-  "popularity": 885,
+  "popularity": 890,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "korean": true,
-    "latin": true
+    "latin": true,
+    "korean": true
   },
-  "storeID": "latin_korean"
+  "storeID": "korean_latin"
 }

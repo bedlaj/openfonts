@@ -4,50 +4,50 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/bitter/v15/rax8HiqOu8IVPmn7f4xv.woff",
+      "eot": "https://fonts.gstatic.com/s/bitter/v15/rax8HiqOu8IVPmn7f4xt.eot",
       "fontFamily": "'Bitter'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/bitter/v15/rax8HiqOu8IVPmn7f4xv.woff",
       "local": [
         "Bitter Regular",
         "Bitter-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=rax8HiqOu8IVPmn7f4xu&skey=c92268a3e57ee309&v=v15#Bitter",
       "woff2": "https://fonts.gstatic.com/s/bitter/v15/rax8HiqOu8IVPmn7f4xp.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=rax8HiqOu8IVPmn7f4xu&skey=c92268a3e57ee309&v=v15#Bitter",
       "ttf": "https://fonts.gstatic.com/s/bitter/v15/rax8HiqOu8IVPmn7f4xs.ttf",
-      "eot": "https://fonts.gstatic.com/s/bitter/v15/rax8HiqOu8IVPmn7f4xt.eot",
       "errored": false
     },
     {
       "id": "italic",
-      "woff": "https://fonts.gstatic.com/s/bitter/v15/rax-HiqOu8IVPmn7erxrJDs.woff",
+      "eot": "https://fonts.gstatic.com/s/bitter/v15/rax-HiqOu8IVPmn7erxrJDk.eot",
       "fontFamily": "'Bitter'",
       "fontStyle": "italic",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/bitter/v15/rax-HiqOu8IVPmn7erxrJDs.woff",
       "local": [
         "Bitter Italic",
         "Bitter-Italic"
       ],
-      "eot": "https://fonts.gstatic.com/s/bitter/v15/rax-HiqOu8IVPmn7erxrJDk.eot",
-      "woff2": "https://fonts.gstatic.com/s/bitter/v15/rax-HiqOu8IVPmn7erxrJD0.woff2",
       "ttf": "https://fonts.gstatic.com/s/bitter/v15/rax-HiqOu8IVPmn7erxrJDg.ttf",
+      "woff2": "https://fonts.gstatic.com/s/bitter/v15/rax-HiqOu8IVPmn7erxrJD0.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=rax-HiqOu8IVPmn7erxrJDo&skey=7ce735f7301da1b7&v=v15#Bitter",
       "errored": false
     },
     {
       "id": "700",
-      "eot": "https://fonts.gstatic.com/s/bitter/v15/rax_HiqOu8IVPmnzxKl8Axhb.eot",
+      "woff": "https://fonts.gstatic.com/s/bitter/v15/rax_HiqOu8IVPmnzxKl8AxhZ.woff",
       "fontFamily": "'Bitter'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff2": "https://fonts.gstatic.com/s/bitter/v15/rax_HiqOu8IVPmnzxKl8Axhf.woff2",
       "local": [
         "Bitter Bold",
         "Bitter-Bold"
       ],
-      "woff": "https://fonts.gstatic.com/s/bitter/v15/rax_HiqOu8IVPmnzxKl8AxhZ.woff",
+      "eot": "https://fonts.gstatic.com/s/bitter/v15/rax_HiqOu8IVPmnzxKl8Axhb.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=rax_HiqOu8IVPmnzxKl8AxhY&skey=e4df9b9066e26755&v=v15#Bitter",
       "ttf": "https://fonts.gstatic.com/s/bitter/v15/rax_HiqOu8IVPmnzxKl8Axha.ttf",
+      "woff2": "https://fonts.gstatic.com/s/bitter/v15/rax_HiqOu8IVPmnzxKl8Axhf.woff2",
       "errored": false
     }
   ],
@@ -58,7 +58,7 @@
   "category": "serif",
   "version": "v15",
   "lastModified": "2019-07-22",
-  "popularity": 41,
+  "popularity": 46,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

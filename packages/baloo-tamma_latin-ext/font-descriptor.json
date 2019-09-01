@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/balootamma/v6/JTUTjIk68Cy27gWhOWIghH5I7g0.woff",
+      "woff2": "https://fonts.gstatic.com/s/balootamma/v6/JTUTjIk68Cy27gWhOWIghH5I7gs.woff2",
       "fontFamily": "'Baloo Tamma'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -14,16 +14,16 @@
       ],
       "eot": "https://fonts.gstatic.com/s/balootamma/v6/JTUTjIk68Cy27gWhOWIghH5I7g8.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=JTUTjIk68Cy27gWhOWIghH5I7gw&skey=4e17e9c5a355a699&v=v6#BalooTamma",
-      "woff2": "https://fonts.gstatic.com/s/balootamma/v6/JTUTjIk68Cy27gWhOWIghH5I7gs.woff2",
+      "woff": "https://fonts.gstatic.com/s/balootamma/v6/JTUTjIk68Cy27gWhOWIghH5I7g0.woff",
       "ttf": "https://fonts.gstatic.com/s/balootamma/v6/JTUTjIk68Cy27gWhOWIghH5I7g4.ttf",
       "errored": false
     }
   ],
   "subsets": [
     "vietnamese",
+    "kannada",
     "latin",
-    "latin-ext",
-    "kannada"
+    "latin-ext"
   ],
   "category": "display",
   "version": "v6",
@@ -33,9 +33,9 @@
   "defVariant": "regular",
   "subsetMap": {
     "vietnamese": false,
+    "kannada": false,
     "latin": true,
-    "latin-ext": true,
-    "kannada": false
+    "latin-ext": true
   },
   "storeID": "latin-ext_latin"
 }

@@ -4,52 +4,52 @@
   "variants": [
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=-nFzOGc18vARnzZp6A&skey=443fdf0a1d81ab47&v=v3#Mina",
+      "eot": "https://fonts.gstatic.com/s/mina/v3/-nFzOGc18vARnzZp6w.eot",
       "fontFamily": "'Mina'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "ttf": "https://fonts.gstatic.com/s/mina/v3/-nFzOGc18vARnzZp6g.ttf",
       "local": [
         "Mina",
         "Mina-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/mina/v3/-nFzOGc18vARnzZp6Q.woff",
       "woff2": "https://fonts.gstatic.com/s/mina/v3/-nFzOGc18vARnzZp7w.woff2",
-      "eot": "https://fonts.gstatic.com/s/mina/v3/-nFzOGc18vARnzZp6w.eot",
-      "ttf": "https://fonts.gstatic.com/s/mina/v3/-nFzOGc18vARnzZp6g.ttf",
+      "woff": "https://fonts.gstatic.com/s/mina/v3/-nFzOGc18vARnzZp6Q.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=-nFzOGc18vARnzZp6A&skey=443fdf0a1d81ab47&v=v3#Mina",
       "errored": false
     },
     {
       "id": "700",
-      "svg": "https://fonts.gstatic.com/l/font?kit=-nF8OGc18vARl4NM-izT8Q&skey=c886375473c13d5&v=v3#Mina",
+      "eot": "https://fonts.gstatic.com/s/mina/v3/-nF8OGc18vARl4NM-izT8g.eot",
       "fontFamily": "'Mina'",
       "fontStyle": "normal",
       "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/mina/v3/-nF8OGc18vARl4NM-izT8A.woff",
       "local": [
         "Mina Bold",
         "Mina-Bold"
       ],
-      "eot": "https://fonts.gstatic.com/s/mina/v3/-nF8OGc18vARl4NM-izT8g.eot",
       "ttf": "https://fonts.gstatic.com/s/mina/v3/-nF8OGc18vARl4NM-izT8w.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=-nF8OGc18vARl4NM-izT8Q&skey=c886375473c13d5&v=v3#Mina",
       "woff2": "https://fonts.gstatic.com/s/mina/v3/-nF8OGc18vARl4NM-izT9g.woff2",
-      "woff": "https://fonts.gstatic.com/s/mina/v3/-nF8OGc18vARl4NM-izT8A.woff",
       "errored": false
     }
   ],
   "subsets": [
     "latin",
-    "latin-ext",
-    "bengali"
+    "bengali",
+    "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v3",
   "lastModified": "2019-07-16",
-  "popularity": 735,
+  "popularity": 754,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "latin": true,
-    "latin-ext": true,
-    "bengali": false
+    "bengali": false,
+    "latin-ext": true
   },
   "storeID": "latin-ext_latin"
 }

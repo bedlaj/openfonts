@@ -4,23 +4,55 @@
   "variants": [
     {
       "id": "100",
-      "eot": "https://fonts.gstatic.com/s/chathura/v5/_gP91R7-rzUuVjim42dEm0ORSw.eot",
+      "woff2": "https://fonts.gstatic.com/s/chathura/v5/_gP91R7-rzUuVjim42dEm0ORTw.woff2",
       "fontFamily": "'Chathura'",
       "fontStyle": "normal",
       "fontWeight": "100",
-      "svg": "https://fonts.gstatic.com/l/font?kit=_gP91R7-rzUuVjim42dEm0ORSA&skey=766e61739e22aaba&v=v5#Chathura",
       "local": [
         "Chathura Thin",
         "Chathura-Thin"
       ],
-      "woff2": "https://fonts.gstatic.com/s/chathura/v5/_gP91R7-rzUuVjim42dEm0ORTw.woff2",
-      "ttf": "https://fonts.gstatic.com/s/chathura/v5/_gP91R7-rzUuVjim42dEm0ORSg.ttf",
       "woff": "https://fonts.gstatic.com/s/chathura/v5/_gP91R7-rzUuVjim42dEm0ORSQ.woff",
+      "eot": "https://fonts.gstatic.com/s/chathura/v5/_gP91R7-rzUuVjim42dEm0ORSw.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=_gP91R7-rzUuVjim42dEm0ORSA&skey=766e61739e22aaba&v=v5#Chathura",
+      "ttf": "https://fonts.gstatic.com/s/chathura/v5/_gP91R7-rzUuVjim42dEm0ORSg.ttf",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/chathura/v5/_gP71R7-rzUuVjim428nq0U.eot",
+      "fontFamily": "'Chathura'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/chathura/v5/_gP71R7-rzUuVjim428nq0c.woff",
+      "local": [
+        "Chathura Regular",
+        "Chathura-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/chathura/v5/_gP71R7-rzUuVjim428nq0E.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=_gP71R7-rzUuVjim428nq0Y&skey=37a79c74def3fd18&v=v5#Chathura",
+      "ttf": "https://fonts.gstatic.com/s/chathura/v5/_gP71R7-rzUuVjim428nq0Q.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/chathura/v5/_gP81R7-rzUuVjim42ecjlS2av8.eot",
+      "fontFamily": "'Chathura'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/chathura/v5/_gP81R7-rzUuVjim42ecjlS2av0.woff",
+      "local": [
+        "Chathura Bold",
+        "Chathura-Bold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/chathura/v5/_gP81R7-rzUuVjim42ecjlS2avs.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=_gP81R7-rzUuVjim42ecjlS2avw&skey=7435dace61c83230&v=v5#Chathura",
+      "ttf": "https://fonts.gstatic.com/s/chathura/v5/_gP81R7-rzUuVjim42ecjlS2av4.ttf",
       "errored": false
     },
     {
       "id": "300",
-      "svg": "https://fonts.gstatic.com/l/font?kit=_gP81R7-rzUuVjim42eMiVS2avw&skey=a461c7cc6a7ac66&v=v5#Chathura",
+      "woff": "https://fonts.gstatic.com/s/chathura/v5/_gP81R7-rzUuVjim42eMiVS2av0.woff",
       "fontFamily": "'Chathura'",
       "fontStyle": "normal",
       "fontWeight": "300",
@@ -28,57 +60,25 @@
         "Chathura Light",
         "Chathura-Light"
       ],
-      "woff": "https://fonts.gstatic.com/s/chathura/v5/_gP81R7-rzUuVjim42eMiVS2av0.woff",
-      "ttf": "https://fonts.gstatic.com/s/chathura/v5/_gP81R7-rzUuVjim42eMiVS2av4.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=_gP81R7-rzUuVjim42eMiVS2avw&skey=a461c7cc6a7ac66&v=v5#Chathura",
       "woff2": "https://fonts.gstatic.com/s/chathura/v5/_gP81R7-rzUuVjim42eMiVS2avs.woff2",
+      "ttf": "https://fonts.gstatic.com/s/chathura/v5/_gP81R7-rzUuVjim42eMiVS2av4.ttf",
       "eot": "https://fonts.gstatic.com/s/chathura/v5/_gP81R7-rzUuVjim42eMiVS2av8.eot",
       "errored": false
     },
     {
-      "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=_gP71R7-rzUuVjim428nq0Y&skey=37a79c74def3fd18&v=v5#Chathura",
-      "fontFamily": "'Chathura'",
-      "fontStyle": "normal",
-      "fontWeight": "400",
-      "local": [
-        "Chathura Regular",
-        "Chathura-Regular"
-      ],
-      "woff": "https://fonts.gstatic.com/s/chathura/v5/_gP71R7-rzUuVjim428nq0c.woff",
-      "eot": "https://fonts.gstatic.com/s/chathura/v5/_gP71R7-rzUuVjim428nq0U.eot",
-      "ttf": "https://fonts.gstatic.com/s/chathura/v5/_gP71R7-rzUuVjim428nq0Q.ttf",
-      "woff2": "https://fonts.gstatic.com/s/chathura/v5/_gP71R7-rzUuVjim428nq0E.woff2",
-      "errored": false
-    },
-    {
-      "id": "700",
-      "ttf": "https://fonts.gstatic.com/s/chathura/v5/_gP81R7-rzUuVjim42ecjlS2av4.ttf",
-      "fontFamily": "'Chathura'",
-      "fontStyle": "normal",
-      "fontWeight": "700",
-      "local": [
-        "Chathura Bold",
-        "Chathura-Bold"
-      ],
-      "woff": "https://fonts.gstatic.com/s/chathura/v5/_gP81R7-rzUuVjim42ecjlS2av0.woff",
-      "woff2": "https://fonts.gstatic.com/s/chathura/v5/_gP81R7-rzUuVjim42ecjlS2avs.woff2",
-      "eot": "https://fonts.gstatic.com/s/chathura/v5/_gP81R7-rzUuVjim42ecjlS2av8.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=_gP81R7-rzUuVjim42ecjlS2avw&skey=7435dace61c83230&v=v5#Chathura",
-      "errored": false
-    },
-    {
       "id": "800",
-      "woff2": "https://fonts.gstatic.com/s/chathura/v5/_gP81R7-rzUuVjim42eAjVS2avs.woff2",
+      "eot": "https://fonts.gstatic.com/s/chathura/v5/_gP81R7-rzUuVjim42eAjVS2av8.eot",
       "fontFamily": "'Chathura'",
       "fontStyle": "normal",
       "fontWeight": "800",
+      "woff": "https://fonts.gstatic.com/s/chathura/v5/_gP81R7-rzUuVjim42eAjVS2av0.woff",
       "local": [
         "Chathura ExtraBold",
         "Chathura-ExtraBold"
       ],
-      "woff": "https://fonts.gstatic.com/s/chathura/v5/_gP81R7-rzUuVjim42eAjVS2av0.woff",
+      "woff2": "https://fonts.gstatic.com/s/chathura/v5/_gP81R7-rzUuVjim42eAjVS2avs.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=_gP81R7-rzUuVjim42eAjVS2avw&skey=8012a56d8595ebc7&v=v5#Chathura",
-      "eot": "https://fonts.gstatic.com/s/chathura/v5/_gP81R7-rzUuVjim42eAjVS2av8.eot",
       "ttf": "https://fonts.gstatic.com/s/chathura/v5/_gP81R7-rzUuVjim42eAjVS2av4.ttf",
       "errored": false
     }
@@ -90,7 +90,7 @@
   "category": "sans-serif",
   "version": "v5",
   "lastModified": "2019-07-16",
-  "popularity": 814,
+  "popularity": 793,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

@@ -4,23 +4,23 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/glegoo/v9/_Xmt-HQyrTKWaw25jKOc.eot",
+      "woff": "https://fonts.gstatic.com/s/glegoo/v9/_Xmt-HQyrTKWaw25jKOe.woff",
       "fontFamily": "'Glegoo'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "ttf": "https://fonts.gstatic.com/s/glegoo/v9/_Xmt-HQyrTKWaw25jKOd.ttf",
       "local": [
         "Glegoo",
         "Glegoo-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=_Xmt-HQyrTKWaw25jKOf&skey=6551fc07d4130f4e&v=v9#Glegoo",
-      "woff": "https://fonts.gstatic.com/s/glegoo/v9/_Xmt-HQyrTKWaw25jKOe.woff",
+      "eot": "https://fonts.gstatic.com/s/glegoo/v9/_Xmt-HQyrTKWaw25jKOc.eot",
       "woff2": "https://fonts.gstatic.com/s/glegoo/v9/_Xmt-HQyrTKWaw25jKOY.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=_Xmt-HQyrTKWaw25jKOf&skey=6551fc07d4130f4e&v=v9#Glegoo",
+      "ttf": "https://fonts.gstatic.com/s/glegoo/v9/_Xmt-HQyrTKWaw25jKOd.ttf",
       "errored": false
     },
     {
       "id": "700",
-      "woff2": "https://fonts.gstatic.com/s/glegoo/v9/_Xmu-HQyrTKWaw2xN4aND65o.woff2",
+      "woff": "https://fonts.gstatic.com/s/glegoo/v9/_Xmu-HQyrTKWaw2xN4aND65u.woff",
       "fontFamily": "'Glegoo'",
       "fontStyle": "normal",
       "fontWeight": "700",
@@ -28,27 +28,27 @@
         "Glegoo Bold",
         "Glegoo-Bold"
       ],
-      "woff": "https://fonts.gstatic.com/s/glegoo/v9/_Xmu-HQyrTKWaw2xN4aND65u.woff",
       "eot": "https://fonts.gstatic.com/s/glegoo/v9/_Xmu-HQyrTKWaw2xN4aND65s.eot",
-      "ttf": "https://fonts.gstatic.com/s/glegoo/v9/_Xmu-HQyrTKWaw2xN4aND65t.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=_Xmu-HQyrTKWaw2xN4aND65v&skey=2a299c59145b3847&v=v9#Glegoo",
+      "ttf": "https://fonts.gstatic.com/s/glegoo/v9/_Xmu-HQyrTKWaw2xN4aND65t.ttf",
+      "woff2": "https://fonts.gstatic.com/s/glegoo/v9/_Xmu-HQyrTKWaw2xN4aND65o.woff2",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
     "devanagari",
+    "latin",
     "latin-ext"
   ],
   "category": "serif",
   "version": "v9",
   "lastModified": "2019-07-16",
-  "popularity": 207,
+  "popularity": 206,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
     "devanagari": false,
+    "latin": true,
     "latin-ext": false
   },
   "storeID": "latin"

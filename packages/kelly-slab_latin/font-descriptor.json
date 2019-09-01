@@ -4,36 +4,36 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/kellyslab/v10/-W_7XJX0Rz3cxUnJC5t6fkQLew.ttf",
+      "eot": "https://fonts.gstatic.com/s/kellyslab/v10/-W_7XJX0Rz3cxUnJC5t6fkQLeg.eot",
       "fontFamily": "'Kelly Slab'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/kellyslab/v10/-W_7XJX0Rz3cxUnJC5t6fkQLfg.woff2",
       "local": [
         "Kelly Slab",
         "KellySlab-Regular"
       ],
+      "ttf": "https://fonts.gstatic.com/s/kellyslab/v10/-W_7XJX0Rz3cxUnJC5t6fkQLew.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=-W_7XJX0Rz3cxUnJC5t6fkQLeQ&skey=8021e4f176fe967&v=v10#KellySlab",
       "woff": "https://fonts.gstatic.com/s/kellyslab/v10/-W_7XJX0Rz3cxUnJC5t6fkQLeA.woff",
-      "eot": "https://fonts.gstatic.com/s/kellyslab/v10/-W_7XJX0Rz3cxUnJC5t6fkQLeg.eot",
-      "woff2": "https://fonts.gstatic.com/s/kellyslab/v10/-W_7XJX0Rz3cxUnJC5t6fkQLfg.woff2",
       "errored": false
     }
   ],
   "subsets": [
     "latin",
-    "latin-ext",
-    "cyrillic"
+    "cyrillic",
+    "latin-ext"
   ],
   "category": "display",
   "version": "v10",
   "lastModified": "2019-07-16",
-  "popularity": 417,
+  "popularity": 427,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "latin": true,
-    "latin-ext": false,
-    "cyrillic": false
+    "cyrillic": false,
+    "latin-ext": false
   },
   "storeID": "latin"
 }

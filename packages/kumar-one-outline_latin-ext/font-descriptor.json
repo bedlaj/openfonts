@@ -4,36 +4,36 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/kumaroneoutline/v5/Noao6VH62pyLP0fsrZ-v18wlUEcX9wD5Tw4.eot",
+      "ttf": "https://fonts.gstatic.com/s/kumaroneoutline/v5/Noao6VH62pyLP0fsrZ-v18wlUEcX9wD5Tw8.ttf",
       "fontFamily": "'Kumar One Outline'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/kumaroneoutline/v5/Noao6VH62pyLP0fsrZ-v18wlUEcX9wD5Two.woff2",
       "local": [
         "Kumar One Outline",
         "KumarOneOutline-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/kumaroneoutline/v5/Noao6VH62pyLP0fsrZ-v18wlUEcX9wD5Tww.woff",
-      "ttf": "https://fonts.gstatic.com/s/kumaroneoutline/v5/Noao6VH62pyLP0fsrZ-v18wlUEcX9wD5Tw8.ttf",
+      "woff2": "https://fonts.gstatic.com/s/kumaroneoutline/v5/Noao6VH62pyLP0fsrZ-v18wlUEcX9wD5Two.woff2",
+      "eot": "https://fonts.gstatic.com/s/kumaroneoutline/v5/Noao6VH62pyLP0fsrZ-v18wlUEcX9wD5Tw4.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=Noao6VH62pyLP0fsrZ-v18wlUEcX9wD5Tw0&skey=2ecb457e319c5c85&v=v5#KumarOneOutline",
+      "woff": "https://fonts.gstatic.com/s/kumaroneoutline/v5/Noao6VH62pyLP0fsrZ-v18wlUEcX9wD5Tww.woff",
       "errored": false
     }
   ],
   "subsets": [
+    "gujarati",
     "latin",
-    "latin-ext",
-    "gujarati"
+    "latin-ext"
   ],
   "category": "display",
   "version": "v5",
   "lastModified": "2019-07-16",
-  "popularity": 907,
+  "popularity": 887,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
+    "gujarati": false,
     "latin": true,
-    "latin-ext": true,
-    "gujarati": false
+    "latin-ext": true
   },
   "storeID": "latin-ext_latin"
 }

@@ -4,17 +4,17 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/gafata/v8/XRXV3I6Cn0VJKonIO-aH.woff",
+      "eot": "https://fonts.gstatic.com/s/gafata/v8/XRXV3I6Cn0VJKonIO-aF.eot",
       "fontFamily": "'Gafata'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/gafata/v8/XRXV3I6Cn0VJKonIO-aH.woff",
       "local": [
         "Gafata",
         "Gafata-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/gafata/v8/XRXV3I6Cn0VJKonIO-aB.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=XRXV3I6Cn0VJKonIO-aG&skey=ac32f67a7703448a&v=v8#Gafata",
-      "eot": "https://fonts.gstatic.com/s/gafata/v8/XRXV3I6Cn0VJKonIO-aF.eot",
+      "woff2": "https://fonts.gstatic.com/s/gafata/v8/XRXV3I6Cn0VJKonIO-aB.woff2",
       "ttf": "https://fonts.gstatic.com/s/gafata/v8/XRXV3I6Cn0VJKonIO-aE.ttf",
       "errored": false
     }
@@ -26,7 +26,7 @@
   "category": "sans-serif",
   "version": "v8",
   "lastModified": "2019-07-16",
-  "popularity": 558,
+  "popularity": 515,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

@@ -13,25 +13,25 @@
         "Jua Regular",
         "Jua-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/jua/v8/co3KmW9ljjATfure.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=co3KmW9ljjATfurf&skey=95a5f5d34191ae20&v=v8#Jua",
       "ttf": "https://fonts.gstatic.com/s/jua/v8/co3KmW9ljjATfurd.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=co3KmW9ljjATfurf&skey=95a5f5d34191ae20&v=v8#Jua",
+      "woff": "https://fonts.gstatic.com/s/jua/v8/co3KmW9ljjATfure.woff",
       "errored": false
     }
   ],
   "subsets": [
-    "korean",
-    "latin"
+    "latin",
+    "korean"
   ],
   "category": "sans-serif",
   "version": "v8",
   "lastModified": "2019-07-16",
-  "popularity": 578,
+  "popularity": 561,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "korean": true,
-    "latin": true
+    "latin": true,
+    "korean": true
   },
-  "storeID": "latin_korean"
+  "storeID": "korean_latin"
 }

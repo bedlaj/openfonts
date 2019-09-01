@@ -13,8 +13,8 @@
         "Lobster Regular",
         "Lobster-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/lobster/v22/neILzCirqoswsqX9zo-mMw.woff2",
       "woff": "https://fonts.gstatic.com/s/lobster/v22/neILzCirqoswsqX9zo-mNQ.woff",
+      "woff2": "https://fonts.gstatic.com/s/lobster/v22/neILzCirqoswsqX9zo-mMw.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=neILzCirqoswsqX9zo-mNA&skey=7ed805a363b4659c&v=v22#Lobster",
       "errored": false
     }
@@ -22,22 +22,22 @@
   "subsets": [
     "vietnamese",
     "latin",
-    "latin-ext",
+    "cyrillic-ext",
     "cyrillic",
-    "cyrillic-ext"
+    "latin-ext"
   ],
   "category": "display",
   "version": "v22",
   "lastModified": "2019-07-17",
-  "popularity": 51,
+  "popularity": 50,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "vietnamese": false,
     "latin": true,
-    "latin-ext": false,
+    "cyrillic-ext": true,
     "cyrillic": false,
-    "cyrillic-ext": true
+    "latin-ext": false
   },
   "storeID": "cyrillic-ext_latin"
 }

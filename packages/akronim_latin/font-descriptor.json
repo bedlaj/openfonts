@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/akronim/v9/fdN-9sqWtWZZlHRpygd7lA.ttf",
+      "woff": "https://fonts.gstatic.com/s/akronim/v9/fdN-9sqWtWZZlHRpygd7lw.woff",
       "fontFamily": "'Akronim'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Akronim Regular",
         "Akronim-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/akronim/v9/fdN-9sqWtWZZlHRpygd7kQ.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=fdN-9sqWtWZZlHRpygd7lg&skey=a537edc4421490c4&v=v9#Akronim",
+      "woff2": "https://fonts.gstatic.com/s/akronim/v9/fdN-9sqWtWZZlHRpygd7kQ.woff2",
       "eot": "https://fonts.gstatic.com/s/akronim/v9/fdN-9sqWtWZZlHRpygd7lQ.eot",
-      "woff": "https://fonts.gstatic.com/s/akronim/v9/fdN-9sqWtWZZlHRpygd7lw.woff",
+      "ttf": "https://fonts.gstatic.com/s/akronim/v9/fdN-9sqWtWZZlHRpygd7lA.ttf",
       "errored": false
     }
   ],
@@ -26,7 +26,7 @@
   "category": "display",
   "version": "v9",
   "lastModified": "2019-07-16",
-  "popularity": 726,
+  "popularity": 705,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

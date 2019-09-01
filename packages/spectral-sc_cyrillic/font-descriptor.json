@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "200",
-      "woff": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk0ALCRZonmalTgyPmRfs1qwnTUN4A.woff",
+      "ttf": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk0ALCRZonmalTgyPmRfs1qwnTUN4M.ttf",
       "fontFamily": "'Spectral SC'",
       "fontStyle": "normal",
       "fontWeight": "200",
@@ -12,26 +12,10 @@
         "Spectral SC ExtraLight",
         "SpectralSC-ExtraLight"
       ],
-      "eot": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk0ALCRZonmalTgyPmRfs1qwnTUN4I.eot",
-      "ttf": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk0ALCRZonmalTgyPmRfs1qwnTUN4M.ttf",
       "woff2": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk0ALCRZonmalTgyPmRfs1qwnTUN4Y.woff2",
+      "eot": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk0ALCRZonmalTgyPmRfs1qwnTUN4I.eot",
+      "woff": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk0ALCRZonmalTgyPmRfs1qwnTUN4A.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=Ktk0ALCRZonmalTgyPmRfs1qwnTUN4E&skey=259db18adbdf6d68&v=v5#SpectralSC",
-      "errored": false
-    },
-    {
-      "id": "200italic",
-      "eot": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk2ALCRZonmalTgyPmRfsWg26zWB4C9XA.eot",
-      "fontFamily": "'Spectral SC'",
-      "fontStyle": "italic",
-      "fontWeight": "200",
-      "woff": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk2ALCRZonmalTgyPmRfsWg26zWB4C9Xg.woff",
-      "local": [
-        "Spectral SC ExtraLight Italic",
-        "SpectralSC-ExtraLightItalic"
-      ],
-      "ttf": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk2ALCRZonmalTgyPmRfsWg26zWB4C9XQ.ttf",
-      "woff2": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk2ALCRZonmalTgyPmRfsWg26zWB4C9WA.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Ktk2ALCRZonmalTgyPmRfsWg26zWB4C9Xw&skey=cb348d751b96c86e&v=v5#SpectralSC",
       "errored": false
     },
     {
@@ -46,24 +30,24 @@
         "SpectralSC-Light"
       ],
       "woff2": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk0ALCRZonmalTgyPmRfs0OwXTUN4Y.woff2",
-      "ttf": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk0ALCRZonmalTgyPmRfs0OwXTUN4M.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=Ktk0ALCRZonmalTgyPmRfs0OwXTUN4E&skey=6cf740a7eec6751f&v=v5#SpectralSC",
+      "ttf": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk0ALCRZonmalTgyPmRfs0OwXTUN4M.ttf",
       "errored": false
     },
     {
-      "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/spectralsc/v5/KtkpALCRZonmalTgyPmRfsWh42U.eot",
+      "id": "200italic",
+      "woff2": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk2ALCRZonmalTgyPmRfsWg26zWB4C9WA.woff2",
       "fontFamily": "'Spectral SC'",
-      "fontStyle": "normal",
-      "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/spectralsc/v5/KtkpALCRZonmalTgyPmRfsWh42c.woff",
+      "fontStyle": "italic",
+      "fontWeight": "200",
       "local": [
-        "Spectral SC Regular",
-        "SpectralSC-Regular"
+        "Spectral SC ExtraLight Italic",
+        "SpectralSC-ExtraLightItalic"
       ],
-      "woff2": "https://fonts.gstatic.com/s/spectralsc/v5/KtkpALCRZonmalTgyPmRfsWh42E.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=KtkpALCRZonmalTgyPmRfsWh42Y&skey=ce498a15b6c0bca8&v=v5#SpectralSC",
-      "ttf": "https://fonts.gstatic.com/s/spectralsc/v5/KtkpALCRZonmalTgyPmRfsWh42Q.ttf",
+      "ttf": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk2ALCRZonmalTgyPmRfsWg26zWB4C9XQ.ttf",
+      "eot": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk2ALCRZonmalTgyPmRfsWg26zWB4C9XA.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Ktk2ALCRZonmalTgyPmRfsWg26zWB4C9Xw&skey=cb348d751b96c86e&v=v5#SpectralSC",
+      "woff": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk2ALCRZonmalTgyPmRfsWg26zWB4C9Xg.woff",
       "errored": false
     },
     {
@@ -78,24 +62,40 @@
         "SpectralSC-LightItalic"
       ],
       "svg": "https://fonts.gstatic.com/l/font?kit=Ktk2ALCRZonmalTgyPmRfsWg28jVB4C9Xw&skey=a079082df1800080&v=v5#SpectralSC",
-      "ttf": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk2ALCRZonmalTgyPmRfsWg28jVB4C9XQ.ttf",
       "woff2": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk2ALCRZonmalTgyPmRfsWg28jVB4C9WA.woff2",
+      "ttf": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk2ALCRZonmalTgyPmRfsWg28jVB4C9XQ.ttf",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/spectralsc/v5/KtkpALCRZonmalTgyPmRfsWh42U.eot",
+      "fontFamily": "'Spectral SC'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/spectralsc/v5/KtkpALCRZonmalTgyPmRfsWh42c.woff",
+      "local": [
+        "Spectral SC Regular",
+        "SpectralSC-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/spectralsc/v5/KtkpALCRZonmalTgyPmRfsWh42E.woff2",
+      "ttf": "https://fonts.gstatic.com/s/spectralsc/v5/KtkpALCRZonmalTgyPmRfsWh42Q.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=KtkpALCRZonmalTgyPmRfsWh42Y&skey=ce498a15b6c0bca8&v=v5#SpectralSC",
       "errored": false
     },
     {
       "id": "italic",
-      "eot": "https://fonts.gstatic.com/s/spectralsc/v5/KtkrALCRZonmalTgyPmRfsWg02f3Fg.eot",
+      "woff": "https://fonts.gstatic.com/s/spectralsc/v5/KtkrALCRZonmalTgyPmRfsWg02f3FA.woff",
       "fontFamily": "'Spectral SC'",
       "fontStyle": "italic",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/spectralsc/v5/KtkrALCRZonmalTgyPmRfsWg02f3FA.woff",
       "local": [
         "Spectral SC Italic",
         "SpectralSC-Italic"
       ],
       "woff2": "https://fonts.gstatic.com/s/spectralsc/v5/KtkrALCRZonmalTgyPmRfsWg02f3Eg.woff2",
-      "ttf": "https://fonts.gstatic.com/s/spectralsc/v5/KtkrALCRZonmalTgyPmRfsWg02f3Fw.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=KtkrALCRZonmalTgyPmRfsWg02f3FQ&skey=7a423cad55d64e7a&v=v5#SpectralSC",
+      "ttf": "https://fonts.gstatic.com/s/spectralsc/v5/KtkrALCRZonmalTgyPmRfsWg02f3Fw.ttf",
+      "eot": "https://fonts.gstatic.com/s/spectralsc/v5/KtkrALCRZonmalTgyPmRfsWg02f3Fg.eot",
       "errored": false
     },
     {
@@ -104,14 +104,46 @@
       "fontFamily": "'Spectral SC'",
       "fontStyle": "normal",
       "fontWeight": "500",
-      "woff2": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk0ALCRZonmalTgyPmRfs1WwHTUN4Y.woff2",
+      "woff": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk0ALCRZonmalTgyPmRfs1WwHTUN4A.woff",
       "local": [
         "Spectral SC Medium",
         "SpectralSC-Medium"
       ],
-      "woff": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk0ALCRZonmalTgyPmRfs1WwHTUN4A.woff",
+      "woff2": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk0ALCRZonmalTgyPmRfs1WwHTUN4Y.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=Ktk0ALCRZonmalTgyPmRfs1WwHTUN4E&skey=5dddd23d1d974026&v=v5#SpectralSC",
       "ttf": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk0ALCRZonmalTgyPmRfs1WwHTUN4M.ttf",
+      "errored": false
+    },
+    {
+      "id": "600italic",
+      "eot": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk2ALCRZonmalTgyPmRfsWg27zTB4C9XA.eot",
+      "fontFamily": "'Spectral SC'",
+      "fontStyle": "italic",
+      "fontWeight": "600",
+      "woff2": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk2ALCRZonmalTgyPmRfsWg27zTB4C9WA.woff2",
+      "local": [
+        "Spectral SC SemiBold Italic",
+        "SpectralSC-SemiBoldItalic"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=Ktk2ALCRZonmalTgyPmRfsWg27zTB4C9Xw&skey=366e6c61ac7d5f74&v=v5#SpectralSC",
+      "woff": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk2ALCRZonmalTgyPmRfsWg27zTB4C9Xg.woff",
+      "ttf": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk2ALCRZonmalTgyPmRfsWg27zTB4C9XQ.ttf",
+      "errored": false
+    },
+    {
+      "id": "500italic",
+      "eot": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk2ALCRZonmalTgyPmRfsWg25DUB4C9XA.eot",
+      "fontFamily": "'Spectral SC'",
+      "fontStyle": "italic",
+      "fontWeight": "500",
+      "woff2": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk2ALCRZonmalTgyPmRfsWg25DUB4C9WA.woff2",
+      "local": [
+        "Spectral SC Medium Italic",
+        "SpectralSC-MediumItalic"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=Ktk2ALCRZonmalTgyPmRfsWg25DUB4C9Xw&skey=4d722c369600c2be&v=v5#SpectralSC",
+      "woff": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk2ALCRZonmalTgyPmRfsWg25DUB4C9Xg.woff",
+      "ttf": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk2ALCRZonmalTgyPmRfsWg25DUB4C9XQ.ttf",
       "errored": false
     },
     {
@@ -125,41 +157,9 @@
         "Spectral SC SemiBold",
         "SpectralSC-SemiBold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk0ALCRZonmalTgyPmRfs16x3TUN4Y.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=Ktk0ALCRZonmalTgyPmRfs16x3TUN4E&skey=db48b61f2d7b4f2f&v=v5#SpectralSC",
       "ttf": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk0ALCRZonmalTgyPmRfs16x3TUN4M.ttf",
-      "errored": false
-    },
-    {
-      "id": "600italic",
-      "woff": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk2ALCRZonmalTgyPmRfsWg27zTB4C9Xg.woff",
-      "fontFamily": "'Spectral SC'",
-      "fontStyle": "italic",
-      "fontWeight": "600",
-      "local": [
-        "Spectral SC SemiBold Italic",
-        "SpectralSC-SemiBoldItalic"
-      ],
-      "eot": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk2ALCRZonmalTgyPmRfsWg27zTB4C9XA.eot",
-      "woff2": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk2ALCRZonmalTgyPmRfsWg27zTB4C9WA.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Ktk2ALCRZonmalTgyPmRfsWg27zTB4C9Xw&skey=366e6c61ac7d5f74&v=v5#SpectralSC",
-      "ttf": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk2ALCRZonmalTgyPmRfsWg27zTB4C9XQ.ttf",
-      "errored": false
-    },
-    {
-      "id": "500italic",
-      "eot": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk2ALCRZonmalTgyPmRfsWg25DUB4C9XA.eot",
-      "fontFamily": "'Spectral SC'",
-      "fontStyle": "italic",
-      "fontWeight": "500",
-      "woff": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk2ALCRZonmalTgyPmRfsWg25DUB4C9Xg.woff",
-      "local": [
-        "Spectral SC Medium Italic",
-        "SpectralSC-MediumItalic"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk2ALCRZonmalTgyPmRfsWg25DUB4C9WA.woff2",
-      "ttf": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk2ALCRZonmalTgyPmRfsWg25DUB4C9XQ.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Ktk2ALCRZonmalTgyPmRfsWg25DUB4C9Xw&skey=4d722c369600c2be&v=v5#SpectralSC",
+      "woff2": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk0ALCRZonmalTgyPmRfs16x3TUN4Y.woff2",
       "errored": false
     },
     {
@@ -179,22 +179,6 @@
       "errored": false
     },
     {
-      "id": "700italic",
-      "eot": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk2ALCRZonmalTgyPmRfsWg29jSB4C9XA.eot",
-      "fontFamily": "'Spectral SC'",
-      "fontStyle": "italic",
-      "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk2ALCRZonmalTgyPmRfsWg29jSB4C9Xg.woff",
-      "local": [
-        "Spectral SC Bold Italic",
-        "SpectralSC-BoldItalic"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk2ALCRZonmalTgyPmRfsWg29jSB4C9WA.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Ktk2ALCRZonmalTgyPmRfsWg29jSB4C9Xw&skey=6e95b38ceefedf8d&v=v5#SpectralSC",
-      "ttf": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk2ALCRZonmalTgyPmRfsWg29jSB4C9XQ.ttf",
-      "errored": false
-    },
-    {
       "id": "800italic",
       "eot": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk2ALCRZonmalTgyPmRfsWg28TRB4C9XA.eot",
       "fontFamily": "'Spectral SC'",
@@ -211,39 +195,55 @@
       "errored": false
     },
     {
+      "id": "700italic",
+      "eot": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk2ALCRZonmalTgyPmRfsWg29jSB4C9XA.eot",
+      "fontFamily": "'Spectral SC'",
+      "fontStyle": "italic",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk2ALCRZonmalTgyPmRfsWg29jSB4C9Xg.woff",
+      "local": [
+        "Spectral SC Bold Italic",
+        "SpectralSC-BoldItalic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk2ALCRZonmalTgyPmRfsWg29jSB4C9WA.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Ktk2ALCRZonmalTgyPmRfsWg29jSB4C9Xw&skey=6e95b38ceefedf8d&v=v5#SpectralSC",
+      "ttf": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk2ALCRZonmalTgyPmRfsWg29jSB4C9XQ.ttf",
+      "errored": false
+    },
+    {
       "id": "800",
-      "eot": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk0ALCRZonmalTgyPmRfs0CxXTUN4I.eot",
+      "woff2": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk0ALCRZonmalTgyPmRfs0CxXTUN4Y.woff2",
       "fontFamily": "'Spectral SC'",
       "fontStyle": "normal",
       "fontWeight": "800",
-      "woff2": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk0ALCRZonmalTgyPmRfs0CxXTUN4Y.woff2",
       "local": [
         "Spectral SC ExtraBold",
         "SpectralSC-ExtraBold"
       ],
+      "woff": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk0ALCRZonmalTgyPmRfs0CxXTUN4A.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=Ktk0ALCRZonmalTgyPmRfs0CxXTUN4E&skey=27dcab9e276fd0e2&v=v5#SpectralSC",
       "ttf": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk0ALCRZonmalTgyPmRfs0CxXTUN4M.ttf",
-      "woff": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk0ALCRZonmalTgyPmRfs0CxXTUN4A.woff",
+      "eot": "https://fonts.gstatic.com/s/spectralsc/v5/Ktk0ALCRZonmalTgyPmRfs0CxXTUN4I.eot",
       "errored": false
     }
   ],
   "subsets": [
     "vietnamese",
     "latin",
-    "latin-ext",
-    "cyrillic"
+    "cyrillic",
+    "latin-ext"
   ],
   "category": "serif",
   "version": "v5",
   "lastModified": "2019-07-16",
-  "popularity": 520,
+  "popularity": 497,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "vietnamese": false,
     "latin": true,
-    "latin-ext": false,
-    "cyrillic": true
+    "cyrillic": true,
+    "latin-ext": false
   },
   "storeID": "cyrillic_latin"
 }

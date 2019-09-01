@@ -12,26 +12,26 @@
         "Harmattan",
         "Harmattan-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/harmattan/v6/goksH6L2DkFvVvRp9XpjTEqk.woff",
       "eot": "https://fonts.gstatic.com/s/harmattan/v6/goksH6L2DkFvVvRp9XpjTEqm.eot",
       "ttf": "https://fonts.gstatic.com/s/harmattan/v6/goksH6L2DkFvVvRp9XpjTEqn.ttf",
+      "woff": "https://fonts.gstatic.com/s/harmattan/v6/goksH6L2DkFvVvRp9XpjTEqk.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=goksH6L2DkFvVvRp9XpjTEql&skey=455aa37d69b7e881&v=v6#Harmattan",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
-    "arabic"
+    "arabic",
+    "latin"
   ],
   "category": "sans-serif",
   "version": "v6",
   "lastModified": "2019-07-16",
-  "popularity": 540,
+  "popularity": 548,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
-    "arabic": false
+    "arabic": false,
+    "latin": true
   },
   "storeID": "latin"
 }

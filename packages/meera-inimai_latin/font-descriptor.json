@@ -8,30 +8,30 @@
       "fontFamily": "'Meera Inimai'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "ttf": "https://fonts.gstatic.com/s/meerainimai/v4/845fNMM5EIqOW5MPuvO3ILeZ-GLH.ttf",
+      "woff2": "https://fonts.gstatic.com/s/meerainimai/v4/845fNMM5EIqOW5MPuvO3ILeZ-GLC.woff2",
       "local": [
         "Meera Inimai",
         "MeeraInimai-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/meerainimai/v4/845fNMM5EIqOW5MPuvO3ILeZ-GLC.woff2",
       "woff": "https://fonts.gstatic.com/s/meerainimai/v4/845fNMM5EIqOW5MPuvO3ILeZ-GLE.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=845fNMM5EIqOW5MPuvO3ILeZ-GLF&skey=117d94e55359b521&v=v4#MeeraInimai",
+      "ttf": "https://fonts.gstatic.com/s/meerainimai/v4/845fNMM5EIqOW5MPuvO3ILeZ-GLH.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
-    "tamil"
+    "tamil",
+    "latin"
   ],
   "category": "sans-serif",
   "version": "v4",
   "lastModified": "2019-07-16",
-  "popularity": 649,
+  "popularity": 728,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
-    "tamil": false
+    "tamil": false,
+    "latin": true
   },
   "storeID": "latin"
 }

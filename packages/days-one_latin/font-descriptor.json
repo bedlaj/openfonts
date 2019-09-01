@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/daysone/v9/mem9YaCnxnKRiYZOCIYScr4.woff",
+      "eot": "https://fonts.gstatic.com/s/daysone/v9/mem9YaCnxnKRiYZOCIYScrw.eot",
       "fontFamily": "'Days One'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/daysone/v9/mem9YaCnxnKRiYZOCIYScr4.woff",
       "local": [
         "Days One",
         "DaysOne-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/daysone/v9/mem9YaCnxnKRiYZOCIYScr0.ttf",
-      "woff2": "https://fonts.gstatic.com/s/daysone/v9/mem9YaCnxnKRiYZOCIYScrg.woff2",
-      "eot": "https://fonts.gstatic.com/s/daysone/v9/mem9YaCnxnKRiYZOCIYScrw.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=mem9YaCnxnKRiYZOCIYScr8&skey=1aa007742d6eba3&v=v9#DaysOne",
+      "woff2": "https://fonts.gstatic.com/s/daysone/v9/mem9YaCnxnKRiYZOCIYScrg.woff2",
+      "ttf": "https://fonts.gstatic.com/s/daysone/v9/mem9YaCnxnKRiYZOCIYScr0.ttf",
       "errored": false
     }
   ],
@@ -25,7 +25,7 @@
   "category": "sans-serif",
   "version": "v9",
   "lastModified": "2019-07-16",
-  "popularity": 301,
+  "popularity": 305,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

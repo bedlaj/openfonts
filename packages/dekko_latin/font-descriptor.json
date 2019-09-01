@@ -12,26 +12,26 @@
         "Dekko"
       ],
       "ttf": "https://fonts.gstatic.com/s/dekko/v6/46khlb_wWjfSrutCTU8.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=46khlb_wWjfSrutCTU0&skey=87b460a581e29e9a&v=v6#Dekko",
       "eot": "https://fonts.gstatic.com/s/dekko/v6/46khlb_wWjfSrutCTU4.eot",
       "woff": "https://fonts.gstatic.com/s/dekko/v6/46khlb_wWjfSrutCTUw.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=46khlb_wWjfSrutCTU0&skey=87b460a581e29e9a&v=v6#Dekko",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
     "devanagari",
+    "latin",
     "latin-ext"
   ],
   "category": "handwriting",
   "version": "v6",
   "lastModified": "2019-07-16",
-  "popularity": 642,
+  "popularity": 633,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
     "devanagari": false,
+    "latin": true,
     "latin-ext": false
   },
   "storeID": "latin"

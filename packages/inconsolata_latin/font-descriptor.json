@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/inconsolata/v18/QldKNThLqRwH-OJ1UHjlKGlZ5qg.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=QldKNThLqRwH-OJ1UHjlKGlZ5q8&skey=20fa6569a31c71ee&v=v18#Inconsolata",
       "fontFamily": "'Inconsolata'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,15 +12,15 @@
         "Inconsolata Regular",
         "Inconsolata-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/inconsolata/v18/QldKNThLqRwH-OJ1UHjlKGlZ5q0.ttf",
       "eot": "https://fonts.gstatic.com/s/inconsolata/v18/QldKNThLqRwH-OJ1UHjlKGlZ5qw.eot",
+      "ttf": "https://fonts.gstatic.com/s/inconsolata/v18/QldKNThLqRwH-OJ1UHjlKGlZ5q0.ttf",
+      "woff2": "https://fonts.gstatic.com/s/inconsolata/v18/QldKNThLqRwH-OJ1UHjlKGlZ5qg.woff2",
       "woff": "https://fonts.gstatic.com/s/inconsolata/v18/QldKNThLqRwH-OJ1UHjlKGlZ5q4.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=QldKNThLqRwH-OJ1UHjlKGlZ5q8&skey=20fa6569a31c71ee&v=v18#Inconsolata",
       "errored": false
     },
     {
       "id": "700",
-      "woff": "https://fonts.gstatic.com/s/inconsolata/v18/QldXNThLqRwH-OJ1UHjlKGHiw71p5_o.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=QldXNThLqRwH-OJ1UHjlKGHiw71p5_s&skey=92483760c58cd80&v=v18#Inconsolata",
       "fontFamily": "'Inconsolata'",
       "fontStyle": "normal",
       "fontWeight": "700",
@@ -28,10 +28,10 @@
         "Inconsolata Bold",
         "Inconsolata-Bold"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=QldXNThLqRwH-OJ1UHjlKGHiw71p5_s&skey=92483760c58cd80&v=v18#Inconsolata",
+      "woff": "https://fonts.gstatic.com/s/inconsolata/v18/QldXNThLqRwH-OJ1UHjlKGHiw71p5_o.woff",
       "ttf": "https://fonts.gstatic.com/s/inconsolata/v18/QldXNThLqRwH-OJ1UHjlKGHiw71p5_k.ttf",
-      "woff2": "https://fonts.gstatic.com/s/inconsolata/v18/QldXNThLqRwH-OJ1UHjlKGHiw71p5_w.woff2",
       "eot": "https://fonts.gstatic.com/s/inconsolata/v18/QldXNThLqRwH-OJ1UHjlKGHiw71p5_g.eot",
+      "woff2": "https://fonts.gstatic.com/s/inconsolata/v18/QldXNThLqRwH-OJ1UHjlKGHiw71p5_w.woff2",
       "errored": false
     }
   ],
@@ -43,7 +43,7 @@
   "category": "monospace",
   "version": "v18",
   "lastModified": "2019-07-22",
-  "popularity": 32,
+  "popularity": 36,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

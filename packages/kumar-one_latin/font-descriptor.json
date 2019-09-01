@@ -14,26 +14,26 @@
         "KumarOne-Regular"
       ],
       "svg": "https://fonts.gstatic.com/l/font?kit=bMr1mS-P958wYi6YaGe2M-SQ&skey=eb34840884e61733&v=v4#KumarOne",
-      "woff": "https://fonts.gstatic.com/s/kumarone/v4/bMr1mS-P958wYi6YaGe2M-SR.woff",
       "ttf": "https://fonts.gstatic.com/s/kumarone/v4/bMr1mS-P958wYi6YaGe2M-SS.ttf",
+      "woff": "https://fonts.gstatic.com/s/kumarone/v4/bMr1mS-P958wYi6YaGe2M-SR.woff",
       "errored": false
     }
   ],
   "subsets": [
+    "gujarati",
     "latin",
-    "latin-ext",
-    "gujarati"
+    "latin-ext"
   ],
   "category": "display",
   "version": "v4",
   "lastModified": "2019-07-16",
-  "popularity": 718,
+  "popularity": 673,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
+    "gujarati": false,
     "latin": true,
-    "latin-ext": false,
-    "gujarati": false
+    "latin-ext": false
   },
   "storeID": "latin"
 }

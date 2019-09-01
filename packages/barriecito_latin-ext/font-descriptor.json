@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/barriecito/v2/WWXXlj-CbBOSLY2QTuY_GdwoZA.woff",
+      "woff2": "https://fonts.gstatic.com/s/barriecito/v2/WWXXlj-CbBOSLY2QTuY_GdwoYg.woff2",
       "fontFamily": "'Barriecito'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Barriecito Regular",
         "Barriecito-Regular"
       ],
+      "woff": "https://fonts.gstatic.com/s/barriecito/v2/WWXXlj-CbBOSLY2QTuY_GdwoZA.woff",
       "eot": "https://fonts.gstatic.com/s/barriecito/v2/WWXXlj-CbBOSLY2QTuY_GdwoZg.eot",
-      "woff2": "https://fonts.gstatic.com/s/barriecito/v2/WWXXlj-CbBOSLY2QTuY_GdwoYg.woff2",
-      "ttf": "https://fonts.gstatic.com/s/barriecito/v2/WWXXlj-CbBOSLY2QTuY_GdwoZw.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=WWXXlj-CbBOSLY2QTuY_GdwoZQ&skey=8c7c1a0feef5d3d1&v=v2#Barriecito",
+      "ttf": "https://fonts.gstatic.com/s/barriecito/v2/WWXXlj-CbBOSLY2QTuY_GdwoZw.ttf",
       "errored": false
     }
   ],
@@ -27,7 +27,7 @@
   "category": "display",
   "version": "v2",
   "lastModified": "2019-07-16",
-  "popularity": 901,
+  "popularity": 880,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

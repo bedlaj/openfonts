@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/cinzel/v9/8vIJ7ww63mVu7gt7-GT-.ttf",
+      "eot": "https://fonts.gstatic.com/s/cinzel/v9/8vIJ7ww63mVu7gt7-GT_.eot",
       "fontFamily": "'Cinzel'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/cinzel/v9/8vIJ7ww63mVu7gt7-GT9.woff",
       "local": [
         "Cinzel Regular",
         "Cinzel-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/cinzel/v9/8vIJ7ww63mVu7gt7-GT_.eot",
-      "woff": "https://fonts.gstatic.com/s/cinzel/v9/8vIJ7ww63mVu7gt7-GT9.woff",
       "woff2": "https://fonts.gstatic.com/s/cinzel/v9/8vIJ7ww63mVu7gt7-GT7.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=8vIJ7ww63mVu7gt7-GT8&skey=f319ae43d1034808&v=v9#Cinzel",
+      "ttf": "https://fonts.gstatic.com/s/cinzel/v9/8vIJ7ww63mVu7gt7-GT-.ttf",
       "errored": false
     },
     {
@@ -29,14 +29,14 @@
         "Cinzel Black",
         "Cinzel-Black"
       ],
-      "woff2": "https://fonts.gstatic.com/s/cinzel/v9/8vIK7ww63mVu7gtzdUPuHWZa.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=8vIK7ww63mVu7gtzdUPuHWZd&skey=be449759839bebc9&v=v9#Cinzel",
       "ttf": "https://fonts.gstatic.com/s/cinzel/v9/8vIK7ww63mVu7gtzdUPuHWZf.ttf",
+      "woff2": "https://fonts.gstatic.com/s/cinzel/v9/8vIK7ww63mVu7gtzdUPuHWZa.woff2",
       "errored": false
     },
     {
       "id": "700",
-      "woff2": "https://fonts.gstatic.com/s/cinzel/v9/8vIK7ww63mVu7gtzTUHuHWZa.woff2",
+      "woff": "https://fonts.gstatic.com/s/cinzel/v9/8vIK7ww63mVu7gtzTUHuHWZc.woff",
       "fontFamily": "'Cinzel'",
       "fontStyle": "normal",
       "fontWeight": "700",
@@ -44,9 +44,9 @@
         "Cinzel Bold",
         "Cinzel-Bold"
       ],
-      "eot": "https://fonts.gstatic.com/s/cinzel/v9/8vIK7ww63mVu7gtzTUHuHWZe.eot",
-      "woff": "https://fonts.gstatic.com/s/cinzel/v9/8vIK7ww63mVu7gtzTUHuHWZc.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=8vIK7ww63mVu7gtzTUHuHWZd&skey=d0bd7ac4911fce5f&v=v9#Cinzel",
+      "eot": "https://fonts.gstatic.com/s/cinzel/v9/8vIK7ww63mVu7gtzTUHuHWZe.eot",
+      "woff2": "https://fonts.gstatic.com/s/cinzel/v9/8vIK7ww63mVu7gtzTUHuHWZa.woff2",
       "ttf": "https://fonts.gstatic.com/s/cinzel/v9/8vIK7ww63mVu7gtzTUHuHWZf.ttf",
       "errored": false
     }
@@ -58,7 +58,7 @@
   "category": "serif",
   "version": "v9",
   "lastModified": "2019-07-17",
-  "popularity": 95,
+  "popularity": 98,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

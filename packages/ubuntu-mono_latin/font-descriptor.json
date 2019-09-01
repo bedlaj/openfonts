@@ -4,18 +4,34 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/ubuntumono/v9/KFOjCneDtsqEr0keqCMhbCc6CsA.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=KFOjCneDtsqEr0keqCMhbCc6CsM&skey=8c1feb82f3a61020&v=v9#UbuntuMono",
       "fontFamily": "'Ubuntu Mono'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/ubuntumono/v9/KFOjCneDtsqEr0keqCMhbCc6CsQ.woff2",
       "local": [
         "Ubuntu Mono",
         "UbuntuMono-Regular"
       ],
       "ttf": "https://fonts.gstatic.com/s/ubuntumono/v9/KFOjCneDtsqEr0keqCMhbCc6CsE.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=KFOjCneDtsqEr0keqCMhbCc6CsM&skey=8c1feb82f3a61020&v=v9#UbuntuMono",
+      "woff2": "https://fonts.gstatic.com/s/ubuntumono/v9/KFOjCneDtsqEr0keqCMhbCc6CsQ.woff2",
       "woff": "https://fonts.gstatic.com/s/ubuntumono/v9/KFOjCneDtsqEr0keqCMhbCc6CsI.woff",
+      "eot": "https://fonts.gstatic.com/s/ubuntumono/v9/KFOjCneDtsqEr0keqCMhbCc6CsA.eot",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff2": "https://fonts.gstatic.com/s/ubuntumono/v9/KFO-CneDtsqEr0keqCMhbC-BL9H1tY0.woff2",
+      "fontFamily": "'Ubuntu Mono'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Ubuntu Mono Bold",
+        "UbuntuMono-Bold"
+      ],
+      "eot": "https://fonts.gstatic.com/s/ubuntumono/v9/KFO-CneDtsqEr0keqCMhbC-BL9H1tYk.eot",
+      "woff": "https://fonts.gstatic.com/s/ubuntumono/v9/KFO-CneDtsqEr0keqCMhbC-BL9H1tYs.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=KFO-CneDtsqEr0keqCMhbC-BL9H1tYo&skey=a9bb4edd8443acaf&v=v9#UbuntuMono",
+      "ttf": "https://fonts.gstatic.com/s/ubuntumono/v9/KFO-CneDtsqEr0keqCMhbC-BL9H1tYg.ttf",
       "errored": false
     },
     {
@@ -28,26 +44,10 @@
         "Ubuntu Mono Italic",
         "UbuntuMono-Italic"
       ],
-      "eot": "https://fonts.gstatic.com/s/ubuntumono/v9/KFOhCneDtsqEr0keqCMhbCc_OsbSlA.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=KFOhCneDtsqEr0keqCMhbCc_OsbSlw&skey=2ef562fcb6285746&v=v9#UbuntuMono",
       "woff2": "https://fonts.gstatic.com/s/ubuntumono/v9/KFOhCneDtsqEr0keqCMhbCc_OsbSkA.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=KFOhCneDtsqEr0keqCMhbCc_OsbSlw&skey=2ef562fcb6285746&v=v9#UbuntuMono",
       "ttf": "https://fonts.gstatic.com/s/ubuntumono/v9/KFOhCneDtsqEr0keqCMhbCc_OsbSlQ.ttf",
-      "errored": false
-    },
-    {
-      "id": "700",
-      "eot": "https://fonts.gstatic.com/s/ubuntumono/v9/KFO-CneDtsqEr0keqCMhbC-BL9H1tYk.eot",
-      "fontFamily": "'Ubuntu Mono'",
-      "fontStyle": "normal",
-      "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/ubuntumono/v9/KFO-CneDtsqEr0keqCMhbC-BL9H1tYs.woff",
-      "local": [
-        "Ubuntu Mono Bold",
-        "UbuntuMono-Bold"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/ubuntumono/v9/KFO-CneDtsqEr0keqCMhbC-BL9H1tY0.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=KFO-CneDtsqEr0keqCMhbC-BL9H1tYo&skey=a9bb4edd8443acaf&v=v9#UbuntuMono",
-      "ttf": "https://fonts.gstatic.com/s/ubuntumono/v9/KFO-CneDtsqEr0keqCMhbC-BL9H1tYg.ttf",
+      "eot": "https://fonts.gstatic.com/s/ubuntumono/v9/KFOhCneDtsqEr0keqCMhbCc_OsbSlA.eot",
       "errored": false
     },
     {
@@ -56,38 +56,38 @@
       "fontFamily": "'Ubuntu Mono'",
       "fontStyle": "italic",
       "fontWeight": "700",
-      "svg": "https://fonts.gstatic.com/l/font?kit=KFO8CneDtsqEr0keqCMhbCc_Mn33hY9ueQ&skey=f90714a1dc0ab369&v=v9#UbuntuMono",
+      "woff": "https://fonts.gstatic.com/s/ubuntumono/v9/KFO8CneDtsqEr0keqCMhbCc_Mn33hY9ueA.woff",
       "local": [
         "Ubuntu Mono Bold Italic",
         "UbuntuMono-BoldItalic"
       ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=KFO8CneDtsqEr0keqCMhbCc_Mn33hY9ueQ&skey=f90714a1dc0ab369&v=v9#UbuntuMono",
       "woff2": "https://fonts.gstatic.com/s/ubuntumono/v9/KFO8CneDtsqEr0keqCMhbCc_Mn33hY9ufg.woff2",
       "ttf": "https://fonts.gstatic.com/s/ubuntumono/v9/KFO8CneDtsqEr0keqCMhbCc_Mn33hY9uew.ttf",
-      "woff": "https://fonts.gstatic.com/s/ubuntumono/v9/KFO8CneDtsqEr0keqCMhbCc_Mn33hY9ueA.woff",
       "errored": false
     }
   ],
   "subsets": [
-    "greek-ext",
     "greek",
+    "greek-ext",
     "latin",
-    "latin-ext",
+    "cyrillic-ext",
     "cyrillic",
-    "cyrillic-ext"
+    "latin-ext"
   ],
   "category": "monospace",
   "version": "v9",
   "lastModified": "2019-07-16",
-  "popularity": 228,
+  "popularity": 224,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "greek-ext": false,
     "greek": false,
+    "greek-ext": false,
     "latin": true,
-    "latin-ext": false,
+    "cyrillic-ext": false,
     "cyrillic": false,
-    "cyrillic-ext": false
+    "latin-ext": false
   },
   "storeID": "latin"
 }

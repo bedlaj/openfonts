@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=0QIvMX1D_JOuMwX7JA&skey=1d294b6d956fb8e&v=v14#Lora",
+      "woff": "https://fonts.gstatic.com/s/lora/v14/0QIvMX1D_JOuMwX7JQ.woff",
       "fontFamily": "'Lora'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -13,8 +13,8 @@
         "Lora-Regular"
       ],
       "woff2": "https://fonts.gstatic.com/s/lora/v14/0QIvMX1D_JOuMwX7Iw.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=0QIvMX1D_JOuMwX7JA&skey=1d294b6d956fb8e&v=v14#Lora",
       "eot": "https://fonts.gstatic.com/s/lora/v14/0QIvMX1D_JOuMwX7Jw.eot",
-      "woff": "https://fonts.gstatic.com/s/lora/v14/0QIvMX1D_JOuMwX7JQ.woff",
       "ttf": "https://fonts.gstatic.com/s/lora/v14/0QIvMX1D_JOuMwX7Jg.ttf",
       "errored": false
     },
@@ -24,30 +24,14 @@
       "fontFamily": "'Lora'",
       "fontStyle": "italic",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/lora/v14/0QIhMX1D_JOuMw_LLvtL.woff2",
+      "woff": "https://fonts.gstatic.com/s/lora/v14/0QIhMX1D_JOuMw_LLvtN.woff",
       "local": [
         "Lora Italic",
         "Lora-Italic"
       ],
       "svg": "https://fonts.gstatic.com/l/font?kit=0QIhMX1D_JOuMw_LLvtM&skey=92aaeeb853a906d8&v=v14#Lora",
       "ttf": "https://fonts.gstatic.com/s/lora/v14/0QIhMX1D_JOuMw_LLvtO.ttf",
-      "woff": "https://fonts.gstatic.com/s/lora/v14/0QIhMX1D_JOuMw_LLvtN.woff",
-      "errored": false
-    },
-    {
-      "id": "700italic",
-      "eot": "https://fonts.gstatic.com/s/lora/v14/0QIiMX1D_JOuMw_Dmt5el9Gv.eot",
-      "fontFamily": "'Lora'",
-      "fontStyle": "italic",
-      "fontWeight": "700",
-      "woff2": "https://fonts.gstatic.com/s/lora/v14/0QIiMX1D_JOuMw_Dmt5el9Gr.woff2",
-      "local": [
-        "Lora Bold Italic",
-        "Lora-BoldItalic"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=0QIiMX1D_JOuMw_Dmt5el9Gs&skey=71d8bf5f591a2952&v=v14#Lora",
-      "ttf": "https://fonts.gstatic.com/s/lora/v14/0QIiMX1D_JOuMw_Dmt5el9Gu.ttf",
-      "woff": "https://fonts.gstatic.com/s/lora/v14/0QIiMX1D_JOuMw_Dmt5el9Gt.woff",
+      "woff2": "https://fonts.gstatic.com/s/lora/v14/0QIhMX1D_JOuMw_LLvtL.woff2",
       "errored": false
     },
     {
@@ -56,23 +40,39 @@
       "fontFamily": "'Lora'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff2": "https://fonts.gstatic.com/s/lora/v14/0QIgMX1D_JOuO7HeNtNumg.woff2",
+      "woff": "https://fonts.gstatic.com/s/lora/v14/0QIgMX1D_JOuO7HeNtNunA.woff",
       "local": [
         "Lora Bold",
         "Lora-Bold"
       ],
-      "woff": "https://fonts.gstatic.com/s/lora/v14/0QIgMX1D_JOuO7HeNtNunA.woff",
-      "ttf": "https://fonts.gstatic.com/s/lora/v14/0QIgMX1D_JOuO7HeNtNunw.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=0QIgMX1D_JOuO7HeNtNunQ&skey=6a30ff590836b94c&v=v14#Lora",
+      "woff2": "https://fonts.gstatic.com/s/lora/v14/0QIgMX1D_JOuO7HeNtNumg.woff2",
+      "ttf": "https://fonts.gstatic.com/s/lora/v14/0QIgMX1D_JOuO7HeNtNunw.ttf",
+      "errored": false
+    },
+    {
+      "id": "700italic",
+      "eot": "https://fonts.gstatic.com/s/lora/v14/0QIiMX1D_JOuMw_Dmt5el9Gv.eot",
+      "fontFamily": "'Lora'",
+      "fontStyle": "italic",
+      "fontWeight": "700",
+      "svg": "https://fonts.gstatic.com/l/font?kit=0QIiMX1D_JOuMw_Dmt5el9Gs&skey=71d8bf5f591a2952&v=v14#Lora",
+      "local": [
+        "Lora Bold Italic",
+        "Lora-BoldItalic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/lora/v14/0QIiMX1D_JOuMw_Dmt5el9Gr.woff2",
+      "ttf": "https://fonts.gstatic.com/s/lora/v14/0QIiMX1D_JOuMw_Dmt5el9Gu.ttf",
+      "woff": "https://fonts.gstatic.com/s/lora/v14/0QIiMX1D_JOuMw_Dmt5el9Gt.woff",
       "errored": false
     }
   ],
   "subsets": [
     "vietnamese",
     "latin",
-    "latin-ext",
+    "cyrillic-ext",
     "cyrillic",
-    "cyrillic-ext"
+    "latin-ext"
   ],
   "category": "serif",
   "version": "v14",
@@ -83,9 +83,9 @@
   "subsetMap": {
     "vietnamese": true,
     "latin": true,
-    "latin-ext": false,
+    "cyrillic-ext": false,
     "cyrillic": false,
-    "cyrillic-ext": false
+    "latin-ext": false
   },
   "storeID": "latin_vietnamese"
 }

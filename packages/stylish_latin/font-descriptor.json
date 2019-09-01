@@ -8,30 +8,30 @@
       "fontFamily": "'Stylish'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/stylish/v8/m8JSjfhPYriQkk7-TorzdQ.woff2",
+      "woff": "https://fonts.gstatic.com/s/stylish/v8/m8JSjfhPYriQkk7-Torzcw.woff",
       "local": [
         "Stylish Regular",
         "Stylish-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/stylish/v8/m8JSjfhPYriQkk7-Torzcw.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=m8JSjfhPYriQkk7-Torzcg&skey=f8f3e20016ec70c3&v=v8#Stylish",
       "ttf": "https://fonts.gstatic.com/s/stylish/v8/m8JSjfhPYriQkk7-TorzcA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=m8JSjfhPYriQkk7-Torzcg&skey=f8f3e20016ec70c3&v=v8#Stylish",
+      "woff2": "https://fonts.gstatic.com/s/stylish/v8/m8JSjfhPYriQkk7-TorzdQ.woff2",
       "errored": false
     }
   ],
   "subsets": [
-    "korean",
-    "latin"
+    "latin",
+    "korean"
   ],
   "category": "sans-serif",
   "version": "v8",
   "lastModified": "2019-07-16",
-  "popularity": 856,
+  "popularity": 853,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "korean": false,
-    "latin": true
+    "latin": true,
+    "korean": false
   },
   "storeID": "latin"
 }

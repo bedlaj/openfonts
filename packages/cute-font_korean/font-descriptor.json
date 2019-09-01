@@ -12,26 +12,26 @@
         "Cute Font Regular",
         "CuteFont-Regular"
       ],
+      "woff2": "https://fonts.gstatic.com/s/cutefont/v8/Noaw6Uny2oWPbSHMrY6flZlU.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=Noaw6Uny2oWPbSHMrY6flZlT&skey=ff5dcd67a08b1822&v=v8#CuteFont",
       "eot": "https://fonts.gstatic.com/s/cutefont/v8/Noaw6Uny2oWPbSHMrY6flZlQ.eot",
       "ttf": "https://fonts.gstatic.com/s/cutefont/v8/Noaw6Uny2oWPbSHMrY6flZlR.ttf",
-      "woff2": "https://fonts.gstatic.com/s/cutefont/v8/Noaw6Uny2oWPbSHMrY6flZlU.woff2",
       "errored": false
     }
   ],
   "subsets": [
-    "korean",
-    "latin"
+    "latin",
+    "korean"
   ],
   "category": "display",
   "version": "v8",
   "lastModified": "2019-07-16",
-  "popularity": 919,
+  "popularity": 918,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "korean": true,
-    "latin": true
+    "latin": true,
+    "korean": true
   },
-  "storeID": "latin_korean"
+  "storeID": "korean_latin"
 }

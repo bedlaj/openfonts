@@ -12,26 +12,26 @@
         "Reem Kufi Regular",
         "ReemKufi-Regular"
       ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=2sDcZGJLip7W2J7v7wQzaGW-&skey=b342e03de63f62b0&v=v7#ReemKufi",
+      "eot": "https://fonts.gstatic.com/s/reemkufi/v7/2sDcZGJLip7W2J7v7wQzaGW9.eot",
       "woff2": "https://fonts.gstatic.com/s/reemkufi/v7/2sDcZGJLip7W2J7v7wQzaGW5.woff2",
       "ttf": "https://fonts.gstatic.com/s/reemkufi/v7/2sDcZGJLip7W2J7v7wQzaGW8.ttf",
-      "eot": "https://fonts.gstatic.com/s/reemkufi/v7/2sDcZGJLip7W2J7v7wQzaGW9.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=2sDcZGJLip7W2J7v7wQzaGW-&skey=b342e03de63f62b0&v=v7#ReemKufi",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
-    "arabic"
+    "arabic",
+    "latin"
   ],
   "category": "sans-serif",
   "version": "v7",
   "lastModified": "2019-07-16",
-  "popularity": 310,
+  "popularity": 311,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
-    "arabic": false
+    "arabic": false,
+    "latin": true
   },
   "storeID": "latin"
 }

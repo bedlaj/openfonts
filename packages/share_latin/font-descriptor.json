@@ -12,15 +12,15 @@
         "Share Regular",
         "Share-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/share/v10/i7dEIFliZjKNF6VKFr8.eot",
-      "woff2": "https://fonts.gstatic.com/s/share/v10/i7dEIFliZjKNF6VKFrs.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=i7dEIFliZjKNF6VKFrw&skey=51b92acf87f9279b&v=v10#Share",
+      "woff2": "https://fonts.gstatic.com/s/share/v10/i7dEIFliZjKNF6VKFrs.woff2",
+      "eot": "https://fonts.gstatic.com/s/share/v10/i7dEIFliZjKNF6VKFr8.eot",
       "ttf": "https://fonts.gstatic.com/s/share/v10/i7dEIFliZjKNF6VKFr4.ttf",
       "errored": false
     },
     {
       "id": "italic",
-      "woff2": "https://fonts.gstatic.com/s/share/v10/i7dKIFliZjKNF6VPJrmedQ.woff2",
+      "woff": "https://fonts.gstatic.com/s/share/v10/i7dKIFliZjKNF6VPJrmecw.woff",
       "fontFamily": "'Share'",
       "fontStyle": "italic",
       "fontWeight": "400",
@@ -28,10 +28,10 @@
         "Share Italic",
         "Share-Italic"
       ],
-      "ttf": "https://fonts.gstatic.com/s/share/v10/i7dKIFliZjKNF6VPJrmecA.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=i7dKIFliZjKNF6VPJrmecg&skey=dcea8bd827a39f63&v=v10#Share",
-      "woff": "https://fonts.gstatic.com/s/share/v10/i7dKIFliZjKNF6VPJrmecw.woff",
+      "woff2": "https://fonts.gstatic.com/s/share/v10/i7dKIFliZjKNF6VPJrmedQ.woff2",
       "eot": "https://fonts.gstatic.com/s/share/v10/i7dKIFliZjKNF6VPJrmecQ.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=i7dKIFliZjKNF6VPJrmecg&skey=dcea8bd827a39f63&v=v10#Share",
+      "ttf": "https://fonts.gstatic.com/s/share/v10/i7dKIFliZjKNF6VPJrmecA.ttf",
       "errored": false
     },
     {
@@ -40,30 +40,30 @@
       "fontFamily": "'Share'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff2": "https://fonts.gstatic.com/s/share/v10/i7dJIFliZjKNF63xM665UEM.woff2",
+      "woff": "https://fonts.gstatic.com/s/share/v10/i7dJIFliZjKNF63xM665UEU.woff",
       "local": [
         "Share Bold",
         "Share-Bold"
       ],
-      "ttf": "https://fonts.gstatic.com/s/share/v10/i7dJIFliZjKNF63xM665UEY.ttf",
+      "woff2": "https://fonts.gstatic.com/s/share/v10/i7dJIFliZjKNF63xM665UEM.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=i7dJIFliZjKNF63xM665UEQ&skey=2caed9c836d2bbe1&v=v10#Share",
-      "woff": "https://fonts.gstatic.com/s/share/v10/i7dJIFliZjKNF63xM665UEU.woff",
+      "ttf": "https://fonts.gstatic.com/s/share/v10/i7dJIFliZjKNF63xM665UEY.ttf",
       "errored": false
     },
     {
       "id": "700italic",
-      "ttf": "https://fonts.gstatic.com/s/share/v10/i7dPIFliZjKNF6VPLgK7YEF8QA.ttf",
+      "eot": "https://fonts.gstatic.com/s/share/v10/i7dPIFliZjKNF6VPLgK7YEF8QQ.eot",
       "fontFamily": "'Share'",
       "fontStyle": "italic",
       "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/share/v10/i7dPIFliZjKNF6VPLgK7YEF8Qw.woff",
       "local": [
         "Share Bold Italic",
         "Share-BoldItalic"
       ],
-      "eot": "https://fonts.gstatic.com/s/share/v10/i7dPIFliZjKNF6VPLgK7YEF8QQ.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=i7dPIFliZjKNF6VPLgK7YEF8Qg&skey=f23db1ee5473466e&v=v10#Share",
-      "woff": "https://fonts.gstatic.com/s/share/v10/i7dPIFliZjKNF6VPLgK7YEF8Qw.woff",
       "woff2": "https://fonts.gstatic.com/s/share/v10/i7dPIFliZjKNF6VPLgK7YEF8RQ.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=i7dPIFliZjKNF6VPLgK7YEF8Qg&skey=f23db1ee5473466e&v=v10#Share",
+      "ttf": "https://fonts.gstatic.com/s/share/v10/i7dPIFliZjKNF6VPLgK7YEF8QA.ttf",
       "errored": false
     }
   ],
@@ -74,7 +74,7 @@
   "category": "display",
   "version": "v10",
   "lastModified": "2019-07-16",
-  "popularity": 329,
+  "popularity": 242,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

@@ -4,18 +4,34 @@
   "variants": [
     {
       "id": "300",
-      "woff2": "https://fonts.gstatic.com/s/hind/v10/5aU19_a8oxmIfMJaIR4.woff2",
+      "eot": "https://fonts.gstatic.com/s/hind/v10/5aU19_a8oxmIfMJaIRo.eot",
       "fontFamily": "'Hind'",
       "fontStyle": "normal",
       "fontWeight": "300",
+      "woff": "https://fonts.gstatic.com/s/hind/v10/5aU19_a8oxmIfMJaIRg.woff",
       "local": [
         "Hind Light",
         "Hind-Light"
       ],
-      "ttf": "https://fonts.gstatic.com/s/hind/v10/5aU19_a8oxmIfMJaIRs.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=5aU19_a8oxmIfMJaIRk&skey=67a5c17d8888694b&v=v10#Hind",
-      "eot": "https://fonts.gstatic.com/s/hind/v10/5aU19_a8oxmIfMJaIRo.eot",
-      "woff": "https://fonts.gstatic.com/s/hind/v10/5aU19_a8oxmIfMJaIRg.woff",
+      "ttf": "https://fonts.gstatic.com/s/hind/v10/5aU19_a8oxmIfMJaIRs.ttf",
+      "woff2": "https://fonts.gstatic.com/s/hind/v10/5aU19_a8oxmIfMJaIR4.woff2",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/hind/v10/5aU69_a8oxmIRG0.woff",
+      "fontFamily": "'Hind'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Hind Regular",
+        "Hind-Regular"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=5aU69_a8oxmIRGw&skey=88b46a73a32439b3&v=v10#Hind",
+      "eot": "https://fonts.gstatic.com/s/hind/v10/5aU69_a8oxmIRG8.eot",
+      "ttf": "https://fonts.gstatic.com/s/hind/v10/5aU69_a8oxmIRG4.ttf",
+      "woff2": "https://fonts.gstatic.com/s/hind/v10/5aU69_a8oxmIRGs.woff2",
       "errored": false
     },
     {
@@ -29,41 +45,9 @@
         "Hind Medium",
         "Hind-Medium"
       ],
-      "woff2": "https://fonts.gstatic.com/s/hind/v10/5aU19_a8oxmIfJpbIR4.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=5aU19_a8oxmIfJpbIRk&skey=240cc253f5a86f17&v=v10#Hind",
       "ttf": "https://fonts.gstatic.com/s/hind/v10/5aU19_a8oxmIfJpbIRs.ttf",
-      "errored": false
-    },
-    {
-      "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/hind/v10/5aU69_a8oxmIRG8.eot",
-      "fontFamily": "'Hind'",
-      "fontStyle": "normal",
-      "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/hind/v10/5aU69_a8oxmIRGs.woff2",
-      "local": [
-        "Hind Regular",
-        "Hind-Regular"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=5aU69_a8oxmIRGw&skey=88b46a73a32439b3&v=v10#Hind",
-      "ttf": "https://fonts.gstatic.com/s/hind/v10/5aU69_a8oxmIRG4.ttf",
-      "woff": "https://fonts.gstatic.com/s/hind/v10/5aU69_a8oxmIRG0.woff",
-      "errored": false
-    },
-    {
-      "id": "600",
-      "eot": "https://fonts.gstatic.com/s/hind/v10/5aU19_a8oxmIfLZcIRo.eot",
-      "fontFamily": "'Hind'",
-      "fontStyle": "normal",
-      "fontWeight": "600",
-      "woff2": "https://fonts.gstatic.com/s/hind/v10/5aU19_a8oxmIfLZcIR4.woff2",
-      "local": [
-        "Hind SemiBold",
-        "Hind-SemiBold"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=5aU19_a8oxmIfLZcIRk&skey=da2b34d6f21b4cf5&v=v10#Hind",
-      "woff": "https://fonts.gstatic.com/s/hind/v10/5aU19_a8oxmIfLZcIRg.woff",
-      "ttf": "https://fonts.gstatic.com/s/hind/v10/5aU19_a8oxmIfLZcIRs.ttf",
+      "woff2": "https://fonts.gstatic.com/s/hind/v10/5aU19_a8oxmIfJpbIR4.woff2",
       "errored": false
     },
     {
@@ -77,27 +61,43 @@
         "Hind Bold",
         "Hind-Bold"
       ],
-      "woff": "https://fonts.gstatic.com/s/hind/v10/5aU19_a8oxmIfNJdIRg.woff",
       "ttf": "https://fonts.gstatic.com/s/hind/v10/5aU19_a8oxmIfNJdIRs.ttf",
       "woff2": "https://fonts.gstatic.com/s/hind/v10/5aU19_a8oxmIfNJdIR4.woff2",
+      "woff": "https://fonts.gstatic.com/s/hind/v10/5aU19_a8oxmIfNJdIRg.woff",
+      "errored": false
+    },
+    {
+      "id": "600",
+      "woff": "https://fonts.gstatic.com/s/hind/v10/5aU19_a8oxmIfLZcIRg.woff",
+      "fontFamily": "'Hind'",
+      "fontStyle": "normal",
+      "fontWeight": "600",
+      "local": [
+        "Hind SemiBold",
+        "Hind-SemiBold"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=5aU19_a8oxmIfLZcIRk&skey=da2b34d6f21b4cf5&v=v10#Hind",
+      "eot": "https://fonts.gstatic.com/s/hind/v10/5aU19_a8oxmIfLZcIRo.eot",
+      "woff2": "https://fonts.gstatic.com/s/hind/v10/5aU19_a8oxmIfLZcIR4.woff2",
+      "ttf": "https://fonts.gstatic.com/s/hind/v10/5aU19_a8oxmIfLZcIRs.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
     "devanagari",
+    "latin",
     "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v10",
   "lastModified": "2019-07-22",
-  "popularity": 45,
+  "popularity": 42,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
     "devanagari": true,
+    "latin": true,
     "latin-ext": true
   },
-  "storeID": "latin-ext_devanagari_latin"
+  "storeID": "latin-ext_latin_devanagari"
 }

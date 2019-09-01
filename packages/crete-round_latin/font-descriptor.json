@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/creteround/v8/55xoey1sJNPjPiv1ZZZrxK170bk.eot",
+      "woff": "https://fonts.gstatic.com/s/creteround/v8/55xoey1sJNPjPiv1ZZZrxK170bs.woff",
       "fontFamily": "'Crete Round'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/creteround/v8/55xoey1sJNPjPiv1ZZZrxK170bs.woff",
       "local": [
         "Crete Round",
         "CreteRound-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/creteround/v8/55xoey1sJNPjPiv1ZZZrxK170b0.woff2",
-      "ttf": "https://fonts.gstatic.com/s/creteround/v8/55xoey1sJNPjPiv1ZZZrxK170bg.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=55xoey1sJNPjPiv1ZZZrxK170bo&skey=d604d2367fd68cff&v=v8#CreteRound",
+      "eot": "https://fonts.gstatic.com/s/creteround/v8/55xoey1sJNPjPiv1ZZZrxK170bk.eot",
+      "ttf": "https://fonts.gstatic.com/s/creteround/v8/55xoey1sJNPjPiv1ZZZrxK170bg.ttf",
+      "woff2": "https://fonts.gstatic.com/s/creteround/v8/55xoey1sJNPjPiv1ZZZrxK170b0.woff2",
       "errored": false
     },
     {
@@ -28,10 +28,10 @@
         "Crete Round Italic",
         "CreteRound-Italic"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=55xqey1sJNPjPiv1ZZZrxK1-4b_oKQ&skey=8176e819c3fe9b&v=v8#CreteRound",
-      "ttf": "https://fonts.gstatic.com/s/creteround/v8/55xqey1sJNPjPiv1ZZZrxK1-4b_oKw.ttf",
-      "eot": "https://fonts.gstatic.com/s/creteround/v8/55xqey1sJNPjPiv1ZZZrxK1-4b_oKg.eot",
       "woff": "https://fonts.gstatic.com/s/creteround/v8/55xqey1sJNPjPiv1ZZZrxK1-4b_oKA.woff",
+      "eot": "https://fonts.gstatic.com/s/creteround/v8/55xqey1sJNPjPiv1ZZZrxK1-4b_oKg.eot",
+      "ttf": "https://fonts.gstatic.com/s/creteround/v8/55xqey1sJNPjPiv1ZZZrxK1-4b_oKw.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=55xqey1sJNPjPiv1ZZZrxK1-4b_oKQ&skey=8176e819c3fe9b&v=v8#CreteRound",
       "errored": false
     }
   ],
@@ -42,7 +42,7 @@
   "category": "serif",
   "version": "v8",
   "lastModified": "2019-07-17",
-  "popularity": 101,
+  "popularity": 104,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/kumarone/v4/bMr1mS-P958wYi6YaGeGNA.ttf",
+      "woff": "https://fonts.gstatic.com/s/kumarone/v4/bMr1mS-P958wYi6YaGeGNw.woff",
       "fontFamily": "'Kumar One'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,28 +12,28 @@
         "Kumar One",
         "KumarOne-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=bMr1mS-P958wYi6YaGeGNg&skey=eb34840884e61733&v=v4#KumarOne",
-      "woff": "https://fonts.gstatic.com/s/kumarone/v4/bMr1mS-P958wYi6YaGeGNw.woff",
       "woff2": "https://fonts.gstatic.com/s/kumarone/v4/bMr1mS-P958wYi6YaGeGMQ.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=bMr1mS-P958wYi6YaGeGNg&skey=eb34840884e61733&v=v4#KumarOne",
+      "ttf": "https://fonts.gstatic.com/s/kumarone/v4/bMr1mS-P958wYi6YaGeGNA.ttf",
       "eot": "https://fonts.gstatic.com/s/kumarone/v4/bMr1mS-P958wYi6YaGeGNQ.eot",
       "errored": false
     }
   ],
   "subsets": [
+    "gujarati",
     "latin",
-    "latin-ext",
-    "gujarati"
+    "latin-ext"
   ],
   "category": "display",
   "version": "v4",
   "lastModified": "2019-07-16",
-  "popularity": 718,
+  "popularity": 673,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
+    "gujarati": true,
     "latin": true,
-    "latin-ext": true,
-    "gujarati": true
+    "latin-ext": true
   },
-  "storeID": "gujarati_latin-ext_latin"
+  "storeID": "latin-ext_latin_gujarati"
 }

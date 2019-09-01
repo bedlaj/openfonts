@@ -4,34 +4,18 @@
   "variants": [
     {
       "id": "200",
-      "ttf": "https://fonts.gstatic.com/s/koho/v3/K2FxfZ5fmddNPuE1aJnzIg.ttf",
+      "eot": "https://fonts.gstatic.com/s/koho/v3/K2FxfZ5fmddNPuE1aJnzIw.eot",
       "fontFamily": "'KoHo'",
       "fontStyle": "normal",
       "fontWeight": "200",
+      "svg": "https://fonts.gstatic.com/l/font?kit=K2FxfZ5fmddNPuE1aJnzIA&skey=d993bf7ce34301de&v=v3#KoHo",
       "local": [
         "KoHo ExtraLight",
         "KoHo-ExtraLight"
       ],
-      "eot": "https://fonts.gstatic.com/s/koho/v3/K2FxfZ5fmddNPuE1aJnzIw.eot",
       "woff": "https://fonts.gstatic.com/s/koho/v3/K2FxfZ5fmddNPuE1aJnzIQ.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=K2FxfZ5fmddNPuE1aJnzIA&skey=d993bf7ce34301de&v=v3#KoHo",
       "woff2": "https://fonts.gstatic.com/s/koho/v3/K2FxfZ5fmddNPuE1aJnzJw.woff2",
-      "errored": false
-    },
-    {
-      "id": "200italic",
-      "woff2": "https://fonts.gstatic.com/s/koho/v3/K2FzfZ5fmddNNisssJ_DJaql.woff2",
-      "fontFamily": "'KoHo'",
-      "fontStyle": "italic",
-      "fontWeight": "200",
-      "local": [
-        "KoHo ExtraLight Italic",
-        "KoHo-ExtraLightItalic"
-      ],
-      "woff": "https://fonts.gstatic.com/s/koho/v3/K2FzfZ5fmddNNisssJ_DJaqj.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=K2FzfZ5fmddNNisssJ_DJaqi&skey=cc9619179e12080d&v=v3#KoHo",
-      "eot": "https://fonts.gstatic.com/s/koho/v3/K2FzfZ5fmddNNisssJ_DJaqh.eot",
-      "ttf": "https://fonts.gstatic.com/s/koho/v3/K2FzfZ5fmddNNisssJ_DJaqg.ttf",
+      "ttf": "https://fonts.gstatic.com/s/koho/v3/K2FxfZ5fmddNPuE1aJnzIg.ttf",
       "errored": false
     },
     {
@@ -40,27 +24,43 @@
       "fontFamily": "'KoHo'",
       "fontStyle": "normal",
       "fontWeight": "300",
-      "woff2": "https://fonts.gstatic.com/s/koho/v3/K2FxfZ5fmddNPoU2aJnzJw.woff2",
+      "woff": "https://fonts.gstatic.com/s/koho/v3/K2FxfZ5fmddNPoU2aJnzIQ.woff",
       "local": [
         "KoHo Light",
         "KoHo-Light"
       ],
-      "woff": "https://fonts.gstatic.com/s/koho/v3/K2FxfZ5fmddNPoU2aJnzIQ.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=K2FxfZ5fmddNPoU2aJnzIA&skey=73c3670a2b24f63&v=v3#KoHo",
+      "woff2": "https://fonts.gstatic.com/s/koho/v3/K2FxfZ5fmddNPoU2aJnzJw.woff2",
       "ttf": "https://fonts.gstatic.com/s/koho/v3/K2FxfZ5fmddNPoU2aJnzIg.ttf",
       "errored": false
     },
     {
+      "id": "200italic",
+      "woff": "https://fonts.gstatic.com/s/koho/v3/K2FzfZ5fmddNNisssJ_DJaqj.woff",
+      "fontFamily": "'KoHo'",
+      "fontStyle": "italic",
+      "fontWeight": "200",
+      "local": [
+        "KoHo ExtraLight Italic",
+        "KoHo-ExtraLightItalic"
+      ],
+      "eot": "https://fonts.gstatic.com/s/koho/v3/K2FzfZ5fmddNNisssJ_DJaqh.eot",
+      "ttf": "https://fonts.gstatic.com/s/koho/v3/K2FzfZ5fmddNNisssJ_DJaqg.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=K2FzfZ5fmddNNisssJ_DJaqi&skey=cc9619179e12080d&v=v3#KoHo",
+      "woff2": "https://fonts.gstatic.com/s/koho/v3/K2FzfZ5fmddNNisssJ_DJaql.woff2",
+      "errored": false
+    },
+    {
       "id": "300italic",
-      "woff": "https://fonts.gstatic.com/s/koho/v3/K2FzfZ5fmddNNiss1JzDJaqj.woff",
+      "eot": "https://fonts.gstatic.com/s/koho/v3/K2FzfZ5fmddNNiss1JzDJaqh.eot",
       "fontFamily": "'KoHo'",
       "fontStyle": "italic",
       "fontWeight": "300",
+      "woff": "https://fonts.gstatic.com/s/koho/v3/K2FzfZ5fmddNNiss1JzDJaqj.woff",
       "local": [
         "KoHo Light Italic",
         "KoHo-LightItalic"
       ],
-      "eot": "https://fonts.gstatic.com/s/koho/v3/K2FzfZ5fmddNNiss1JzDJaqh.eot",
       "woff2": "https://fonts.gstatic.com/s/koho/v3/K2FzfZ5fmddNNiss1JzDJaql.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=K2FzfZ5fmddNNiss1JzDJaqi&skey=9179c1b69b3d8f06&v=v3#KoHo",
       "ttf": "https://fonts.gstatic.com/s/koho/v3/K2FzfZ5fmddNNiss1JzDJaqg.ttf",
@@ -83,135 +83,135 @@
       "errored": false
     },
     {
-      "id": "italic",
-      "woff": "https://fonts.gstatic.com/s/koho/v3/K2FwfZ5fmddNNiskf77Q.woff",
-      "fontFamily": "'KoHo'",
-      "fontStyle": "italic",
-      "fontWeight": "400",
-      "local": [
-        "KoHo Italic",
-        "KoHo-Italic"
-      ],
-      "eot": "https://fonts.gstatic.com/s/koho/v3/K2FwfZ5fmddNNiskf77S.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=K2FwfZ5fmddNNiskf77R&skey=f714266135741410&v=v3#KoHo",
-      "woff2": "https://fonts.gstatic.com/s/koho/v3/K2FwfZ5fmddNNiskf77W.woff2",
-      "ttf": "https://fonts.gstatic.com/s/koho/v3/K2FwfZ5fmddNNiskf77T.ttf",
-      "errored": false
-    },
-    {
       "id": "500",
-      "woff": "https://fonts.gstatic.com/s/koho/v3/K2FxfZ5fmddNPt03aJnzIQ.woff",
+      "eot": "https://fonts.gstatic.com/s/koho/v3/K2FxfZ5fmddNPt03aJnzIw.eot",
       "fontFamily": "'KoHo'",
       "fontStyle": "normal",
       "fontWeight": "500",
+      "woff": "https://fonts.gstatic.com/s/koho/v3/K2FxfZ5fmddNPt03aJnzIQ.woff",
       "local": [
         "KoHo Medium",
         "KoHo-Medium"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=K2FxfZ5fmddNPt03aJnzIA&skey=a337e6f6d833ff44&v=v3#KoHo",
-      "eot": "https://fonts.gstatic.com/s/koho/v3/K2FxfZ5fmddNPt03aJnzIw.eot",
       "woff2": "https://fonts.gstatic.com/s/koho/v3/K2FxfZ5fmddNPt03aJnzJw.woff2",
       "ttf": "https://fonts.gstatic.com/s/koho/v3/K2FxfZ5fmddNPt03aJnzIg.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=K2FxfZ5fmddNPt03aJnzIA&skey=a337e6f6d833ff44&v=v3#KoHo",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "eot": "https://fonts.gstatic.com/s/koho/v3/K2FwfZ5fmddNNiskf77S.eot",
+      "fontFamily": "'KoHo'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/koho/v3/K2FwfZ5fmddNNiskf77Q.woff",
+      "local": [
+        "KoHo Italic",
+        "KoHo-Italic"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=K2FwfZ5fmddNNiskf77R&skey=f714266135741410&v=v3#KoHo",
+      "ttf": "https://fonts.gstatic.com/s/koho/v3/K2FwfZ5fmddNNiskf77T.ttf",
+      "woff2": "https://fonts.gstatic.com/s/koho/v3/K2FwfZ5fmddNNiskf77W.woff2",
       "errored": false
     },
     {
       "id": "500italic",
-      "woff2": "https://fonts.gstatic.com/s/koho/v3/K2FzfZ5fmddNNissjJ3DJaql.woff2",
+      "eot": "https://fonts.gstatic.com/s/koho/v3/K2FzfZ5fmddNNissjJ3DJaqh.eot",
       "fontFamily": "'KoHo'",
       "fontStyle": "italic",
       "fontWeight": "500",
+      "woff": "https://fonts.gstatic.com/s/koho/v3/K2FzfZ5fmddNNissjJ3DJaqj.woff",
       "local": [
         "KoHo Medium Italic",
         "KoHo-MediumItalic"
       ],
-      "eot": "https://fonts.gstatic.com/s/koho/v3/K2FzfZ5fmddNNissjJ3DJaqh.eot",
-      "woff": "https://fonts.gstatic.com/s/koho/v3/K2FzfZ5fmddNNissjJ3DJaqj.woff",
+      "woff2": "https://fonts.gstatic.com/s/koho/v3/K2FzfZ5fmddNNissjJ3DJaql.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=K2FzfZ5fmddNNissjJ3DJaqi&skey=c2bebdbdb50f3edd&v=v3#KoHo",
       "ttf": "https://fonts.gstatic.com/s/koho/v3/K2FzfZ5fmddNNissjJ3DJaqg.ttf",
       "errored": false
     },
     {
       "id": "600",
-      "woff2": "https://fonts.gstatic.com/s/koho/v3/K2FxfZ5fmddNPvEwaJnzJw.woff2",
+      "eot": "https://fonts.gstatic.com/s/koho/v3/K2FxfZ5fmddNPvEwaJnzIw.eot",
       "fontFamily": "'KoHo'",
       "fontStyle": "normal",
       "fontWeight": "600",
+      "woff": "https://fonts.gstatic.com/s/koho/v3/K2FxfZ5fmddNPvEwaJnzIQ.woff",
       "local": [
         "KoHo SemiBold",
         "KoHo-SemiBold"
       ],
-      "woff": "https://fonts.gstatic.com/s/koho/v3/K2FxfZ5fmddNPvEwaJnzIQ.woff",
-      "eot": "https://fonts.gstatic.com/s/koho/v3/K2FxfZ5fmddNPvEwaJnzIw.eot",
+      "woff2": "https://fonts.gstatic.com/s/koho/v3/K2FxfZ5fmddNPvEwaJnzJw.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=K2FxfZ5fmddNPvEwaJnzIA&skey=1e2f76b3528721fb&v=v3#KoHo",
       "ttf": "https://fonts.gstatic.com/s/koho/v3/K2FxfZ5fmddNPvEwaJnzIg.ttf",
       "errored": false
     },
     {
-      "id": "600italic",
-      "woff2": "https://fonts.gstatic.com/s/koho/v3/K2FzfZ5fmddNNissoJrDJaql.woff2",
-      "fontFamily": "'KoHo'",
-      "fontStyle": "italic",
-      "fontWeight": "600",
-      "local": [
-        "KoHo SemiBold Italic",
-        "KoHo-SemiBoldItalic"
-      ],
-      "woff": "https://fonts.gstatic.com/s/koho/v3/K2FzfZ5fmddNNissoJrDJaqj.woff",
-      "eot": "https://fonts.gstatic.com/s/koho/v3/K2FzfZ5fmddNNissoJrDJaqh.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=K2FzfZ5fmddNNissoJrDJaqi&skey=4c40f493d7773844&v=v3#KoHo",
-      "ttf": "https://fonts.gstatic.com/s/koho/v3/K2FzfZ5fmddNNissoJrDJaqg.ttf",
-      "errored": false
-    },
-    {
       "id": "700",
-      "woff2": "https://fonts.gstatic.com/s/koho/v3/K2FxfZ5fmddNPpUxaJnzJw.woff2",
+      "eot": "https://fonts.gstatic.com/s/koho/v3/K2FxfZ5fmddNPpUxaJnzIw.eot",
       "fontFamily": "'KoHo'",
       "fontStyle": "normal",
       "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/koho/v3/K2FxfZ5fmddNPpUxaJnzIQ.woff",
       "local": [
         "KoHo Bold",
         "KoHo-Bold"
       ],
-      "woff": "https://fonts.gstatic.com/s/koho/v3/K2FxfZ5fmddNPpUxaJnzIQ.woff",
-      "eot": "https://fonts.gstatic.com/s/koho/v3/K2FxfZ5fmddNPpUxaJnzIw.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=K2FxfZ5fmddNPpUxaJnzIA&skey=88305c778f14f929&v=v3#KoHo",
+      "woff2": "https://fonts.gstatic.com/s/koho/v3/K2FxfZ5fmddNPpUxaJnzJw.woff2",
       "ttf": "https://fonts.gstatic.com/s/koho/v3/K2FxfZ5fmddNPpUxaJnzIg.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=K2FxfZ5fmddNPpUxaJnzIA&skey=88305c778f14f929&v=v3#KoHo",
       "errored": false
     },
     {
       "id": "700italic",
-      "woff2": "https://fonts.gstatic.com/s/koho/v3/K2FzfZ5fmddNNissxJvDJaql.woff2",
+      "eot": "https://fonts.gstatic.com/s/koho/v3/K2FzfZ5fmddNNissxJvDJaqh.eot",
       "fontFamily": "'KoHo'",
       "fontStyle": "italic",
       "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/koho/v3/K2FzfZ5fmddNNissxJvDJaqj.woff",
       "local": [
         "KoHo Bold Italic",
         "KoHo-BoldItalic"
       ],
-      "woff": "https://fonts.gstatic.com/s/koho/v3/K2FzfZ5fmddNNissxJvDJaqj.woff",
+      "woff2": "https://fonts.gstatic.com/s/koho/v3/K2FzfZ5fmddNNissxJvDJaql.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=K2FzfZ5fmddNNissxJvDJaqi&skey=182a8c189df2e774&v=v3#KoHo",
-      "eot": "https://fonts.gstatic.com/s/koho/v3/K2FzfZ5fmddNNissxJvDJaqh.eot",
       "ttf": "https://fonts.gstatic.com/s/koho/v3/K2FzfZ5fmddNNissxJvDJaqg.ttf",
+      "errored": false
+    },
+    {
+      "id": "600italic",
+      "eot": "https://fonts.gstatic.com/s/koho/v3/K2FzfZ5fmddNNissoJrDJaqh.eot",
+      "fontFamily": "'KoHo'",
+      "fontStyle": "italic",
+      "fontWeight": "600",
+      "woff": "https://fonts.gstatic.com/s/koho/v3/K2FzfZ5fmddNNissoJrDJaqj.woff",
+      "local": [
+        "KoHo SemiBold Italic",
+        "KoHo-SemiBoldItalic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/koho/v3/K2FzfZ5fmddNNissoJrDJaql.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=K2FzfZ5fmddNNissoJrDJaqi&skey=4c40f493d7773844&v=v3#KoHo",
+      "ttf": "https://fonts.gstatic.com/s/koho/v3/K2FzfZ5fmddNNissoJrDJaqg.ttf",
       "errored": false
     }
   ],
   "subsets": [
     "vietnamese",
     "latin",
-    "latin-ext",
-    "thai"
+    "thai",
+    "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v3",
   "lastModified": "2019-07-16",
-  "popularity": 805,
+  "popularity": 803,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "vietnamese": false,
     "latin": true,
-    "latin-ext": false,
-    "thai": false
+    "thai": false,
+    "latin-ext": false
   },
   "storeID": "latin"
 }

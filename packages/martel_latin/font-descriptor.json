@@ -4,23 +4,23 @@
   "variants": [
     {
       "id": "200",
-      "eot": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVqekqghzS.eot",
+      "woff": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVqekqghzQ.woff",
       "fontFamily": "'Martel'",
       "fontStyle": "normal",
       "fontWeight": "200",
-      "woff2": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVqekqghzW.woff2",
       "local": [
         "Martel UltraLight",
         "Martel-UltraLight"
       ],
-      "ttf": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVqekqghzT.ttf",
-      "woff": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVqekqghzQ.woff",
+      "eot": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVqekqghzS.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=PN_yRfK9oXHga0XVqekqghzR&skey=865a7af3f62c4b29&v=v4#Martel",
+      "woff2": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVqekqghzW.woff2",
+      "ttf": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVqekqghzT.ttf",
       "errored": false
     },
     {
       "id": "300",
-      "svg": "https://fonts.gstatic.com/l/font?kit=PN_yRfK9oXHga0XVzeoqghzR&skey=3005143b04f7a910&v=v4#Martel",
+      "woff": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVzeoqghzQ.woff",
       "fontFamily": "'Martel'",
       "fontStyle": "normal",
       "fontWeight": "300",
@@ -29,25 +29,9 @@
         "Martel-Light"
       ],
       "woff2": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVzeoqghzW.woff2",
-      "woff": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVzeoqghzQ.woff",
-      "ttf": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVzeoqghzT.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=PN_yRfK9oXHga0XVzeoqghzR&skey=3005143b04f7a910&v=v4#Martel",
       "eot": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVzeoqghzS.eot",
-      "errored": false
-    },
-    {
-      "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/martel/v4/PN_xRfK9oXHga0XdZsg5.woff",
-      "fontFamily": "'Martel'",
-      "fontStyle": "normal",
-      "fontWeight": "400",
-      "local": [
-        "Martel",
-        "Martel-Regular"
-      ],
-      "ttf": "https://fonts.gstatic.com/s/martel/v4/PN_xRfK9oXHga0XdZsg6.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=PN_xRfK9oXHga0XdZsg4&skey=59fb7792dca42154&v=v4#Martel",
-      "woff2": "https://fonts.gstatic.com/s/martel/v4/PN_xRfK9oXHga0XdZsg_.woff2",
-      "eot": "https://fonts.gstatic.com/s/martel/v4/PN_xRfK9oXHga0XdZsg7.eot",
+      "ttf": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVzeoqghzT.ttf",
       "errored": false
     },
     {
@@ -56,14 +40,30 @@
       "fontFamily": "'Martel'",
       "fontStyle": "normal",
       "fontWeight": "600",
-      "ttf": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVuewqghzT.ttf",
+      "woff": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVuewqghzQ.woff",
       "local": [
         "Martel DemiBold",
         "Martel-DemiBold"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=PN_yRfK9oXHga0XVuewqghzR&skey=8f6259619cbf6f4f&v=v4#Martel",
       "woff2": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVuewqghzW.woff2",
-      "woff": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVuewqghzQ.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=PN_yRfK9oXHga0XVuewqghzR&skey=8f6259619cbf6f4f&v=v4#Martel",
+      "ttf": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVuewqghzT.ttf",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/martel/v4/PN_xRfK9oXHga0XdZsg7.eot",
+      "fontFamily": "'Martel'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/martel/v4/PN_xRfK9oXHga0XdZsg_.woff2",
+      "local": [
+        "Martel",
+        "Martel-Regular"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=PN_xRfK9oXHga0XdZsg4&skey=59fb7792dca42154&v=v4#Martel",
+      "ttf": "https://fonts.gstatic.com/s/martel/v4/PN_xRfK9oXHga0XdZsg6.ttf",
+      "woff": "https://fonts.gstatic.com/s/martel/v4/PN_xRfK9oXHga0XdZsg5.woff",
       "errored": false
     },
     {
@@ -77,58 +77,58 @@
         "Martel Bold",
         "Martel-Bold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XV3e0qghzW.woff2",
       "ttf": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XV3e0qghzT.ttf",
       "woff": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XV3e0qghzQ.woff",
-      "errored": false
-    },
-    {
-      "id": "800",
-      "ttf": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVwe4qghzT.ttf",
-      "fontFamily": "'Martel'",
-      "fontStyle": "normal",
-      "fontWeight": "800",
-      "local": [
-        "Martel ExtraBold",
-        "Martel-ExtraBold"
-      ],
-      "eot": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVwe4qghzS.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=PN_yRfK9oXHga0XVwe4qghzR&skey=54db9712fcce8986&v=v4#Martel",
-      "woff": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVwe4qghzQ.woff",
-      "woff2": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVwe4qghzW.woff2",
+      "woff2": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XV3e0qghzW.woff2",
       "errored": false
     },
     {
       "id": "900",
-      "svg": "https://fonts.gstatic.com/l/font?kit=PN_yRfK9oXHga0XV5e8qghzR&skey=b49d7587e0fc5d49&v=v4#Martel",
+      "eot": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XV5e8qghzS.eot",
       "fontFamily": "'Martel'",
       "fontStyle": "normal",
       "fontWeight": "900",
+      "woff2": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XV5e8qghzW.woff2",
       "local": [
         "Martel Heavy",
         "Martel-Heavy"
       ],
-      "woff2": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XV5e8qghzW.woff2",
-      "woff": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XV5e8qghzQ.woff",
       "ttf": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XV5e8qghzT.ttf",
-      "eot": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XV5e8qghzS.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=PN_yRfK9oXHga0XV5e8qghzR&skey=b49d7587e0fc5d49&v=v4#Martel",
+      "woff": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XV5e8qghzQ.woff",
+      "errored": false
+    },
+    {
+      "id": "800",
+      "eot": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVwe4qghzS.eot",
+      "fontFamily": "'Martel'",
+      "fontStyle": "normal",
+      "fontWeight": "800",
+      "woff": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVwe4qghzQ.woff",
+      "local": [
+        "Martel ExtraBold",
+        "Martel-ExtraBold"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=PN_yRfK9oXHga0XVwe4qghzR&skey=54db9712fcce8986&v=v4#Martel",
+      "woff2": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVwe4qghzW.woff2",
+      "ttf": "https://fonts.gstatic.com/s/martel/v4/PN_yRfK9oXHga0XVwe4qghzT.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
     "devanagari",
+    "latin",
     "latin-ext"
   ],
   "category": "serif",
   "version": "v4",
   "lastModified": "2019-07-17",
-  "popularity": 115,
+  "popularity": 105,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
     "devanagari": false,
+    "latin": true,
     "latin-ext": false
   },
   "storeID": "latin"

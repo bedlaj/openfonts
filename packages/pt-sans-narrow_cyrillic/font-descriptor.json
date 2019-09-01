@@ -8,14 +8,14 @@
       "fontFamily": "'PT Sans Narrow'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "ttf": "https://fonts.gstatic.com/s/ptsansnarrow/v11/BngRUXNadjH0qYEzV7ab-oWlsbCCwRg.ttf",
+      "woff": "https://fonts.gstatic.com/s/ptsansnarrow/v11/BngRUXNadjH0qYEzV7ab-oWlsbCCwRs.woff",
       "local": [
         "PT Sans Narrow",
         "PTSans-Narrow"
       ],
-      "woff": "https://fonts.gstatic.com/s/ptsansnarrow/v11/BngRUXNadjH0qYEzV7ab-oWlsbCCwRs.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=BngRUXNadjH0qYEzV7ab-oWlsbCCwRo&skey=4fa1436033972818&v=v11#PTSansNarrow",
       "woff2": "https://fonts.gstatic.com/s/ptsansnarrow/v11/BngRUXNadjH0qYEzV7ab-oWlsbCCwR0.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=BngRUXNadjH0qYEzV7ab-oWlsbCCwRo&skey=4fa1436033972818&v=v11#PTSansNarrow",
+      "ttf": "https://fonts.gstatic.com/s/ptsansnarrow/v11/BngRUXNadjH0qYEzV7ab-oWlsbCCwRg.ttf",
       "errored": false
     },
     {
@@ -37,21 +37,21 @@
   ],
   "subsets": [
     "latin",
-    "latin-ext",
+    "cyrillic-ext",
     "cyrillic",
-    "cyrillic-ext"
+    "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v11",
   "lastModified": "2019-07-22",
-  "popularity": 28,
+  "popularity": 27,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "latin": true,
-    "latin-ext": false,
+    "cyrillic-ext": false,
     "cyrillic": true,
-    "cyrillic-ext": false
+    "latin-ext": false
   },
   "storeID": "cyrillic_latin"
 }

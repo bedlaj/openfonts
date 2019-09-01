@@ -8,50 +8,50 @@
       "fontFamily": "'PT Sans Narrow'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/ptsansnarrow/v11/BngRUXNadjH0qYEzV7ab-oWlsYCE.woff2",
+      "woff": "https://fonts.gstatic.com/s/ptsansnarrow/v11/BngRUXNadjH0qYEzV7ab-oWlsYCC.woff",
       "local": [
         "PT Sans Narrow",
         "PTSans-Narrow"
       ],
-      "ttf": "https://fonts.gstatic.com/s/ptsansnarrow/v11/BngRUXNadjH0qYEzV7ab-oWlsYCB.ttf",
-      "woff": "https://fonts.gstatic.com/s/ptsansnarrow/v11/BngRUXNadjH0qYEzV7ab-oWlsYCC.woff",
+      "woff2": "https://fonts.gstatic.com/s/ptsansnarrow/v11/BngRUXNadjH0qYEzV7ab-oWlsYCE.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=BngRUXNadjH0qYEzV7ab-oWlsYCD&skey=4fa1436033972818&v=v11#PTSansNarrow",
+      "ttf": "https://fonts.gstatic.com/s/ptsansnarrow/v11/BngRUXNadjH0qYEzV7ab-oWlsYCB.ttf",
       "errored": false
     },
     {
       "id": "700",
-      "woff": "https://fonts.gstatic.com/s/ptsansnarrow/v11/BngSUXNadjH0qYEzV7ab-oWlsbg95DiB.woff",
+      "eot": "https://fonts.gstatic.com/s/ptsansnarrow/v11/BngSUXNadjH0qYEzV7ab-oWlsbg95DiD.eot",
       "fontFamily": "'PT Sans Narrow'",
       "fontStyle": "normal",
       "fontWeight": "700",
+      "woff2": "https://fonts.gstatic.com/s/ptsansnarrow/v11/BngSUXNadjH0qYEzV7ab-oWlsbg95DiH.woff2",
       "local": [
         "PT Sans Narrow Bold",
         "PTSans-NarrowBold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/ptsansnarrow/v11/BngSUXNadjH0qYEzV7ab-oWlsbg95DiH.woff2",
-      "eot": "https://fonts.gstatic.com/s/ptsansnarrow/v11/BngSUXNadjH0qYEzV7ab-oWlsbg95DiD.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=BngSUXNadjH0qYEzV7ab-oWlsbg95DiA&skey=1f20cc7adf7b54b9&v=v11#PTSansNarrow",
       "ttf": "https://fonts.gstatic.com/s/ptsansnarrow/v11/BngSUXNadjH0qYEzV7ab-oWlsbg95DiC.ttf",
+      "woff": "https://fonts.gstatic.com/s/ptsansnarrow/v11/BngSUXNadjH0qYEzV7ab-oWlsbg95DiB.woff",
       "errored": false
     }
   ],
   "subsets": [
     "latin",
-    "latin-ext",
+    "cyrillic-ext",
     "cyrillic",
-    "cyrillic-ext"
+    "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v11",
   "lastModified": "2019-07-22",
-  "popularity": 28,
+  "popularity": 27,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "latin": true,
-    "latin-ext": true,
+    "cyrillic-ext": true,
     "cyrillic": true,
-    "cyrillic-ext": true
+    "latin-ext": true
   },
-  "storeID": "cyrillic-ext_cyrillic_latin-ext_latin"
+  "storeID": "latin-ext_cyrillic_cyrillic-ext_latin"
 }

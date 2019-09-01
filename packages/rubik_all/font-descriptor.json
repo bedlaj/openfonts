@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "300",
-      "woff2": "https://fonts.gstatic.com/s/rubik/v9/iJWHBXyIfDnIV7Fqj1mf.woff2",
+      "woff": "https://fonts.gstatic.com/s/rubik/v9/iJWHBXyIfDnIV7Fqj1mZ.woff",
       "fontFamily": "'Rubik'",
       "fontStyle": "normal",
       "fontWeight": "300",
@@ -13,14 +13,14 @@
         "Rubik-Light"
       ],
       "eot": "https://fonts.gstatic.com/s/rubik/v9/iJWHBXyIfDnIV7Fqj1mb.eot",
-      "woff": "https://fonts.gstatic.com/s/rubik/v9/iJWHBXyIfDnIV7Fqj1mZ.woff",
-      "ttf": "https://fonts.gstatic.com/s/rubik/v9/iJWHBXyIfDnIV7Fqj1ma.ttf",
+      "woff2": "https://fonts.gstatic.com/s/rubik/v9/iJWHBXyIfDnIV7Fqj1mf.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=iJWHBXyIfDnIV7Fqj1mY&skey=30892a5a5aea46ae&v=v9#Rubik",
+      "ttf": "https://fonts.gstatic.com/s/rubik/v9/iJWHBXyIfDnIV7Fqj1ma.ttf",
       "errored": false
     },
     {
       "id": "300italic",
-      "woff": "https://fonts.gstatic.com/s/rubik/v9/iJWBBXyIfDnIV7nEldWY8WY.woff",
+      "woff2": "https://fonts.gstatic.com/s/rubik/v9/iJWBBXyIfDnIV7nEldWY8WA.woff2",
       "fontFamily": "'Rubik'",
       "fontStyle": "italic",
       "fontWeight": "300",
@@ -29,8 +29,8 @@
         "Rubik-LightItalic"
       ],
       "eot": "https://fonts.gstatic.com/s/rubik/v9/iJWBBXyIfDnIV7nEldWY8WQ.eot",
-      "woff2": "https://fonts.gstatic.com/s/rubik/v9/iJWBBXyIfDnIV7nEldWY8WA.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=iJWBBXyIfDnIV7nEldWY8Wc&skey=6f981796bf0029a9&v=v9#Rubik",
+      "woff": "https://fonts.gstatic.com/s/rubik/v9/iJWBBXyIfDnIV7nEldWY8WY.woff",
       "ttf": "https://fonts.gstatic.com/s/rubik/v9/iJWBBXyIfDnIV7nEldWY8WU.ttf",
       "errored": false
     },
@@ -45,41 +45,25 @@
         "Rubik",
         "Rubik-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/rubik/v9/iJWKBXyIfDnIV4nG.ttf",
       "woff2": "https://fonts.gstatic.com/s/rubik/v9/iJWKBXyIfDnIV4nD.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=iJWKBXyIfDnIV4nE&skey=cee854e66788286d&v=v9#Rubik",
+      "ttf": "https://fonts.gstatic.com/s/rubik/v9/iJWKBXyIfDnIV4nG.ttf",
       "errored": false
     },
     {
       "id": "italic",
-      "eot": "https://fonts.gstatic.com/s/rubik/v9/iJWEBXyIfDnIV7nErXg.eot",
+      "woff": "https://fonts.gstatic.com/s/rubik/v9/iJWEBXyIfDnIV7nErXo.woff",
       "fontFamily": "'Rubik'",
       "fontStyle": "italic",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/rubik/v9/iJWEBXyIfDnIV7nErXo.woff",
       "local": [
         "Rubik Italic",
         "Rubik-Italic"
       ],
+      "eot": "https://fonts.gstatic.com/s/rubik/v9/iJWEBXyIfDnIV7nErXg.eot",
+      "woff2": "https://fonts.gstatic.com/s/rubik/v9/iJWEBXyIfDnIV7nErXw.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=iJWEBXyIfDnIV7nErXs&skey=80e52bf85b0b1958&v=v9#Rubik",
       "ttf": "https://fonts.gstatic.com/s/rubik/v9/iJWEBXyIfDnIV7nErXk.ttf",
-      "woff2": "https://fonts.gstatic.com/s/rubik/v9/iJWEBXyIfDnIV7nErXw.woff2",
-      "errored": false
-    },
-    {
-      "id": "500",
-      "eot": "https://fonts.gstatic.com/s/rubik/v9/iJWHBXyIfDnIV7Eyjlmb.eot",
-      "fontFamily": "'Rubik'",
-      "fontStyle": "normal",
-      "fontWeight": "500",
-      "woff": "https://fonts.gstatic.com/s/rubik/v9/iJWHBXyIfDnIV7EyjlmZ.woff",
-      "local": [
-        "Rubik Medium",
-        "Rubik-Medium"
-      ],
-      "ttf": "https://fonts.gstatic.com/s/rubik/v9/iJWHBXyIfDnIV7Eyjlma.ttf",
-      "woff2": "https://fonts.gstatic.com/s/rubik/v9/iJWHBXyIfDnIV7Eyjlmf.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=iJWHBXyIfDnIV7EyjlmY&skey=46488a639fde60e&v=v9#Rubik",
       "errored": false
     },
     {
@@ -88,14 +72,30 @@
       "fontFamily": "'Rubik'",
       "fontStyle": "italic",
       "fontWeight": "500",
-      "svg": "https://fonts.gstatic.com/l/font?kit=iJWBBXyIfDnIV7nElY2Z8Wc&skey=365e095f56706d7c&v=v9#Rubik",
+      "woff": "https://fonts.gstatic.com/s/rubik/v9/iJWBBXyIfDnIV7nElY2Z8WY.woff",
       "local": [
         "Rubik Medium Italic",
         "Rubik-MediumItalic"
       ],
       "woff2": "https://fonts.gstatic.com/s/rubik/v9/iJWBBXyIfDnIV7nElY2Z8WA.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=iJWBBXyIfDnIV7nElY2Z8Wc&skey=365e095f56706d7c&v=v9#Rubik",
       "ttf": "https://fonts.gstatic.com/s/rubik/v9/iJWBBXyIfDnIV7nElY2Z8WU.ttf",
-      "woff": "https://fonts.gstatic.com/s/rubik/v9/iJWBBXyIfDnIV7nElY2Z8WY.woff",
+      "errored": false
+    },
+    {
+      "id": "500",
+      "svg": "https://fonts.gstatic.com/l/font?kit=iJWHBXyIfDnIV7EyjlmY&skey=46488a639fde60e&v=v9#Rubik",
+      "fontFamily": "'Rubik'",
+      "fontStyle": "normal",
+      "fontWeight": "500",
+      "local": [
+        "Rubik Medium",
+        "Rubik-Medium"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/rubik/v9/iJWHBXyIfDnIV7Eyjlma.ttf",
+      "woff": "https://fonts.gstatic.com/s/rubik/v9/iJWHBXyIfDnIV7EyjlmZ.woff",
+      "eot": "https://fonts.gstatic.com/s/rubik/v9/iJWHBXyIfDnIV7Eyjlmb.eot",
+      "woff2": "https://fonts.gstatic.com/s/rubik/v9/iJWHBXyIfDnIV7Eyjlmf.woff2",
       "errored": false
     },
     {
@@ -104,30 +104,14 @@
       "fontFamily": "'Rubik'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff2": "https://fonts.gstatic.com/s/rubik/v9/iJWHBXyIfDnIV7F6iFmf.woff2",
+      "woff": "https://fonts.gstatic.com/s/rubik/v9/iJWHBXyIfDnIV7F6iFmZ.woff",
       "local": [
         "Rubik Bold",
         "Rubik-Bold"
       ],
-      "ttf": "https://fonts.gstatic.com/s/rubik/v9/iJWHBXyIfDnIV7F6iFma.ttf",
-      "woff": "https://fonts.gstatic.com/s/rubik/v9/iJWHBXyIfDnIV7F6iFmZ.woff",
+      "woff2": "https://fonts.gstatic.com/s/rubik/v9/iJWHBXyIfDnIV7F6iFmf.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=iJWHBXyIfDnIV7F6iFmY&skey=1a6c716ce617d1f0&v=v9#Rubik",
-      "errored": false
-    },
-    {
-      "id": "700italic",
-      "eot": "https://fonts.gstatic.com/s/rubik/v9/iJWBBXyIfDnIV7nElcWf8WQ.eot",
-      "fontFamily": "'Rubik'",
-      "fontStyle": "italic",
-      "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/rubik/v9/iJWBBXyIfDnIV7nElcWf8WY.woff",
-      "local": [
-        "Rubik Bold Italic",
-        "Rubik-BoldItalic"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=iJWBBXyIfDnIV7nElcWf8Wc&skey=7fb6cca0b88a6f03&v=v9#Rubik",
-      "ttf": "https://fonts.gstatic.com/s/rubik/v9/iJWBBXyIfDnIV7nElcWf8WU.ttf",
-      "woff2": "https://fonts.gstatic.com/s/rubik/v9/iJWBBXyIfDnIV7nElcWf8WA.woff2",
+      "ttf": "https://fonts.gstatic.com/s/rubik/v9/iJWHBXyIfDnIV7F6iFma.ttf",
       "errored": false
     },
     {
@@ -147,39 +131,55 @@
       "errored": false
     },
     {
+      "id": "700italic",
+      "eot": "https://fonts.gstatic.com/s/rubik/v9/iJWBBXyIfDnIV7nElcWf8WQ.eot",
+      "fontFamily": "'Rubik'",
+      "fontStyle": "italic",
+      "fontWeight": "700",
+      "woff2": "https://fonts.gstatic.com/s/rubik/v9/iJWBBXyIfDnIV7nElcWf8WA.woff2",
+      "local": [
+        "Rubik Bold Italic",
+        "Rubik-BoldItalic"
+      ],
+      "woff": "https://fonts.gstatic.com/s/rubik/v9/iJWBBXyIfDnIV7nElcWf8WY.woff",
+      "ttf": "https://fonts.gstatic.com/s/rubik/v9/iJWBBXyIfDnIV7nElcWf8WU.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=iJWBBXyIfDnIV7nElcWf8Wc&skey=7fb6cca0b88a6f03&v=v9#Rubik",
+      "errored": false
+    },
+    {
       "id": "900italic",
-      "woff": "https://fonts.gstatic.com/s/rubik/v9/iJWBBXyIfDnIV7nElf2d8WY.woff",
+      "eot": "https://fonts.gstatic.com/s/rubik/v9/iJWBBXyIfDnIV7nElf2d8WQ.eot",
       "fontFamily": "'Rubik'",
       "fontStyle": "italic",
       "fontWeight": "900",
+      "woff": "https://fonts.gstatic.com/s/rubik/v9/iJWBBXyIfDnIV7nElf2d8WY.woff",
       "local": [
         "Rubik Black Italic",
         "Rubik-BlackItalic"
       ],
-      "eot": "https://fonts.gstatic.com/s/rubik/v9/iJWBBXyIfDnIV7nElf2d8WQ.eot",
       "woff2": "https://fonts.gstatic.com/s/rubik/v9/iJWBBXyIfDnIV7nElf2d8WA.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=iJWBBXyIfDnIV7nElf2d8Wc&skey=339785daaf4dc57&v=v9#Rubik",
       "ttf": "https://fonts.gstatic.com/s/rubik/v9/iJWBBXyIfDnIV7nElf2d8WU.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=iJWBBXyIfDnIV7nElf2d8Wc&skey=339785daaf4dc57&v=v9#Rubik",
       "errored": false
     }
   ],
   "subsets": [
     "hebrew",
     "latin",
-    "latin-ext",
-    "cyrillic"
+    "cyrillic",
+    "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v9",
   "lastModified": "2019-07-22",
-  "popularity": 25,
+  "popularity": 24,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "hebrew": true,
     "latin": true,
-    "latin-ext": true,
-    "cyrillic": true
+    "cyrillic": true,
+    "latin-ext": true
   },
-  "storeID": "cyrillic_latin-ext_latin_hebrew"
+  "storeID": "latin-ext_cyrillic_latin_hebrew"
 }

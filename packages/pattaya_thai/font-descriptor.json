@@ -13,18 +13,18 @@
         "Pattaya",
         "Pattaya-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/pattaya/v5/ea8ZadcqV_zkHY-XBcOt9g.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=ea8ZadcqV_zkHY-XBcOt8Q&skey=16793223d51a74bc&v=v5#Pattaya",
       "ttf": "https://fonts.gstatic.com/s/pattaya/v5/ea8ZadcqV_zkHY-XBcOt8w.ttf",
+      "woff2": "https://fonts.gstatic.com/s/pattaya/v5/ea8ZadcqV_zkHY-XBcOt9g.woff2",
       "errored": false
     }
   ],
   "subsets": [
     "vietnamese",
     "latin",
-    "latin-ext",
+    "thai",
     "cyrillic",
-    "thai"
+    "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v5",
@@ -35,9 +35,9 @@
   "subsetMap": {
     "vietnamese": false,
     "latin": true,
-    "latin-ext": false,
+    "thai": true,
     "cyrillic": false,
-    "thai": true
+    "latin-ext": false
   },
   "storeID": "thai_latin"
 }

@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "200",
-      "woff": "https://fonts.gstatic.com/s/biorhymeexpanded/v5/i7dVIE1zZzytGswgU577CDY9LjbffxxcbmSOQ9M.woff",
+      "woff2": "https://fonts.gstatic.com/s/biorhymeexpanded/v5/i7dVIE1zZzytGswgU577CDY9LjbffxxcbmSOQ9U.woff2",
       "fontFamily": "'BioRhyme Expanded'",
       "fontStyle": "normal",
       "fontWeight": "200",
@@ -13,9 +13,9 @@
         "BioRhymeExpanded-ExtraLight"
       ],
       "eot": "https://fonts.gstatic.com/s/biorhymeexpanded/v5/i7dVIE1zZzytGswgU577CDY9LjbffxxcbmSOQ9E.eot",
-      "woff2": "https://fonts.gstatic.com/s/biorhymeexpanded/v5/i7dVIE1zZzytGswgU577CDY9LjbffxxcbmSOQ9U.woff2",
-      "ttf": "https://fonts.gstatic.com/s/biorhymeexpanded/v5/i7dVIE1zZzytGswgU577CDY9LjbffxxcbmSOQ9A.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=i7dVIE1zZzytGswgU577CDY9LjbffxxcbmSOQ9I&skey=2ee2f92b51b2cab0&v=v5#BioRhymeExpanded",
+      "woff": "https://fonts.gstatic.com/s/biorhymeexpanded/v5/i7dVIE1zZzytGswgU577CDY9LjbffxxcbmSOQ9M.woff",
+      "ttf": "https://fonts.gstatic.com/s/biorhymeexpanded/v5/i7dVIE1zZzytGswgU577CDY9LjbffxxcbmSOQ9A.ttf",
       "errored": false
     },
     {
@@ -24,13 +24,13 @@
       "fontFamily": "'BioRhyme Expanded'",
       "fontStyle": "normal",
       "fontWeight": "300",
-      "woff2": "https://fonts.gstatic.com/s/biorhymeexpanded/v5/i7dVIE1zZzytGswgU577CDY9Ljbffxw4bWSOQ9U.woff2",
+      "woff": "https://fonts.gstatic.com/s/biorhymeexpanded/v5/i7dVIE1zZzytGswgU577CDY9Ljbffxw4bWSOQ9M.woff",
       "local": [
         "BioRhyme Expanded Light",
         "BioRhymeExpanded-Light"
       ],
       "svg": "https://fonts.gstatic.com/l/font?kit=i7dVIE1zZzytGswgU577CDY9Ljbffxw4bWSOQ9I&skey=82d719d5376a72cd&v=v5#BioRhymeExpanded",
-      "woff": "https://fonts.gstatic.com/s/biorhymeexpanded/v5/i7dVIE1zZzytGswgU577CDY9Ljbffxw4bWSOQ9M.woff",
+      "woff2": "https://fonts.gstatic.com/s/biorhymeexpanded/v5/i7dVIE1zZzytGswgU577CDY9Ljbffxw4bWSOQ9U.woff2",
       "ttf": "https://fonts.gstatic.com/s/biorhymeexpanded/v5/i7dVIE1zZzytGswgU577CDY9Ljbffxw4bWSOQ9A.ttf",
       "errored": false
     },
@@ -45,25 +45,9 @@
         "BioRhyme Expanded",
         "BioRhymeExpanded-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/biorhymeexpanded/v5/i7dQIE1zZzytGswgU577CDY9LjbffxSdT3Q.ttf",
       "woff2": "https://fonts.gstatic.com/s/biorhymeexpanded/v5/i7dQIE1zZzytGswgU577CDY9LjbffxSdT3E.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=i7dQIE1zZzytGswgU577CDY9LjbffxSdT3Y&skey=68cf7f02649a6f07&v=v5#BioRhymeExpanded",
-      "errored": false
-    },
-    {
-      "id": "800",
-      "woff": "https://fonts.gstatic.com/s/biorhymeexpanded/v5/i7dVIE1zZzytGswgU577CDY9Ljbffxw0aWSOQ9M.woff",
-      "fontFamily": "'BioRhyme Expanded'",
-      "fontStyle": "normal",
-      "fontWeight": "800",
-      "local": [
-        "BioRhyme Expanded ExtraBold",
-        "BioRhymeExpanded-ExtraBold"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/biorhymeexpanded/v5/i7dVIE1zZzytGswgU577CDY9Ljbffxw0aWSOQ9U.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=i7dVIE1zZzytGswgU577CDY9Ljbffxw0aWSOQ9I&skey=86188f2ec7a88ec9&v=v5#BioRhymeExpanded",
-      "eot": "https://fonts.gstatic.com/s/biorhymeexpanded/v5/i7dVIE1zZzytGswgU577CDY9Ljbffxw0aWSOQ9E.eot",
-      "ttf": "https://fonts.gstatic.com/s/biorhymeexpanded/v5/i7dVIE1zZzytGswgU577CDY9Ljbffxw0aWSOQ9A.ttf",
+      "ttf": "https://fonts.gstatic.com/s/biorhymeexpanded/v5/i7dQIE1zZzytGswgU577CDY9LjbffxSdT3Q.ttf",
       "errored": false
     },
     {
@@ -77,9 +61,25 @@
         "BioRhyme Expanded Bold",
         "BioRhymeExpanded-Bold"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=i7dVIE1zZzytGswgU577CDY9LjbffxwoamSOQ9I&skey=65889839f6d4c40c&v=v5#BioRhymeExpanded",
       "woff2": "https://fonts.gstatic.com/s/biorhymeexpanded/v5/i7dVIE1zZzytGswgU577CDY9LjbffxwoamSOQ9U.woff2",
       "ttf": "https://fonts.gstatic.com/s/biorhymeexpanded/v5/i7dVIE1zZzytGswgU577CDY9LjbffxwoamSOQ9A.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=i7dVIE1zZzytGswgU577CDY9LjbffxwoamSOQ9I&skey=65889839f6d4c40c&v=v5#BioRhymeExpanded",
+      "errored": false
+    },
+    {
+      "id": "800",
+      "eot": "https://fonts.gstatic.com/s/biorhymeexpanded/v5/i7dVIE1zZzytGswgU577CDY9Ljbffxw0aWSOQ9E.eot",
+      "fontFamily": "'BioRhyme Expanded'",
+      "fontStyle": "normal",
+      "fontWeight": "800",
+      "woff": "https://fonts.gstatic.com/s/biorhymeexpanded/v5/i7dVIE1zZzytGswgU577CDY9Ljbffxw0aWSOQ9M.woff",
+      "local": [
+        "BioRhyme Expanded ExtraBold",
+        "BioRhymeExpanded-ExtraBold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/biorhymeexpanded/v5/i7dVIE1zZzytGswgU577CDY9Ljbffxw0aWSOQ9U.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=i7dVIE1zZzytGswgU577CDY9Ljbffxw0aWSOQ9I&skey=86188f2ec7a88ec9&v=v5#BioRhymeExpanded",
+      "ttf": "https://fonts.gstatic.com/s/biorhymeexpanded/v5/i7dVIE1zZzytGswgU577CDY9Ljbffxw0aWSOQ9A.ttf",
       "errored": false
     }
   ],
@@ -90,7 +90,7 @@
   "category": "serif",
   "version": "v5",
   "lastModified": "2019-07-16",
-  "popularity": 934,
+  "popularity": 936,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

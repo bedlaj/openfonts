@@ -4,36 +4,36 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/marmelad/v9/Qw3eZQdSHj_jK2e-8uFCEeE.woff",
+      "eot": "https://fonts.gstatic.com/s/marmelad/v9/Qw3eZQdSHj_jK2e-8uFCEeM.eot",
       "fontFamily": "'Marmelad'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/marmelad/v9/Qw3eZQdSHj_jK2e-8uFCEeE.woff",
       "local": [
         "Marmelad",
         "Marmelad-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/marmelad/v9/Qw3eZQdSHj_jK2e-8uFCEeM.eot",
+      "woff2": "https://fonts.gstatic.com/s/marmelad/v9/Qw3eZQdSHj_jK2e-8uFCEec.woff2",
       "ttf": "https://fonts.gstatic.com/s/marmelad/v9/Qw3eZQdSHj_jK2e-8uFCEeI.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=Qw3eZQdSHj_jK2e-8uFCEeA&skey=91be53246a2a25ed&v=v9#Marmelad",
-      "woff2": "https://fonts.gstatic.com/s/marmelad/v9/Qw3eZQdSHj_jK2e-8uFCEec.woff2",
       "errored": false
     }
   ],
   "subsets": [
     "latin",
-    "latin-ext",
-    "cyrillic"
+    "cyrillic",
+    "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v9",
   "lastModified": "2019-07-16",
-  "popularity": 361,
+  "popularity": 353,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "latin": true,
-    "latin-ext": true,
-    "cyrillic": false
+    "cyrillic": false,
+    "latin-ext": true
   },
   "storeID": "latin-ext_latin"
 }

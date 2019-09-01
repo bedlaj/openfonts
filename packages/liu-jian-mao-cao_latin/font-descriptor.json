@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/liujianmaocao/v5/845DNN84HJrccNonurqXILGpvCOoTe3fLw.woff",
+      "ttf": "https://fonts.gstatic.com/s/liujianmaocao/v5/845DNN84HJrccNonurqXILGpvCOoTe3fLA.ttf",
       "fontFamily": "'Liu Jian Mao Cao'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,16 +12,16 @@
         "Liu Jian Mao Cao Regular",
         "LiuJianMaoCao-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/liujianmaocao/v5/845DNN84HJrccNonurqXILGpvCOoTe3fKQ.woff2",
+      "woff": "https://fonts.gstatic.com/s/liujianmaocao/v5/845DNN84HJrccNonurqXILGpvCOoTe3fLw.woff",
       "eot": "https://fonts.gstatic.com/s/liujianmaocao/v5/845DNN84HJrccNonurqXILGpvCOoTe3fLQ.eot",
+      "woff2": "https://fonts.gstatic.com/s/liujianmaocao/v5/845DNN84HJrccNonurqXILGpvCOoTe3fKQ.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=845DNN84HJrccNonurqXILGpvCOoTe3fLg&skey=972217a230a76fa8&v=v5#LiuJianMaoCao",
-      "ttf": "https://fonts.gstatic.com/s/liujianmaocao/v5/845DNN84HJrccNonurqXILGpvCOoTe3fLA.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
-    "chinese-simplified"
+    "chinese-simplified",
+    "latin"
   ],
   "category": "handwriting",
   "version": "v5",
@@ -30,8 +30,8 @@
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
-    "chinese-simplified": false
+    "chinese-simplified": false,
+    "latin": true
   },
   "storeID": "latin"
 }

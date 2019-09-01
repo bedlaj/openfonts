@@ -4,17 +4,17 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/amita/v5/HhyaU5si9Om7PQlu.eot",
+      "ttf": "https://fonts.gstatic.com/s/amita/v5/HhyaU5si9Om7PQlv.ttf",
       "fontFamily": "'Amita'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/amita/v5/HhyaU5si9Om7PQls.woff",
       "local": [
         "Amita Regular",
         "Amita-Regular"
       ],
       "woff2": "https://fonts.gstatic.com/s/amita/v5/HhyaU5si9Om7PQlq.woff2",
-      "ttf": "https://fonts.gstatic.com/s/amita/v5/HhyaU5si9Om7PQlv.ttf",
+      "eot": "https://fonts.gstatic.com/s/amita/v5/HhyaU5si9Om7PQlu.eot",
+      "woff": "https://fonts.gstatic.com/s/amita/v5/HhyaU5si9Om7PQls.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=HhyaU5si9Om7PQlt&skey=3dfbdf6b2e59f965&v=v5#Amita",
       "errored": false
     },
@@ -29,27 +29,27 @@
         "Amita Bold",
         "Amita-Bold"
       ],
+      "woff2": "https://fonts.gstatic.com/s/amita/v5/HhyXU5si9Om7PTHTLtCH.woff2",
       "woff": "https://fonts.gstatic.com/s/amita/v5/HhyXU5si9Om7PTHTLtCB.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=HhyXU5si9Om7PTHTLtCA&skey=f4d9463ce099459b&v=v5#Amita",
-      "woff2": "https://fonts.gstatic.com/s/amita/v5/HhyXU5si9Om7PTHTLtCH.woff2",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
     "devanagari",
+    "latin",
     "latin-ext"
   ],
   "category": "handwriting",
   "version": "v5",
   "lastModified": "2019-07-16",
-  "popularity": 487,
+  "popularity": 463,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
     "devanagari": true,
+    "latin": true,
     "latin-ext": true
   },
-  "storeID": "latin-ext_devanagari_latin"
+  "storeID": "latin-ext_latin_devanagari"
 }

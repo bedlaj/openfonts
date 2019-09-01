@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/marcellus/v7/wEO_EBrOk8hQLDvIAF81VvoO.eot",
+      "woff2": "https://fonts.gstatic.com/s/marcellus/v7/wEO_EBrOk8hQLDvIAF81VvoK.woff2",
       "fontFamily": "'Marcellus'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/marcellus/v7/wEO_EBrOk8hQLDvIAF81VvoK.woff2",
       "local": [
         "Marcellus",
         "Marcellus-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=wEO_EBrOk8hQLDvIAF81VvoN&skey=568fa7803239da82&v=v7#Marcellus",
-      "woff": "https://fonts.gstatic.com/s/marcellus/v7/wEO_EBrOk8hQLDvIAF81VvoM.woff",
       "ttf": "https://fonts.gstatic.com/s/marcellus/v7/wEO_EBrOk8hQLDvIAF81VvoP.ttf",
+      "woff": "https://fonts.gstatic.com/s/marcellus/v7/wEO_EBrOk8hQLDvIAF81VvoM.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=wEO_EBrOk8hQLDvIAF81VvoN&skey=568fa7803239da82&v=v7#Marcellus",
+      "eot": "https://fonts.gstatic.com/s/marcellus/v7/wEO_EBrOk8hQLDvIAF81VvoO.eot",
       "errored": false
     }
   ],
@@ -26,7 +26,7 @@
   "category": "serif",
   "version": "v7",
   "lastModified": "2019-07-16",
-  "popularity": 274,
+  "popularity": 270,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

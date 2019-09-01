@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/pinyonscript/v9/6xKpdSJbL9-e9LuoeQiDRQR8WOXaPA.woff",
+      "woff2": "https://fonts.gstatic.com/s/pinyonscript/v9/6xKpdSJbL9-e9LuoeQiDRQR8WOXaOg.woff2",
       "fontFamily": "'Pinyon Script'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Pinyon Script",
         "PinyonScript"
       ],
-      "woff2": "https://fonts.gstatic.com/s/pinyonscript/v9/6xKpdSJbL9-e9LuoeQiDRQR8WOXaOg.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=6xKpdSJbL9-e9LuoeQiDRQR8WOXaPQ&skey=1c8692ba3eab87&v=v9#PinyonScript",
-      "ttf": "https://fonts.gstatic.com/s/pinyonscript/v9/6xKpdSJbL9-e9LuoeQiDRQR8WOXaPw.ttf",
+      "woff": "https://fonts.gstatic.com/s/pinyonscript/v9/6xKpdSJbL9-e9LuoeQiDRQR8WOXaPA.woff",
       "eot": "https://fonts.gstatic.com/s/pinyonscript/v9/6xKpdSJbL9-e9LuoeQiDRQR8WOXaPg.eot",
+      "ttf": "https://fonts.gstatic.com/s/pinyonscript/v9/6xKpdSJbL9-e9LuoeQiDRQR8WOXaPw.ttf",
       "errored": false
     }
   ],
@@ -25,7 +25,7 @@
   "category": "handwriting",
   "version": "v9",
   "lastModified": "2019-07-16",
-  "popularity": 272,
+  "popularity": 271,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

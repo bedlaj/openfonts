@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "300",
-      "woff2": "https://fonts.gstatic.com/s/rajdhani/v9/LDI2apCSOBg7S-QT7pasEfOreec.woff2",
+      "eot": "https://fonts.gstatic.com/s/rajdhani/v9/LDI2apCSOBg7S-QT7pasEfOreeM.eot",
       "fontFamily": "'Rajdhani'",
       "fontStyle": "normal",
       "fontWeight": "300",
+      "woff": "https://fonts.gstatic.com/s/rajdhani/v9/LDI2apCSOBg7S-QT7pasEfOreeE.woff",
       "local": [
         "Rajdhani Light",
         "Rajdhani-Light"
       ],
-      "ttf": "https://fonts.gstatic.com/s/rajdhani/v9/LDI2apCSOBg7S-QT7pasEfOreeI.ttf",
+      "woff2": "https://fonts.gstatic.com/s/rajdhani/v9/LDI2apCSOBg7S-QT7pasEfOreec.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=LDI2apCSOBg7S-QT7pasEfOreeA&skey=d525f62b6050085b&v=v9#Rajdhani",
-      "woff": "https://fonts.gstatic.com/s/rajdhani/v9/LDI2apCSOBg7S-QT7pasEfOreeE.woff",
-      "eot": "https://fonts.gstatic.com/s/rajdhani/v9/LDI2apCSOBg7S-QT7pasEfOreeM.eot",
+      "ttf": "https://fonts.gstatic.com/s/rajdhani/v9/LDI2apCSOBg7S-QT7pasEfOreeI.ttf",
       "errored": false
     },
     {
@@ -24,14 +24,14 @@
       "fontFamily": "'Rajdhani'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "ttf": "https://fonts.gstatic.com/s/rajdhani/v9/LDIxapCSOBg7S-QT7p4HM-M.ttf",
+      "woff": "https://fonts.gstatic.com/s/rajdhani/v9/LDIxapCSOBg7S-QT7p4HM-A.woff",
       "local": [
         "Rajdhani Regular",
         "Rajdhani-Regular"
       ],
       "woff2": "https://fonts.gstatic.com/s/rajdhani/v9/LDIxapCSOBg7S-QT7p4HM-Y.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=LDIxapCSOBg7S-QT7p4HM-E&skey=2a58cb2a05429b83&v=v9#Rajdhani",
-      "woff": "https://fonts.gstatic.com/s/rajdhani/v9/LDIxapCSOBg7S-QT7p4HM-A.woff",
+      "ttf": "https://fonts.gstatic.com/s/rajdhani/v9/LDIxapCSOBg7S-QT7p4HM-M.ttf",
       "errored": false
     },
     {
@@ -40,12 +40,12 @@
       "fontFamily": "'Rajdhani'",
       "fontStyle": "normal",
       "fontWeight": "500",
-      "woff2": "https://fonts.gstatic.com/s/rajdhani/v9/LDI2apCSOBg7S-QT7pb0EPOreec.woff2",
+      "woff": "https://fonts.gstatic.com/s/rajdhani/v9/LDI2apCSOBg7S-QT7pb0EPOreeE.woff",
       "local": [
         "Rajdhani Medium",
         "Rajdhani-Medium"
       ],
-      "woff": "https://fonts.gstatic.com/s/rajdhani/v9/LDI2apCSOBg7S-QT7pb0EPOreeE.woff",
+      "woff2": "https://fonts.gstatic.com/s/rajdhani/v9/LDI2apCSOBg7S-QT7pb0EPOreec.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=LDI2apCSOBg7S-QT7pb0EPOreeA&skey=74a1e835cd8e18f4&v=v9#Rajdhani",
       "ttf": "https://fonts.gstatic.com/s/rajdhani/v9/LDI2apCSOBg7S-QT7pb0EPOreeI.ttf",
       "errored": false
@@ -84,8 +84,8 @@
     }
   ],
   "subsets": [
-    "latin",
     "devanagari",
+    "latin",
     "latin-ext"
   ],
   "category": "sans-serif",
@@ -95,8 +95,8 @@
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
     "devanagari": false,
+    "latin": true,
     "latin-ext": false
   },
   "storeID": "latin"

@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "100",
-      "svg": "https://fonts.gstatic.com/l/font?kit=k3kJo84MPvpLmixcA63oeALZTbKF0Q0&skey=2c088e9d7432444&v=v9#NotoSansSC",
+      "woff": "https://fonts.gstatic.com/s/notosanssc/v9/k3kJo84MPvpLmixcA63oeALZTbKF0Qw.woff",
       "fontFamily": "'Noto Sans SC'",
       "fontStyle": "normal",
       "fontWeight": "100",
@@ -12,29 +12,29 @@
         "Noto Sans SC Thin",
         "NotoSansSC-Thin"
       ],
-      "woff": "https://fonts.gstatic.com/s/notosanssc/v9/k3kJo84MPvpLmixcA63oeALZTbKF0Qw.woff",
-      "eot": "https://fonts.gstatic.com/s/notosanssc/v9/k3kJo84MPvpLmixcA63oeALZTbKF0Q4.eot",
       "woff2": "https://fonts.gstatic.com/s/notosanssc/v9/k3kJo84MPvpLmixcA63oeALZTbKF0Qo.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=k3kJo84MPvpLmixcA63oeALZTbKF0Q0&skey=2c088e9d7432444&v=v9#NotoSansSC",
+      "eot": "https://fonts.gstatic.com/s/notosanssc/v9/k3kJo84MPvpLmixcA63oeALZTbKF0Q4.eot",
       "errored": false
     },
     {
       "id": "300",
-      "woff2": "https://fonts.gstatic.com/s/notosanssc/v9/k3kIo84MPvpLmixcA63oeALZhaCd-S_7.woff2",
+      "eot": "https://fonts.gstatic.com/s/notosanssc/v9/k3kIo84MPvpLmixcA63oeALZhaCd-S__.eot",
       "fontFamily": "'Noto Sans SC'",
       "fontStyle": "normal",
       "fontWeight": "300",
+      "woff": "https://fonts.gstatic.com/s/notosanssc/v9/k3kIo84MPvpLmixcA63oeALZhaCd-S_9.woff",
       "local": [
         "Noto Sans SC Light",
         "NotoSansSC-Light"
       ],
-      "woff": "https://fonts.gstatic.com/s/notosanssc/v9/k3kIo84MPvpLmixcA63oeALZhaCd-S_9.woff",
-      "eot": "https://fonts.gstatic.com/s/notosanssc/v9/k3kIo84MPvpLmixcA63oeALZhaCd-S__.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=k3kIo84MPvpLmixcA63oeALZhaCd-S_8&skey=f4a268e2294618a0&v=v9#NotoSansSC",
+      "woff2": "https://fonts.gstatic.com/s/notosanssc/v9/k3kIo84MPvpLmixcA63oeALZhaCd-S_7.woff2",
       "errored": false
     },
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/notosanssc/v9/k3kXo84MPvpLmixcA63oeALRIYKO.woff",
+      "woff2": "https://fonts.gstatic.com/s/notosanssc/v9/k3kXo84MPvpLmixcA63oeALRIYKI.woff2",
       "fontFamily": "'Noto Sans SC'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -42,9 +42,9 @@
         "Noto Sans SC Regular",
         "NotoSansSC-Regular"
       ],
+      "woff": "https://fonts.gstatic.com/s/notosanssc/v9/k3kXo84MPvpLmixcA63oeALRIYKO.woff",
       "eot": "https://fonts.gstatic.com/s/notosanssc/v9/k3kXo84MPvpLmixcA63oeALRIYKM.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=k3kXo84MPvpLmixcA63oeALRIYKP&skey=cf0bb10b5602fdc3&v=v9#NotoSansSC",
-      "woff2": "https://fonts.gstatic.com/s/notosanssc/v9/k3kXo84MPvpLmixcA63oeALRIYKI.woff2",
       "errored": false
     },
     {
@@ -58,8 +58,23 @@
         "Noto Sans SC Medium",
         "NotoSansSC-Medium"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=k3kIo84MPvpLmixcA63oeALZ3aGd-S_8&skey=80663169997273a5&v=v9#NotoSansSC",
       "woff": "https://fonts.gstatic.com/s/notosanssc/v9/k3kIo84MPvpLmixcA63oeALZ3aGd-S_9.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=k3kIo84MPvpLmixcA63oeALZ3aGd-S_8&skey=80663169997273a5&v=v9#NotoSansSC",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/notosanssc/v9/k3kIo84MPvpLmixcA63oeALZlaed-S__.eot",
+      "fontFamily": "'Noto Sans SC'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/notosanssc/v9/k3kIo84MPvpLmixcA63oeALZlaed-S_9.woff",
+      "local": [
+        "Noto Sans SC Bold",
+        "NotoSansSC-Bold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/notosanssc/v9/k3kIo84MPvpLmixcA63oeALZlaed-S_7.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=k3kIo84MPvpLmixcA63oeALZlaed-S_8&skey=1685d19e676f33b8&v=v9#NotoSansSC",
       "errored": false
     },
     {
@@ -73,43 +88,28 @@
         "Noto Sans SC Black",
         "NotoSansSC-Black"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=k3kIo84MPvpLmixcA63oeALZraWd-S_8&skey=f81247bb9424f4f9&v=v9#NotoSansSC",
       "woff2": "https://fonts.gstatic.com/s/notosanssc/v9/k3kIo84MPvpLmixcA63oeALZraWd-S_7.woff2",
-      "errored": false
-    },
-    {
-      "id": "700",
-      "woff": "https://fonts.gstatic.com/s/notosanssc/v9/k3kIo84MPvpLmixcA63oeALZlaed-S_9.woff",
-      "fontFamily": "'Noto Sans SC'",
-      "fontStyle": "normal",
-      "fontWeight": "700",
-      "local": [
-        "Noto Sans SC Bold",
-        "NotoSansSC-Bold"
-      ],
-      "eot": "https://fonts.gstatic.com/s/notosanssc/v9/k3kIo84MPvpLmixcA63oeALZlaed-S__.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=k3kIo84MPvpLmixcA63oeALZlaed-S_8&skey=1685d19e676f33b8&v=v9#NotoSansSC",
-      "woff2": "https://fonts.gstatic.com/s/notosanssc/v9/k3kIo84MPvpLmixcA63oeALZlaed-S_7.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=k3kIo84MPvpLmixcA63oeALZraWd-S_8&skey=f81247bb9424f4f9&v=v9#NotoSansSC",
       "errored": false
     }
   ],
   "subsets": [
     "vietnamese",
+    "chinese-simplified",
     "latin",
-    "cyrillic",
-    "chinese-simplified"
+    "cyrillic"
   ],
   "category": "sans-serif",
   "version": "v9",
   "lastModified": "2019-07-17",
-  "popularity": 74,
+  "popularity": 75,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "vietnamese": true,
+    "chinese-simplified": false,
     "latin": true,
-    "cyrillic": false,
-    "chinese-simplified": false
+    "cyrillic": false
   },
   "storeID": "latin_vietnamese"
 }

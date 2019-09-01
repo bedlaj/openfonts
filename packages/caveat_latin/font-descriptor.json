@@ -8,50 +8,50 @@
       "fontFamily": "'Caveat'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Wnz6HAc5bAfYB2Q7ZjYf&skey=7833cd5b856b60c9&v=v7#Caveat",
+      "woff": "https://fonts.gstatic.com/s/caveat/v7/Wnz6HAc5bAfYB2Q7ZjYe.woff",
       "local": [
         "Caveat Regular",
         "Caveat-Regular"
       ],
       "woff2": "https://fonts.gstatic.com/s/caveat/v7/Wnz6HAc5bAfYB2Q7ZjYY.woff2",
-      "woff": "https://fonts.gstatic.com/s/caveat/v7/Wnz6HAc5bAfYB2Q7ZjYe.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Wnz6HAc5bAfYB2Q7ZjYf&skey=7833cd5b856b60c9&v=v7#Caveat",
       "ttf": "https://fonts.gstatic.com/s/caveat/v7/Wnz6HAc5bAfYB2Q7ZjYd.ttf",
       "errored": false
     },
     {
       "id": "700",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Wnz5HAc5bAfYB2Qz3RMNpS7W&skey=23f4c72b4f49a52d&v=v7#Caveat",
+      "eot": "https://fonts.gstatic.com/s/caveat/v7/Wnz5HAc5bAfYB2Qz3RMNpS7V.eot",
       "fontFamily": "'Caveat'",
       "fontStyle": "normal",
       "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/caveat/v7/Wnz5HAc5bAfYB2Qz3RMNpS7X.woff",
       "local": [
         "Caveat Bold",
         "Caveat-Bold"
       ],
       "woff2": "https://fonts.gstatic.com/s/caveat/v7/Wnz5HAc5bAfYB2Qz3RMNpS7R.woff2",
-      "eot": "https://fonts.gstatic.com/s/caveat/v7/Wnz5HAc5bAfYB2Qz3RMNpS7V.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Wnz5HAc5bAfYB2Qz3RMNpS7W&skey=23f4c72b4f49a52d&v=v7#Caveat",
       "ttf": "https://fonts.gstatic.com/s/caveat/v7/Wnz5HAc5bAfYB2Qz3RMNpS7U.ttf",
-      "woff": "https://fonts.gstatic.com/s/caveat/v7/Wnz5HAc5bAfYB2Qz3RMNpS7X.woff",
       "errored": false
     }
   ],
   "subsets": [
     "latin",
-    "latin-ext",
+    "cyrillic-ext",
     "cyrillic",
-    "cyrillic-ext"
+    "latin-ext"
   ],
   "category": "handwriting",
   "version": "v7",
   "lastModified": "2019-07-17",
-  "popularity": 122,
+  "popularity": 119,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "latin": true,
-    "latin-ext": false,
+    "cyrillic-ext": false,
     "cyrillic": false,
-    "cyrillic-ext": false
+    "latin-ext": false
   },
   "storeID": "latin"
 }

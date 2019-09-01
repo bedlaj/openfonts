@@ -8,34 +8,34 @@
       "fontFamily": "'Baloo Bhaijaan'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "ttf": "https://fonts.gstatic.com/s/baloobhaijaan/v6/RWmRoKCU5fcqq8fOWNzFLqSjx7ELLGE.ttf",
+      "woff": "https://fonts.gstatic.com/s/baloobhaijaan/v6/RWmRoKCU5fcqq8fOWNzFLqSjx7ELLGI.woff",
       "local": [
         "Baloo Bhaijaan Regular",
         "BalooBhaijaan-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/baloobhaijaan/v6/RWmRoKCU5fcqq8fOWNzFLqSjx7ELLGQ.woff2",
-      "woff": "https://fonts.gstatic.com/s/baloobhaijaan/v6/RWmRoKCU5fcqq8fOWNzFLqSjx7ELLGI.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=RWmRoKCU5fcqq8fOWNzFLqSjx7ELLGM&skey=92e89f03757ce841&v=v6#BalooBhaijaan",
+      "woff2": "https://fonts.gstatic.com/s/baloobhaijaan/v6/RWmRoKCU5fcqq8fOWNzFLqSjx7ELLGQ.woff2",
+      "ttf": "https://fonts.gstatic.com/s/baloobhaijaan/v6/RWmRoKCU5fcqq8fOWNzFLqSjx7ELLGE.ttf",
       "errored": false
     }
   ],
   "subsets": [
     "vietnamese",
+    "arabic",
     "latin",
-    "latin-ext",
-    "arabic"
+    "latin-ext"
   ],
   "category": "display",
   "version": "v6",
   "lastModified": "2019-07-16",
-  "popularity": 458,
+  "popularity": 455,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "vietnamese": false,
+    "arabic": false,
     "latin": true,
-    "latin-ext": true,
-    "arabic": false
+    "latin-ext": true
   },
   "storeID": "latin-ext_latin"
 }

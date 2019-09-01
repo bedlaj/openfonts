@@ -4,33 +4,33 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/geo/v11/CSRz4zRZluflKHpj.eot",
+      "woff": "https://fonts.gstatic.com/s/geo/v11/CSRz4zRZluflKHph.woff",
       "fontFamily": "'Geo'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "ttf": "https://fonts.gstatic.com/s/geo/v11/CSRz4zRZluflKHpi.ttf",
       "local": [
         "Geo",
         "Geo-Regular"
       ],
       "svg": "https://fonts.gstatic.com/l/font?kit=CSRz4zRZluflKHpg&skey=417aad24c5ef650a&v=v11#Geo",
-      "woff": "https://fonts.gstatic.com/s/geo/v11/CSRz4zRZluflKHph.woff",
+      "eot": "https://fonts.gstatic.com/s/geo/v11/CSRz4zRZluflKHpj.eot",
       "woff2": "https://fonts.gstatic.com/s/geo/v11/CSRz4zRZluflKHpn.woff2",
+      "ttf": "https://fonts.gstatic.com/s/geo/v11/CSRz4zRZluflKHpi.ttf",
       "errored": false
     },
     {
       "id": "italic",
-      "ttf": "https://fonts.gstatic.com/s/geo/v11/CSRx4zRZluflLUplajg.ttf",
+      "eot": "https://fonts.gstatic.com/s/geo/v11/CSRx4zRZluflLUplajk.eot",
       "fontFamily": "'Geo'",
       "fontStyle": "italic",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/geo/v11/CSRx4zRZluflLUplajs.woff",
       "local": [
         "Geo Oblique",
         "Geo-Oblique"
       ],
-      "woff": "https://fonts.gstatic.com/s/geo/v11/CSRx4zRZluflLUplajs.woff",
       "woff2": "https://fonts.gstatic.com/s/geo/v11/CSRx4zRZluflLUplaj0.woff2",
-      "eot": "https://fonts.gstatic.com/s/geo/v11/CSRx4zRZluflLUplajk.eot",
+      "ttf": "https://fonts.gstatic.com/s/geo/v11/CSRx4zRZluflLUplajg.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=CSRx4zRZluflLUplajo&skey=d62ed86780b06e0&v=v11#Geo",
       "errored": false
     }
@@ -41,7 +41,7 @@
   "category": "sans-serif",
   "version": "v11",
   "lastModified": "2019-07-16",
-  "popularity": 632,
+  "popularity": 657,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

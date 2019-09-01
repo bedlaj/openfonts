@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/pavanam/v4/BXRrvF_aiezLh0xPPOJa8g.woff",
+      "ttf": "https://fonts.gstatic.com/s/pavanam/v4/BXRrvF_aiezLh0xPPOJa8Q.ttf",
       "fontFamily": "'Pavanam'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,28 +12,28 @@
         "Pavanam",
         "Pavanam-Regular"
       ],
+      "woff": "https://fonts.gstatic.com/s/pavanam/v4/BXRrvF_aiezLh0xPPOJa8g.woff",
       "eot": "https://fonts.gstatic.com/s/pavanam/v4/BXRrvF_aiezLh0xPPOJa8A.eot",
       "woff2": "https://fonts.gstatic.com/s/pavanam/v4/BXRrvF_aiezLh0xPPOJa9A.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=BXRrvF_aiezLh0xPPOJa8w&skey=e28b0edd81e978ba&v=v4#Pavanam",
-      "ttf": "https://fonts.gstatic.com/s/pavanam/v4/BXRrvF_aiezLh0xPPOJa8Q.ttf",
       "errored": false
     }
   ],
   "subsets": [
+    "tamil",
     "latin",
-    "latin-ext",
-    "tamil"
+    "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v4",
   "lastModified": "2019-07-16",
-  "popularity": 510,
+  "popularity": 517,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
+    "tamil": false,
     "latin": true,
-    "latin-ext": true,
-    "tamil": false
+    "latin-ext": true
   },
   "storeID": "latin-ext_latin"
 }

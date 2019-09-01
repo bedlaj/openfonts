@@ -4,17 +4,17 @@
   "variants": [
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=CSR84z9ShvucWzsMKyhdTOU&skey=e5d445850c40840d&v=v7#Lusitana",
+      "eot": "https://fonts.gstatic.com/s/lusitana/v7/CSR84z9ShvucWzsMKyhdTOY.eot",
       "fontFamily": "'Lusitana'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/lusitana/v7/CSR84z9ShvucWzsMKyhdTOI.woff2",
       "local": [
         "Lusitana"
       ],
-      "ttf": "https://fonts.gstatic.com/s/lusitana/v7/CSR84z9ShvucWzsMKyhdTOc.ttf",
-      "woff2": "https://fonts.gstatic.com/s/lusitana/v7/CSR84z9ShvucWzsMKyhdTOI.woff2",
-      "eot": "https://fonts.gstatic.com/s/lusitana/v7/CSR84z9ShvucWzsMKyhdTOY.eot",
       "woff": "https://fonts.gstatic.com/s/lusitana/v7/CSR84z9ShvucWzsMKyhdTOQ.woff",
+      "ttf": "https://fonts.gstatic.com/s/lusitana/v7/CSR84z9ShvucWzsMKyhdTOc.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=CSR84z9ShvucWzsMKyhdTOU&skey=e5d445850c40840d&v=v7#Lusitana",
       "errored": false
     },
     {
@@ -23,12 +23,12 @@
       "fontFamily": "'Lusitana'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "svg": "https://fonts.gstatic.com/l/font?kit=CSR74z9ShvucWzsMKyDmafctaNE&skey=b4d27e82eab80c53&v=v7#Lusitana",
+      "woff": "https://fonts.gstatic.com/s/lusitana/v7/CSR74z9ShvucWzsMKyDmafctaNA.woff",
       "local": [
         "Lusitana Bold",
         "Lusitana-Bold"
       ],
-      "woff": "https://fonts.gstatic.com/s/lusitana/v7/CSR74z9ShvucWzsMKyDmafctaNA.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=CSR74z9ShvucWzsMKyDmafctaNE&skey=b4d27e82eab80c53&v=v7#Lusitana",
       "ttf": "https://fonts.gstatic.com/s/lusitana/v7/CSR74z9ShvucWzsMKyDmafctaNM.ttf",
       "woff2": "https://fonts.gstatic.com/s/lusitana/v7/CSR74z9ShvucWzsMKyDmafctaNY.woff2",
       "errored": false
@@ -40,7 +40,7 @@
   "category": "serif",
   "version": "v7",
   "lastModified": "2019-07-16",
-  "popularity": 245,
+  "popularity": 252,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

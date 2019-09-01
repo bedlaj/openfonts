@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/coiny/v5/gyByhwU1K989PUwKGFA.ttf",
+      "woff2": "https://fonts.gstatic.com/s/coiny/v5/gyByhwU1K989PUwKGFU.woff2",
       "fontFamily": "'Coiny'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,30 +12,30 @@
         "Coiny Regular",
         "Coiny-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/coiny/v5/gyByhwU1K989PUwKGFM.woff",
-      "woff2": "https://fonts.gstatic.com/s/coiny/v5/gyByhwU1K989PUwKGFU.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=gyByhwU1K989PUwKGFI&skey=f65afa53b66c5694&v=v5#Coiny",
       "eot": "https://fonts.gstatic.com/s/coiny/v5/gyByhwU1K989PUwKGFE.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=gyByhwU1K989PUwKGFI&skey=f65afa53b66c5694&v=v5#Coiny",
+      "woff": "https://fonts.gstatic.com/s/coiny/v5/gyByhwU1K989PUwKGFM.woff",
+      "ttf": "https://fonts.gstatic.com/s/coiny/v5/gyByhwU1K989PUwKGFA.ttf",
       "errored": false
     }
   ],
   "subsets": [
+    "tamil",
     "vietnamese",
     "latin",
-    "latin-ext",
-    "tamil"
+    "latin-ext"
   ],
   "category": "display",
   "version": "v5",
   "lastModified": "2019-07-16",
-  "popularity": 634,
+  "popularity": 650,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
+    "tamil": true,
     "vietnamese": false,
     "latin": true,
-    "latin-ext": false,
-    "tamil": true
+    "latin-ext": false
   },
-  "storeID": "tamil_latin"
+  "storeID": "latin_tamil"
 }

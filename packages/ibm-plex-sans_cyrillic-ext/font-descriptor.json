@@ -4,50 +4,82 @@
   "variants": [
     {
       "id": "100",
-      "eot": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX-KVElMYYaJe8bpLHnCwDKjbLuGqZN.eot",
+      "woff2": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX-KVElMYYaJe8bpLHnCwDKjbLuGqZJ.woff2",
       "fontFamily": "'IBM Plex Sans'",
       "fontStyle": "normal",
       "fontWeight": "100",
-      "woff": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX-KVElMYYaJe8bpLHnCwDKjbLuGqZP.woff",
       "local": [
         "IBM Plex Sans Thin",
         "IBMPlexSans-Thin"
       ],
-      "woff2": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX-KVElMYYaJe8bpLHnCwDKjbLuGqZJ.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=zYX-KVElMYYaJe8bpLHnCwDKjbLuGqZO&skey=7c7dbb14be61271d&v=v7#IBMPlexSans",
       "ttf": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX-KVElMYYaJe8bpLHnCwDKjbLuGqZM.ttf",
-      "errored": false
-    },
-    {
-      "id": "100italic",
-      "eot": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX8KVElMYYaJe8bpLHnCwDKhdTmdJZGUdY.eot",
-      "fontFamily": "'IBM Plex Sans'",
-      "fontStyle": "italic",
-      "fontWeight": "100",
-      "woff": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX8KVElMYYaJe8bpLHnCwDKhdTmdJZGUdQ.woff",
-      "local": [
-        "IBM Plex Sans Thin Italic",
-        "IBMPlexSans-ThinItalic"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX8KVElMYYaJe8bpLHnCwDKhdTmdJZGUdI.woff2",
-      "ttf": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX8KVElMYYaJe8bpLHnCwDKhdTmdJZGUdc.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=zYX8KVElMYYaJe8bpLHnCwDKhdTmdJZGUdU&skey=31dd92618ce558c0&v=v7#IBMPlexSans",
+      "woff": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX-KVElMYYaJe8bpLHnCwDKjbLuGqZP.woff",
+      "eot": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX-KVElMYYaJe8bpLHnCwDKjbLuGqZN.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=zYX-KVElMYYaJe8bpLHnCwDKjbLuGqZO&skey=7c7dbb14be61271d&v=v7#IBMPlexSans",
       "errored": false
     },
     {
       "id": "200",
-      "eot": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX9KVElMYYaJe8bpLHnCwDKjR7_AIxscA.eot",
+      "woff": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX9KVElMYYaJe8bpLHnCwDKjR7_AIxscg.woff",
       "fontFamily": "'IBM Plex Sans'",
       "fontStyle": "normal",
       "fontWeight": "200",
-      "woff": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX9KVElMYYaJe8bpLHnCwDKjR7_AIxscg.woff",
       "local": [
         "IBM Plex Sans ExtraLight",
         "IBMPlexSans-ExtraLight"
       ],
-      "woff2": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX9KVElMYYaJe8bpLHnCwDKjR7_AIxsdA.woff2",
+      "eot": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX9KVElMYYaJe8bpLHnCwDKjR7_AIxscA.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=zYX9KVElMYYaJe8bpLHnCwDKjR7_AIxscw&skey=6c2d5a5c11c0eb60&v=v7#IBMPlexSans",
+      "woff2": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX9KVElMYYaJe8bpLHnCwDKjR7_AIxsdA.woff2",
       "ttf": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX9KVElMYYaJe8bpLHnCwDKjR7_AIxscQ.ttf",
+      "errored": false
+    },
+    {
+      "id": "100italic",
+      "woff": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX8KVElMYYaJe8bpLHnCwDKhdTmdJZGUdQ.woff",
+      "fontFamily": "'IBM Plex Sans'",
+      "fontStyle": "italic",
+      "fontWeight": "100",
+      "local": [
+        "IBM Plex Sans Thin Italic",
+        "IBMPlexSans-ThinItalic"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=zYX8KVElMYYaJe8bpLHnCwDKhdTmdJZGUdU&skey=31dd92618ce558c0&v=v7#IBMPlexSans",
+      "ttf": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX8KVElMYYaJe8bpLHnCwDKhdTmdJZGUdc.ttf",
+      "woff2": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX8KVElMYYaJe8bpLHnCwDKhdTmdJZGUdI.woff2",
+      "eot": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX8KVElMYYaJe8bpLHnCwDKhdTmdJZGUdY.eot",
+      "errored": false
+    },
+    {
+      "id": "200italic",
+      "eot": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX7KVElMYYaJe8bpLHnCwDKhdTm2Idce_fq.eot",
+      "fontFamily": "'IBM Plex Sans'",
+      "fontStyle": "italic",
+      "fontWeight": "200",
+      "woff": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX7KVElMYYaJe8bpLHnCwDKhdTm2Idce_fo.woff",
+      "local": [
+        "IBM Plex Sans ExtraLight Italic",
+        "IBMPlexSans-ExtraLightItalic"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=zYX7KVElMYYaJe8bpLHnCwDKhdTm2Idce_fp&skey=45385004843bad8d&v=v7#IBMPlexSans",
+      "ttf": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX7KVElMYYaJe8bpLHnCwDKhdTm2Idce_fr.ttf",
+      "woff2": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX7KVElMYYaJe8bpLHnCwDKhdTm2Idce_fu.woff2",
+      "errored": false
+    },
+    {
+      "id": "300",
+      "woff": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX9KVElMYYaJe8bpLHnCwDKjXr8AIxscg.woff",
+      "fontFamily": "'IBM Plex Sans'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "local": [
+        "IBM Plex Sans Light",
+        "IBMPlexSans-Light"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX9KVElMYYaJe8bpLHnCwDKjXr8AIxsdA.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=zYX9KVElMYYaJe8bpLHnCwDKjXr8AIxscw&skey=9af9b2658a769e58&v=v7#IBMPlexSans",
+      "ttf": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX9KVElMYYaJe8bpLHnCwDKjXr8AIxscQ.ttf",
+      "eot": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX9KVElMYYaJe8bpLHnCwDKjXr8AIxscA.eot",
       "errored": false
     },
     {
@@ -62,40 +94,8 @@
         "IBMPlexSans-LightItalic"
       ],
       "woff2": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX7KVElMYYaJe8bpLHnCwDKhdTmvIRce_fu.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=zYX7KVElMYYaJe8bpLHnCwDKhdTmvIRce_fp&skey=10ce7ca37f789a9c&v=v7#IBMPlexSans",
       "ttf": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX7KVElMYYaJe8bpLHnCwDKhdTmvIRce_fr.ttf",
-      "errored": false
-    },
-    {
-      "id": "300",
-      "eot": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX9KVElMYYaJe8bpLHnCwDKjXr8AIxscA.eot",
-      "fontFamily": "'IBM Plex Sans'",
-      "fontStyle": "normal",
-      "fontWeight": "300",
-      "woff": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX9KVElMYYaJe8bpLHnCwDKjXr8AIxscg.woff",
-      "local": [
-        "IBM Plex Sans Light",
-        "IBMPlexSans-Light"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=zYX9KVElMYYaJe8bpLHnCwDKjXr8AIxscw&skey=9af9b2658a769e58&v=v7#IBMPlexSans",
-      "ttf": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX9KVElMYYaJe8bpLHnCwDKjXr8AIxscQ.ttf",
-      "woff2": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX9KVElMYYaJe8bpLHnCwDKjXr8AIxsdA.woff2",
-      "errored": false
-    },
-    {
-      "id": "200italic",
-      "woff": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX7KVElMYYaJe8bpLHnCwDKhdTm2Idce_fo.woff",
-      "fontFamily": "'IBM Plex Sans'",
-      "fontStyle": "italic",
-      "fontWeight": "200",
-      "local": [
-        "IBM Plex Sans ExtraLight Italic",
-        "IBMPlexSans-ExtraLightItalic"
-      ],
-      "eot": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX7KVElMYYaJe8bpLHnCwDKhdTm2Idce_fq.eot",
-      "woff2": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX7KVElMYYaJe8bpLHnCwDKhdTm2Idce_fu.woff2",
-      "ttf": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX7KVElMYYaJe8bpLHnCwDKhdTm2Idce_fr.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=zYX7KVElMYYaJe8bpLHnCwDKhdTm2Idce_fp&skey=45385004843bad8d&v=v7#IBMPlexSans",
+      "svg": "https://fonts.gstatic.com/l/font?kit=zYX7KVElMYYaJe8bpLHnCwDKhdTmvIRce_fp&skey=10ce7ca37f789a9c&v=v7#IBMPlexSans",
       "errored": false
     },
     {
@@ -110,24 +110,40 @@
         "IBMPlexSans"
       ],
       "woff2": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYXgKVElMYYaJe8bpLHnCwDKhdzeFQ.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=zYXgKVElMYYaJe8bpLHnCwDKhdzeEg&skey=db4d85f0f9937532&v=v7#IBMPlexSans",
       "ttf": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYXgKVElMYYaJe8bpLHnCwDKhdzeEA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=zYXgKVElMYYaJe8bpLHnCwDKhdzeEg&skey=db4d85f0f9937532&v=v7#IBMPlexSans",
       "errored": false
     },
     {
       "id": "italic",
-      "woff2": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX-KVElMYYaJe8bpLHnCwDKhdTuGqZJ.woff2",
+      "eot": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX-KVElMYYaJe8bpLHnCwDKhdTuGqZN.eot",
       "fontFamily": "'IBM Plex Sans'",
       "fontStyle": "italic",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX-KVElMYYaJe8bpLHnCwDKhdTuGqZP.woff",
       "local": [
         "IBM Plex Sans Italic",
         "IBMPlexSans-Italic"
       ],
-      "eot": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX-KVElMYYaJe8bpLHnCwDKhdTuGqZN.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=zYX-KVElMYYaJe8bpLHnCwDKhdTuGqZO&skey=5c7e10e341e008f&v=v7#IBMPlexSans",
-      "woff": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX-KVElMYYaJe8bpLHnCwDKhdTuGqZP.woff",
+      "woff2": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX-KVElMYYaJe8bpLHnCwDKhdTuGqZJ.woff2",
       "ttf": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX-KVElMYYaJe8bpLHnCwDKhdTuGqZM.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=zYX-KVElMYYaJe8bpLHnCwDKhdTuGqZO&skey=5c7e10e341e008f&v=v7#IBMPlexSans",
+      "errored": false
+    },
+    {
+      "id": "500",
+      "eot": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX9KVElMYYaJe8bpLHnCwDKjSL9AIxscA.eot",
+      "fontFamily": "'IBM Plex Sans'",
+      "fontStyle": "normal",
+      "fontWeight": "500",
+      "woff": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX9KVElMYYaJe8bpLHnCwDKjSL9AIxscg.woff",
+      "local": [
+        "IBM Plex Sans Medium",
+        "IBMPlexSans-Medium"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX9KVElMYYaJe8bpLHnCwDKjSL9AIxsdA.woff2",
+      "ttf": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX9KVElMYYaJe8bpLHnCwDKjSL9AIxscQ.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=zYX9KVElMYYaJe8bpLHnCwDKjSL9AIxscw&skey=c356e056e46b14e5&v=v7#IBMPlexSans",
       "errored": false
     },
     {
@@ -147,38 +163,6 @@
       "errored": false
     },
     {
-      "id": "600",
-      "eot": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX9KVElMYYaJe8bpLHnCwDKjQ76AIxscA.eot",
-      "fontFamily": "'IBM Plex Sans'",
-      "fontStyle": "normal",
-      "fontWeight": "600",
-      "woff": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX9KVElMYYaJe8bpLHnCwDKjQ76AIxscg.woff",
-      "local": [
-        "IBM Plex Sans SemiBold",
-        "IBMPlexSans-SemiBold"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX9KVElMYYaJe8bpLHnCwDKjQ76AIxsdA.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=zYX9KVElMYYaJe8bpLHnCwDKjQ76AIxscw&skey=3e05d0f9c703bd58&v=v7#IBMPlexSans",
-      "ttf": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX9KVElMYYaJe8bpLHnCwDKjQ76AIxscQ.ttf",
-      "errored": false
-    },
-    {
-      "id": "500",
-      "woff": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX9KVElMYYaJe8bpLHnCwDKjSL9AIxscg.woff",
-      "fontFamily": "'IBM Plex Sans'",
-      "fontStyle": "normal",
-      "fontWeight": "500",
-      "local": [
-        "IBM Plex Sans Medium",
-        "IBMPlexSans-Medium"
-      ],
-      "eot": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX9KVElMYYaJe8bpLHnCwDKjSL9AIxscA.eot",
-      "woff2": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX9KVElMYYaJe8bpLHnCwDKjSL9AIxsdA.woff2",
-      "ttf": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX9KVElMYYaJe8bpLHnCwDKjSL9AIxscQ.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=zYX9KVElMYYaJe8bpLHnCwDKjSL9AIxscw&skey=c356e056e46b14e5&v=v7#IBMPlexSans",
-      "errored": false
-    },
-    {
       "id": "600italic",
       "eot": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX7KVElMYYaJe8bpLHnCwDKhdTmyIJce_fq.eot",
       "fontFamily": "'IBM Plex Sans'",
@@ -192,6 +176,22 @@
       "svg": "https://fonts.gstatic.com/l/font?kit=zYX7KVElMYYaJe8bpLHnCwDKhdTmyIJce_fp&skey=b0756a3d9b069e3d&v=v7#IBMPlexSans",
       "woff2": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX7KVElMYYaJe8bpLHnCwDKhdTmyIJce_fu.woff2",
       "ttf": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX7KVElMYYaJe8bpLHnCwDKhdTmyIJce_fr.ttf",
+      "errored": false
+    },
+    {
+      "id": "600",
+      "eot": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX9KVElMYYaJe8bpLHnCwDKjQ76AIxscA.eot",
+      "fontFamily": "'IBM Plex Sans'",
+      "fontStyle": "normal",
+      "fontWeight": "600",
+      "woff2": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX9KVElMYYaJe8bpLHnCwDKjQ76AIxsdA.woff2",
+      "local": [
+        "IBM Plex Sans SemiBold",
+        "IBMPlexSans-SemiBold"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=zYX9KVElMYYaJe8bpLHnCwDKjQ76AIxscw&skey=3e05d0f9c703bd58&v=v7#IBMPlexSans",
+      "ttf": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX9KVElMYYaJe8bpLHnCwDKjQ76AIxscQ.ttf",
+      "woff": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX9KVElMYYaJe8bpLHnCwDKjQ76AIxscg.woff",
       "errored": false
     },
     {
@@ -216,38 +216,38 @@
       "fontFamily": "'IBM Plex Sans'",
       "fontStyle": "italic",
       "fontWeight": "700",
-      "woff2": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX7KVElMYYaJe8bpLHnCwDKhdTmrINce_fu.woff2",
+      "woff": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX7KVElMYYaJe8bpLHnCwDKhdTmrINce_fo.woff",
       "local": [
         "IBM Plex Sans Bold Italic",
         "IBMPlexSans-BoldItalic"
       ],
       "svg": "https://fonts.gstatic.com/l/font?kit=zYX7KVElMYYaJe8bpLHnCwDKhdTmrINce_fp&skey=927fb3c496b40aa8&v=v7#IBMPlexSans",
       "ttf": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX7KVElMYYaJe8bpLHnCwDKhdTmrINce_fr.ttf",
-      "woff": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX7KVElMYYaJe8bpLHnCwDKhdTmrINce_fo.woff",
+      "woff2": "https://fonts.gstatic.com/s/ibmplexsans/v7/zYX7KVElMYYaJe8bpLHnCwDKhdTmrINce_fu.woff2",
       "errored": false
     }
   ],
   "subsets": [
-    "vietnamese",
     "greek",
+    "vietnamese",
     "latin",
-    "latin-ext",
+    "cyrillic-ext",
     "cyrillic",
-    "cyrillic-ext"
+    "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v7",
   "lastModified": "2019-07-17",
-  "popularity": 90,
+  "popularity": 100,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "vietnamese": false,
     "greek": false,
+    "vietnamese": false,
     "latin": true,
-    "latin-ext": false,
+    "cyrillic-ext": true,
     "cyrillic": false,
-    "cyrillic-ext": true
+    "latin-ext": false
   },
   "storeID": "cyrillic-ext_latin"
 }

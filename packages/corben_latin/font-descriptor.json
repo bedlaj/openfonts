@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/corben/v13/LYjDdGzzklQtCMpNpwNA.ttf",
+      "woff2": "https://fonts.gstatic.com/s/corben/v13/LYjDdGzzklQtCMpNpwNF.woff2",
       "fontFamily": "'Corben'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,24 +12,24 @@
         "Corben Regular",
         "Corben-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/corben/v13/LYjDdGzzklQtCMpNpwNB.eot",
       "woff": "https://fonts.gstatic.com/s/corben/v13/LYjDdGzzklQtCMpNpwND.woff",
-      "woff2": "https://fonts.gstatic.com/s/corben/v13/LYjDdGzzklQtCMpNpwNF.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=LYjDdGzzklQtCMpNpwNC&skey=795061005e976bd6&v=v13#Corben",
+      "eot": "https://fonts.gstatic.com/s/corben/v13/LYjDdGzzklQtCMpNpwNB.eot",
+      "ttf": "https://fonts.gstatic.com/s/corben/v13/LYjDdGzzklQtCMpNpwNA.ttf",
       "errored": false
     },
     {
       "id": "700",
-      "woff": "https://fonts.gstatic.com/s/corben/v13/LYjAdGzzklQtCMpFHCZQqnos.woff",
+      "eot": "https://fonts.gstatic.com/s/corben/v13/LYjAdGzzklQtCMpFHCZQqnou.eot",
       "fontFamily": "'Corben'",
       "fontStyle": "normal",
       "fontWeight": "700",
+      "woff2": "https://fonts.gstatic.com/s/corben/v13/LYjAdGzzklQtCMpFHCZQqnoq.woff2",
       "local": [
         "Corben"
       ],
-      "woff2": "https://fonts.gstatic.com/s/corben/v13/LYjAdGzzklQtCMpFHCZQqnoq.woff2",
+      "woff": "https://fonts.gstatic.com/s/corben/v13/LYjAdGzzklQtCMpFHCZQqnos.woff",
       "ttf": "https://fonts.gstatic.com/s/corben/v13/LYjAdGzzklQtCMpFHCZQqnov.ttf",
-      "eot": "https://fonts.gstatic.com/s/corben/v13/LYjAdGzzklQtCMpFHCZQqnou.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=LYjAdGzzklQtCMpFHCZQqnot&skey=f18040a69657653b&v=v13#Corben",
       "errored": false
     }
@@ -41,7 +41,7 @@
   "category": "display",
   "version": "v13",
   "lastModified": "2019-07-16",
-  "popularity": 471,
+  "popularity": 456,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

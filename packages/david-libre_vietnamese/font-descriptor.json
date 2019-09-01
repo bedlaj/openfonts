@@ -4,49 +4,49 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/davidlibre/v4/snfus0W_99N64iuYSvp4W8l04Js.eot",
+      "woff2": "https://fonts.gstatic.com/s/davidlibre/v4/snfus0W_99N64iuYSvp4W8l04J8.woff2",
       "fontFamily": "'David Libre'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/davidlibre/v4/snfus0W_99N64iuYSvp4W8l04Jk.woff",
       "local": [
         "David Libre",
         "DavidLibre-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/davidlibre/v4/snfus0W_99N64iuYSvp4W8l04Jo.ttf",
+      "woff": "https://fonts.gstatic.com/s/davidlibre/v4/snfus0W_99N64iuYSvp4W8l04Jk.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=snfus0W_99N64iuYSvp4W8l04Jg&skey=3edeced652c7f867&v=v4#DavidLibre",
-      "woff2": "https://fonts.gstatic.com/s/davidlibre/v4/snfus0W_99N64iuYSvp4W8l04J8.woff2",
+      "eot": "https://fonts.gstatic.com/s/davidlibre/v4/snfus0W_99N64iuYSvp4W8l04Js.eot",
+      "ttf": "https://fonts.gstatic.com/s/davidlibre/v4/snfus0W_99N64iuYSvp4W8l04Jo.ttf",
       "errored": false
     },
     {
       "id": "700",
-      "woff2": "https://fonts.gstatic.com/s/davidlibre/v4/snfzs0W_99N64iuYSvp4W8HAxYqTQDI.woff2",
+      "eot": "https://fonts.gstatic.com/s/davidlibre/v4/snfzs0W_99N64iuYSvp4W8HAxYqTQDY.eot",
       "fontFamily": "'David Libre'",
       "fontStyle": "normal",
       "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/davidlibre/v4/snfzs0W_99N64iuYSvp4W8HAxYqTQDQ.woff",
       "local": [
         "David Libre Bold",
         "DavidLibre-Bold"
       ],
-      "woff": "https://fonts.gstatic.com/s/davidlibre/v4/snfzs0W_99N64iuYSvp4W8HAxYqTQDQ.woff",
-      "eot": "https://fonts.gstatic.com/s/davidlibre/v4/snfzs0W_99N64iuYSvp4W8HAxYqTQDY.eot",
-      "ttf": "https://fonts.gstatic.com/s/davidlibre/v4/snfzs0W_99N64iuYSvp4W8HAxYqTQDc.ttf",
+      "woff2": "https://fonts.gstatic.com/s/davidlibre/v4/snfzs0W_99N64iuYSvp4W8HAxYqTQDI.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=snfzs0W_99N64iuYSvp4W8HAxYqTQDU&skey=d1ee03efca576c07&v=v4#DavidLibre",
+      "ttf": "https://fonts.gstatic.com/s/davidlibre/v4/snfzs0W_99N64iuYSvp4W8HAxYqTQDc.ttf",
       "errored": false
     },
     {
       "id": "500",
-      "woff2": "https://fonts.gstatic.com/s/davidlibre/v4/snfzs0W_99N64iuYSvp4W8GIw4qTQDI.woff2",
+      "eot": "https://fonts.gstatic.com/s/davidlibre/v4/snfzs0W_99N64iuYSvp4W8GIw4qTQDY.eot",
       "fontFamily": "'David Libre'",
       "fontStyle": "normal",
       "fontWeight": "500",
+      "svg": "https://fonts.gstatic.com/l/font?kit=snfzs0W_99N64iuYSvp4W8GIw4qTQDU&skey=68ec32da19b248d3&v=v4#DavidLibre",
       "local": [
         "David Libre Medium",
         "DavidLibre-Medium"
       ],
-      "eot": "https://fonts.gstatic.com/s/davidlibre/v4/snfzs0W_99N64iuYSvp4W8GIw4qTQDY.eot",
       "ttf": "https://fonts.gstatic.com/s/davidlibre/v4/snfzs0W_99N64iuYSvp4W8GIw4qTQDc.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=snfzs0W_99N64iuYSvp4W8GIw4qTQDU&skey=68ec32da19b248d3&v=v4#DavidLibre",
+      "woff2": "https://fonts.gstatic.com/s/davidlibre/v4/snfzs0W_99N64iuYSvp4W8GIw4qTQDI.woff2",
       "woff": "https://fonts.gstatic.com/s/davidlibre/v4/snfzs0W_99N64iuYSvp4W8GIw4qTQDQ.woff",
       "errored": false
     }
@@ -60,7 +60,7 @@
   "category": "serif",
   "version": "v4",
   "lastModified": "2019-07-16",
-  "popularity": 479,
+  "popularity": 412,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

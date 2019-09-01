@@ -8,30 +8,30 @@
       "fontFamily": "'Eczar'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/eczar/v8/BXRlvF3Pi-DLmw0h.woff",
+      "woff2": "https://fonts.gstatic.com/s/eczar/v8/BXRlvF3Pi-DLmw0n.woff2",
       "local": [
         "Eczar Regular",
         "Eczar-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/eczar/v8/BXRlvF3Pi-DLmw0i.ttf",
-      "woff2": "https://fonts.gstatic.com/s/eczar/v8/BXRlvF3Pi-DLmw0n.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=BXRlvF3Pi-DLmw0g&skey=e662b8acd8ea58a8&v=v8#Eczar",
+      "woff": "https://fonts.gstatic.com/s/eczar/v8/BXRlvF3Pi-DLmw0h.woff",
+      "ttf": "https://fonts.gstatic.com/s/eczar/v8/BXRlvF3Pi-DLmw0i.ttf",
       "errored": false
     },
     {
       "id": "500",
-      "eot": "https://fonts.gstatic.com/s/eczar/v8/BXRovF3Pi-DLmzXWL8t7.eot",
+      "ttf": "https://fonts.gstatic.com/s/eczar/v8/BXRovF3Pi-DLmzXWL8t6.ttf",
       "fontFamily": "'Eczar'",
       "fontStyle": "normal",
       "fontWeight": "500",
-      "woff": "https://fonts.gstatic.com/s/eczar/v8/BXRovF3Pi-DLmzXWL8t5.woff",
       "local": [
         "Eczar Medium",
         "Eczar-Medium"
       ],
-      "woff2": "https://fonts.gstatic.com/s/eczar/v8/BXRovF3Pi-DLmzXWL8t_.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=BXRovF3Pi-DLmzXWL8t4&skey=356dc694caaa910b&v=v8#Eczar",
-      "ttf": "https://fonts.gstatic.com/s/eczar/v8/BXRovF3Pi-DLmzXWL8t6.ttf",
+      "eot": "https://fonts.gstatic.com/s/eczar/v8/BXRovF3Pi-DLmzXWL8t7.eot",
+      "woff2": "https://fonts.gstatic.com/s/eczar/v8/BXRovF3Pi-DLmzXWL8t_.woff2",
+      "woff": "https://fonts.gstatic.com/s/eczar/v8/BXRovF3Pi-DLmzXWL8t5.woff",
       "errored": false
     },
     {
@@ -61,43 +61,43 @@
         "Eczar Bold",
         "Eczar-Bold"
       ],
-      "woff": "https://fonts.gstatic.com/s/eczar/v8/BXRovF3Pi-DLmzWeKct5.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=BXRovF3Pi-DLmzWeKct4&skey=7a68eb23c6f33dd7&v=v8#Eczar",
+      "woff": "https://fonts.gstatic.com/s/eczar/v8/BXRovF3Pi-DLmzWeKct5.woff",
       "ttf": "https://fonts.gstatic.com/s/eczar/v8/BXRovF3Pi-DLmzWeKct6.ttf",
       "errored": false
     },
     {
       "id": "800",
-      "eot": "https://fonts.gstatic.com/s/eczar/v8/BXRovF3Pi-DLmzWCKst7.eot",
+      "woff2": "https://fonts.gstatic.com/s/eczar/v8/BXRovF3Pi-DLmzWCKst_.woff2",
       "fontFamily": "'Eczar'",
       "fontStyle": "normal",
       "fontWeight": "800",
-      "woff": "https://fonts.gstatic.com/s/eczar/v8/BXRovF3Pi-DLmzWCKst5.woff",
       "local": [
         "Eczar ExtraBold",
         "Eczar-ExtraBold"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=BXRovF3Pi-DLmzWCKst4&skey=6d5ff4184da608fc&v=v8#Eczar",
-      "woff2": "https://fonts.gstatic.com/s/eczar/v8/BXRovF3Pi-DLmzWCKst_.woff2",
       "ttf": "https://fonts.gstatic.com/s/eczar/v8/BXRovF3Pi-DLmzWCKst6.ttf",
+      "woff": "https://fonts.gstatic.com/s/eczar/v8/BXRovF3Pi-DLmzWCKst5.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=BXRovF3Pi-DLmzWCKst4&skey=6d5ff4184da608fc&v=v8#Eczar",
+      "eot": "https://fonts.gstatic.com/s/eczar/v8/BXRovF3Pi-DLmzWCKst7.eot",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
     "devanagari",
+    "latin",
     "latin-ext"
   ],
   "category": "serif",
   "version": "v8",
   "lastModified": "2019-07-16",
-  "popularity": 409,
+  "popularity": 403,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
     "devanagari": true,
+    "latin": true,
     "latin-ext": true
   },
-  "storeID": "latin-ext_devanagari_latin"
+  "storeID": "latin-ext_latin_devanagari"
 }

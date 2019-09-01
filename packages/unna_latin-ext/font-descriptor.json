@@ -12,26 +12,10 @@
         "Unna Regular",
         "Unna-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/unna/v13/AYCEpXzofN0NOpELlQ.woff2",
       "eot": "https://fonts.gstatic.com/s/unna/v13/AYCEpXzofN0NOpELkQ.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=AYCEpXzofN0NOpELkg&skey=4c3f7261c89835bf&v=v13#Unna",
+      "woff2": "https://fonts.gstatic.com/s/unna/v13/AYCEpXzofN0NOpELlQ.woff2",
       "ttf": "https://fonts.gstatic.com/s/unna/v13/AYCEpXzofN0NOpELkA.ttf",
-      "errored": false
-    },
-    {
-      "id": "italic",
-      "eot": "https://fonts.gstatic.com/s/unna/v13/AYCKpXzofN0NOpo7mUnC.eot",
-      "fontFamily": "'Unna'",
-      "fontStyle": "italic",
-      "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/unna/v13/AYCKpXzofN0NOpo7mUnA.woff",
-      "local": [
-        "Unna Italic",
-        "Unna-Italic"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=AYCKpXzofN0NOpo7mUnB&skey=13632e61d3fe2940&v=v13#Unna",
-      "ttf": "https://fonts.gstatic.com/s/unna/v13/AYCKpXzofN0NOpo7mUnD.ttf",
-      "woff2": "https://fonts.gstatic.com/s/unna/v13/AYCKpXzofN0NOpo7mUnG.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=AYCEpXzofN0NOpELkg&skey=4c3f7261c89835bf&v=v13#Unna",
       "errored": false
     },
     {
@@ -45,25 +29,41 @@
         "Unna Bold",
         "Unna-Bold"
       ],
+      "ttf": "https://fonts.gstatic.com/s/unna/v13/AYCLpXzofN0NMiQugGDjQA.ttf",
       "woff2": "https://fonts.gstatic.com/s/unna/v13/AYCLpXzofN0NMiQugGDjRQ.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=AYCLpXzofN0NMiQugGDjQg&skey=d1cba694e6c25c94&v=v13#Unna",
-      "ttf": "https://fonts.gstatic.com/s/unna/v13/AYCLpXzofN0NMiQugGDjQA.ttf",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "woff": "https://fonts.gstatic.com/s/unna/v13/AYCKpXzofN0NOpo7mUnA.woff",
+      "fontFamily": "'Unna'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "local": [
+        "Unna Italic",
+        "Unna-Italic"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=AYCKpXzofN0NOpo7mUnB&skey=13632e61d3fe2940&v=v13#Unna",
+      "woff2": "https://fonts.gstatic.com/s/unna/v13/AYCKpXzofN0NOpo7mUnG.woff2",
+      "eot": "https://fonts.gstatic.com/s/unna/v13/AYCKpXzofN0NOpo7mUnC.eot",
+      "ttf": "https://fonts.gstatic.com/s/unna/v13/AYCKpXzofN0NOpo7mUnD.ttf",
       "errored": false
     },
     {
       "id": "700italic",
-      "eot": "https://fonts.gstatic.com/s/unna/v13/AYCJpXzofN0NOpozLGzTSXJr.eot",
+      "woff": "https://fonts.gstatic.com/s/unna/v13/AYCJpXzofN0NOpozLGzTSXJp.woff",
       "fontFamily": "'Unna'",
       "fontStyle": "italic",
       "fontWeight": "700",
-      "woff2": "https://fonts.gstatic.com/s/unna/v13/AYCJpXzofN0NOpozLGzTSXJv.woff2",
       "local": [
         "Unna Bold Italic",
         "Unna-BoldItalic"
       ],
-      "woff": "https://fonts.gstatic.com/s/unna/v13/AYCJpXzofN0NOpozLGzTSXJp.woff",
+      "woff2": "https://fonts.gstatic.com/s/unna/v13/AYCJpXzofN0NOpozLGzTSXJv.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=AYCJpXzofN0NOpozLGzTSXJo&skey=2a0d54bc708d9e1e&v=v13#Unna",
       "ttf": "https://fonts.gstatic.com/s/unna/v13/AYCJpXzofN0NOpozLGzTSXJq.ttf",
+      "eot": "https://fonts.gstatic.com/s/unna/v13/AYCJpXzofN0NOpozLGzTSXJr.eot",
       "errored": false
     }
   ],
@@ -74,7 +74,7 @@
   "category": "serif",
   "version": "v13",
   "lastModified": "2019-07-16",
-  "popularity": 248,
+  "popularity": 254,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

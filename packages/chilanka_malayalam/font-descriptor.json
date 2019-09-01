@@ -8,30 +8,30 @@
       "fontFamily": "'Chilanka'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "svg": "https://fonts.gstatic.com/l/font?kit=WWXRlj2DZQiMJYaYRoJPKdc&skey=959ced8e02f09fab&v=v5#Chilanka",
+      "woff": "https://fonts.gstatic.com/s/chilanka/v5/WWXRlj2DZQiMJYaYRoJPKdY.woff",
       "local": [
         "Chilanka Regular",
         "Chilanka-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/chilanka/v5/WWXRlj2DZQiMJYaYRoJPKdY.woff",
       "woff2": "https://fonts.gstatic.com/s/chilanka/v5/WWXRlj2DZQiMJYaYRoJPKdA.woff2",
       "ttf": "https://fonts.gstatic.com/s/chilanka/v5/WWXRlj2DZQiMJYaYRoJPKdU.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=WWXRlj2DZQiMJYaYRoJPKdc&skey=959ced8e02f09fab&v=v5#Chilanka",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
-    "malayalam"
+    "malayalam",
+    "latin"
   ],
   "category": "handwriting",
   "version": "v5",
   "lastModified": "2019-08-22",
-  "popularity": 941,
+  "popularity": 938,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
-    "malayalam": true
+    "malayalam": true,
+    "latin": true
   },
-  "storeID": "malayalam_latin"
+  "storeID": "latin_malayalam"
 }

@@ -12,10 +12,10 @@
         "Vesper Libre",
         "VesperLibre-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/vesperlibre/v11/bx6CNxyWnf-uxPdXDHUD_RdICUWI.eot",
       "ttf": "https://fonts.gstatic.com/s/vesperlibre/v11/bx6CNxyWnf-uxPdXDHUD_RdICUWJ.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=bx6CNxyWnf-uxPdXDHUD_RdICUWL&skey=9f628b6f0c7fc0ca&v=v11#VesperLibre",
       "woff2": "https://fonts.gstatic.com/s/vesperlibre/v11/bx6CNxyWnf-uxPdXDHUD_RdICUWM.woff2",
+      "eot": "https://fonts.gstatic.com/s/vesperlibre/v11/bx6CNxyWnf-uxPdXDHUD_RdICUWI.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=bx6CNxyWnf-uxPdXDHUD_RdICUWL&skey=9f628b6f0c7fc0ca&v=v11#VesperLibre",
       "errored": false
     },
     {
@@ -29,25 +29,9 @@
         "Vesper Libre Bold",
         "VesperLibre-Bold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/vesperlibre/v11/bx6dNxyWnf-uxPdXDHUD_RdAs2CZ1IML.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=bx6dNxyWnf-uxPdXDHUD_RdAs2CZ1IMM&skey=949a5cf42e4608de&v=v11#VesperLibre",
       "ttf": "https://fonts.gstatic.com/s/vesperlibre/v11/bx6dNxyWnf-uxPdXDHUD_RdAs2CZ1IMO.ttf",
-      "errored": false
-    },
-    {
-      "id": "500",
-      "svg": "https://fonts.gstatic.com/l/font?kit=bx6dNxyWnf-uxPdXDHUD_RdA-2aZ1IMM&skey=f6552063498231b&v=v11#VesperLibre",
-      "fontFamily": "'Vesper Libre'",
-      "fontStyle": "normal",
-      "fontWeight": "500",
-      "local": [
-        "Vesper Libre Medium",
-        "VesperLibre-Medium"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/vesperlibre/v11/bx6dNxyWnf-uxPdXDHUD_RdA-2aZ1IML.woff2",
-      "woff": "https://fonts.gstatic.com/s/vesperlibre/v11/bx6dNxyWnf-uxPdXDHUD_RdA-2aZ1IMN.woff",
-      "ttf": "https://fonts.gstatic.com/s/vesperlibre/v11/bx6dNxyWnf-uxPdXDHUD_RdA-2aZ1IMO.ttf",
-      "eot": "https://fonts.gstatic.com/s/vesperlibre/v11/bx6dNxyWnf-uxPdXDHUD_RdA-2aZ1IMP.eot",
+      "woff2": "https://fonts.gstatic.com/s/vesperlibre/v11/bx6dNxyWnf-uxPdXDHUD_RdAs2CZ1IML.woff2",
       "errored": false
     },
     {
@@ -61,27 +45,43 @@
         "Vesper Libre Heavy",
         "VesperLibre-Heavy"
       ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=bx6dNxyWnf-uxPdXDHUD_RdAi2KZ1IMM&skey=91c6c6ed307f7ed1&v=v11#VesperLibre",
       "woff2": "https://fonts.gstatic.com/s/vesperlibre/v11/bx6dNxyWnf-uxPdXDHUD_RdAi2KZ1IML.woff2",
       "ttf": "https://fonts.gstatic.com/s/vesperlibre/v11/bx6dNxyWnf-uxPdXDHUD_RdAi2KZ1IMO.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=bx6dNxyWnf-uxPdXDHUD_RdAi2KZ1IMM&skey=91c6c6ed307f7ed1&v=v11#VesperLibre",
+      "errored": false
+    },
+    {
+      "id": "500",
+      "eot": "https://fonts.gstatic.com/s/vesperlibre/v11/bx6dNxyWnf-uxPdXDHUD_RdA-2aZ1IMP.eot",
+      "fontFamily": "'Vesper Libre'",
+      "fontStyle": "normal",
+      "fontWeight": "500",
+      "woff": "https://fonts.gstatic.com/s/vesperlibre/v11/bx6dNxyWnf-uxPdXDHUD_RdA-2aZ1IMN.woff",
+      "local": [
+        "Vesper Libre Medium",
+        "VesperLibre-Medium"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/vesperlibre/v11/bx6dNxyWnf-uxPdXDHUD_RdA-2aZ1IMO.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=bx6dNxyWnf-uxPdXDHUD_RdA-2aZ1IMM&skey=f6552063498231b&v=v11#VesperLibre",
+      "woff2": "https://fonts.gstatic.com/s/vesperlibre/v11/bx6dNxyWnf-uxPdXDHUD_RdA-2aZ1IML.woff2",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
     "devanagari",
+    "latin",
     "latin-ext"
   ],
   "category": "serif",
   "version": "v11",
   "lastModified": "2019-07-16",
-  "popularity": 442,
+  "popularity": 436,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
     "devanagari": true,
+    "latin": true,
     "latin-ext": false
   },
-  "storeID": "devanagari_latin"
+  "storeID": "latin_devanagari"
 }
