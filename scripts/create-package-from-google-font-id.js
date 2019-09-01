@@ -104,9 +104,22 @@ subsets.forEach(subset => {
             )
         },
         (err, results) => {
+            // If a hash file already exists, check if anything has changed.
+            let changed = true
+            if (fs.existsSync(`${typefaceDir}/files-last-modified.json`)) {
+                const filesLastModifiedJson = JSON.parse(
+                    fs.readFileSync(`${typefaceDir}/files-last-modified.json`, `utf-8`)
+                )
+                changed = filesLastModifiedJson.lastModified !== subset[1].lastModified
+            }
+
             fs.writeFileSync(
-                `${typefaceDir}/font-descriptor.json`,
-                JSON.stringify(subset[1], null, 2)
+                `${typefaceDir}/files-last-modified.json`,
+                JSON.stringify({
+                    storeID: subset[1].storeID,
+                    lastModified: subset[1].lastModified,
+                    version: subset[1].version
+                })
             )
 
             // Write out the README.md
@@ -119,14 +132,21 @@ subsets.forEach(subset => {
 
             fs.writeFileSync(`${typefaceDir}/README.md`, packageReadme)
 
-            // Write out package.json file
-            const packageJSON = packageJson({
-                typefaceId: defSubsetTypeface.id,
-                typefaceSubset: subset[0],
-                typefaceName: defSubsetTypeface.family,
-            })
+            if (changed) {
+                // Write out package.json file
+                const packageJSON = packageJson({
+                    typefaceId: defSubsetTypeface.id,
+                    typefaceSubset: subset[0],
+                    typefaceName: defSubsetTypeface.family,
+                })
 
-            fs.writeFileSync(`${typefaceDir}/package.json`, packageJSON)
+                fs.writeFileSync(`${typefaceDir}/package.json`, packageJSON)
+
+                fs.writeFileSync(
+                    `${typefaceDir}/font-descriptor.json`,
+                    JSON.stringify(subset[1], null, 2)
+                )
+            }
 
             // Write out index.css file
             const variants = _.sortBy(subset[1].variants, item => {
@@ -139,10 +159,6 @@ subsets.forEach(subset => {
             const css = variants.map(item => {
                 if (item.errored) {
                     return false
-                }
-                let style = ""
-                if (item.fontStyle !== `normal`) {
-                    style = item.fontStyle
                 }
                 return fontFace({
                     typefaceId: defSubsetTypeface.id,
@@ -163,5 +179,3 @@ subsets.forEach(subset => {
         }
     )
 })
-
-
