@@ -116,7 +116,6 @@ subsets.forEach(subset => {
             fs.writeFileSync(
                 `${typefaceDir}/files-last-modified.json`,
                 JSON.stringify({
-                    storeID: subset[1].storeID,
                     lastModified: subset[1].lastModified,
                     version: subset[1].version
                 })
