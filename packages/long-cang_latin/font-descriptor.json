@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/longcang/v5/LYjAdGP8kkgoTec8zkRQqnos.woff",
+      "woff2": "https://fonts.gstatic.com/s/longcang/v5/LYjAdGP8kkgoTec8zkRQqnoq.woff2",
       "fontFamily": "'Long Cang'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -13,9 +13,9 @@
         "LongCang-Regular"
       ],
       "eot": "https://fonts.gstatic.com/s/longcang/v5/LYjAdGP8kkgoTec8zkRQqnou.eot",
-      "ttf": "https://fonts.gstatic.com/s/longcang/v5/LYjAdGP8kkgoTec8zkRQqnov.ttf",
-      "woff2": "https://fonts.gstatic.com/s/longcang/v5/LYjAdGP8kkgoTec8zkRQqnoq.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=LYjAdGP8kkgoTec8zkRQqnot&skey=429db178d90bd0ed&v=v5#LongCang",
+      "ttf": "https://fonts.gstatic.com/s/longcang/v5/LYjAdGP8kkgoTec8zkRQqnov.ttf",
+      "woff": "https://fonts.gstatic.com/s/longcang/v5/LYjAdGP8kkgoTec8zkRQqnos.woff",
       "errored": false
     }
   ],
@@ -25,8 +25,8 @@
   ],
   "category": "handwriting",
   "version": "v5",
-  "lastModified": "2019-07-26",
-  "popularity": 950,
+  "lastModified": "2019-07-25",
+  "popularity": 949,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

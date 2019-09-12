@@ -4,23 +4,39 @@
   "variants": [
     {
       "id": "100",
-      "eot": "https://fonts.gstatic.com/s/blinker/v1/cIf_MaFatEE-VTaP_E2RbUEH.eot",
+      "woff": "https://fonts.gstatic.com/s/blinker/v1/cIf_MaFatEE-VTaP_E2RbUEF.woff",
       "fontFamily": "'Blinker'",
       "fontStyle": "normal",
       "fontWeight": "100",
-      "woff": "https://fonts.gstatic.com/s/blinker/v1/cIf_MaFatEE-VTaP_E2RbUEF.woff",
       "local": [
         "Blinker Thin",
         "Blinker-Thin"
       ],
       "woff2": "https://fonts.gstatic.com/s/blinker/v1/cIf_MaFatEE-VTaP_E2RbUED.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=cIf_MaFatEE-VTaP_E2RbUEE&skey=25e2450e3e689045&v=v1#Blinker",
+      "eot": "https://fonts.gstatic.com/s/blinker/v1/cIf_MaFatEE-VTaP_E2RbUEH.eot",
       "ttf": "https://fonts.gstatic.com/s/blinker/v1/cIf_MaFatEE-VTaP_E2RbUEG.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=cIf_MaFatEE-VTaP_E2RbUEE&skey=25e2450e3e689045&v=v1#Blinker",
+      "errored": false
+    },
+    {
+      "id": "300",
+      "eot": "https://fonts.gstatic.com/s/blinker/v1/cIf4MaFatEE-VTaP_IWDdGgmmQ.eot",
+      "fontFamily": "'Blinker'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "woff": "https://fonts.gstatic.com/s/blinker/v1/cIf4MaFatEE-VTaP_IWDdGgmmw.woff",
+      "local": [
+        "Blinker ExtraLight",
+        "Blinker-ExtraLight"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=cIf4MaFatEE-VTaP_IWDdGgmmg&skey=463c2956c842991f&v=v1#Blinker",
+      "ttf": "https://fonts.gstatic.com/s/blinker/v1/cIf4MaFatEE-VTaP_IWDdGgmmA.ttf",
+      "woff2": "https://fonts.gstatic.com/s/blinker/v1/cIf4MaFatEE-VTaP_IWDdGgmnQ.woff2",
       "errored": false
     },
     {
       "id": "200",
-      "woff": "https://fonts.gstatic.com/s/blinker/v1/cIf4MaFatEE-VTaP_OGAdGgmmw.woff",
+      "ttf": "https://fonts.gstatic.com/s/blinker/v1/cIf4MaFatEE-VTaP_OGAdGgmmA.ttf",
       "fontFamily": "'Blinker'",
       "fontStyle": "normal",
       "fontWeight": "200",
@@ -28,9 +44,9 @@
         "Blinker ExtraLight",
         "Blinker-ExtraLight"
       ],
-      "eot": "https://fonts.gstatic.com/s/blinker/v1/cIf4MaFatEE-VTaP_OGAdGgmmQ.eot",
+      "woff": "https://fonts.gstatic.com/s/blinker/v1/cIf4MaFatEE-VTaP_OGAdGgmmw.woff",
       "woff2": "https://fonts.gstatic.com/s/blinker/v1/cIf4MaFatEE-VTaP_OGAdGgmnQ.woff2",
-      "ttf": "https://fonts.gstatic.com/s/blinker/v1/cIf4MaFatEE-VTaP_OGAdGgmmA.ttf",
+      "eot": "https://fonts.gstatic.com/s/blinker/v1/cIf4MaFatEE-VTaP_OGAdGgmmQ.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=cIf4MaFatEE-VTaP_OGAdGgmmg&skey=33b501c23802f988&v=v1#Blinker",
       "errored": false
     },
@@ -67,19 +83,19 @@
       "errored": false
     },
     {
-      "id": "300",
-      "eot": "https://fonts.gstatic.com/s/blinker/v1/cIf4MaFatEE-VTaP_IWDdGgmmQ.eot",
+      "id": "800",
+      "eot": "https://fonts.gstatic.com/s/blinker/v1/cIf4MaFatEE-VTaP_ImHdGgmmQ.eot",
       "fontFamily": "'Blinker'",
       "fontStyle": "normal",
-      "fontWeight": "300",
-      "woff": "https://fonts.gstatic.com/s/blinker/v1/cIf4MaFatEE-VTaP_IWDdGgmmw.woff",
+      "fontWeight": "800",
+      "woff": "https://fonts.gstatic.com/s/blinker/v1/cIf4MaFatEE-VTaP_ImHdGgmmw.woff",
       "local": [
-        "Blinker ExtraLight",
-        "Blinker-ExtraLight"
+        "Blinker ExtraBold",
+        "Blinker-ExtraBold"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=cIf4MaFatEE-VTaP_IWDdGgmmg&skey=463c2956c842991f&v=v1#Blinker",
-      "ttf": "https://fonts.gstatic.com/s/blinker/v1/cIf4MaFatEE-VTaP_IWDdGgmmA.ttf",
-      "woff2": "https://fonts.gstatic.com/s/blinker/v1/cIf4MaFatEE-VTaP_IWDdGgmnQ.woff2",
+      "woff2": "https://fonts.gstatic.com/s/blinker/v1/cIf4MaFatEE-VTaP_ImHdGgmnQ.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=cIf4MaFatEE-VTaP_ImHdGgmmg&skey=438a76dd12460916&v=v1#Blinker",
+      "ttf": "https://fonts.gstatic.com/s/blinker/v1/cIf4MaFatEE-VTaP_ImHdGgmmA.ttf",
       "errored": false
     },
     {
@@ -88,30 +104,14 @@
       "fontFamily": "'Blinker'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/blinker/v1/cIf4MaFatEE-VTaP_JWEdGgmmw.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=cIf4MaFatEE-VTaP_JWEdGgmmg&skey=45911bc21ecf2420&v=v1#Blinker",
       "local": [
         "Blinker Bold",
         "Blinker-Bold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/blinker/v1/cIf4MaFatEE-VTaP_JWEdGgmnQ.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=cIf4MaFatEE-VTaP_JWEdGgmmg&skey=45911bc21ecf2420&v=v1#Blinker",
       "ttf": "https://fonts.gstatic.com/s/blinker/v1/cIf4MaFatEE-VTaP_JWEdGgmmA.ttf",
-      "errored": false
-    },
-    {
-      "id": "800",
-      "eot": "https://fonts.gstatic.com/s/blinker/v1/cIf4MaFatEE-VTaP_ImHdGgmmQ.eot",
-      "fontFamily": "'Blinker'",
-      "fontStyle": "normal",
-      "fontWeight": "800",
-      "woff2": "https://fonts.gstatic.com/s/blinker/v1/cIf4MaFatEE-VTaP_ImHdGgmnQ.woff2",
-      "local": [
-        "Blinker ExtraBold",
-        "Blinker-ExtraBold"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=cIf4MaFatEE-VTaP_ImHdGgmmg&skey=438a76dd12460916&v=v1#Blinker",
-      "ttf": "https://fonts.gstatic.com/s/blinker/v1/cIf4MaFatEE-VTaP_ImHdGgmmA.ttf",
-      "woff": "https://fonts.gstatic.com/s/blinker/v1/cIf4MaFatEE-VTaP_ImHdGgmmw.woff",
+      "woff2": "https://fonts.gstatic.com/s/blinker/v1/cIf4MaFatEE-VTaP_JWEdGgmnQ.woff2",
+      "woff": "https://fonts.gstatic.com/s/blinker/v1/cIf4MaFatEE-VTaP_JWEdGgmmw.woff",
       "errored": false
     },
     {
@@ -120,30 +120,30 @@
       "fontFamily": "'Blinker'",
       "fontStyle": "normal",
       "fontWeight": "900",
-      "woff": "https://fonts.gstatic.com/s/blinker/v1/cIf4MaFatEE-VTaP_K2GdGgmmw.woff",
+      "woff2": "https://fonts.gstatic.com/s/blinker/v1/cIf4MaFatEE-VTaP_K2GdGgmnQ.woff2",
       "local": [
         "Blinker Black",
         "Blinker-Black"
       ],
-      "woff2": "https://fonts.gstatic.com/s/blinker/v1/cIf4MaFatEE-VTaP_K2GdGgmnQ.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=cIf4MaFatEE-VTaP_K2GdGgmmg&skey=763562ad3ef21a92&v=v1#Blinker",
+      "woff": "https://fonts.gstatic.com/s/blinker/v1/cIf4MaFatEE-VTaP_K2GdGgmmw.woff",
       "ttf": "https://fonts.gstatic.com/s/blinker/v1/cIf4MaFatEE-VTaP_K2GdGgmmA.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
-    "latin-ext"
+    "latin-ext",
+    "latin"
   ],
   "category": "sans-serif",
   "version": "v1",
-  "lastModified": "2019-07-26",
-  "popularity": 805,
+  "lastModified": "2019-07-25",
+  "popularity": 755,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
-    "latin-ext": true
+    "latin-ext": true,
+    "latin": true
   },
-  "storeID": "latin-ext_latin"
+  "storeID": "latin_latin-ext"
 }

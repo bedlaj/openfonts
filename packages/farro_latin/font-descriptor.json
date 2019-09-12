@@ -4,18 +4,34 @@
   "variants": [
     {
       "id": "300",
-      "woff": "https://fonts.gstatic.com/s/farro/v1/i7dJIFl3byGNHa3hNK65UEU.woff",
+      "eot": "https://fonts.gstatic.com/s/farro/v1/i7dJIFl3byGNHa3hNK65UEc.eot",
       "fontFamily": "'Farro'",
       "fontStyle": "normal",
       "fontWeight": "300",
+      "woff2": "https://fonts.gstatic.com/s/farro/v1/i7dJIFl3byGNHa3hNK65UEM.woff2",
       "local": [
         "Farro Light",
         "Farro-Light"
       ],
-      "eot": "https://fonts.gstatic.com/s/farro/v1/i7dJIFl3byGNHa3hNK65UEc.eot",
+      "woff": "https://fonts.gstatic.com/s/farro/v1/i7dJIFl3byGNHa3hNK65UEU.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=i7dJIFl3byGNHa3hNK65UEQ&skey=4b4fc19131c9938f&v=v1#Farro",
       "ttf": "https://fonts.gstatic.com/s/farro/v1/i7dJIFl3byGNHa3hNK65UEY.ttf",
-      "woff2": "https://fonts.gstatic.com/s/farro/v1/i7dJIFl3byGNHa3hNK65UEM.woff2",
+      "errored": false
+    },
+    {
+      "id": "500",
+      "eot": "https://fonts.gstatic.com/s/farro/v1/i7dJIFl3byGNHa25Na65UEc.eot",
+      "fontFamily": "'Farro'",
+      "fontStyle": "normal",
+      "fontWeight": "500",
+      "woff": "https://fonts.gstatic.com/s/farro/v1/i7dJIFl3byGNHa25Na65UEU.woff",
+      "local": [
+        "Farro Medium",
+        "Farro-Medium"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/farro/v1/i7dJIFl3byGNHa25Na65UEM.woff2",
+      "ttf": "https://fonts.gstatic.com/s/farro/v1/i7dJIFl3byGNHa25Na65UEY.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=i7dJIFl3byGNHa25Na65UEQ&skey=13c8c06d5847a9c0&v=v1#Farro",
       "errored": false
     },
     {
@@ -28,58 +44,42 @@
         "Farro Regular",
         "Farro-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/farro/v1/i7dEIFl3byGNHaVKFrs.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=i7dEIFl3byGNHaVKFrw&skey=98da50ce7a7cf748&v=v1#Farro",
+      "woff2": "https://fonts.gstatic.com/s/farro/v1/i7dEIFl3byGNHaVKFrs.woff2",
       "ttf": "https://fonts.gstatic.com/s/farro/v1/i7dEIFl3byGNHaVKFr4.ttf",
       "eot": "https://fonts.gstatic.com/s/farro/v1/i7dEIFl3byGNHaVKFr8.eot",
       "errored": false
     },
     {
-      "id": "500",
-      "woff": "https://fonts.gstatic.com/s/farro/v1/i7dJIFl3byGNHa25Na65UEU.woff",
-      "fontFamily": "'Farro'",
-      "fontStyle": "normal",
-      "fontWeight": "500",
-      "local": [
-        "Farro Medium",
-        "Farro-Medium"
-      ],
-      "eot": "https://fonts.gstatic.com/s/farro/v1/i7dJIFl3byGNHa25Na65UEc.eot",
-      "woff2": "https://fonts.gstatic.com/s/farro/v1/i7dJIFl3byGNHa25Na65UEM.woff2",
-      "ttf": "https://fonts.gstatic.com/s/farro/v1/i7dJIFl3byGNHa25Na65UEY.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=i7dJIFl3byGNHa25Na65UEQ&skey=13c8c06d5847a9c0&v=v1#Farro",
-      "errored": false
-    },
-    {
       "id": "700",
-      "woff": "https://fonts.gstatic.com/s/farro/v1/i7dJIFl3byGNHa3xM665UEU.woff",
+      "eot": "https://fonts.gstatic.com/s/farro/v1/i7dJIFl3byGNHa3xM665UEc.eot",
       "fontFamily": "'Farro'",
       "fontStyle": "normal",
       "fontWeight": "700",
+      "woff2": "https://fonts.gstatic.com/s/farro/v1/i7dJIFl3byGNHa3xM665UEM.woff2",
       "local": [
         "Farro Bold",
         "Farro-Bold"
       ],
-      "eot": "https://fonts.gstatic.com/s/farro/v1/i7dJIFl3byGNHa3xM665UEc.eot",
-      "woff2": "https://fonts.gstatic.com/s/farro/v1/i7dJIFl3byGNHa3xM665UEM.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=i7dJIFl3byGNHa3xM665UEQ&skey=b5aceea5ac1149e6&v=v1#Farro",
       "ttf": "https://fonts.gstatic.com/s/farro/v1/i7dJIFl3byGNHa3xM665UEY.ttf",
+      "woff": "https://fonts.gstatic.com/s/farro/v1/i7dJIFl3byGNHa3xM665UEU.woff",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
-    "latin-ext"
+    "latin-ext",
+    "latin"
   ],
   "category": "sans-serif",
   "version": "v1",
-  "lastModified": "2019-07-26",
-  "popularity": 928,
+  "lastModified": "2019-07-25",
+  "popularity": 878,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
-    "latin-ext": false
+    "latin-ext": false,
+    "latin": true
   },
   "storeID": "latin"
 }

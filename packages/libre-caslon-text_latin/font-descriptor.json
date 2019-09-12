@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/librecaslontext/v1/DdT878IGsGw1aF1JU10PUbTvNNaDMfq41-I.woff2",
+      "eot": "https://fonts.gstatic.com/s/librecaslontext/v1/DdT878IGsGw1aF1JU10PUbTvNNaDMfq41-Y.eot",
       "fontFamily": "'Libre Caslon Text'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "svg": "https://fonts.gstatic.com/l/font?kit=DdT878IGsGw1aF1JU10PUbTvNNaDMfq41-U&skey=850d8a6ff860349c&v=v1#LibreCaslonText",
       "local": [
         "Libre Caslon Text Regular",
         "LibreCaslonText-Regular"
       ],
       "woff": "https://fonts.gstatic.com/s/librecaslontext/v1/DdT878IGsGw1aF1JU10PUbTvNNaDMfq41-Q.woff",
       "ttf": "https://fonts.gstatic.com/s/librecaslontext/v1/DdT878IGsGw1aF1JU10PUbTvNNaDMfq41-c.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=DdT878IGsGw1aF1JU10PUbTvNNaDMfq41-U&skey=850d8a6ff860349c&v=v1#LibreCaslonText",
-      "eot": "https://fonts.gstatic.com/s/librecaslontext/v1/DdT878IGsGw1aF1JU10PUbTvNNaDMfq41-Y.eot",
+      "woff2": "https://fonts.gstatic.com/s/librecaslontext/v1/DdT878IGsGw1aF1JU10PUbTvNNaDMfq41-I.woff2",
       "errored": false
     },
     {
@@ -24,14 +24,14 @@
       "fontFamily": "'Libre Caslon Text'",
       "fontStyle": "italic",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/librecaslontext/v1/DdT678IGsGw1aF1JU10PUbTvNNaDMfq95-BDHA.woff",
+      "woff2": "https://fonts.gstatic.com/s/librecaslontext/v1/DdT678IGsGw1aF1JU10PUbTvNNaDMfq95-BDGg.woff2",
       "local": [
         "Libre Caslon Text Italic",
         "LibreCaslonText-Italic"
       ],
-      "woff2": "https://fonts.gstatic.com/s/librecaslontext/v1/DdT678IGsGw1aF1JU10PUbTvNNaDMfq95-BDGg.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=DdT678IGsGw1aF1JU10PUbTvNNaDMfq95-BDHQ&skey=48d008fc585a2f90&v=v1#LibreCaslonText",
       "ttf": "https://fonts.gstatic.com/s/librecaslontext/v1/DdT678IGsGw1aF1JU10PUbTvNNaDMfq95-BDHw.ttf",
+      "woff": "https://fonts.gstatic.com/s/librecaslontext/v1/DdT678IGsGw1aF1JU10PUbTvNNaDMfq95-BDHA.woff",
       "errored": false
     },
     {
@@ -52,18 +52,18 @@
     }
   ],
   "subsets": [
-    "latin",
-    "latin-ext"
+    "latin-ext",
+    "latin"
   ],
   "category": "serif",
   "version": "v1",
-  "lastModified": "2019-07-26",
-  "popularity": 854,
+  "lastModified": "2019-07-25",
+  "popularity": 804,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
-    "latin-ext": false
+    "latin-ext": false,
+    "latin": true
   },
   "storeID": "latin"
 }

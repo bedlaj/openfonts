@@ -4,34 +4,34 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/librecaslontext/v1/DdT878IGsGw1aF1JU10PUbTvNNaDMfq21-Y.eot",
+      "woff2": "https://fonts.gstatic.com/s/librecaslontext/v1/DdT878IGsGw1aF1JU10PUbTvNNaDMfq21-I.woff2",
       "fontFamily": "'Libre Caslon Text'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "ttf": "https://fonts.gstatic.com/s/librecaslontext/v1/DdT878IGsGw1aF1JU10PUbTvNNaDMfq21-c.ttf",
       "local": [
         "Libre Caslon Text Regular",
         "LibreCaslonText-Regular"
       ],
       "woff": "https://fonts.gstatic.com/s/librecaslontext/v1/DdT878IGsGw1aF1JU10PUbTvNNaDMfq21-Q.woff",
-      "woff2": "https://fonts.gstatic.com/s/librecaslontext/v1/DdT878IGsGw1aF1JU10PUbTvNNaDMfq21-I.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=DdT878IGsGw1aF1JU10PUbTvNNaDMfq21-U&skey=850d8a6ff860349c&v=v1#LibreCaslonText",
+      "ttf": "https://fonts.gstatic.com/s/librecaslontext/v1/DdT878IGsGw1aF1JU10PUbTvNNaDMfq21-c.ttf",
+      "eot": "https://fonts.gstatic.com/s/librecaslontext/v1/DdT878IGsGw1aF1JU10PUbTvNNaDMfq21-Y.eot",
       "errored": false
     },
     {
       "id": "italic",
-      "woff2": "https://fonts.gstatic.com/s/librecaslontext/v1/DdT678IGsGw1aF1JU10PUbTvNNaDMfq95-5DGg.woff2",
+      "eot": "https://fonts.gstatic.com/s/librecaslontext/v1/DdT678IGsGw1aF1JU10PUbTvNNaDMfq95-5DHg.eot",
       "fontFamily": "'Libre Caslon Text'",
       "fontStyle": "italic",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/librecaslontext/v1/DdT678IGsGw1aF1JU10PUbTvNNaDMfq95-5DHA.woff",
       "local": [
         "Libre Caslon Text Italic",
         "LibreCaslonText-Italic"
       ],
-      "ttf": "https://fonts.gstatic.com/s/librecaslontext/v1/DdT678IGsGw1aF1JU10PUbTvNNaDMfq95-5DHw.ttf",
-      "eot": "https://fonts.gstatic.com/s/librecaslontext/v1/DdT678IGsGw1aF1JU10PUbTvNNaDMfq95-5DHg.eot",
+      "woff2": "https://fonts.gstatic.com/s/librecaslontext/v1/DdT678IGsGw1aF1JU10PUbTvNNaDMfq95-5DGg.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=DdT678IGsGw1aF1JU10PUbTvNNaDMfq95-5DHQ&skey=48d008fc585a2f90&v=v1#LibreCaslonText",
-      "woff": "https://fonts.gstatic.com/s/librecaslontext/v1/DdT678IGsGw1aF1JU10PUbTvNNaDMfq95-5DHA.woff",
+      "ttf": "https://fonts.gstatic.com/s/librecaslontext/v1/DdT678IGsGw1aF1JU10PUbTvNNaDMfq95-5DHw.ttf",
       "errored": false
     },
     {
@@ -45,25 +45,25 @@
         "Libre Caslon Text Bold",
         "LibreCaslonText-Bold"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=DdT578IGsGw1aF1JU10PUbTvNNaDMfID8vdqPxk&skey=361ca5e8b4952fa5&v=v1#LibreCaslonText",
       "woff2": "https://fonts.gstatic.com/s/librecaslontext/v1/DdT578IGsGw1aF1JU10PUbTvNNaDMfID8vdqPx4.woff2",
       "ttf": "https://fonts.gstatic.com/s/librecaslontext/v1/DdT578IGsGw1aF1JU10PUbTvNNaDMfID8vdqPxs.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=DdT578IGsGw1aF1JU10PUbTvNNaDMfID8vdqPxk&skey=361ca5e8b4952fa5&v=v1#LibreCaslonText",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
-    "latin-ext"
+    "latin-ext",
+    "latin"
   ],
   "category": "serif",
   "version": "v1",
-  "lastModified": "2019-07-26",
-  "popularity": 854,
+  "lastModified": "2019-07-25",
+  "popularity": 804,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
-    "latin-ext": true
+    "latin-ext": true,
+    "latin": true
   },
-  "storeID": "latin-ext_latin"
+  "storeID": "latin_latin-ext"
 }

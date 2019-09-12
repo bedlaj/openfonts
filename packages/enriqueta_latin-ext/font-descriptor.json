@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=goksH6L7AUFrRvV44HVjQkql&skey=dab50c048a056710&v=v9#Enriqueta",
+      "ttf": "https://fonts.gstatic.com/s/enriqueta/v9/goksH6L7AUFrRvV44HVjQkqn.ttf",
       "fontFamily": "'Enriqueta'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,42 +12,10 @@
         "Enriqueta Regular",
         "Enriqueta-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/enriqueta/v9/goksH6L7AUFrRvV44HVjQkqk.woff",
       "eot": "https://fonts.gstatic.com/s/enriqueta/v9/goksH6L7AUFrRvV44HVjQkqm.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=goksH6L7AUFrRvV44HVjQkql&skey=dab50c048a056710&v=v9#Enriqueta",
+      "woff": "https://fonts.gstatic.com/s/enriqueta/v9/goksH6L7AUFrRvV44HVjQkqk.woff",
       "woff2": "https://fonts.gstatic.com/s/enriqueta/v9/goksH6L7AUFrRvV44HVjQkqi.woff2",
-      "ttf": "https://fonts.gstatic.com/s/enriqueta/v9/goksH6L7AUFrRvV44HVjQkqn.ttf",
-      "errored": false
-    },
-    {
-      "id": "600",
-      "eot": "https://fonts.gstatic.com/s/enriqueta/v9/gokpH6L7AUFrRvV44HVrk263kdxB.eot",
-      "fontFamily": "'Enriqueta'",
-      "fontStyle": "normal",
-      "fontWeight": "600",
-      "woff2": "https://fonts.gstatic.com/s/enriqueta/v9/gokpH6L7AUFrRvV44HVrk263kdxF.woff2",
-      "local": [
-        "Enriqueta SemiBold",
-        "Enriqueta-SemiBold"
-      ],
-      "woff": "https://fonts.gstatic.com/s/enriqueta/v9/gokpH6L7AUFrRvV44HVrk263kdxD.woff",
-      "ttf": "https://fonts.gstatic.com/s/enriqueta/v9/gokpH6L7AUFrRvV44HVrk263kdxA.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=gokpH6L7AUFrRvV44HVrk263kdxC&skey=2c59480ffca4526f&v=v9#Enriqueta",
-      "errored": false
-    },
-    {
-      "id": "700",
-      "woff": "https://fonts.gstatic.com/s/enriqueta/v9/gokpH6L7AUFrRvV44HVr92-3kdxD.woff",
-      "fontFamily": "'Enriqueta'",
-      "fontStyle": "normal",
-      "fontWeight": "700",
-      "local": [
-        "Enriqueta Bold",
-        "Enriqueta-Bold"
-      ],
-      "eot": "https://fonts.gstatic.com/s/enriqueta/v9/gokpH6L7AUFrRvV44HVr92-3kdxB.eot",
-      "woff2": "https://fonts.gstatic.com/s/enriqueta/v9/gokpH6L7AUFrRvV44HVr92-3kdxF.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=gokpH6L7AUFrRvV44HVr92-3kdxC&skey=fc1c760d7345b8dc&v=v9#Enriqueta",
-      "ttf": "https://fonts.gstatic.com/s/enriqueta/v9/gokpH6L7AUFrRvV44HVr92-3kdxA.ttf",
       "errored": false
     },
     {
@@ -56,30 +24,62 @@
       "fontFamily": "'Enriqueta'",
       "fontStyle": "normal",
       "fontWeight": "500",
-      "woff2": "https://fonts.gstatic.com/s/enriqueta/v9/gokpH6L7AUFrRvV44HVrv2m3kdxF.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=gokpH6L7AUFrRvV44HVrv2m3kdxC&skey=11da786e6c231620&v=v9#Enriqueta",
       "local": [
         "Enriqueta Medium",
         "Enriqueta-Medium"
       ],
       "ttf": "https://fonts.gstatic.com/s/enriqueta/v9/gokpH6L7AUFrRvV44HVrv2m3kdxA.ttf",
+      "woff2": "https://fonts.gstatic.com/s/enriqueta/v9/gokpH6L7AUFrRvV44HVrv2m3kdxF.woff2",
       "woff": "https://fonts.gstatic.com/s/enriqueta/v9/gokpH6L7AUFrRvV44HVrv2m3kdxD.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=gokpH6L7AUFrRvV44HVrv2m3kdxC&skey=11da786e6c231620&v=v9#Enriqueta",
+      "errored": false
+    },
+    {
+      "id": "600",
+      "eot": "https://fonts.gstatic.com/s/enriqueta/v9/gokpH6L7AUFrRvV44HVrk263kdxB.eot",
+      "fontFamily": "'Enriqueta'",
+      "fontStyle": "normal",
+      "fontWeight": "600",
+      "woff": "https://fonts.gstatic.com/s/enriqueta/v9/gokpH6L7AUFrRvV44HVrk263kdxD.woff",
+      "local": [
+        "Enriqueta SemiBold",
+        "Enriqueta-SemiBold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/enriqueta/v9/gokpH6L7AUFrRvV44HVrk263kdxF.woff2",
+      "ttf": "https://fonts.gstatic.com/s/enriqueta/v9/gokpH6L7AUFrRvV44HVrk263kdxA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=gokpH6L7AUFrRvV44HVrk263kdxC&skey=2c59480ffca4526f&v=v9#Enriqueta",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/enriqueta/v9/gokpH6L7AUFrRvV44HVr92-3kdxB.eot",
+      "fontFamily": "'Enriqueta'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/enriqueta/v9/gokpH6L7AUFrRvV44HVr92-3kdxD.woff",
+      "local": [
+        "Enriqueta Bold",
+        "Enriqueta-Bold"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=gokpH6L7AUFrRvV44HVr92-3kdxC&skey=fc1c760d7345b8dc&v=v9#Enriqueta",
+      "ttf": "https://fonts.gstatic.com/s/enriqueta/v9/gokpH6L7AUFrRvV44HVr92-3kdxA.ttf",
+      "woff2": "https://fonts.gstatic.com/s/enriqueta/v9/gokpH6L7AUFrRvV44HVr92-3kdxF.woff2",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
-    "latin-ext"
+    "latin-ext",
+    "latin"
   ],
   "category": "serif",
   "version": "v9",
-  "lastModified": "2019-07-26",
-  "popularity": 211,
+  "lastModified": "2019-07-25",
+  "popularity": 208,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
-    "latin-ext": true
+    "latin-ext": true,
+    "latin": true
   },
-  "storeID": "latin-ext_latin"
+  "storeID": "latin_latin-ext"
 }

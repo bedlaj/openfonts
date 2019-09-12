@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/redhatdisplay/v1/8vIQ7wUr0m80wwYf0QCXZzYzUoTg8z6n.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=8vIQ7wUr0m80wwYf0QCXZzYzUoTg8z6m&skey=3445dd5b86d56e57&v=v1#RedHatDisplay",
       "fontFamily": "'Red Hat Display'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -14,8 +14,8 @@
       ],
       "woff2": "https://fonts.gstatic.com/s/redhatdisplay/v1/8vIQ7wUr0m80wwYf0QCXZzYzUoTg8z6h.woff2",
       "eot": "https://fonts.gstatic.com/s/redhatdisplay/v1/8vIQ7wUr0m80wwYf0QCXZzYzUoTg8z6l.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=8vIQ7wUr0m80wwYf0QCXZzYzUoTg8z6m&skey=3445dd5b86d56e57&v=v1#RedHatDisplay",
       "ttf": "https://fonts.gstatic.com/s/redhatdisplay/v1/8vIQ7wUr0m80wwYf0QCXZzYzUoTg8z6k.ttf",
+      "woff": "https://fonts.gstatic.com/s/redhatdisplay/v1/8vIQ7wUr0m80wwYf0QCXZzYzUoTg8z6n.woff",
       "errored": false
     },
     {
@@ -24,29 +24,29 @@
       "fontFamily": "'Red Hat Display'",
       "fontStyle": "normal",
       "fontWeight": "500",
-      "woff": "https://fonts.gstatic.com/s/redhatdisplay/v1/8vIV7wUr0m80wwYf0QCXZzYzUoToDh20ZKrG.woff",
+      "woff2": "https://fonts.gstatic.com/s/redhatdisplay/v1/8vIV7wUr0m80wwYf0QCXZzYzUoToDh20ZKrA.woff2",
       "local": [
         "Red Hat Display Medium",
         "RedHatDisplay-Medium"
       ],
-      "woff2": "https://fonts.gstatic.com/s/redhatdisplay/v1/8vIV7wUr0m80wwYf0QCXZzYzUoToDh20ZKrA.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=8vIV7wUr0m80wwYf0QCXZzYzUoToDh20ZKrH&skey=2b96be77f2d66fab&v=v1#RedHatDisplay",
+      "woff": "https://fonts.gstatic.com/s/redhatdisplay/v1/8vIV7wUr0m80wwYf0QCXZzYzUoToDh20ZKrG.woff",
       "ttf": "https://fonts.gstatic.com/s/redhatdisplay/v1/8vIV7wUr0m80wwYf0QCXZzYzUoToDh20ZKrF.ttf",
       "errored": false
     },
     {
       "id": "italic",
-      "woff": "https://fonts.gstatic.com/s/redhatdisplay/v1/8vIS7wUr0m80wwYf0QCXZzYzUoTg-A6tTYk.woff",
+      "eot": "https://fonts.gstatic.com/s/redhatdisplay/v1/8vIS7wUr0m80wwYf0QCXZzYzUoTg-A6tTYs.eot",
       "fontFamily": "'Red Hat Display'",
       "fontStyle": "italic",
       "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/redhatdisplay/v1/8vIS7wUr0m80wwYf0QCXZzYzUoTg-A6tTY8.woff2",
       "local": [
         "Red Hat Display It",
         "RedHatDisplay-Italic"
       ],
-      "woff2": "https://fonts.gstatic.com/s/redhatdisplay/v1/8vIS7wUr0m80wwYf0QCXZzYzUoTg-A6tTY8.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=8vIS7wUr0m80wwYf0QCXZzYzUoTg-A6tTYg&skey=75da5a29d105ef1f&v=v1#RedHatDisplay",
-      "eot": "https://fonts.gstatic.com/s/redhatdisplay/v1/8vIS7wUr0m80wwYf0QCXZzYzUoTg-A6tTYs.eot",
+      "woff": "https://fonts.gstatic.com/s/redhatdisplay/v1/8vIS7wUr0m80wwYf0QCXZzYzUoTg-A6tTYk.woff",
       "ttf": "https://fonts.gstatic.com/s/redhatdisplay/v1/8vIS7wUr0m80wwYf0QCXZzYzUoTg-A6tTYo.ttf",
       "errored": false
     },
@@ -61,9 +61,9 @@
         "Red Hat Display Medium It",
         "RedHatDisplay-MediumItalic"
       ],
+      "ttf": "https://fonts.gstatic.com/s/redhatdisplay/v1/8vIX7wUr0m80wwYf0QCXZzYzUoTg-AZQbprMKEY.ttf",
       "woff2": "https://fonts.gstatic.com/s/redhatdisplay/v1/8vIX7wUr0m80wwYf0QCXZzYzUoTg-AZQbprMKEM.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=8vIX7wUr0m80wwYf0QCXZzYzUoTg-AZQbprMKEQ&skey=53a98496a533f1fc&v=v1#RedHatDisplay",
-      "ttf": "https://fonts.gstatic.com/s/redhatdisplay/v1/8vIX7wUr0m80wwYf0QCXZzYzUoTg-AZQbprMKEY.ttf",
       "errored": false
     },
     {
@@ -104,46 +104,46 @@
       "fontFamily": "'Red Hat Display'",
       "fontStyle": "italic",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/redhatdisplay/v1/8vIX7wUr0m80wwYf0QCXZzYzUoTg-AYYaJrMKEU.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=8vIX7wUr0m80wwYf0QCXZzYzUoTg-AYYaJrMKEQ&skey=c8f59bd5a837cea2&v=v1#RedHatDisplay",
       "local": [
         "Red Hat Display Bold It",
         "RedHatDisplay-BoldItalic"
       ],
       "ttf": "https://fonts.gstatic.com/s/redhatdisplay/v1/8vIX7wUr0m80wwYf0QCXZzYzUoTg-AYYaJrMKEY.ttf",
       "woff2": "https://fonts.gstatic.com/s/redhatdisplay/v1/8vIX7wUr0m80wwYf0QCXZzYzUoTg-AYYaJrMKEM.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=8vIX7wUr0m80wwYf0QCXZzYzUoTg-AYYaJrMKEQ&skey=c8f59bd5a837cea2&v=v1#RedHatDisplay",
+      "woff": "https://fonts.gstatic.com/s/redhatdisplay/v1/8vIX7wUr0m80wwYf0QCXZzYzUoTg-AYYaJrMKEU.woff",
       "errored": false
     },
     {
       "id": "900italic",
-      "eot": "https://fonts.gstatic.com/s/redhatdisplay/v1/8vIX7wUr0m80wwYf0QCXZzYzUoTg-AYgaprMKEc.eot",
+      "woff": "https://fonts.gstatic.com/s/redhatdisplay/v1/8vIX7wUr0m80wwYf0QCXZzYzUoTg-AYgaprMKEU.woff",
       "fontFamily": "'Red Hat Display'",
       "fontStyle": "italic",
       "fontWeight": "900",
-      "woff": "https://fonts.gstatic.com/s/redhatdisplay/v1/8vIX7wUr0m80wwYf0QCXZzYzUoTg-AYgaprMKEU.woff",
       "local": [
         "Red Hat Display Black It",
         "RedHatDisplay-BlackItalic"
       ],
       "woff2": "https://fonts.gstatic.com/s/redhatdisplay/v1/8vIX7wUr0m80wwYf0QCXZzYzUoTg-AYgaprMKEM.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=8vIX7wUr0m80wwYf0QCXZzYzUoTg-AYgaprMKEQ&skey=3078815246e0e592&v=v1#RedHatDisplay",
       "ttf": "https://fonts.gstatic.com/s/redhatdisplay/v1/8vIX7wUr0m80wwYf0QCXZzYzUoTg-AYgaprMKEY.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=8vIX7wUr0m80wwYf0QCXZzYzUoTg-AYgaprMKEQ&skey=3078815246e0e592&v=v1#RedHatDisplay",
+      "eot": "https://fonts.gstatic.com/s/redhatdisplay/v1/8vIX7wUr0m80wwYf0QCXZzYzUoTg-AYgaprMKEc.eot",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
-    "latin-ext"
+    "latin-ext",
+    "latin"
   ],
   "category": "sans-serif",
   "version": "v1",
-  "lastModified": "2019-07-26",
-  "popularity": 710,
+  "lastModified": "2019-07-25",
+  "popularity": 785,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
-    "latin-ext": true
+    "latin-ext": true,
+    "latin": true
   },
-  "storeID": "latin-ext_latin"
+  "storeID": "latin_latin-ext"
 }

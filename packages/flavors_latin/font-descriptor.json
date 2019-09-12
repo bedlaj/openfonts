@@ -13,25 +13,25 @@
         "Flavors-Regular"
       ],
       "eot": "https://fonts.gstatic.com/s/flavors/v9/FBV2dDrhxqmveJTpXkvvMw.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=FBV2dDrhxqmveJTpXkvvMA&skey=21678b8931efff73&v=v9#Flavors",
       "woff2": "https://fonts.gstatic.com/s/flavors/v9/FBV2dDrhxqmveJTpXkvvNw.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=FBV2dDrhxqmveJTpXkvvMA&skey=21678b8931efff73&v=v9#Flavors",
       "ttf": "https://fonts.gstatic.com/s/flavors/v9/FBV2dDrhxqmveJTpXkvvMg.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
-    "latin-ext"
+    "latin-ext",
+    "latin"
   ],
   "category": "display",
   "version": "v9",
-  "lastModified": "2019-07-26",
-  "popularity": 821,
+  "lastModified": "2019-07-25",
+  "popularity": 825,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
-    "latin-ext": false
+    "latin-ext": false,
+    "latin": true
   },
   "storeID": "latin"
 }

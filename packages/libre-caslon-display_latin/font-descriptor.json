@@ -4,34 +4,34 @@
   "variants": [
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=TuGOUUFxWphYQ6YI6q9Xp61FQzxDRKmzr1lWfx4&skey=a0b25bf0e93098d2&v=v1#LibreCaslonDisplay",
+      "eot": "https://fonts.gstatic.com/s/librecaslondisplay/v1/TuGOUUFxWphYQ6YI6q9Xp61FQzxDRKmzr1lWfx0.eot",
       "fontFamily": "'Libre Caslon Display'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/librecaslondisplay/v1/TuGOUUFxWphYQ6YI6q9Xp61FQzxDRKmzr1lWfx8.woff",
       "local": [
         "Libre Caslon Display Regular",
         "LibreCaslonDisplay-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/librecaslondisplay/v1/TuGOUUFxWphYQ6YI6q9Xp61FQzxDRKmzr1lWfx8.woff",
       "woff2": "https://fonts.gstatic.com/s/librecaslondisplay/v1/TuGOUUFxWphYQ6YI6q9Xp61FQzxDRKmzr1lWfxk.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=TuGOUUFxWphYQ6YI6q9Xp61FQzxDRKmzr1lWfx4&skey=a0b25bf0e93098d2&v=v1#LibreCaslonDisplay",
       "ttf": "https://fonts.gstatic.com/s/librecaslondisplay/v1/TuGOUUFxWphYQ6YI6q9Xp61FQzxDRKmzr1lWfxw.ttf",
-      "eot": "https://fonts.gstatic.com/s/librecaslondisplay/v1/TuGOUUFxWphYQ6YI6q9Xp61FQzxDRKmzr1lWfx0.eot",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
-    "latin-ext"
+    "latin-ext",
+    "latin"
   ],
   "category": "serif",
   "version": "v1",
-  "lastModified": "2019-07-26",
-  "popularity": 930,
+  "lastModified": "2019-07-25",
+  "popularity": 818,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
-    "latin-ext": false
+    "latin-ext": false,
+    "latin": true
   },
   "storeID": "latin"
 }
