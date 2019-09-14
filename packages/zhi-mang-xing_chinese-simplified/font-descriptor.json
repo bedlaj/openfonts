@@ -4,34 +4,34 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/zhimangxing/v5/f0Xw0ey79sErYFtWQ9a2rq-g4YUneg.woff",
+      "eot": "https://fonts.gstatic.com/s/zhimangxing/v5/f0Xw0ey79sErYFtWQ9a2rq-g4YUneA.eot",
       "fontFamily": "'Zhi Mang Xing'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/zhimangxing/v5/f0Xw0ey79sErYFtWQ9a2rq-g4YUnfA.woff2",
       "local": [
         "Zhi Mang Xing Regular",
         "ZhiMangXing-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/zhimangxing/v5/f0Xw0ey79sErYFtWQ9a2rq-g4YUneA.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=f0Xw0ey79sErYFtWQ9a2rq-g4YUnew&skey=5b1480357843eeb2&v=v5#ZhiMangXing",
-      "woff2": "https://fonts.gstatic.com/s/zhimangxing/v5/f0Xw0ey79sErYFtWQ9a2rq-g4YUnfA.woff2",
       "ttf": "https://fonts.gstatic.com/s/zhimangxing/v5/f0Xw0ey79sErYFtWQ9a2rq-g4YUneQ.ttf",
+      "woff": "https://fonts.gstatic.com/s/zhimangxing/v5/f0Xw0ey79sErYFtWQ9a2rq-g4YUneg.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=f0Xw0ey79sErYFtWQ9a2rq-g4YUnew&skey=5b1480357843eeb2&v=v5#ZhiMangXing",
       "errored": false
     }
   ],
   "subsets": [
-    "chinese-simplified",
-    "latin"
+    "latin",
+    "chinese-simplified"
   ],
   "category": "handwriting",
   "version": "v5",
-  "lastModified": "2019-07-25",
-  "popularity": 946,
+  "lastModified": "2019-07-26",
+  "popularity": 945,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "chinese-simplified": true,
-    "latin": true
+    "latin": true,
+    "chinese-simplified": true
   },
-  "storeID": "latin_chinese-simplified"
+  "storeID": "chinese-simplified_latin"
 }

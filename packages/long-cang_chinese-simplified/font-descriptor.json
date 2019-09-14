@@ -12,26 +12,26 @@
         "Long Cang Regular",
         "LongCang-Regular"
       ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=LYjAdGP8kkgoTec8zkRQj3ot&skey=429db178d90bd0ed&v=v5#LongCang",
       "woff": "https://fonts.gstatic.com/s/longcang/v5/LYjAdGP8kkgoTec8zkRQj3os.woff",
       "ttf": "https://fonts.gstatic.com/s/longcang/v5/LYjAdGP8kkgoTec8zkRQj3ov.ttf",
       "eot": "https://fonts.gstatic.com/s/longcang/v5/LYjAdGP8kkgoTec8zkRQj3ou.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=LYjAdGP8kkgoTec8zkRQj3ot&skey=429db178d90bd0ed&v=v5#LongCang",
       "errored": false
     }
   ],
   "subsets": [
-    "chinese-simplified",
-    "latin"
+    "latin",
+    "chinese-simplified"
   ],
   "category": "handwriting",
   "version": "v5",
-  "lastModified": "2019-07-25",
-  "popularity": 949,
+  "lastModified": "2019-07-26",
+  "popularity": 946,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "chinese-simplified": true,
-    "latin": true
+    "latin": true,
+    "chinese-simplified": true
   },
-  "storeID": "latin_chinese-simplified"
+  "storeID": "chinese-simplified_latin"
 }

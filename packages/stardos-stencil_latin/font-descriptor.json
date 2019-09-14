@@ -4,27 +4,26 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/stardosstencil/v10/X7n94bcuGPC8hrvEOHXOgaKCc2Th6F5y.eot",
+      "woff": "https://fonts.gstatic.com/s/stardosstencil/v10/X7n94bcuGPC8hrvEOHXOgaKCc2Th6F5w.woff",
       "fontFamily": "'Stardos Stencil'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/stardosstencil/v10/X7n94bcuGPC8hrvEOHXOgaKCc2Th6F5w.woff",
       "local": [
         "Stardos Stencil Regular",
         "StardosStencil-Regular"
       ],
       "woff2": "https://fonts.gstatic.com/s/stardosstencil/v10/X7n94bcuGPC8hrvEOHXOgaKCc2Th6F52.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=X7n94bcuGPC8hrvEOHXOgaKCc2Th6F5x&skey=d653018719e45253&v=v10#StardosStencil",
+      "eot": "https://fonts.gstatic.com/s/stardosstencil/v10/X7n94bcuGPC8hrvEOHXOgaKCc2Th6F5y.eot",
       "ttf": "https://fonts.gstatic.com/s/stardosstencil/v10/X7n94bcuGPC8hrvEOHXOgaKCc2Th6F5z.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=X7n94bcuGPC8hrvEOHXOgaKCc2Th6F5x&skey=d653018719e45253&v=v10#StardosStencil",
       "errored": false
     },
     {
       "id": "700",
-      "eot": "https://fonts.gstatic.com/s/stardosstencil/v10/X7n44bcuGPC8hrvEOHXOgaKCc2TpU3tjuQWo.eot",
+      "woff": "https://fonts.gstatic.com/s/stardosstencil/v10/X7n44bcuGPC8hrvEOHXOgaKCc2TpU3tjuQWq.woff",
       "fontFamily": "'Stardos Stencil'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/stardosstencil/v10/X7n44bcuGPC8hrvEOHXOgaKCc2TpU3tjuQWq.woff",
       "local": [
         "Stardos Stencil Bold",
         "StardosStencil-Bold"
@@ -32,6 +31,7 @@
       "woff2": "https://fonts.gstatic.com/s/stardosstencil/v10/X7n44bcuGPC8hrvEOHXOgaKCc2TpU3tjuQWs.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=X7n44bcuGPC8hrvEOHXOgaKCc2TpU3tjuQWr&skey=c5b6262b3b6ed380&v=v10#StardosStencil",
       "ttf": "https://fonts.gstatic.com/s/stardosstencil/v10/X7n44bcuGPC8hrvEOHXOgaKCc2TpU3tjuQWp.ttf",
+      "eot": "https://fonts.gstatic.com/s/stardosstencil/v10/X7n44bcuGPC8hrvEOHXOgaKCc2TpU3tjuQWo.eot",
       "errored": false
     }
   ],
@@ -40,8 +40,8 @@
   ],
   "category": "display",
   "version": "v10",
-  "lastModified": "2019-07-25",
-  "popularity": 502,
+  "lastModified": "2019-07-26",
+  "popularity": 514,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

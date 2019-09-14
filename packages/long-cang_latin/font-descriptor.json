@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/longcang/v5/LYjAdGP8kkgoTec8zkRQqnoq.woff2",
+      "woff": "https://fonts.gstatic.com/s/longcang/v5/LYjAdGP8kkgoTec8zkRQqnos.woff",
       "fontFamily": "'Long Cang'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -13,25 +13,25 @@
         "LongCang-Regular"
       ],
       "eot": "https://fonts.gstatic.com/s/longcang/v5/LYjAdGP8kkgoTec8zkRQqnou.eot",
+      "woff2": "https://fonts.gstatic.com/s/longcang/v5/LYjAdGP8kkgoTec8zkRQqnoq.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=LYjAdGP8kkgoTec8zkRQqnot&skey=429db178d90bd0ed&v=v5#LongCang",
       "ttf": "https://fonts.gstatic.com/s/longcang/v5/LYjAdGP8kkgoTec8zkRQqnov.ttf",
-      "woff": "https://fonts.gstatic.com/s/longcang/v5/LYjAdGP8kkgoTec8zkRQqnos.woff",
       "errored": false
     }
   ],
   "subsets": [
-    "chinese-simplified",
-    "latin"
+    "latin",
+    "chinese-simplified"
   ],
   "category": "handwriting",
   "version": "v5",
-  "lastModified": "2019-07-25",
-  "popularity": 949,
+  "lastModified": "2019-07-26",
+  "popularity": 946,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "chinese-simplified": false,
-    "latin": true
+    "latin": true,
+    "chinese-simplified": false
   },
   "storeID": "latin"
 }
