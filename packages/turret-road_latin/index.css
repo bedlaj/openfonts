@@ -1,0 +1,72 @@
+/* turret-road-200normal - latin */
+@font-face {
+  font-family: 'Turret Road';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Turret Road ExtraLight'),
+    local('TurretRoad-ExtraLight'), 
+    url('./files/turret-road-latin-200.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/turret-road-latin-200.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* turret-road-300normal - latin */
+@font-face {
+  font-family: 'Turret Road';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Turret Road Light'),
+    local('TurretRoad-Light'), 
+    url('./files/turret-road-latin-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/turret-road-latin-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* turret-road-400normal - latin */
+@font-face {
+  font-family: 'Turret Road';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Turret Road Regular'),
+    local('TurretRoad-Regular'), 
+    url('./files/turret-road-latin-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/turret-road-latin-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* turret-road-500normal - latin */
+@font-face {
+  font-family: 'Turret Road';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Turret Road Medium'),
+    local('TurretRoad-Medium'), 
+    url('./files/turret-road-latin-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/turret-road-latin-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* turret-road-700normal - latin */
+@font-face {
+  font-family: 'Turret Road';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Turret Road Bold'),
+    local('TurretRoad-Bold'), 
+    url('./files/turret-road-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/turret-road-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* turret-road-800normal - latin */
+@font-face {
+  font-family: 'Turret Road';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Turret Road ExtraBold'),
+    local('TurretRoad-ExtraBold'), 
+    url('./files/turret-road-latin-800.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/turret-road-latin-800.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}

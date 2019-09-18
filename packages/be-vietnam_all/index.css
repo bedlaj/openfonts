@@ -1,0 +1,168 @@
+/* be-vietnam-100normal - all */
+@font-face {
+  font-family: 'Be Vietnam';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Be Vietnam Thin'),
+    local('BeVietnam-Thin'), 
+    url('./files/be-vietnam-all-100.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/be-vietnam-all-100.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* be-vietnam-100italic - all */
+@font-face {
+  font-family: 'Be Vietnam';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Be Vietnam Thin Italic'),
+    local('BeVietnam-ThinItalic'), 
+    url('./files/be-vietnam-all-100-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/be-vietnam-all-100-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* be-vietnam-300normal - all */
+@font-face {
+  font-family: 'Be Vietnam';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Be Vietnam Light'),
+    local('BeVietnam-Light'), 
+    url('./files/be-vietnam-all-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/be-vietnam-all-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* be-vietnam-300italic - all */
+@font-face {
+  font-family: 'Be Vietnam';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Be Vietnam Light Italic'),
+    local('BeVietnam-LightItalic'), 
+    url('./files/be-vietnam-all-300-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/be-vietnam-all-300-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* be-vietnam-400normal - all */
+@font-face {
+  font-family: 'Be Vietnam';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Be Vietnam Regular'),
+    local('BeVietnam-Regular'), 
+    url('./files/be-vietnam-all-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/be-vietnam-all-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* be-vietnam-400italic - all */
+@font-face {
+  font-family: 'Be Vietnam';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Be Vietnam Italic'),
+    local('BeVietnam-Italic'), 
+    url('./files/be-vietnam-all-400-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/be-vietnam-all-400-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* be-vietnam-500normal - all */
+@font-face {
+  font-family: 'Be Vietnam';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Be Vietnam Medium'),
+    local('BeVietnam-Medium'), 
+    url('./files/be-vietnam-all-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/be-vietnam-all-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* be-vietnam-500italic - all */
+@font-face {
+  font-family: 'Be Vietnam';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Be Vietnam Medium Italic'),
+    local('BeVietnam-MediumItalic'), 
+    url('./files/be-vietnam-all-500-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/be-vietnam-all-500-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* be-vietnam-600normal - all */
+@font-face {
+  font-family: 'Be Vietnam';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Be Vietnam SemiBold'),
+    local('BeVietnam-SemiBold'), 
+    url('./files/be-vietnam-all-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/be-vietnam-all-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* be-vietnam-600italic - all */
+@font-face {
+  font-family: 'Be Vietnam';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Be Vietnam SemiBold Italic'),
+    local('BeVietnam-SemiBoldItalic'), 
+    url('./files/be-vietnam-all-600-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/be-vietnam-all-600-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* be-vietnam-700normal - all */
+@font-face {
+  font-family: 'Be Vietnam';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Be Vietnam Bold'),
+    local('BeVietnam-Bold'), 
+    url('./files/be-vietnam-all-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/be-vietnam-all-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* be-vietnam-700italic - all */
+@font-face {
+  font-family: 'Be Vietnam';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Be Vietnam Bold Italic'),
+    local('BeVietnam-BoldItalic'), 
+    url('./files/be-vietnam-all-700-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/be-vietnam-all-700-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* be-vietnam-800normal - all */
+@font-face {
+  font-family: 'Be Vietnam';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Be Vietnam ExtraBold'),
+    local('BeVietnam-ExtraBold'), 
+    url('./files/be-vietnam-all-800.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/be-vietnam-all-800.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* be-vietnam-800italic - all */
+@font-face {
+  font-family: 'Be Vietnam';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Be Vietnam ExtraBold Italic'),
+    local('BeVietnam-ExtraBoldItalic'), 
+    url('./files/be-vietnam-all-800-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/be-vietnam-all-800-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}

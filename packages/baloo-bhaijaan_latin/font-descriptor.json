@@ -4,38 +4,38 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/baloobhaijaan/v6/RWmRoKCU5fcqq8fOWNzFLqSjx7EFLGA.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=RWmRoKCU5fcqq8fOWNzFLqSjx7EFLGM&skey=92e89f03757ce841&v=v6#BalooBhaijaan",
       "fontFamily": "'Baloo Bhaijaan'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/baloobhaijaan/v6/RWmRoKCU5fcqq8fOWNzFLqSjx7EFLGQ.woff2",
       "local": [
         "Baloo Bhaijaan Regular",
         "BalooBhaijaan-Regular"
       ],
+      "eot": "https://fonts.gstatic.com/s/baloobhaijaan/v6/RWmRoKCU5fcqq8fOWNzFLqSjx7EFLGA.eot",
       "woff": "https://fonts.gstatic.com/s/baloobhaijaan/v6/RWmRoKCU5fcqq8fOWNzFLqSjx7EFLGI.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=RWmRoKCU5fcqq8fOWNzFLqSjx7EFLGM&skey=92e89f03757ce841&v=v6#BalooBhaijaan",
+      "woff2": "https://fonts.gstatic.com/s/baloobhaijaan/v6/RWmRoKCU5fcqq8fOWNzFLqSjx7EFLGQ.woff2",
       "ttf": "https://fonts.gstatic.com/s/baloobhaijaan/v6/RWmRoKCU5fcqq8fOWNzFLqSjx7EFLGE.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "vietnamese",
     "arabic",
     "latin",
-    "latin-ext"
+    "latin-ext",
+    "vietnamese"
   ],
   "category": "display",
   "version": "v6",
-  "lastModified": "2019-07-16",
-  "popularity": 455,
+  "lastModified": "2019-09-17",
+  "popularity": 475,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "vietnamese": false,
     "arabic": false,
     "latin": true,
-    "latin-ext": false
+    "latin-ext": false,
+    "vietnamese": false
   },
   "storeID": "latin"
 }

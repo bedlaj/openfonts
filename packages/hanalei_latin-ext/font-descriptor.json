@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/hanalei/v9/E21n_dD8iufIjBRHbzEsUg.eot",
+      "woff2": "https://fonts.gstatic.com/s/hanalei/v10/E21n_dD8iufIjBRHbzEsVg.woff2",
       "fontFamily": "'Hanalei'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/hanalei/v9/E21n_dD8iufIjBRHbzEsUA.woff",
       "local": [
         "Hanalei",
         "Hanalei-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/hanalei/v9/E21n_dD8iufIjBRHbzEsUw.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=E21n_dD8iufIjBRHbzEsUQ&skey=24a8e4e26fbe4a1&v=v9#Hanalei",
-      "woff2": "https://fonts.gstatic.com/s/hanalei/v9/E21n_dD8iufIjBRHbzEsVg.woff2",
+      "eot": "https://fonts.gstatic.com/s/hanalei/v10/E21n_dD8iufIjBRHbzEsUg.eot",
+      "ttf": "https://fonts.gstatic.com/s/hanalei/v10/E21n_dD8iufIjBRHbzEsUw.ttf",
+      "woff": "https://fonts.gstatic.com/s/hanalei/v10/E21n_dD8iufIjBRHbzEsUA.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=E21n_dD8iufIjBRHbzEsUQ&skey=24a8e4e26fbe4a1&v=v10#Hanalei",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "display",
-  "version": "v9",
-  "lastModified": "2019-04-18",
-  "popularity": 921,
+  "version": "v10",
+  "lastModified": "2019-09-17",
+  "popularity": 908,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

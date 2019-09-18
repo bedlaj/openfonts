@@ -1,0 +1,37 @@
+{
+  "id": "vibes",
+  "family": "Vibes",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/vibes/v1/QdVYSTsmIB6tmYd1FJE.woff",
+      "fontFamily": "'Vibes'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Vibes Regular",
+        "Vibes-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/vibes/v1/QdVYSTsmIB6tmYd1FJM.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=QdVYSTsmIB6tmYd1FJA&skey=4912d45c76bf9864&v=v1#Vibes",
+      "woff2": "https://fonts.gstatic.com/s/vibes/v1/QdVYSTsmIB6tmYd1FJc.woff2",
+      "ttf": "https://fonts.gstatic.com/s/vibes/v1/QdVYSTsmIB6tmYd1FJI.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "arabic",
+    "latin"
+  ],
+  "category": "display",
+  "version": "v1",
+  "lastModified": "2019-09-17",
+  "popularity": 955,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "arabic": true,
+    "latin": true
+  },
+  "storeID": "latin_arabic"
+}

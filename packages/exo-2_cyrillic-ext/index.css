@@ -1,0 +1,216 @@
+/* exo-2-100normal - cyrillic-ext */
+@font-face {
+  font-family: 'Exo 2';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Exo 2 Thin'),
+    local('Exo2-Thin'), 
+    url('./files/exo-2-cyrillic-ext-100.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/exo-2-cyrillic-ext-100.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* exo-2-100italic - cyrillic-ext */
+@font-face {
+  font-family: 'Exo 2';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Exo 2 Thin Italic'),
+    local('Exo2-ThinItalic'), 
+    url('./files/exo-2-cyrillic-ext-100-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/exo-2-cyrillic-ext-100-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* exo-2-200normal - cyrillic-ext */
+@font-face {
+  font-family: 'Exo 2';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Exo 2 ExtraLight'),
+    local('Exo2-ExtraLight'), 
+    url('./files/exo-2-cyrillic-ext-200.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/exo-2-cyrillic-ext-200.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* exo-2-200italic - cyrillic-ext */
+@font-face {
+  font-family: 'Exo 2';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Exo 2 ExtraLight Italic'),
+    local('Exo2-ExtraLightItalic'), 
+    url('./files/exo-2-cyrillic-ext-200-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/exo-2-cyrillic-ext-200-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* exo-2-300normal - cyrillic-ext */
+@font-face {
+  font-family: 'Exo 2';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Exo 2 Light'),
+    local('Exo2-Light'), 
+    url('./files/exo-2-cyrillic-ext-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/exo-2-cyrillic-ext-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* exo-2-300italic - cyrillic-ext */
+@font-face {
+  font-family: 'Exo 2';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Exo 2 Light Italic'),
+    local('Exo2-LightItalic'), 
+    url('./files/exo-2-cyrillic-ext-300-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/exo-2-cyrillic-ext-300-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* exo-2-400normal - cyrillic-ext */
+@font-face {
+  font-family: 'Exo 2';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Exo 2 Regular'),
+    local('Exo2-Regular'), 
+    url('./files/exo-2-cyrillic-ext-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/exo-2-cyrillic-ext-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* exo-2-400italic - cyrillic-ext */
+@font-face {
+  font-family: 'Exo 2';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Exo 2 Italic'),
+    local('Exo2-Italic'), 
+    url('./files/exo-2-cyrillic-ext-400-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/exo-2-cyrillic-ext-400-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* exo-2-500normal - cyrillic-ext */
+@font-face {
+  font-family: 'Exo 2';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Exo 2 Medium'),
+    local('Exo2-Medium'), 
+    url('./files/exo-2-cyrillic-ext-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/exo-2-cyrillic-ext-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* exo-2-500italic - cyrillic-ext */
+@font-face {
+  font-family: 'Exo 2';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Exo 2 Medium Italic'),
+    local('Exo2-MediumItalic'), 
+    url('./files/exo-2-cyrillic-ext-500-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/exo-2-cyrillic-ext-500-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* exo-2-600normal - cyrillic-ext */
+@font-face {
+  font-family: 'Exo 2';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Exo 2 SemiBold'),
+    local('Exo2-SemiBold'), 
+    url('./files/exo-2-cyrillic-ext-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/exo-2-cyrillic-ext-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* exo-2-600italic - cyrillic-ext */
+@font-face {
+  font-family: 'Exo 2';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Exo 2 SemiBold Italic'),
+    local('Exo2-SemiBoldItalic'), 
+    url('./files/exo-2-cyrillic-ext-600-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/exo-2-cyrillic-ext-600-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* exo-2-700normal - cyrillic-ext */
+@font-face {
+  font-family: 'Exo 2';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Exo 2 Bold'),
+    local('Exo2-Bold'), 
+    url('./files/exo-2-cyrillic-ext-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/exo-2-cyrillic-ext-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* exo-2-700italic - cyrillic-ext */
+@font-face {
+  font-family: 'Exo 2';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Exo 2 Bold Italic'),
+    local('Exo2-BoldItalic'), 
+    url('./files/exo-2-cyrillic-ext-700-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/exo-2-cyrillic-ext-700-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* exo-2-800normal - cyrillic-ext */
+@font-face {
+  font-family: 'Exo 2';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Exo 2 ExtraBold'),
+    local('Exo2-ExtraBold'), 
+    url('./files/exo-2-cyrillic-ext-800.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/exo-2-cyrillic-ext-800.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* exo-2-800italic - cyrillic-ext */
+@font-face {
+  font-family: 'Exo 2';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Exo 2 ExtraBold Italic'),
+    local('Exo2-ExtraBoldItalic'), 
+    url('./files/exo-2-cyrillic-ext-800-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/exo-2-cyrillic-ext-800-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* exo-2-900normal - cyrillic-ext */
+@font-face {
+  font-family: 'Exo 2';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Exo 2 Black'),
+    local('Exo2-Black'), 
+    url('./files/exo-2-cyrillic-ext-900.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/exo-2-cyrillic-ext-900.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* exo-2-900italic - cyrillic-ext */
+@font-face {
+  font-family: 'Exo 2';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Exo 2 Black Italic'),
+    local('Exo2-BlackItalic'), 
+    url('./files/exo-2-cyrillic-ext-900-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/exo-2-cyrillic-ext-900-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
