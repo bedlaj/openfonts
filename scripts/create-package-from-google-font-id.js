@@ -52,10 +52,7 @@ subsets.forEach(subset => {
     fs.ensureDirSync(typefaceDir + `/files`)
     fs.ensureDirSync(typefaceDir + `/gstatic`)
 
-    // Make git ignore typeface files so we're not checking in GBs of data.
-    fs.writeFileSync(typefaceDir + `/.gitignore`, "/files")
     fs.writeFileSync(typefaceDir + `/.npmignore`, "/gstatic")
-    fs.writeFileSync(typefaceDir + `/files/.gitignore`, "")
 
     const makeFontFilePath = (item, subsetName, extension) => {
         return makeFontFilePathInDirectory(item, subsetName, extension, './files')
