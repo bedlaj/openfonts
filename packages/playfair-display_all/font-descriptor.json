@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/playfairdisplay/v15/nuFiD-vYSZviVYUb_rj3ij__anPXPT4.woff2",
+      "woff": "https://fonts.gstatic.com/s/playfairdisplay/v15/nuFiD-vYSZviVYUb_rj3ij__anPXPTg.woff",
       "fontFamily": "'Playfair Display'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Playfair Display Regular",
         "PlayfairDisplay-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=nuFiD-vYSZviVYUb_rj3ij__anPXPTk&skey=f3b68f0152604ed9&v=v15#PlayfairDisplay",
       "ttf": "https://fonts.gstatic.com/s/playfairdisplay/v15/nuFiD-vYSZviVYUb_rj3ij__anPXPTs.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=nuFiD-vYSZviVYUb_rj3ij__anPXPTk&skey=f3b68f0152604ed9&v=v15#PlayfairDisplay",
       "eot": "https://fonts.gstatic.com/s/playfairdisplay/v15/nuFiD-vYSZviVYUb_rj3ij__anPXPTo.eot",
-      "woff": "https://fonts.gstatic.com/s/playfairdisplay/v15/nuFiD-vYSZviVYUb_rj3ij__anPXPTg.woff",
+      "woff2": "https://fonts.gstatic.com/s/playfairdisplay/v15/nuFiD-vYSZviVYUb_rj3ij__anPXPT4.woff2",
       "errored": false
     },
     {
@@ -30,29 +30,29 @@
       ],
       "woff": "https://fonts.gstatic.com/s/playfairdisplay/v15/nuFkD-vYSZviVYUb_rj3ij__anPXDTnYhg.woff",
       "woff2": "https://fonts.gstatic.com/s/playfairdisplay/v15/nuFkD-vYSZviVYUb_rj3ij__anPXDTnYgA.woff2",
-      "eot": "https://fonts.gstatic.com/s/playfairdisplay/v15/nuFkD-vYSZviVYUb_rj3ij__anPXDTnYhA.eot",
       "ttf": "https://fonts.gstatic.com/s/playfairdisplay/v15/nuFkD-vYSZviVYUb_rj3ij__anPXDTnYhQ.ttf",
+      "eot": "https://fonts.gstatic.com/s/playfairdisplay/v15/nuFkD-vYSZviVYUb_rj3ij__anPXDTnYhA.eot",
       "errored": false
     },
     {
       "id": "700",
-      "eot": "https://fonts.gstatic.com/s/playfairdisplay/v15/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9pWg.eot",
+      "woff": "https://fonts.gstatic.com/s/playfairdisplay/v15/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9pWo.woff",
       "fontFamily": "'Playfair Display'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff2": "https://fonts.gstatic.com/s/playfairdisplay/v15/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9pWw.woff2",
       "local": [
         "Playfair Display Bold",
         "PlayfairDisplay-Bold"
       ],
-      "woff": "https://fonts.gstatic.com/s/playfairdisplay/v15/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9pWo.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=nuFlD-vYSZviVYUb_rj3ij__anPXBYf9pWs&skey=c119c2be8134ed06&v=v15#PlayfairDisplay",
+      "eot": "https://fonts.gstatic.com/s/playfairdisplay/v15/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9pWg.eot",
+      "woff2": "https://fonts.gstatic.com/s/playfairdisplay/v15/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9pWw.woff2",
       "ttf": "https://fonts.gstatic.com/s/playfairdisplay/v15/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9pWk.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=nuFlD-vYSZviVYUb_rj3ij__anPXBYf9pWs&skey=c119c2be8134ed06&v=v15#PlayfairDisplay",
       "errored": false
     },
     {
       "id": "700italic",
-      "woff2": "https://fonts.gstatic.com/s/playfairdisplay/v15/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwe5g.woff2",
+      "ttf": "https://fonts.gstatic.com/s/playfairdisplay/v15/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwe4w.ttf",
       "fontFamily": "'Playfair Display'",
       "fontStyle": "italic",
       "fontWeight": "700",
@@ -61,9 +61,25 @@
         "PlayfairDisplay-BoldItalic"
       ],
       "woff": "https://fonts.gstatic.com/s/playfairdisplay/v15/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwe4A.woff",
-      "eot": "https://fonts.gstatic.com/s/playfairdisplay/v15/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwe4g.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwe4Q&skey=a95cefd51a12ec17&v=v15#PlayfairDisplay",
-      "ttf": "https://fonts.gstatic.com/s/playfairdisplay/v15/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwe4w.ttf",
+      "eot": "https://fonts.gstatic.com/s/playfairdisplay/v15/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwe4g.eot",
+      "woff2": "https://fonts.gstatic.com/s/playfairdisplay/v15/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwe5g.woff2",
+      "errored": false
+    },
+    {
+      "id": "900",
+      "woff": "https://fonts.gstatic.com/s/playfairdisplay/v15/nuFlD-vYSZviVYUb_rj3ij__anPXBb__pWo.woff",
+      "fontFamily": "'Playfair Display'",
+      "fontStyle": "normal",
+      "fontWeight": "900",
+      "local": [
+        "Playfair Display Black",
+        "PlayfairDisplay-Black"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/playfairdisplay/v15/nuFlD-vYSZviVYUb_rj3ij__anPXBb__pWw.woff2",
+      "eot": "https://fonts.gstatic.com/s/playfairdisplay/v15/nuFlD-vYSZviVYUb_rj3ij__anPXBb__pWg.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=nuFlD-vYSZviVYUb_rj3ij__anPXBb__pWs&skey=5c26bbaa7df0e616&v=v15#PlayfairDisplay",
+      "ttf": "https://fonts.gstatic.com/s/playfairdisplay/v15/nuFlD-vYSZviVYUb_rj3ij__anPXBb__pWk.ttf",
       "errored": false
     },
     {
@@ -72,50 +88,34 @@
       "fontFamily": "'Playfair Display'",
       "fontStyle": "italic",
       "fontWeight": "900",
-      "woff": "https://fonts.gstatic.com/s/playfairdisplay/v15/nuFnD-vYSZviVYUb_rj3ij__anPXDTngAW4e4A.woff",
+      "woff2": "https://fonts.gstatic.com/s/playfairdisplay/v15/nuFnD-vYSZviVYUb_rj3ij__anPXDTngAW4e5g.woff2",
       "local": [
         "Playfair Display Black Italic",
         "PlayfairDisplay-BlackItalic"
       ],
-      "woff2": "https://fonts.gstatic.com/s/playfairdisplay/v15/nuFnD-vYSZviVYUb_rj3ij__anPXDTngAW4e5g.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=nuFnD-vYSZviVYUb_rj3ij__anPXDTngAW4e4Q&skey=5aa2cfa063a6b631&v=v15#PlayfairDisplay",
+      "woff": "https://fonts.gstatic.com/s/playfairdisplay/v15/nuFnD-vYSZviVYUb_rj3ij__anPXDTngAW4e4A.woff",
       "ttf": "https://fonts.gstatic.com/s/playfairdisplay/v15/nuFnD-vYSZviVYUb_rj3ij__anPXDTngAW4e4w.ttf",
-      "errored": false
-    },
-    {
-      "id": "900",
-      "eot": "https://fonts.gstatic.com/s/playfairdisplay/v15/nuFlD-vYSZviVYUb_rj3ij__anPXBb__pWg.eot",
-      "fontFamily": "'Playfair Display'",
-      "fontStyle": "normal",
-      "fontWeight": "900",
-      "ttf": "https://fonts.gstatic.com/s/playfairdisplay/v15/nuFlD-vYSZviVYUb_rj3ij__anPXBb__pWk.ttf",
-      "local": [
-        "Playfair Display Black",
-        "PlayfairDisplay-Black"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/playfairdisplay/v15/nuFlD-vYSZviVYUb_rj3ij__anPXBb__pWw.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=nuFlD-vYSZviVYUb_rj3ij__anPXBb__pWs&skey=5c26bbaa7df0e616&v=v15#PlayfairDisplay",
-      "woff": "https://fonts.gstatic.com/s/playfairdisplay/v15/nuFlD-vYSZviVYUb_rj3ij__anPXBb__pWo.woff",
       "errored": false
     }
   ],
   "subsets": [
-    "vietnamese",
-    "latin",
     "cyrillic",
-    "latin-ext"
+    "vietnamese",
+    "latin-ext",
+    "latin"
   ],
   "category": "serif",
   "version": "v15",
-  "lastModified": "2019-07-22",
-  "popularity": 17,
+  "lastModified": "2019-10-15",
+  "popularity": 16,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "vietnamese": true,
-    "latin": true,
     "cyrillic": true,
-    "latin-ext": true
+    "vietnamese": true,
+    "latin-ext": true,
+    "latin": true
   },
-  "storeID": "latin-ext_cyrillic_latin_vietnamese"
+  "storeID": "latin_latin-ext_vietnamese_cyrillic"
 }

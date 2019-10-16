@@ -12,15 +12,15 @@
         "Karla",
         "Karla-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=qkBbXvYC6trAT7RVLts&skey=139a38ebe1800a84&v=v8#Karla",
+      "eot": "https://fonts.gstatic.com/s/karla/v8/qkBbXvYC6trAT7RVLtg.eot",
       "ttf": "https://fonts.gstatic.com/s/karla/v8/qkBbXvYC6trAT7RVLtk.ttf",
       "woff": "https://fonts.gstatic.com/s/karla/v8/qkBbXvYC6trAT7RVLto.woff",
-      "eot": "https://fonts.gstatic.com/s/karla/v8/qkBbXvYC6trAT7RVLtg.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=qkBbXvYC6trAT7RVLts&skey=139a38ebe1800a84&v=v8#Karla",
       "errored": false
     },
     {
       "id": "italic",
-      "ttf": "https://fonts.gstatic.com/s/karla/v8/qkBVXvYC6trAT7RQHt6e5A.ttf",
+      "woff2": "https://fonts.gstatic.com/s/karla/v8/qkBVXvYC6trAT7RQHt6e4Q.woff2",
       "fontFamily": "'Karla'",
       "fontStyle": "italic",
       "fontWeight": "400",
@@ -28,10 +28,10 @@
         "Karla Italic",
         "Karla-Italic"
       ],
-      "eot": "https://fonts.gstatic.com/s/karla/v8/qkBVXvYC6trAT7RQHt6e5Q.eot",
-      "woff2": "https://fonts.gstatic.com/s/karla/v8/qkBVXvYC6trAT7RQHt6e4Q.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=qkBVXvYC6trAT7RQHt6e5g&skey=1da949773a71f90f&v=v8#Karla",
+      "ttf": "https://fonts.gstatic.com/s/karla/v8/qkBVXvYC6trAT7RQHt6e5A.ttf",
       "woff": "https://fonts.gstatic.com/s/karla/v8/qkBVXvYC6trAT7RQHt6e5w.woff",
+      "eot": "https://fonts.gstatic.com/s/karla/v8/qkBVXvYC6trAT7RQHt6e5Q.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=qkBVXvYC6trAT7RQHt6e5g&skey=1da949773a71f90f&v=v8#Karla",
       "errored": false
     },
     {
@@ -40,14 +40,14 @@
       "fontFamily": "'Karla'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/karla/v8/qkBWXvYC6trAT7zuC8m5xL0.woff",
+      "woff2": "https://fonts.gstatic.com/s/karla/v8/qkBWXvYC6trAT7zuC8m5xLs.woff2",
       "local": [
         "Karla Bold",
         "Karla-Bold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/karla/v8/qkBWXvYC6trAT7zuC8m5xLs.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=qkBWXvYC6trAT7zuC8m5xLw&skey=5004906a717967a3&v=v8#Karla",
       "ttf": "https://fonts.gstatic.com/s/karla/v8/qkBWXvYC6trAT7zuC8m5xL4.ttf",
+      "woff": "https://fonts.gstatic.com/s/karla/v8/qkBWXvYC6trAT7zuC8m5xL0.woff",
       "errored": false
     },
     {
@@ -56,30 +56,30 @@
       "fontFamily": "'Karla'",
       "fontStyle": "italic",
       "fontWeight": "700",
-      "woff2": "https://fonts.gstatic.com/s/karla/v8/qkBQXvYC6trAT7RQFmW79LlvnQ.woff2",
+      "woff": "https://fonts.gstatic.com/s/karla/v8/qkBQXvYC6trAT7RQFmW79Llvmw.woff",
       "local": [
         "Karla Bold Italic",
         "Karla-BoldItalic"
       ],
+      "woff2": "https://fonts.gstatic.com/s/karla/v8/qkBQXvYC6trAT7RQFmW79LlvnQ.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=qkBQXvYC6trAT7RQFmW79Llvmg&skey=8c6082f21a1add1e&v=v8#Karla",
-      "woff": "https://fonts.gstatic.com/s/karla/v8/qkBQXvYC6trAT7RQFmW79Llvmw.woff",
       "ttf": "https://fonts.gstatic.com/s/karla/v8/qkBQXvYC6trAT7RQFmW79LlvmA.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
-    "latin-ext"
+    "latin-ext",
+    "latin"
   ],
   "category": "sans-serif",
   "version": "v8",
-  "lastModified": "2019-07-17",
+  "lastModified": "2019-10-15",
   "popularity": 43,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
-    "latin-ext": false
+    "latin-ext": false,
+    "latin": true
   },
   "storeID": "latin"
 }

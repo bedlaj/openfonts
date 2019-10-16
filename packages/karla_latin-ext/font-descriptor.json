@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/karla/v8/qkBbXvYC6trAT7RbLto.woff",
+      "woff2": "https://fonts.gstatic.com/s/karla/v8/qkBbXvYC6trAT7RbLtw.woff2",
       "fontFamily": "'Karla'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,74 +12,74 @@
         "Karla",
         "Karla-Regular"
       ],
+      "woff": "https://fonts.gstatic.com/s/karla/v8/qkBbXvYC6trAT7RbLto.woff",
       "eot": "https://fonts.gstatic.com/s/karla/v8/qkBbXvYC6trAT7RbLtg.eot",
       "ttf": "https://fonts.gstatic.com/s/karla/v8/qkBbXvYC6trAT7RbLtk.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=qkBbXvYC6trAT7RbLts&skey=139a38ebe1800a84&v=v8#Karla",
-      "woff2": "https://fonts.gstatic.com/s/karla/v8/qkBbXvYC6trAT7RbLtw.woff2",
       "errored": false
     },
     {
       "id": "italic",
-      "svg": "https://fonts.gstatic.com/l/font?kit=qkBVXvYC6trAT7RQHtCe5g&skey=1da949773a71f90f&v=v8#Karla",
+      "eot": "https://fonts.gstatic.com/s/karla/v8/qkBVXvYC6trAT7RQHtCe5Q.eot",
       "fontFamily": "'Karla'",
       "fontStyle": "italic",
       "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/karla/v8/qkBVXvYC6trAT7RQHtCe4Q.woff2",
       "local": [
         "Karla Italic",
         "Karla-Italic"
       ],
       "woff": "https://fonts.gstatic.com/s/karla/v8/qkBVXvYC6trAT7RQHtCe5w.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=qkBVXvYC6trAT7RQHtCe5g&skey=1da949773a71f90f&v=v8#Karla",
       "ttf": "https://fonts.gstatic.com/s/karla/v8/qkBVXvYC6trAT7RQHtCe5A.ttf",
-      "eot": "https://fonts.gstatic.com/s/karla/v8/qkBVXvYC6trAT7RQHtCe5Q.eot",
-      "woff2": "https://fonts.gstatic.com/s/karla/v8/qkBVXvYC6trAT7RQHtCe4Q.woff2",
       "errored": false
     },
     {
       "id": "700",
-      "svg": "https://fonts.gstatic.com/l/font?kit=qkBWXvYC6trAT7zuC8m3xLw&skey=5004906a717967a3&v=v8#Karla",
+      "eot": "https://fonts.gstatic.com/s/karla/v8/qkBWXvYC6trAT7zuC8m3xL8.eot",
       "fontFamily": "'Karla'",
       "fontStyle": "normal",
       "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/karla/v8/qkBWXvYC6trAT7zuC8m3xL0.woff",
       "local": [
         "Karla Bold",
         "Karla-Bold"
       ],
-      "woff": "https://fonts.gstatic.com/s/karla/v8/qkBWXvYC6trAT7zuC8m3xL0.woff",
       "woff2": "https://fonts.gstatic.com/s/karla/v8/qkBWXvYC6trAT7zuC8m3xLs.woff2",
-      "eot": "https://fonts.gstatic.com/s/karla/v8/qkBWXvYC6trAT7zuC8m3xL8.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=qkBWXvYC6trAT7zuC8m3xLw&skey=5004906a717967a3&v=v8#Karla",
       "ttf": "https://fonts.gstatic.com/s/karla/v8/qkBWXvYC6trAT7zuC8m3xL4.ttf",
       "errored": false
     },
     {
       "id": "700italic",
-      "woff2": "https://fonts.gstatic.com/s/karla/v8/qkBQXvYC6trAT7RQFmW79LdvnQ.woff2",
+      "eot": "https://fonts.gstatic.com/s/karla/v8/qkBQXvYC6trAT7RQFmW79LdvmQ.eot",
       "fontFamily": "'Karla'",
       "fontStyle": "italic",
       "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/karla/v8/qkBQXvYC6trAT7RQFmW79Ldvmw.woff",
       "local": [
         "Karla Bold Italic",
         "Karla-BoldItalic"
       ],
+      "woff2": "https://fonts.gstatic.com/s/karla/v8/qkBQXvYC6trAT7RQFmW79LdvnQ.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=qkBQXvYC6trAT7RQFmW79Ldvmg&skey=8c6082f21a1add1e&v=v8#Karla",
-      "woff": "https://fonts.gstatic.com/s/karla/v8/qkBQXvYC6trAT7RQFmW79Ldvmw.woff",
-      "eot": "https://fonts.gstatic.com/s/karla/v8/qkBQXvYC6trAT7RQFmW79LdvmQ.eot",
       "ttf": "https://fonts.gstatic.com/s/karla/v8/qkBQXvYC6trAT7RQFmW79LdvmA.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
-    "latin-ext"
+    "latin-ext",
+    "latin"
   ],
   "category": "sans-serif",
   "version": "v8",
-  "lastModified": "2019-07-17",
+  "lastModified": "2019-10-15",
   "popularity": 43,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
-    "latin-ext": true
+    "latin-ext": true,
+    "latin": true
   },
-  "storeID": "latin-ext_latin"
+  "storeID": "latin_latin-ext"
 }

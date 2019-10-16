@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "100",
-      "ttf": "https://fonts.gstatic.com/s/rokkitt/v14/qFdG35qfgYFjGy5hmCWyev7K.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=qFdG35qfgYFjGy5hmCWyev7I&skey=8d280afa969fe836&v=v14#Rokkitt",
       "fontFamily": "'Rokkitt'",
       "fontStyle": "normal",
       "fontWeight": "100",
@@ -12,42 +12,10 @@
         "Rokkitt Thin",
         "Rokkitt-Thin"
       ],
-      "woff": "https://fonts.gstatic.com/s/rokkitt/v14/qFdG35qfgYFjGy5hmCWyev7J.woff",
-      "woff2": "https://fonts.gstatic.com/s/rokkitt/v14/qFdG35qfgYFjGy5hmCWyev7P.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=qFdG35qfgYFjGy5hmCWyev7I&skey=8d280afa969fe836&v=v14#Rokkitt",
       "eot": "https://fonts.gstatic.com/s/rokkitt/v14/qFdG35qfgYFjGy5hmCWyev7L.eot",
-      "errored": false
-    },
-    {
-      "id": "200",
-      "eot": "https://fonts.gstatic.com/s/rokkitt/v14/qFdB35qfgYFjGy5hmImjY9fqww.eot",
-      "fontFamily": "'Rokkitt'",
-      "fontStyle": "normal",
-      "fontWeight": "200",
-      "woff": "https://fonts.gstatic.com/s/rokkitt/v14/qFdB35qfgYFjGy5hmImjY9fqwQ.woff",
-      "local": [
-        "Rokkitt ExtraLight",
-        "Rokkitt-ExtraLight"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=qFdB35qfgYFjGy5hmImjY9fqwA&skey=1a901fd086b34200&v=v14#Rokkitt",
-      "ttf": "https://fonts.gstatic.com/s/rokkitt/v14/qFdB35qfgYFjGy5hmImjY9fqwg.ttf",
-      "woff2": "https://fonts.gstatic.com/s/rokkitt/v14/qFdB35qfgYFjGy5hmImjY9fqxw.woff2",
-      "errored": false
-    },
-    {
-      "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/rokkitt/v14/qFdE35qfgYFjGy5hkEiCcg.eot",
-      "fontFamily": "'Rokkitt'",
-      "fontStyle": "normal",
-      "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/rokkitt/v14/qFdE35qfgYFjGy5hkEiCcA.woff",
-      "local": [
-        "Rokkitt Regular",
-        "Rokkitt-Regular"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/rokkitt/v14/qFdE35qfgYFjGy5hkEiCdg.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=qFdE35qfgYFjGy5hkEiCcQ&skey=f4f08a3aff21f57&v=v14#Rokkitt",
-      "ttf": "https://fonts.gstatic.com/s/rokkitt/v14/qFdE35qfgYFjGy5hkEiCcw.ttf",
+      "ttf": "https://fonts.gstatic.com/s/rokkitt/v14/qFdG35qfgYFjGy5hmCWyev7K.ttf",
+      "woff2": "https://fonts.gstatic.com/s/rokkitt/v14/qFdG35qfgYFjGy5hmCWyev7P.woff2",
+      "woff": "https://fonts.gstatic.com/s/rokkitt/v14/qFdG35qfgYFjGy5hmCWyev7J.woff",
       "errored": false
     },
     {
@@ -67,19 +35,67 @@
       "errored": false
     },
     {
+      "id": "200",
+      "ttf": "https://fonts.gstatic.com/s/rokkitt/v14/qFdB35qfgYFjGy5hmImjY9fqwg.ttf",
+      "fontFamily": "'Rokkitt'",
+      "fontStyle": "normal",
+      "fontWeight": "200",
+      "local": [
+        "Rokkitt ExtraLight",
+        "Rokkitt-ExtraLight"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=qFdB35qfgYFjGy5hmImjY9fqwA&skey=1a901fd086b34200&v=v14#Rokkitt",
+      "woff2": "https://fonts.gstatic.com/s/rokkitt/v14/qFdB35qfgYFjGy5hmImjY9fqxw.woff2",
+      "woff": "https://fonts.gstatic.com/s/rokkitt/v14/qFdB35qfgYFjGy5hmImjY9fqwQ.woff",
+      "eot": "https://fonts.gstatic.com/s/rokkitt/v14/qFdB35qfgYFjGy5hmImjY9fqww.eot",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/rokkitt/v14/qFdE35qfgYFjGy5hkEiCcA.woff",
+      "fontFamily": "'Rokkitt'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Rokkitt Regular",
+        "Rokkitt-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/rokkitt/v14/qFdE35qfgYFjGy5hkEiCcg.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=qFdE35qfgYFjGy5hkEiCcQ&skey=f4f08a3aff21f57&v=v14#Rokkitt",
+      "ttf": "https://fonts.gstatic.com/s/rokkitt/v14/qFdE35qfgYFjGy5hkEiCcw.ttf",
+      "woff2": "https://fonts.gstatic.com/s/rokkitt/v14/qFdE35qfgYFjGy5hkEiCdg.woff2",
+      "errored": false
+    },
+    {
       "id": "500",
       "eot": "https://fonts.gstatic.com/s/rokkitt/v14/qFdB35qfgYFjGy5hmLWhY9fqww.eot",
       "fontFamily": "'Rokkitt'",
       "fontStyle": "normal",
       "fontWeight": "500",
-      "woff2": "https://fonts.gstatic.com/s/rokkitt/v14/qFdB35qfgYFjGy5hmLWhY9fqxw.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=qFdB35qfgYFjGy5hmLWhY9fqwA&skey=cdef641cb4a68d38&v=v14#Rokkitt",
       "local": [
         "Rokkitt Medium",
         "Rokkitt-Medium"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=qFdB35qfgYFjGy5hmLWhY9fqwA&skey=cdef641cb4a68d38&v=v14#Rokkitt",
       "woff": "https://fonts.gstatic.com/s/rokkitt/v14/qFdB35qfgYFjGy5hmLWhY9fqwQ.woff",
       "ttf": "https://fonts.gstatic.com/s/rokkitt/v14/qFdB35qfgYFjGy5hmLWhY9fqwg.ttf",
+      "woff2": "https://fonts.gstatic.com/s/rokkitt/v14/qFdB35qfgYFjGy5hmLWhY9fqxw.woff2",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff": "https://fonts.gstatic.com/s/rokkitt/v14/qFdB35qfgYFjGy5hmP2nY9fqwQ.woff",
+      "fontFamily": "'Rokkitt'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Rokkitt Bold",
+        "Rokkitt-Bold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/rokkitt/v14/qFdB35qfgYFjGy5hmP2nY9fqxw.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=qFdB35qfgYFjGy5hmP2nY9fqwA&skey=85797d706595438&v=v14#Rokkitt",
+      "ttf": "https://fonts.gstatic.com/s/rokkitt/v14/qFdB35qfgYFjGy5hmP2nY9fqwg.ttf",
+      "eot": "https://fonts.gstatic.com/s/rokkitt/v14/qFdB35qfgYFjGy5hmP2nY9fqww.eot",
       "errored": false
     },
     {
@@ -88,30 +104,14 @@
       "fontFamily": "'Rokkitt'",
       "fontStyle": "normal",
       "fontWeight": "600",
-      "woff": "https://fonts.gstatic.com/s/rokkitt/v14/qFdB35qfgYFjGy5hmJmmY9fqwQ.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=qFdB35qfgYFjGy5hmJmmY9fqwA&skey=6d42be98f6900af3&v=v14#Rokkitt",
       "local": [
         "Rokkitt SemiBold",
         "Rokkitt-SemiBold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/rokkitt/v14/qFdB35qfgYFjGy5hmJmmY9fqxw.woff2",
       "ttf": "https://fonts.gstatic.com/s/rokkitt/v14/qFdB35qfgYFjGy5hmJmmY9fqwg.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=qFdB35qfgYFjGy5hmJmmY9fqwA&skey=6d42be98f6900af3&v=v14#Rokkitt",
-      "errored": false
-    },
-    {
-      "id": "700",
-      "eot": "https://fonts.gstatic.com/s/rokkitt/v14/qFdB35qfgYFjGy5hmP2nY9fqww.eot",
-      "fontFamily": "'Rokkitt'",
-      "fontStyle": "normal",
-      "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/rokkitt/v14/qFdB35qfgYFjGy5hmP2nY9fqwQ.woff",
-      "local": [
-        "Rokkitt Bold",
-        "Rokkitt-Bold"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/rokkitt/v14/qFdB35qfgYFjGy5hmP2nY9fqxw.woff2",
-      "ttf": "https://fonts.gstatic.com/s/rokkitt/v14/qFdB35qfgYFjGy5hmP2nY9fqwg.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=qFdB35qfgYFjGy5hmP2nY9fqwA&skey=85797d706595438&v=v14#Rokkitt",
+      "woff2": "https://fonts.gstatic.com/s/rokkitt/v14/qFdB35qfgYFjGy5hmJmmY9fqxw.woff2",
+      "woff": "https://fonts.gstatic.com/s/rokkitt/v14/qFdB35qfgYFjGy5hmJmmY9fqwQ.woff",
       "errored": false
     },
     {
@@ -132,36 +132,36 @@
     },
     {
       "id": "900",
-      "eot": "https://fonts.gstatic.com/s/rokkitt/v14/qFdB35qfgYFjGy5hmMWlY9fqww.eot",
+      "woff": "https://fonts.gstatic.com/s/rokkitt/v14/qFdB35qfgYFjGy5hmMWlY9fqwQ.woff",
       "fontFamily": "'Rokkitt'",
       "fontStyle": "normal",
       "fontWeight": "900",
-      "woff2": "https://fonts.gstatic.com/s/rokkitt/v14/qFdB35qfgYFjGy5hmMWlY9fqxw.woff2",
       "local": [
         "Rokkitt Black",
         "Rokkitt-Black"
       ],
-      "ttf": "https://fonts.gstatic.com/s/rokkitt/v14/qFdB35qfgYFjGy5hmMWlY9fqwg.ttf",
+      "woff2": "https://fonts.gstatic.com/s/rokkitt/v14/qFdB35qfgYFjGy5hmMWlY9fqxw.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=qFdB35qfgYFjGy5hmMWlY9fqwA&skey=35398634f02e3b8a&v=v14#Rokkitt",
-      "woff": "https://fonts.gstatic.com/s/rokkitt/v14/qFdB35qfgYFjGy5hmMWlY9fqwQ.woff",
+      "eot": "https://fonts.gstatic.com/s/rokkitt/v14/qFdB35qfgYFjGy5hmMWlY9fqww.eot",
+      "ttf": "https://fonts.gstatic.com/s/rokkitt/v14/qFdB35qfgYFjGy5hmMWlY9fqwg.ttf",
       "errored": false
     }
   ],
   "subsets": [
     "vietnamese",
-    "latin",
-    "latin-ext"
+    "latin-ext",
+    "latin"
   ],
   "category": "serif",
   "version": "v14",
-  "lastModified": "2019-07-17",
-  "popularity": 112,
+  "lastModified": "2019-10-15",
+  "popularity": 104,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "vietnamese": false,
-    "latin": true,
-    "latin-ext": true
+    "latin-ext": true,
+    "latin": true
   },
-  "storeID": "latin-ext_latin"
+  "storeID": "latin_latin-ext"
 }

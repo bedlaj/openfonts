@@ -13,9 +13,9 @@
         "Podkova Regular",
         "Podkova-Regular"
       ],
+      "ttf": "https://fonts.gstatic.com/s/podkova/v13/K2FxfZ1EmftJSV9VWJ4.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=K2FxfZ1EmftJSV9VWJw&skey=f253628f1750e862&v=v13#Podkova",
       "woff2": "https://fonts.gstatic.com/s/podkova/v13/K2FxfZ1EmftJSV9VWJs.woff2",
-      "ttf": "https://fonts.gstatic.com/s/podkova/v13/K2FxfZ1EmftJSV9VWJ4.ttf",
       "errored": false
     },
     {
@@ -24,14 +24,14 @@
       "fontFamily": "'Podkova'",
       "fontStyle": "normal",
       "fontWeight": "600",
-      "woff2": "https://fonts.gstatic.com/s/podkova/v13/K2F0fZ1EmftJSV9VYEbXAo8.woff2",
+      "woff": "https://fonts.gstatic.com/s/podkova/v13/K2F0fZ1EmftJSV9VYEbXAok.woff",
       "local": [
         "Podkova SemiBold",
         "Podkova-SemiBold"
       ],
-      "woff": "https://fonts.gstatic.com/s/podkova/v13/K2F0fZ1EmftJSV9VYEbXAok.woff",
-      "ttf": "https://fonts.gstatic.com/s/podkova/v13/K2F0fZ1EmftJSV9VYEbXAoo.ttf",
+      "woff2": "https://fonts.gstatic.com/s/podkova/v13/K2F0fZ1EmftJSV9VYEbXAo8.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=K2F0fZ1EmftJSV9VYEbXAog&skey=57f6208afeb498c7&v=v13#Podkova",
+      "ttf": "https://fonts.gstatic.com/s/podkova/v13/K2F0fZ1EmftJSV9VYEbXAoo.ttf",
       "errored": false
     },
     {
@@ -45,9 +45,9 @@
         "Podkova Medium",
         "Podkova-Medium"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=K2F0fZ1EmftJSV9VYGrQAog&skey=83048aaef08b4c86&v=v13#Podkova",
       "woff": "https://fonts.gstatic.com/s/podkova/v13/K2F0fZ1EmftJSV9VYGrQAok.woff",
       "ttf": "https://fonts.gstatic.com/s/podkova/v13/K2F0fZ1EmftJSV9VYGrQAoo.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=K2F0fZ1EmftJSV9VYGrQAog&skey=83048aaef08b4c86&v=v13#Podkova",
       "errored": false
     },
     {
@@ -56,14 +56,14 @@
       "fontFamily": "'Podkova'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "svg": "https://fonts.gstatic.com/l/font?kit=K2F0fZ1EmftJSV9VYCLWAog&skey=abf2e359e3b3822b&v=v13#Podkova",
+      "woff": "https://fonts.gstatic.com/s/podkova/v13/K2F0fZ1EmftJSV9VYCLWAok.woff",
       "local": [
         "Podkova Bold",
         "Podkova-Bold"
       ],
       "woff2": "https://fonts.gstatic.com/s/podkova/v13/K2F0fZ1EmftJSV9VYCLWAo8.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=K2F0fZ1EmftJSV9VYCLWAog&skey=abf2e359e3b3822b&v=v13#Podkova",
       "ttf": "https://fonts.gstatic.com/s/podkova/v13/K2F0fZ1EmftJSV9VYCLWAoo.ttf",
-      "woff": "https://fonts.gstatic.com/s/podkova/v13/K2F0fZ1EmftJSV9VYCLWAok.woff",
       "errored": false
     },
     {
@@ -77,31 +77,31 @@
         "Podkova ExtraBold",
         "Podkova-ExtraBold"
       ],
+      "woff2": "https://fonts.gstatic.com/s/podkova/v13/K2F0fZ1EmftJSV9VYD7VAo8.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=K2F0fZ1EmftJSV9VYD7VAog&skey=1b0c8f2ee2b61806&v=v13#Podkova",
       "ttf": "https://fonts.gstatic.com/s/podkova/v13/K2F0fZ1EmftJSV9VYD7VAoo.ttf",
-      "woff2": "https://fonts.gstatic.com/s/podkova/v13/K2F0fZ1EmftJSV9VYD7VAo8.woff2",
       "errored": false
     }
   ],
   "subsets": [
-    "vietnamese",
-    "latin",
-    "cyrillic-ext",
     "cyrillic",
-    "latin-ext"
+    "vietnamese",
+    "cyrillic-ext",
+    "latin-ext",
+    "latin"
   ],
   "category": "serif",
   "version": "v13",
-  "lastModified": "2019-07-16",
-  "popularity": 519,
+  "lastModified": "2019-10-15",
+  "popularity": 521,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "vietnamese": true,
-    "latin": true,
-    "cyrillic-ext": true,
     "cyrillic": true,
-    "latin-ext": true
+    "vietnamese": true,
+    "cyrillic-ext": true,
+    "latin-ext": true,
+    "latin": true
   },
-  "storeID": "latin-ext_cyrillic_cyrillic-ext_latin_vietnamese"
+  "storeID": "latin_latin-ext_cyrillic-ext_vietnamese_cyrillic"
 }

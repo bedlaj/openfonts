@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/mavenpro/v13/7Au9p_AqnyWWAxW2Wk3Gw2QM.eot",
+      "woff": "https://fonts.gstatic.com/s/mavenpro/v13/7Au9p_AqnyWWAxW2Wk3Gw2QO.woff",
       "fontFamily": "'Maven Pro'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/mavenpro/v13/7Au9p_AqnyWWAxW2Wk3Gw2QI.woff2",
       "local": [
         "Maven Pro Regular",
         "MavenPro-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=7Au9p_AqnyWWAxW2Wk3Gw2QP&skey=f795ffecfc1ee92e&v=v13#MavenPro",
+      "eot": "https://fonts.gstatic.com/s/mavenpro/v13/7Au9p_AqnyWWAxW2Wk3Gw2QM.eot",
+      "woff2": "https://fonts.gstatic.com/s/mavenpro/v13/7Au9p_AqnyWWAxW2Wk3Gw2QI.woff2",
       "ttf": "https://fonts.gstatic.com/s/mavenpro/v13/7Au9p_AqnyWWAxW2Wk3Gw2QN.ttf",
-      "woff": "https://fonts.gstatic.com/s/mavenpro/v13/7Au9p_AqnyWWAxW2Wk3Gw2QO.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=7Au9p_AqnyWWAxW2Wk3Gw2QP&skey=f795ffecfc1ee92e&v=v13#MavenPro",
       "errored": false
     },
     {
@@ -24,30 +24,30 @@
       "fontFamily": "'Maven Pro'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/mavenpro/v13/7Au4p_AqnyWWAxW2Wk3OdkEdMXkF.woff",
+      "woff2": "https://fonts.gstatic.com/s/mavenpro/v13/7Au4p_AqnyWWAxW2Wk3OdkEdMXkD.woff2",
       "local": [
         "Maven Pro Bold",
         "MavenPro-Bold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/mavenpro/v13/7Au4p_AqnyWWAxW2Wk3OdkEdMXkD.woff2",
+      "woff": "https://fonts.gstatic.com/s/mavenpro/v13/7Au4p_AqnyWWAxW2Wk3OdkEdMXkF.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=7Au4p_AqnyWWAxW2Wk3OdkEdMXkE&skey=cdea2724661b597d&v=v13#MavenPro",
       "ttf": "https://fonts.gstatic.com/s/mavenpro/v13/7Au4p_AqnyWWAxW2Wk3OdkEdMXkG.ttf",
       "errored": false
     },
     {
       "id": "500",
-      "eot": "https://fonts.gstatic.com/s/mavenpro/v13/7Au4p_AqnyWWAxW2Wk3OPkcdMXkH.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=7Au4p_AqnyWWAxW2Wk3OPkcdMXkE&skey=3342e25ad2760db8&v=v13#MavenPro",
       "fontFamily": "'Maven Pro'",
       "fontStyle": "normal",
       "fontWeight": "500",
-      "woff": "https://fonts.gstatic.com/s/mavenpro/v13/7Au4p_AqnyWWAxW2Wk3OPkcdMXkF.woff",
       "local": [
         "Maven Pro Medium",
         "MavenPro-Medium"
       ],
-      "ttf": "https://fonts.gstatic.com/s/mavenpro/v13/7Au4p_AqnyWWAxW2Wk3OPkcdMXkG.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=7Au4p_AqnyWWAxW2Wk3OPkcdMXkE&skey=3342e25ad2760db8&v=v13#MavenPro",
       "woff2": "https://fonts.gstatic.com/s/mavenpro/v13/7Au4p_AqnyWWAxW2Wk3OPkcdMXkD.woff2",
+      "ttf": "https://fonts.gstatic.com/s/mavenpro/v13/7Au4p_AqnyWWAxW2Wk3OPkcdMXkG.ttf",
+      "eot": "https://fonts.gstatic.com/s/mavenpro/v13/7Au4p_AqnyWWAxW2Wk3OPkcdMXkH.eot",
+      "woff": "https://fonts.gstatic.com/s/mavenpro/v13/7Au4p_AqnyWWAxW2Wk3OPkcdMXkF.woff",
       "errored": false
     },
     {
@@ -62,26 +62,26 @@
         "MavenPro-Black"
       ],
       "woff2": "https://fonts.gstatic.com/s/mavenpro/v13/7Au4p_AqnyWWAxW2Wk3OTkMdMXkD.woff2",
-      "ttf": "https://fonts.gstatic.com/s/mavenpro/v13/7Au4p_AqnyWWAxW2Wk3OTkMdMXkG.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=7Au4p_AqnyWWAxW2Wk3OTkMdMXkE&skey=b2a4a68bb927b7b5&v=v13#MavenPro",
+      "ttf": "https://fonts.gstatic.com/s/mavenpro/v13/7Au4p_AqnyWWAxW2Wk3OTkMdMXkG.ttf",
       "errored": false
     }
   ],
   "subsets": [
     "vietnamese",
-    "latin",
-    "latin-ext"
+    "latin-ext",
+    "latin"
   ],
   "category": "sans-serif",
   "version": "v13",
-  "lastModified": "2019-07-17",
-  "popularity": 84,
+  "lastModified": "2019-10-15",
+  "popularity": 80,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "vietnamese": false,
-    "latin": true,
-    "latin-ext": true
+    "latin-ext": true,
+    "latin": true
   },
-  "storeID": "latin-ext_latin"
+  "storeID": "latin_latin-ext"
 }
