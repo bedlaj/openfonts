@@ -4,9 +4,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 300;
-  src:
-    local('Jura Light'),
-    local('Jura-Light'), 
+  src: 
     url('./files/jura-greek-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/jura-greek-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
@@ -16,9 +14,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src:
-    local('Jura Regular'),
-    local('Jura-Regular'), 
+  src: 
     url('./files/jura-greek-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/jura-greek-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
@@ -28,9 +24,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 500;
-  src:
-    local('Jura Medium'),
-    local('Jura-Medium'), 
+  src: 
     url('./files/jura-greek-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/jura-greek-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
@@ -40,9 +34,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 600;
-  src:
-    local('Jura SemiBold'),
-    local('Jura-SemiBold'), 
+  src: 
     url('./files/jura-greek-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/jura-greek-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
@@ -52,9 +44,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 700;
-  src:
-    local('Jura Bold'),
-    local('Jura-Bold'), 
+  src: 
     url('./files/jura-greek-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/jura-greek-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

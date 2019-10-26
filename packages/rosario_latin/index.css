@@ -1,12 +1,30 @@
+/* rosario-300normal - latin */
+@font-face {
+  font-family: 'Rosario';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src: 
+    url('./files/rosario-latin-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/rosario-latin-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* rosario-300italic - latin */
+@font-face {
+  font-family: 'Rosario';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src: 
+    url('./files/rosario-latin-300-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/rosario-latin-300-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
 /* rosario-400normal - latin */
 @font-face {
   font-family: 'Rosario';
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src:
-    local('Rosario'),
-    local('Rosario-Regular'), 
+  src: 
     url('./files/rosario-latin-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/rosario-latin-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
@@ -16,11 +34,49 @@
   font-style: italic;
   font-display: swap;
   font-weight: 400;
-  src:
-    local('Rosario Italic'),
-    local('Rosario-Italic'), 
+  src: 
     url('./files/rosario-latin-400-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/rosario-latin-400-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* rosario-500normal - latin */
+@font-face {
+  font-family: 'Rosario';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: 
+    url('./files/rosario-latin-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/rosario-latin-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* rosario-500italic - latin */
+@font-face {
+  font-family: 'Rosario';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src: 
+    url('./files/rosario-latin-500-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/rosario-latin-500-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* rosario-600normal - latin */
+@font-face {
+  font-family: 'Rosario';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: 
+    url('./files/rosario-latin-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/rosario-latin-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* rosario-600italic - latin */
+@font-face {
+  font-family: 'Rosario';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src: 
+    url('./files/rosario-latin-600-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/rosario-latin-600-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* rosario-700normal - latin */
 @font-face {
@@ -28,9 +84,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 700;
-  src:
-    local('Rosario Bold'),
-    local('Rosario-Bold'), 
+  src: 
     url('./files/rosario-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/rosario-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
@@ -40,9 +94,7 @@
   font-style: italic;
   font-display: swap;
   font-weight: 700;
-  src:
-    local('Rosario Bold Italic'),
-    local('Rosario-BoldItalic'), 
+  src: 
     url('./files/rosario-latin-700-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/rosario-latin-700-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
