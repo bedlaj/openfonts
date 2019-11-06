@@ -13,30 +13,30 @@
         "Sawarabi Gothic",
         "SawarabiGothic-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/sawarabigothic/v8/x3d4ckfVaqqa-BEj-I9mE65u3k39CiM2.woff2",
       "ttf": "https://fonts.gstatic.com/s/sawarabigothic/v8/x3d4ckfVaqqa-BEj-I9mE65u3k39CiMz.ttf",
+      "woff2": "https://fonts.gstatic.com/s/sawarabigothic/v8/x3d4ckfVaqqa-BEj-I9mE65u3k39CiM2.woff2",
       "woff": "https://fonts.gstatic.com/s/sawarabigothic/v8/x3d4ckfVaqqa-BEj-I9mE65u3k39CiMw.woff",
       "errored": false
     }
   ],
   "subsets": [
-    "japanese",
-    "vietnamese",
-    "latin",
     "cyrillic",
+    "japanese",
+    "latin",
+    "vietnamese",
     "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v8",
-  "lastModified": "2019-07-16",
-  "popularity": 248,
+  "lastModified": "2019-11-05",
+  "popularity": 292,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "japanese": true,
-    "vietnamese": false,
-    "latin": true,
     "cyrillic": false,
+    "japanese": true,
+    "latin": true,
+    "vietnamese": false,
     "latin-ext": false
   },
   "storeID": "latin_japanese"

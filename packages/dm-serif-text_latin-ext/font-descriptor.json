@@ -4,34 +4,34 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/dmseriftext/v3/rnCu-xZa_krGokauCeNq1wWyWfqFXQ.woff2",
+      "eot": "https://fonts.gstatic.com/s/dmseriftext/v3/rnCu-xZa_krGokauCeNq1wWyWfqFWQ.eot",
       "fontFamily": "'DM Serif Text'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/dmseriftext/v3/rnCu-xZa_krGokauCeNq1wWyWfqFWw.woff",
       "local": [
         "DM Serif Text Regular",
         "DMSerifText-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/dmseriftext/v3/rnCu-xZa_krGokauCeNq1wWyWfqFWQ.eot",
-      "woff": "https://fonts.gstatic.com/s/dmseriftext/v3/rnCu-xZa_krGokauCeNq1wWyWfqFWw.woff",
-      "ttf": "https://fonts.gstatic.com/s/dmseriftext/v3/rnCu-xZa_krGokauCeNq1wWyWfqFWA.ttf",
+      "woff2": "https://fonts.gstatic.com/s/dmseriftext/v3/rnCu-xZa_krGokauCeNq1wWyWfqFXQ.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=rnCu-xZa_krGokauCeNq1wWyWfqFWg&skey=1cce8e1adc5342b&v=v3#DMSerifText",
+      "ttf": "https://fonts.gstatic.com/s/dmseriftext/v3/rnCu-xZa_krGokauCeNq1wWyWfqFWA.ttf",
       "errored": false
     },
     {
       "id": "italic",
-      "ttf": "https://fonts.gstatic.com/s/dmseriftext/v3/rnCw-xZa_krGokauCeNq1wWyWfG1UVoI.ttf",
+      "eot": "https://fonts.gstatic.com/s/dmseriftext/v3/rnCw-xZa_krGokauCeNq1wWyWfG1UVoJ.eot",
       "fontFamily": "'DM Serif Text'",
       "fontStyle": "italic",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/dmseriftext/v3/rnCw-xZa_krGokauCeNq1wWyWfG1UVoL.woff",
       "local": [
         "DM Serif Text Italic",
         "DMSerifText-Italic"
       ],
-      "eot": "https://fonts.gstatic.com/s/dmseriftext/v3/rnCw-xZa_krGokauCeNq1wWyWfG1UVoJ.eot",
       "woff2": "https://fonts.gstatic.com/s/dmseriftext/v3/rnCw-xZa_krGokauCeNq1wWyWfG1UVoN.woff2",
-      "woff": "https://fonts.gstatic.com/s/dmseriftext/v3/rnCw-xZa_krGokauCeNq1wWyWfG1UVoL.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=rnCw-xZa_krGokauCeNq1wWyWfG1UVoK&skey=526da8f819302c18&v=v3#DMSerifText",
+      "ttf": "https://fonts.gstatic.com/s/dmseriftext/v3/rnCw-xZa_krGokauCeNq1wWyWfG1UVoI.ttf",
       "errored": false
     }
   ],
@@ -41,8 +41,8 @@
   ],
   "category": "serif",
   "version": "v3",
-  "lastModified": "2019-07-16",
-  "popularity": 652,
+  "lastModified": "2019-11-05",
+  "popularity": 318,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

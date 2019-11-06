@@ -4,23 +4,55 @@
   "variants": [
     {
       "id": "100",
-      "eot": "https://fonts.gstatic.com/s/mplusrounded1c/v10/VdGCAYIAV6gnpUpoWwNkYvrugw9RuM3i9LEq7g.eot",
+      "woff": "https://fonts.gstatic.com/s/mplusrounded1c/v10/VdGCAYIAV6gnpUpoWwNkYvrugw9RuM3i9LEq7A.woff",
       "fontFamily": "'M PLUS Rounded 1c'",
       "fontStyle": "normal",
       "fontWeight": "100",
-      "woff": "https://fonts.gstatic.com/s/mplusrounded1c/v10/VdGCAYIAV6gnpUpoWwNkYvrugw9RuM3i9LEq7A.woff",
       "local": [
         "M PLUS Rounded 1c Thin",
         "MPLUSRounded1c-Thin"
       ],
-      "woff2": "https://fonts.gstatic.com/s/mplusrounded1c/v10/VdGCAYIAV6gnpUpoWwNkYvrugw9RuM3i9LEq6g.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=VdGCAYIAV6gnpUpoWwNkYvrugw9RuM3i9LEq7Q&skey=9862a1676a35fec7&v=v10#MPLUSRounded1c",
       "ttf": "https://fonts.gstatic.com/s/mplusrounded1c/v10/VdGCAYIAV6gnpUpoWwNkYvrugw9RuM3i9LEq7w.ttf",
+      "woff2": "https://fonts.gstatic.com/s/mplusrounded1c/v10/VdGCAYIAV6gnpUpoWwNkYvrugw9RuM3i9LEq6g.woff2",
+      "eot": "https://fonts.gstatic.com/s/mplusrounded1c/v10/VdGCAYIAV6gnpUpoWwNkYvrugw9RuM3i9LEq7g.eot",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/mplusrounded1c/v10/VdGEAYIAV6gnpUpoWwNkYvrugw9RuMWMxLg.woff",
+      "fontFamily": "'M PLUS Rounded 1c'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "M PLUS Rounded 1c",
+        "MPLUSRounded1c-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/mplusrounded1c/v10/VdGEAYIAV6gnpUpoWwNkYvrugw9RuMWMxL4.woff2",
+      "eot": "https://fonts.gstatic.com/s/mplusrounded1c/v10/VdGEAYIAV6gnpUpoWwNkYvrugw9RuMWMxLo.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=VdGEAYIAV6gnpUpoWwNkYvrugw9RuMWMxLk&skey=b4232dd08b6c468b&v=v10#MPLUSRounded1c",
+      "ttf": "https://fonts.gstatic.com/s/mplusrounded1c/v10/VdGEAYIAV6gnpUpoWwNkYvrugw9RuMWMxLs.ttf",
+      "errored": false
+    },
+    {
+      "id": "500",
+      "eot": "https://fonts.gstatic.com/s/mplusrounded1c/v10/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM1y56sAz-8.eot",
+      "fontFamily": "'M PLUS Rounded 1c'",
+      "fontStyle": "normal",
+      "fontWeight": "500",
+      "woff": "https://fonts.gstatic.com/s/mplusrounded1c/v10/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM1y56sAz-0.woff",
+      "local": [
+        "M PLUS Rounded 1c Medium",
+        "MPLUSRounded1c-Medium"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/mplusrounded1c/v10/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM1y56sAz-s.woff2",
+      "ttf": "https://fonts.gstatic.com/s/mplusrounded1c/v10/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM1y56sAz-4.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=VdGBAYIAV6gnpUpoWwNkYvrugw9RuM1y56sAz-w&skey=d36c2534c9d27248&v=v10#MPLUSRounded1c",
       "errored": false
     },
     {
       "id": "300",
-      "woff": "https://fonts.gstatic.com/s/mplusrounded1c/v10/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM0q5qsAz-0.woff",
+      "ttf": "https://fonts.gstatic.com/s/mplusrounded1c/v10/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM0q5qsAz-4.ttf",
       "fontFamily": "'M PLUS Rounded 1c'",
       "fontStyle": "normal",
       "fontWeight": "300",
@@ -31,52 +63,20 @@
       "eot": "https://fonts.gstatic.com/s/mplusrounded1c/v10/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM0q5qsAz-8.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=VdGBAYIAV6gnpUpoWwNkYvrugw9RuM0q5qsAz-w&skey=ea69eff3c56cf72e&v=v10#MPLUSRounded1c",
       "woff2": "https://fonts.gstatic.com/s/mplusrounded1c/v10/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM0q5qsAz-s.woff2",
-      "ttf": "https://fonts.gstatic.com/s/mplusrounded1c/v10/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM0q5qsAz-4.ttf",
-      "errored": false
-    },
-    {
-      "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/mplusrounded1c/v10/VdGEAYIAV6gnpUpoWwNkYvrugw9RuMWMxLo.eot",
-      "fontFamily": "'M PLUS Rounded 1c'",
-      "fontStyle": "normal",
-      "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/mplusrounded1c/v10/VdGEAYIAV6gnpUpoWwNkYvrugw9RuMWMxLg.woff",
-      "local": [
-        "M PLUS Rounded 1c",
-        "MPLUSRounded1c-Regular"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/mplusrounded1c/v10/VdGEAYIAV6gnpUpoWwNkYvrugw9RuMWMxL4.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=VdGEAYIAV6gnpUpoWwNkYvrugw9RuMWMxLk&skey=b4232dd08b6c468b&v=v10#MPLUSRounded1c",
-      "ttf": "https://fonts.gstatic.com/s/mplusrounded1c/v10/VdGEAYIAV6gnpUpoWwNkYvrugw9RuMWMxLs.ttf",
-      "errored": false
-    },
-    {
-      "id": "500",
-      "woff": "https://fonts.gstatic.com/s/mplusrounded1c/v10/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM1y56sAz-0.woff",
-      "fontFamily": "'M PLUS Rounded 1c'",
-      "fontStyle": "normal",
-      "fontWeight": "500",
-      "local": [
-        "M PLUS Rounded 1c Medium",
-        "MPLUSRounded1c-Medium"
-      ],
-      "eot": "https://fonts.gstatic.com/s/mplusrounded1c/v10/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM1y56sAz-8.eot",
-      "woff2": "https://fonts.gstatic.com/s/mplusrounded1c/v10/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM1y56sAz-s.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=VdGBAYIAV6gnpUpoWwNkYvrugw9RuM1y56sAz-w&skey=d36c2534c9d27248&v=v10#MPLUSRounded1c",
-      "ttf": "https://fonts.gstatic.com/s/mplusrounded1c/v10/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM1y56sAz-4.ttf",
+      "woff": "https://fonts.gstatic.com/s/mplusrounded1c/v10/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM0q5qsAz-0.woff",
       "errored": false
     },
     {
       "id": "700",
-      "woff": "https://fonts.gstatic.com/s/mplusrounded1c/v10/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM064asAz-0.woff",
+      "eot": "https://fonts.gstatic.com/s/mplusrounded1c/v10/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM064asAz-8.eot",
       "fontFamily": "'M PLUS Rounded 1c'",
       "fontStyle": "normal",
       "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/mplusrounded1c/v10/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM064asAz-0.woff",
       "local": [
         "M PLUS Rounded 1c Bold",
         "MPLUSRounded1c-Bold"
       ],
-      "eot": "https://fonts.gstatic.com/s/mplusrounded1c/v10/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM064asAz-8.eot",
       "woff2": "https://fonts.gstatic.com/s/mplusrounded1c/v10/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM064asAz-s.woff2",
       "ttf": "https://fonts.gstatic.com/s/mplusrounded1c/v10/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM064asAz-4.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=VdGBAYIAV6gnpUpoWwNkYvrugw9RuM064asAz-w&skey=92d2a5b6547955f2&v=v10#MPLUSRounded1c",
@@ -88,14 +88,14 @@
       "fontFamily": "'M PLUS Rounded 1c'",
       "fontStyle": "normal",
       "fontWeight": "800",
-      "woff": "https://fonts.gstatic.com/s/mplusrounded1c/v10/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM0m4qsAz-0.woff",
+      "woff2": "https://fonts.gstatic.com/s/mplusrounded1c/v10/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM0m4qsAz-s.woff2",
       "local": [
         "M PLUS Rounded 1c ExtraBold",
         "MPLUSRounded1c-ExtraBold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/mplusrounded1c/v10/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM0m4qsAz-s.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=VdGBAYIAV6gnpUpoWwNkYvrugw9RuM0m4qsAz-w&skey=37f5a06c4e274142&v=v10#MPLUSRounded1c",
+      "woff": "https://fonts.gstatic.com/s/mplusrounded1c/v10/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM0m4qsAz-0.woff",
       "ttf": "https://fonts.gstatic.com/s/mplusrounded1c/v10/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM0m4qsAz-4.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=VdGBAYIAV6gnpUpoWwNkYvrugw9RuM0m4qsAz-w&skey=37f5a06c4e274142&v=v10#MPLUSRounded1c",
       "errored": false
     },
     {
@@ -109,39 +109,39 @@
         "M PLUS Rounded 1c Black",
         "MPLUSRounded1c-Black"
       ],
-      "woff2": "https://fonts.gstatic.com/s/mplusrounded1c/v10/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM0C46sAz-s.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=VdGBAYIAV6gnpUpoWwNkYvrugw9RuM0C46sAz-w&skey=9b834f100e5b77af&v=v10#MPLUSRounded1c",
       "ttf": "https://fonts.gstatic.com/s/mplusrounded1c/v10/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM0C46sAz-4.ttf",
+      "woff2": "https://fonts.gstatic.com/s/mplusrounded1c/v10/VdGBAYIAV6gnpUpoWwNkYvrugw9RuM0C46sAz-s.woff2",
       "errored": false
     }
   ],
   "subsets": [
-    "greek",
-    "greek-ext",
-    "japanese",
-    "hebrew",
-    "vietnamese",
-    "latin",
-    "cyrillic-ext",
     "cyrillic",
+    "greek",
+    "hebrew",
+    "cyrillic-ext",
+    "japanese",
+    "greek-ext",
+    "latin",
+    "vietnamese",
     "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v10",
-  "lastModified": "2019-07-16",
-  "popularity": 240,
+  "lastModified": "2019-11-05",
+  "popularity": 234,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "greek": false,
-    "greek-ext": false,
-    "japanese": false,
-    "hebrew": false,
-    "vietnamese": false,
-    "latin": true,
-    "cyrillic-ext": true,
     "cyrillic": false,
+    "greek": false,
+    "hebrew": false,
+    "cyrillic-ext": true,
+    "japanese": false,
+    "greek-ext": false,
+    "latin": true,
+    "vietnamese": false,
     "latin-ext": false
   },
-  "storeID": "cyrillic-ext_latin"
+  "storeID": "latin_cyrillic-ext"
 }

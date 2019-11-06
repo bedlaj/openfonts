@@ -4,23 +4,39 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/b612/v4/3JnySDDxiSz36j6yGQ.woff2",
+      "eot": "https://fonts.gstatic.com/s/b612/v4/3JnySDDxiSz36j6yHQ.eot",
       "fontFamily": "'B612'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/b612/v4/3JnySDDxiSz36j6yGQ.woff2",
       "local": [
         "B612 Regular",
         "B612-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/b612/v4/3JnySDDxiSz36j6yHw.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=3JnySDDxiSz36j6yHg&skey=ea1643f62a9c2f46&v=v4#B612",
       "ttf": "https://fonts.gstatic.com/s/b612/v4/3JnySDDxiSz36j6yHA.ttf",
-      "eot": "https://fonts.gstatic.com/s/b612/v4/3JnySDDxiSz36j6yHQ.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=3JnySDDxiSz36j6yHg&skey=ea1643f62a9c2f46&v=v4#B612",
+      "woff": "https://fonts.gstatic.com/s/b612/v4/3JnySDDxiSz36j6yHw.woff",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/b612/v4/3Jn9SDDxiSz34oWXDDeBSA.eot",
+      "fontFamily": "'B612'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff2": "https://fonts.gstatic.com/s/b612/v4/3Jn9SDDxiSz34oWXDDeBTA.woff2",
+      "local": [
+        "B612 Bold",
+        "B612-Bold"
+      ],
+      "woff": "https://fonts.gstatic.com/s/b612/v4/3Jn9SDDxiSz34oWXDDeBSg.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=3Jn9SDDxiSz34oWXDDeBSw&skey=5458749603704b62&v=v4#B612",
+      "ttf": "https://fonts.gstatic.com/s/b612/v4/3Jn9SDDxiSz34oWXDDeBSQ.ttf",
       "errored": false
     },
     {
       "id": "italic",
-      "ttf": "https://fonts.gstatic.com/s/b612/v4/3Jn8SDDxiSz36juCGxCh.ttf",
+      "woff2": "https://fonts.gstatic.com/s/b612/v4/3Jn8SDDxiSz36juCGxCk.woff2",
       "fontFamily": "'B612'",
       "fontStyle": "italic",
       "fontWeight": "400",
@@ -28,26 +44,10 @@
         "B612 Italic",
         "B612-Italic"
       ],
+      "ttf": "https://fonts.gstatic.com/s/b612/v4/3Jn8SDDxiSz36juCGxCh.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=3Jn8SDDxiSz36juCGxCj&skey=7c24412daec30087&v=v4#B612",
       "eot": "https://fonts.gstatic.com/s/b612/v4/3Jn8SDDxiSz36juCGxCg.eot",
       "woff": "https://fonts.gstatic.com/s/b612/v4/3Jn8SDDxiSz36juCGxCi.woff",
-      "woff2": "https://fonts.gstatic.com/s/b612/v4/3Jn8SDDxiSz36juCGxCk.woff2",
-      "errored": false
-    },
-    {
-      "id": "700",
-      "woff": "https://fonts.gstatic.com/s/b612/v4/3Jn9SDDxiSz34oWXDDeBSg.woff",
-      "fontFamily": "'B612'",
-      "fontStyle": "normal",
-      "fontWeight": "700",
-      "local": [
-        "B612 Bold",
-        "B612-Bold"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/b612/v4/3Jn9SDDxiSz34oWXDDeBTA.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=3Jn9SDDxiSz34oWXDDeBSw&skey=5458749603704b62&v=v4#B612",
-      "ttf": "https://fonts.gstatic.com/s/b612/v4/3Jn9SDDxiSz34oWXDDeBSQ.ttf",
-      "eot": "https://fonts.gstatic.com/s/b612/v4/3Jn9SDDxiSz34oWXDDeBSA.eot",
       "errored": false
     },
     {
@@ -61,9 +61,9 @@
         "B612 Bold Italic",
         "B612-BoldItalic"
       ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=3Jn_SDDxiSz36juKoDWxTl0H&skey=d3f841602bb4d082&v=v4#B612",
       "ttf": "https://fonts.gstatic.com/s/b612/v4/3Jn_SDDxiSz36juKoDWxTl0F.ttf",
       "woff": "https://fonts.gstatic.com/s/b612/v4/3Jn_SDDxiSz36juKoDWxTl0G.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=3Jn_SDDxiSz36juKoDWxTl0H&skey=d3f841602bb4d082&v=v4#B612",
       "errored": false
     }
   ],
@@ -72,8 +72,8 @@
   ],
   "category": "sans-serif",
   "version": "v4",
-  "lastModified": "2019-07-16",
-  "popularity": 901,
+  "lastModified": "2019-11-05",
+  "popularity": 786,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

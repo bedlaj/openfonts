@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "300",
-      "woff": "https://fonts.gstatic.com/s/aleo/v3/c4mg1nF8G8_syKbrxDxJmQ.woff",
+      "eot": "https://fonts.gstatic.com/s/aleo/v3/c4mg1nF8G8_syKbrxDxJmw.eot",
       "fontFamily": "'Aleo'",
       "fontStyle": "normal",
       "fontWeight": "300",
+      "ttf": "https://fonts.gstatic.com/s/aleo/v3/c4mg1nF8G8_syKbrxDxJmg.ttf",
       "local": [
         "Aleo Light",
         "Aleo-Light"
       ],
-      "woff2": "https://fonts.gstatic.com/s/aleo/v3/c4mg1nF8G8_syKbrxDxJnw.woff2",
-      "eot": "https://fonts.gstatic.com/s/aleo/v3/c4mg1nF8G8_syKbrxDxJmw.eot",
+      "woff": "https://fonts.gstatic.com/s/aleo/v3/c4mg1nF8G8_syKbrxDxJmQ.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=c4mg1nF8G8_syKbrxDxJmA&skey=9a7ce5bc2112bb2e&v=v3#Aleo",
-      "ttf": "https://fonts.gstatic.com/s/aleo/v3/c4mg1nF8G8_syKbrxDxJmg.ttf",
+      "woff2": "https://fonts.gstatic.com/s/aleo/v3/c4mg1nF8G8_syKbrxDxJnw.woff2",
       "errored": false
     },
     {
@@ -29,9 +29,9 @@
         "Aleo Regular",
         "Aleo-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/aleo/v3/c4mv1nF8G8_swAPJ0Q.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=c4mv1nF8G8_swAPJ1g&skey=554fd5dbc4714f4c&v=v3#Aleo",
       "ttf": "https://fonts.gstatic.com/s/aleo/v3/c4mv1nF8G8_swAPJ1A.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=c4mv1nF8G8_swAPJ1g&skey=554fd5dbc4714f4c&v=v3#Aleo",
+      "woff2": "https://fonts.gstatic.com/s/aleo/v3/c4mv1nF8G8_swAPJ0Q.woff2",
       "errored": false
     },
     {
@@ -52,11 +52,10 @@
     },
     {
       "id": "italic",
-      "eot": "https://fonts.gstatic.com/s/aleo/v3/c4mh1nF8G8_swAj53RVo.eot",
+      "woff": "https://fonts.gstatic.com/s/aleo/v3/c4mh1nF8G8_swAj53RVq.woff",
       "fontFamily": "'Aleo'",
       "fontStyle": "italic",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/aleo/v3/c4mh1nF8G8_swAj53RVq.woff",
       "local": [
         "Aleo Italic",
         "Aleo-Italic"
@@ -64,6 +63,23 @@
       "woff2": "https://fonts.gstatic.com/s/aleo/v3/c4mh1nF8G8_swAj53RVs.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=c4mh1nF8G8_swAj53RVr&skey=983d202d39cd6ab1&v=v3#Aleo",
       "ttf": "https://fonts.gstatic.com/s/aleo/v3/c4mh1nF8G8_swAj53RVp.ttf",
+      "eot": "https://fonts.gstatic.com/s/aleo/v3/c4mh1nF8G8_swAj53RVo.eot",
+      "errored": false
+    },
+    {
+      "id": "700italic",
+      "eot": "https://fonts.gstatic.com/s/aleo/v3/c4mi1nF8G8_swAjxaDB5k6d8.eot",
+      "fontFamily": "'Aleo'",
+      "fontStyle": "italic",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/aleo/v3/c4mi1nF8G8_swAjxaDB5k6d-.woff",
+      "local": [
+        "Aleo Bold Italic",
+        "Aleo-BoldItalic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/aleo/v3/c4mi1nF8G8_swAjxaDB5k6d4.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=c4mi1nF8G8_swAjxaDB5k6d_&skey=a66f25e74471922c&v=v3#Aleo",
+      "ttf": "https://fonts.gstatic.com/s/aleo/v3/c4mi1nF8G8_swAjxaDB5k6d9.ttf",
       "errored": false
     },
     {
@@ -78,24 +94,8 @@
         "Aleo-Bold"
       ],
       "svg": "https://fonts.gstatic.com/l/font?kit=c4mg1nF8G8_syLbsxDxJmA&skey=cb7fcb5945b9645b&v=v3#Aleo",
-      "woff2": "https://fonts.gstatic.com/s/aleo/v3/c4mg1nF8G8_syLbsxDxJnw.woff2",
       "ttf": "https://fonts.gstatic.com/s/aleo/v3/c4mg1nF8G8_syLbsxDxJmg.ttf",
-      "errored": false
-    },
-    {
-      "id": "700italic",
-      "woff": "https://fonts.gstatic.com/s/aleo/v3/c4mi1nF8G8_swAjxaDB5k6d-.woff",
-      "fontFamily": "'Aleo'",
-      "fontStyle": "italic",
-      "fontWeight": "700",
-      "local": [
-        "Aleo Bold Italic",
-        "Aleo-BoldItalic"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/aleo/v3/c4mi1nF8G8_swAjxaDB5k6d4.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=c4mi1nF8G8_swAjxaDB5k6d_&skey=a66f25e74471922c&v=v3#Aleo",
-      "ttf": "https://fonts.gstatic.com/s/aleo/v3/c4mi1nF8G8_swAjxaDB5k6d9.ttf",
-      "eot": "https://fonts.gstatic.com/s/aleo/v3/c4mi1nF8G8_swAjxaDB5k6d8.eot",
+      "woff2": "https://fonts.gstatic.com/s/aleo/v3/c4mg1nF8G8_syLbsxDxJnw.woff2",
       "errored": false
     }
   ],
@@ -105,8 +105,8 @@
   ],
   "category": "serif",
   "version": "v3",
-  "lastModified": "2019-07-16",
-  "popularity": 389,
+  "lastModified": "2019-11-05",
+  "popularity": 411,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

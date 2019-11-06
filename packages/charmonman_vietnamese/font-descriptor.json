@@ -3,22 +3,6 @@
   "family": "Charmonman",
   "variants": [
     {
-      "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/charmonman/v3/MjQDmiR3vP_nuxDv47jiaJmiuw.woff",
-      "fontFamily": "'Charmonman'",
-      "fontStyle": "normal",
-      "fontWeight": "400",
-      "local": [
-        "Charmonman Regular",
-        "Charmonman-Regular"
-      ],
-      "eot": "https://fonts.gstatic.com/s/charmonman/v3/MjQDmiR3vP_nuxDv47jiaJmiuQ.eot",
-      "woff2": "https://fonts.gstatic.com/s/charmonman/v3/MjQDmiR3vP_nuxDv47jiaJmivQ.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=MjQDmiR3vP_nuxDv47jiaJmiug&skey=ec7d9de60d8da527&v=v3#Charmonman",
-      "ttf": "https://fonts.gstatic.com/s/charmonman/v3/MjQDmiR3vP_nuxDv47jiaJmiuA.ttf",
-      "errored": false
-    },
-    {
       "id": "700",
       "eot": "https://fonts.gstatic.com/s/charmonman/v3/MjQAmiR3vP_nuxDv47jiYC2HqLdA8Q.eot",
       "fontFamily": "'Charmonman'",
@@ -29,29 +13,45 @@
         "Charmonman Bold",
         "Charmonman-Bold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/charmonman/v3/MjQAmiR3vP_nuxDv47jiYC2HqLdA9Q.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=MjQAmiR3vP_nuxDv47jiYC2HqLdA8g&skey=b984f529c1aa8e40&v=v3#Charmonman",
       "ttf": "https://fonts.gstatic.com/s/charmonman/v3/MjQAmiR3vP_nuxDv47jiYC2HqLdA8A.ttf",
+      "woff2": "https://fonts.gstatic.com/s/charmonman/v3/MjQAmiR3vP_nuxDv47jiYC2HqLdA9Q.woff2",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/charmonman/v3/MjQDmiR3vP_nuxDv47jiaJmiuw.woff",
+      "fontFamily": "'Charmonman'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Charmonman Regular",
+        "Charmonman-Regular"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=MjQDmiR3vP_nuxDv47jiaJmiug&skey=ec7d9de60d8da527&v=v3#Charmonman",
+      "woff2": "https://fonts.gstatic.com/s/charmonman/v3/MjQDmiR3vP_nuxDv47jiaJmivQ.woff2",
+      "ttf": "https://fonts.gstatic.com/s/charmonman/v3/MjQDmiR3vP_nuxDv47jiaJmiuA.ttf",
+      "eot": "https://fonts.gstatic.com/s/charmonman/v3/MjQDmiR3vP_nuxDv47jiaJmiuQ.eot",
       "errored": false
     }
   ],
   "subsets": [
-    "vietnamese",
-    "latin",
     "thai",
+    "latin",
+    "vietnamese",
     "latin-ext"
   ],
   "category": "handwriting",
   "version": "v3",
-  "lastModified": "2019-07-16",
-  "popularity": 790,
+  "lastModified": "2019-11-05",
+  "popularity": 812,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "vietnamese": true,
-    "latin": true,
     "thai": false,
+    "latin": true,
+    "vietnamese": true,
     "latin-ext": false
   },
-  "storeID": "latin_vietnamese"
+  "storeID": "vietnamese_latin"
 }

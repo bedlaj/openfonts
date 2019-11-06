@@ -4,34 +4,50 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/dmsans/v3/rP2Hp2ywxg089UriCZ2IGQ.eot",
+      "ttf": "https://fonts.gstatic.com/s/dmsans/v3/rP2Hp2ywxg089UriCZ2IGA.ttf",
       "fontFamily": "'DM Sans'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/dmsans/v3/rP2Hp2ywxg089UriCZ2IHQ.woff2",
       "local": [
         "DM Sans Regular",
         "DMSans-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/dmsans/v3/rP2Hp2ywxg089UriCZ2IGA.ttf",
-      "woff": "https://fonts.gstatic.com/s/dmsans/v3/rP2Hp2ywxg089UriCZ2IGw.woff",
+      "woff2": "https://fonts.gstatic.com/s/dmsans/v3/rP2Hp2ywxg089UriCZ2IHQ.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=rP2Hp2ywxg089UriCZ2IGg&skey=cd068b3e1b767e51&v=v3#DMSans",
+      "eot": "https://fonts.gstatic.com/s/dmsans/v3/rP2Hp2ywxg089UriCZ2IGQ.eot",
+      "woff": "https://fonts.gstatic.com/s/dmsans/v3/rP2Hp2ywxg089UriCZ2IGw.woff",
       "errored": false
     },
     {
       "id": "500",
-      "eot": "https://fonts.gstatic.com/s/dmsans/v3/rP2Cp2ywxg089UriAWCrCBamDw.eot",
+      "woff": "https://fonts.gstatic.com/s/dmsans/v3/rP2Cp2ywxg089UriAWCrCBamDQ.woff",
       "fontFamily": "'DM Sans'",
       "fontStyle": "normal",
       "fontWeight": "500",
-      "woff2": "https://fonts.gstatic.com/s/dmsans/v3/rP2Cp2ywxg089UriAWCrCBamCw.woff2",
       "local": [
         "DM Sans Medium",
         "DMSans-Medium"
       ],
-      "woff": "https://fonts.gstatic.com/s/dmsans/v3/rP2Cp2ywxg089UriAWCrCBamDQ.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=rP2Cp2ywxg089UriAWCrCBamDA&skey=eb1dc4edd240bc9a&v=v3#DMSans",
+      "eot": "https://fonts.gstatic.com/s/dmsans/v3/rP2Cp2ywxg089UriAWCrCBamDw.eot",
+      "woff2": "https://fonts.gstatic.com/s/dmsans/v3/rP2Cp2ywxg089UriAWCrCBamCw.woff2",
       "ttf": "https://fonts.gstatic.com/s/dmsans/v3/rP2Cp2ywxg089UriAWCrCBamDg.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=rP2Cp2ywxg089UriAWCrCBamDA&skey=eb1dc4edd240bc9a&v=v3#DMSans",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "woff": "https://fonts.gstatic.com/s/dmsans/v3/rP2Fp2ywxg089UriCZa4ET-F.woff",
+      "fontFamily": "'DM Sans'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "local": [
+        "DM Sans Italic",
+        "DMSans-Italic"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=rP2Fp2ywxg089UriCZa4ET-E&skey=3320fd60b11c3775&v=v3#DMSans",
+      "eot": "https://fonts.gstatic.com/s/dmsans/v3/rP2Fp2ywxg089UriCZa4ET-H.eot",
+      "woff2": "https://fonts.gstatic.com/s/dmsans/v3/rP2Fp2ywxg089UriCZa4ET-D.woff2",
+      "ttf": "https://fonts.gstatic.com/s/dmsans/v3/rP2Fp2ywxg089UriCZa4ET-G.ttf",
       "errored": false
     },
     {
@@ -44,26 +60,10 @@
         "DM Sans Medium Italic",
         "DMSans-MediumItalic"
       ],
-      "woff2": "https://fonts.gstatic.com/s/dmsans/v3/rP2Ap2ywxg089UriCZaw7ByWB3wT.woff2",
       "eot": "https://fonts.gstatic.com/s/dmsans/v3/rP2Ap2ywxg089UriCZaw7ByWB3wX.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=rP2Ap2ywxg089UriCZaw7ByWB3wU&skey=9996a0dae5072619&v=v3#DMSans",
+      "woff2": "https://fonts.gstatic.com/s/dmsans/v3/rP2Ap2ywxg089UriCZaw7ByWB3wT.woff2",
       "ttf": "https://fonts.gstatic.com/s/dmsans/v3/rP2Ap2ywxg089UriCZaw7ByWB3wW.ttf",
-      "errored": false
-    },
-    {
-      "id": "italic",
-      "eot": "https://fonts.gstatic.com/s/dmsans/v3/rP2Fp2ywxg089UriCZa4ET-H.eot",
-      "fontFamily": "'DM Sans'",
-      "fontStyle": "italic",
-      "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/dmsans/v3/rP2Fp2ywxg089UriCZa4ET-D.woff2",
-      "local": [
-        "DM Sans Italic",
-        "DMSans-Italic"
-      ],
-      "woff": "https://fonts.gstatic.com/s/dmsans/v3/rP2Fp2ywxg089UriCZa4ET-F.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=rP2Fp2ywxg089UriCZa4ET-E&skey=3320fd60b11c3775&v=v3#DMSans",
-      "ttf": "https://fonts.gstatic.com/s/dmsans/v3/rP2Fp2ywxg089UriCZa4ET-G.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=rP2Ap2ywxg089UriCZaw7ByWB3wU&skey=9996a0dae5072619&v=v3#DMSans",
       "errored": false
     },
     {
@@ -77,25 +77,25 @@
         "DM Sans Bold",
         "DMSans-Bold"
       ],
-      "ttf": "https://fonts.gstatic.com/s/dmsans/v3/rP2Cp2ywxg089UriASitCBamDg.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=rP2Cp2ywxg089UriASitCBamDA&skey=db8d161f653987b1&v=v3#DMSans",
+      "ttf": "https://fonts.gstatic.com/s/dmsans/v3/rP2Cp2ywxg089UriASitCBamDg.ttf",
       "woff": "https://fonts.gstatic.com/s/dmsans/v3/rP2Cp2ywxg089UriASitCBamDQ.woff",
       "errored": false
     },
     {
       "id": "700italic",
-      "woff": "https://fonts.gstatic.com/s/dmsans/v3/rP2Ap2ywxg089UriCZawpBqWB3wV.woff",
+      "eot": "https://fonts.gstatic.com/s/dmsans/v3/rP2Ap2ywxg089UriCZawpBqWB3wX.eot",
       "fontFamily": "'DM Sans'",
       "fontStyle": "italic",
       "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/dmsans/v3/rP2Ap2ywxg089UriCZawpBqWB3wV.woff",
       "local": [
         "DM Sans Bold Italic",
         "DMSans-BoldItalic"
       ],
-      "eot": "https://fonts.gstatic.com/s/dmsans/v3/rP2Ap2ywxg089UriCZawpBqWB3wX.eot",
       "woff2": "https://fonts.gstatic.com/s/dmsans/v3/rP2Ap2ywxg089UriCZawpBqWB3wT.woff2",
-      "ttf": "https://fonts.gstatic.com/s/dmsans/v3/rP2Ap2ywxg089UriCZawpBqWB3wW.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=rP2Ap2ywxg089UriCZawpBqWB3wU&skey=f72159c45b41cd7d&v=v3#DMSans",
+      "ttf": "https://fonts.gstatic.com/s/dmsans/v3/rP2Ap2ywxg089UriCZawpBqWB3wW.ttf",
       "errored": false
     }
   ],
@@ -105,8 +105,8 @@
   ],
   "category": "sans-serif",
   "version": "v3",
-  "lastModified": "2019-07-16",
-  "popularity": 738,
+  "lastModified": "2019-11-05",
+  "popularity": 374,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

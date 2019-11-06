@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "100",
-      "ttf": "https://fonts.gstatic.com/s/k2d/v3/J7aRnpF2V0ErE5UgtLY.ttf",
+      "woff2": "https://fonts.gstatic.com/s/k2d/v3/J7aRnpF2V0ErE5UgtLM.woff2",
       "fontFamily": "'K2D'",
       "fontStyle": "normal",
       "fontWeight": "100",
@@ -12,47 +12,47 @@
         "K2D Thin",
         "K2D-Thin"
       ],
-      "eot": "https://fonts.gstatic.com/s/k2d/v3/J7aRnpF2V0ErE5UgtLc.eot",
       "woff": "https://fonts.gstatic.com/s/k2d/v3/J7aRnpF2V0ErE5UgtLU.woff",
+      "ttf": "https://fonts.gstatic.com/s/k2d/v3/J7aRnpF2V0ErE5UgtLY.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=J7aRnpF2V0ErE5UgtLQ&skey=8d7d28e325925b7c&v=v3#K2D",
-      "woff2": "https://fonts.gstatic.com/s/k2d/v3/J7aRnpF2V0ErE5UgtLM.woff2",
-      "errored": false
-    },
-    {
-      "id": "200",
-      "eot": "https://fonts.gstatic.com/s/k2d/v3/J7aenpF2V0Erv4Q5nZY5.eot",
-      "fontFamily": "'K2D'",
-      "fontStyle": "normal",
-      "fontWeight": "200",
-      "woff": "https://fonts.gstatic.com/s/k2d/v3/J7aenpF2V0Erv4Q5nZY7.woff",
-      "local": [
-        "K2D ExtraLight",
-        "K2D-ExtraLight"
-      ],
-      "ttf": "https://fonts.gstatic.com/s/k2d/v3/J7aenpF2V0Erv4Q5nZY4.ttf",
-      "woff2": "https://fonts.gstatic.com/s/k2d/v3/J7aenpF2V0Erv4Q5nZY9.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=J7aenpF2V0Erv4Q5nZY6&skey=6e4895e791eefd33&v=v3#K2D",
+      "eot": "https://fonts.gstatic.com/s/k2d/v3/J7aRnpF2V0ErE5UgtLc.eot",
       "errored": false
     },
     {
       "id": "100italic",
-      "woff": "https://fonts.gstatic.com/s/k2d/v3/J7afnpF2V0EjdZ1NhL8Y7Q.woff",
+      "eot": "https://fonts.gstatic.com/s/k2d/v3/J7afnpF2V0EjdZ1NhL8Y7w.eot",
       "fontFamily": "'K2D'",
       "fontStyle": "italic",
       "fontWeight": "100",
+      "woff2": "https://fonts.gstatic.com/s/k2d/v3/J7afnpF2V0EjdZ1NhL8Y6w.woff2",
       "local": [
         "K2D Thin Italic",
         "K2D-ThinItalic"
       ],
-      "eot": "https://fonts.gstatic.com/s/k2d/v3/J7afnpF2V0EjdZ1NhL8Y7w.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=J7afnpF2V0EjdZ1NhL8Y7A&skey=949fc602b9fd6d14&v=v3#K2D",
+      "woff": "https://fonts.gstatic.com/s/k2d/v3/J7afnpF2V0EjdZ1NhL8Y7Q.woff",
       "ttf": "https://fonts.gstatic.com/s/k2d/v3/J7afnpF2V0EjdZ1NhL8Y7g.ttf",
-      "woff2": "https://fonts.gstatic.com/s/k2d/v3/J7afnpF2V0EjdZ1NhL8Y6w.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=J7afnpF2V0EjdZ1NhL8Y7A&skey=949fc602b9fd6d14&v=v3#K2D",
+      "errored": false
+    },
+    {
+      "id": "200",
+      "woff": "https://fonts.gstatic.com/s/k2d/v3/J7aenpF2V0Erv4Q5nZY7.woff",
+      "fontFamily": "'K2D'",
+      "fontStyle": "normal",
+      "fontWeight": "200",
+      "local": [
+        "K2D ExtraLight",
+        "K2D-ExtraLight"
+      ],
+      "eot": "https://fonts.gstatic.com/s/k2d/v3/J7aenpF2V0Erv4Q5nZY5.eot",
+      "woff2": "https://fonts.gstatic.com/s/k2d/v3/J7aenpF2V0Erv4Q5nZY9.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=J7aenpF2V0Erv4Q5nZY6&skey=6e4895e791eefd33&v=v3#K2D",
+      "ttf": "https://fonts.gstatic.com/s/k2d/v3/J7aenpF2V0Erv4Q5nZY4.ttf",
       "errored": false
     },
     {
       "id": "200italic",
-      "woff": "https://fonts.gstatic.com/s/k2d/v3/J7acnpF2V0EjdZ3hlaYxzpg.woff",
+      "woff2": "https://fonts.gstatic.com/s/k2d/v3/J7acnpF2V0EjdZ3hlaYxzp4.woff2",
       "fontFamily": "'K2D'",
       "fontStyle": "italic",
       "fontWeight": "200",
@@ -60,9 +60,9 @@
         "K2D ExtraLight Italic",
         "K2D-ExtraLightItalic"
       ],
-      "eot": "https://fonts.gstatic.com/s/k2d/v3/J7acnpF2V0EjdZ3hlaYxzpo.eot",
-      "woff2": "https://fonts.gstatic.com/s/k2d/v3/J7acnpF2V0EjdZ3hlaYxzp4.woff2",
+      "woff": "https://fonts.gstatic.com/s/k2d/v3/J7acnpF2V0EjdZ3hlaYxzpg.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=J7acnpF2V0EjdZ3hlaYxzpk&skey=fa6b4eb6faeb879d&v=v3#K2D",
+      "eot": "https://fonts.gstatic.com/s/k2d/v3/J7acnpF2V0EjdZ3hlaYxzpo.eot",
       "ttf": "https://fonts.gstatic.com/s/k2d/v3/J7acnpF2V0EjdZ3hlaYxzps.ttf",
       "errored": false
     },
@@ -77,40 +77,24 @@
         "K2D Light",
         "K2D-Light"
       ],
-      "ttf": "https://fonts.gstatic.com/s/k2d/v3/J7aenpF2V0Er24c5nZY4.ttf",
       "woff2": "https://fonts.gstatic.com/s/k2d/v3/J7aenpF2V0Er24c5nZY9.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=J7aenpF2V0Er24c5nZY6&skey=829c801d28d15cbe&v=v3#K2D",
-      "errored": false
-    },
-    {
-      "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/k2d/v3/J7aTnpF2V0EjfqUq.woff",
-      "fontFamily": "'K2D'",
-      "fontStyle": "normal",
-      "fontWeight": "400",
-      "local": [
-        "K2D Regular",
-        "K2D-Regular"
-      ],
-      "eot": "https://fonts.gstatic.com/s/k2d/v3/J7aTnpF2V0EjfqUo.eot",
-      "ttf": "https://fonts.gstatic.com/s/k2d/v3/J7aTnpF2V0EjfqUp.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=J7aTnpF2V0EjfqUr&skey=9be07d5c15884f23&v=v3#K2D",
-      "woff2": "https://fonts.gstatic.com/s/k2d/v3/J7aTnpF2V0EjfqUs.woff2",
+      "ttf": "https://fonts.gstatic.com/s/k2d/v3/J7aenpF2V0Er24c5nZY4.ttf",
       "errored": false
     },
     {
       "id": "300italic",
-      "woff2": "https://fonts.gstatic.com/s/k2d/v3/J7acnpF2V0EjdZ2FlqYxzp4.woff2",
+      "eot": "https://fonts.gstatic.com/s/k2d/v3/J7acnpF2V0EjdZ2FlqYxzpo.eot",
       "fontFamily": "'K2D'",
       "fontStyle": "italic",
       "fontWeight": "300",
+      "woff": "https://fonts.gstatic.com/s/k2d/v3/J7acnpF2V0EjdZ2FlqYxzpg.woff",
       "local": [
         "K2D Light Italic",
         "K2D-LightItalic"
       ],
-      "woff": "https://fonts.gstatic.com/s/k2d/v3/J7acnpF2V0EjdZ2FlqYxzpg.woff",
+      "woff2": "https://fonts.gstatic.com/s/k2d/v3/J7acnpF2V0EjdZ2FlqYxzp4.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=J7acnpF2V0EjdZ2FlqYxzpk&skey=ecd72aa5f4277208&v=v3#K2D",
-      "eot": "https://fonts.gstatic.com/s/k2d/v3/J7acnpF2V0EjdZ2FlqYxzpo.eot",
       "ttf": "https://fonts.gstatic.com/s/k2d/v3/J7acnpF2V0EjdZ2FlqYxzps.ttf",
       "errored": false
     },
@@ -124,26 +108,26 @@
         "K2D Italic",
         "K2D-Italic"
       ],
-      "woff2": "https://fonts.gstatic.com/s/k2d/v3/J7aRnpF2V0EjdZUgtLM.woff2",
       "eot": "https://fonts.gstatic.com/s/k2d/v3/J7aRnpF2V0EjdZUgtLc.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=J7aRnpF2V0EjdZUgtLQ&skey=d42c49211d02c007&v=v3#K2D",
+      "woff2": "https://fonts.gstatic.com/s/k2d/v3/J7aRnpF2V0EjdZUgtLM.woff2",
       "ttf": "https://fonts.gstatic.com/s/k2d/v3/J7aRnpF2V0EjdZUgtLY.ttf",
       "errored": false
     },
     {
-      "id": "600",
-      "eot": "https://fonts.gstatic.com/s/k2d/v3/J7aenpF2V0Err4E5nZY5.eot",
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/k2d/v3/J7aTnpF2V0EjfqUo.eot",
       "fontFamily": "'K2D'",
       "fontStyle": "normal",
-      "fontWeight": "600",
-      "woff": "https://fonts.gstatic.com/s/k2d/v3/J7aenpF2V0Err4E5nZY7.woff",
+      "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/k2d/v3/J7aTnpF2V0EjfqUq.woff",
       "local": [
-        "K2D SemiBold",
-        "K2D-SemiBold"
+        "K2D Regular",
+        "K2D-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=J7aenpF2V0Err4E5nZY6&skey=ea40e23cf0d9375e&v=v3#K2D",
-      "ttf": "https://fonts.gstatic.com/s/k2d/v3/J7aenpF2V0Err4E5nZY4.ttf",
-      "woff2": "https://fonts.gstatic.com/s/k2d/v3/J7aenpF2V0Err4E5nZY9.woff2",
+      "woff2": "https://fonts.gstatic.com/s/k2d/v3/J7aTnpF2V0EjfqUs.woff2",
+      "ttf": "https://fonts.gstatic.com/s/k2d/v3/J7aTnpF2V0EjfqUp.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=J7aTnpF2V0EjfqUr&skey=9be07d5c15884f23&v=v3#K2D",
       "errored": false
     },
     {
@@ -157,25 +141,25 @@
         "K2D Medium",
         "K2D-Medium"
       ],
-      "woff2": "https://fonts.gstatic.com/s/k2d/v3/J7aenpF2V0Erg4Y5nZY9.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=J7aenpF2V0Erg4Y5nZY6&skey=d2b3a67c79c6956d&v=v3#K2D",
       "ttf": "https://fonts.gstatic.com/s/k2d/v3/J7aenpF2V0Erg4Y5nZY4.ttf",
+      "woff2": "https://fonts.gstatic.com/s/k2d/v3/J7aenpF2V0Erg4Y5nZY9.woff2",
       "errored": false
     },
     {
       "id": "500italic",
-      "eot": "https://fonts.gstatic.com/s/k2d/v3/J7acnpF2V0EjdZ3dl6Yxzpo.eot",
+      "woff": "https://fonts.gstatic.com/s/k2d/v3/J7acnpF2V0EjdZ3dl6Yxzpg.woff",
       "fontFamily": "'K2D'",
       "fontStyle": "italic",
       "fontWeight": "500",
-      "svg": "https://fonts.gstatic.com/l/font?kit=J7acnpF2V0EjdZ3dl6Yxzpk&skey=2707fbdf6ce554d7&v=v3#K2D",
       "local": [
         "K2D Medium Italic",
         "K2D-MediumItalic"
       ],
-      "ttf": "https://fonts.gstatic.com/s/k2d/v3/J7acnpF2V0EjdZ3dl6Yxzps.ttf",
-      "woff": "https://fonts.gstatic.com/s/k2d/v3/J7acnpF2V0EjdZ3dl6Yxzpg.woff",
       "woff2": "https://fonts.gstatic.com/s/k2d/v3/J7acnpF2V0EjdZ3dl6Yxzp4.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=J7acnpF2V0EjdZ3dl6Yxzpk&skey=2707fbdf6ce554d7&v=v3#K2D",
+      "eot": "https://fonts.gstatic.com/s/k2d/v3/J7acnpF2V0EjdZ3dl6Yxzpo.eot",
+      "ttf": "https://fonts.gstatic.com/s/k2d/v3/J7acnpF2V0EjdZ3dl6Yxzps.ttf",
       "errored": false
     },
     {
@@ -190,8 +174,24 @@
         "K2D-SemiBoldItalic"
       ],
       "woff2": "https://fonts.gstatic.com/s/k2d/v3/J7acnpF2V0EjdZ3xkKYxzp4.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=J7acnpF2V0EjdZ3xkKYxzpk&skey=2096acc94fad3564&v=v3#K2D",
       "ttf": "https://fonts.gstatic.com/s/k2d/v3/J7acnpF2V0EjdZ3xkKYxzps.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=J7acnpF2V0EjdZ3xkKYxzpk&skey=2096acc94fad3564&v=v3#K2D",
+      "errored": false
+    },
+    {
+      "id": "600",
+      "eot": "https://fonts.gstatic.com/s/k2d/v3/J7aenpF2V0Err4E5nZY5.eot",
+      "fontFamily": "'K2D'",
+      "fontStyle": "normal",
+      "fontWeight": "600",
+      "woff2": "https://fonts.gstatic.com/s/k2d/v3/J7aenpF2V0Err4E5nZY9.woff2",
+      "local": [
+        "K2D SemiBold",
+        "K2D-SemiBold"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=J7aenpF2V0Err4E5nZY6&skey=ea40e23cf0d9375e&v=v3#K2D",
+      "ttf": "https://fonts.gstatic.com/s/k2d/v3/J7aenpF2V0Err4E5nZY4.ttf",
+      "woff": "https://fonts.gstatic.com/s/k2d/v3/J7aenpF2V0Err4E5nZY7.woff",
       "errored": false
     },
     {
@@ -206,8 +206,8 @@
         "K2D-Bold"
       ],
       "woff2": "https://fonts.gstatic.com/s/k2d/v3/J7aenpF2V0Ery4A5nZY9.woff2",
-      "ttf": "https://fonts.gstatic.com/s/k2d/v3/J7aenpF2V0Ery4A5nZY4.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=J7aenpF2V0Ery4A5nZY6&skey=d46e9d0a2e2ed030&v=v3#K2D",
+      "ttf": "https://fonts.gstatic.com/s/k2d/v3/J7aenpF2V0Ery4A5nZY4.ttf",
       "errored": false
     },
     {
@@ -221,9 +221,9 @@
         "K2D-BoldItalic"
       ],
       "woff2": "https://fonts.gstatic.com/s/k2d/v3/J7acnpF2V0EjdZ2VkaYxzp4.woff2",
+      "eot": "https://fonts.gstatic.com/s/k2d/v3/J7acnpF2V0EjdZ2VkaYxzpo.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=J7acnpF2V0EjdZ2VkaYxzpk&skey=80344799685f251d&v=v3#K2D",
       "ttf": "https://fonts.gstatic.com/s/k2d/v3/J7acnpF2V0EjdZ2VkaYxzps.ttf",
-      "eot": "https://fonts.gstatic.com/s/k2d/v3/J7acnpF2V0EjdZ2VkaYxzpo.eot",
       "errored": false
     },
     {
@@ -238,21 +238,21 @@
         "K2D-ExtraBold"
       ],
       "woff2": "https://fonts.gstatic.com/s/k2d/v3/J7aenpF2V0Er14M5nZY9.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=J7aenpF2V0Er14M5nZY6&skey=c528b9a669029166&v=v3#K2D",
       "ttf": "https://fonts.gstatic.com/s/k2d/v3/J7aenpF2V0Er14M5nZY4.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=J7aenpF2V0Er14M5nZY6&skey=c528b9a669029166&v=v3#K2D",
       "errored": false
     },
     {
       "id": "800italic",
-      "woff": "https://fonts.gstatic.com/s/k2d/v3/J7acnpF2V0EjdZ2JkqYxzpg.woff",
+      "eot": "https://fonts.gstatic.com/s/k2d/v3/J7acnpF2V0EjdZ2JkqYxzpo.eot",
       "fontFamily": "'K2D'",
       "fontStyle": "italic",
       "fontWeight": "800",
+      "woff": "https://fonts.gstatic.com/s/k2d/v3/J7acnpF2V0EjdZ2JkqYxzpg.woff",
       "local": [
         "K2D ExtraBold Italic",
         "K2D-ExtraBoldItalic"
       ],
-      "eot": "https://fonts.gstatic.com/s/k2d/v3/J7acnpF2V0EjdZ2JkqYxzpo.eot",
       "woff2": "https://fonts.gstatic.com/s/k2d/v3/J7acnpF2V0EjdZ2JkqYxzp4.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=J7acnpF2V0EjdZ2JkqYxzpk&skey=4325a4862f65aecc&v=v3#K2D",
       "ttf": "https://fonts.gstatic.com/s/k2d/v3/J7acnpF2V0EjdZ2JkqYxzps.ttf",
@@ -260,21 +260,21 @@
     }
   ],
   "subsets": [
-    "vietnamese",
-    "latin",
     "thai",
+    "latin",
+    "vietnamese",
     "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v3",
-  "lastModified": "2019-07-16",
-  "popularity": 611,
+  "lastModified": "2019-11-05",
+  "popularity": 560,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "vietnamese": false,
-    "latin": true,
     "thai": false,
+    "latin": true,
+    "vietnamese": false,
     "latin-ext": true
   },
   "storeID": "latin-ext_latin"

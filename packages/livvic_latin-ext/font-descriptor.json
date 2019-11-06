@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "100",
-      "svg": "https://fonts.gstatic.com/l/font?kit=rnCr-x1S2hzjrlffC9M3kn8&skey=156873aca65ee5e9&v=v3#Livvic",
+      "woff2": "https://fonts.gstatic.com/s/livvic/v3/rnCr-x1S2hzjrlffC9M3kng.woff2",
       "fontFamily": "'Livvic'",
       "fontStyle": "normal",
       "fontWeight": "100",
@@ -12,42 +12,26 @@
         "Livvic Thin",
         "Livvic-Thin"
       ],
-      "woff": "https://fonts.gstatic.com/s/livvic/v3/rnCr-x1S2hzjrlffC9M3kn4.woff",
-      "woff2": "https://fonts.gstatic.com/s/livvic/v3/rnCr-x1S2hzjrlffC9M3kng.woff2",
       "ttf": "https://fonts.gstatic.com/s/livvic/v3/rnCr-x1S2hzjrlffC9M3kn0.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=rnCr-x1S2hzjrlffC9M3kn8&skey=156873aca65ee5e9&v=v3#Livvic",
+      "woff": "https://fonts.gstatic.com/s/livvic/v3/rnCr-x1S2hzjrlffC9M3kn4.woff",
       "eot": "https://fonts.gstatic.com/s/livvic/v3/rnCr-x1S2hzjrlffC9M3knw.eot",
       "errored": false
     },
     {
       "id": "100italic",
-      "woff": "https://fonts.gstatic.com/s/livvic/v3/rnCt-x1S2hzjrlfXbdtaonTmSg.woff",
+      "eot": "https://fonts.gstatic.com/s/livvic/v3/rnCt-x1S2hzjrlfXbdtaonTmSA.eot",
       "fontFamily": "'Livvic'",
       "fontStyle": "italic",
       "fontWeight": "100",
+      "woff": "https://fonts.gstatic.com/s/livvic/v3/rnCt-x1S2hzjrlfXbdtaonTmSg.woff",
       "local": [
         "Livvic Thin Italic",
         "Livvic-ThinItalic"
       ],
-      "eot": "https://fonts.gstatic.com/s/livvic/v3/rnCt-x1S2hzjrlfXbdtaonTmSA.eot",
-      "woff2": "https://fonts.gstatic.com/s/livvic/v3/rnCt-x1S2hzjrlfXbdtaonTmTA.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=rnCt-x1S2hzjrlfXbdtaonTmSw&skey=da4e9f98ebba4d41&v=v3#Livvic",
       "ttf": "https://fonts.gstatic.com/s/livvic/v3/rnCt-x1S2hzjrlfXbdtaonTmSQ.ttf",
-      "errored": false
-    },
-    {
-      "id": "200",
-      "eot": "https://fonts.gstatic.com/s/livvic/v3/rnCq-x1S2hzjrlffp8Iuu13H.eot",
-      "fontFamily": "'Livvic'",
-      "fontStyle": "normal",
-      "fontWeight": "200",
-      "woff": "https://fonts.gstatic.com/s/livvic/v3/rnCq-x1S2hzjrlffp8Iuu13F.woff",
-      "local": [
-        "Livvic ExtraLight",
-        "Livvic-ExtraLight"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/livvic/v3/rnCq-x1S2hzjrlffp8Iuu13D.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=rnCq-x1S2hzjrlffp8Iuu13E&skey=f7b8780f28b60980&v=v3#Livvic",
-      "ttf": "https://fonts.gstatic.com/s/livvic/v3/rnCq-x1S2hzjrlffp8Iuu13G.ttf",
+      "woff2": "https://fonts.gstatic.com/s/livvic/v3/rnCt-x1S2hzjrlfXbdtaonTmTA.woff2",
       "errored": false
     },
     {
@@ -56,14 +40,30 @@
       "fontFamily": "'Livvic'",
       "fontStyle": "italic",
       "fontWeight": "200",
-      "woff2": "https://fonts.gstatic.com/s/livvic/v3/rnCs-x1S2hzjrlfXbdv2s23PafY.woff2",
+      "woff": "https://fonts.gstatic.com/s/livvic/v3/rnCs-x1S2hzjrlfXbdv2s23PafA.woff",
       "local": [
         "Livvic ExtraLight Italic",
         "Livvic-ExtraLightItalic"
       ],
+      "woff2": "https://fonts.gstatic.com/s/livvic/v3/rnCs-x1S2hzjrlfXbdv2s23PafY.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=rnCs-x1S2hzjrlfXbdv2s23PafE&skey=f225ef0329cd93e&v=v3#Livvic",
-      "woff": "https://fonts.gstatic.com/s/livvic/v3/rnCs-x1S2hzjrlfXbdv2s23PafA.woff",
       "ttf": "https://fonts.gstatic.com/s/livvic/v3/rnCs-x1S2hzjrlfXbdv2s23PafM.ttf",
+      "errored": false
+    },
+    {
+      "id": "200",
+      "eot": "https://fonts.gstatic.com/s/livvic/v3/rnCq-x1S2hzjrlffp8Iuu13H.eot",
+      "fontFamily": "'Livvic'",
+      "fontStyle": "normal",
+      "fontWeight": "200",
+      "woff2": "https://fonts.gstatic.com/s/livvic/v3/rnCq-x1S2hzjrlffp8Iuu13D.woff2",
+      "local": [
+        "Livvic ExtraLight",
+        "Livvic-ExtraLight"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/livvic/v3/rnCq-x1S2hzjrlffp8Iuu13G.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=rnCq-x1S2hzjrlffp8Iuu13E&skey=f7b8780f28b60980&v=v3#Livvic",
+      "woff": "https://fonts.gstatic.com/s/livvic/v3/rnCq-x1S2hzjrlffp8Iuu13F.woff",
       "errored": false
     },
     {
@@ -77,9 +77,9 @@
         "Livvic Light",
         "Livvic-Light"
       ],
-      "woff2": "https://fonts.gstatic.com/s/livvic/v3/rnCq-x1S2hzjrlffw8Euu13D.woff2",
-      "ttf": "https://fonts.gstatic.com/s/livvic/v3/rnCq-x1S2hzjrlffw8Euu13G.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=rnCq-x1S2hzjrlffw8Euu13E&skey=9453c1a1f1de8a65&v=v3#Livvic",
+      "ttf": "https://fonts.gstatic.com/s/livvic/v3/rnCq-x1S2hzjrlffw8Euu13G.ttf",
+      "woff2": "https://fonts.gstatic.com/s/livvic/v3/rnCq-x1S2hzjrlffw8Euu13D.woff2",
       "errored": false
     },
     {
@@ -94,40 +94,24 @@
         "Livvic-LightItalic"
       ],
       "woff2": "https://fonts.gstatic.com/s/livvic/v3/rnCs-x1S2hzjrlfXbduSsG3PafY.woff2",
-      "ttf": "https://fonts.gstatic.com/s/livvic/v3/rnCs-x1S2hzjrlfXbduSsG3PafM.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=rnCs-x1S2hzjrlfXbduSsG3PafE&skey=8e07f89e17039950&v=v3#Livvic",
-      "errored": false
-    },
-    {
-      "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/livvic/v3/rnCp-x1S2hzjrlfXZuM9.woff",
-      "fontFamily": "'Livvic'",
-      "fontStyle": "normal",
-      "fontWeight": "400",
-      "local": [
-        "Livvic Regular",
-        "Livvic-Regular"
-      ],
-      "eot": "https://fonts.gstatic.com/s/livvic/v3/rnCp-x1S2hzjrlfXZuM_.eot",
-      "woff2": "https://fonts.gstatic.com/s/livvic/v3/rnCp-x1S2hzjrlfXZuM7.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=rnCp-x1S2hzjrlfXZuM8&skey=39534644bc440b79&v=v3#Livvic",
-      "ttf": "https://fonts.gstatic.com/s/livvic/v3/rnCp-x1S2hzjrlfXZuM-.ttf",
+      "ttf": "https://fonts.gstatic.com/s/livvic/v3/rnCs-x1S2hzjrlfXbduSsG3PafM.ttf",
       "errored": false
     },
     {
       "id": "italic",
-      "woff2": "https://fonts.gstatic.com/s/livvic/v3/rnCr-x1S2hzjrlfXbdM3kng.woff2",
+      "eot": "https://fonts.gstatic.com/s/livvic/v3/rnCr-x1S2hzjrlfXbdM3knw.eot",
       "fontFamily": "'Livvic'",
       "fontStyle": "italic",
       "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/livvic/v3/rnCr-x1S2hzjrlfXbdM3kng.woff2",
       "local": [
         "Livvic Italic",
         "Livvic-Italic"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=rnCr-x1S2hzjrlfXbdM3kn8&skey=9f695521e7206ecb&v=v3#Livvic",
       "woff": "https://fonts.gstatic.com/s/livvic/v3/rnCr-x1S2hzjrlfXbdM3kn4.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=rnCr-x1S2hzjrlfXbdM3kn8&skey=9f695521e7206ecb&v=v3#Livvic",
       "ttf": "https://fonts.gstatic.com/s/livvic/v3/rnCr-x1S2hzjrlfXbdM3kn0.ttf",
-      "eot": "https://fonts.gstatic.com/s/livvic/v3/rnCr-x1S2hzjrlfXbdM3knw.eot",
       "errored": false
     },
     {
@@ -140,10 +124,26 @@
         "Livvic Medium",
         "Livvic-Medium"
       ],
-      "eot": "https://fonts.gstatic.com/s/livvic/v3/rnCq-x1S2hzjrlffm8Auu13H.eot",
       "woff2": "https://fonts.gstatic.com/s/livvic/v3/rnCq-x1S2hzjrlffm8Auu13D.woff2",
+      "eot": "https://fonts.gstatic.com/s/livvic/v3/rnCq-x1S2hzjrlffm8Auu13H.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=rnCq-x1S2hzjrlffm8Auu13E&skey=1ce7eacc326b4a17&v=v3#Livvic",
       "ttf": "https://fonts.gstatic.com/s/livvic/v3/rnCq-x1S2hzjrlffm8Auu13G.ttf",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/livvic/v3/rnCp-x1S2hzjrlfXZuM_.eot",
+      "fontFamily": "'Livvic'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/livvic/v3/rnCp-x1S2hzjrlfXZuM9.woff",
+      "local": [
+        "Livvic Regular",
+        "Livvic-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/livvic/v3/rnCp-x1S2hzjrlfXZuM7.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=rnCp-x1S2hzjrlfXZuM8&skey=39534644bc440b79&v=v3#Livvic",
+      "ttf": "https://fonts.gstatic.com/s/livvic/v3/rnCp-x1S2hzjrlfXZuM-.ttf",
       "errored": false
     },
     {
@@ -157,9 +157,9 @@
         "Livvic Medium Italic",
         "Livvic-MediumItalic"
       ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=rnCs-x1S2hzjrlfXbdvKsW3PafE&skey=4d795352cabc5808&v=v3#Livvic",
       "woff2": "https://fonts.gstatic.com/s/livvic/v3/rnCs-x1S2hzjrlfXbdvKsW3PafY.woff2",
       "ttf": "https://fonts.gstatic.com/s/livvic/v3/rnCs-x1S2hzjrlfXbdvKsW3PafM.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=rnCs-x1S2hzjrlfXbdvKsW3PafE&skey=4d795352cabc5808&v=v3#Livvic",
       "errored": false
     },
     {
@@ -168,14 +168,46 @@
       "fontFamily": "'Livvic'",
       "fontStyle": "normal",
       "fontWeight": "600",
-      "woff": "https://fonts.gstatic.com/s/livvic/v3/rnCq-x1S2hzjrlfft8cuu13F.woff",
+      "woff2": "https://fonts.gstatic.com/s/livvic/v3/rnCq-x1S2hzjrlfft8cuu13D.woff2",
       "local": [
         "Livvic SemiBold",
         "Livvic-SemiBold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/livvic/v3/rnCq-x1S2hzjrlfft8cuu13D.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=rnCq-x1S2hzjrlfft8cuu13E&skey=92cdb4e03e66fcbe&v=v3#Livvic",
+      "woff": "https://fonts.gstatic.com/s/livvic/v3/rnCq-x1S2hzjrlfft8cuu13F.woff",
       "ttf": "https://fonts.gstatic.com/s/livvic/v3/rnCq-x1S2hzjrlfft8cuu13G.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=rnCq-x1S2hzjrlfft8cuu13E&skey=92cdb4e03e66fcbe&v=v3#Livvic",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff": "https://fonts.gstatic.com/s/livvic/v3/rnCq-x1S2hzjrlff08Yuu13F.woff",
+      "fontFamily": "'Livvic'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Livvic Bold",
+        "Livvic-Bold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/livvic/v3/rnCq-x1S2hzjrlff08Yuu13D.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=rnCq-x1S2hzjrlff08Yuu13E&skey=53b0c364356cdaf5&v=v3#Livvic",
+      "eot": "https://fonts.gstatic.com/s/livvic/v3/rnCq-x1S2hzjrlff08Yuu13H.eot",
+      "ttf": "https://fonts.gstatic.com/s/livvic/v3/rnCq-x1S2hzjrlff08Yuu13G.ttf",
+      "errored": false
+    },
+    {
+      "id": "700italic",
+      "eot": "https://fonts.gstatic.com/s/livvic/v3/rnCs-x1S2hzjrlfXbduCt23PafI.eot",
+      "fontFamily": "'Livvic'",
+      "fontStyle": "italic",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/livvic/v3/rnCs-x1S2hzjrlfXbduCt23PafA.woff",
+      "local": [
+        "Livvic Bold Italic",
+        "Livvic-BoldItalic"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=rnCs-x1S2hzjrlfXbduCt23PafE&skey=5fb629f18199b476&v=v3#Livvic",
+      "woff2": "https://fonts.gstatic.com/s/livvic/v3/rnCs-x1S2hzjrlfXbduCt23PafY.woff2",
+      "ttf": "https://fonts.gstatic.com/s/livvic/v3/rnCs-x1S2hzjrlfXbduCt23PafM.ttf",
       "errored": false
     },
     {
@@ -189,25 +221,9 @@
         "Livvic SemiBold Italic",
         "Livvic-SemiBoldItalic"
       ],
-      "woff2": "https://fonts.gstatic.com/s/livvic/v3/rnCs-x1S2hzjrlfXbdvmtm3PafY.woff2",
-      "ttf": "https://fonts.gstatic.com/s/livvic/v3/rnCs-x1S2hzjrlfXbdvmtm3PafM.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=rnCs-x1S2hzjrlfXbdvmtm3PafE&skey=c395967ef99edb83&v=v3#Livvic",
-      "errored": false
-    },
-    {
-      "id": "700",
-      "eot": "https://fonts.gstatic.com/s/livvic/v3/rnCq-x1S2hzjrlff08Yuu13H.eot",
-      "fontFamily": "'Livvic'",
-      "fontStyle": "normal",
-      "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/livvic/v3/rnCq-x1S2hzjrlff08Yuu13F.woff",
-      "local": [
-        "Livvic Bold",
-        "Livvic-Bold"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/livvic/v3/rnCq-x1S2hzjrlff08Yuu13D.woff2",
-      "ttf": "https://fonts.gstatic.com/s/livvic/v3/rnCq-x1S2hzjrlff08Yuu13G.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=rnCq-x1S2hzjrlff08Yuu13E&skey=53b0c364356cdaf5&v=v3#Livvic",
+      "ttf": "https://fonts.gstatic.com/s/livvic/v3/rnCs-x1S2hzjrlfXbdvmtm3PafM.ttf",
+      "woff2": "https://fonts.gstatic.com/s/livvic/v3/rnCs-x1S2hzjrlfXbdvmtm3PafY.woff2",
       "errored": false
     },
     {
@@ -224,22 +240,6 @@
       "woff2": "https://fonts.gstatic.com/s/livvic/v3/rnCq-x1S2hzjrlff68Quu13D.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=rnCq-x1S2hzjrlff68Quu13E&skey=17578ae47c093ada&v=v3#Livvic",
       "ttf": "https://fonts.gstatic.com/s/livvic/v3/rnCq-x1S2hzjrlff68Quu13G.ttf",
-      "errored": false
-    },
-    {
-      "id": "700italic",
-      "eot": "https://fonts.gstatic.com/s/livvic/v3/rnCs-x1S2hzjrlfXbduCt23PafI.eot",
-      "fontFamily": "'Livvic'",
-      "fontStyle": "italic",
-      "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/livvic/v3/rnCs-x1S2hzjrlfXbduCt23PafA.woff",
-      "local": [
-        "Livvic Bold Italic",
-        "Livvic-BoldItalic"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/livvic/v3/rnCs-x1S2hzjrlfXbduCt23PafY.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=rnCs-x1S2hzjrlfXbduCt23PafE&skey=5fb629f18199b476&v=v3#Livvic",
-      "ttf": "https://fonts.gstatic.com/s/livvic/v3/rnCs-x1S2hzjrlfXbduCt23PafM.ttf",
       "errored": false
     },
     {
@@ -261,19 +261,19 @@
   ],
   "subsets": [
     "latin",
-    "latin-ext",
-    "vietnamese"
+    "vietnamese",
+    "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v3",
-  "lastModified": "2019-09-17",
-  "popularity": 725,
+  "lastModified": "2019-11-05",
+  "popularity": 655,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "latin": true,
-    "latin-ext": true,
-    "vietnamese": false
+    "vietnamese": false,
+    "latin-ext": true
   },
   "storeID": "latin-ext_latin"
 }

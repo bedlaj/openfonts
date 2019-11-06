@@ -4,31 +4,31 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/srisakdi/v3/yMJRMIlvdpDbkB0A-gq7dys.woff",
+      "eot": "https://fonts.gstatic.com/s/srisakdi/v3/yMJRMIlvdpDbkB0A-gq7dyk.eot",
       "fontFamily": "'Srisakdi'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/srisakdi/v3/yMJRMIlvdpDbkB0A-gq7dys.woff",
       "local": [
         "Srisakdi Regular",
         "Srisakdi-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/srisakdi/v3/yMJRMIlvdpDbkB0A-gq7dyk.eot",
+      "woff2": "https://fonts.gstatic.com/s/srisakdi/v3/yMJRMIlvdpDbkB0A-gq7dy0.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=yMJRMIlvdpDbkB0A-gq7dyo&skey=788157e0305eddec&v=v3#Srisakdi",
       "ttf": "https://fonts.gstatic.com/s/srisakdi/v3/yMJRMIlvdpDbkB0A-gq7dyg.ttf",
-      "woff2": "https://fonts.gstatic.com/s/srisakdi/v3/yMJRMIlvdpDbkB0A-gq7dy0.woff2",
       "errored": false
     },
     {
       "id": "700",
-      "eot": "https://fonts.gstatic.com/s/srisakdi/v3/yMJWMIlvdpDbkB0A-gIAUjh2qtQ.eot",
+      "woff2": "https://fonts.gstatic.com/s/srisakdi/v3/yMJWMIlvdpDbkB0A-gIAUjh2qtA.woff2",
       "fontFamily": "'Srisakdi'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff2": "https://fonts.gstatic.com/s/srisakdi/v3/yMJWMIlvdpDbkB0A-gIAUjh2qtA.woff2",
       "local": [
         "Srisakdi Bold",
         "Srisakdi-Bold"
       ],
+      "eot": "https://fonts.gstatic.com/s/srisakdi/v3/yMJWMIlvdpDbkB0A-gIAUjh2qtQ.eot",
       "woff": "https://fonts.gstatic.com/s/srisakdi/v3/yMJWMIlvdpDbkB0A-gIAUjh2qtY.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=yMJWMIlvdpDbkB0A-gIAUjh2qtc&skey=24500905fa98148a&v=v3#Srisakdi",
       "ttf": "https://fonts.gstatic.com/s/srisakdi/v3/yMJWMIlvdpDbkB0A-gIAUjh2qtU.ttf",
@@ -36,21 +36,21 @@
     }
   ],
   "subsets": [
-    "vietnamese",
-    "latin",
     "thai",
+    "latin",
+    "vietnamese",
     "latin-ext"
   ],
   "category": "display",
   "version": "v3",
-  "lastModified": "2019-07-16",
-  "popularity": 873,
+  "lastModified": "2019-11-05",
+  "popularity": 777,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "vietnamese": false,
-    "latin": true,
     "thai": false,
+    "latin": true,
+    "vietnamese": false,
     "latin-ext": false
   },
   "storeID": "latin"

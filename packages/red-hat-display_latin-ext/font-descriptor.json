@@ -4,34 +4,34 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/redhatdisplay/v3/8vIQ7wUr0m80wwYf0QCXZzYzUoTg8z6l.eot",
+      "ttf": "https://fonts.gstatic.com/s/redhatdisplay/v3/8vIQ7wUr0m80wwYf0QCXZzYzUoTg8z6k.ttf",
       "fontFamily": "'Red Hat Display'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "svg": "https://fonts.gstatic.com/l/font?kit=8vIQ7wUr0m80wwYf0QCXZzYzUoTg8z6m&skey=3445dd5b86d56e57&v=v3#RedHatDisplay",
       "local": [
         "Red Hat Display",
         "RedHatDisplay-Regular"
       ],
       "woff2": "https://fonts.gstatic.com/s/redhatdisplay/v3/8vIQ7wUr0m80wwYf0QCXZzYzUoTg8z6h.woff2",
+      "eot": "https://fonts.gstatic.com/s/redhatdisplay/v3/8vIQ7wUr0m80wwYf0QCXZzYzUoTg8z6l.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=8vIQ7wUr0m80wwYf0QCXZzYzUoTg8z6m&skey=3445dd5b86d56e57&v=v3#RedHatDisplay",
       "woff": "https://fonts.gstatic.com/s/redhatdisplay/v3/8vIQ7wUr0m80wwYf0QCXZzYzUoTg8z6n.woff",
-      "ttf": "https://fonts.gstatic.com/s/redhatdisplay/v3/8vIQ7wUr0m80wwYf0QCXZzYzUoTg8z6k.ttf",
       "errored": false
     },
     {
-      "id": "italic",
-      "eot": "https://fonts.gstatic.com/s/redhatdisplay/v3/8vIS7wUr0m80wwYf0QCXZzYzUoTg-A6tTYs.eot",
+      "id": "500",
+      "eot": "https://fonts.gstatic.com/s/redhatdisplay/v3/8vIV7wUr0m80wwYf0QCXZzYzUoToDh20ZKrE.eot",
       "fontFamily": "'Red Hat Display'",
-      "fontStyle": "italic",
-      "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/redhatdisplay/v3/8vIS7wUr0m80wwYf0QCXZzYzUoTg-A6tTYk.woff",
+      "fontStyle": "normal",
+      "fontWeight": "500",
+      "woff2": "https://fonts.gstatic.com/s/redhatdisplay/v3/8vIV7wUr0m80wwYf0QCXZzYzUoToDh20ZKrA.woff2",
       "local": [
-        "Red Hat Display It",
-        "RedHatDisplay-Italic"
+        "Red Hat Display Medium",
+        "RedHatDisplay-Medium"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=8vIS7wUr0m80wwYf0QCXZzYzUoTg-A6tTYg&skey=75da5a29d105ef1f&v=v3#RedHatDisplay",
-      "woff2": "https://fonts.gstatic.com/s/redhatdisplay/v3/8vIS7wUr0m80wwYf0QCXZzYzUoTg-A6tTY8.woff2",
-      "ttf": "https://fonts.gstatic.com/s/redhatdisplay/v3/8vIS7wUr0m80wwYf0QCXZzYzUoTg-A6tTYo.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=8vIV7wUr0m80wwYf0QCXZzYzUoToDh20ZKrH&skey=2b96be77f2d66fab&v=v3#RedHatDisplay",
+      "woff": "https://fonts.gstatic.com/s/redhatdisplay/v3/8vIV7wUr0m80wwYf0QCXZzYzUoToDh20ZKrG.woff",
+      "ttf": "https://fonts.gstatic.com/s/redhatdisplay/v3/8vIV7wUr0m80wwYf0QCXZzYzUoToDh20ZKrF.ttf",
       "errored": false
     },
     {
@@ -51,6 +51,22 @@
       "errored": false
     },
     {
+      "id": "italic",
+      "eot": "https://fonts.gstatic.com/s/redhatdisplay/v3/8vIS7wUr0m80wwYf0QCXZzYzUoTg-A6tTYs.eot",
+      "fontFamily": "'Red Hat Display'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/redhatdisplay/v3/8vIS7wUr0m80wwYf0QCXZzYzUoTg-A6tTY8.woff2",
+      "local": [
+        "Red Hat Display It",
+        "RedHatDisplay-Italic"
+      ],
+      "woff": "https://fonts.gstatic.com/s/redhatdisplay/v3/8vIS7wUr0m80wwYf0QCXZzYzUoTg-A6tTYk.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=8vIS7wUr0m80wwYf0QCXZzYzUoTg-A6tTYg&skey=75da5a29d105ef1f&v=v3#RedHatDisplay",
+      "ttf": "https://fonts.gstatic.com/s/redhatdisplay/v3/8vIS7wUr0m80wwYf0QCXZzYzUoTg-A6tTYo.ttf",
+      "errored": false
+    },
+    {
       "id": "700",
       "eot": "https://fonts.gstatic.com/s/redhatdisplay/v3/8vIV7wUr0m80wwYf0QCXZzYzUoToRhu0ZKrE.eot",
       "fontFamily": "'Red Hat Display'",
@@ -67,35 +83,19 @@
       "errored": false
     },
     {
-      "id": "500",
-      "woff": "https://fonts.gstatic.com/s/redhatdisplay/v3/8vIV7wUr0m80wwYf0QCXZzYzUoToDh20ZKrG.woff",
-      "fontFamily": "'Red Hat Display'",
-      "fontStyle": "normal",
-      "fontWeight": "500",
-      "local": [
-        "Red Hat Display Medium",
-        "RedHatDisplay-Medium"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=8vIV7wUr0m80wwYf0QCXZzYzUoToDh20ZKrH&skey=2b96be77f2d66fab&v=v3#RedHatDisplay",
-      "woff2": "https://fonts.gstatic.com/s/redhatdisplay/v3/8vIV7wUr0m80wwYf0QCXZzYzUoToDh20ZKrA.woff2",
-      "ttf": "https://fonts.gstatic.com/s/redhatdisplay/v3/8vIV7wUr0m80wwYf0QCXZzYzUoToDh20ZKrF.ttf",
-      "eot": "https://fonts.gstatic.com/s/redhatdisplay/v3/8vIV7wUr0m80wwYf0QCXZzYzUoToDh20ZKrE.eot",
-      "errored": false
-    },
-    {
       "id": "700italic",
       "eot": "https://fonts.gstatic.com/s/redhatdisplay/v3/8vIX7wUr0m80wwYf0QCXZzYzUoTg-AYYaJrMKEc.eot",
       "fontFamily": "'Red Hat Display'",
       "fontStyle": "italic",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/redhatdisplay/v3/8vIX7wUr0m80wwYf0QCXZzYzUoTg-AYYaJrMKEU.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=8vIX7wUr0m80wwYf0QCXZzYzUoTg-AYYaJrMKEQ&skey=c8f59bd5a837cea2&v=v3#RedHatDisplay",
       "local": [
         "Red Hat Display Bold It",
         "RedHatDisplay-BoldItalic"
       ],
       "woff2": "https://fonts.gstatic.com/s/redhatdisplay/v3/8vIX7wUr0m80wwYf0QCXZzYzUoTg-AYYaJrMKEM.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=8vIX7wUr0m80wwYf0QCXZzYzUoTg-AYYaJrMKEQ&skey=c8f59bd5a837cea2&v=v3#RedHatDisplay",
       "ttf": "https://fonts.gstatic.com/s/redhatdisplay/v3/8vIX7wUr0m80wwYf0QCXZzYzUoTg-AYYaJrMKEY.ttf",
+      "woff": "https://fonts.gstatic.com/s/redhatdisplay/v3/8vIX7wUr0m80wwYf0QCXZzYzUoTg-AYYaJrMKEU.woff",
       "errored": false
     },
     {
@@ -125,8 +125,8 @@
         "Red Hat Display Black It",
         "RedHatDisplay-BlackItalic"
       ],
-      "woff2": "https://fonts.gstatic.com/s/redhatdisplay/v3/8vIX7wUr0m80wwYf0QCXZzYzUoTg-AYgaprMKEM.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=8vIX7wUr0m80wwYf0QCXZzYzUoTg-AYgaprMKEQ&skey=3078815246e0e592&v=v3#RedHatDisplay",
+      "woff2": "https://fonts.gstatic.com/s/redhatdisplay/v3/8vIX7wUr0m80wwYf0QCXZzYzUoTg-AYgaprMKEM.woff2",
       "ttf": "https://fonts.gstatic.com/s/redhatdisplay/v3/8vIX7wUr0m80wwYf0QCXZzYzUoTg-AYgaprMKEY.ttf",
       "errored": false
     }
@@ -137,8 +137,8 @@
   ],
   "category": "sans-serif",
   "version": "v3",
-  "lastModified": "2019-09-17",
-  "popularity": 817,
+  "lastModified": "2019-11-05",
+  "popularity": 634,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

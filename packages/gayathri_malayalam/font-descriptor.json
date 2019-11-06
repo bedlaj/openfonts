@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "100",
-      "ttf": "https://fonts.gstatic.com/s/gayathri/v1/MCoWzAb429DbBilWLLhcyoTYBw.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=MCoWzAb429DbBilWLLhcyoTYBQ&skey=99dbbb2745d5075f&v=v1#Gayathri",
       "fontFamily": "'Gayathri'",
       "fontStyle": "normal",
       "fontWeight": "100",
@@ -13,41 +13,41 @@
         "Gayathri-Thin"
       ],
       "woff": "https://fonts.gstatic.com/s/gayathri/v1/MCoWzAb429DbBilWLLhcyoTYBA.woff",
-      "woff2": "https://fonts.gstatic.com/s/gayathri/v1/MCoWzAb429DbBilWLLhcyoTYAg.woff2",
+      "ttf": "https://fonts.gstatic.com/s/gayathri/v1/MCoWzAb429DbBilWLLhcyoTYBw.ttf",
       "eot": "https://fonts.gstatic.com/s/gayathri/v1/MCoWzAb429DbBilWLLhcyoTYBg.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=MCoWzAb429DbBilWLLhcyoTYBQ&skey=99dbbb2745d5075f&v=v1#Gayathri",
-      "errored": false
-    },
-    {
-      "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/gayathri/v1/MCoQzAb429DbBilWLLAn-po.eot",
-      "fontFamily": "'Gayathri'",
-      "fontStyle": "normal",
-      "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/gayathri/v1/MCoQzAb429DbBilWLLAn-pg.woff",
-      "local": [
-        "Gayathri Regular",
-        "Gayathri-Regular"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/gayathri/v1/MCoQzAb429DbBilWLLAn-p4.woff2",
-      "ttf": "https://fonts.gstatic.com/s/gayathri/v1/MCoQzAb429DbBilWLLAn-ps.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=MCoQzAb429DbBilWLLAn-pk&skey=f831e08bdd1f971b&v=v1#Gayathri",
+      "woff2": "https://fonts.gstatic.com/s/gayathri/v1/MCoWzAb429DbBilWLLhcyoTYAg.woff2",
       "errored": false
     },
     {
       "id": "700",
-      "eot": "https://fonts.gstatic.com/s/gayathri/v1/MCoXzAb429DbBilWLLiE34vnJ_E.eot",
+      "woff": "https://fonts.gstatic.com/s/gayathri/v1/MCoXzAb429DbBilWLLiE34vnJ_M.woff",
       "fontFamily": "'Gayathri'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/gayathri/v1/MCoXzAb429DbBilWLLiE34vnJ_M.woff",
       "local": [
         "Gayathri Bold",
         "Gayathri-Bold"
       ],
       "woff2": "https://fonts.gstatic.com/s/gayathri/v1/MCoXzAb429DbBilWLLiE34vnJ_U.woff2",
+      "eot": "https://fonts.gstatic.com/s/gayathri/v1/MCoXzAb429DbBilWLLiE34vnJ_E.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=MCoXzAb429DbBilWLLiE34vnJ_I&skey=17e3544ed73f54f4&v=v1#Gayathri",
       "ttf": "https://fonts.gstatic.com/s/gayathri/v1/MCoXzAb429DbBilWLLiE34vnJ_A.ttf",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/gayathri/v1/MCoQzAb429DbBilWLLAn-pg.woff",
+      "fontFamily": "'Gayathri'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Gayathri Regular",
+        "Gayathri-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/gayathri/v1/MCoQzAb429DbBilWLLAn-p4.woff2",
+      "eot": "https://fonts.gstatic.com/s/gayathri/v1/MCoQzAb429DbBilWLLAn-po.eot",
+      "ttf": "https://fonts.gstatic.com/s/gayathri/v1/MCoQzAb429DbBilWLLAn-ps.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=MCoQzAb429DbBilWLLAn-pk&skey=f831e08bdd1f971b&v=v1#Gayathri",
       "errored": false
     }
   ],
@@ -57,8 +57,8 @@
   ],
   "category": "sans-serif",
   "version": "v1",
-  "lastModified": "2019-08-22",
-  "popularity": 933,
+  "lastModified": "2019-11-05",
+  "popularity": 829,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

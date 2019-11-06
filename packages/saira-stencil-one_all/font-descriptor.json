@@ -12,28 +12,28 @@
         "Saira Stencil One Regular",
         "SairaStencilOne-Regular"
       ],
+      "eot": "https://fonts.gstatic.com/s/sairastencilone/v1/SLXSc03I6HkvZGJ1GvvipLoYSTEL9AsN.eot",
       "woff2": "https://fonts.gstatic.com/s/sairastencilone/v1/SLXSc03I6HkvZGJ1GvvipLoYSTEL9AsJ.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=SLXSc03I6HkvZGJ1GvvipLoYSTEL9AsO&skey=3854f42b11687006&v=v1#SairaStencilOne",
       "ttf": "https://fonts.gstatic.com/s/sairastencilone/v1/SLXSc03I6HkvZGJ1GvvipLoYSTEL9AsM.ttf",
-      "eot": "https://fonts.gstatic.com/s/sairastencilone/v1/SLXSc03I6HkvZGJ1GvvipLoYSTEL9AsN.eot",
       "errored": false
     }
   ],
   "subsets": [
-    "latin-ext",
+    "latin",
     "vietnamese",
-    "latin"
+    "latin-ext"
   ],
   "category": "display",
   "version": "v1",
-  "lastModified": "2019-07-26",
-  "popularity": 811,
+  "lastModified": "2019-11-05",
+  "popularity": 698,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin-ext": true,
+    "latin": true,
     "vietnamese": true,
-    "latin": true
+    "latin-ext": true
   },
-  "storeID": "latin_vietnamese_latin-ext"
+  "storeID": "latin-ext_vietnamese_latin"
 }

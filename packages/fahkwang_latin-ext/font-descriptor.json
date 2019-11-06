@@ -3,38 +3,6 @@
   "family": "Fahkwang",
   "variants": [
     {
-      "id": "200",
-      "eot": "https://fonts.gstatic.com/s/fahkwang/v3/Noa26Uj3zpmBOgbNpOJHmalYHC8.eot",
-      "fontFamily": "'Fahkwang'",
-      "fontStyle": "normal",
-      "fontWeight": "200",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Noa26Uj3zpmBOgbNpOJHmalYHCw&skey=c8b864c1241d40e7&v=v3#Fahkwang",
-      "local": [
-        "Fahkwang ExtraLight",
-        "Fahkwang-ExtraLight"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/fahkwang/v3/Noa26Uj3zpmBOgbNpOJHmalYHCs.woff2",
-      "woff": "https://fonts.gstatic.com/s/fahkwang/v3/Noa26Uj3zpmBOgbNpOJHmalYHC0.woff",
-      "ttf": "https://fonts.gstatic.com/s/fahkwang/v3/Noa26Uj3zpmBOgbNpOJHmalYHC4.ttf",
-      "errored": false
-    },
-    {
-      "id": "200italic",
-      "ttf": "https://fonts.gstatic.com/s/fahkwang/v3/Noa06Uj3zpmBOgbNpOqNgHFQLCdZkg.ttf",
-      "fontFamily": "'Fahkwang'",
-      "fontStyle": "italic",
-      "fontWeight": "200",
-      "local": [
-        "Fahkwang ExtraLight Italic",
-        "Fahkwang-ExtraLightItalic"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=Noa06Uj3zpmBOgbNpOqNgHFQLCdZkA&skey=bb6c88e2a514635c&v=v3#Fahkwang",
-      "woff": "https://fonts.gstatic.com/s/fahkwang/v3/Noa06Uj3zpmBOgbNpOqNgHFQLCdZkQ.woff",
-      "woff2": "https://fonts.gstatic.com/s/fahkwang/v3/Noa06Uj3zpmBOgbNpOqNgHFQLCdZlw.woff2",
-      "eot": "https://fonts.gstatic.com/s/fahkwang/v3/Noa06Uj3zpmBOgbNpOqNgHFQLCdZkw.eot",
-      "errored": false
-    },
-    {
       "id": "300",
       "eot": "https://fonts.gstatic.com/s/fahkwang/v3/Noa26Uj3zpmBOgbNpOIjmqlYHC8.eot",
       "fontFamily": "'Fahkwang'",
@@ -45,9 +13,41 @@
         "Fahkwang Light",
         "Fahkwang-Light"
       ],
-      "woff": "https://fonts.gstatic.com/s/fahkwang/v3/Noa26Uj3zpmBOgbNpOIjmqlYHC0.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=Noa26Uj3zpmBOgbNpOIjmqlYHCw&skey=2873fbcebde984b5&v=v3#Fahkwang",
+      "woff": "https://fonts.gstatic.com/s/fahkwang/v3/Noa26Uj3zpmBOgbNpOIjmqlYHC0.woff",
       "ttf": "https://fonts.gstatic.com/s/fahkwang/v3/Noa26Uj3zpmBOgbNpOIjmqlYHC4.ttf",
+      "errored": false
+    },
+    {
+      "id": "200italic",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Noa06Uj3zpmBOgbNpOqNgHFQLCdZkA&skey=bb6c88e2a514635c&v=v3#Fahkwang",
+      "fontFamily": "'Fahkwang'",
+      "fontStyle": "italic",
+      "fontWeight": "200",
+      "local": [
+        "Fahkwang ExtraLight Italic",
+        "Fahkwang-ExtraLightItalic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/fahkwang/v3/Noa06Uj3zpmBOgbNpOqNgHFQLCdZlw.woff2",
+      "eot": "https://fonts.gstatic.com/s/fahkwang/v3/Noa06Uj3zpmBOgbNpOqNgHFQLCdZkw.eot",
+      "ttf": "https://fonts.gstatic.com/s/fahkwang/v3/Noa06Uj3zpmBOgbNpOqNgHFQLCdZkg.ttf",
+      "woff": "https://fonts.gstatic.com/s/fahkwang/v3/Noa06Uj3zpmBOgbNpOqNgHFQLCdZkQ.woff",
+      "errored": false
+    },
+    {
+      "id": "200",
+      "ttf": "https://fonts.gstatic.com/s/fahkwang/v3/Noa26Uj3zpmBOgbNpOJHmalYHC4.ttf",
+      "fontFamily": "'Fahkwang'",
+      "fontStyle": "normal",
+      "fontWeight": "200",
+      "local": [
+        "Fahkwang ExtraLight",
+        "Fahkwang-ExtraLight"
+      ],
+      "woff": "https://fonts.gstatic.com/s/fahkwang/v3/Noa26Uj3zpmBOgbNpOJHmalYHC0.woff",
+      "eot": "https://fonts.gstatic.com/s/fahkwang/v3/Noa26Uj3zpmBOgbNpOJHmalYHC8.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Noa26Uj3zpmBOgbNpOJHmalYHCw&skey=c8b864c1241d40e7&v=v3#Fahkwang",
+      "woff2": "https://fonts.gstatic.com/s/fahkwang/v3/Noa26Uj3zpmBOgbNpOJHmalYHCs.woff2",
       "errored": false
     },
     {
@@ -56,30 +56,30 @@
       "fontFamily": "'Fahkwang'",
       "fontStyle": "italic",
       "fontWeight": "300",
-      "woff2": "https://fonts.gstatic.com/s/fahkwang/v3/Noa06Uj3zpmBOgbNpOqNgBVTLCdZlw.woff2",
+      "woff": "https://fonts.gstatic.com/s/fahkwang/v3/Noa06Uj3zpmBOgbNpOqNgBVTLCdZkQ.woff",
       "local": [
         "Fahkwang Light Italic",
         "Fahkwang-LightItalic"
       ],
+      "woff2": "https://fonts.gstatic.com/s/fahkwang/v3/Noa06Uj3zpmBOgbNpOqNgBVTLCdZlw.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=Noa06Uj3zpmBOgbNpOqNgBVTLCdZkA&skey=d9d538c4e3666b80&v=v3#Fahkwang",
-      "woff": "https://fonts.gstatic.com/s/fahkwang/v3/Noa06Uj3zpmBOgbNpOqNgBVTLCdZkQ.woff",
       "ttf": "https://fonts.gstatic.com/s/fahkwang/v3/Noa06Uj3zpmBOgbNpOqNgBVTLCdZkg.ttf",
       "errored": false
     },
     {
-      "id": "italic",
-      "eot": "https://fonts.gstatic.com/s/fahkwang/v3/Noa36Uj3zpmBOgbNpOqNiLBxPQ.eot",
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/fahkwang/v3/Noax6Uj3zpmBOgbNpOqGuLg.eot",
       "fontFamily": "'Fahkwang'",
-      "fontStyle": "italic",
+      "fontStyle": "normal",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/fahkwang/v3/Noa36Uj3zpmBOgbNpOqNiLBxPw.woff",
+      "woff": "https://fonts.gstatic.com/s/fahkwang/v3/Noax6Uj3zpmBOgbNpOqGuLo.woff",
       "local": [
-        "Fahkwang Italic",
-        "Fahkwang-Italic"
+        "Fahkwang Regular",
+        "Fahkwang-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/fahkwang/v3/Noa36Uj3zpmBOgbNpOqNiLBxOQ.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Noa36Uj3zpmBOgbNpOqNiLBxPg&skey=6a749ab2c8c880b6&v=v3#Fahkwang",
-      "ttf": "https://fonts.gstatic.com/s/fahkwang/v3/Noa36Uj3zpmBOgbNpOqNiLBxPA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Noax6Uj3zpmBOgbNpOqGuLs&skey=1e37bf18bf219bbf&v=v3#Fahkwang",
+      "woff2": "https://fonts.gstatic.com/s/fahkwang/v3/Noax6Uj3zpmBOgbNpOqGuLw.woff2",
+      "ttf": "https://fonts.gstatic.com/s/fahkwang/v3/Noax6Uj3zpmBOgbNpOqGuLk.ttf",
       "errored": false
     },
     {
@@ -99,19 +99,19 @@
       "errored": false
     },
     {
-      "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/fahkwang/v3/Noax6Uj3zpmBOgbNpOqGuLg.eot",
+      "id": "italic",
+      "woff": "https://fonts.gstatic.com/s/fahkwang/v3/Noa36Uj3zpmBOgbNpOqNiLBxPw.woff",
       "fontFamily": "'Fahkwang'",
-      "fontStyle": "normal",
+      "fontStyle": "italic",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/fahkwang/v3/Noax6Uj3zpmBOgbNpOqGuLo.woff",
       "local": [
-        "Fahkwang Regular",
-        "Fahkwang-Regular"
+        "Fahkwang Italic",
+        "Fahkwang-Italic"
       ],
-      "ttf": "https://fonts.gstatic.com/s/fahkwang/v3/Noax6Uj3zpmBOgbNpOqGuLk.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Noax6Uj3zpmBOgbNpOqGuLs&skey=1e37bf18bf219bbf&v=v3#Fahkwang",
-      "woff2": "https://fonts.gstatic.com/s/fahkwang/v3/Noax6Uj3zpmBOgbNpOqGuLw.woff2",
+      "woff2": "https://fonts.gstatic.com/s/fahkwang/v3/Noa36Uj3zpmBOgbNpOqNiLBxOQ.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Noa36Uj3zpmBOgbNpOqNiLBxPg&skey=6a749ab2c8c880b6&v=v3#Fahkwang",
+      "ttf": "https://fonts.gstatic.com/s/fahkwang/v3/Noa36Uj3zpmBOgbNpOqNiLBxPA.ttf",
+      "eot": "https://fonts.gstatic.com/s/fahkwang/v3/Noa36Uj3zpmBOgbNpOqNiLBxPQ.eot",
       "errored": false
     },
     {
@@ -126,56 +126,40 @@
         "Fahkwang-MediumItalic"
       ],
       "svg": "https://fonts.gstatic.com/l/font?kit=Noa06Uj3zpmBOgbNpOqNgE1SLCdZkA&skey=10c0711e960bd908&v=v3#Fahkwang",
-      "ttf": "https://fonts.gstatic.com/s/fahkwang/v3/Noa06Uj3zpmBOgbNpOqNgE1SLCdZkg.ttf",
       "woff2": "https://fonts.gstatic.com/s/fahkwang/v3/Noa06Uj3zpmBOgbNpOqNgE1SLCdZlw.woff2",
-      "errored": false
-    },
-    {
-      "id": "600italic",
-      "eot": "https://fonts.gstatic.com/s/fahkwang/v3/Noa06Uj3zpmBOgbNpOqNgGFVLCdZkw.eot",
-      "fontFamily": "'Fahkwang'",
-      "fontStyle": "italic",
-      "fontWeight": "600",
-      "woff": "https://fonts.gstatic.com/s/fahkwang/v3/Noa06Uj3zpmBOgbNpOqNgGFVLCdZkQ.woff",
-      "local": [
-        "Fahkwang SemiBold Italic",
-        "Fahkwang-SemiBoldItalic"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=Noa06Uj3zpmBOgbNpOqNgGFVLCdZkA&skey=684687fae95d69ba&v=v3#Fahkwang",
-      "woff2": "https://fonts.gstatic.com/s/fahkwang/v3/Noa06Uj3zpmBOgbNpOqNgGFVLCdZlw.woff2",
-      "ttf": "https://fonts.gstatic.com/s/fahkwang/v3/Noa06Uj3zpmBOgbNpOqNgGFVLCdZkg.ttf",
-      "errored": false
-    },
-    {
-      "id": "700",
-      "eot": "https://fonts.gstatic.com/s/fahkwang/v3/Noa26Uj3zpmBOgbNpOIznalYHC8.eot",
-      "fontFamily": "'Fahkwang'",
-      "fontStyle": "normal",
-      "fontWeight": "700",
-      "woff2": "https://fonts.gstatic.com/s/fahkwang/v3/Noa26Uj3zpmBOgbNpOIznalYHCs.woff2",
-      "local": [
-        "Fahkwang Bold",
-        "Fahkwang-Bold"
-      ],
-      "woff": "https://fonts.gstatic.com/s/fahkwang/v3/Noa26Uj3zpmBOgbNpOIznalYHC0.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Noa26Uj3zpmBOgbNpOIznalYHCw&skey=30bcfd801704b4ef&v=v3#Fahkwang",
-      "ttf": "https://fonts.gstatic.com/s/fahkwang/v3/Noa26Uj3zpmBOgbNpOIznalYHC4.ttf",
+      "ttf": "https://fonts.gstatic.com/s/fahkwang/v3/Noa06Uj3zpmBOgbNpOqNgE1SLCdZkg.ttf",
       "errored": false
     },
     {
       "id": "600",
-      "eot": "https://fonts.gstatic.com/s/fahkwang/v3/Noa26Uj3zpmBOgbNpOJXnKlYHC8.eot",
+      "woff2": "https://fonts.gstatic.com/s/fahkwang/v3/Noa26Uj3zpmBOgbNpOJXnKlYHCs.woff2",
       "fontFamily": "'Fahkwang'",
       "fontStyle": "normal",
       "fontWeight": "600",
-      "woff": "https://fonts.gstatic.com/s/fahkwang/v3/Noa26Uj3zpmBOgbNpOJXnKlYHC0.woff",
       "local": [
         "Fahkwang SemiBold",
         "Fahkwang-SemiBold"
       ],
+      "eot": "https://fonts.gstatic.com/s/fahkwang/v3/Noa26Uj3zpmBOgbNpOJXnKlYHC8.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=Noa26Uj3zpmBOgbNpOJXnKlYHCw&skey=9db8ac6c4c2d6a90&v=v3#Fahkwang",
-      "woff2": "https://fonts.gstatic.com/s/fahkwang/v3/Noa26Uj3zpmBOgbNpOJXnKlYHCs.woff2",
+      "woff": "https://fonts.gstatic.com/s/fahkwang/v3/Noa26Uj3zpmBOgbNpOJXnKlYHC0.woff",
       "ttf": "https://fonts.gstatic.com/s/fahkwang/v3/Noa26Uj3zpmBOgbNpOJXnKlYHC4.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff": "https://fonts.gstatic.com/s/fahkwang/v3/Noa26Uj3zpmBOgbNpOIznalYHC0.woff",
+      "fontFamily": "'Fahkwang'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Fahkwang Bold",
+        "Fahkwang-Bold"
+      ],
+      "eot": "https://fonts.gstatic.com/s/fahkwang/v3/Noa26Uj3zpmBOgbNpOIznalYHC8.eot",
+      "woff2": "https://fonts.gstatic.com/s/fahkwang/v3/Noa26Uj3zpmBOgbNpOIznalYHCs.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Noa26Uj3zpmBOgbNpOIznalYHCw&skey=30bcfd801704b4ef&v=v3#Fahkwang",
+      "ttf": "https://fonts.gstatic.com/s/fahkwang/v3/Noa26Uj3zpmBOgbNpOIznalYHC4.ttf",
       "errored": false
     },
     {
@@ -190,27 +174,43 @@
         "Fahkwang-BoldItalic"
       ],
       "woff2": "https://fonts.gstatic.com/s/fahkwang/v3/Noa06Uj3zpmBOgbNpOqNgAVULCdZlw.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Noa06Uj3zpmBOgbNpOqNgAVULCdZkA&skey=4afda973f1e16cee&v=v3#Fahkwang",
       "ttf": "https://fonts.gstatic.com/s/fahkwang/v3/Noa06Uj3zpmBOgbNpOqNgAVULCdZkg.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Noa06Uj3zpmBOgbNpOqNgAVULCdZkA&skey=4afda973f1e16cee&v=v3#Fahkwang",
+      "errored": false
+    },
+    {
+      "id": "600italic",
+      "woff": "https://fonts.gstatic.com/s/fahkwang/v3/Noa06Uj3zpmBOgbNpOqNgGFVLCdZkQ.woff",
+      "fontFamily": "'Fahkwang'",
+      "fontStyle": "italic",
+      "fontWeight": "600",
+      "local": [
+        "Fahkwang SemiBold Italic",
+        "Fahkwang-SemiBoldItalic"
+      ],
+      "eot": "https://fonts.gstatic.com/s/fahkwang/v3/Noa06Uj3zpmBOgbNpOqNgGFVLCdZkw.eot",
+      "woff2": "https://fonts.gstatic.com/s/fahkwang/v3/Noa06Uj3zpmBOgbNpOqNgGFVLCdZlw.woff2",
+      "ttf": "https://fonts.gstatic.com/s/fahkwang/v3/Noa06Uj3zpmBOgbNpOqNgGFVLCdZkg.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Noa06Uj3zpmBOgbNpOqNgGFVLCdZkA&skey=684687fae95d69ba&v=v3#Fahkwang",
       "errored": false
     }
   ],
   "subsets": [
-    "vietnamese",
-    "latin",
     "thai",
+    "latin",
+    "vietnamese",
     "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v3",
-  "lastModified": "2019-07-16",
-  "popularity": 860,
+  "lastModified": "2019-11-05",
+  "popularity": 888,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "vietnamese": false,
-    "latin": true,
     "thai": false,
+    "latin": true,
+    "vietnamese": false,
     "latin-ext": true
   },
   "storeID": "latin-ext_latin"

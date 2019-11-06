@@ -4,36 +4,36 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/bahianita/v2/yYLr0hTb3vuqqsBUgxWtxg.woff",
+      "eot": "https://fonts.gstatic.com/s/bahianita/v2/yYLr0hTb3vuqqsBUgxWtxA.eot",
       "fontFamily": "'Bahianita'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "svg": "https://fonts.gstatic.com/l/font?kit=yYLr0hTb3vuqqsBUgxWtxw&skey=e895fd7e9bcc296a&v=v2#Bahianita",
       "local": [
         "Bahianita Regular",
         "Bahianita-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/bahianita/v2/yYLr0hTb3vuqqsBUgxWtxA.eot",
       "woff2": "https://fonts.gstatic.com/s/bahianita/v2/yYLr0hTb3vuqqsBUgxWtwA.woff2",
+      "woff": "https://fonts.gstatic.com/s/bahianita/v2/yYLr0hTb3vuqqsBUgxWtxg.woff",
       "ttf": "https://fonts.gstatic.com/s/bahianita/v2/yYLr0hTb3vuqqsBUgxWtxQ.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=yYLr0hTb3vuqqsBUgxWtxw&skey=e895fd7e9bcc296a&v=v2#Bahianita",
       "errored": false
     }
   ],
   "subsets": [
-    "vietnamese",
     "latin",
+    "vietnamese",
     "latin-ext"
   ],
   "category": "display",
   "version": "v2",
-  "lastModified": "2019-07-16",
-  "popularity": 951,
+  "lastModified": "2019-11-05",
+  "popularity": 950,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "vietnamese": true,
     "latin": true,
+    "vietnamese": true,
     "latin-ext": true
   },
-  "storeID": "latin-ext_latin_vietnamese"
+  "storeID": "latin-ext_vietnamese_latin"
 }

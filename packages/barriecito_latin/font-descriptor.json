@@ -4,35 +4,35 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/barriecito/v2/WWXXlj-CbBOSLY2QTuY_GdIoZg.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=WWXXlj-CbBOSLY2QTuY_GdIoZQ&skey=8c7c1a0feef5d3d1&v=v2#Barriecito",
       "fontFamily": "'Barriecito'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/barriecito/v2/WWXXlj-CbBOSLY2QTuY_GdIoZA.woff",
       "local": [
         "Barriecito Regular",
         "Barriecito-Regular"
       ],
       "woff2": "https://fonts.gstatic.com/s/barriecito/v2/WWXXlj-CbBOSLY2QTuY_GdIoYg.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=WWXXlj-CbBOSLY2QTuY_GdIoZQ&skey=8c7c1a0feef5d3d1&v=v2#Barriecito",
+      "woff": "https://fonts.gstatic.com/s/barriecito/v2/WWXXlj-CbBOSLY2QTuY_GdIoZA.woff",
+      "eot": "https://fonts.gstatic.com/s/barriecito/v2/WWXXlj-CbBOSLY2QTuY_GdIoZg.eot",
       "ttf": "https://fonts.gstatic.com/s/barriecito/v2/WWXXlj-CbBOSLY2QTuY_GdIoZw.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "vietnamese",
     "latin",
+    "vietnamese",
     "latin-ext"
   ],
   "category": "display",
   "version": "v2",
-  "lastModified": "2019-07-16",
-  "popularity": 880,
+  "lastModified": "2019-11-05",
+  "popularity": 799,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "vietnamese": false,
     "latin": true,
+    "vietnamese": false,
     "latin-ext": false
   },
   "storeID": "latin"

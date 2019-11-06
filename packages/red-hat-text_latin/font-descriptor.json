@@ -4,34 +4,34 @@
   "variants": [
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=RrQXbohi_ic6B3yVSzGBrMxQaKcq&skey=a69e06a86684dac1&v=v2#RedHatText",
+      "eot": "https://fonts.gstatic.com/s/redhattext/v2/RrQXbohi_ic6B3yVSzGBrMxQaKcp.eot",
       "fontFamily": "'Red Hat Text'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/redhattext/v2/RrQXbohi_ic6B3yVSzGBrMxQaKct.woff2",
       "local": [
         "Red Hat Text",
         "RedHatText-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/redhattext/v2/RrQXbohi_ic6B3yVSzGBrMxQaKcp.eot",
-      "woff2": "https://fonts.gstatic.com/s/redhattext/v2/RrQXbohi_ic6B3yVSzGBrMxQaKct.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=RrQXbohi_ic6B3yVSzGBrMxQaKcq&skey=a69e06a86684dac1&v=v2#RedHatText",
       "ttf": "https://fonts.gstatic.com/s/redhattext/v2/RrQXbohi_ic6B3yVSzGBrMxQaKco.ttf",
       "woff": "https://fonts.gstatic.com/s/redhattext/v2/RrQXbohi_ic6B3yVSzGBrMxQaKcr.woff",
       "errored": false
     },
     {
       "id": "italic",
-      "eot": "https://fonts.gstatic.com/s/redhattext/v2/RrQJbohi_ic6B3yVSzGBrMxQbZcvO8w.eot",
+      "woff": "https://fonts.gstatic.com/s/redhattext/v2/RrQJbohi_ic6B3yVSzGBrMxQbZcvO84.woff",
       "fontFamily": "'Red Hat Text'",
       "fontStyle": "italic",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/redhattext/v2/RrQJbohi_ic6B3yVSzGBrMxQbZcvO84.woff",
       "local": [
         "Red Hat Text It",
         "RedHatText-Italic"
       ],
       "woff2": "https://fonts.gstatic.com/s/redhattext/v2/RrQJbohi_ic6B3yVSzGBrMxQbZcvO8g.woff2",
-      "ttf": "https://fonts.gstatic.com/s/redhattext/v2/RrQJbohi_ic6B3yVSzGBrMxQbZcvO80.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=RrQJbohi_ic6B3yVSzGBrMxQbZcvO88&skey=f6525de85de2641b&v=v2#RedHatText",
+      "ttf": "https://fonts.gstatic.com/s/redhattext/v2/RrQJbohi_ic6B3yVSzGBrMxQbZcvO80.ttf",
+      "eot": "https://fonts.gstatic.com/s/redhattext/v2/RrQJbohi_ic6B3yVSzGBrMxQbZcvO8w.eot",
       "errored": false
     },
     {
@@ -40,14 +40,14 @@
       "fontFamily": "'Red Hat Text'",
       "fontStyle": "normal",
       "fontWeight": "500",
-      "svg": "https://fonts.gstatic.com/l/font?kit=RrQIbohi_ic6B3yVSzGBrMxYm4Q4HO2D&skey=615702249843504a&v=v2#RedHatText",
+      "woff": "https://fonts.gstatic.com/s/redhattext/v2/RrQIbohi_ic6B3yVSzGBrMxYm4Q4HO2C.woff",
       "local": [
         "Red Hat Text Medium",
         "RedHatText-Medium"
       ],
       "woff2": "https://fonts.gstatic.com/s/redhattext/v2/RrQIbohi_ic6B3yVSzGBrMxYm4Q4HO2E.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=RrQIbohi_ic6B3yVSzGBrMxYm4Q4HO2D&skey=615702249843504a&v=v2#RedHatText",
       "ttf": "https://fonts.gstatic.com/s/redhattext/v2/RrQIbohi_ic6B3yVSzGBrMxYm4Q4HO2B.ttf",
-      "woff": "https://fonts.gstatic.com/s/redhattext/v2/RrQIbohi_ic6B3yVSzGBrMxYm4Q4HO2C.woff",
       "errored": false
     },
     {
@@ -78,8 +78,8 @@
         "RedHatText-Bold"
       ],
       "woff2": "https://fonts.gstatic.com/s/redhattext/v2/RrQIbohi_ic6B3yVSzGBrMxY04I4HO2E.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=RrQIbohi_ic6B3yVSzGBrMxY04I4HO2D&skey=4058bf258a8e51b3&v=v2#RedHatText",
       "ttf": "https://fonts.gstatic.com/s/redhattext/v2/RrQIbohi_ic6B3yVSzGBrMxY04I4HO2B.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=RrQIbohi_ic6B3yVSzGBrMxY04I4HO2D&skey=4058bf258a8e51b3&v=v2#RedHatText",
       "errored": false
     },
     {
@@ -105,8 +105,8 @@
   ],
   "category": "sans-serif",
   "version": "v2",
-  "lastModified": "2019-09-17",
-  "popularity": 882,
+  "lastModified": "2019-11-05",
+  "popularity": 743,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

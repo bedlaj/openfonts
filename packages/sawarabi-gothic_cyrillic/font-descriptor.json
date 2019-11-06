@@ -4,40 +4,40 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/sawarabigothic/v8/x3d4ckfVaqqa-BEj-I9mE65u3k39BiM2.woff2",
+      "eot": "https://fonts.gstatic.com/s/sawarabigothic/v8/x3d4ckfVaqqa-BEj-I9mE65u3k39BiMy.eot",
       "fontFamily": "'Sawarabi Gothic'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/sawarabigothic/v8/x3d4ckfVaqqa-BEj-I9mE65u3k39BiMw.woff",
       "local": [
         "Sawarabi Gothic",
         "SawarabiGothic-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/sawarabigothic/v8/x3d4ckfVaqqa-BEj-I9mE65u3k39BiMy.eot",
-      "woff": "https://fonts.gstatic.com/s/sawarabigothic/v8/x3d4ckfVaqqa-BEj-I9mE65u3k39BiMw.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=x3d4ckfVaqqa-BEj-I9mE65u3k39BiMx&skey=9dc93c6bc11b4f33&v=v8#SawarabiGothic",
+      "woff2": "https://fonts.gstatic.com/s/sawarabigothic/v8/x3d4ckfVaqqa-BEj-I9mE65u3k39BiM2.woff2",
       "ttf": "https://fonts.gstatic.com/s/sawarabigothic/v8/x3d4ckfVaqqa-BEj-I9mE65u3k39BiMz.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "japanese",
-    "vietnamese",
-    "latin",
     "cyrillic",
+    "japanese",
+    "latin",
+    "vietnamese",
     "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v8",
-  "lastModified": "2019-07-16",
-  "popularity": 248,
+  "lastModified": "2019-11-05",
+  "popularity": 292,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "japanese": false,
-    "vietnamese": false,
-    "latin": true,
     "cyrillic": true,
+    "japanese": false,
+    "latin": true,
+    "vietnamese": false,
     "latin-ext": false
   },
-  "storeID": "cyrillic_latin"
+  "storeID": "latin_cyrillic"
 }

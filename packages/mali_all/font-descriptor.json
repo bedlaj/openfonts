@@ -3,24 +3,8 @@
   "family": "Mali",
   "variants": [
     {
-      "id": "200italic",
-      "eot": "https://fonts.gstatic.com/s/mali/v3/N0bX2SRONuN4SCj8wlVQIA.eot",
-      "fontFamily": "'Mali'",
-      "fontStyle": "italic",
-      "fontWeight": "200",
-      "woff2": "https://fonts.gstatic.com/s/mali/v3/N0bX2SRONuN4SCj8wlVQJA.woff2",
-      "local": [
-        "Mali ExtraLight Italic",
-        "Mali-ExtraLightItalic"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=N0bX2SRONuN4SCj8wlVQIw&skey=c72bef2c9c551d05&v=v3#Mali",
-      "woff": "https://fonts.gstatic.com/s/mali/v3/N0bX2SRONuN4SCj8wlVQIg.woff",
-      "ttf": "https://fonts.gstatic.com/s/mali/v3/N0bX2SRONuN4SCj8wlVQIQ.ttf",
-      "errored": false
-    },
-    {
       "id": "200",
-      "woff2": "https://fonts.gstatic.com/s/mali/v3/N0bV2SRONuN4QOLlKlE.woff2",
+      "woff": "https://fonts.gstatic.com/s/mali/v3/N0bV2SRONuN4QOLlKlc.woff",
       "fontFamily": "'Mali'",
       "fontStyle": "normal",
       "fontWeight": "200",
@@ -28,10 +12,26 @@
         "Mali ExtraLight",
         "Mali-ExtraLight"
       ],
-      "woff": "https://fonts.gstatic.com/s/mali/v3/N0bV2SRONuN4QOLlKlc.woff",
+      "ttf": "https://fonts.gstatic.com/s/mali/v3/N0bV2SRONuN4QOLlKlQ.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=N0bV2SRONuN4QOLlKlY&skey=20d1d61b24dd3ed6&v=v3#Mali",
       "eot": "https://fonts.gstatic.com/s/mali/v3/N0bV2SRONuN4QOLlKlU.eot",
-      "ttf": "https://fonts.gstatic.com/s/mali/v3/N0bV2SRONuN4QOLlKlQ.ttf",
+      "woff2": "https://fonts.gstatic.com/s/mali/v3/N0bV2SRONuN4QOLlKlE.woff2",
+      "errored": false
+    },
+    {
+      "id": "200italic",
+      "woff": "https://fonts.gstatic.com/s/mali/v3/N0bX2SRONuN4SCj8wlVQIg.woff",
+      "fontFamily": "'Mali'",
+      "fontStyle": "italic",
+      "fontWeight": "200",
+      "local": [
+        "Mali ExtraLight Italic",
+        "Mali-ExtraLightItalic"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=N0bX2SRONuN4SCj8wlVQIw&skey=c72bef2c9c551d05&v=v3#Mali",
+      "woff2": "https://fonts.gstatic.com/s/mali/v3/N0bX2SRONuN4SCj8wlVQJA.woff2",
+      "ttf": "https://fonts.gstatic.com/s/mali/v3/N0bX2SRONuN4SCj8wlVQIQ.ttf",
+      "eot": "https://fonts.gstatic.com/s/mali/v3/N0bX2SRONuN4SCj8wlVQIA.eot",
       "errored": false
     },
     {
@@ -40,46 +40,30 @@
       "fontFamily": "'Mali'",
       "fontStyle": "normal",
       "fontWeight": "300",
-      "woff2": "https://fonts.gstatic.com/s/mali/v3/N0bV2SRONuN4QIbmKlE.woff2",
+      "woff": "https://fonts.gstatic.com/s/mali/v3/N0bV2SRONuN4QIbmKlc.woff",
       "local": [
         "Mali Light",
         "Mali-Light"
       ],
-      "woff": "https://fonts.gstatic.com/s/mali/v3/N0bV2SRONuN4QIbmKlc.woff",
+      "woff2": "https://fonts.gstatic.com/s/mali/v3/N0bV2SRONuN4QIbmKlE.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=N0bV2SRONuN4QIbmKlY&skey=f3fcfcdd896b087b&v=v3#Mali",
       "ttf": "https://fonts.gstatic.com/s/mali/v3/N0bV2SRONuN4QIbmKlQ.ttf",
       "errored": false
     },
     {
       "id": "300italic",
-      "woff": "https://fonts.gstatic.com/s/mali/v3/N0bX2SRONuN4SCj8plZQIg.woff",
+      "eot": "https://fonts.gstatic.com/s/mali/v3/N0bX2SRONuN4SCj8plZQIA.eot",
       "fontFamily": "'Mali'",
       "fontStyle": "italic",
       "fontWeight": "300",
+      "woff2": "https://fonts.gstatic.com/s/mali/v3/N0bX2SRONuN4SCj8plZQJA.woff2",
       "local": [
         "Mali Light Italic",
         "Mali-LightItalic"
       ],
-      "eot": "https://fonts.gstatic.com/s/mali/v3/N0bX2SRONuN4SCj8plZQIA.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=N0bX2SRONuN4SCj8plZQIw&skey=1d5b744bac868534&v=v3#Mali",
       "ttf": "https://fonts.gstatic.com/s/mali/v3/N0bX2SRONuN4SCj8plZQIQ.ttf",
-      "woff2": "https://fonts.gstatic.com/s/mali/v3/N0bX2SRONuN4SCj8plZQJA.woff2",
-      "errored": false
-    },
-    {
-      "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/mali/v3/N0ba2SRONuN4eCs.eot",
-      "fontFamily": "'Mali'",
-      "fontStyle": "normal",
-      "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/mali/v3/N0ba2SRONuN4eCk.woff",
-      "local": [
-        "Mali Regular",
-        "Mali-Regular"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/mali/v3/N0ba2SRONuN4eC8.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=N0ba2SRONuN4eCg&skey=e98fd2af8626b471&v=v3#Mali",
-      "ttf": "https://fonts.gstatic.com/s/mali/v3/N0ba2SRONuN4eCo.ttf",
+      "woff": "https://fonts.gstatic.com/s/mali/v3/N0bX2SRONuN4SCj8plZQIg.woff",
       "errored": false
     },
     {
@@ -93,25 +77,41 @@
         "Mali Italic",
         "Mali-Italic"
       ],
-      "woff": "https://fonts.gstatic.com/s/mali/v3/N0bU2SRONuN4SCjECQ.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=N0bU2SRONuN4SCjECA&skey=21e0095f22b1d89a&v=v3#Mali",
       "ttf": "https://fonts.gstatic.com/s/mali/v3/N0bU2SRONuN4SCjECg.ttf",
+      "woff": "https://fonts.gstatic.com/s/mali/v3/N0bU2SRONuN4SCjECQ.woff",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/mali/v3/N0ba2SRONuN4eCk.woff",
+      "fontFamily": "'Mali'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Mali Regular",
+        "Mali-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/mali/v3/N0ba2SRONuN4eC8.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=N0ba2SRONuN4eCg&skey=e98fd2af8626b471&v=v3#Mali",
+      "ttf": "https://fonts.gstatic.com/s/mali/v3/N0ba2SRONuN4eCo.ttf",
+      "eot": "https://fonts.gstatic.com/s/mali/v3/N0ba2SRONuN4eCs.eot",
       "errored": false
     },
     {
       "id": "500",
-      "woff": "https://fonts.gstatic.com/s/mali/v3/N0bV2SRONuN4QN7nKlc.woff",
+      "eot": "https://fonts.gstatic.com/s/mali/v3/N0bV2SRONuN4QN7nKlU.eot",
       "fontFamily": "'Mali'",
       "fontStyle": "normal",
       "fontWeight": "500",
+      "woff": "https://fonts.gstatic.com/s/mali/v3/N0bV2SRONuN4QN7nKlc.woff",
       "local": [
         "Mali Medium",
         "Mali-Medium"
       ],
       "woff2": "https://fonts.gstatic.com/s/mali/v3/N0bV2SRONuN4QN7nKlE.woff2",
-      "ttf": "https://fonts.gstatic.com/s/mali/v3/N0bV2SRONuN4QN7nKlQ.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=N0bV2SRONuN4QN7nKlY&skey=385f0a56174073d5&v=v3#Mali",
-      "eot": "https://fonts.gstatic.com/s/mali/v3/N0bV2SRONuN4QN7nKlU.eot",
+      "ttf": "https://fonts.gstatic.com/s/mali/v3/N0bV2SRONuN4QN7nKlQ.ttf",
       "errored": false
     },
     {
@@ -132,15 +132,15 @@
     },
     {
       "id": "600",
-      "woff": "https://fonts.gstatic.com/s/mali/v3/N0bV2SRONuN4QPLgKlc.woff",
+      "eot": "https://fonts.gstatic.com/s/mali/v3/N0bV2SRONuN4QPLgKlU.eot",
       "fontFamily": "'Mali'",
       "fontStyle": "normal",
       "fontWeight": "600",
+      "woff": "https://fonts.gstatic.com/s/mali/v3/N0bV2SRONuN4QPLgKlc.woff",
       "local": [
         "Mali SemiBold",
         "Mali-SemiBold"
       ],
-      "eot": "https://fonts.gstatic.com/s/mali/v3/N0bV2SRONuN4QPLgKlU.eot",
       "woff2": "https://fonts.gstatic.com/s/mali/v3/N0bV2SRONuN4QPLgKlE.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=N0bV2SRONuN4QPLgKlY&skey=4726225c690c07db&v=v3#Mali",
       "ttf": "https://fonts.gstatic.com/s/mali/v3/N0bV2SRONuN4QPLgKlQ.ttf",
@@ -152,14 +152,14 @@
       "fontFamily": "'Mali'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/mali/v3/N0bV2SRONuN4QJbhKlc.woff",
+      "woff2": "https://fonts.gstatic.com/s/mali/v3/N0bV2SRONuN4QJbhKlE.woff2",
       "local": [
         "Mali Bold",
         "Mali-Bold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/mali/v3/N0bV2SRONuN4QJbhKlE.woff2",
-      "ttf": "https://fonts.gstatic.com/s/mali/v3/N0bV2SRONuN4QJbhKlQ.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=N0bV2SRONuN4QJbhKlY&skey=26aeb174a884189b&v=v3#Mali",
+      "woff": "https://fonts.gstatic.com/s/mali/v3/N0bV2SRONuN4QJbhKlc.woff",
+      "ttf": "https://fonts.gstatic.com/s/mali/v3/N0bV2SRONuN4QJbhKlQ.ttf",
       "errored": false
     },
     {
@@ -173,9 +173,9 @@
         "Mali SemiBold Italic",
         "Mali-SemiBoldItalic"
       ],
-      "woff2": "https://fonts.gstatic.com/s/mali/v3/N0bX2SRONuN4SCj80lBQJA.woff2",
       "ttf": "https://fonts.gstatic.com/s/mali/v3/N0bX2SRONuN4SCj80lBQIQ.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=N0bX2SRONuN4SCj80lBQIw&skey=62d47d39af0775ac&v=v3#Mali",
+      "woff2": "https://fonts.gstatic.com/s/mali/v3/N0bX2SRONuN4SCj80lBQJA.woff2",
       "errored": false
     },
     {
@@ -189,29 +189,29 @@
         "Mali Bold Italic",
         "Mali-BoldItalic"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=N0bX2SRONuN4SCj8tlFQIw&skey=546f7847ebac806d&v=v3#Mali",
       "woff2": "https://fonts.gstatic.com/s/mali/v3/N0bX2SRONuN4SCj8tlFQJA.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=N0bX2SRONuN4SCj8tlFQIw&skey=546f7847ebac806d&v=v3#Mali",
       "ttf": "https://fonts.gstatic.com/s/mali/v3/N0bX2SRONuN4SCj8tlFQIQ.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "vietnamese",
-    "latin",
     "thai",
+    "latin",
+    "vietnamese",
     "latin-ext"
   ],
   "category": "handwriting",
   "version": "v3",
-  "lastModified": "2019-07-16",
-  "popularity": 439,
+  "lastModified": "2019-11-05",
+  "popularity": 394,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "vietnamese": true,
-    "latin": true,
     "thai": true,
+    "latin": true,
+    "vietnamese": true,
     "latin-ext": true
   },
-  "storeID": "latin-ext_thai_latin_vietnamese"
+  "storeID": "latin-ext_vietnamese_latin_thai"
 }
