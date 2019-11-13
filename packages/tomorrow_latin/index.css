@@ -1,0 +1,216 @@
+/* tomorrow-100normal - latin */
+@font-face {
+  font-family: 'Tomorrow';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Tomorrow Thin'),
+    local('Tomorrow-Thin'), 
+    url('./files/tomorrow-latin-100.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/tomorrow-latin-100.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* tomorrow-100italic - latin */
+@font-face {
+  font-family: 'Tomorrow';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Tomorrow Thin Italic'),
+    local('Tomorrow-ThinItalic'), 
+    url('./files/tomorrow-latin-100-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/tomorrow-latin-100-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* tomorrow-200normal - latin */
+@font-face {
+  font-family: 'Tomorrow';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Tomorrow ExtraLight'),
+    local('Tomorrow-ExtraLight'), 
+    url('./files/tomorrow-latin-200.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/tomorrow-latin-200.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* tomorrow-200italic - latin */
+@font-face {
+  font-family: 'Tomorrow';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Tomorrow ExtraLight Italic'),
+    local('Tomorrow-ExtraLightItalic'), 
+    url('./files/tomorrow-latin-200-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/tomorrow-latin-200-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* tomorrow-300normal - latin */
+@font-face {
+  font-family: 'Tomorrow';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Tomorrow Light'),
+    local('Tomorrow-Light'), 
+    url('./files/tomorrow-latin-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/tomorrow-latin-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* tomorrow-300italic - latin */
+@font-face {
+  font-family: 'Tomorrow';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Tomorrow Light Italic'),
+    local('Tomorrow-LightItalic'), 
+    url('./files/tomorrow-latin-300-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/tomorrow-latin-300-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* tomorrow-400normal - latin */
+@font-face {
+  font-family: 'Tomorrow';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Tomorrow Regular'),
+    local('Tomorrow-Regular'), 
+    url('./files/tomorrow-latin-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/tomorrow-latin-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* tomorrow-400italic - latin */
+@font-face {
+  font-family: 'Tomorrow';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Tomorrow Italic'),
+    local('Tomorrow-Italic'), 
+    url('./files/tomorrow-latin-400-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/tomorrow-latin-400-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* tomorrow-500normal - latin */
+@font-face {
+  font-family: 'Tomorrow';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Tomorrow Medium'),
+    local('Tomorrow-Medium'), 
+    url('./files/tomorrow-latin-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/tomorrow-latin-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* tomorrow-500italic - latin */
+@font-face {
+  font-family: 'Tomorrow';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Tomorrow Medium Italic'),
+    local('Tomorrow-MediumItalic'), 
+    url('./files/tomorrow-latin-500-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/tomorrow-latin-500-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* tomorrow-600normal - latin */
+@font-face {
+  font-family: 'Tomorrow';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Tomorrow SemiBold'),
+    local('Tomorrow-SemiBold'), 
+    url('./files/tomorrow-latin-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/tomorrow-latin-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* tomorrow-600italic - latin */
+@font-face {
+  font-family: 'Tomorrow';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Tomorrow SemiBold Italic'),
+    local('Tomorrow-SemiBoldItalic'), 
+    url('./files/tomorrow-latin-600-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/tomorrow-latin-600-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* tomorrow-700normal - latin */
+@font-face {
+  font-family: 'Tomorrow';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Tomorrow Bold'),
+    local('Tomorrow-Bold'), 
+    url('./files/tomorrow-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/tomorrow-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* tomorrow-700italic - latin */
+@font-face {
+  font-family: 'Tomorrow';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Tomorrow Bold Italic'),
+    local('Tomorrow-BoldItalic'), 
+    url('./files/tomorrow-latin-700-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/tomorrow-latin-700-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* tomorrow-800normal - latin */
+@font-face {
+  font-family: 'Tomorrow';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Tomorrow ExtraBold'),
+    local('Tomorrow-ExtraBold'), 
+    url('./files/tomorrow-latin-800.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/tomorrow-latin-800.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* tomorrow-800italic - latin */
+@font-face {
+  font-family: 'Tomorrow';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Tomorrow ExtraBold Italic'),
+    local('Tomorrow-ExtraBoldItalic'), 
+    url('./files/tomorrow-latin-800-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/tomorrow-latin-800-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* tomorrow-900normal - latin */
+@font-face {
+  font-family: 'Tomorrow';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Tomorrow Black'),
+    local('Tomorrow-Black'), 
+    url('./files/tomorrow-latin-900.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/tomorrow-latin-900.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* tomorrow-900italic - latin */
+@font-face {
+  font-family: 'Tomorrow';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Tomorrow Black Italic'),
+    local('Tomorrow-BlackItalic'), 
+    url('./files/tomorrow-latin-900-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/tomorrow-latin-900-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
