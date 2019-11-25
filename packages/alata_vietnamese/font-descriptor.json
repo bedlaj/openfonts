@@ -1,0 +1,39 @@
+{
+  "id": "alata",
+  "family": "Alata",
+  "variants": [
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/alata/v1/PbytFmztEwbIoceyzqI.eot",
+      "fontFamily": "'Alata'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/alata/v1/PbytFmztEwbIoceyzqA.woff",
+      "local": [
+        "Alata Regular",
+        "Alata-Regular"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=PbytFmztEwbIoceyzqE&skey=8b3803308a257846&v=v1#Alata",
+      "woff2": "https://fonts.gstatic.com/s/alata/v1/PbytFmztEwbIoceyzqY.woff2",
+      "ttf": "https://fonts.gstatic.com/s/alata/v1/PbytFmztEwbIoceyzqM.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin-ext",
+    "vietnamese",
+    "latin"
+  ],
+  "category": "sans-serif",
+  "version": "v1",
+  "lastModified": "2019-11-14",
+  "popularity": 879,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin-ext": false,
+    "vietnamese": true,
+    "latin": true
+  },
+  "storeID": "latin_vietnamese"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "calistoga",
+  "family": "Calistoga",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/calistoga/v1/6NUU8F2OJg6MeR7l4e0fvcwB.woff2",
+      "fontFamily": "'Calistoga'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Calistoga Regular",
+        "Calistoga-Regular"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=6NUU8F2OJg6MeR7l4e0fvcwG&skey=e8e8bbd2bc5db823&v=v1#Calistoga",
+      "eot": "https://fonts.gstatic.com/s/calistoga/v1/6NUU8F2OJg6MeR7l4e0fvcwF.eot",
+      "ttf": "https://fonts.gstatic.com/s/calistoga/v1/6NUU8F2OJg6MeR7l4e0fvcwE.ttf",
+      "woff": "https://fonts.gstatic.com/s/calistoga/v1/6NUU8F2OJg6MeR7l4e0fvcwH.woff",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin-ext",
+    "vietnamese",
+    "latin"
+  ],
+  "category": "display",
+  "version": "v1",
+  "lastModified": "2019-11-14",
+  "popularity": 893,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin-ext": true,
+    "vietnamese": false,
+    "latin": true
+  },
+  "storeID": "latin_latin-ext"
+}

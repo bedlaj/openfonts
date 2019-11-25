@@ -4,9 +4,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 300;
-  src:
-    local('Lemonada Light'),
-    local('Lemonada-Light'), 
+  src: 
     url('./files/lemonada-latin-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/lemonada-latin-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
@@ -16,11 +14,19 @@
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src:
-    local('Lemonada'),
-    local('Lemonada-Regular'), 
+  src: 
     url('./files/lemonada-latin-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/lemonada-latin-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* lemonada-500normal - latin */
+@font-face {
+  font-family: 'Lemonada';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: 
+    url('./files/lemonada-latin-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/lemonada-latin-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* lemonada-600normal - latin */
 @font-face {
@@ -28,9 +34,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 600;
-  src:
-    local('Lemonada SemiBold'),
-    local('Lemonada-SemiBold'), 
+  src: 
     url('./files/lemonada-latin-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/lemonada-latin-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
@@ -40,9 +44,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 700;
-  src:
-    local('Lemonada Bold'),
-    local('Lemonada-Bold'), 
+  src: 
     url('./files/lemonada-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/lemonada-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

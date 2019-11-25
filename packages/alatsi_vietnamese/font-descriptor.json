@@ -1,0 +1,39 @@
+{
+  "id": "alatsi",
+  "family": "Alatsi",
+  "variants": [
+    {
+      "id": "regular",
+      "ttf": "https://fonts.gstatic.com/s/alatsi/v1/TK3iWkUJAxQ2nLN2Fj8D.ttf",
+      "fontFamily": "'Alatsi'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Alatsi Regular",
+        "Alatsi-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/alatsi/v1/TK3iWkUJAxQ2nLN2Fj8C.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=TK3iWkUJAxQ2nLN2Fj8B&skey=861c1b101f0a39de&v=v1#Alatsi",
+      "woff2": "https://fonts.gstatic.com/s/alatsi/v1/TK3iWkUJAxQ2nLN2Fj8G.woff2",
+      "woff": "https://fonts.gstatic.com/s/alatsi/v1/TK3iWkUJAxQ2nLN2Fj8A.woff",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin-ext",
+    "vietnamese",
+    "latin"
+  ],
+  "category": "sans-serif",
+  "version": "v1",
+  "lastModified": "2019-11-14",
+  "popularity": 938,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin-ext": false,
+    "vietnamese": true,
+    "latin": true
+  },
+  "storeID": "latin_vietnamese"
+}

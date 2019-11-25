@@ -4,34 +4,34 @@
   "variants": [
     {
       "id": "200",
-      "eot": "https://fonts.gstatic.com/s/kulimpark/v1/fdN49secq3hflz1Uu3IwjJYN8adQYA.eot",
+      "woff2": "https://fonts.gstatic.com/s/kulimpark/v1/fdN49secq3hflz1Uu3IwjJYN8adQZA.woff2",
       "fontFamily": "'Kulim Park'",
       "fontStyle": "normal",
       "fontWeight": "200",
-      "woff": "https://fonts.gstatic.com/s/kulimpark/v1/fdN49secq3hflz1Uu3IwjJYN8adQYg.woff",
       "local": [
         "Kulim Park ExtraLight",
         "KulimPark-ExtraLight"
       ],
-      "ttf": "https://fonts.gstatic.com/s/kulimpark/v1/fdN49secq3hflz1Uu3IwjJYN8adQYQ.ttf",
-      "woff2": "https://fonts.gstatic.com/s/kulimpark/v1/fdN49secq3hflz1Uu3IwjJYN8adQZA.woff2",
+      "woff": "https://fonts.gstatic.com/s/kulimpark/v1/fdN49secq3hflz1Uu3IwjJYN8adQYg.woff",
+      "eot": "https://fonts.gstatic.com/s/kulimpark/v1/fdN49secq3hflz1Uu3IwjJYN8adQYA.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=fdN49secq3hflz1Uu3IwjJYN8adQYw&skey=c78a3cc36f014a6b&v=v1#KulimPark",
+      "ttf": "https://fonts.gstatic.com/s/kulimpark/v1/fdN49secq3hflz1Uu3IwjJYN8adQYQ.ttf",
       "errored": false
     },
     {
-      "id": "300",
-      "woff": "https://fonts.gstatic.com/s/kulimpark/v1/fdN49secq3hflz1Uu3IwjPIO8adQYg.woff",
+      "id": "200italic",
+      "eot": "https://fonts.gstatic.com/s/kulimpark/v1/fdNm9secq3hflz1Uu3IwhFwUKa9gaJ0v.eot",
       "fontFamily": "'Kulim Park'",
-      "fontStyle": "normal",
-      "fontWeight": "300",
+      "fontStyle": "italic",
+      "fontWeight": "200",
+      "woff": "https://fonts.gstatic.com/s/kulimpark/v1/fdNm9secq3hflz1Uu3IwhFwUKa9gaJ0t.woff",
       "local": [
-        "Kulim Park Light",
-        "KulimPark-Light"
+        "Kulim Park ExtraLight Italic",
+        "KulimPark-ExtraLightItalic"
       ],
-      "eot": "https://fonts.gstatic.com/s/kulimpark/v1/fdN49secq3hflz1Uu3IwjPIO8adQYA.eot",
-      "woff2": "https://fonts.gstatic.com/s/kulimpark/v1/fdN49secq3hflz1Uu3IwjPIO8adQZA.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=fdN49secq3hflz1Uu3IwjPIO8adQYw&skey=a6a047b717f3ed04&v=v1#KulimPark",
-      "ttf": "https://fonts.gstatic.com/s/kulimpark/v1/fdN49secq3hflz1Uu3IwjPIO8adQYQ.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=fdNm9secq3hflz1Uu3IwhFwUKa9gaJ0s&skey=3e9bab971ed4a670&v=v1#KulimPark",
+      "ttf": "https://fonts.gstatic.com/s/kulimpark/v1/fdNm9secq3hflz1Uu3IwhFwUKa9gaJ0u.ttf",
+      "woff2": "https://fonts.gstatic.com/s/kulimpark/v1/fdNm9secq3hflz1Uu3IwhFwUKa9gaJ0r.woff2",
       "errored": false
     },
     {
@@ -45,25 +45,25 @@
         "KulimPark-LightItalic"
       ],
       "eot": "https://fonts.gstatic.com/s/kulimpark/v1/fdNm9secq3hflz1Uu3IwhFwUTaxgaJ0v.eot",
-      "woff2": "https://fonts.gstatic.com/s/kulimpark/v1/fdNm9secq3hflz1Uu3IwhFwUTaxgaJ0r.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=fdNm9secq3hflz1Uu3IwhFwUTaxgaJ0s&skey=9d3b6a874c42e62a&v=v1#KulimPark",
       "ttf": "https://fonts.gstatic.com/s/kulimpark/v1/fdNm9secq3hflz1Uu3IwhFwUTaxgaJ0u.ttf",
+      "woff2": "https://fonts.gstatic.com/s/kulimpark/v1/fdNm9secq3hflz1Uu3IwhFwUTaxgaJ0r.woff2",
       "errored": false
     },
     {
-      "id": "200italic",
-      "woff": "https://fonts.gstatic.com/s/kulimpark/v1/fdNm9secq3hflz1Uu3IwhFwUKa9gaJ0t.woff",
+      "id": "300",
+      "eot": "https://fonts.gstatic.com/s/kulimpark/v1/fdN49secq3hflz1Uu3IwjPIO8adQYA.eot",
       "fontFamily": "'Kulim Park'",
-      "fontStyle": "italic",
-      "fontWeight": "200",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "woff2": "https://fonts.gstatic.com/s/kulimpark/v1/fdN49secq3hflz1Uu3IwjPIO8adQZA.woff2",
       "local": [
-        "Kulim Park ExtraLight Italic",
-        "KulimPark-ExtraLightItalic"
+        "Kulim Park Light",
+        "KulimPark-Light"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=fdNm9secq3hflz1Uu3IwhFwUKa9gaJ0s&skey=3e9bab971ed4a670&v=v1#KulimPark",
-      "woff2": "https://fonts.gstatic.com/s/kulimpark/v1/fdNm9secq3hflz1Uu3IwhFwUKa9gaJ0r.woff2",
-      "ttf": "https://fonts.gstatic.com/s/kulimpark/v1/fdNm9secq3hflz1Uu3IwhFwUKa9gaJ0u.ttf",
-      "eot": "https://fonts.gstatic.com/s/kulimpark/v1/fdNm9secq3hflz1Uu3IwhFwUKa9gaJ0v.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=fdN49secq3hflz1Uu3IwjPIO8adQYw&skey=a6a047b717f3ed04&v=v1#KulimPark",
+      "ttf": "https://fonts.gstatic.com/s/kulimpark/v1/fdN49secq3hflz1Uu3IwjPIO8adQYQ.ttf",
+      "woff": "https://fonts.gstatic.com/s/kulimpark/v1/fdN49secq3hflz1Uu3IwjPIO8adQYg.woff",
       "errored": false
     },
     {
@@ -83,18 +83,34 @@
       "errored": false
     },
     {
+      "id": "600italic",
+      "eot": "https://fonts.gstatic.com/s/kulimpark/v1/fdNm9secq3hflz1Uu3IwhFwUOapgaJ0v.eot",
+      "fontFamily": "'Kulim Park'",
+      "fontStyle": "italic",
+      "fontWeight": "600",
+      "woff": "https://fonts.gstatic.com/s/kulimpark/v1/fdNm9secq3hflz1Uu3IwhFwUOapgaJ0t.woff",
+      "local": [
+        "Kulim Park SemiBold Italic",
+        "KulimPark-SemiBoldItalic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/kulimpark/v1/fdNm9secq3hflz1Uu3IwhFwUOapgaJ0r.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=fdNm9secq3hflz1Uu3IwhFwUOapgaJ0s&skey=6b1c8f67089a7ea5&v=v1#KulimPark",
+      "ttf": "https://fonts.gstatic.com/s/kulimpark/v1/fdNm9secq3hflz1Uu3IwhFwUOapgaJ0u.ttf",
+      "errored": false
+    },
+    {
       "id": "italic",
-      "eot": "https://fonts.gstatic.com/s/kulimpark/v1/fdN59secq3hflz1Uu3IwhFwc6I5x.eot",
+      "woff": "https://fonts.gstatic.com/s/kulimpark/v1/fdN59secq3hflz1Uu3IwhFwc6I5z.woff",
       "fontFamily": "'Kulim Park'",
       "fontStyle": "italic",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/kulimpark/v1/fdN59secq3hflz1Uu3IwhFwc6I5z.woff",
       "local": [
         "Kulim Park Italic",
         "KulimPark-Italic"
       ],
-      "woff2": "https://fonts.gstatic.com/s/kulimpark/v1/fdN59secq3hflz1Uu3IwhFwc6I51.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=fdN59secq3hflz1Uu3IwhFwc6I5y&skey=f03b89066d999af4&v=v1#KulimPark",
+      "woff2": "https://fonts.gstatic.com/s/kulimpark/v1/fdN59secq3hflz1Uu3IwhFwc6I51.woff2",
+      "eot": "https://fonts.gstatic.com/s/kulimpark/v1/fdN59secq3hflz1Uu3IwhFwc6I5x.eot",
       "ttf": "https://fonts.gstatic.com/s/kulimpark/v1/fdN59secq3hflz1Uu3IwhFwc6I5w.ttf",
       "errored": false
     },
@@ -110,24 +126,8 @@
         "KulimPark-SemiBold"
       ],
       "woff2": "https://fonts.gstatic.com/s/kulimpark/v1/fdN49secq3hflz1Uu3IwjIYI8adQZA.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=fdN49secq3hflz1Uu3IwjIYI8adQYw&skey=aa907525432ab996&v=v1#KulimPark",
       "ttf": "https://fonts.gstatic.com/s/kulimpark/v1/fdN49secq3hflz1Uu3IwjIYI8adQYQ.ttf",
-      "errored": false
-    },
-    {
-      "id": "600italic",
-      "eot": "https://fonts.gstatic.com/s/kulimpark/v1/fdNm9secq3hflz1Uu3IwhFwUOapgaJ0v.eot",
-      "fontFamily": "'Kulim Park'",
-      "fontStyle": "italic",
-      "fontWeight": "600",
-      "woff2": "https://fonts.gstatic.com/s/kulimpark/v1/fdNm9secq3hflz1Uu3IwhFwUOapgaJ0r.woff2",
-      "local": [
-        "Kulim Park SemiBold Italic",
-        "KulimPark-SemiBoldItalic"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=fdNm9secq3hflz1Uu3IwhFwUOapgaJ0s&skey=6b1c8f67089a7ea5&v=v1#KulimPark",
-      "ttf": "https://fonts.gstatic.com/s/kulimpark/v1/fdNm9secq3hflz1Uu3IwhFwUOapgaJ0u.ttf",
-      "woff": "https://fonts.gstatic.com/s/kulimpark/v1/fdNm9secq3hflz1Uu3IwhFwUOapgaJ0t.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=fdN49secq3hflz1Uu3IwjIYI8adQYw&skey=aa907525432ab996&v=v1#KulimPark",
       "errored": false
     },
     {
@@ -148,34 +148,34 @@
     },
     {
       "id": "700italic",
-      "woff": "https://fonts.gstatic.com/s/kulimpark/v1/fdNm9secq3hflz1Uu3IwhFwUXatgaJ0t.woff",
+      "eot": "https://fonts.gstatic.com/s/kulimpark/v1/fdNm9secq3hflz1Uu3IwhFwUXatgaJ0v.eot",
       "fontFamily": "'Kulim Park'",
       "fontStyle": "italic",
       "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/kulimpark/v1/fdNm9secq3hflz1Uu3IwhFwUXatgaJ0t.woff",
       "local": [
         "Kulim Park Bold Italic",
         "KulimPark-BoldItalic"
       ],
-      "woff2": "https://fonts.gstatic.com/s/kulimpark/v1/fdNm9secq3hflz1Uu3IwhFwUXatgaJ0r.woff2",
       "ttf": "https://fonts.gstatic.com/s/kulimpark/v1/fdNm9secq3hflz1Uu3IwhFwUXatgaJ0u.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=fdNm9secq3hflz1Uu3IwhFwUXatgaJ0s&skey=9139b1aec0eb6778&v=v1#KulimPark",
-      "eot": "https://fonts.gstatic.com/s/kulimpark/v1/fdNm9secq3hflz1Uu3IwhFwUXatgaJ0v.eot",
+      "woff2": "https://fonts.gstatic.com/s/kulimpark/v1/fdNm9secq3hflz1Uu3IwhFwUXatgaJ0r.woff2",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
-    "latin-ext"
+    "latin-ext",
+    "latin"
   ],
   "category": "sans-serif",
   "version": "v1",
-  "lastModified": "2019-11-13",
-  "popularity": 963,
+  "lastModified": "2019-11-14",
+  "popularity": 969,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
-    "latin-ext": true
+    "latin-ext": true,
+    "latin": true
   },
-  "storeID": "latin-ext_latin"
+  "storeID": "latin_latin-ext"
 }

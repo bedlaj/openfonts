@@ -4,9 +4,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 200;
-  src:
-    local('Changa ExtraLight'),
-    local('Changa-ExtraLight'), 
+  src: 
     url('./files/changa-arabic-200.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/changa-arabic-200.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
@@ -16,9 +14,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 300;
-  src:
-    local('Changa Light'),
-    local('Changa-Light'), 
+  src: 
     url('./files/changa-arabic-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/changa-arabic-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
@@ -28,9 +24,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src:
-    local('Changa'),
-    local('Changa-Regular'), 
+  src: 
     url('./files/changa-arabic-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/changa-arabic-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
@@ -40,9 +34,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 500;
-  src:
-    local('Changa Medium'),
-    local('Changa-Medium'), 
+  src: 
     url('./files/changa-arabic-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/changa-arabic-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
@@ -52,9 +44,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 600;
-  src:
-    local('Changa SemiBold'),
-    local('Changa-SemiBold'), 
+  src: 
     url('./files/changa-arabic-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/changa-arabic-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
@@ -64,9 +54,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 700;
-  src:
-    local('Changa Bold'),
-    local('Changa-Bold'), 
+  src: 
     url('./files/changa-arabic-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/changa-arabic-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
@@ -76,9 +64,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 800;
-  src:
-    local('Changa ExtraBold'),
-    local('Changa-ExtraBold'), 
+  src: 
     url('./files/changa-arabic-800.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/changa-arabic-800.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

@@ -4,92 +4,136 @@
   "variants": [
     {
       "id": "100",
-      "svg": "https://fonts.gstatic.com/l/font?kit=BngOUXZYTXPIvIBgJJSb6u-u5qI&skey=483faf1f3fd8dc4d&v=v9#RobotoSlab",
+      "ttf": "https://fonts.gstatic.com/s/robotoslab/v10/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWWaA.ttf",
       "fontFamily": "'Roboto Slab'",
       "fontStyle": "normal",
       "fontWeight": "100",
-      "local": [
-        "Roboto Slab Thin",
-        "RobotoSlab-Thin"
-      ],
-      "woff": "https://fonts.gstatic.com/s/robotoslab/v9/BngOUXZYTXPIvIBgJJSb6u-u5qM.woff",
-      "woff2": "https://fonts.gstatic.com/s/robotoslab/v9/BngOUXZYTXPIvIBgJJSb6u-u5qU.woff2",
-      "eot": "https://fonts.gstatic.com/s/robotoslab/v9/BngOUXZYTXPIvIBgJJSb6u-u5qE.eot",
-      "ttf": "https://fonts.gstatic.com/s/robotoslab/v9/BngOUXZYTXPIvIBgJJSb6u-u5qA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWWag&skey=a9ad6a4717e923f0&v=v10#RobotoSlab",
+      "woff2": "https://fonts.gstatic.com/s/robotoslab/v10/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWWbQ.woff2",
+      "woff": "https://fonts.gstatic.com/s/robotoslab/v10/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWWaw.woff",
+      "eot": "https://fonts.gstatic.com/s/robotoslab/v10/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWWaQ.eot",
+      "errored": false
+    },
+    {
+      "id": "200",
+      "eot": "https://fonts.gstatic.com/s/robotoslab/v10/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISWaQ.eot",
+      "fontFamily": "'Roboto Slab'",
+      "fontStyle": "normal",
+      "fontWeight": "200",
+      "woff": "https://fonts.gstatic.com/s/robotoslab/v10/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISWaw.woff",
+      "woff2": "https://fonts.gstatic.com/s/robotoslab/v10/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISWbQ.woff2",
+      "ttf": "https://fonts.gstatic.com/s/robotoslab/v10/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISWaA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISWag&skey=a9ad6a4717e923f0&v=v10#RobotoSlab",
       "errored": false
     },
     {
       "id": "300",
-      "woff2": "https://fonts.gstatic.com/s/robotoslab/v9/BngRUXZYTXPIvIBgJJSb6u9mxICE.woff2",
+      "eot": "https://fonts.gstatic.com/s/robotoslab/v10/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSWaQ.eot",
       "fontFamily": "'Roboto Slab'",
       "fontStyle": "normal",
       "fontWeight": "300",
-      "local": [
-        "Roboto Slab Light",
-        "RobotoSlab-Light"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=BngRUXZYTXPIvIBgJJSb6u9mxICD&skey=5b48fccf0dc70db6&v=v9#RobotoSlab",
-      "ttf": "https://fonts.gstatic.com/s/robotoslab/v9/BngRUXZYTXPIvIBgJJSb6u9mxICB.ttf",
-      "eot": "https://fonts.gstatic.com/s/robotoslab/v9/BngRUXZYTXPIvIBgJJSb6u9mxICA.eot",
-      "woff": "https://fonts.gstatic.com/s/robotoslab/v9/BngRUXZYTXPIvIBgJJSb6u9mxICC.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSWag&skey=a9ad6a4717e923f0&v=v10#RobotoSlab",
+      "woff2": "https://fonts.gstatic.com/s/robotoslab/v10/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSWbQ.woff2",
+      "woff": "https://fonts.gstatic.com/s/robotoslab/v10/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSWaw.woff",
+      "ttf": "https://fonts.gstatic.com/s/robotoslab/v10/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSWaA.ttf",
       "errored": false
     },
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/robotoslab/v9/BngMUXZYTXPIvIBgJJSb6tfL.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISWag&skey=a9ad6a4717e923f0&v=v10#RobotoSlab",
       "fontFamily": "'Roboto Slab'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/robotoslab/v9/BngMUXZYTXPIvIBgJJSb6tfJ.woff",
-      "local": [
-        "Roboto Slab Regular",
-        "RobotoSlab-Regular"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/robotoslab/v9/BngMUXZYTXPIvIBgJJSb6tfP.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=BngMUXZYTXPIvIBgJJSb6tfI&skey=a9ad6a4717e923f0&v=v9#RobotoSlab",
-      "ttf": "https://fonts.gstatic.com/s/robotoslab/v9/BngMUXZYTXPIvIBgJJSb6tfK.ttf",
+      "woff2": "https://fonts.gstatic.com/s/robotoslab/v10/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISWbQ.woff2",
+      "woff": "https://fonts.gstatic.com/s/robotoslab/v10/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISWaw.woff",
+      "eot": "https://fonts.gstatic.com/s/robotoslab/v10/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISWaQ.eot",
+      "ttf": "https://fonts.gstatic.com/s/robotoslab/v10/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISWaA.ttf",
+      "errored": false
+    },
+    {
+      "id": "500",
+      "eot": "https://fonts.gstatic.com/s/robotoslab/v10/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSWaQ.eot",
+      "fontFamily": "'Roboto Slab'",
+      "fontStyle": "normal",
+      "fontWeight": "500",
+      "woff2": "https://fonts.gstatic.com/s/robotoslab/v10/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSWbQ.woff2",
+      "woff": "https://fonts.gstatic.com/s/robotoslab/v10/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSWaw.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSWag&skey=a9ad6a4717e923f0&v=v10#RobotoSlab",
+      "ttf": "https://fonts.gstatic.com/s/robotoslab/v10/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSWaA.ttf",
+      "errored": false
+    },
+    {
+      "id": "600",
+      "eot": "https://fonts.gstatic.com/s/robotoslab/v10/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOWaQ.eot",
+      "fontFamily": "'Roboto Slab'",
+      "fontStyle": "normal",
+      "fontWeight": "600",
+      "woff2": "https://fonts.gstatic.com/s/robotoslab/v10/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOWbQ.woff2",
+      "woff": "https://fonts.gstatic.com/s/robotoslab/v10/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOWaw.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOWag&skey=a9ad6a4717e923f0&v=v10#RobotoSlab",
+      "ttf": "https://fonts.gstatic.com/s/robotoslab/v10/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOWaA.ttf",
       "errored": false
     },
     {
       "id": "700",
-      "eot": "https://fonts.gstatic.com/s/robotoslab/v9/BngRUXZYTXPIvIBgJJSb6u92w4CA.eot",
+      "woff": "https://fonts.gstatic.com/s/robotoslab/v10/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4OWaw.woff",
       "fontFamily": "'Roboto Slab'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/robotoslab/v9/BngRUXZYTXPIvIBgJJSb6u92w4CC.woff",
-      "local": [
-        "Roboto Slab Bold",
-        "RobotoSlab-Bold"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/robotoslab/v9/BngRUXZYTXPIvIBgJJSb6u92w4CE.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=BngRUXZYTXPIvIBgJJSb6u92w4CD&skey=481cfd96f5185089&v=v9#RobotoSlab",
-      "ttf": "https://fonts.gstatic.com/s/robotoslab/v9/BngRUXZYTXPIvIBgJJSb6u92w4CB.ttf",
+      "woff2": "https://fonts.gstatic.com/s/robotoslab/v10/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4OWbQ.woff2",
+      "eot": "https://fonts.gstatic.com/s/robotoslab/v10/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4OWaQ.eot",
+      "ttf": "https://fonts.gstatic.com/s/robotoslab/v10/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4OWaA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4OWag&skey=a9ad6a4717e923f0&v=v10#RobotoSlab",
+      "errored": false
+    },
+    {
+      "id": "800",
+      "woff": "https://fonts.gstatic.com/s/robotoslab/v10/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOWaw.woff",
+      "fontFamily": "'Roboto Slab'",
+      "fontStyle": "normal",
+      "fontWeight": "800",
+      "woff2": "https://fonts.gstatic.com/s/robotoslab/v10/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOWbQ.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOWag&skey=a9ad6a4717e923f0&v=v10#RobotoSlab",
+      "eot": "https://fonts.gstatic.com/s/robotoslab/v10/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOWaQ.eot",
+      "ttf": "https://fonts.gstatic.com/s/robotoslab/v10/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOWaA.ttf",
+      "errored": false
+    },
+    {
+      "id": "900",
+      "woff2": "https://fonts.gstatic.com/s/robotoslab/v10/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOWbQ.woff2",
+      "fontFamily": "'Roboto Slab'",
+      "fontStyle": "normal",
+      "fontWeight": "900",
+      "woff": "https://fonts.gstatic.com/s/robotoslab/v10/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOWaw.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOWag&skey=a9ad6a4717e923f0&v=v10#RobotoSlab",
+      "ttf": "https://fonts.gstatic.com/s/robotoslab/v10/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOWaA.ttf",
+      "eot": "https://fonts.gstatic.com/s/robotoslab/v10/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOWaQ.eot",
       "errored": false
     }
   ],
   "subsets": [
-    "greek",
     "greek-ext",
-    "vietnamese",
-    "latin",
     "cyrillic-ext",
-    "cyrillic",
-    "latin-ext"
+    "latin-ext",
+    "vietnamese",
+    "greek",
+    "latin",
+    "cyrillic"
   ],
   "category": "serif",
-  "version": "v9",
-  "lastModified": "2019-07-22",
+  "version": "v10",
+  "lastModified": "2019-11-14",
   "popularity": 12,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "greek": true,
     "greek-ext": true,
-    "vietnamese": true,
-    "latin": true,
     "cyrillic-ext": true,
-    "cyrillic": true,
-    "latin-ext": true
+    "latin-ext": true,
+    "vietnamese": true,
+    "greek": true,
+    "latin": true,
+    "cyrillic": true
   },
-  "storeID": "latin-ext_cyrillic_cyrillic-ext_latin_vietnamese_greek-ext_greek"
+  "storeID": "cyrillic_latin_greek_vietnamese_latin-ext_cyrillic-ext_greek-ext"
 }

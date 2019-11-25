@@ -4,52 +4,68 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/dancingscript/v11/If2RXTr6YS-zF4S-kcSWSVi_szLgiuE.woff2",
+      "ttf": "https://fonts.gstatic.com/s/dancingscript/v13/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf",
       "fontFamily": "'Dancing Script'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "local": [
-        "Dancing Script Regular",
-        "DancingScript-Regular"
-      ],
-      "ttf": "https://fonts.gstatic.com/s/dancingscript/v11/If2RXTr6YS-zF4S-kcSWSVi_szLgiuQ.ttf",
-      "woff": "https://fonts.gstatic.com/s/dancingscript/v11/If2RXTr6YS-zF4S-kcSWSVi_szLgiuc.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=If2RXTr6YS-zF4S-kcSWSVi_szLgiuY&skey=c89f400061e5d0a8&v=v11#DancingScript",
-      "eot": "https://fonts.gstatic.com/s/dancingscript/v11/If2RXTr6YS-zF4S-kcSWSVi_szLgiuU.eot",
+      "eot": "https://fonts.gstatic.com/s/dancingscript/v13/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup4.eot",
+      "woff2": "https://fonts.gstatic.com/s/dancingscript/v13/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup8.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup7&skey=c89f400061e5d0a8&v=v13#DancingScript",
+      "woff": "https://fonts.gstatic.com/s/dancingscript/v13/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup6.woff",
+      "errored": false
+    },
+    {
+      "id": "500",
+      "ttf": "https://fonts.gstatic.com/s/dancingscript/v13/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BAyo3Sup5.ttf",
+      "fontFamily": "'Dancing Script'",
+      "fontStyle": "normal",
+      "fontWeight": "500",
+      "eot": "https://fonts.gstatic.com/s/dancingscript/v13/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BAyo3Sup4.eot",
+      "woff": "https://fonts.gstatic.com/s/dancingscript/v13/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BAyo3Sup6.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BAyo3Sup7&skey=c89f400061e5d0a8&v=v13#DancingScript",
+      "woff2": "https://fonts.gstatic.com/s/dancingscript/v13/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BAyo3Sup8.woff2",
+      "errored": false
+    },
+    {
+      "id": "600",
+      "woff": "https://fonts.gstatic.com/s/dancingscript/v13/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7B7y03Sup6.woff",
+      "fontFamily": "'Dancing Script'",
+      "fontStyle": "normal",
+      "fontWeight": "600",
+      "eot": "https://fonts.gstatic.com/s/dancingscript/v13/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7B7y03Sup4.eot",
+      "woff2": "https://fonts.gstatic.com/s/dancingscript/v13/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7B7y03Sup8.woff2",
+      "ttf": "https://fonts.gstatic.com/s/dancingscript/v13/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7B7y03Sup5.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7B7y03Sup7&skey=c89f400061e5d0a8&v=v13#DancingScript",
       "errored": false
     },
     {
       "id": "700",
-      "eot": "https://fonts.gstatic.com/s/dancingscript/v11/If2SXTr6YS-zF4S-kcSWSVi_szpbr_Qqqic.eot",
+      "woff": "https://fonts.gstatic.com/s/dancingscript/v13/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7B1i03Sup6.woff",
       "fontFamily": "'Dancing Script'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/dancingscript/v11/If2SXTr6YS-zF4S-kcSWSVi_szpbr_QqqiU.woff",
-      "local": [
-        "Dancing Script Bold",
-        "DancingScript-Bold"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/dancingscript/v11/If2SXTr6YS-zF4S-kcSWSVi_szpbr_QqqiM.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=If2SXTr6YS-zF4S-kcSWSVi_szpbr_QqqiQ&skey=4fd71febfd48d6c&v=v11#DancingScript",
-      "ttf": "https://fonts.gstatic.com/s/dancingscript/v11/If2SXTr6YS-zF4S-kcSWSVi_szpbr_QqqiY.ttf",
+      "eot": "https://fonts.gstatic.com/s/dancingscript/v13/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7B1i03Sup4.eot",
+      "woff2": "https://fonts.gstatic.com/s/dancingscript/v13/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7B1i03Sup8.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7B1i03Sup7&skey=c89f400061e5d0a8&v=v13#DancingScript",
+      "ttf": "https://fonts.gstatic.com/s/dancingscript/v13/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7B1i03Sup5.ttf",
       "errored": false
     }
   ],
   "subsets": [
+    "latin-ext",
     "vietnamese",
-    "latin",
-    "latin-ext"
+    "latin"
   ],
   "category": "handwriting",
-  "version": "v11",
-  "lastModified": "2019-07-17",
-  "popularity": 56,
+  "version": "v13",
+  "lastModified": "2019-11-20",
+  "popularity": 58,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
+    "latin-ext": false,
     "vietnamese": false,
-    "latin": true,
-    "latin-ext": false
+    "latin": true
   },
   "storeID": "latin"
 }
