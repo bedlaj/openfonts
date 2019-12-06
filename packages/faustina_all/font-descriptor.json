@@ -4,148 +4,116 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/faustina/v4/XLYlIZPxYpJfTbZAFW-4.ttf",
+      "woff2": "https://fonts.gstatic.com/s/faustina/v5/XLY4IZPxYpJfTbZAFXWzNT2SO8wpWHlsgoEvHA.woff2",
       "fontFamily": "'Faustina'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "local": [
-        "Faustina Regular",
-        "Faustina-Regular"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/faustina/v4/XLYlIZPxYpJfTbZAFW-9.woff2",
-      "woff": "https://fonts.gstatic.com/s/faustina/v4/XLYlIZPxYpJfTbZAFW-7.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=XLYlIZPxYpJfTbZAFW-6&skey=e32c128add4269f7&v=v4#Faustina",
-      "eot": "https://fonts.gstatic.com/s/faustina/v4/XLYlIZPxYpJfTbZAFW-5.eot",
+      "woff": "https://fonts.gstatic.com/s/faustina/v5/XLY4IZPxYpJfTbZAFXWzNT2SO8wpWHlsgoEvGg.woff",
+      "ttf": "https://fonts.gstatic.com/s/faustina/v5/XLY4IZPxYpJfTbZAFXWzNT2SO8wpWHlsgoEvGQ.ttf",
+      "eot": "https://fonts.gstatic.com/s/faustina/v5/XLY4IZPxYpJfTbZAFXWzNT2SO8wpWHlsgoEvGA.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=XLY4IZPxYpJfTbZAFXWzNT2SO8wpWHlsgoEvGw&skey=e32c128add4269f7&v=v5#Faustina",
       "errored": false
     },
     {
       "id": "500",
-      "eot": "https://fonts.gstatic.com/s/faustina/v4/XLYiIZPxYpJfTbZAFVdMPulD.eot",
+      "woff": "https://fonts.gstatic.com/s/faustina/v5/XLY4IZPxYpJfTbZAFXWzNT2SO8wpWHlssIEvGg.woff",
       "fontFamily": "'Faustina'",
       "fontStyle": "normal",
       "fontWeight": "500",
-      "woff": "https://fonts.gstatic.com/s/faustina/v4/XLYiIZPxYpJfTbZAFVdMPulB.woff",
-      "local": [
-        "Faustina Medium",
-        "Faustina-Medium"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=XLYiIZPxYpJfTbZAFVdMPulA&skey=53166b05596dfec&v=v4#Faustina",
-      "woff2": "https://fonts.gstatic.com/s/faustina/v4/XLYiIZPxYpJfTbZAFVdMPulH.woff2",
-      "ttf": "https://fonts.gstatic.com/s/faustina/v4/XLYiIZPxYpJfTbZAFVdMPulC.ttf",
-      "errored": false
-    },
-    {
-      "id": "italic",
-      "eot": "https://fonts.gstatic.com/s/faustina/v4/XLYjIZPxYpJfTbZAFV-6Hcg.eot",
-      "fontFamily": "'Faustina'",
-      "fontStyle": "italic",
-      "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/faustina/v4/XLYjIZPxYpJfTbZAFV-6Hco.woff",
-      "local": [
-        "Faustina Italic",
-        "Faustina-Italic"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/faustina/v4/XLYjIZPxYpJfTbZAFV-6Hcw.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=XLYjIZPxYpJfTbZAFV-6Hcs&skey=daecb02da3783719&v=v4#Faustina",
-      "ttf": "https://fonts.gstatic.com/s/faustina/v4/XLYjIZPxYpJfTbZAFV-6Hck.ttf",
-      "errored": false
-    },
-    {
-      "id": "500italic",
-      "eot": "https://fonts.gstatic.com/s/faustina/v4/XLYgIZPxYpJfTbZAFV-6JT1BhnY.eot",
-      "fontFamily": "'Faustina'",
-      "fontStyle": "italic",
-      "fontWeight": "500",
-      "woff": "https://fonts.gstatic.com/s/faustina/v4/XLYgIZPxYpJfTbZAFV-6JT1BhnQ.woff",
-      "local": [
-        "Faustina Medium Italic",
-        "Faustina-MediumItalic"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/faustina/v4/XLYgIZPxYpJfTbZAFV-6JT1BhnI.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=XLYgIZPxYpJfTbZAFV-6JT1BhnU&skey=f3902a61369ac305&v=v4#Faustina",
-      "ttf": "https://fonts.gstatic.com/s/faustina/v4/XLYgIZPxYpJfTbZAFV-6JT1Bhnc.ttf",
-      "errored": false
-    },
-    {
-      "id": "600italic",
-      "eot": "https://fonts.gstatic.com/s/faustina/v4/XLYgIZPxYpJfTbZAFV-6JRFGhnY.eot",
-      "fontFamily": "'Faustina'",
-      "fontStyle": "italic",
-      "fontWeight": "600",
-      "woff": "https://fonts.gstatic.com/s/faustina/v4/XLYgIZPxYpJfTbZAFV-6JRFGhnQ.woff",
-      "local": [
-        "Faustina SemiBold Italic",
-        "Faustina-SemiBoldItalic"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=XLYgIZPxYpJfTbZAFV-6JRFGhnU&skey=335a86b9ce26e656&v=v4#Faustina",
-      "ttf": "https://fonts.gstatic.com/s/faustina/v4/XLYgIZPxYpJfTbZAFV-6JRFGhnc.ttf",
-      "woff2": "https://fonts.gstatic.com/s/faustina/v4/XLYgIZPxYpJfTbZAFV-6JRFGhnI.woff2",
+      "woff2": "https://fonts.gstatic.com/s/faustina/v5/XLY4IZPxYpJfTbZAFXWzNT2SO8wpWHlssIEvHA.woff2",
+      "eot": "https://fonts.gstatic.com/s/faustina/v5/XLY4IZPxYpJfTbZAFXWzNT2SO8wpWHlssIEvGA.eot",
+      "ttf": "https://fonts.gstatic.com/s/faustina/v5/XLY4IZPxYpJfTbZAFXWzNT2SO8wpWHlssIEvGQ.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=XLY4IZPxYpJfTbZAFXWzNT2SO8wpWHlssIEvGw&skey=e32c128add4269f7&v=v5#Faustina",
       "errored": false
     },
     {
       "id": "600",
-      "eot": "https://fonts.gstatic.com/s/faustina/v4/XLYiIZPxYpJfTbZAFVdgOelD.eot",
+      "eot": "https://fonts.gstatic.com/s/faustina/v5/XLY4IZPxYpJfTbZAFXWzNT2SO8wpWHlsXIYvGA.eot",
       "fontFamily": "'Faustina'",
       "fontStyle": "normal",
       "fontWeight": "600",
-      "woff": "https://fonts.gstatic.com/s/faustina/v4/XLYiIZPxYpJfTbZAFVdgOelB.woff",
-      "local": [
-        "Faustina SemiBold",
-        "Faustina-SemiBold"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/faustina/v4/XLYiIZPxYpJfTbZAFVdgOelH.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=XLYiIZPxYpJfTbZAFVdgOelA&skey=27c0ca3484bdd993&v=v4#Faustina",
-      "ttf": "https://fonts.gstatic.com/s/faustina/v4/XLYiIZPxYpJfTbZAFVdgOelC.ttf",
+      "woff2": "https://fonts.gstatic.com/s/faustina/v5/XLY4IZPxYpJfTbZAFXWzNT2SO8wpWHlsXIYvHA.woff2",
+      "woff": "https://fonts.gstatic.com/s/faustina/v5/XLY4IZPxYpJfTbZAFXWzNT2SO8wpWHlsXIYvGg.woff",
+      "ttf": "https://fonts.gstatic.com/s/faustina/v5/XLY4IZPxYpJfTbZAFXWzNT2SO8wpWHlsXIYvGQ.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=XLY4IZPxYpJfTbZAFXWzNT2SO8wpWHlsXIYvGw&skey=e32c128add4269f7&v=v5#Faustina",
       "errored": false
     },
     {
       "id": "700",
-      "woff": "https://fonts.gstatic.com/s/faustina/v4/XLYiIZPxYpJfTbZAFVcEOOlB.woff",
+      "eot": "https://fonts.gstatic.com/s/faustina/v5/XLY4IZPxYpJfTbZAFXWzNT2SO8wpWHlsZYYvGA.eot",
       "fontFamily": "'Faustina'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "local": [
-        "Faustina Bold",
-        "Faustina-Bold"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=XLYiIZPxYpJfTbZAFVcEOOlA&skey=e246869b17108526&v=v4#Faustina",
-      "ttf": "https://fonts.gstatic.com/s/faustina/v4/XLYiIZPxYpJfTbZAFVcEOOlC.ttf",
-      "eot": "https://fonts.gstatic.com/s/faustina/v4/XLYiIZPxYpJfTbZAFVcEOOlD.eot",
-      "woff2": "https://fonts.gstatic.com/s/faustina/v4/XLYiIZPxYpJfTbZAFVcEOOlH.woff2",
+      "woff": "https://fonts.gstatic.com/s/faustina/v5/XLY4IZPxYpJfTbZAFXWzNT2SO8wpWHlsZYYvGg.woff",
+      "woff2": "https://fonts.gstatic.com/s/faustina/v5/XLY4IZPxYpJfTbZAFXWzNT2SO8wpWHlsZYYvHA.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=XLY4IZPxYpJfTbZAFXWzNT2SO8wpWHlsZYYvGw&skey=e32c128add4269f7&v=v5#Faustina",
+      "ttf": "https://fonts.gstatic.com/s/faustina/v5/XLY4IZPxYpJfTbZAFXWzNT2SO8wpWHlsZYYvGQ.ttf",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "eot": "https://fonts.gstatic.com/s/faustina/v5/XLY2IZPxYpJfTbZAFV-6B8JKUqez9n55SsLHWl-T.eot",
+      "fontFamily": "'Faustina'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "svg": "https://fonts.gstatic.com/l/font?kit=XLY2IZPxYpJfTbZAFV-6B8JKUqez9n55SsLHWl-Q&skey=daecb02da3783719&v=v5#Faustina",
+      "woff": "https://fonts.gstatic.com/s/faustina/v5/XLY2IZPxYpJfTbZAFV-6B8JKUqez9n55SsLHWl-R.woff",
+      "woff2": "https://fonts.gstatic.com/s/faustina/v5/XLY2IZPxYpJfTbZAFV-6B8JKUqez9n55SsLHWl-X.woff2",
+      "ttf": "https://fonts.gstatic.com/s/faustina/v5/XLY2IZPxYpJfTbZAFV-6B8JKUqez9n55SsLHWl-S.ttf",
+      "errored": false
+    },
+    {
+      "id": "600italic",
+      "eot": "https://fonts.gstatic.com/s/faustina/v5/XLY2IZPxYpJfTbZAFV-6B8JKUqez9n55SsIZXV-T.eot",
+      "fontFamily": "'Faustina'",
+      "fontStyle": "italic",
+      "fontWeight": "600",
+      "woff": "https://fonts.gstatic.com/s/faustina/v5/XLY2IZPxYpJfTbZAFV-6B8JKUqez9n55SsIZXV-R.woff",
+      "woff2": "https://fonts.gstatic.com/s/faustina/v5/XLY2IZPxYpJfTbZAFV-6B8JKUqez9n55SsIZXV-X.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=XLY2IZPxYpJfTbZAFV-6B8JKUqez9n55SsIZXV-Q&skey=daecb02da3783719&v=v5#Faustina",
+      "ttf": "https://fonts.gstatic.com/s/faustina/v5/XLY2IZPxYpJfTbZAFV-6B8JKUqez9n55SsIZXV-S.ttf",
+      "errored": false
+    },
+    {
+      "id": "500italic",
+      "woff": "https://fonts.gstatic.com/s/faustina/v5/XLY2IZPxYpJfTbZAFV-6B8JKUqez9n55SsL1Wl-R.woff",
+      "fontFamily": "'Faustina'",
+      "fontStyle": "italic",
+      "fontWeight": "500",
+      "svg": "https://fonts.gstatic.com/l/font?kit=XLY2IZPxYpJfTbZAFV-6B8JKUqez9n55SsL1Wl-Q&skey=daecb02da3783719&v=v5#Faustina",
+      "eot": "https://fonts.gstatic.com/s/faustina/v5/XLY2IZPxYpJfTbZAFV-6B8JKUqez9n55SsL1Wl-T.eot",
+      "ttf": "https://fonts.gstatic.com/s/faustina/v5/XLY2IZPxYpJfTbZAFV-6B8JKUqez9n55SsL1Wl-S.ttf",
+      "woff2": "https://fonts.gstatic.com/s/faustina/v5/XLY2IZPxYpJfTbZAFV-6B8JKUqez9n55SsL1Wl-X.woff2",
       "errored": false
     },
     {
       "id": "700italic",
-      "eot": "https://fonts.gstatic.com/s/faustina/v4/XLYgIZPxYpJfTbZAFV-6JXVHhnY.eot",
+      "eot": "https://fonts.gstatic.com/s/faustina/v5/XLY2IZPxYpJfTbZAFV-6B8JKUqez9n55SsIgXV-T.eot",
       "fontFamily": "'Faustina'",
       "fontStyle": "italic",
       "fontWeight": "700",
-      "woff2": "https://fonts.gstatic.com/s/faustina/v4/XLYgIZPxYpJfTbZAFV-6JXVHhnI.woff2",
-      "local": [
-        "Faustina Bold Italic",
-        "Faustina-BoldItalic"
-      ],
-      "woff": "https://fonts.gstatic.com/s/faustina/v4/XLYgIZPxYpJfTbZAFV-6JXVHhnQ.woff",
-      "ttf": "https://fonts.gstatic.com/s/faustina/v4/XLYgIZPxYpJfTbZAFV-6JXVHhnc.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=XLYgIZPxYpJfTbZAFV-6JXVHhnU&skey=f8f6f0851233e777&v=v4#Faustina",
+      "woff": "https://fonts.gstatic.com/s/faustina/v5/XLY2IZPxYpJfTbZAFV-6B8JKUqez9n55SsIgXV-R.woff",
+      "woff2": "https://fonts.gstatic.com/s/faustina/v5/XLY2IZPxYpJfTbZAFV-6B8JKUqez9n55SsIgXV-X.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=XLY2IZPxYpJfTbZAFV-6B8JKUqez9n55SsIgXV-Q&skey=daecb02da3783719&v=v5#Faustina",
+      "ttf": "https://fonts.gstatic.com/s/faustina/v5/XLY2IZPxYpJfTbZAFV-6B8JKUqez9n55SsIgXV-S.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "vietnamese",
     "latin",
+    "vietnamese",
     "latin-ext"
   ],
   "category": "serif",
-  "version": "v4",
-  "lastModified": "2019-07-16",
-  "popularity": 444,
+  "version": "v5",
+  "lastModified": "2019-12-05",
+  "popularity": 421,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "vietnamese": true,
     "latin": true,
+    "vietnamese": true,
     "latin-ext": true
   },
-  "storeID": "latin-ext_latin_vietnamese"
+  "storeID": "latin-ext_vietnamese_latin"
 }

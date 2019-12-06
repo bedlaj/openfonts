@@ -4,9 +4,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src:
-    local('Maven Pro Regular'),
-    local('MavenPro-Regular'), 
+  src: 
     url('./files/maven-pro-all-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/maven-pro-all-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
@@ -16,11 +14,19 @@
   font-style: normal;
   font-display: swap;
   font-weight: 500;
-  src:
-    local('Maven Pro Medium'),
-    local('MavenPro-Medium'), 
+  src: 
     url('./files/maven-pro-all-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/maven-pro-all-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* maven-pro-600normal - all */
+@font-face {
+  font-family: 'Maven Pro';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: 
+    url('./files/maven-pro-all-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/maven-pro-all-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* maven-pro-700normal - all */
 @font-face {
@@ -28,11 +34,19 @@
   font-style: normal;
   font-display: swap;
   font-weight: 700;
-  src:
-    local('Maven Pro Bold'),
-    local('MavenPro-Bold'), 
+  src: 
     url('./files/maven-pro-all-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/maven-pro-all-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* maven-pro-800normal - all */
+@font-face {
+  font-family: 'Maven Pro';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src: 
+    url('./files/maven-pro-all-800.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/maven-pro-all-800.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* maven-pro-900normal - all */
 @font-face {
@@ -40,9 +54,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 900;
-  src:
-    local('Maven Pro Black'),
-    local('MavenPro-Black'), 
+  src: 
     url('./files/maven-pro-all-900.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/maven-pro-all-900.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

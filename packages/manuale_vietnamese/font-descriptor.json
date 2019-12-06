@@ -4,148 +4,116 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/manuale/v4/f0X20eas_8Z-TFZdNP7Owg.woff2",
+      "woff": "https://fonts.gstatic.com/s/manuale/v5/f0Xp0eas_8Z-TFZdHv3mMxFaSqASeeHke4wL3zc.woff",
       "fontFamily": "'Manuale'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "local": [
-        "Manuale Regular",
-        "Manuale-Regular"
-      ],
-      "eot": "https://fonts.gstatic.com/s/manuale/v4/f0X20eas_8Z-TFZdNP7Oxg.eot",
-      "woff": "https://fonts.gstatic.com/s/manuale/v4/f0X20eas_8Z-TFZdNP7OxA.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=f0X20eas_8Z-TFZdNP7OxQ&skey=ea5c2e1eec98b791&v=v4#Manuale",
-      "ttf": "https://fonts.gstatic.com/s/manuale/v4/f0X20eas_8Z-TFZdNP7Oxw.ttf",
-      "errored": false
-    },
-    {
-      "id": "italic",
-      "eot": "https://fonts.gstatic.com/s/manuale/v4/f0X00eas_8Z-TFZdNPT-z-HG.eot",
-      "fontFamily": "'Manuale'",
-      "fontStyle": "italic",
-      "fontWeight": "400",
-      "svg": "https://fonts.gstatic.com/l/font?kit=f0X00eas_8Z-TFZdNPT-z-HF&skey=d23698bab7e8d4c&v=v4#Manuale",
-      "local": [
-        "Manuale Italic",
-        "Manuale-Italic"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/manuale/v4/f0X00eas_8Z-TFZdNPT-z-HC.woff2",
-      "woff": "https://fonts.gstatic.com/s/manuale/v4/f0X00eas_8Z-TFZdNPT-z-HE.woff",
-      "ttf": "https://fonts.gstatic.com/s/manuale/v4/f0X00eas_8Z-TFZdNPT-z-HH.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=f0Xp0eas_8Z-TFZdHv3mMxFaSqASeeHke4wL3zY&skey=ea5c2e1eec98b791&v=v5#Manuale",
+      "eot": "https://fonts.gstatic.com/s/manuale/v5/f0Xp0eas_8Z-TFZdHv3mMxFaSqASeeHke4wL3zU.eot",
+      "woff2": "https://fonts.gstatic.com/s/manuale/v5/f0Xp0eas_8Z-TFZdHv3mMxFaSqASeeHke4wL3zE.woff2",
+      "ttf": "https://fonts.gstatic.com/s/manuale/v5/f0Xp0eas_8Z-TFZdHv3mMxFaSqASeeHke4wL3zQ.ttf",
       "errored": false
     },
     {
       "id": "500",
-      "eot": "https://fonts.gstatic.com/s/manuale/v4/f0Xz0eas_8Z-TFZdPALt18nn8A.eot",
+      "eot": "https://fonts.gstatic.com/s/manuale/v5/f0Xp0eas_8Z-TFZdHv3mMxFaSqASeeHWe4wL3zU.eot",
       "fontFamily": "'Manuale'",
       "fontStyle": "normal",
       "fontWeight": "500",
-      "woff": "https://fonts.gstatic.com/s/manuale/v4/f0Xz0eas_8Z-TFZdPALt18nn8g.woff",
-      "local": [
-        "Manuale Medium",
-        "Manuale-Medium"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=f0Xz0eas_8Z-TFZdPALt18nn8w&skey=3a0e7306ace6ed8a&v=v4#Manuale",
-      "woff2": "https://fonts.gstatic.com/s/manuale/v4/f0Xz0eas_8Z-TFZdPALt18nn9A.woff2",
-      "ttf": "https://fonts.gstatic.com/s/manuale/v4/f0Xz0eas_8Z-TFZdPALt18nn8Q.ttf",
-      "errored": false
-    },
-    {
-      "id": "500italic",
-      "eot": "https://fonts.gstatic.com/s/manuale/v4/f0Xx0eas_8Z-TFZdNPT2M8LX-YcG.eot",
-      "fontFamily": "'Manuale'",
-      "fontStyle": "italic",
-      "fontWeight": "500",
-      "woff": "https://fonts.gstatic.com/s/manuale/v4/f0Xx0eas_8Z-TFZdNPT2M8LX-YcE.woff",
-      "local": [
-        "Manuale Medium Italic",
-        "Manuale-MediumItalic"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/manuale/v4/f0Xx0eas_8Z-TFZdNPT2M8LX-YcC.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=f0Xx0eas_8Z-TFZdNPT2M8LX-YcF&skey=22b9c51a91e32cfa&v=v4#Manuale",
-      "ttf": "https://fonts.gstatic.com/s/manuale/v4/f0Xx0eas_8Z-TFZdNPT2M8LX-YcH.ttf",
-      "errored": false
-    },
-    {
-      "id": "600italic",
-      "eot": "https://fonts.gstatic.com/s/manuale/v4/f0Xx0eas_8Z-TFZdNPT2H8XX-YcG.eot",
-      "fontFamily": "'Manuale'",
-      "fontStyle": "italic",
-      "fontWeight": "600",
-      "woff": "https://fonts.gstatic.com/s/manuale/v4/f0Xx0eas_8Z-TFZdNPT2H8XX-YcE.woff",
-      "local": [
-        "Manuale SemiBold Italic",
-        "Manuale-SemiBoldItalic"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/manuale/v4/f0Xx0eas_8Z-TFZdNPT2H8XX-YcC.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=f0Xx0eas_8Z-TFZdNPT2H8XX-YcF&skey=bc2f11adbaa17a37&v=v4#Manuale",
-      "ttf": "https://fonts.gstatic.com/s/manuale/v4/f0Xx0eas_8Z-TFZdNPT2H8XX-YcH.ttf",
-      "errored": false
-    },
-    {
-      "id": "700",
-      "woff": "https://fonts.gstatic.com/s/manuale/v4/f0Xz0eas_8Z-TFZdPErr18nn8g.woff",
-      "fontFamily": "'Manuale'",
-      "fontStyle": "normal",
-      "fontWeight": "700",
-      "local": [
-        "Manuale Bold",
-        "Manuale-Bold"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/manuale/v4/f0Xz0eas_8Z-TFZdPErr18nn9A.woff2",
-      "eot": "https://fonts.gstatic.com/s/manuale/v4/f0Xz0eas_8Z-TFZdPErr18nn8A.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=f0Xz0eas_8Z-TFZdPErr18nn8w&skey=24493e4a5aade7d7&v=v4#Manuale",
-      "ttf": "https://fonts.gstatic.com/s/manuale/v4/f0Xz0eas_8Z-TFZdPErr18nn8Q.ttf",
+      "woff": "https://fonts.gstatic.com/s/manuale/v5/f0Xp0eas_8Z-TFZdHv3mMxFaSqASeeHWe4wL3zc.woff",
+      "woff2": "https://fonts.gstatic.com/s/manuale/v5/f0Xp0eas_8Z-TFZdHv3mMxFaSqASeeHWe4wL3zE.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=f0Xp0eas_8Z-TFZdHv3mMxFaSqASeeHWe4wL3zY&skey=ea5c2e1eec98b791&v=v5#Manuale",
+      "ttf": "https://fonts.gstatic.com/s/manuale/v5/f0Xp0eas_8Z-TFZdHv3mMxFaSqASeeHWe4wL3zQ.ttf",
       "errored": false
     },
     {
       "id": "600",
-      "eot": "https://fonts.gstatic.com/s/manuale/v4/f0Xz0eas_8Z-TFZdPC7q18nn8A.eot",
+      "eot": "https://fonts.gstatic.com/s/manuale/v5/f0Xp0eas_8Z-TFZdHv3mMxFaSqASeeE6fIwL3zU.eot",
       "fontFamily": "'Manuale'",
       "fontStyle": "normal",
       "fontWeight": "600",
-      "woff": "https://fonts.gstatic.com/s/manuale/v4/f0Xz0eas_8Z-TFZdPC7q18nn8g.woff",
-      "local": [
-        "Manuale SemiBold",
-        "Manuale-SemiBold"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/manuale/v4/f0Xz0eas_8Z-TFZdPC7q18nn9A.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=f0Xz0eas_8Z-TFZdPC7q18nn8w&skey=11ad0706793aa48f&v=v4#Manuale",
-      "ttf": "https://fonts.gstatic.com/s/manuale/v4/f0Xz0eas_8Z-TFZdPC7q18nn8Q.ttf",
+      "woff": "https://fonts.gstatic.com/s/manuale/v5/f0Xp0eas_8Z-TFZdHv3mMxFaSqASeeE6fIwL3zc.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=f0Xp0eas_8Z-TFZdHv3mMxFaSqASeeE6fIwL3zY&skey=ea5c2e1eec98b791&v=v5#Manuale",
+      "woff2": "https://fonts.gstatic.com/s/manuale/v5/f0Xp0eas_8Z-TFZdHv3mMxFaSqASeeE6fIwL3zE.woff2",
+      "ttf": "https://fonts.gstatic.com/s/manuale/v5/f0Xp0eas_8Z-TFZdHv3mMxFaSqASeeE6fIwL3zQ.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/manuale/v5/f0Xp0eas_8Z-TFZdHv3mMxFaSqASeeEDfIwL3zU.eot",
+      "fontFamily": "'Manuale'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/manuale/v5/f0Xp0eas_8Z-TFZdHv3mMxFaSqASeeEDfIwL3zc.woff",
+      "woff2": "https://fonts.gstatic.com/s/manuale/v5/f0Xp0eas_8Z-TFZdHv3mMxFaSqASeeEDfIwL3zE.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=f0Xp0eas_8Z-TFZdHv3mMxFaSqASeeEDfIwL3zY&skey=ea5c2e1eec98b791&v=v5#Manuale",
+      "ttf": "https://fonts.gstatic.com/s/manuale/v5/f0Xp0eas_8Z-TFZdHv3mMxFaSqASeeEDfIwL3zQ.ttf",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "eot": "https://fonts.gstatic.com/s/manuale/v5/f0Xn0eas_8Z-TFZdNPTUzMkzITq8fvQsOFRA7zxXJA.eot",
+      "fontFamily": "'Manuale'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/manuale/v5/f0Xn0eas_8Z-TFZdNPTUzMkzITq8fvQsOFRA7zxXJg.woff",
+      "woff2": "https://fonts.gstatic.com/s/manuale/v5/f0Xn0eas_8Z-TFZdNPTUzMkzITq8fvQsOFRA7zxXIA.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=f0Xn0eas_8Z-TFZdNPTUzMkzITq8fvQsOFRA7zxXJw&skey=d23698bab7e8d4c&v=v5#Manuale",
+      "ttf": "https://fonts.gstatic.com/s/manuale/v5/f0Xn0eas_8Z-TFZdNPTUzMkzITq8fvQsOFRA7zxXJQ.ttf",
+      "errored": false
+    },
+    {
+      "id": "500italic",
+      "woff": "https://fonts.gstatic.com/s/manuale/v5/f0Xn0eas_8Z-TFZdNPTUzMkzITq8fvQsOGZA7zxXJg.woff",
+      "fontFamily": "'Manuale'",
+      "fontStyle": "italic",
+      "fontWeight": "500",
+      "eot": "https://fonts.gstatic.com/s/manuale/v5/f0Xn0eas_8Z-TFZdNPTUzMkzITq8fvQsOGZA7zxXJA.eot",
+      "woff2": "https://fonts.gstatic.com/s/manuale/v5/f0Xn0eas_8Z-TFZdNPTUzMkzITq8fvQsOGZA7zxXIA.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=f0Xn0eas_8Z-TFZdNPTUzMkzITq8fvQsOGZA7zxXJw&skey=d23698bab7e8d4c&v=v5#Manuale",
+      "ttf": "https://fonts.gstatic.com/s/manuale/v5/f0Xn0eas_8Z-TFZdNPTUzMkzITq8fvQsOGZA7zxXJQ.ttf",
+      "errored": false
+    },
+    {
+      "id": "600italic",
+      "eot": "https://fonts.gstatic.com/s/manuale/v5/f0Xn0eas_8Z-TFZdNPTUzMkzITq8fvQsOIpH7zxXJA.eot",
+      "fontFamily": "'Manuale'",
+      "fontStyle": "italic",
+      "fontWeight": "600",
+      "woff2": "https://fonts.gstatic.com/s/manuale/v5/f0Xn0eas_8Z-TFZdNPTUzMkzITq8fvQsOIpH7zxXIA.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=f0Xn0eas_8Z-TFZdNPTUzMkzITq8fvQsOIpH7zxXJw&skey=d23698bab7e8d4c&v=v5#Manuale",
+      "woff": "https://fonts.gstatic.com/s/manuale/v5/f0Xn0eas_8Z-TFZdNPTUzMkzITq8fvQsOIpH7zxXJg.woff",
+      "ttf": "https://fonts.gstatic.com/s/manuale/v5/f0Xn0eas_8Z-TFZdNPTUzMkzITq8fvQsOIpH7zxXJQ.ttf",
       "errored": false
     },
     {
       "id": "700italic",
-      "eot": "https://fonts.gstatic.com/s/manuale/v4/f0Xx0eas_8Z-TFZdNPT2e8TX-YcG.eot",
+      "eot": "https://fonts.gstatic.com/s/manuale/v5/f0Xn0eas_8Z-TFZdNPTUzMkzITq8fvQsOLNH7zxXJA.eot",
       "fontFamily": "'Manuale'",
       "fontStyle": "italic",
       "fontWeight": "700",
-      "woff2": "https://fonts.gstatic.com/s/manuale/v4/f0Xx0eas_8Z-TFZdNPT2e8TX-YcC.woff2",
-      "local": [
-        "Manuale Bold Italic",
-        "Manuale-BoldItalic"
-      ],
-      "woff": "https://fonts.gstatic.com/s/manuale/v4/f0Xx0eas_8Z-TFZdNPT2e8TX-YcE.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=f0Xx0eas_8Z-TFZdNPT2e8TX-YcF&skey=77508a5ae73bee14&v=v4#Manuale",
-      "ttf": "https://fonts.gstatic.com/s/manuale/v4/f0Xx0eas_8Z-TFZdNPT2e8TX-YcH.ttf",
+      "woff": "https://fonts.gstatic.com/s/manuale/v5/f0Xn0eas_8Z-TFZdNPTUzMkzITq8fvQsOLNH7zxXJg.woff",
+      "woff2": "https://fonts.gstatic.com/s/manuale/v5/f0Xn0eas_8Z-TFZdNPTUzMkzITq8fvQsOLNH7zxXIA.woff2",
+      "ttf": "https://fonts.gstatic.com/s/manuale/v5/f0Xn0eas_8Z-TFZdNPTUzMkzITq8fvQsOLNH7zxXJQ.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=f0Xn0eas_8Z-TFZdNPTUzMkzITq8fvQsOLNH7zxXJw&skey=d23698bab7e8d4c&v=v5#Manuale",
       "errored": false
     }
   ],
   "subsets": [
-    "vietnamese",
     "latin",
+    "vietnamese",
     "latin-ext"
   ],
   "category": "serif",
-  "version": "v4",
-  "lastModified": "2019-07-16",
-  "popularity": 724,
+  "version": "v5",
+  "lastModified": "2019-12-05",
+  "popularity": 686,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "vietnamese": true,
     "latin": true,
+    "vietnamese": true,
     "latin-ext": false
   },
-  "storeID": "latin_vietnamese"
+  "storeID": "vietnamese_latin"
 }

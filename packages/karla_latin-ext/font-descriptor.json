@@ -3,83 +3,187 @@
   "family": "Karla",
   "variants": [
     {
-      "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/karla/v8/qkBbXvYC6trAT7RbLtw.woff2",
+      "id": "200",
+      "woff2": "https://fonts.gstatic.com/s/karla/v12/qkBIXvYC6trAT55ZBi1ueQVIjQTDeJqaHUlK.woff2",
       "fontFamily": "'Karla'",
       "fontStyle": "normal",
-      "fontWeight": "400",
-      "local": [
-        "Karla",
-        "Karla-Regular"
-      ],
-      "woff": "https://fonts.gstatic.com/s/karla/v8/qkBbXvYC6trAT7RbLto.woff",
-      "eot": "https://fonts.gstatic.com/s/karla/v8/qkBbXvYC6trAT7RbLtg.eot",
-      "ttf": "https://fonts.gstatic.com/s/karla/v8/qkBbXvYC6trAT7RbLtk.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=qkBbXvYC6trAT7RbLts&skey=139a38ebe1800a84&v=v8#Karla",
+      "fontWeight": "200",
+      "svg": "https://fonts.gstatic.com/l/font?kit=qkBIXvYC6trAT55ZBi1ueQVIjQTDeJqaHUlN&skey=139a38ebe1800a84&v=v12#Karla",
+      "eot": "https://fonts.gstatic.com/s/karla/v12/qkBIXvYC6trAT55ZBi1ueQVIjQTDeJqaHUlO.eot",
+      "woff": "https://fonts.gstatic.com/s/karla/v12/qkBIXvYC6trAT55ZBi1ueQVIjQTDeJqaHUlM.woff",
+      "ttf": "https://fonts.gstatic.com/s/karla/v12/qkBIXvYC6trAT55ZBi1ueQVIjQTDeJqaHUlP.ttf",
       "errored": false
     },
     {
-      "id": "italic",
-      "eot": "https://fonts.gstatic.com/s/karla/v8/qkBVXvYC6trAT7RQHtCe5Q.eot",
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/karla/v12/qkBIXvYC6trAT55ZBi1ueQVIjQTD-JqaHUlO.eot",
       "fontFamily": "'Karla'",
-      "fontStyle": "italic",
+      "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/karla/v8/qkBVXvYC6trAT7RQHtCe4Q.woff2",
-      "local": [
-        "Karla Italic",
-        "Karla-Italic"
-      ],
-      "woff": "https://fonts.gstatic.com/s/karla/v8/qkBVXvYC6trAT7RQHtCe5w.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=qkBVXvYC6trAT7RQHtCe5g&skey=1da949773a71f90f&v=v8#Karla",
-      "ttf": "https://fonts.gstatic.com/s/karla/v8/qkBVXvYC6trAT7RQHtCe5A.ttf",
+      "woff": "https://fonts.gstatic.com/s/karla/v12/qkBIXvYC6trAT55ZBi1ueQVIjQTD-JqaHUlM.woff",
+      "woff2": "https://fonts.gstatic.com/s/karla/v12/qkBIXvYC6trAT55ZBi1ueQVIjQTD-JqaHUlK.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=qkBIXvYC6trAT55ZBi1ueQVIjQTD-JqaHUlN&skey=139a38ebe1800a84&v=v12#Karla",
+      "ttf": "https://fonts.gstatic.com/s/karla/v12/qkBIXvYC6trAT55ZBi1ueQVIjQTD-JqaHUlP.ttf",
+      "errored": false
+    },
+    {
+      "id": "300",
+      "woff": "https://fonts.gstatic.com/s/karla/v12/qkBIXvYC6trAT55ZBi1ueQVIjQTDppqaHUlM.woff",
+      "fontFamily": "'Karla'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "eot": "https://fonts.gstatic.com/s/karla/v12/qkBIXvYC6trAT55ZBi1ueQVIjQTDppqaHUlO.eot",
+      "woff2": "https://fonts.gstatic.com/s/karla/v12/qkBIXvYC6trAT55ZBi1ueQVIjQTDppqaHUlK.woff2",
+      "ttf": "https://fonts.gstatic.com/s/karla/v12/qkBIXvYC6trAT55ZBi1ueQVIjQTDppqaHUlP.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=qkBIXvYC6trAT55ZBi1ueQVIjQTDppqaHUlN&skey=139a38ebe1800a84&v=v12#Karla",
+      "errored": false
+    },
+    {
+      "id": "500",
+      "woff": "https://fonts.gstatic.com/s/karla/v12/qkBIXvYC6trAT55ZBi1ueQVIjQTDypqaHUlM.woff",
+      "fontFamily": "'Karla'",
+      "fontStyle": "normal",
+      "fontWeight": "500",
+      "eot": "https://fonts.gstatic.com/s/karla/v12/qkBIXvYC6trAT55ZBi1ueQVIjQTDypqaHUlO.eot",
+      "woff2": "https://fonts.gstatic.com/s/karla/v12/qkBIXvYC6trAT55ZBi1ueQVIjQTDypqaHUlK.woff2",
+      "ttf": "https://fonts.gstatic.com/s/karla/v12/qkBIXvYC6trAT55ZBi1ueQVIjQTDypqaHUlP.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=qkBIXvYC6trAT55ZBi1ueQVIjQTDypqaHUlN&skey=139a38ebe1800a84&v=v12#Karla",
+      "errored": false
+    },
+    {
+      "id": "600",
+      "eot": "https://fonts.gstatic.com/s/karla/v12/qkBIXvYC6trAT55ZBi1ueQVIjQTDJp2aHUlO.eot",
+      "fontFamily": "'Karla'",
+      "fontStyle": "normal",
+      "fontWeight": "600",
+      "woff": "https://fonts.gstatic.com/s/karla/v12/qkBIXvYC6trAT55ZBi1ueQVIjQTDJp2aHUlM.woff",
+      "woff2": "https://fonts.gstatic.com/s/karla/v12/qkBIXvYC6trAT55ZBi1ueQVIjQTDJp2aHUlK.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=qkBIXvYC6trAT55ZBi1ueQVIjQTDJp2aHUlN&skey=139a38ebe1800a84&v=v12#Karla",
+      "ttf": "https://fonts.gstatic.com/s/karla/v12/qkBIXvYC6trAT55ZBi1ueQVIjQTDJp2aHUlP.ttf",
       "errored": false
     },
     {
       "id": "700",
-      "eot": "https://fonts.gstatic.com/s/karla/v8/qkBWXvYC6trAT7zuC8m3xL8.eot",
+      "eot": "https://fonts.gstatic.com/s/karla/v12/qkBIXvYC6trAT55ZBi1ueQVIjQTDH52aHUlO.eot",
       "fontFamily": "'Karla'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/karla/v8/qkBWXvYC6trAT7zuC8m3xL0.woff",
-      "local": [
-        "Karla Bold",
-        "Karla-Bold"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/karla/v8/qkBWXvYC6trAT7zuC8m3xLs.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=qkBWXvYC6trAT7zuC8m3xLw&skey=5004906a717967a3&v=v8#Karla",
-      "ttf": "https://fonts.gstatic.com/s/karla/v8/qkBWXvYC6trAT7zuC8m3xL4.ttf",
+      "woff2": "https://fonts.gstatic.com/s/karla/v12/qkBIXvYC6trAT55ZBi1ueQVIjQTDH52aHUlK.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=qkBIXvYC6trAT55ZBi1ueQVIjQTDH52aHUlN&skey=139a38ebe1800a84&v=v12#Karla",
+      "ttf": "https://fonts.gstatic.com/s/karla/v12/qkBIXvYC6trAT55ZBi1ueQVIjQTDH52aHUlP.ttf",
+      "woff": "https://fonts.gstatic.com/s/karla/v12/qkBIXvYC6trAT55ZBi1ueQVIjQTDH52aHUlM.woff",
+      "errored": false
+    },
+    {
+      "id": "200italic",
+      "woff": "https://fonts.gstatic.com/s/karla/v12/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNnCV3lGb7U.woff",
+      "fontFamily": "'Karla'",
+      "fontStyle": "italic",
+      "fontWeight": "200",
+      "woff2": "https://fonts.gstatic.com/s/karla/v12/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNnCV3lGb7M.woff2",
+      "eot": "https://fonts.gstatic.com/s/karla/v12/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNnCV3lGb7c.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=qkBKXvYC6trAT7RQNNK2EG7SIwPWMNnCV3lGb7Q&skey=1da949773a71f90f&v=v12#Karla",
+      "ttf": "https://fonts.gstatic.com/s/karla/v12/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNnCV3lGb7Y.ttf",
+      "errored": false
+    },
+    {
+      "id": "300italic",
+      "eot": "https://fonts.gstatic.com/s/karla/v12/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNkcV3lGb7c.eot",
+      "fontFamily": "'Karla'",
+      "fontStyle": "italic",
+      "fontWeight": "300",
+      "svg": "https://fonts.gstatic.com/l/font?kit=qkBKXvYC6trAT7RQNNK2EG7SIwPWMNkcV3lGb7Q&skey=1da949773a71f90f&v=v12#Karla",
+      "woff2": "https://fonts.gstatic.com/s/karla/v12/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNkcV3lGb7M.woff2",
+      "woff": "https://fonts.gstatic.com/s/karla/v12/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNkcV3lGb7U.woff",
+      "ttf": "https://fonts.gstatic.com/s/karla/v12/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNkcV3lGb7Y.ttf",
+      "errored": false
+    },
+    {
+      "id": "800",
+      "eot": "https://fonts.gstatic.com/s/karla/v12/qkBIXvYC6trAT55ZBi1ueQVIjQTDeJ2aHUlO.eot",
+      "fontFamily": "'Karla'",
+      "fontStyle": "normal",
+      "fontWeight": "800",
+      "woff": "https://fonts.gstatic.com/s/karla/v12/qkBIXvYC6trAT55ZBi1ueQVIjQTDeJ2aHUlM.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=qkBIXvYC6trAT55ZBi1ueQVIjQTDeJ2aHUlN&skey=139a38ebe1800a84&v=v12#Karla",
+      "ttf": "https://fonts.gstatic.com/s/karla/v12/qkBIXvYC6trAT55ZBi1ueQVIjQTDeJ2aHUlP.ttf",
+      "woff2": "https://fonts.gstatic.com/s/karla/v12/qkBIXvYC6trAT55ZBi1ueQVIjQTDeJ2aHUlK.woff2",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "eot": "https://fonts.gstatic.com/s/karla/v12/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNlCV3lGb7c.eot",
+      "fontFamily": "'Karla'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/karla/v12/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNlCV3lGb7U.woff",
+      "woff2": "https://fonts.gstatic.com/s/karla/v12/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNlCV3lGb7M.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=qkBKXvYC6trAT7RQNNK2EG7SIwPWMNlCV3lGb7Q&skey=1da949773a71f90f&v=v12#Karla",
+      "ttf": "https://fonts.gstatic.com/s/karla/v12/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNlCV3lGb7Y.ttf",
+      "errored": false
+    },
+    {
+      "id": "500italic",
+      "eot": "https://fonts.gstatic.com/s/karla/v12/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNlwV3lGb7c.eot",
+      "fontFamily": "'Karla'",
+      "fontStyle": "italic",
+      "fontWeight": "500",
+      "woff": "https://fonts.gstatic.com/s/karla/v12/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNlwV3lGb7U.woff",
+      "woff2": "https://fonts.gstatic.com/s/karla/v12/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNlwV3lGb7M.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=qkBKXvYC6trAT7RQNNK2EG7SIwPWMNlwV3lGb7Q&skey=1da949773a71f90f&v=v12#Karla",
+      "ttf": "https://fonts.gstatic.com/s/karla/v12/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNlwV3lGb7Y.ttf",
+      "errored": false
+    },
+    {
+      "id": "600italic",
+      "eot": "https://fonts.gstatic.com/s/karla/v12/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNmcUHlGb7c.eot",
+      "fontFamily": "'Karla'",
+      "fontStyle": "italic",
+      "fontWeight": "600",
+      "woff2": "https://fonts.gstatic.com/s/karla/v12/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNmcUHlGb7M.woff2",
+      "woff": "https://fonts.gstatic.com/s/karla/v12/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNmcUHlGb7U.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=qkBKXvYC6trAT7RQNNK2EG7SIwPWMNmcUHlGb7Q&skey=1da949773a71f90f&v=v12#Karla",
+      "ttf": "https://fonts.gstatic.com/s/karla/v12/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNmcUHlGb7Y.ttf",
       "errored": false
     },
     {
       "id": "700italic",
-      "eot": "https://fonts.gstatic.com/s/karla/v8/qkBQXvYC6trAT7RQFmW79LdvmQ.eot",
+      "eot": "https://fonts.gstatic.com/s/karla/v12/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNmlUHlGb7c.eot",
       "fontFamily": "'Karla'",
       "fontStyle": "italic",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/karla/v8/qkBQXvYC6trAT7RQFmW79Ldvmw.woff",
-      "local": [
-        "Karla Bold Italic",
-        "Karla-BoldItalic"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/karla/v8/qkBQXvYC6trAT7RQFmW79LdvnQ.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=qkBQXvYC6trAT7RQFmW79Ldvmg&skey=8c6082f21a1add1e&v=v8#Karla",
-      "ttf": "https://fonts.gstatic.com/s/karla/v8/qkBQXvYC6trAT7RQFmW79LdvmA.ttf",
+      "woff2": "https://fonts.gstatic.com/s/karla/v12/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNmlUHlGb7M.woff2",
+      "woff": "https://fonts.gstatic.com/s/karla/v12/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNmlUHlGb7U.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=qkBKXvYC6trAT7RQNNK2EG7SIwPWMNmlUHlGb7Q&skey=1da949773a71f90f&v=v12#Karla",
+      "ttf": "https://fonts.gstatic.com/s/karla/v12/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNmlUHlGb7Y.ttf",
+      "errored": false
+    },
+    {
+      "id": "800italic",
+      "eot": "https://fonts.gstatic.com/s/karla/v12/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNnCUHlGb7c.eot",
+      "fontFamily": "'Karla'",
+      "fontStyle": "italic",
+      "fontWeight": "800",
+      "woff": "https://fonts.gstatic.com/s/karla/v12/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNnCUHlGb7U.woff",
+      "woff2": "https://fonts.gstatic.com/s/karla/v12/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNnCUHlGb7M.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=qkBKXvYC6trAT7RQNNK2EG7SIwPWMNnCUHlGb7Q&skey=1da949773a71f90f&v=v12#Karla",
+      "ttf": "https://fonts.gstatic.com/s/karla/v12/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNnCUHlGb7Y.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "latin-ext",
-    "latin"
+    "latin",
+    "latin-ext"
   ],
   "category": "sans-serif",
-  "version": "v8",
-  "lastModified": "2019-10-15",
-  "popularity": 43,
+  "version": "v12",
+  "lastModified": "2019-12-05",
+  "popularity": 39,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin-ext": true,
-    "latin": true
+    "latin": true,
+    "latin-ext": true
   },
-  "storeID": "latin_latin-ext"
+  "storeID": "latin-ext_latin"
 }
