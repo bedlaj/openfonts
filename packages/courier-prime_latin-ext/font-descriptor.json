@@ -1,0 +1,85 @@
+{
+  "id": "courier-prime",
+  "family": "Courier Prime",
+  "variants": [
+    {
+      "id": "regular",
+      "ttf": "https://fonts.gstatic.com/s/courierprime/v1/u-450q2lgwslOqpF_6gQ8kELaw9pXw.ttf",
+      "fontFamily": "'Courier Prime'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Courier Prime Regular",
+        "CourierPrime-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/courierprime/v1/u-450q2lgwslOqpF_6gQ8kELaw9pXg.eot",
+      "woff2": "https://fonts.gstatic.com/s/courierprime/v1/u-450q2lgwslOqpF_6gQ8kELaw9pWg.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=u-450q2lgwslOqpF_6gQ8kELaw9pXQ&skey=e017e80d5b8c8838&v=v1#CourierPrime",
+      "woff": "https://fonts.gstatic.com/s/courierprime/v1/u-450q2lgwslOqpF_6gQ8kELaw9pXA.woff",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "eot": "https://fonts.gstatic.com/s/courierprime/v1/u-4n0q2lgwslOqpF_6gQ8kELawRZVsf-.eot",
+      "fontFamily": "'Courier Prime'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/courierprime/v1/u-4n0q2lgwslOqpF_6gQ8kELawRZVsf6.woff2",
+      "local": [
+        "Courier Prime Italic",
+        "CourierPrime-Italic"
+      ],
+      "woff": "https://fonts.gstatic.com/s/courierprime/v1/u-4n0q2lgwslOqpF_6gQ8kELawRZVsf8.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=u-4n0q2lgwslOqpF_6gQ8kELawRZVsf9&skey=bd88f0a6edeea7b7&v=v1#CourierPrime",
+      "ttf": "https://fonts.gstatic.com/s/courierprime/v1/u-4n0q2lgwslOqpF_6gQ8kELawRZVsf_.ttf",
+      "errored": false
+    },
+    {
+      "id": "700italic",
+      "eot": "https://fonts.gstatic.com/s/courierprime/v1/u-4i0q2lgwslOqpF_6gQ8kELawRR4-Lvp9no.eot",
+      "fontFamily": "'Courier Prime'",
+      "fontStyle": "italic",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/courierprime/v1/u-4i0q2lgwslOqpF_6gQ8kELawRR4-Lvp9nq.woff",
+      "local": [
+        "Courier Prime Bold Italic",
+        "CourierPrime-BoldItalic"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=u-4i0q2lgwslOqpF_6gQ8kELawRR4-Lvp9nr&skey=43ecbe77352fb6a5&v=v1#CourierPrime",
+      "woff2": "https://fonts.gstatic.com/s/courierprime/v1/u-4i0q2lgwslOqpF_6gQ8kELawRR4-Lvp9ns.woff2",
+      "ttf": "https://fonts.gstatic.com/s/courierprime/v1/u-4i0q2lgwslOqpF_6gQ8kELawRR4-Lvp9np.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/courierprime/v1/u-4k0q2lgwslOqpF_6gQ8kELY7pMT-7frw.eot",
+      "fontFamily": "'Courier Prime'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff2": "https://fonts.gstatic.com/s/courierprime/v1/u-4k0q2lgwslOqpF_6gQ8kELY7pMT-7fqw.woff2",
+      "local": [
+        "Courier Prime Bold",
+        "CourierPrime-Bold"
+      ],
+      "woff": "https://fonts.gstatic.com/s/courierprime/v1/u-4k0q2lgwslOqpF_6gQ8kELY7pMT-7frQ.woff",
+      "ttf": "https://fonts.gstatic.com/s/courierprime/v1/u-4k0q2lgwslOqpF_6gQ8kELY7pMT-7frg.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=u-4k0q2lgwslOqpF_6gQ8kELY7pMT-7frA&skey=5667eee1d647af21&v=v1#CourierPrime",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "category": "monospace",
+  "version": "v1",
+  "lastModified": "2019-12-11",
+  "popularity": 978,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin-ext": true,
+    "latin": true
+  },
+  "storeID": "latin_latin-ext"
+}

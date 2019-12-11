@@ -1,0 +1,41 @@
+{
+  "id": "cherry-bomb",
+  "family": "Cherry Bomb",
+  "variants": [
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/cherrybomb/v3/3Jn5SD_w13i3iECyXl_MK20NduM.woff",
+      "fontFamily": "'Cherry Bomb'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Cherry Bomb Regular",
+        "CherryBomb-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/cherrybomb/v3/3Jn5SD_w13i3iECyXl_MK20NduE.eot",
+      "woff2": "https://fonts.gstatic.com/s/cherrybomb/v3/3Jn5SD_w13i3iECyXl_MK20NduU.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=3Jn5SD_w13i3iECyXl_MK20NduI&skey=ab1704e45bae63a1&v=v3#CherryBomb",
+      "ttf": "https://fonts.gstatic.com/s/cherrybomb/v3/3Jn5SD_w13i3iECyXl_MK20NduA.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "vietnamese",
+    "latin-ext",
+    "japanese",
+    "latin"
+  ],
+  "category": "display",
+  "version": "v1",
+  "lastModified": "2019-12-11",
+  "popularity": 976,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "vietnamese": true,
+    "latin-ext": false,
+    "japanese": false,
+    "latin": true
+  },
+  "storeID": "latin_vietnamese"
+}

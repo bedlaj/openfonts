@@ -1,0 +1,37 @@
+{
+  "id": "girassol",
+  "family": "Girassol",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/girassol/v1/JTUUjIo_-DK48laaNB9KxWs.woff2",
+      "fontFamily": "'Girassol'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Girassol Regular",
+        "Girassol-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/girassol/v1/JTUUjIo_-DK48laaNB9KxW8.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=JTUUjIo_-DK48laaNB9KxWw&skey=2cc1dbc883e2a625&v=v1#Girassol",
+      "woff": "https://fonts.gstatic.com/s/girassol/v1/JTUUjIo_-DK48laaNB9KxW0.woff",
+      "ttf": "https://fonts.gstatic.com/s/girassol/v1/JTUUjIo_-DK48laaNB9KxW4.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "category": "display",
+  "version": "v1",
+  "lastModified": "2019-12-11",
+  "popularity": 975,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin-ext": false,
+    "latin": true
+  },
+  "storeID": "latin"
+}
