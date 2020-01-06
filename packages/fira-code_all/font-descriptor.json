@@ -4,24 +4,36 @@
   "variants": [
     {
       "id": "300",
-      "eot": "https://fonts.gstatic.com/s/firacode/v7/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_GNsFVY.eot",
+      "woff": "https://fonts.gstatic.com/s/firacode/v7/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_GNsFVQ.woff",
       "fontFamily": "'Fira Code'",
       "fontStyle": "normal",
       "fontWeight": "300",
-      "woff2": "https://fonts.gstatic.com/s/firacode/v7/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_GNsFVI.woff2",
-      "woff": "https://fonts.gstatic.com/s/firacode/v7/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_GNsFVQ.woff",
+      "eot": "https://fonts.gstatic.com/s/firacode/v7/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_GNsFVY.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_GNsFVU&skey=33bc0af28fd31bc7&v=v7#FiraCode",
+      "woff2": "https://fonts.gstatic.com/s/firacode/v7/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_GNsFVI.woff2",
       "ttf": "https://fonts.gstatic.com/s/firacode/v7/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_GNsFVc.ttf",
       "errored": false
     },
     {
+      "id": "regular",
+      "svg": "https://fonts.gstatic.com/l/font?kit=uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sFVU&skey=33bc0af28fd31bc7&v=v7#FiraCode",
+      "fontFamily": "'Fira Code'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/firacode/v7/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sFVQ.woff",
+      "eot": "https://fonts.gstatic.com/s/firacode/v7/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sFVY.eot",
+      "woff2": "https://fonts.gstatic.com/s/firacode/v7/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sFVI.woff2",
+      "ttf": "https://fonts.gstatic.com/s/firacode/v7/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sFVc.ttf",
+      "errored": false
+    },
+    {
       "id": "500",
-      "eot": "https://fonts.gstatic.com/s/firacode/v7/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_A9sFVY.eot",
+      "woff": "https://fonts.gstatic.com/s/firacode/v7/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_A9sFVQ.woff",
       "fontFamily": "'Fira Code'",
       "fontStyle": "normal",
       "fontWeight": "500",
-      "woff": "https://fonts.gstatic.com/s/firacode/v7/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_A9sFVQ.woff",
       "woff2": "https://fonts.gstatic.com/s/firacode/v7/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_A9sFVI.woff2",
+      "eot": "https://fonts.gstatic.com/s/firacode/v7/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_A9sFVY.eot",
       "ttf": "https://fonts.gstatic.com/s/firacode/v7/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_A9sFVc.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_A9sFVU&skey=33bc0af28fd31bc7&v=v7#FiraCode",
       "errored": false
@@ -32,58 +44,46 @@
       "fontFamily": "'Fira Code'",
       "fontStyle": "normal",
       "fontWeight": "600",
-      "woff": "https://fonts.gstatic.com/s/firacode/v7/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_ONrFVQ.woff",
       "woff2": "https://fonts.gstatic.com/s/firacode/v7/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_ONrFVI.woff2",
+      "woff": "https://fonts.gstatic.com/s/firacode/v7/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_ONrFVQ.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_ONrFVU&skey=33bc0af28fd31bc7&v=v7#FiraCode",
       "ttf": "https://fonts.gstatic.com/s/firacode/v7/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_ONrFVc.ttf",
       "errored": false
     },
     {
-      "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/firacode/v7/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sFVI.woff2",
-      "fontFamily": "'Fira Code'",
-      "fontStyle": "normal",
-      "fontWeight": "400",
-      "svg": "https://fonts.gstatic.com/l/font?kit=uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sFVU&skey=33bc0af28fd31bc7&v=v7#FiraCode",
-      "eot": "https://fonts.gstatic.com/s/firacode/v7/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sFVY.eot",
-      "ttf": "https://fonts.gstatic.com/s/firacode/v7/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sFVc.ttf",
-      "woff": "https://fonts.gstatic.com/s/firacode/v7/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sFVQ.woff",
-      "errored": false
-    },
-    {
       "id": "700",
-      "eot": "https://fonts.gstatic.com/s/firacode/v7/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_NprFVY.eot",
+      "woff": "https://fonts.gstatic.com/s/firacode/v7/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_NprFVQ.woff",
       "fontFamily": "'Fira Code'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/firacode/v7/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_NprFVQ.woff",
+      "woff2": "https://fonts.gstatic.com/s/firacode/v7/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_NprFVI.woff2",
+      "eot": "https://fonts.gstatic.com/s/firacode/v7/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_NprFVY.eot",
       "ttf": "https://fonts.gstatic.com/s/firacode/v7/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_NprFVc.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_NprFVU&skey=33bc0af28fd31bc7&v=v7#FiraCode",
-      "woff2": "https://fonts.gstatic.com/s/firacode/v7/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_NprFVI.woff2",
       "errored": false
     }
   ],
   "subsets": [
-    "cyrillic-ext",
+    "latin",
+    "greek-ext",
+    "latin-ext",
     "cyrillic",
     "greek",
-    "latin-ext",
-    "latin",
-    "greek-ext"
+    "cyrillic-ext"
   ],
   "category": "monospace",
   "version": "v7",
-  "lastModified": "2019-10-22",
-  "popularity": 901,
+  "lastModified": "2019-10-21",
+  "popularity": 868,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "cyrillic-ext": true,
+    "latin": true,
+    "greek-ext": true,
+    "latin-ext": true,
     "cyrillic": true,
     "greek": true,
-    "latin-ext": true,
-    "latin": true,
-    "greek-ext": true
+    "cyrillic-ext": true
   },
-  "storeID": "greek-ext_latin_latin-ext_greek_cyrillic_cyrillic-ext"
+  "storeID": "cyrillic-ext_greek_cyrillic_latin-ext_greek-ext_latin"
 }

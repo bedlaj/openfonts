@@ -4,34 +4,34 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/jomolhari/v1/EvONzA1M1Iw_CBd2hsQyBVgc.eot",
+      "ttf": "https://fonts.gstatic.com/s/jomolhari/v1/EvONzA1M1Iw_CBd2hsQyBVgd.ttf",
       "fontFamily": "'Jomolhari'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "svg": "https://fonts.gstatic.com/l/font?kit=EvONzA1M1Iw_CBd2hsQyBVgf&skey=ae86d8ac84d344a9&v=v1#Jomolhari",
       "local": [
         "Jomolhari Regular",
         "Jomolhari-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/jomolhari/v1/EvONzA1M1Iw_CBd2hsQyBVgd.ttf",
+      "eot": "https://fonts.gstatic.com/s/jomolhari/v1/EvONzA1M1Iw_CBd2hsQyBVgc.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=EvONzA1M1Iw_CBd2hsQyBVgf&skey=ae86d8ac84d344a9&v=v1#Jomolhari",
       "woff2": "https://fonts.gstatic.com/s/jomolhari/v1/EvONzA1M1Iw_CBd2hsQyBVgY.woff2",
       "woff": "https://fonts.gstatic.com/s/jomolhari/v1/EvONzA1M1Iw_CBd2hsQyBVge.woff",
       "errored": false
     }
   ],
   "subsets": [
-    "tibetan",
-    "latin"
+    "latin",
+    "tibetan"
   ],
   "category": "serif",
   "version": "v1",
-  "lastModified": "2019-10-15",
-  "popularity": 960,
+  "lastModified": "2019-10-14",
+  "popularity": 879,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "tibetan": true,
-    "latin": true
+    "latin": true,
+    "tibetan": true
   },
-  "storeID": "latin_tibetan"
+  "storeID": "tibetan_latin"
 }
