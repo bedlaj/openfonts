@@ -4,26 +4,14 @@
   "variants": [
     {
       "id": "200",
-      "eot": "https://fonts.gstatic.com/s/oswald/v29/TK3_WkUHHAIjg75cFRf3bXL8LICs13FvsUZiYQ.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=TK3_WkUHHAIjg75cFRf3bXL8LICs13FvsUZiYg&skey=653237e53512d0de&v=v29#Oswald",
       "fontFamily": "'Oswald'",
       "fontStyle": "normal",
       "fontWeight": "200",
+      "eot": "https://fonts.gstatic.com/s/oswald/v29/TK3_WkUHHAIjg75cFRf3bXL8LICs13FvsUZiYQ.eot",
       "ttf": "https://fonts.gstatic.com/s/oswald/v29/TK3_WkUHHAIjg75cFRf3bXL8LICs13FvsUZiYA.ttf",
-      "woff2": "https://fonts.gstatic.com/s/oswald/v29/TK3_WkUHHAIjg75cFRf3bXL8LICs13FvsUZiZQ.woff2",
       "woff": "https://fonts.gstatic.com/s/oswald/v29/TK3_WkUHHAIjg75cFRf3bXL8LICs13FvsUZiYw.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=TK3_WkUHHAIjg75cFRf3bXL8LICs13FvsUZiYg&skey=653237e53512d0de&v=v29#Oswald",
-      "errored": false
-    },
-    {
-      "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/oswald/v29/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYQ.eot",
-      "fontFamily": "'Oswald'",
-      "fontStyle": "normal",
-      "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/oswald/v29/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiZQ.woff2",
-      "woff": "https://fonts.gstatic.com/s/oswald/v29/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYw.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYg&skey=653237e53512d0de&v=v29#Oswald",
-      "ttf": "https://fonts.gstatic.com/s/oswald/v29/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYA.ttf",
+      "woff2": "https://fonts.gstatic.com/s/oswald/v29/TK3_WkUHHAIjg75cFRf3bXL8LICs13FvsUZiZQ.woff2",
       "errored": false
     },
     {
@@ -34,17 +22,41 @@
       "fontWeight": "300",
       "woff": "https://fonts.gstatic.com/s/oswald/v29/TK3_WkUHHAIjg75cFRf3bXL8LICs169vsUZiYw.woff",
       "woff2": "https://fonts.gstatic.com/s/oswald/v29/TK3_WkUHHAIjg75cFRf3bXL8LICs169vsUZiZQ.woff2",
-      "ttf": "https://fonts.gstatic.com/s/oswald/v29/TK3_WkUHHAIjg75cFRf3bXL8LICs169vsUZiYA.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=TK3_WkUHHAIjg75cFRf3bXL8LICs169vsUZiYg&skey=653237e53512d0de&v=v29#Oswald",
+      "ttf": "https://fonts.gstatic.com/s/oswald/v29/TK3_WkUHHAIjg75cFRf3bXL8LICs169vsUZiYA.ttf",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/oswald/v29/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYw.woff",
+      "fontFamily": "'Oswald'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "eot": "https://fonts.gstatic.com/s/oswald/v29/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYQ.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYg&skey=653237e53512d0de&v=v29#Oswald",
+      "woff2": "https://fonts.gstatic.com/s/oswald/v29/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiZQ.woff2",
+      "ttf": "https://fonts.gstatic.com/s/oswald/v29/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYA.ttf",
+      "errored": false
+    },
+    {
+      "id": "500",
+      "eot": "https://fonts.gstatic.com/s/oswald/v29/TK3_WkUHHAIjg75cFRf3bXL8LICs18NvsUZiYQ.eot",
+      "fontFamily": "'Oswald'",
+      "fontStyle": "normal",
+      "fontWeight": "500",
+      "woff": "https://fonts.gstatic.com/s/oswald/v29/TK3_WkUHHAIjg75cFRf3bXL8LICs18NvsUZiYw.woff",
+      "woff2": "https://fonts.gstatic.com/s/oswald/v29/TK3_WkUHHAIjg75cFRf3bXL8LICs18NvsUZiZQ.woff2",
+      "ttf": "https://fonts.gstatic.com/s/oswald/v29/TK3_WkUHHAIjg75cFRf3bXL8LICs18NvsUZiYA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=TK3_WkUHHAIjg75cFRf3bXL8LICs18NvsUZiYg&skey=653237e53512d0de&v=v29#Oswald",
       "errored": false
     },
     {
       "id": "600",
-      "eot": "https://fonts.gstatic.com/s/oswald/v29/TK3_WkUHHAIjg75cFRf3bXL8LICs1y9osUZiYQ.eot",
+      "woff2": "https://fonts.gstatic.com/s/oswald/v29/TK3_WkUHHAIjg75cFRf3bXL8LICs1y9osUZiZQ.woff2",
       "fontFamily": "'Oswald'",
       "fontStyle": "normal",
       "fontWeight": "600",
-      "woff2": "https://fonts.gstatic.com/s/oswald/v29/TK3_WkUHHAIjg75cFRf3bXL8LICs1y9osUZiZQ.woff2",
+      "eot": "https://fonts.gstatic.com/s/oswald/v29/TK3_WkUHHAIjg75cFRf3bXL8LICs1y9osUZiYQ.eot",
       "woff": "https://fonts.gstatic.com/s/oswald/v29/TK3_WkUHHAIjg75cFRf3bXL8LICs1y9osUZiYw.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=TK3_WkUHHAIjg75cFRf3bXL8LICs1y9osUZiYg&skey=653237e53512d0de&v=v29#Oswald",
       "ttf": "https://fonts.gstatic.com/s/oswald/v29/TK3_WkUHHAIjg75cFRf3bXL8LICs1y9osUZiYA.ttf",
@@ -58,42 +70,30 @@
       "fontWeight": "700",
       "woff": "https://fonts.gstatic.com/s/oswald/v29/TK3_WkUHHAIjg75cFRf3bXL8LICs1xZosUZiYw.woff",
       "woff2": "https://fonts.gstatic.com/s/oswald/v29/TK3_WkUHHAIjg75cFRf3bXL8LICs1xZosUZiZQ.woff2",
-      "ttf": "https://fonts.gstatic.com/s/oswald/v29/TK3_WkUHHAIjg75cFRf3bXL8LICs1xZosUZiYA.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=TK3_WkUHHAIjg75cFRf3bXL8LICs1xZosUZiYg&skey=653237e53512d0de&v=v29#Oswald",
-      "errored": false
-    },
-    {
-      "id": "500",
-      "woff": "https://fonts.gstatic.com/s/oswald/v29/TK3_WkUHHAIjg75cFRf3bXL8LICs18NvsUZiYw.woff",
-      "fontFamily": "'Oswald'",
-      "fontStyle": "normal",
-      "fontWeight": "500",
-      "eot": "https://fonts.gstatic.com/s/oswald/v29/TK3_WkUHHAIjg75cFRf3bXL8LICs18NvsUZiYQ.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=TK3_WkUHHAIjg75cFRf3bXL8LICs18NvsUZiYg&skey=653237e53512d0de&v=v29#Oswald",
-      "ttf": "https://fonts.gstatic.com/s/oswald/v29/TK3_WkUHHAIjg75cFRf3bXL8LICs18NvsUZiYA.ttf",
-      "woff2": "https://fonts.gstatic.com/s/oswald/v29/TK3_WkUHHAIjg75cFRf3bXL8LICs18NvsUZiZQ.woff2",
+      "ttf": "https://fonts.gstatic.com/s/oswald/v29/TK3_WkUHHAIjg75cFRf3bXL8LICs1xZosUZiYA.ttf",
       "errored": false
     }
   ],
   "subsets": [
     "latin",
-    "latin-ext",
-    "vietnamese",
+    "cyrillic-ext",
     "cyrillic",
-    "cyrillic-ext"
+    "latin-ext",
+    "vietnamese"
   ],
   "category": "sans-serif",
   "version": "v29",
-  "lastModified": "2019-10-21",
+  "lastModified": "2019-10-22",
   "popularity": 7,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "latin": true,
-    "latin-ext": false,
-    "vietnamese": false,
+    "cyrillic-ext": false,
     "cyrillic": false,
-    "cyrillic-ext": false
+    "latin-ext": false,
+    "vietnamese": false
   },
   "storeID": "latin"
 }
