@@ -4,9 +4,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src:
-    local('Playfair Display Regular'),
-    local('PlayfairDisplay-Regular'), 
+  src: 
     url('./files/playfair-display-latin-ext-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/playfair-display-latin-ext-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
@@ -16,11 +14,49 @@
   font-style: italic;
   font-display: swap;
   font-weight: 400;
-  src:
-    local('Playfair Display Italic'),
-    local('PlayfairDisplay-Italic'), 
+  src: 
     url('./files/playfair-display-latin-ext-400-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/playfair-display-latin-ext-400-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* playfair-display-500normal - latin-ext */
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: 
+    url('./files/playfair-display-latin-ext-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/playfair-display-latin-ext-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* playfair-display-500italic - latin-ext */
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src: 
+    url('./files/playfair-display-latin-ext-500-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/playfair-display-latin-ext-500-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* playfair-display-600normal - latin-ext */
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: 
+    url('./files/playfair-display-latin-ext-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/playfair-display-latin-ext-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* playfair-display-600italic - latin-ext */
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src: 
+    url('./files/playfair-display-latin-ext-600-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/playfair-display-latin-ext-600-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* playfair-display-700normal - latin-ext */
 @font-face {
@@ -28,9 +64,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 700;
-  src:
-    local('Playfair Display Bold'),
-    local('PlayfairDisplay-Bold'), 
+  src: 
     url('./files/playfair-display-latin-ext-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/playfair-display-latin-ext-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
@@ -40,11 +74,29 @@
   font-style: italic;
   font-display: swap;
   font-weight: 700;
-  src:
-    local('Playfair Display Bold Italic'),
-    local('PlayfairDisplay-BoldItalic'), 
+  src: 
     url('./files/playfair-display-latin-ext-700-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/playfair-display-latin-ext-700-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* playfair-display-800normal - latin-ext */
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src: 
+    url('./files/playfair-display-latin-ext-800.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/playfair-display-latin-ext-800.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* playfair-display-800italic - latin-ext */
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 800;
+  src: 
+    url('./files/playfair-display-latin-ext-800-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/playfair-display-latin-ext-800-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* playfair-display-900normal - latin-ext */
 @font-face {
@@ -52,9 +104,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 900;
-  src:
-    local('Playfair Display Black'),
-    local('PlayfairDisplay-Black'), 
+  src: 
     url('./files/playfair-display-latin-ext-900.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/playfair-display-latin-ext-900.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
@@ -64,9 +114,7 @@
   font-style: italic;
   font-display: swap;
   font-weight: 900;
-  src:
-    local('Playfair Display Black Italic'),
-    local('PlayfairDisplay-BlackItalic'), 
+  src: 
     url('./files/playfair-display-latin-ext-900-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/playfair-display-latin-ext-900-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
