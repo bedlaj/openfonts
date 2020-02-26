@@ -1,0 +1,85 @@
+{
+  "id": "caladea",
+  "family": "Caladea",
+  "variants": [
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/caladea/v1/kJEzBugZ7AAjhybUvRh9_g.eot",
+      "fontFamily": "'Caladea'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/caladea/v1/kJEzBugZ7AAjhybUvRh9_A.woff",
+      "local": [
+        "Caladea Regular",
+        "Caladea-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/caladea/v1/kJEzBugZ7AAjhybUvRh9-g.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=kJEzBugZ7AAjhybUvRh9_Q&skey=3c8e71be7dd330a0&v=v1#Caladea",
+      "ttf": "https://fonts.gstatic.com/s/caladea/v1/kJEzBugZ7AAjhybUvRh9_w.ttf",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "eot": "https://fonts.gstatic.com/s/caladea/v1/kJExBugZ7AAjhybUvR1N-Poz.eot",
+      "fontFamily": "'Caladea'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "ttf": "https://fonts.gstatic.com/s/caladea/v1/kJExBugZ7AAjhybUvR1N-Poy.ttf",
+      "local": [
+        "Caladea Italic",
+        "Caladea-Italic"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=kJExBugZ7AAjhybUvR1N-Pow&skey=5b2b96a3dc7f8eb0&v=v1#Caladea",
+      "woff": "https://fonts.gstatic.com/s/caladea/v1/kJExBugZ7AAjhybUvR1N-Pox.woff",
+      "woff2": "https://fonts.gstatic.com/s/caladea/v1/kJExBugZ7AAjhybUvR1N-Po3.woff2",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "svg": "https://fonts.gstatic.com/l/font?kit=kJE2BugZ7AAjhybUtaNY790Srg&skey=1e88d2e004db3903&v=v1#Caladea",
+      "fontFamily": "'Caladea'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Caladea Bold",
+        "Caladea-Bold"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/caladea/v1/kJE2BugZ7AAjhybUtaNY790SrA.ttf",
+      "eot": "https://fonts.gstatic.com/s/caladea/v1/kJE2BugZ7AAjhybUtaNY790SrQ.eot",
+      "woff": "https://fonts.gstatic.com/s/caladea/v1/kJE2BugZ7AAjhybUtaNY790Srw.woff",
+      "woff2": "https://fonts.gstatic.com/s/caladea/v1/kJE2BugZ7AAjhybUtaNY790SqQ.woff2",
+      "errored": false
+    },
+    {
+      "id": "700italic",
+      "woff2": "https://fonts.gstatic.com/s/caladea/v1/kJE0BugZ7AAjhybUvR1FQ98iq8Zy.woff2",
+      "fontFamily": "'Caladea'",
+      "fontStyle": "italic",
+      "fontWeight": "700",
+      "local": [
+        "Caladea Bold Italic",
+        "Caladea-BoldItalic"
+      ],
+      "eot": "https://fonts.gstatic.com/s/caladea/v1/kJE0BugZ7AAjhybUvR1FQ98iq8Z2.eot",
+      "ttf": "https://fonts.gstatic.com/s/caladea/v1/kJE0BugZ7AAjhybUvR1FQ98iq8Z3.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=kJE0BugZ7AAjhybUvR1FQ98iq8Z1&skey=f040e915a7727089&v=v1#Caladea",
+      "woff": "https://fonts.gstatic.com/s/caladea/v1/kJE0BugZ7AAjhybUvR1FQ98iq8Z0.woff",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "category": "serif",
+  "version": "v1",
+  "lastModified": "2020-02-25",
+  "popularity": 978,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin-ext": false,
+    "latin": true
+  },
+  "storeID": "latin"
+}
