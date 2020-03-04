@@ -3,19 +3,19 @@
   "family": "Inria Serif",
   "variants": [
     {
-      "id": "300",
-      "eot": "https://fonts.gstatic.com/s/inriaserif/v1/fC14PYxPY3rXxEndZJAzN3wAVTjMjlk.eot",
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/inriaserif/v1/fC1lPYxPY3rXxEndZJAzN3Sldys.woff",
       "fontFamily": "'Inria Serif'",
       "fontStyle": "normal",
-      "fontWeight": "300",
-      "woff2": "https://fonts.gstatic.com/s/inriaserif/v1/fC14PYxPY3rXxEndZJAzN3wAVTjMjl0.woff2",
+      "fontWeight": "400",
       "local": [
-        "Inria Serif Light",
-        "InriaSerif-Light"
+        "Inria Serif Regular",
+        "InriaSerif-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/inriaserif/v1/fC14PYxPY3rXxEndZJAzN3wAVTjMjls.woff",
-      "ttf": "https://fonts.gstatic.com/s/inriaserif/v1/fC14PYxPY3rXxEndZJAzN3wAVTjMjlg.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=fC14PYxPY3rXxEndZJAzN3wAVTjMjlo&skey=be9044c7c3a4466b&v=v1#InriaSerif",
+      "eot": "https://fonts.gstatic.com/s/inriaserif/v1/fC1lPYxPY3rXxEndZJAzN3Sldyk.eot",
+      "woff2": "https://fonts.gstatic.com/s/inriaserif/v1/fC1lPYxPY3rXxEndZJAzN3Sldy0.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=fC1lPYxPY3rXxEndZJAzN3Sldyo&skey=fba7953e8afd9858&v=v1#InriaSerif",
+      "ttf": "https://fonts.gstatic.com/s/inriaserif/v1/fC1lPYxPY3rXxEndZJAzN3Sldyg.ttf",
       "errored": false
     },
     {
@@ -24,14 +24,30 @@
       "fontFamily": "'Inria Serif'",
       "fontStyle": "italic",
       "fontWeight": "300",
-      "woff": "https://fonts.gstatic.com/s/inriaserif/v1/fC16PYxPY3rXxEndZJAzN3SuT4THvlGFaQ.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=fC16PYxPY3rXxEndZJAzN3SuT4THvlGFaA&skey=7a3ac04ed6e8ced1&v=v1#InriaSerif",
       "local": [
         "Inria Serif Light Italic",
         "InriaSerif-LightItalic"
       ],
       "woff2": "https://fonts.gstatic.com/s/inriaserif/v1/fC16PYxPY3rXxEndZJAzN3SuT4THvlGFbw.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=fC16PYxPY3rXxEndZJAzN3SuT4THvlGFaA&skey=7a3ac04ed6e8ced1&v=v1#InriaSerif",
       "ttf": "https://fonts.gstatic.com/s/inriaserif/v1/fC16PYxPY3rXxEndZJAzN3SuT4THvlGFag.ttf",
+      "woff": "https://fonts.gstatic.com/s/inriaserif/v1/fC16PYxPY3rXxEndZJAzN3SuT4THvlGFaQ.woff",
+      "errored": false
+    },
+    {
+      "id": "300",
+      "svg": "https://fonts.gstatic.com/l/font?kit=fC14PYxPY3rXxEndZJAzN3wAVTjMjlo&skey=be9044c7c3a4466b&v=v1#InriaSerif",
+      "fontFamily": "'Inria Serif'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "local": [
+        "Inria Serif Light",
+        "InriaSerif-Light"
+      ],
+      "eot": "https://fonts.gstatic.com/s/inriaserif/v1/fC14PYxPY3rXxEndZJAzN3wAVTjMjlk.eot",
+      "woff": "https://fonts.gstatic.com/s/inriaserif/v1/fC14PYxPY3rXxEndZJAzN3wAVTjMjls.woff",
+      "ttf": "https://fonts.gstatic.com/s/inriaserif/v1/fC14PYxPY3rXxEndZJAzN3wAVTjMjlg.ttf",
+      "woff2": "https://fonts.gstatic.com/s/inriaserif/v1/fC14PYxPY3rXxEndZJAzN3wAVTjMjl0.woff2",
       "errored": false
     },
     {
@@ -67,22 +83,6 @@
       "errored": false
     },
     {
-      "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/inriaserif/v1/fC1lPYxPY3rXxEndZJAzN3Sldyk.eot",
-      "fontFamily": "'Inria Serif'",
-      "fontStyle": "normal",
-      "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/inriaserif/v1/fC1lPYxPY3rXxEndZJAzN3Sldys.woff",
-      "local": [
-        "Inria Serif Regular",
-        "InriaSerif-Regular"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/inriaserif/v1/fC1lPYxPY3rXxEndZJAzN3Sldy0.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=fC1lPYxPY3rXxEndZJAzN3Sldyo&skey=fba7953e8afd9858&v=v1#InriaSerif",
-      "ttf": "https://fonts.gstatic.com/s/inriaserif/v1/fC1lPYxPY3rXxEndZJAzN3Sldyg.ttf",
-      "errored": false
-    },
-    {
       "id": "700italic",
       "eot": "https://fonts.gstatic.com/s/inriaserif/v1/fC16PYxPY3rXxEndZJAzN3SuT5TAvlGFaw.eot",
       "fontFamily": "'Inria Serif'",
@@ -100,18 +100,18 @@
     }
   ],
   "subsets": [
-    "latin-ext",
-    "latin"
+    "latin",
+    "latin-ext"
   ],
   "category": "serif",
   "version": "v1",
-  "lastModified": "2019-12-11",
-  "popularity": 977,
+  "lastModified": "2020-03-03",
+  "popularity": 886,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin-ext": true,
-    "latin": true
+    "latin": true,
+    "latin-ext": true
   },
-  "storeID": "latin_latin-ext"
+  "storeID": "latin-ext_latin"
 }

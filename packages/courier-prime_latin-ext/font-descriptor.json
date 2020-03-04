@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/courierprime/v1/u-450q2lgwslOqpF_6gQ8kELaw9pXw.ttf",
+      "woff": "https://fonts.gstatic.com/s/courierprime/v1/u-450q2lgwslOqpF_6gQ8kELaw9pXA.woff",
       "fontFamily": "'Courier Prime'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Courier Prime Regular",
         "CourierPrime-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/courierprime/v1/u-450q2lgwslOqpF_6gQ8kELaw9pXg.eot",
       "woff2": "https://fonts.gstatic.com/s/courierprime/v1/u-450q2lgwslOqpF_6gQ8kELaw9pWg.woff2",
+      "eot": "https://fonts.gstatic.com/s/courierprime/v1/u-450q2lgwslOqpF_6gQ8kELaw9pXg.eot",
+      "ttf": "https://fonts.gstatic.com/s/courierprime/v1/u-450q2lgwslOqpF_6gQ8kELaw9pXw.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=u-450q2lgwslOqpF_6gQ8kELaw9pXQ&skey=e017e80d5b8c8838&v=v1#CourierPrime",
-      "woff": "https://fonts.gstatic.com/s/courierprime/v1/u-450q2lgwslOqpF_6gQ8kELaw9pXA.woff",
       "errored": false
     },
     {
@@ -24,30 +24,14 @@
       "fontFamily": "'Courier Prime'",
       "fontStyle": "italic",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/courierprime/v1/u-4n0q2lgwslOqpF_6gQ8kELawRZVsf6.woff2",
+      "woff": "https://fonts.gstatic.com/s/courierprime/v1/u-4n0q2lgwslOqpF_6gQ8kELawRZVsf8.woff",
       "local": [
         "Courier Prime Italic",
         "CourierPrime-Italic"
       ],
-      "woff": "https://fonts.gstatic.com/s/courierprime/v1/u-4n0q2lgwslOqpF_6gQ8kELawRZVsf8.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=u-4n0q2lgwslOqpF_6gQ8kELawRZVsf9&skey=bd88f0a6edeea7b7&v=v1#CourierPrime",
       "ttf": "https://fonts.gstatic.com/s/courierprime/v1/u-4n0q2lgwslOqpF_6gQ8kELawRZVsf_.ttf",
-      "errored": false
-    },
-    {
-      "id": "700italic",
-      "eot": "https://fonts.gstatic.com/s/courierprime/v1/u-4i0q2lgwslOqpF_6gQ8kELawRR4-Lvp9no.eot",
-      "fontFamily": "'Courier Prime'",
-      "fontStyle": "italic",
-      "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/courierprime/v1/u-4i0q2lgwslOqpF_6gQ8kELawRR4-Lvp9nq.woff",
-      "local": [
-        "Courier Prime Bold Italic",
-        "CourierPrime-BoldItalic"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=u-4i0q2lgwslOqpF_6gQ8kELawRR4-Lvp9nr&skey=43ecbe77352fb6a5&v=v1#CourierPrime",
-      "woff2": "https://fonts.gstatic.com/s/courierprime/v1/u-4i0q2lgwslOqpF_6gQ8kELawRR4-Lvp9ns.woff2",
-      "ttf": "https://fonts.gstatic.com/s/courierprime/v1/u-4i0q2lgwslOqpF_6gQ8kELawRR4-Lvp9np.ttf",
+      "woff2": "https://fonts.gstatic.com/s/courierprime/v1/u-4n0q2lgwslOqpF_6gQ8kELawRZVsf6.woff2",
       "errored": false
     },
     {
@@ -56,30 +40,46 @@
       "fontFamily": "'Courier Prime'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff2": "https://fonts.gstatic.com/s/courierprime/v1/u-4k0q2lgwslOqpF_6gQ8kELY7pMT-7fqw.woff2",
+      "woff": "https://fonts.gstatic.com/s/courierprime/v1/u-4k0q2lgwslOqpF_6gQ8kELY7pMT-7frQ.woff",
       "local": [
         "Courier Prime Bold",
         "CourierPrime-Bold"
       ],
-      "woff": "https://fonts.gstatic.com/s/courierprime/v1/u-4k0q2lgwslOqpF_6gQ8kELY7pMT-7frQ.woff",
+      "woff2": "https://fonts.gstatic.com/s/courierprime/v1/u-4k0q2lgwslOqpF_6gQ8kELY7pMT-7fqw.woff2",
       "ttf": "https://fonts.gstatic.com/s/courierprime/v1/u-4k0q2lgwslOqpF_6gQ8kELY7pMT-7frg.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=u-4k0q2lgwslOqpF_6gQ8kELY7pMT-7frA&skey=5667eee1d647af21&v=v1#CourierPrime",
+      "errored": false
+    },
+    {
+      "id": "700italic",
+      "svg": "https://fonts.gstatic.com/l/font?kit=u-4i0q2lgwslOqpF_6gQ8kELawRR4-Lvp9nr&skey=43ecbe77352fb6a5&v=v1#CourierPrime",
+      "fontFamily": "'Courier Prime'",
+      "fontStyle": "italic",
+      "fontWeight": "700",
+      "local": [
+        "Courier Prime Bold Italic",
+        "CourierPrime-BoldItalic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/courierprime/v1/u-4i0q2lgwslOqpF_6gQ8kELawRR4-Lvp9ns.woff2",
+      "eot": "https://fonts.gstatic.com/s/courierprime/v1/u-4i0q2lgwslOqpF_6gQ8kELawRR4-Lvp9no.eot",
+      "woff": "https://fonts.gstatic.com/s/courierprime/v1/u-4i0q2lgwslOqpF_6gQ8kELawRR4-Lvp9nq.woff",
+      "ttf": "https://fonts.gstatic.com/s/courierprime/v1/u-4i0q2lgwslOqpF_6gQ8kELawRR4-Lvp9np.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "latin-ext",
-    "latin"
+    "latin",
+    "latin-ext"
   ],
   "category": "monospace",
   "version": "v1",
-  "lastModified": "2019-12-11",
-  "popularity": 978,
+  "lastModified": "2020-03-03",
+  "popularity": 944,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin-ext": true,
-    "latin": true
+    "latin": true,
+    "latin-ext": true
   },
-  "storeID": "latin_latin-ext"
+  "storeID": "latin-ext_latin"
 }

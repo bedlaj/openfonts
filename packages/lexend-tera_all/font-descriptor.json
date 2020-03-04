@@ -13,27 +13,27 @@
         "LexendTera-Regular"
       ],
       "woff": "https://fonts.gstatic.com/s/lexendtera/v1/RrQUbo98_jt_IXnBPwCWtZhD.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=RrQUbo98_jt_IXnBPwCWtZhC&skey=509996dde9e9c13b&v=v1#LexendTera",
       "eot": "https://fonts.gstatic.com/s/lexendtera/v1/RrQUbo98_jt_IXnBPwCWtZhB.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=RrQUbo98_jt_IXnBPwCWtZhC&skey=509996dde9e9c13b&v=v1#LexendTera",
       "ttf": "https://fonts.gstatic.com/s/lexendtera/v1/RrQUbo98_jt_IXnBPwCWtZhA.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "vietnamese",
     "latin",
+    "vietnamese",
     "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v1",
-  "lastModified": "2019-08-14",
-  "popularity": 949,
+  "lastModified": "2020-03-03",
+  "popularity": 966,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "vietnamese": true,
     "latin": true,
+    "vietnamese": true,
     "latin-ext": true
   },
-  "storeID": "latin-ext_latin_vietnamese"
+  "storeID": "latin-ext_vietnamese_latin"
 }

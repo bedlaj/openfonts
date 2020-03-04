@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/librebarcode39extended/v8/8At7Gt6_O5yNS0-K4Nf5U922qSzhJ3dUdfJpwNUgTNNIPQ.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=8At7Gt6_O5yNS0-K4Nf5U922qSzhJ3dUdfJpwNUgTNNIPw&skey=30c2ccc8c0bb6de6&v=v8#LibreBarcode39Extended",
       "fontFamily": "'Libre Barcode 39 Extended'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Libre Barcode 39 Extended",
         "LibreBarcode39Extended-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/librebarcode39extended/v8/8At7Gt6_O5yNS0-K4Nf5U922qSzhJ3dUdfJpwNUgTNNIOA.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=8At7Gt6_O5yNS0-K4Nf5U922qSzhJ3dUdfJpwNUgTNNIPw&skey=30c2ccc8c0bb6de6&v=v8#LibreBarcode39Extended",
-      "eot": "https://fonts.gstatic.com/s/librebarcode39extended/v8/8At7Gt6_O5yNS0-K4Nf5U922qSzhJ3dUdfJpwNUgTNNIPA.eot",
       "woff": "https://fonts.gstatic.com/s/librebarcode39extended/v8/8At7Gt6_O5yNS0-K4Nf5U922qSzhJ3dUdfJpwNUgTNNIPg.woff",
+      "woff2": "https://fonts.gstatic.com/s/librebarcode39extended/v8/8At7Gt6_O5yNS0-K4Nf5U922qSzhJ3dUdfJpwNUgTNNIOA.woff2",
+      "ttf": "https://fonts.gstatic.com/s/librebarcode39extended/v8/8At7Gt6_O5yNS0-K4Nf5U922qSzhJ3dUdfJpwNUgTNNIPQ.ttf",
+      "eot": "https://fonts.gstatic.com/s/librebarcode39extended/v8/8At7Gt6_O5yNS0-K4Nf5U922qSzhJ3dUdfJpwNUgTNNIPA.eot",
       "errored": false
     }
   ],
@@ -24,8 +24,8 @@
   ],
   "category": "display",
   "version": "v8",
-  "lastModified": "2019-07-16",
-  "popularity": 870,
+  "lastModified": "2020-03-03",
+  "popularity": 850,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

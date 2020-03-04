@@ -4,50 +4,50 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/baskervville/v1/YA9Ur0yU4l_XOrogbkun3kQQsJms.ttf",
+      "eot": "https://fonts.gstatic.com/s/baskervville/v1/YA9Ur0yU4l_XOrogbkun3kQQsJmt.eot",
       "fontFamily": "'Baskervville'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "svg": "https://fonts.gstatic.com/l/font?kit=YA9Ur0yU4l_XOrogbkun3kQQsJmu&skey=5255150905558cc4&v=v1#Baskervville",
       "local": [
         "Baskervville Regular",
         "Baskervville-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/baskervville/v1/YA9Ur0yU4l_XOrogbkun3kQQsJmp.woff2",
       "woff": "https://fonts.gstatic.com/s/baskervville/v1/YA9Ur0yU4l_XOrogbkun3kQQsJmv.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=YA9Ur0yU4l_XOrogbkun3kQQsJmu&skey=5255150905558cc4&v=v1#Baskervville",
-      "eot": "https://fonts.gstatic.com/s/baskervville/v1/YA9Ur0yU4l_XOrogbkun3kQQsJmt.eot",
+      "ttf": "https://fonts.gstatic.com/s/baskervville/v1/YA9Ur0yU4l_XOrogbkun3kQQsJms.ttf",
+      "woff2": "https://fonts.gstatic.com/s/baskervville/v1/YA9Ur0yU4l_XOrogbkun3kQQsJmp.woff2",
       "errored": false
     },
     {
       "id": "italic",
-      "eot": "https://fonts.gstatic.com/s/baskervville/v1/YA9Kr0yU4l_XOrogbkun3kQQtamrrvY.eot",
+      "woff": "https://fonts.gstatic.com/s/baskervville/v1/YA9Kr0yU4l_XOrogbkun3kQQtamrrvQ.woff",
       "fontFamily": "'Baskervville'",
       "fontStyle": "italic",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/baskervville/v1/YA9Kr0yU4l_XOrogbkun3kQQtamrrvI.woff2",
       "local": [
         "Baskervville Italic",
         "Baskervville-Italic"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=YA9Kr0yU4l_XOrogbkun3kQQtamrrvU&skey=759d97c2732afd70&v=v1#Baskervville",
       "ttf": "https://fonts.gstatic.com/s/baskervville/v1/YA9Kr0yU4l_XOrogbkun3kQQtamrrvc.ttf",
-      "woff": "https://fonts.gstatic.com/s/baskervville/v1/YA9Kr0yU4l_XOrogbkun3kQQtamrrvQ.woff",
+      "woff2": "https://fonts.gstatic.com/s/baskervville/v1/YA9Kr0yU4l_XOrogbkun3kQQtamrrvI.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=YA9Kr0yU4l_XOrogbkun3kQQtamrrvU&skey=759d97c2732afd70&v=v1#Baskervville",
+      "eot": "https://fonts.gstatic.com/s/baskervville/v1/YA9Kr0yU4l_XOrogbkun3kQQtamrrvY.eot",
       "errored": false
     }
   ],
   "subsets": [
-    "latin-ext",
-    "latin"
+    "latin",
+    "latin-ext"
   ],
   "category": "serif",
   "version": "v1",
-  "lastModified": "2019-11-14",
-  "popularity": 926,
+  "lastModified": "2020-03-03",
+  "popularity": 505,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin-ext": false,
-    "latin": true
+    "latin": true,
+    "latin-ext": false
   },
   "storeID": "latin"
 }

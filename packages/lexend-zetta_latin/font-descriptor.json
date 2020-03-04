@@ -12,27 +12,27 @@
         "Lexend Zetta Regular",
         "LexendZetta-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/lexendzetta/v1/ll87K2KYXje7CdOFnEWcU8sYkS4Z.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=ll87K2KYXje7CdOFnEWcU8sYkS4Y&skey=4ce78d6ebb21fb74&v=v1#LexendZetta",
       "eot": "https://fonts.gstatic.com/s/lexendzetta/v1/ll87K2KYXje7CdOFnEWcU8sYkS4b.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=ll87K2KYXje7CdOFnEWcU8sYkS4Y&skey=4ce78d6ebb21fb74&v=v1#LexendZetta",
+      "woff": "https://fonts.gstatic.com/s/lexendzetta/v1/ll87K2KYXje7CdOFnEWcU8sYkS4Z.woff",
       "ttf": "https://fonts.gstatic.com/s/lexendzetta/v1/ll87K2KYXje7CdOFnEWcU8sYkS4a.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "vietnamese",
     "latin",
+    "vietnamese",
     "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v1",
-  "lastModified": "2019-08-14",
-  "popularity": 942,
+  "lastModified": "2020-03-03",
+  "popularity": 977,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "vietnamese": false,
     "latin": true,
+    "vietnamese": false,
     "latin-ext": false
   },
   "storeID": "latin"

@@ -8,32 +8,32 @@
       "fontFamily": "'Alata'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/alata/v1/PbytFmztEwbIoce9zqY.woff2",
+      "ttf": "https://fonts.gstatic.com/s/alata/v1/PbytFmztEwbIoce9zqM.ttf",
       "local": [
         "Alata Regular",
         "Alata-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/alata/v1/PbytFmztEwbIoce9zqA.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=PbytFmztEwbIoce9zqE&skey=8b3803308a257846&v=v1#Alata",
-      "ttf": "https://fonts.gstatic.com/s/alata/v1/PbytFmztEwbIoce9zqM.ttf",
+      "woff2": "https://fonts.gstatic.com/s/alata/v1/PbytFmztEwbIoce9zqY.woff2",
+      "woff": "https://fonts.gstatic.com/s/alata/v1/PbytFmztEwbIoce9zqA.woff",
       "errored": false
     }
   ],
   "subsets": [
-    "latin-ext",
+    "latin",
     "vietnamese",
-    "latin"
+    "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v1",
-  "lastModified": "2019-11-14",
-  "popularity": 879,
+  "lastModified": "2020-03-03",
+  "popularity": 698,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin-ext": false,
+    "latin": true,
     "vietnamese": false,
-    "latin": true
+    "latin-ext": false
   },
   "storeID": "latin"
 }

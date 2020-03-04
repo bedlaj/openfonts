@@ -14,26 +14,26 @@
         "KosugiMaru-Regular"
       ],
       "woff2": "https://fonts.gstatic.com/s/kosugimaru/v6/0nksC9PgP_wGh21A2KeqGhTpgPs.woff2",
-      "woff": "https://fonts.gstatic.com/s/kosugimaru/v6/0nksC9PgP_wGh21A2KeqGhTpgP0.woff",
       "ttf": "https://fonts.gstatic.com/s/kosugimaru/v6/0nksC9PgP_wGh21A2KeqGhTpgP4.ttf",
+      "woff": "https://fonts.gstatic.com/s/kosugimaru/v6/0nksC9PgP_wGh21A2KeqGhTpgP0.woff",
       "errored": false
     }
   ],
   "subsets": [
-    "japanese",
+    "cyrillic",
     "latin",
-    "cyrillic"
+    "japanese"
   ],
   "category": "sans-serif",
   "version": "v6",
-  "lastModified": "2019-07-16",
-  "popularity": 378,
+  "lastModified": "2020-03-03",
+  "popularity": 393,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "japanese": false,
+    "cyrillic": true,
     "latin": true,
-    "cyrillic": true
+    "japanese": false
   },
-  "storeID": "cyrillic_latin"
+  "storeID": "latin_cyrillic"
 }

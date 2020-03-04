@@ -4,18 +4,34 @@
   "variants": [
     {
       "id": "100",
-      "ttf": "https://fonts.gstatic.com/s/mplus1p/v19/e3tleuShHdiFyPFzBRrQnDQA.ttf",
+      "eot": "https://fonts.gstatic.com/s/mplus1p/v19/e3tleuShHdiFyPFzBRrQnDQB.eot",
       "fontFamily": "'M PLUS 1p'",
       "fontStyle": "normal",
       "fontWeight": "100",
+      "woff": "https://fonts.gstatic.com/s/mplus1p/v19/e3tleuShHdiFyPFzBRrQnDQD.woff",
       "local": [
         "M PLUS 1p Thin",
         "MPLUS1p-Thin"
       ],
-      "eot": "https://fonts.gstatic.com/s/mplus1p/v19/e3tleuShHdiFyPFzBRrQnDQB.eot",
       "woff2": "https://fonts.gstatic.com/s/mplus1p/v19/e3tleuShHdiFyPFzBRrQnDQF.woff2",
-      "woff": "https://fonts.gstatic.com/s/mplus1p/v19/e3tleuShHdiFyPFzBRrQnDQD.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=e3tleuShHdiFyPFzBRrQnDQC&skey=93ef02944b46d64c&v=v19#MPLUS1p",
+      "ttf": "https://fonts.gstatic.com/s/mplus1p/v19/e3tleuShHdiFyPFzBRrQnDQA.ttf",
+      "errored": false
+    },
+    {
+      "id": "300",
+      "eot": "https://fonts.gstatic.com/s/mplus1p/v19/e3tmeuShHdiFyPFzBRrQVBYgeg.eot",
+      "fontFamily": "'M PLUS 1p'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "woff": "https://fonts.gstatic.com/s/mplus1p/v19/e3tmeuShHdiFyPFzBRrQVBYgeA.woff",
+      "local": [
+        "M PLUS 1p Light",
+        "MPLUS1p-Light"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/mplus1p/v19/e3tmeuShHdiFyPFzBRrQVBYgfg.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=e3tmeuShHdiFyPFzBRrQVBYgeQ&skey=22db200556391a5b&v=v19#MPLUS1p",
+      "ttf": "https://fonts.gstatic.com/s/mplus1p/v19/e3tmeuShHdiFyPFzBRrQVBYgew.ttf",
       "errored": false
     },
     {
@@ -51,22 +67,6 @@
       "errored": false
     },
     {
-      "id": "300",
-      "woff": "https://fonts.gstatic.com/s/mplus1p/v19/e3tmeuShHdiFyPFzBRrQVBYgeA.woff",
-      "fontFamily": "'M PLUS 1p'",
-      "fontStyle": "normal",
-      "fontWeight": "300",
-      "local": [
-        "M PLUS 1p Light",
-        "MPLUS1p-Light"
-      ],
-      "eot": "https://fonts.gstatic.com/s/mplus1p/v19/e3tmeuShHdiFyPFzBRrQVBYgeg.eot",
-      "woff2": "https://fonts.gstatic.com/s/mplus1p/v19/e3tmeuShHdiFyPFzBRrQVBYgfg.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=e3tmeuShHdiFyPFzBRrQVBYgeQ&skey=22db200556391a5b&v=v19#MPLUS1p",
-      "ttf": "https://fonts.gstatic.com/s/mplus1p/v19/e3tmeuShHdiFyPFzBRrQVBYgew.ttf",
-      "errored": false
-    },
-    {
       "id": "700",
       "eot": "https://fonts.gstatic.com/s/mplus1p/v19/e3tmeuShHdiFyPFzBRrQRBEgeg.eot",
       "fontFamily": "'M PLUS 1p'",
@@ -77,8 +77,8 @@
         "M PLUS 1p Bold",
         "MPLUS1p-Bold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/mplus1p/v19/e3tmeuShHdiFyPFzBRrQRBEgfg.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=e3tmeuShHdiFyPFzBRrQRBEgeQ&skey=a27905db510d32e&v=v19#MPLUS1p",
+      "woff2": "https://fonts.gstatic.com/s/mplus1p/v19/e3tmeuShHdiFyPFzBRrQRBEgfg.woff2",
       "ttf": "https://fonts.gstatic.com/s/mplus1p/v19/e3tmeuShHdiFyPFzBRrQRBEgew.ttf",
       "errored": false
     },
@@ -88,14 +88,14 @@
       "fontFamily": "'M PLUS 1p'",
       "fontStyle": "normal",
       "fontWeight": "800",
-      "woff2": "https://fonts.gstatic.com/s/mplus1p/v19/e3tmeuShHdiFyPFzBRrQWBIgfg.woff2",
+      "woff": "https://fonts.gstatic.com/s/mplus1p/v19/e3tmeuShHdiFyPFzBRrQWBIgeA.woff",
       "local": [
         "M PLUS 1p ExtraBold",
         "MPLUS1p-ExtraBold"
       ],
+      "woff2": "https://fonts.gstatic.com/s/mplus1p/v19/e3tmeuShHdiFyPFzBRrQWBIgfg.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=e3tmeuShHdiFyPFzBRrQWBIgeQ&skey=e2646290676c8984&v=v19#MPLUS1p",
       "ttf": "https://fonts.gstatic.com/s/mplus1p/v19/e3tmeuShHdiFyPFzBRrQWBIgew.ttf",
-      "woff": "https://fonts.gstatic.com/s/mplus1p/v19/e3tmeuShHdiFyPFzBRrQWBIgeA.woff",
       "errored": false
     },
     {
@@ -116,32 +116,32 @@
     }
   ],
   "subsets": [
-    "greek",
-    "greek-ext",
-    "japanese",
-    "hebrew",
-    "vietnamese",
-    "latin",
-    "cyrillic-ext",
     "cyrillic",
+    "cyrillic-ext",
+    "latin",
+    "japanese",
+    "greek-ext",
+    "greek",
+    "vietnamese",
+    "hebrew",
     "latin-ext"
   ],
   "category": "sans-serif",
   "version": "v19",
-  "lastModified": "2019-07-23",
-  "popularity": 146,
+  "lastModified": "2020-03-03",
+  "popularity": 153,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "greek": true,
-    "greek-ext": true,
-    "japanese": true,
-    "hebrew": true,
-    "vietnamese": true,
-    "latin": true,
-    "cyrillic-ext": true,
     "cyrillic": true,
+    "cyrillic-ext": true,
+    "latin": true,
+    "japanese": true,
+    "greek-ext": true,
+    "greek": true,
+    "vietnamese": true,
+    "hebrew": true,
     "latin-ext": true
   },
-  "storeID": "latin-ext_cyrillic_cyrillic-ext_latin_vietnamese_hebrew_japanese_greek-ext_greek"
+  "storeID": "latin-ext_hebrew_vietnamese_greek_greek-ext_japanese_latin_cyrillic-ext_cyrillic"
 }

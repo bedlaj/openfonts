@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/gelasio/v1/cIf9MaFfvUQxTTqSxCw.woff2",
+      "woff": "https://fonts.gstatic.com/s/gelasio/v1/cIf9MaFfvUQxTTqSxCo.woff",
       "fontFamily": "'Gelasio'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,26 @@
         "Gelasio Regular",
         "Gelasio-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/gelasio/v1/cIf9MaFfvUQxTTqSxCo.woff",
-      "ttf": "https://fonts.gstatic.com/s/gelasio/v1/cIf9MaFfvUQxTTqSxCk.ttf",
-      "eot": "https://fonts.gstatic.com/s/gelasio/v1/cIf9MaFfvUQxTTqSxCg.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=cIf9MaFfvUQxTTqSxCs&skey=e23167b6c8d0cbc7&v=v1#Gelasio",
+      "eot": "https://fonts.gstatic.com/s/gelasio/v1/cIf9MaFfvUQxTTqSxCg.eot",
+      "ttf": "https://fonts.gstatic.com/s/gelasio/v1/cIf9MaFfvUQxTTqSxCk.ttf",
+      "woff2": "https://fonts.gstatic.com/s/gelasio/v1/cIf9MaFfvUQxTTqSxCw.woff2",
+      "errored": false
+    },
+    {
+      "id": "500",
+      "woff2": "https://fonts.gstatic.com/s/gelasio/v1/cIf4MaFfvUQxTTqS_N2CRGQ.woff2",
+      "fontFamily": "'Gelasio'",
+      "fontStyle": "normal",
+      "fontWeight": "500",
+      "local": [
+        "Gelasio Medium",
+        "Gelasio-Medium"
+      ],
+      "eot": "https://fonts.gstatic.com/s/gelasio/v1/cIf4MaFfvUQxTTqS_N2CRGA.eot",
+      "woff": "https://fonts.gstatic.com/s/gelasio/v1/cIf4MaFfvUQxTTqS_N2CRGI.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=cIf4MaFfvUQxTTqS_N2CRGM&skey=4657667d4468f6ff&v=v1#Gelasio",
+      "ttf": "https://fonts.gstatic.com/s/gelasio/v1/cIf4MaFfvUQxTTqS_N2CRGE.ttf",
       "errored": false
     },
     {
@@ -61,41 +77,9 @@
         "Gelasio-SemiBold"
       ],
       "eot": "https://fonts.gstatic.com/s/gelasio/v1/cIf4MaFfvUQxTTqS_PGFRGA.eot",
-      "woff2": "https://fonts.gstatic.com/s/gelasio/v1/cIf4MaFfvUQxTTqS_PGFRGQ.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=cIf4MaFfvUQxTTqS_PGFRGM&skey=ad6d0562fa55c583&v=v1#Gelasio",
+      "woff2": "https://fonts.gstatic.com/s/gelasio/v1/cIf4MaFfvUQxTTqS_PGFRGQ.woff2",
       "ttf": "https://fonts.gstatic.com/s/gelasio/v1/cIf4MaFfvUQxTTqS_PGFRGE.ttf",
-      "errored": false
-    },
-    {
-      "id": "500",
-      "eot": "https://fonts.gstatic.com/s/gelasio/v1/cIf4MaFfvUQxTTqS_N2CRGA.eot",
-      "fontFamily": "'Gelasio'",
-      "fontStyle": "normal",
-      "fontWeight": "500",
-      "ttf": "https://fonts.gstatic.com/s/gelasio/v1/cIf4MaFfvUQxTTqS_N2CRGE.ttf",
-      "local": [
-        "Gelasio Medium",
-        "Gelasio-Medium"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=cIf4MaFfvUQxTTqS_N2CRGM&skey=4657667d4468f6ff&v=v1#Gelasio",
-      "woff2": "https://fonts.gstatic.com/s/gelasio/v1/cIf4MaFfvUQxTTqS_N2CRGQ.woff2",
-      "woff": "https://fonts.gstatic.com/s/gelasio/v1/cIf4MaFfvUQxTTqS_N2CRGI.woff",
-      "errored": false
-    },
-    {
-      "id": "600italic",
-      "eot": "https://fonts.gstatic.com/s/gelasio/v1/cIf6MaFfvUQxTTqS9CuZvGUmmQ.eot",
-      "fontFamily": "'Gelasio'",
-      "fontStyle": "italic",
-      "fontWeight": "600",
-      "woff": "https://fonts.gstatic.com/s/gelasio/v1/cIf6MaFfvUQxTTqS9CuZvGUmmw.woff",
-      "local": [
-        "Gelasio SemiBold Italic",
-        "Gelasio-SemiBoldItalic"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/gelasio/v1/cIf6MaFfvUQxTTqS9CuZvGUmnQ.woff2",
-      "ttf": "https://fonts.gstatic.com/s/gelasio/v1/cIf6MaFfvUQxTTqS9CuZvGUmmA.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=cIf6MaFfvUQxTTqS9CuZvGUmmg&skey=4c2d31612dda77d0&v=v1#Gelasio",
       "errored": false
     },
     {
@@ -115,19 +99,35 @@
       "errored": false
     },
     {
+      "id": "600italic",
+      "woff": "https://fonts.gstatic.com/s/gelasio/v1/cIf6MaFfvUQxTTqS9CuZvGUmmw.woff",
+      "fontFamily": "'Gelasio'",
+      "fontStyle": "italic",
+      "fontWeight": "600",
+      "local": [
+        "Gelasio SemiBold Italic",
+        "Gelasio-SemiBoldItalic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/gelasio/v1/cIf6MaFfvUQxTTqS9CuZvGUmnQ.woff2",
+      "ttf": "https://fonts.gstatic.com/s/gelasio/v1/cIf6MaFfvUQxTTqS9CuZvGUmmA.ttf",
+      "eot": "https://fonts.gstatic.com/s/gelasio/v1/cIf6MaFfvUQxTTqS9CuZvGUmmQ.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=cIf6MaFfvUQxTTqS9CuZvGUmmg&skey=4c2d31612dda77d0&v=v1#Gelasio",
+      "errored": false
+    },
+    {
       "id": "700italic",
-      "woff2": "https://fonts.gstatic.com/s/gelasio/v1/cIf6MaFfvUQxTTqS9CuZ2GQmnQ.woff2",
+      "eot": "https://fonts.gstatic.com/s/gelasio/v1/cIf6MaFfvUQxTTqS9CuZ2GQmmQ.eot",
       "fontFamily": "'Gelasio'",
       "fontStyle": "italic",
       "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/gelasio/v1/cIf6MaFfvUQxTTqS9CuZ2GQmmw.woff",
       "local": [
         "Gelasio Bold Italic",
         "Gelasio-BoldItalic"
       ],
-      "eot": "https://fonts.gstatic.com/s/gelasio/v1/cIf6MaFfvUQxTTqS9CuZ2GQmmQ.eot",
+      "woff2": "https://fonts.gstatic.com/s/gelasio/v1/cIf6MaFfvUQxTTqS9CuZ2GQmnQ.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=cIf6MaFfvUQxTTqS9CuZ2GQmmg&skey=c341248781167b5c&v=v1#Gelasio",
       "ttf": "https://fonts.gstatic.com/s/gelasio/v1/cIf6MaFfvUQxTTqS9CuZ2GQmmA.ttf",
-      "woff": "https://fonts.gstatic.com/s/gelasio/v1/cIf6MaFfvUQxTTqS9CuZ2GQmmw.woff",
       "errored": false
     }
   ],
@@ -138,8 +138,8 @@
   ],
   "category": "serif",
   "version": "v1",
-  "lastModified": "2019-12-05",
-  "popularity": 974,
+  "lastModified": "2020-03-03",
+  "popularity": 496,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

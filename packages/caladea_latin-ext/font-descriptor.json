@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/caladea/v1/kJEzBugZ7AAjhybUvRZ9_w.ttf",
+      "woff": "https://fonts.gstatic.com/s/caladea/v1/kJEzBugZ7AAjhybUvRZ9_A.woff",
       "fontFamily": "'Caladea'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,26 @@
         "Caladea Regular",
         "Caladea-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/caladea/v1/kJEzBugZ7AAjhybUvRZ9_A.woff",
-      "woff2": "https://fonts.gstatic.com/s/caladea/v1/kJEzBugZ7AAjhybUvRZ9-g.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=kJEzBugZ7AAjhybUvRZ9_Q&skey=3c8e71be7dd330a0&v=v1#Caladea",
       "eot": "https://fonts.gstatic.com/s/caladea/v1/kJEzBugZ7AAjhybUvRZ9_g.eot",
+      "woff2": "https://fonts.gstatic.com/s/caladea/v1/kJEzBugZ7AAjhybUvRZ9-g.woff2",
+      "ttf": "https://fonts.gstatic.com/s/caladea/v1/kJEzBugZ7AAjhybUvRZ9_w.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=kJEzBugZ7AAjhybUvRZ9_Q&skey=3c8e71be7dd330a0&v=v1#Caladea",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "woff": "https://fonts.gstatic.com/s/caladea/v1/kJExBugZ7AAjhybUvR1N9vox.woff",
+      "fontFamily": "'Caladea'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "local": [
+        "Caladea Italic",
+        "Caladea-Italic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/caladea/v1/kJExBugZ7AAjhybUvR1N9vo3.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=kJExBugZ7AAjhybUvR1N9vow&skey=5b2b96a3dc7f8eb0&v=v1#Caladea",
+      "ttf": "https://fonts.gstatic.com/s/caladea/v1/kJExBugZ7AAjhybUvR1N9voy.ttf",
+      "eot": "https://fonts.gstatic.com/s/caladea/v1/kJExBugZ7AAjhybUvR1N9voz.eot",
       "errored": false
     },
     {
@@ -24,30 +40,14 @@
       "fontFamily": "'Caladea'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/caladea/v1/kJE2BugZ7AAjhybUtaNY79MSrw.woff",
+      "woff2": "https://fonts.gstatic.com/s/caladea/v1/kJE2BugZ7AAjhybUtaNY79MSqQ.woff2",
       "local": [
         "Caladea Bold",
         "Caladea-Bold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/caladea/v1/kJE2BugZ7AAjhybUtaNY79MSqQ.woff2",
       "ttf": "https://fonts.gstatic.com/s/caladea/v1/kJE2BugZ7AAjhybUtaNY79MSrA.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=kJE2BugZ7AAjhybUtaNY79MSrg&skey=1e88d2e004db3903&v=v1#Caladea",
-      "errored": false
-    },
-    {
-      "id": "italic",
-      "eot": "https://fonts.gstatic.com/s/caladea/v1/kJExBugZ7AAjhybUvR1N9voz.eot",
-      "fontFamily": "'Caladea'",
-      "fontStyle": "italic",
-      "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/caladea/v1/kJExBugZ7AAjhybUvR1N9vox.woff",
-      "local": [
-        "Caladea Italic",
-        "Caladea-Italic"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/caladea/v1/kJExBugZ7AAjhybUvR1N9vo3.woff2",
-      "ttf": "https://fonts.gstatic.com/s/caladea/v1/kJExBugZ7AAjhybUvR1N9voy.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=kJExBugZ7AAjhybUvR1N9vow&skey=5b2b96a3dc7f8eb0&v=v1#Caladea",
+      "woff": "https://fonts.gstatic.com/s/caladea/v1/kJE2BugZ7AAjhybUtaNY79MSrw.woff",
       "errored": false
     },
     {
@@ -56,30 +56,30 @@
       "fontFamily": "'Caladea'",
       "fontStyle": "italic",
       "fontWeight": "700",
-      "woff2": "https://fonts.gstatic.com/s/caladea/v1/kJE0BugZ7AAjhybUvR1FQ98ipcZy.woff2",
+      "woff": "https://fonts.gstatic.com/s/caladea/v1/kJE0BugZ7AAjhybUvR1FQ98ipcZ0.woff",
       "local": [
         "Caladea Bold Italic",
         "Caladea-BoldItalic"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=kJE0BugZ7AAjhybUvR1FQ98ipcZ1&skey=f040e915a7727089&v=v1#Caladea",
-      "woff": "https://fonts.gstatic.com/s/caladea/v1/kJE0BugZ7AAjhybUvR1FQ98ipcZ0.woff",
+      "woff2": "https://fonts.gstatic.com/s/caladea/v1/kJE0BugZ7AAjhybUvR1FQ98ipcZy.woff2",
       "ttf": "https://fonts.gstatic.com/s/caladea/v1/kJE0BugZ7AAjhybUvR1FQ98ipcZ3.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=kJE0BugZ7AAjhybUvR1FQ98ipcZ1&skey=f040e915a7727089&v=v1#Caladea",
       "errored": false
     }
   ],
   "subsets": [
-    "latin-ext",
-    "latin"
+    "latin",
+    "latin-ext"
   ],
   "category": "serif",
   "version": "v1",
-  "lastModified": "2020-02-25",
-  "popularity": 978,
+  "lastModified": "2020-03-03",
+  "popularity": 968,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin-ext": true,
-    "latin": true
+    "latin": true,
+    "latin-ext": true
   },
-  "storeID": "latin_latin-ext"
+  "storeID": "latin-ext_latin"
 }

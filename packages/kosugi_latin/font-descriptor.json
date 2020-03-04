@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/kosugi/v6/pxiFyp4_v8FCjlIIM7D7.woff2",
+      "woff": "https://fonts.gstatic.com/s/kosugi/v6/pxiFyp4_v8FCjlIIM7D9.woff",
       "fontFamily": "'Kosugi'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,28 +12,28 @@
         "Kosugi Regular",
         "Kosugi-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=pxiFyp4_v8FCjlIIM7D8&skey=89a9b34376a5ea39&v=v6#Kosugi",
+      "woff2": "https://fonts.gstatic.com/s/kosugi/v6/pxiFyp4_v8FCjlIIM7D7.woff2",
       "eot": "https://fonts.gstatic.com/s/kosugi/v6/pxiFyp4_v8FCjlIIM7D_.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=pxiFyp4_v8FCjlIIM7D8&skey=89a9b34376a5ea39&v=v6#Kosugi",
       "ttf": "https://fonts.gstatic.com/s/kosugi/v6/pxiFyp4_v8FCjlIIM7D-.ttf",
-      "woff": "https://fonts.gstatic.com/s/kosugi/v6/pxiFyp4_v8FCjlIIM7D9.woff",
       "errored": false
     }
   ],
   "subsets": [
-    "japanese",
+    "cyrillic",
     "latin",
-    "cyrillic"
+    "japanese"
   ],
   "category": "sans-serif",
   "version": "v6",
-  "lastModified": "2019-07-16",
-  "popularity": 586,
+  "lastModified": "2020-03-03",
+  "popularity": 593,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "japanese": false,
+    "cyrillic": false,
     "latin": true,
-    "cyrillic": false
+    "japanese": false
   },
   "storeID": "latin"
 }

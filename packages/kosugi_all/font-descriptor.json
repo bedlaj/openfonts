@@ -13,27 +13,27 @@
         "Kosugi Regular",
         "Kosugi-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/kosugi/v6/pxiFyp4_v8FCjlI4NA.ttf",
       "woff": "https://fonts.gstatic.com/s/kosugi/v6/pxiFyp4_v8FCjlI4Nw.woff",
+      "ttf": "https://fonts.gstatic.com/s/kosugi/v6/pxiFyp4_v8FCjlI4NA.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=pxiFyp4_v8FCjlI4Ng&skey=89a9b34376a5ea39&v=v6#Kosugi",
       "errored": false
     }
   ],
   "subsets": [
-    "japanese",
+    "cyrillic",
     "latin",
-    "cyrillic"
+    "japanese"
   ],
   "category": "sans-serif",
   "version": "v6",
-  "lastModified": "2019-07-16",
-  "popularity": 586,
+  "lastModified": "2020-03-03",
+  "popularity": 593,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "japanese": true,
+    "cyrillic": true,
     "latin": true,
-    "cyrillic": true
+    "japanese": true
   },
-  "storeID": "cyrillic_latin_japanese"
+  "storeID": "japanese_latin_cyrillic"
 }
