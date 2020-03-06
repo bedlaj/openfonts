@@ -4,180 +4,188 @@
   "variants": [
     {
       "id": "100",
-      "woff": "https://fonts.gstatic.com/s/josefinsans/v14/Qw3EZQNVED7rKGKxtqIqX5Ecbkx6XH4.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_DjRbMZhKA&skey=22ddf758bcf1d5cd&v=v15#JosefinSans",
       "fontFamily": "'Josefin Sans'",
       "fontStyle": "normal",
       "fontWeight": "100",
-      "local": [
-        "Josefin Sans Thin",
-        "JosefinSans-Thin"
-      ],
-      "ttf": "https://fonts.gstatic.com/s/josefinsans/v14/Qw3EZQNVED7rKGKxtqIqX5Ecbkx6XH0.ttf",
-      "eot": "https://fonts.gstatic.com/s/josefinsans/v14/Qw3EZQNVED7rKGKxtqIqX5Ecbkx6XHw.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Qw3EZQNVED7rKGKxtqIqX5Ecbkx6XH8&skey=6099e053def6fdc6&v=v14#JosefinSans",
-      "woff2": "https://fonts.gstatic.com/s/josefinsans/v14/Qw3EZQNVED7rKGKxtqIqX5Ecbkx6XHg.woff2",
+      "woff2": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_DjRbMZhLw.woff2",
+      "woff": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_DjRbMZhKQ.woff",
+      "ttf": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_DjRbMZhKg.ttf",
+      "eot": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_DjRbMZhKw.eot",
       "errored": false
     },
     {
-      "id": "100italic",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Qw3GZQNVED7rKGKxtqIqX5EUCEQZbHoEiA&skey=3ce5d7024a8b3428&v=v14#JosefinSans",
+      "id": "200",
+      "woff2": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_LjQbMZhLw.woff2",
       "fontFamily": "'Josefin Sans'",
-      "fontStyle": "italic",
-      "fontWeight": "100",
-      "local": [
-        "Josefin Sans Thin Italic",
-        "JosefinSans-ThinItalic"
-      ],
-      "ttf": "https://fonts.gstatic.com/s/josefinsans/v14/Qw3GZQNVED7rKGKxtqIqX5EUCEQZbHoEig.ttf",
-      "eot": "https://fonts.gstatic.com/s/josefinsans/v14/Qw3GZQNVED7rKGKxtqIqX5EUCEQZbHoEiw.eot",
-      "woff": "https://fonts.gstatic.com/s/josefinsans/v14/Qw3GZQNVED7rKGKxtqIqX5EUCEQZbHoEiQ.woff",
-      "woff2": "https://fonts.gstatic.com/s/josefinsans/v14/Qw3GZQNVED7rKGKxtqIqX5EUCEQZbHoEjw.woff2",
+      "fontStyle": "normal",
+      "fontWeight": "200",
+      "ttf": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_LjQbMZhKg.ttf",
+      "eot": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_LjQbMZhKw.eot",
+      "woff": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_LjQbMZhKQ.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_LjQbMZhKA&skey=22ddf758bcf1d5cd&v=v15#JosefinSans",
       "errored": false
     },
     {
       "id": "300",
-      "ttf": "https://fonts.gstatic.com/s/josefinsans/v14/Qw3FZQNVED7rKGKxtqIqX5Ecpl5te10k.ttf",
+      "eot": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_GbQbMZhKw.eot",
       "fontFamily": "'Josefin Sans'",
       "fontStyle": "normal",
       "fontWeight": "300",
-      "local": [
-        "Josefin Sans Light",
-        "JosefinSans-Light"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=Qw3FZQNVED7rKGKxtqIqX5Ecpl5te10m&skey=690bc9c33e34a134&v=v14#JosefinSans",
-      "woff": "https://fonts.gstatic.com/s/josefinsans/v14/Qw3FZQNVED7rKGKxtqIqX5Ecpl5te10n.woff",
-      "woff2": "https://fonts.gstatic.com/s/josefinsans/v14/Qw3FZQNVED7rKGKxtqIqX5Ecpl5te10h.woff2",
-      "eot": "https://fonts.gstatic.com/s/josefinsans/v14/Qw3FZQNVED7rKGKxtqIqX5Ecpl5te10l.eot",
-      "errored": false
-    },
-    {
-      "id": "300italic",
-      "ttf": "https://fonts.gstatic.com/s/josefinsans/v14/Qw3HZQNVED7rKGKxtqIqX5EUCETRfm0jqps.ttf",
-      "fontFamily": "'Josefin Sans'",
-      "fontStyle": "italic",
-      "fontWeight": "300",
-      "local": [
-        "Josefin Sans Light Italic",
-        "JosefinSans-LightItalic"
-      ],
-      "woff": "https://fonts.gstatic.com/s/josefinsans/v14/Qw3HZQNVED7rKGKxtqIqX5EUCETRfm0jqpg.woff",
-      "woff2": "https://fonts.gstatic.com/s/josefinsans/v14/Qw3HZQNVED7rKGKxtqIqX5EUCETRfm0jqp4.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Qw3HZQNVED7rKGKxtqIqX5EUCETRfm0jqpk&skey=a5a2b82d31ad9b51&v=v14#JosefinSans",
-      "eot": "https://fonts.gstatic.com/s/josefinsans/v14/Qw3HZQNVED7rKGKxtqIqX5EUCETRfm0jqpo.eot",
+      "woff2": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_GbQbMZhLw.woff2",
+      "ttf": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_GbQbMZhKg.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_GbQbMZhKA&skey=22ddf758bcf1d5cd&v=v15#JosefinSans",
+      "woff": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_GbQbMZhKQ.woff",
       "errored": false
     },
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Qw3aZQNVED7rKGKxtqIqX5EUDXx_&skey=22ddf758bcf1d5cd&v=v14#JosefinSans",
+      "ttf": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_DjQbMZhKg.ttf",
       "fontFamily": "'Josefin Sans'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "local": [
-        "Josefin Sans Regular",
-        "JosefinSans-Regular"
-      ],
-      "woff": "https://fonts.gstatic.com/s/josefinsans/v14/Qw3aZQNVED7rKGKxtqIqX5EUDXx-.woff",
-      "woff2": "https://fonts.gstatic.com/s/josefinsans/v14/Qw3aZQNVED7rKGKxtqIqX5EUDXx4.woff2",
-      "ttf": "https://fonts.gstatic.com/s/josefinsans/v14/Qw3aZQNVED7rKGKxtqIqX5EUDXx9.ttf",
-      "eot": "https://fonts.gstatic.com/s/josefinsans/v14/Qw3aZQNVED7rKGKxtqIqX5EUDXx8.eot",
+      "woff": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_DjQbMZhKQ.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_DjQbMZhKA&skey=22ddf758bcf1d5cd&v=v15#JosefinSans",
+      "eot": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_DjQbMZhKw.eot",
+      "woff2": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_DjQbMZhLw.woff2",
       "errored": false
     },
     {
-      "id": "italic",
-      "woff": "https://fonts.gstatic.com/s/josefinsans/v14/Qw3EZQNVED7rKGKxtqIqX5EUCEx6XH4.woff",
+      "id": "500",
+      "woff": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_ArQbMZhKQ.woff",
       "fontFamily": "'Josefin Sans'",
-      "fontStyle": "italic",
-      "fontWeight": "400",
-      "local": [
-        "Josefin Sans Italic",
-        "JosefinSans-Italic"
-      ],
-      "ttf": "https://fonts.gstatic.com/s/josefinsans/v14/Qw3EZQNVED7rKGKxtqIqX5EUCEx6XH0.ttf",
-      "woff2": "https://fonts.gstatic.com/s/josefinsans/v14/Qw3EZQNVED7rKGKxtqIqX5EUCEx6XHg.woff2",
-      "eot": "https://fonts.gstatic.com/s/josefinsans/v14/Qw3EZQNVED7rKGKxtqIqX5EUCEx6XHw.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Qw3EZQNVED7rKGKxtqIqX5EUCEx6XH8&skey=63d8bfdaaa359390&v=v14#JosefinSans",
+      "fontStyle": "normal",
+      "fontWeight": "500",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_ArQbMZhKA&skey=22ddf758bcf1d5cd&v=v15#JosefinSans",
+      "eot": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_ArQbMZhKw.eot",
+      "woff2": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_ArQbMZhLw.woff2",
+      "ttf": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_ArQbMZhKg.ttf",
       "errored": false
     },
     {
       "id": "600",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Qw3FZQNVED7rKGKxtqIqX5Ec0lhte10m&skey=3f719168dac5287a&v=v14#JosefinSans",
+      "woff2": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_ObXbMZhLw.woff2",
       "fontFamily": "'Josefin Sans'",
       "fontStyle": "normal",
       "fontWeight": "600",
-      "local": [
-        "Josefin Sans SemiBold",
-        "JosefinSans-SemiBold"
-      ],
-      "eot": "https://fonts.gstatic.com/s/josefinsans/v14/Qw3FZQNVED7rKGKxtqIqX5Ec0lhte10l.eot",
-      "woff2": "https://fonts.gstatic.com/s/josefinsans/v14/Qw3FZQNVED7rKGKxtqIqX5Ec0lhte10h.woff2",
-      "ttf": "https://fonts.gstatic.com/s/josefinsans/v14/Qw3FZQNVED7rKGKxtqIqX5Ec0lhte10k.ttf",
-      "woff": "https://fonts.gstatic.com/s/josefinsans/v14/Qw3FZQNVED7rKGKxtqIqX5Ec0lhte10n.woff",
-      "errored": false
-    },
-    {
-      "id": "600italic",
-      "woff": "https://fonts.gstatic.com/s/josefinsans/v14/Qw3HZQNVED7rKGKxtqIqX5EUCESleG0jqpg.woff",
-      "fontFamily": "'Josefin Sans'",
-      "fontStyle": "italic",
-      "fontWeight": "600",
-      "local": [
-        "Josefin Sans SemiBold Italic",
-        "JosefinSans-SemiBoldItalic"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/josefinsans/v14/Qw3HZQNVED7rKGKxtqIqX5EUCESleG0jqp4.woff2",
-      "eot": "https://fonts.gstatic.com/s/josefinsans/v14/Qw3HZQNVED7rKGKxtqIqX5EUCESleG0jqpo.eot",
-      "ttf": "https://fonts.gstatic.com/s/josefinsans/v14/Qw3HZQNVED7rKGKxtqIqX5EUCESleG0jqps.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Qw3HZQNVED7rKGKxtqIqX5EUCESleG0jqpk&skey=425960e7f7382d36&v=v14#JosefinSans",
+      "eot": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_ObXbMZhKw.eot",
+      "woff": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_ObXbMZhKQ.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_ObXbMZhKA&skey=22ddf758bcf1d5cd&v=v15#JosefinSans",
+      "ttf": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_ObXbMZhKg.ttf",
       "errored": false
     },
     {
       "id": "700",
-      "eot": "https://fonts.gstatic.com/s/josefinsans/v14/Qw3FZQNVED7rKGKxtqIqX5Ectllte10l.eot",
+      "woff": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_N_XbMZhKQ.woff",
       "fontFamily": "'Josefin Sans'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff2": "https://fonts.gstatic.com/s/josefinsans/v14/Qw3FZQNVED7rKGKxtqIqX5Ectllte10h.woff2",
-      "local": [
-        "Josefin Sans Bold",
-        "JosefinSans-Bold"
-      ],
-      "ttf": "https://fonts.gstatic.com/s/josefinsans/v14/Qw3FZQNVED7rKGKxtqIqX5Ectllte10k.ttf",
-      "woff": "https://fonts.gstatic.com/s/josefinsans/v14/Qw3FZQNVED7rKGKxtqIqX5Ectllte10n.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Qw3FZQNVED7rKGKxtqIqX5Ectllte10m&skey=1d89f7462100a06a&v=v14#JosefinSans",
+      "woff2": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_N_XbMZhLw.woff2",
+      "eot": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_N_XbMZhKw.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_N_XbMZhKA&skey=22ddf758bcf1d5cd&v=v15#JosefinSans",
+      "ttf": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_N_XbMZhKg.ttf",
+      "errored": false
+    },
+    {
+      "id": "100italic",
+      "woff2": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCTtINRLSzo.woff2",
+      "fontFamily": "'Josefin Sans'",
+      "fontStyle": "italic",
+      "fontWeight": "100",
+      "eot": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCTtINRLSzs.eot",
+      "woff": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCTtINRLSzu.woff",
+      "ttf": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCTtINRLSzt.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCTtINRLSzv&skey=63d8bfdaaa359390&v=v15#JosefinSans",
+      "errored": false
+    },
+    {
+      "id": "200italic",
+      "woff": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCTNIJRLSzu.woff",
+      "fontFamily": "'Josefin Sans'",
+      "fontStyle": "italic",
+      "fontWeight": "200",
+      "woff2": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCTNIJRLSzo.woff2",
+      "eot": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCTNIJRLSzs.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCTNIJRLSzv&skey=63d8bfdaaa359390&v=v15#JosefinSans",
+      "ttf": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCTNIJRLSzt.ttf",
+      "errored": false
+    },
+    {
+      "id": "300italic",
+      "eot": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCT6oJRLSzs.eot",
+      "fontFamily": "'Josefin Sans'",
+      "fontStyle": "italic",
+      "fontWeight": "300",
+      "woff2": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCT6oJRLSzo.woff2",
+      "woff": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCT6oJRLSzu.woff",
+      "ttf": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCT6oJRLSzt.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCT6oJRLSzv&skey=63d8bfdaaa359390&v=v15#JosefinSans",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "eot": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCTtIJRLSzs.eot",
+      "fontFamily": "'Josefin Sans'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCTtIJRLSzo.woff2",
+      "woff": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCTtIJRLSzu.woff",
+      "ttf": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCTtIJRLSzt.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCTtIJRLSzv&skey=63d8bfdaaa359390&v=v15#JosefinSans",
+      "errored": false
+    },
+    {
+      "id": "500italic",
+      "eot": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCThoJRLSzs.eot",
+      "fontFamily": "'Josefin Sans'",
+      "fontStyle": "italic",
+      "fontWeight": "500",
+      "woff2": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCThoJRLSzo.woff2",
+      "woff": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCThoJRLSzu.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCThoJRLSzv&skey=63d8bfdaaa359390&v=v15#JosefinSans",
+      "ttf": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCThoJRLSzt.ttf",
+      "errored": false
+    },
+    {
+      "id": "600italic",
+      "woff": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCTaoVRLSzu.woff",
+      "fontFamily": "'Josefin Sans'",
+      "fontStyle": "italic",
+      "fontWeight": "600",
+      "eot": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCTaoVRLSzs.eot",
+      "woff2": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCTaoVRLSzo.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCTaoVRLSzv&skey=63d8bfdaaa359390&v=v15#JosefinSans",
+      "ttf": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCTaoVRLSzt.ttf",
       "errored": false
     },
     {
       "id": "700italic",
-      "woff": "https://fonts.gstatic.com/s/josefinsans/v14/Qw3HZQNVED7rKGKxtqIqX5EUCETBeW0jqpg.woff",
+      "woff": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCTU4VRLSzu.woff",
       "fontFamily": "'Josefin Sans'",
       "fontStyle": "italic",
       "fontWeight": "700",
-      "local": [
-        "Josefin Sans Bold Italic",
-        "JosefinSans-BoldItalic"
-      ],
-      "eot": "https://fonts.gstatic.com/s/josefinsans/v14/Qw3HZQNVED7rKGKxtqIqX5EUCETBeW0jqpo.eot",
-      "ttf": "https://fonts.gstatic.com/s/josefinsans/v14/Qw3HZQNVED7rKGKxtqIqX5EUCETBeW0jqps.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Qw3HZQNVED7rKGKxtqIqX5EUCETBeW0jqpk&skey=60ba74087198d0c1&v=v14#JosefinSans",
-      "woff2": "https://fonts.gstatic.com/s/josefinsans/v14/Qw3HZQNVED7rKGKxtqIqX5EUCETBeW0jqp4.woff2",
+      "woff2": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCTU4VRLSzo.woff2",
+      "eot": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCTU4VRLSzs.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCTU4VRLSzv&skey=63d8bfdaaa359390&v=v15#JosefinSans",
+      "ttf": "https://fonts.gstatic.com/s/josefinsans/v15/Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCTU4VRLSzt.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "vietnamese",
+    "latin-ext",
     "latin",
-    "latin-ext"
+    "vietnamese"
   ],
   "category": "sans-serif",
-  "version": "v14",
-  "lastModified": "2019-07-22",
-  "popularity": 47,
+  "version": "v15",
+  "lastModified": "2020-03-06",
+  "popularity": 49,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "vietnamese": false,
+    "latin-ext": false,
     "latin": true,
-    "latin-ext": false
+    "vietnamese": false
   },
   "storeID": "latin"
 }

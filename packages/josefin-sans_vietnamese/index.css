@@ -4,9 +4,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 100;
-  src:
-    local('Josefin Sans Thin'),
-    local('JosefinSans-Thin'), 
+  src: 
     url('./files/josefin-sans-vietnamese-100.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/josefin-sans-vietnamese-100.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
@@ -16,11 +14,29 @@
   font-style: italic;
   font-display: swap;
   font-weight: 100;
-  src:
-    local('Josefin Sans Thin Italic'),
-    local('JosefinSans-ThinItalic'), 
+  src: 
     url('./files/josefin-sans-vietnamese-100-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/josefin-sans-vietnamese-100-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* josefin-sans-200normal - vietnamese */
+@font-face {
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src: 
+    url('./files/josefin-sans-vietnamese-200.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/josefin-sans-vietnamese-200.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* josefin-sans-200italic - vietnamese */
+@font-face {
+  font-family: 'Josefin Sans';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 200;
+  src: 
+    url('./files/josefin-sans-vietnamese-200-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/josefin-sans-vietnamese-200-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* josefin-sans-300normal - vietnamese */
 @font-face {
@@ -28,9 +44,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 300;
-  src:
-    local('Josefin Sans Light'),
-    local('JosefinSans-Light'), 
+  src: 
     url('./files/josefin-sans-vietnamese-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/josefin-sans-vietnamese-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
@@ -40,9 +54,7 @@
   font-style: italic;
   font-display: swap;
   font-weight: 300;
-  src:
-    local('Josefin Sans Light Italic'),
-    local('JosefinSans-LightItalic'), 
+  src: 
     url('./files/josefin-sans-vietnamese-300-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/josefin-sans-vietnamese-300-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
@@ -52,9 +64,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src:
-    local('Josefin Sans Regular'),
-    local('JosefinSans-Regular'), 
+  src: 
     url('./files/josefin-sans-vietnamese-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/josefin-sans-vietnamese-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
@@ -64,11 +74,29 @@
   font-style: italic;
   font-display: swap;
   font-weight: 400;
-  src:
-    local('Josefin Sans Italic'),
-    local('JosefinSans-Italic'), 
+  src: 
     url('./files/josefin-sans-vietnamese-400-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/josefin-sans-vietnamese-400-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* josefin-sans-500normal - vietnamese */
+@font-face {
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: 
+    url('./files/josefin-sans-vietnamese-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/josefin-sans-vietnamese-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* josefin-sans-500italic - vietnamese */
+@font-face {
+  font-family: 'Josefin Sans';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src: 
+    url('./files/josefin-sans-vietnamese-500-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/josefin-sans-vietnamese-500-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* josefin-sans-600normal - vietnamese */
 @font-face {
@@ -76,9 +104,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 600;
-  src:
-    local('Josefin Sans SemiBold'),
-    local('JosefinSans-SemiBold'), 
+  src: 
     url('./files/josefin-sans-vietnamese-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/josefin-sans-vietnamese-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
@@ -88,9 +114,7 @@
   font-style: italic;
   font-display: swap;
   font-weight: 600;
-  src:
-    local('Josefin Sans SemiBold Italic'),
-    local('JosefinSans-SemiBoldItalic'), 
+  src: 
     url('./files/josefin-sans-vietnamese-600-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/josefin-sans-vietnamese-600-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
@@ -100,9 +124,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 700;
-  src:
-    local('Josefin Sans Bold'),
-    local('JosefinSans-Bold'), 
+  src: 
     url('./files/josefin-sans-vietnamese-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/josefin-sans-vietnamese-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
@@ -112,9 +134,7 @@
   font-style: italic;
   font-display: swap;
   font-weight: 700;
-  src:
-    local('Josefin Sans Bold Italic'),
-    local('JosefinSans-BoldItalic'), 
+  src: 
     url('./files/josefin-sans-vietnamese-700-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/josefin-sans-vietnamese-700-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }

@@ -1,0 +1,43 @@
+{
+  "id": "viaoda-libre",
+  "family": "Viaoda Libre",
+  "variants": [
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/viaodalibre/v1/vEFW2_lWCgoR6OKuRz9kcRV5aGgd.eot",
+      "fontFamily": "'Viaoda Libre'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/viaodalibre/v1/vEFW2_lWCgoR6OKuRz9kcRV5aGgZ.woff2",
+      "local": [
+        "Viaoda Libre Regular",
+        "ViaodaLibre-Regular"
+      ],
+      "woff": "https://fonts.gstatic.com/s/viaodalibre/v1/vEFW2_lWCgoR6OKuRz9kcRV5aGgf.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=vEFW2_lWCgoR6OKuRz9kcRV5aGge&skey=8cf4790983ec0afc&v=v1#ViaodaLibre",
+      "ttf": "https://fonts.gstatic.com/s/viaodalibre/v1/vEFW2_lWCgoR6OKuRz9kcRV5aGgc.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin-ext",
+    "latin",
+    "cyrillic",
+    "cyrillic-ext",
+    "vietnamese"
+  ],
+  "category": "display",
+  "version": "v1",
+  "lastModified": "2020-03-06",
+  "popularity": 996,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin-ext": false,
+    "latin": true,
+    "cyrillic": false,
+    "cyrillic-ext": false,
+    "vietnamese": false
+  },
+  "storeID": "latin"
+}

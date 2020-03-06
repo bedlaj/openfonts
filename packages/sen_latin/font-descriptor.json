@@ -1,0 +1,69 @@
+{
+  "id": "sen",
+  "family": "Sen",
+  "variants": [
+    {
+      "id": "regular",
+      "woff2": "https://fonts.gstatic.com/s/sen/v1/6xKjdSxYI9_3nPWN.woff2",
+      "fontFamily": "'Sen'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Sen Regular",
+        "Sen-Regular"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/sen/v1/6xKjdSxYI9_3nPWI.ttf",
+      "woff": "https://fonts.gstatic.com/s/sen/v1/6xKjdSxYI9_3nPWL.woff",
+      "eot": "https://fonts.gstatic.com/s/sen/v1/6xKjdSxYI9_3nPWJ.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=6xKjdSxYI9_3nPWK&skey=d76fdf2735379328&v=v1#Sen",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff2": "https://fonts.gstatic.com/s/sen/v1/6xKudSxYI9__J9CYLUv0.woff2",
+      "fontFamily": "'Sen'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Sen Bold",
+        "Sen-Bold"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=6xKudSxYI9__J9CYLUvz&skey=5df3d02d3642b643&v=v1#Sen",
+      "eot": "https://fonts.gstatic.com/s/sen/v1/6xKudSxYI9__J9CYLUvw.eot",
+      "woff": "https://fonts.gstatic.com/s/sen/v1/6xKudSxYI9__J9CYLUvy.woff",
+      "ttf": "https://fonts.gstatic.com/s/sen/v1/6xKudSxYI9__J9CYLUvx.ttf",
+      "errored": false
+    },
+    {
+      "id": "800",
+      "woff2": "https://fonts.gstatic.com/s/sen/v1/6xKudSxYI9__O9OYLUv0.woff2",
+      "fontFamily": "'Sen'",
+      "fontStyle": "normal",
+      "fontWeight": "800",
+      "local": [
+        "Sen ExtraBold",
+        "Sen-ExtraBold"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=6xKudSxYI9__O9OYLUvz&skey=2c0ab5ec745faadb&v=v1#Sen",
+      "eot": "https://fonts.gstatic.com/s/sen/v1/6xKudSxYI9__O9OYLUvw.eot",
+      "woff": "https://fonts.gstatic.com/s/sen/v1/6xKudSxYI9__O9OYLUvy.woff",
+      "ttf": "https://fonts.gstatic.com/s/sen/v1/6xKudSxYI9__O9OYLUvx.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "category": "sans-serif",
+  "version": "v1",
+  "lastModified": "2020-03-06",
+  "popularity": 995,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin-ext": false,
+    "latin": true
+  },
+  "storeID": "latin"
+}

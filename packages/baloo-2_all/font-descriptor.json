@@ -1,0 +1,105 @@
+{
+  "id": "baloo-2",
+  "family": "Baloo 2",
+  "variants": [
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/baloo2/v1/wXKrE3kTposypRyd114.eot",
+      "fontFamily": "'Baloo 2'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/baloo2/v1/wXKrE3kTposypRyd11w.woff",
+      "local": [
+        "Baloo 2 Regular",
+        "Baloo2-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/baloo2/v1/wXKrE3kTposypRyd11o.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=wXKrE3kTposypRyd110&skey=f84d20f19091b325&v=v1#Baloo2",
+      "ttf": "https://fonts.gstatic.com/s/baloo2/v1/wXKrE3kTposypRyd118.ttf",
+      "errored": false
+    },
+    {
+      "id": "500",
+      "eot": "https://fonts.gstatic.com/s/baloo2/v1/wXKuE3kTposypRyd76v_JeU.eot",
+      "fontFamily": "'Baloo 2'",
+      "fontStyle": "normal",
+      "fontWeight": "500",
+      "ttf": "https://fonts.gstatic.com/s/baloo2/v1/wXKuE3kTposypRyd76v_JeQ.ttf",
+      "local": [
+        "Baloo 2 Medium",
+        "Baloo2-Medium"
+      ],
+      "woff": "https://fonts.gstatic.com/s/baloo2/v1/wXKuE3kTposypRyd76v_Jec.woff",
+      "woff2": "https://fonts.gstatic.com/s/baloo2/v1/wXKuE3kTposypRyd76v_JeE.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=wXKuE3kTposypRyd76v_JeY&skey=a1a076e2128fa43f&v=v1#Baloo2",
+      "errored": false
+    },
+    {
+      "id": "600",
+      "woff": "https://fonts.gstatic.com/s/baloo2/v1/wXKuE3kTposypRyd74f4Jec.woff",
+      "fontFamily": "'Baloo 2'",
+      "fontStyle": "normal",
+      "fontWeight": "600",
+      "local": [
+        "Baloo 2 SemiBold",
+        "Baloo2-SemiBold"
+      ],
+      "eot": "https://fonts.gstatic.com/s/baloo2/v1/wXKuE3kTposypRyd74f4JeU.eot",
+      "ttf": "https://fonts.gstatic.com/s/baloo2/v1/wXKuE3kTposypRyd74f4JeQ.ttf",
+      "woff2": "https://fonts.gstatic.com/s/baloo2/v1/wXKuE3kTposypRyd74f4JeE.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=wXKuE3kTposypRyd74f4JeY&skey=fc4711e3f04c9036&v=v1#Baloo2",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "svg": "https://fonts.gstatic.com/l/font?kit=wXKuE3kTposypRyd7-P5JeY&skey=59b8b7c114fd6822&v=v1#Baloo2",
+      "fontFamily": "'Baloo 2'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Baloo 2 Bold",
+        "Baloo2-Bold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/baloo2/v1/wXKuE3kTposypRyd7-P5JeE.woff2",
+      "woff": "https://fonts.gstatic.com/s/baloo2/v1/wXKuE3kTposypRyd7-P5Jec.woff",
+      "eot": "https://fonts.gstatic.com/s/baloo2/v1/wXKuE3kTposypRyd7-P5JeU.eot",
+      "ttf": "https://fonts.gstatic.com/s/baloo2/v1/wXKuE3kTposypRyd7-P5JeQ.ttf",
+      "errored": false
+    },
+    {
+      "id": "800",
+      "svg": "https://fonts.gstatic.com/l/font?kit=wXKuE3kTposypRyd7__6JeY&skey=b46dc53452411bb2&v=v1#Baloo2",
+      "fontFamily": "'Baloo 2'",
+      "fontStyle": "normal",
+      "fontWeight": "800",
+      "local": [
+        "Baloo 2 ExtraBold",
+        "Baloo2-ExtraBold"
+      ],
+      "woff": "https://fonts.gstatic.com/s/baloo2/v1/wXKuE3kTposypRyd7__6Jec.woff",
+      "eot": "https://fonts.gstatic.com/s/baloo2/v1/wXKuE3kTposypRyd7__6JeU.eot",
+      "ttf": "https://fonts.gstatic.com/s/baloo2/v1/wXKuE3kTposypRyd7__6JeQ.ttf",
+      "woff2": "https://fonts.gstatic.com/s/baloo2/v1/wXKuE3kTposypRyd7__6JeE.woff2",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "devanagari",
+    "latin-ext",
+    "latin",
+    "vietnamese"
+  ],
+  "category": "display",
+  "version": "v1",
+  "lastModified": "2020-03-06",
+  "popularity": 981,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "devanagari": true,
+    "latin-ext": true,
+    "latin": true,
+    "vietnamese": true
+  },
+  "storeID": "vietnamese_latin_latin-ext_devanagari"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "gotu",
+  "family": "Gotu",
+  "variants": [
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/gotu/v1/o-0FIpksx3QOpHQBjw.eot",
+      "fontFamily": "'Gotu'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/gotu/v1/o-0FIpksx3QOpHQBjQ.woff",
+      "local": [
+        "Gotu",
+        "Gotu-Regular"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=o-0FIpksx3QOpHQBjA&skey=444c4bed0798dc3e&v=v1#Gotu",
+      "ttf": "https://fonts.gstatic.com/s/gotu/v1/o-0FIpksx3QOpHQBjg.ttf",
+      "woff2": "https://fonts.gstatic.com/s/gotu/v1/o-0FIpksx3QOpHQBiw.woff2",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "devanagari",
+    "latin-ext",
+    "latin",
+    "vietnamese"
+  ],
+  "category": "sans-serif",
+  "version": "v1",
+  "lastModified": "2020-03-06",
+  "popularity": 992,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "devanagari": false,
+    "latin-ext": true,
+    "latin": true,
+    "vietnamese": false
+  },
+  "storeID": "latin_latin-ext"
+}
