@@ -4,38 +4,38 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/balootammudu/v6/mFT3Wb8Qza7c_Z5HTsC_5nxWwE1akA.woff",
+      "eot": "https://fonts.gstatic.com/s/balootammudu/v7/mFT3Wb8Qza7c_Z5HTsC_5nxWwE1akg.eot",
       "fontFamily": "'Baloo Tammudu'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/balootammudu/v7/mFT3Wb8Qza7c_Z5HTsC_5nxWwE1akA.woff",
       "local": [
         "Baloo Tammudu Regular",
         "BalooTammudu-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/balootammudu/v6/mFT3Wb8Qza7c_Z5HTsC_5nxWwE1akg.eot",
-      "woff2": "https://fonts.gstatic.com/s/balootammudu/v6/mFT3Wb8Qza7c_Z5HTsC_5nxWwE1alg.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=mFT3Wb8Qza7c_Z5HTsC_5nxWwE1akQ&skey=d052ee0a0f623158&v=v6#BalooTammudu",
-      "ttf": "https://fonts.gstatic.com/s/balootammudu/v6/mFT3Wb8Qza7c_Z5HTsC_5nxWwE1akw.ttf",
+      "woff2": "https://fonts.gstatic.com/s/balootammudu/v7/mFT3Wb8Qza7c_Z5HTsC_5nxWwE1alg.woff2",
+      "ttf": "https://fonts.gstatic.com/s/balootammudu/v7/mFT3Wb8Qza7c_Z5HTsC_5nxWwE1akw.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=mFT3Wb8Qza7c_Z5HTsC_5nxWwE1akQ&skey=d052ee0a0f623158&v=v7#BalooTammudu",
       "errored": false
     }
   ],
   "subsets": [
     "telugu",
-    "vietnamese",
+    "latin-ext",
     "latin",
-    "latin-ext"
+    "vietnamese"
   ],
   "category": "display",
-  "version": "v6",
-  "lastModified": "2019-07-16",
-  "popularity": 761,
+  "version": "v7",
+  "lastModified": "2020-03-12",
+  "popularity": 800,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "telugu": false,
-    "vietnamese": false,
+    "latin-ext": false,
     "latin": true,
-    "latin-ext": false
+    "vietnamese": false
   },
   "storeID": "latin"
 }
