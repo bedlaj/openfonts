@@ -4,312 +4,240 @@
   "variants": [
     {
       "id": "100",
-      "woff": "https://fonts.gstatic.com/s/exo2/v7/7cHov4okm5zmbt5LK-g.woff",
+      "woff2": "https://fonts.gstatic.com/s/exo2/v8/7cH1v4okm5zmbvwkAx_sfcEuiD8jvvOcOw.woff2",
       "fontFamily": "'Exo 2'",
       "fontStyle": "normal",
       "fontWeight": "100",
-      "local": [
-        "Exo 2 Thin",
-        "Exo2-Thin"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/exo2/v7/7cHov4okm5zmbt5LK-4.woff2",
-      "eot": "https://fonts.gstatic.com/s/exo2/v7/7cHov4okm5zmbt5LK-o.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=7cHov4okm5zmbt5LK-k&skey=85d177efa5c4888f&v=v7#Exo2",
-      "ttf": "https://fonts.gstatic.com/s/exo2/v7/7cHov4okm5zmbt5LK-s.ttf",
+      "eot": "https://fonts.gstatic.com/s/exo2/v8/7cH1v4okm5zmbvwkAx_sfcEuiD8jvvOcPw.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=7cH1v4okm5zmbvwkAx_sfcEuiD8jvvOcPA&skey=1b9a3dc5c6de9cce&v=v8#Exo2",
+      "ttf": "https://fonts.gstatic.com/s/exo2/v8/7cH1v4okm5zmbvwkAx_sfcEuiD8jvvOcPg.ttf",
+      "woff": "https://fonts.gstatic.com/s/exo2/v8/7cH1v4okm5zmbvwkAx_sfcEuiD8jvvOcPQ.woff",
       "errored": false
     },
     {
       "id": "200",
-      "woff2": "https://fonts.gstatic.com/s/exo2/v7/7cHrv4okm5zmbt7nCss5.woff2",
+      "woff": "https://fonts.gstatic.com/s/exo2/v8/7cH1v4okm5zmbvwkAx_sfcEuiD8jPvKcPQ.woff",
       "fontFamily": "'Exo 2'",
       "fontStyle": "normal",
       "fontWeight": "200",
-      "local": [
-        "Exo 2 ExtraLight",
-        "Exo2-ExtraLight"
-      ],
-      "woff": "https://fonts.gstatic.com/s/exo2/v7/7cHrv4okm5zmbt7nCss_.woff",
-      "eot": "https://fonts.gstatic.com/s/exo2/v7/7cHrv4okm5zmbt7nCss9.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=7cHrv4okm5zmbt7nCss-&skey=5f4a17bb39d9ab81&v=v7#Exo2",
-      "ttf": "https://fonts.gstatic.com/s/exo2/v7/7cHrv4okm5zmbt7nCss8.ttf",
-      "errored": false
-    },
-    {
-      "id": "200italic",
-      "eot": "https://fonts.gstatic.com/s/exo2/v7/7cHtv4okm5zmbtYtEyM9wHs.eot",
-      "fontFamily": "'Exo 2'",
-      "fontStyle": "italic",
-      "fontWeight": "200",
-      "woff": "https://fonts.gstatic.com/s/exo2/v7/7cHtv4okm5zmbtYtEyM9wHk.woff",
-      "local": [
-        "Exo 2 ExtraLight Italic",
-        "Exo2-ExtraLightItalic"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/exo2/v7/7cHtv4okm5zmbtYtEyM9wH8.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=7cHtv4okm5zmbtYtEyM9wHg&skey=c27fb4069c750f73&v=v7#Exo2",
-      "ttf": "https://fonts.gstatic.com/s/exo2/v7/7cHtv4okm5zmbtYtEyM9wHo.ttf",
-      "errored": false
-    },
-    {
-      "id": "100italic",
-      "eot": "https://fonts.gstatic.com/s/exo2/v7/7cHqv4okm5zmbtYtE48c4Q.eot",
-      "fontFamily": "'Exo 2'",
-      "fontStyle": "italic",
-      "fontWeight": "100",
-      "woff": "https://fonts.gstatic.com/s/exo2/v7/7cHqv4okm5zmbtYtE48c4w.woff",
-      "local": [
-        "Exo 2 Thin Italic",
-        "Exo2-ThinItalic"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/exo2/v7/7cHqv4okm5zmbtYtE48c5Q.woff2",
-      "ttf": "https://fonts.gstatic.com/s/exo2/v7/7cHqv4okm5zmbtYtE48c4A.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=7cHqv4okm5zmbtYtE48c4g&skey=52bea75ffc259864&v=v7#Exo2",
-      "errored": false
-    },
-    {
-      "id": "300",
-      "eot": "https://fonts.gstatic.com/s/exo2/v7/7cHrv4okm5zmbt6DCcs9.eot",
-      "fontFamily": "'Exo 2'",
-      "fontStyle": "normal",
-      "fontWeight": "300",
-      "woff": "https://fonts.gstatic.com/s/exo2/v7/7cHrv4okm5zmbt6DCcs_.woff",
-      "local": [
-        "Exo 2 Light",
-        "Exo2-Light"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/exo2/v7/7cHrv4okm5zmbt6DCcs5.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=7cHrv4okm5zmbt6DCcs-&skey=7bf673c8cb49eaf1&v=v7#Exo2",
-      "ttf": "https://fonts.gstatic.com/s/exo2/v7/7cHrv4okm5zmbt6DCcs8.ttf",
-      "errored": false
-    },
-    {
-      "id": "300italic",
-      "eot": "https://fonts.gstatic.com/s/exo2/v7/7cHtv4okm5zmbtYtE0c-wHs.eot",
-      "fontFamily": "'Exo 2'",
-      "fontStyle": "italic",
-      "fontWeight": "300",
-      "woff": "https://fonts.gstatic.com/s/exo2/v7/7cHtv4okm5zmbtYtE0c-wHk.woff",
-      "local": [
-        "Exo 2 Light Italic",
-        "Exo2-LightItalic"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/exo2/v7/7cHtv4okm5zmbtYtE0c-wH8.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=7cHtv4okm5zmbtYtE0c-wHg&skey=9d2d7f158082f68b&v=v7#Exo2",
-      "ttf": "https://fonts.gstatic.com/s/exo2/v7/7cHtv4okm5zmbtYtE0c-wHo.ttf",
-      "errored": false
-    },
-    {
-      "id": "italic",
-      "eot": "https://fonts.gstatic.com/s/exo2/v7/7cHov4okm5zmbtYtK-o.eot",
-      "fontFamily": "'Exo 2'",
-      "fontStyle": "italic",
-      "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/exo2/v7/7cHov4okm5zmbtYtK-g.woff",
-      "local": [
-        "Exo 2 Italic",
-        "Exo2-Italic"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=7cHov4okm5zmbtYtK-k&skey=5ebaaa86d2ddd87&v=v7#Exo2",
-      "ttf": "https://fonts.gstatic.com/s/exo2/v7/7cHov4okm5zmbtYtK-s.ttf",
-      "woff2": "https://fonts.gstatic.com/s/exo2/v7/7cHov4okm5zmbtYtK-4.woff2",
+      "woff2": "https://fonts.gstatic.com/s/exo2/v8/7cH1v4okm5zmbvwkAx_sfcEuiD8jPvKcOw.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=7cH1v4okm5zmbvwkAx_sfcEuiD8jPvKcPA&skey=1b9a3dc5c6de9cce&v=v8#Exo2",
+      "eot": "https://fonts.gstatic.com/s/exo2/v8/7cH1v4okm5zmbvwkAx_sfcEuiD8jPvKcPw.eot",
+      "ttf": "https://fonts.gstatic.com/s/exo2/v8/7cH1v4okm5zmbvwkAx_sfcEuiD8jPvKcPg.ttf",
       "errored": false
     },
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/exo2/v7/7cHmv4okm5zmbuYu.eot",
+      "woff2": "https://fonts.gstatic.com/s/exo2/v8/7cH1v4okm5zmbvwkAx_sfcEuiD8jvvKcOw.woff2",
       "fontFamily": "'Exo 2'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/exo2/v7/7cHmv4okm5zmbuYq.woff2",
-      "local": [
-        "Exo 2 Regular",
-        "Exo2-Regular"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=7cHmv4okm5zmbuYt&skey=1b9a3dc5c6de9cce&v=v7#Exo2",
-      "ttf": "https://fonts.gstatic.com/s/exo2/v7/7cHmv4okm5zmbuYv.ttf",
-      "woff": "https://fonts.gstatic.com/s/exo2/v7/7cHmv4okm5zmbuYs.woff",
+      "woff": "https://fonts.gstatic.com/s/exo2/v8/7cH1v4okm5zmbvwkAx_sfcEuiD8jvvKcPQ.woff",
+      "eot": "https://fonts.gstatic.com/s/exo2/v8/7cH1v4okm5zmbvwkAx_sfcEuiD8jvvKcPw.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=7cH1v4okm5zmbvwkAx_sfcEuiD8jvvKcPA&skey=1b9a3dc5c6de9cce&v=v8#Exo2",
+      "ttf": "https://fonts.gstatic.com/s/exo2/v8/7cH1v4okm5zmbvwkAx_sfcEuiD8jvvKcPg.ttf",
+      "errored": false
+    },
+    {
+      "id": "300",
+      "eot": "https://fonts.gstatic.com/s/exo2/v8/7cH1v4okm5zmbvwkAx_sfcEuiD8j4PKcPw.eot",
+      "fontFamily": "'Exo 2'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "woff": "https://fonts.gstatic.com/s/exo2/v8/7cH1v4okm5zmbvwkAx_sfcEuiD8j4PKcPQ.woff",
+      "woff2": "https://fonts.gstatic.com/s/exo2/v8/7cH1v4okm5zmbvwkAx_sfcEuiD8j4PKcOw.woff2",
+      "ttf": "https://fonts.gstatic.com/s/exo2/v8/7cH1v4okm5zmbvwkAx_sfcEuiD8j4PKcPg.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=7cH1v4okm5zmbvwkAx_sfcEuiD8j4PKcPA&skey=1b9a3dc5c6de9cce&v=v8#Exo2",
       "errored": false
     },
     {
       "id": "500",
-      "eot": "https://fonts.gstatic.com/s/exo2/v7/7cHrv4okm5zmbt7bCMs9.eot",
+      "eot": "https://fonts.gstatic.com/s/exo2/v8/7cH1v4okm5zmbvwkAx_sfcEuiD8jjPKcPw.eot",
       "fontFamily": "'Exo 2'",
       "fontStyle": "normal",
       "fontWeight": "500",
-      "woff": "https://fonts.gstatic.com/s/exo2/v7/7cHrv4okm5zmbt7bCMs_.woff",
-      "local": [
-        "Exo 2 Medium",
-        "Exo2-Medium"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/exo2/v7/7cHrv4okm5zmbt7bCMs5.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=7cHrv4okm5zmbt7bCMs-&skey=adb63786cb87541c&v=v7#Exo2",
-      "ttf": "https://fonts.gstatic.com/s/exo2/v7/7cHrv4okm5zmbt7bCMs8.ttf",
-      "errored": false
-    },
-    {
-      "id": "500italic",
-      "eot": "https://fonts.gstatic.com/s/exo2/v7/7cHtv4okm5zmbtYtEx8_wHs.eot",
-      "fontFamily": "'Exo 2'",
-      "fontStyle": "italic",
-      "fontWeight": "500",
-      "woff": "https://fonts.gstatic.com/s/exo2/v7/7cHtv4okm5zmbtYtEx8_wHk.woff",
-      "local": [
-        "Exo 2 Medium Italic",
-        "Exo2-MediumItalic"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/exo2/v7/7cHtv4okm5zmbtYtEx8_wH8.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=7cHtv4okm5zmbtYtEx8_wHg&skey=836cae0cc8180a9&v=v7#Exo2",
-      "ttf": "https://fonts.gstatic.com/s/exo2/v7/7cHtv4okm5zmbtYtEx8_wHo.ttf",
-      "errored": false
-    },
-    {
-      "id": "600italic",
-      "eot": "https://fonts.gstatic.com/s/exo2/v7/7cHtv4okm5zmbtYtEzM4wHs.eot",
-      "fontFamily": "'Exo 2'",
-      "fontStyle": "italic",
-      "fontWeight": "600",
-      "woff2": "https://fonts.gstatic.com/s/exo2/v7/7cHtv4okm5zmbtYtEzM4wH8.woff2",
-      "local": [
-        "Exo 2 SemiBold Italic",
-        "Exo2-SemiBoldItalic"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=7cHtv4okm5zmbtYtEzM4wHg&skey=80c2d9ae0dd344cc&v=v7#Exo2",
-      "woff": "https://fonts.gstatic.com/s/exo2/v7/7cHtv4okm5zmbtYtEzM4wHk.woff",
-      "ttf": "https://fonts.gstatic.com/s/exo2/v7/7cHtv4okm5zmbtYtEzM4wHo.ttf",
-      "errored": false
-    },
-    {
-      "id": "700",
-      "eot": "https://fonts.gstatic.com/s/exo2/v7/7cHrv4okm5zmbt6TDss9.eot",
-      "fontFamily": "'Exo 2'",
-      "fontStyle": "normal",
-      "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/exo2/v7/7cHrv4okm5zmbt6TDss_.woff",
-      "local": [
-        "Exo 2 Bold",
-        "Exo2-Bold"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=7cHrv4okm5zmbt6TDss-&skey=82f369e367a555a6&v=v7#Exo2",
-      "woff2": "https://fonts.gstatic.com/s/exo2/v7/7cHrv4okm5zmbt6TDss5.woff2",
-      "ttf": "https://fonts.gstatic.com/s/exo2/v7/7cHrv4okm5zmbt6TDss8.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=7cH1v4okm5zmbvwkAx_sfcEuiD8jjPKcPA&skey=1b9a3dc5c6de9cce&v=v8#Exo2",
+      "woff2": "https://fonts.gstatic.com/s/exo2/v8/7cH1v4okm5zmbvwkAx_sfcEuiD8jjPKcOw.woff2",
+      "woff": "https://fonts.gstatic.com/s/exo2/v8/7cH1v4okm5zmbvwkAx_sfcEuiD8jjPKcPQ.woff",
+      "ttf": "https://fonts.gstatic.com/s/exo2/v8/7cH1v4okm5zmbvwkAx_sfcEuiD8jjPKcPg.ttf",
       "errored": false
     },
     {
       "id": "600",
-      "eot": "https://fonts.gstatic.com/s/exo2/v7/7cHrv4okm5zmbt73D8s9.eot",
+      "woff2": "https://fonts.gstatic.com/s/exo2/v8/7cH1v4okm5zmbvwkAx_sfcEuiD8jYPWcOw.woff2",
       "fontFamily": "'Exo 2'",
       "fontStyle": "normal",
       "fontWeight": "600",
-      "woff": "https://fonts.gstatic.com/s/exo2/v7/7cHrv4okm5zmbt73D8s_.woff",
-      "local": [
-        "Exo 2 SemiBold",
-        "Exo2-SemiBold"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/exo2/v7/7cHrv4okm5zmbt73D8s5.woff2",
-      "ttf": "https://fonts.gstatic.com/s/exo2/v7/7cHrv4okm5zmbt73D8s8.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=7cHrv4okm5zmbt73D8s-&skey=80fcc2c639fbd240&v=v7#Exo2",
-      "errored": false
-    },
-    {
-      "id": "700italic",
-      "eot": "https://fonts.gstatic.com/s/exo2/v7/7cHtv4okm5zmbtYtE1c5wHs.eot",
-      "fontFamily": "'Exo 2'",
-      "fontStyle": "italic",
-      "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/exo2/v7/7cHtv4okm5zmbtYtE1c5wHk.woff",
-      "local": [
-        "Exo 2 Bold Italic",
-        "Exo2-BoldItalic"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/exo2/v7/7cHtv4okm5zmbtYtE1c5wH8.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=7cHtv4okm5zmbtYtE1c5wHg&skey=3785555033a6839e&v=v7#Exo2",
-      "ttf": "https://fonts.gstatic.com/s/exo2/v7/7cHtv4okm5zmbtYtE1c5wHo.ttf",
+      "woff": "https://fonts.gstatic.com/s/exo2/v8/7cH1v4okm5zmbvwkAx_sfcEuiD8jYPWcPQ.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=7cH1v4okm5zmbvwkAx_sfcEuiD8jYPWcPA&skey=1b9a3dc5c6de9cce&v=v8#Exo2",
+      "eot": "https://fonts.gstatic.com/s/exo2/v8/7cH1v4okm5zmbvwkAx_sfcEuiD8jYPWcPw.eot",
+      "ttf": "https://fonts.gstatic.com/s/exo2/v8/7cH1v4okm5zmbvwkAx_sfcEuiD8jYPWcPg.ttf",
       "errored": false
     },
     {
       "id": "800",
-      "eot": "https://fonts.gstatic.com/s/exo2/v7/7cHrv4okm5zmbt6PDcs9.eot",
+      "eot": "https://fonts.gstatic.com/s/exo2/v8/7cH1v4okm5zmbvwkAx_sfcEuiD8jPvWcPw.eot",
       "fontFamily": "'Exo 2'",
       "fontStyle": "normal",
       "fontWeight": "800",
-      "woff": "https://fonts.gstatic.com/s/exo2/v7/7cHrv4okm5zmbt6PDcs_.woff",
-      "local": [
-        "Exo 2 ExtraBold",
-        "Exo2-ExtraBold"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/exo2/v7/7cHrv4okm5zmbt6PDcs5.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=7cHrv4okm5zmbt6PDcs-&skey=5d0eafc8238747c6&v=v7#Exo2",
-      "ttf": "https://fonts.gstatic.com/s/exo2/v7/7cHrv4okm5zmbt6PDcs8.ttf",
+      "woff": "https://fonts.gstatic.com/s/exo2/v8/7cH1v4okm5zmbvwkAx_sfcEuiD8jPvWcPQ.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=7cH1v4okm5zmbvwkAx_sfcEuiD8jPvWcPA&skey=1b9a3dc5c6de9cce&v=v8#Exo2",
+      "woff2": "https://fonts.gstatic.com/s/exo2/v8/7cH1v4okm5zmbvwkAx_sfcEuiD8jPvWcOw.woff2",
+      "ttf": "https://fonts.gstatic.com/s/exo2/v8/7cH1v4okm5zmbvwkAx_sfcEuiD8jPvWcPg.ttf",
       "errored": false
     },
     {
-      "id": "800italic",
-      "eot": "https://fonts.gstatic.com/s/exo2/v7/7cHtv4okm5zmbtYtE0s6wHs.eot",
+      "id": "700",
+      "woff": "https://fonts.gstatic.com/s/exo2/v8/7cH1v4okm5zmbvwkAx_sfcEuiD8jWfWcPQ.woff",
       "fontFamily": "'Exo 2'",
-      "fontStyle": "italic",
-      "fontWeight": "800",
-      "woff": "https://fonts.gstatic.com/s/exo2/v7/7cHtv4okm5zmbtYtE0s6wHk.woff",
-      "local": [
-        "Exo 2 ExtraBold Italic",
-        "Exo2-ExtraBoldItalic"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/exo2/v7/7cHtv4okm5zmbtYtE0s6wH8.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=7cHtv4okm5zmbtYtE0s6wHg&skey=aac2f3221350d23a&v=v7#Exo2",
-      "ttf": "https://fonts.gstatic.com/s/exo2/v7/7cHtv4okm5zmbtYtE0s6wHo.ttf",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff2": "https://fonts.gstatic.com/s/exo2/v8/7cH1v4okm5zmbvwkAx_sfcEuiD8jWfWcOw.woff2",
+      "ttf": "https://fonts.gstatic.com/s/exo2/v8/7cH1v4okm5zmbvwkAx_sfcEuiD8jWfWcPg.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=7cH1v4okm5zmbvwkAx_sfcEuiD8jWfWcPA&skey=1b9a3dc5c6de9cce&v=v8#Exo2",
+      "eot": "https://fonts.gstatic.com/s/exo2/v8/7cH1v4okm5zmbvwkAx_sfcEuiD8jWfWcPw.eot",
       "errored": false
     },
     {
       "id": "900",
-      "eot": "https://fonts.gstatic.com/s/exo2/v7/7cHrv4okm5zmbt6rDMs9.eot",
+      "eot": "https://fonts.gstatic.com/s/exo2/v8/7cH1v4okm5zmbvwkAx_sfcEuiD8jF_WcPw.eot",
       "fontFamily": "'Exo 2'",
       "fontStyle": "normal",
       "fontWeight": "900",
-      "woff2": "https://fonts.gstatic.com/s/exo2/v7/7cHrv4okm5zmbt6rDMs5.woff2",
-      "local": [
-        "Exo 2 Black",
-        "Exo2-Black"
-      ],
-      "woff": "https://fonts.gstatic.com/s/exo2/v7/7cHrv4okm5zmbt6rDMs_.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=7cHrv4okm5zmbt6rDMs-&skey=b3bd9138e41a9fec&v=v7#Exo2",
-      "ttf": "https://fonts.gstatic.com/s/exo2/v7/7cHrv4okm5zmbt6rDMs8.ttf",
+      "woff": "https://fonts.gstatic.com/s/exo2/v8/7cH1v4okm5zmbvwkAx_sfcEuiD8jF_WcPQ.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=7cH1v4okm5zmbvwkAx_sfcEuiD8jF_WcPA&skey=1b9a3dc5c6de9cce&v=v8#Exo2",
+      "woff2": "https://fonts.gstatic.com/s/exo2/v8/7cH1v4okm5zmbvwkAx_sfcEuiD8jF_WcOw.woff2",
+      "ttf": "https://fonts.gstatic.com/s/exo2/v8/7cH1v4okm5zmbvwkAx_sfcEuiD8jF_WcPg.ttf",
+      "errored": false
+    },
+    {
+      "id": "100italic",
+      "eot": "https://fonts.gstatic.com/s/exo2/v8/7cH3v4okm5zmbtYtMeA0FKq0Jjg2drF0fNC7.eot",
+      "fontFamily": "'Exo 2'",
+      "fontStyle": "italic",
+      "fontWeight": "100",
+      "woff": "https://fonts.gstatic.com/s/exo2/v8/7cH3v4okm5zmbtYtMeA0FKq0Jjg2drF0fNC5.woff",
+      "woff2": "https://fonts.gstatic.com/s/exo2/v8/7cH3v4okm5zmbtYtMeA0FKq0Jjg2drF0fNC_.woff2",
+      "ttf": "https://fonts.gstatic.com/s/exo2/v8/7cH3v4okm5zmbtYtMeA0FKq0Jjg2drF0fNC6.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=7cH3v4okm5zmbtYtMeA0FKq0Jjg2drF0fNC4&skey=5ebaaa86d2ddd87&v=v8#Exo2",
+      "errored": false
+    },
+    {
+      "id": "300italic",
+      "eot": "https://fonts.gstatic.com/s/exo2/v8/7cH3v4okm5zmbtYtMeA0FKq0Jjg2drEqfdC7.eot",
+      "fontFamily": "'Exo 2'",
+      "fontStyle": "italic",
+      "fontWeight": "300",
+      "woff2": "https://fonts.gstatic.com/s/exo2/v8/7cH3v4okm5zmbtYtMeA0FKq0Jjg2drEqfdC_.woff2",
+      "woff": "https://fonts.gstatic.com/s/exo2/v8/7cH3v4okm5zmbtYtMeA0FKq0Jjg2drEqfdC5.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=7cH3v4okm5zmbtYtMeA0FKq0Jjg2drEqfdC4&skey=5ebaaa86d2ddd87&v=v8#Exo2",
+      "ttf": "https://fonts.gstatic.com/s/exo2/v8/7cH3v4okm5zmbtYtMeA0FKq0Jjg2drEqfdC6.ttf",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "woff": "https://fonts.gstatic.com/s/exo2/v8/7cH3v4okm5zmbtYtMeA0FKq0Jjg2drF0fdC5.woff",
+      "fontFamily": "'Exo 2'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/exo2/v8/7cH3v4okm5zmbtYtMeA0FKq0Jjg2drF0fdC_.woff2",
+      "eot": "https://fonts.gstatic.com/s/exo2/v8/7cH3v4okm5zmbtYtMeA0FKq0Jjg2drF0fdC7.eot",
+      "ttf": "https://fonts.gstatic.com/s/exo2/v8/7cH3v4okm5zmbtYtMeA0FKq0Jjg2drF0fdC6.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=7cH3v4okm5zmbtYtMeA0FKq0Jjg2drF0fdC4&skey=5ebaaa86d2ddd87&v=v8#Exo2",
+      "errored": false
+    },
+    {
+      "id": "200italic",
+      "woff": "https://fonts.gstatic.com/s/exo2/v8/7cH3v4okm5zmbtYtMeA0FKq0Jjg2drH0fdC5.woff",
+      "fontFamily": "'Exo 2'",
+      "fontStyle": "italic",
+      "fontWeight": "200",
+      "ttf": "https://fonts.gstatic.com/s/exo2/v8/7cH3v4okm5zmbtYtMeA0FKq0Jjg2drH0fdC6.ttf",
+      "woff2": "https://fonts.gstatic.com/s/exo2/v8/7cH3v4okm5zmbtYtMeA0FKq0Jjg2drH0fdC_.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=7cH3v4okm5zmbtYtMeA0FKq0Jjg2drH0fdC4&skey=5ebaaa86d2ddd87&v=v8#Exo2",
+      "eot": "https://fonts.gstatic.com/s/exo2/v8/7cH3v4okm5zmbtYtMeA0FKq0Jjg2drH0fdC7.eot",
+      "errored": false
+    },
+    {
+      "id": "500italic",
+      "eot": "https://fonts.gstatic.com/s/exo2/v8/7cH3v4okm5zmbtYtMeA0FKq0Jjg2drFGfdC7.eot",
+      "fontFamily": "'Exo 2'",
+      "fontStyle": "italic",
+      "fontWeight": "500",
+      "woff": "https://fonts.gstatic.com/s/exo2/v8/7cH3v4okm5zmbtYtMeA0FKq0Jjg2drFGfdC5.woff",
+      "woff2": "https://fonts.gstatic.com/s/exo2/v8/7cH3v4okm5zmbtYtMeA0FKq0Jjg2drFGfdC_.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=7cH3v4okm5zmbtYtMeA0FKq0Jjg2drFGfdC4&skey=5ebaaa86d2ddd87&v=v8#Exo2",
+      "ttf": "https://fonts.gstatic.com/s/exo2/v8/7cH3v4okm5zmbtYtMeA0FKq0Jjg2drFGfdC6.ttf",
+      "errored": false
+    },
+    {
+      "id": "600italic",
+      "eot": "https://fonts.gstatic.com/s/exo2/v8/7cH3v4okm5zmbtYtMeA0FKq0Jjg2drGqetC7.eot",
+      "fontFamily": "'Exo 2'",
+      "fontStyle": "italic",
+      "fontWeight": "600",
+      "woff": "https://fonts.gstatic.com/s/exo2/v8/7cH3v4okm5zmbtYtMeA0FKq0Jjg2drGqetC5.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=7cH3v4okm5zmbtYtMeA0FKq0Jjg2drGqetC4&skey=5ebaaa86d2ddd87&v=v8#Exo2",
+      "ttf": "https://fonts.gstatic.com/s/exo2/v8/7cH3v4okm5zmbtYtMeA0FKq0Jjg2drGqetC6.ttf",
+      "woff2": "https://fonts.gstatic.com/s/exo2/v8/7cH3v4okm5zmbtYtMeA0FKq0Jjg2drGqetC_.woff2",
+      "errored": false
+    },
+    {
+      "id": "800italic",
+      "woff2": "https://fonts.gstatic.com/s/exo2/v8/7cH3v4okm5zmbtYtMeA0FKq0Jjg2drH0etC_.woff2",
+      "fontFamily": "'Exo 2'",
+      "fontStyle": "italic",
+      "fontWeight": "800",
+      "woff": "https://fonts.gstatic.com/s/exo2/v8/7cH3v4okm5zmbtYtMeA0FKq0Jjg2drH0etC5.woff",
+      "eot": "https://fonts.gstatic.com/s/exo2/v8/7cH3v4okm5zmbtYtMeA0FKq0Jjg2drH0etC7.eot",
+      "ttf": "https://fonts.gstatic.com/s/exo2/v8/7cH3v4okm5zmbtYtMeA0FKq0Jjg2drH0etC6.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=7cH3v4okm5zmbtYtMeA0FKq0Jjg2drH0etC4&skey=5ebaaa86d2ddd87&v=v8#Exo2",
+      "errored": false
+    },
+    {
+      "id": "700italic",
+      "eot": "https://fonts.gstatic.com/s/exo2/v8/7cH3v4okm5zmbtYtMeA0FKq0Jjg2drGTetC7.eot",
+      "fontFamily": "'Exo 2'",
+      "fontStyle": "italic",
+      "fontWeight": "700",
+      "svg": "https://fonts.gstatic.com/l/font?kit=7cH3v4okm5zmbtYtMeA0FKq0Jjg2drGTetC4&skey=5ebaaa86d2ddd87&v=v8#Exo2",
+      "ttf": "https://fonts.gstatic.com/s/exo2/v8/7cH3v4okm5zmbtYtMeA0FKq0Jjg2drGTetC6.ttf",
+      "woff": "https://fonts.gstatic.com/s/exo2/v8/7cH3v4okm5zmbtYtMeA0FKq0Jjg2drGTetC5.woff",
+      "woff2": "https://fonts.gstatic.com/s/exo2/v8/7cH3v4okm5zmbtYtMeA0FKq0Jjg2drGTetC_.woff2",
       "errored": false
     },
     {
       "id": "900italic",
-      "eot": "https://fonts.gstatic.com/s/exo2/v7/7cHtv4okm5zmbtYtE287wHs.eot",
+      "eot": "https://fonts.gstatic.com/s/exo2/v8/7cH3v4okm5zmbtYtMeA0FKq0Jjg2drHdetC7.eot",
       "fontFamily": "'Exo 2'",
       "fontStyle": "italic",
       "fontWeight": "900",
-      "woff2": "https://fonts.gstatic.com/s/exo2/v7/7cHtv4okm5zmbtYtE287wH8.woff2",
-      "local": [
-        "Exo 2 Black Italic",
-        "Exo2-BlackItalic"
-      ],
-      "woff": "https://fonts.gstatic.com/s/exo2/v7/7cHtv4okm5zmbtYtE287wHk.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=7cHtv4okm5zmbtYtE287wHg&skey=7219eb71082c03cb&v=v7#Exo2",
-      "ttf": "https://fonts.gstatic.com/s/exo2/v7/7cHtv4okm5zmbtYtE287wHo.ttf",
+      "woff": "https://fonts.gstatic.com/s/exo2/v8/7cH3v4okm5zmbtYtMeA0FKq0Jjg2drHdetC5.woff",
+      "woff2": "https://fonts.gstatic.com/s/exo2/v8/7cH3v4okm5zmbtYtMeA0FKq0Jjg2drHdetC_.woff2",
+      "ttf": "https://fonts.gstatic.com/s/exo2/v8/7cH3v4okm5zmbtYtMeA0FKq0Jjg2drHdetC6.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=7cH3v4okm5zmbtYtMeA0FKq0Jjg2drHdetC4&skey=5ebaaa86d2ddd87&v=v8#Exo2",
       "errored": false
     }
   ],
   "subsets": [
+    "cyrillic",
     "cyrillic-ext",
     "latin",
-    "cyrillic",
-    "latin-ext",
-    "vietnamese"
+    "vietnamese",
+    "latin-ext"
   ],
   "category": "sans-serif",
-  "version": "v7",
-  "lastModified": "2019-09-17",
-  "popularity": 62,
+  "version": "v8",
+  "lastModified": "2020-03-20",
+  "popularity": 60,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
+    "cyrillic": true,
     "cyrillic-ext": true,
     "latin": true,
-    "cyrillic": true,
-    "latin-ext": true,
-    "vietnamese": true
+    "vietnamese": true,
+    "latin-ext": true
   },
-  "storeID": "vietnamese_latin-ext_cyrillic_latin_cyrillic-ext"
+  "storeID": "latin-ext_vietnamese_latin_cyrillic-ext_cyrillic"
 }
