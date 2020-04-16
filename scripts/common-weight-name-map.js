@@ -1,33 +1,24 @@
 module.exports = (numericWeight) => {
   switch (numericWeight) {
     case '100':
-      return `Thin`
-      break;
+      return 'Thin'
     case '200':
-      return `Extra Light`
-      break;
+      return 'Extra Light'
     case '300':
-      return `Light`
-      break;
+      return 'Light'
     case '400':
-      return `Regular`
-      break;
+      return 'Regular'
     case '500':
-      return `Medium`
-      break;
+      return 'Medium'
     case '600':
-      return `SemiBold`
-      break;
+      return 'SemiBold'
     case '700':
-      return `Bold`
-      break;
+      return 'Bold'
     case '800':
-      return `ExtraBold`
-      break;
+      return 'ExtraBold'
     case '900':
-      return `Black`
-      break;
+      return 'Black'
     default:
-      return `normal`
+      return 'normal'
   }
 }
