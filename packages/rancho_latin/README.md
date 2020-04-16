@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Rancho typeface
 require('@openfonts/rancho_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/rancho_latin/index.css";
+```

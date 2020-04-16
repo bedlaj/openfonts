@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Spirax typeface
 require('@openfonts/spirax_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/spirax_latin/index.css";
+```

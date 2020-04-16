@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Open Sans typeface
 require('@openfonts/open-sans_cyrillic-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/open-sans_cyrillic-ext/index.css";
+```

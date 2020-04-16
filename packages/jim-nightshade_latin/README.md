@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Jim Nightshade typeface
 require('@openfonts/jim-nightshade_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/jim-nightshade_latin/index.css";
+```

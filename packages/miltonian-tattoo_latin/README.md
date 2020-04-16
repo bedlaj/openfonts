@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Miltonian Tattoo typeface
 require('@openfonts/miltonian-tattoo_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/miltonian-tattoo_latin/index.css";
+```

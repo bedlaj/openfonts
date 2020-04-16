@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Shanti typeface
 require('@openfonts/shanti_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/shanti_latin/index.css";
+```

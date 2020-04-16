@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Harmattan typeface
 require('@openfonts/harmattan_arabic')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/harmattan_arabic/index.css";
+```

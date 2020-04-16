@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load PT Sans Narrow typeface
 require('@openfonts/pt-sans-narrow_cyrillic-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/pt-sans-narrow_cyrillic-ext/index.css";
+```

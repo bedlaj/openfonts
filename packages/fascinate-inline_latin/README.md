@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Fascinate Inline typeface
 require('@openfonts/fascinate-inline_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/fascinate-inline_latin/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Buenard typeface
 require('@openfonts/buenard_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/buenard_latin-ext/index.css";
+```

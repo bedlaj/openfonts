@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Inria Sans typeface
 require('@openfonts/inria-sans_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/inria-sans_latin-ext/index.css";
+```

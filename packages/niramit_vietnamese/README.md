@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Niramit typeface
 require('@openfonts/niramit_vietnamese')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/niramit_vietnamese/index.css";
+```

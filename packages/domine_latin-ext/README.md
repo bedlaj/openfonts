@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Domine typeface
 require('@openfonts/domine_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/domine_latin-ext/index.css";
+```

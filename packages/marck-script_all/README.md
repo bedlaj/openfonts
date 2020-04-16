@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Marck Script typeface
 require('@openfonts/marck-script_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/marck-script_all/index.css";
+```

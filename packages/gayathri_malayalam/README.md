@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Gayathri typeface
 require('@openfonts/gayathri_malayalam')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/gayathri_malayalam/index.css";
+```

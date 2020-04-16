@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Stint Ultra Condensed typeface
 require('@openfonts/stint-ultra-condensed_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/stint-ultra-condensed_latin/index.css";
+```

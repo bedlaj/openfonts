@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Telex typeface
 require('@openfonts/telex_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/telex_latin/index.css";
+```

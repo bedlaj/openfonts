@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Manuale typeface
 require('@openfonts/manuale_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/manuale_latin-ext/index.css";
+```

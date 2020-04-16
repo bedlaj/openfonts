@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Scada typeface
 require('@openfonts/scada_cyrillic-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/scada_cyrillic-ext/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Overpass typeface
 require('@openfonts/overpass_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/overpass_latin/index.css";
+```

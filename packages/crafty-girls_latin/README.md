@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Crafty Girls typeface
 require('@openfonts/crafty-girls_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/crafty-girls_latin/index.css";
+```

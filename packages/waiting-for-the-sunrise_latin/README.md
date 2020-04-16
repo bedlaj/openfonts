@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Waiting for the Sunrise typeface
 require('@openfonts/waiting-for-the-sunrise_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/waiting-for-the-sunrise_latin/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Tomorrow typeface
 require('@openfonts/tomorrow_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/tomorrow_latin-ext/index.css";
+```

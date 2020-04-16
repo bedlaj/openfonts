@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Mystery Quest typeface
 require('@openfonts/mystery-quest_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/mystery-quest_latin-ext/index.css";
+```

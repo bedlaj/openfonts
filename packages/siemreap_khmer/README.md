@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Siemreap typeface
 require('@openfonts/siemreap_khmer')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/siemreap_khmer/index.css";
+```

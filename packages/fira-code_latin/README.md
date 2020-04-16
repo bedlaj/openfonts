@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Fira Code typeface
 require('@openfonts/fira-code_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/fira-code_latin/index.css";
+```

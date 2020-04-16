@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Gidugu typeface
 require('@openfonts/gidugu_telugu')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/gidugu_telugu/index.css";
+```

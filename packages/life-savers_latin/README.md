@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Life Savers typeface
 require('@openfonts/life-savers_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/life-savers_latin/index.css";
+```

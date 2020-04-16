@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load PT Serif Caption typeface
 require('@openfonts/pt-serif-caption_cyrillic-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/pt-serif-caption_cyrillic-ext/index.css";
+```

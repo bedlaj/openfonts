@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Coiny typeface
 require('@openfonts/coiny_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/coiny_all/index.css";
+```

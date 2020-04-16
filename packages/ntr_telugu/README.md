@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load NTR typeface
 require('@openfonts/ntr_telugu')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/ntr_telugu/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Maven Pro typeface
 require('@openfonts/maven-pro_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/maven-pro_latin/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Dokdo typeface
 require('@openfonts/dokdo_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/dokdo_latin/index.css";
+```

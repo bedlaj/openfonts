@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Elsie typeface
 require('@openfonts/elsie_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/elsie_latin/index.css";
+```

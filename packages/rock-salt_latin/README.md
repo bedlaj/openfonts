@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Rock Salt typeface
 require('@openfonts/rock-salt_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/rock-salt_latin/index.css";
+```

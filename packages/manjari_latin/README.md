@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Manjari typeface
 require('@openfonts/manjari_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/manjari_latin/index.css";
+```

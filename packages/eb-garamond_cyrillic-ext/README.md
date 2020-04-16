@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load EB Garamond typeface
 require('@openfonts/eb-garamond_cyrillic-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/eb-garamond_cyrillic-ext/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Covered By Your Grace typeface
 require('@openfonts/covered-by-your-grace_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/covered-by-your-grace_latin/index.css";
+```

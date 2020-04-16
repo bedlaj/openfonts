@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Bellota typeface
 require('@openfonts/bellota_vietnamese')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/bellota_vietnamese/index.css";
+```

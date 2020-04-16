@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Irish Grover typeface
 require('@openfonts/irish-grover_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/irish-grover_latin/index.css";
+```

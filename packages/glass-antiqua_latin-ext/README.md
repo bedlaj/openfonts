@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Glass Antiqua typeface
 require('@openfonts/glass-antiqua_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/glass-antiqua_latin-ext/index.css";
+```

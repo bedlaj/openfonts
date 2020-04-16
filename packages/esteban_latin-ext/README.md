@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Esteban typeface
 require('@openfonts/esteban_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/esteban_latin-ext/index.css";
+```

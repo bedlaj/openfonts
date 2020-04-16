@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Signika Negative typeface
 require('@openfonts/signika-negative_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/signika-negative_latin/index.css";
+```

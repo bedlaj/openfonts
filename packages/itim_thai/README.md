@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Itim typeface
 require('@openfonts/itim_thai')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/itim_thai/index.css";
+```

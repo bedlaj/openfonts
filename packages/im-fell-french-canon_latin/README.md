@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load IM Fell French Canon typeface
 require('@openfonts/im-fell-french-canon_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/im-fell-french-canon_latin/index.css";
+```

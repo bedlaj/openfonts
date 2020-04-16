@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Smokum typeface
 require('@openfonts/smokum_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/smokum_latin/index.css";
+```

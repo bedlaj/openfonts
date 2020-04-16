@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Risque typeface
 require('@openfonts/risque_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/risque_latin/index.css";
+```

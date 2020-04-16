@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Nanum Myeongjo typeface
 require('@openfonts/nanum-myeongjo_korean')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/nanum-myeongjo_korean/index.css";
+```

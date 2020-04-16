@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Lilita One typeface
 require('@openfonts/lilita-one_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/lilita-one_latin-ext/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Devonshire typeface
 require('@openfonts/devonshire_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/devonshire_latin/index.css";
+```

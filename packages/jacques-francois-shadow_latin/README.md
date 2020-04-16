@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Jacques Francois Shadow typeface
 require('@openfonts/jacques-francois-shadow_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/jacques-francois-shadow_latin/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Bree Serif typeface
 require('@openfonts/bree-serif_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/bree-serif_latin-ext/index.css";
+```

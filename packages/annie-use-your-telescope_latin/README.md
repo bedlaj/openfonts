@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Annie Use Your Telescope typeface
 require('@openfonts/annie-use-your-telescope_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/annie-use-your-telescope_latin/index.css";
+```

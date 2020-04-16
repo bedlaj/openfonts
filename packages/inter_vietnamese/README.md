@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Inter typeface
 require('@openfonts/inter_vietnamese')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/inter_vietnamese/index.css";
+```

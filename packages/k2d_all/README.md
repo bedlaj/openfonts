@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load K2D typeface
 require('@openfonts/k2d_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/k2d_all/index.css";
+```

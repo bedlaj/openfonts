@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Lacquer typeface
 require('@openfonts/lacquer_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/lacquer_latin/index.css";
+```

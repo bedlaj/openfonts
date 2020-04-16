@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Ramabhadra typeface
 require('@openfonts/ramabhadra_telugu')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/ramabhadra_telugu/index.css";
+```

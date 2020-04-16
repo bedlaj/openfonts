@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Sintony typeface
 require('@openfonts/sintony_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/sintony_latin/index.css";
+```

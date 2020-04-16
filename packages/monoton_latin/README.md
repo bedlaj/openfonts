@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Monoton typeface
 require('@openfonts/monoton_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/monoton_latin/index.css";
+```

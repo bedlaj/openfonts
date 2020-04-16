@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Share Tech Mono typeface
 require('@openfonts/share-tech-mono_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/share-tech-mono_latin/index.css";
+```

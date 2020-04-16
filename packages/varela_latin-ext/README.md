@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Varela typeface
 require('@openfonts/varela_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/varela_latin-ext/index.css";
+```

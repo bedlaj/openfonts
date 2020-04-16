@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Arya typeface
 require('@openfonts/arya_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/arya_latin-ext/index.css";
+```

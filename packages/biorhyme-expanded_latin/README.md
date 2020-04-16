@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load BioRhyme Expanded typeface
 require('@openfonts/biorhyme-expanded_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/biorhyme-expanded_latin/index.css";
+```

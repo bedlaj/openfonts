@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Gabriela typeface
 require('@openfonts/gabriela_cyrillic-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/gabriela_cyrillic-ext/index.css";
+```

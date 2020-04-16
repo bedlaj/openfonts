@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Amatic SC typeface
 require('@openfonts/amatic-sc_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/amatic-sc_latin-ext/index.css";
+```

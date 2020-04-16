@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Ultra typeface
 require('@openfonts/ultra_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/ultra_latin/index.css";
+```

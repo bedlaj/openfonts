@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Passion One typeface
 require('@openfonts/passion-one_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/passion-one_latin/index.css";
+```

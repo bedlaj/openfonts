@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load ABeeZee typeface
 require('@openfonts/abeezee_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/abeezee_latin/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Vollkorn SC typeface
 require('@openfonts/vollkorn-sc_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/vollkorn-sc_all/index.css";
+```

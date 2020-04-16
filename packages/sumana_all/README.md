@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Sumana typeface
 require('@openfonts/sumana_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/sumana_all/index.css";
+```

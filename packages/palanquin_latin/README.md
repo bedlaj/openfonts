@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Palanquin typeface
 require('@openfonts/palanquin_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/palanquin_latin/index.css";
+```

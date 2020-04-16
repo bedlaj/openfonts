@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Almarai typeface
 require('@openfonts/almarai_arabic')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/almarai_arabic/index.css";
+```

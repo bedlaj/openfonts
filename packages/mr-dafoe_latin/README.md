@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Mr Dafoe typeface
 require('@openfonts/mr-dafoe_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/mr-dafoe_latin/index.css";
+```

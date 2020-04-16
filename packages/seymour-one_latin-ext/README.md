@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Seymour One typeface
 require('@openfonts/seymour-one_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/seymour-one_latin-ext/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Noto Serif SC typeface
 require('@openfonts/noto-serif-sc_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/noto-serif-sc_latin/index.css";
+```

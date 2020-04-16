@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Open Sans Condensed typeface
 require('@openfonts/open-sans-condensed_greek')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/open-sans-condensed_greek/index.css";
+```

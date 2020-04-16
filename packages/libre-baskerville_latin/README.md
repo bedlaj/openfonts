@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Libre Baskerville typeface
 require('@openfonts/libre-baskerville_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/libre-baskerville_latin/index.css";
+```

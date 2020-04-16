@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Montserrat typeface
 require('@openfonts/montserrat_cyrillic')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/montserrat_cyrillic/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Goudy Bookletter 1911 typeface
 require('@openfonts/goudy-bookletter-1911_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/goudy-bookletter-1911_latin/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Metamorphous typeface
 require('@openfonts/metamorphous_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/metamorphous_latin-ext/index.css";
+```

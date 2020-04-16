@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Trade Winds typeface
 require('@openfonts/trade-winds_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/trade-winds_latin/index.css";
+```

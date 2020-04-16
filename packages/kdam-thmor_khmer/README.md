@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Kdam Thmor typeface
 require('@openfonts/kdam-thmor_khmer')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/kdam-thmor_khmer/index.css";
+```

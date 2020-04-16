@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Cardo typeface
 require('@openfonts/cardo_greek')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/cardo_greek/index.css";
+```

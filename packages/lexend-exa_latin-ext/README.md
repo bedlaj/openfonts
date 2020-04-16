@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Lexend Exa typeface
 require('@openfonts/lexend-exa_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/lexend-exa_latin-ext/index.css";
+```

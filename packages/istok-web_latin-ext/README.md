@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Istok Web typeface
 require('@openfonts/istok-web_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/istok-web_latin-ext/index.css";
+```

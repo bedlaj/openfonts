@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Sawarabi Gothic typeface
 require('@openfonts/sawarabi-gothic_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/sawarabi-gothic_latin/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Autour One typeface
 require('@openfonts/autour-one_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/autour-one_latin/index.css";
+```

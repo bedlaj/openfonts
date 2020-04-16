@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Teko typeface
 require('@openfonts/teko_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/teko_all/index.css";
+```

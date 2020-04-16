@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Kumar One typeface
 require('@openfonts/kumar-one_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/kumar-one_latin-ext/index.css";
+```

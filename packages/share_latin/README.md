@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Share typeface
 require('@openfonts/share_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/share_latin/index.css";
+```

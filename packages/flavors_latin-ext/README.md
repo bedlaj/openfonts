@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Flavors typeface
 require('@openfonts/flavors_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/flavors_latin-ext/index.css";
+```

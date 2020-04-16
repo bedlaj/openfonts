@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Geostar Fill typeface
 require('@openfonts/geostar-fill_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/geostar-fill_latin/index.css";
+```

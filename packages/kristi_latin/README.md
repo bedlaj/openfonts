@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Kristi typeface
 require('@openfonts/kristi_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/kristi_latin/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Ceviche One typeface
 require('@openfonts/ceviche-one_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/ceviche-one_latin/index.css";
+```

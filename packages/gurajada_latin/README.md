@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Gurajada typeface
 require('@openfonts/gurajada_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/gurajada_latin/index.css";
+```

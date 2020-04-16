@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Londrina Shadow typeface
 require('@openfonts/londrina-shadow_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/londrina-shadow_latin/index.css";
+```

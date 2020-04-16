@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Long Cang typeface
 require('@openfonts/long-cang_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/long-cang_latin/index.css";
+```

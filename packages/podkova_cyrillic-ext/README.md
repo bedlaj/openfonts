@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Podkova typeface
 require('@openfonts/podkova_cyrillic-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/podkova_cyrillic-ext/index.css";
+```

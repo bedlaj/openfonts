@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Rozha One typeface
 require('@openfonts/rozha-one_devanagari')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/rozha-one_devanagari/index.css";
+```

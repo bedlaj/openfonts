@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Maitree typeface
 require('@openfonts/maitree_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/maitree_latin/index.css";
+```

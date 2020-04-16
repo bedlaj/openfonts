@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Wire One typeface
 require('@openfonts/wire-one_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/wire-one_latin/index.css";
+```

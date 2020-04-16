@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Architects Daughter typeface
 require('@openfonts/architects-daughter_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/architects-daughter_latin/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Supermercado One typeface
 require('@openfonts/supermercado-one_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/supermercado-one_latin/index.css";
+```

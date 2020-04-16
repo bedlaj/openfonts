@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Sorts Mill Goudy typeface
 require('@openfonts/sorts-mill-goudy_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/sorts-mill-goudy_latin/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Saira Condensed typeface
 require('@openfonts/saira-condensed_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/saira-condensed_all/index.css";
+```

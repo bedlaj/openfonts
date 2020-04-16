@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Abel typeface
 require('@openfonts/abel_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/abel_latin/index.css";
+```

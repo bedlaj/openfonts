@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Emblema One typeface
 require('@openfonts/emblema-one_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/emblema-one_latin-ext/index.css";
+```

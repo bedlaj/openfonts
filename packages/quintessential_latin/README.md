@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Quintessential typeface
 require('@openfonts/quintessential_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/quintessential_latin/index.css";
+```

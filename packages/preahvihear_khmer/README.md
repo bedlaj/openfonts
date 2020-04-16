@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Preahvihear typeface
 require('@openfonts/preahvihear_khmer')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/preahvihear_khmer/index.css";
+```

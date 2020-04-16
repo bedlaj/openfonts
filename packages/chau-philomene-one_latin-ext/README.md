@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Chau Philomene One typeface
 require('@openfonts/chau-philomene-one_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/chau-philomene-one_latin-ext/index.css";
+```

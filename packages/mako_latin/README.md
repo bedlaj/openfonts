@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Mako typeface
 require('@openfonts/mako_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/mako_latin/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Jaldi typeface
 require('@openfonts/jaldi_devanagari')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/jaldi_devanagari/index.css";
+```

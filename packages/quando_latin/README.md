@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Quando typeface
 require('@openfonts/quando_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/quando_latin/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Brawler typeface
 require('@openfonts/brawler_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/brawler_latin/index.css";
+```

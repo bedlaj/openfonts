@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Barriecito typeface
 require('@openfonts/barriecito_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/barriecito_latin-ext/index.css";
+```

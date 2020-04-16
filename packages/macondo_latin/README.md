@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Macondo typeface
 require('@openfonts/macondo_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/macondo_latin/index.css";
+```

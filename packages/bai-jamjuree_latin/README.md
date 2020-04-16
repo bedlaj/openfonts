@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Bai Jamjuree typeface
 require('@openfonts/bai-jamjuree_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/bai-jamjuree_latin/index.css";
+```

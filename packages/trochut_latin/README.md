@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Trochut typeface
 require('@openfonts/trochut_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/trochut_latin/index.css";
+```

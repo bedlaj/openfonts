@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Major Mono Display typeface
 require('@openfonts/major-mono-display_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/major-mono-display_latin/index.css";
+```

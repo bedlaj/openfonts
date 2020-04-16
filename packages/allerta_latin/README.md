@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Allerta typeface
 require('@openfonts/allerta_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/allerta_latin/index.css";
+```

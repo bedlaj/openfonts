@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Barlow typeface
 require('@openfonts/barlow_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/barlow_latin/index.css";
+```

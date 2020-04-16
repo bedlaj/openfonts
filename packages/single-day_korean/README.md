@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Single Day typeface
 require('@openfonts/single-day_korean')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/single-day_korean/index.css";
+```

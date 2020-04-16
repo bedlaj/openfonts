@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Ledger typeface
 require('@openfonts/ledger_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/ledger_latin-ext/index.css";
+```

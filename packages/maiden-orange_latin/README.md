@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Maiden Orange typeface
 require('@openfonts/maiden-orange_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/maiden-orange_latin/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Julius Sans One typeface
 require('@openfonts/julius-sans-one_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/julius-sans-one_latin/index.css";
+```

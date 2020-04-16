@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Mrs Saint Delafield typeface
 require('@openfonts/mrs-saint-delafield_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/mrs-saint-delafield_latin-ext/index.css";
+```

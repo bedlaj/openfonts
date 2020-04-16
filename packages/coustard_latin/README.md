@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Coustard typeface
 require('@openfonts/coustard_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/coustard_latin/index.css";
+```

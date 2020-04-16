@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Amethysta typeface
 require('@openfonts/amethysta_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/amethysta_latin/index.css";
+```

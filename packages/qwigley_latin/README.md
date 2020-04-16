@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Qwigley typeface
 require('@openfonts/qwigley_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/qwigley_latin/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Cormorant Infant typeface
 require('@openfonts/cormorant-infant_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/cormorant-infant_latin-ext/index.css";
+```

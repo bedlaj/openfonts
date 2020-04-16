@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Arsenal typeface
 require('@openfonts/arsenal_cyrillic')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/arsenal_cyrillic/index.css";
+```

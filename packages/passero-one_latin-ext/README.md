@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Passero One typeface
 require('@openfonts/passero-one_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/passero-one_latin-ext/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Fredericka the Great typeface
 require('@openfonts/fredericka-the-great_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/fredericka-the-great_latin-ext/index.css";
+```

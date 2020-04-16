@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load David Libre typeface
 require('@openfonts/david-libre_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/david-libre_all/index.css";
+```

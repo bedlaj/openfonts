@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Inder typeface
 require('@openfonts/inder_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/inder_latin-ext/index.css";
+```

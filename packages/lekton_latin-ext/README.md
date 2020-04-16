@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Lekton typeface
 require('@openfonts/lekton_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/lekton_latin-ext/index.css";
+```

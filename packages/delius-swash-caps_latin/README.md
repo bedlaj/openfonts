@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Delius Swash Caps typeface
 require('@openfonts/delius-swash-caps_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/delius-swash-caps_latin/index.css";
+```

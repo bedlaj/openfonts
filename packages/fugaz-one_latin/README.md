@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Fugaz One typeface
 require('@openfonts/fugaz-one_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/fugaz-one_latin/index.css";
+```

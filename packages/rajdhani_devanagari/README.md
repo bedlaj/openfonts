@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Rajdhani typeface
 require('@openfonts/rajdhani_devanagari')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/rajdhani_devanagari/index.css";
+```

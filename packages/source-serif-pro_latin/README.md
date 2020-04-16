@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Source Serif Pro typeface
 require('@openfonts/source-serif-pro_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/source-serif-pro_latin/index.css";
+```

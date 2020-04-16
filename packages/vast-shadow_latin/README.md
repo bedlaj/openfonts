@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Vast Shadow typeface
 require('@openfonts/vast-shadow_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/vast-shadow_latin/index.css";
+```

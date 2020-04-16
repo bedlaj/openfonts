@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Lustria typeface
 require('@openfonts/lustria_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/lustria_latin/index.css";
+```

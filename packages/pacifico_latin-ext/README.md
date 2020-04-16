@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Pacifico typeface
 require('@openfonts/pacifico_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/pacifico_latin-ext/index.css";
+```

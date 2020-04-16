@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Hind Guntur typeface
 require('@openfonts/hind-guntur_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/hind-guntur_all/index.css";
+```

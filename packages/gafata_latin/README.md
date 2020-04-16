@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Gafata typeface
 require('@openfonts/gafata_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/gafata_latin/index.css";
+```

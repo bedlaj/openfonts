@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Lexend Mega typeface
 require('@openfonts/lexend-mega_vietnamese')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/lexend-mega_vietnamese/index.css";
+```

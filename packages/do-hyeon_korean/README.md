@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Do Hyeon typeface
 require('@openfonts/do-hyeon_korean')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/do-hyeon_korean/index.css";
+```

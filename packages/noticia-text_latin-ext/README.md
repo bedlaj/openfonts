@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Noticia Text typeface
 require('@openfonts/noticia-text_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/noticia-text_latin-ext/index.css";
+```

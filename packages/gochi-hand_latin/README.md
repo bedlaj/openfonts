@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Gochi Hand typeface
 require('@openfonts/gochi-hand_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/gochi-hand_latin/index.css";
+```

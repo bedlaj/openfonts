@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Stardos Stencil typeface
 require('@openfonts/stardos-stencil_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/stardos-stencil_latin/index.css";
+```

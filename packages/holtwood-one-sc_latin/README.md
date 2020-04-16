@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Holtwood One SC typeface
 require('@openfonts/holtwood-one-sc_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/holtwood-one-sc_latin/index.css";
+```

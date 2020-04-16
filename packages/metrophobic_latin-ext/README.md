@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Metrophobic typeface
 require('@openfonts/metrophobic_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/metrophobic_latin-ext/index.css";
+```

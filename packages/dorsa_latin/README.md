@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Dorsa typeface
 require('@openfonts/dorsa_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/dorsa_latin/index.css";
+```

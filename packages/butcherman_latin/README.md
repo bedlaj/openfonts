@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Butcherman typeface
 require('@openfonts/butcherman_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/butcherman_latin/index.css";
+```

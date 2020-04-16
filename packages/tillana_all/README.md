@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Tillana typeface
 require('@openfonts/tillana_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/tillana_all/index.css";
+```

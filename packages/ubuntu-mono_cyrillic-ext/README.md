@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Ubuntu Mono typeface
 require('@openfonts/ubuntu-mono_cyrillic-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/ubuntu-mono_cyrillic-ext/index.css";
+```

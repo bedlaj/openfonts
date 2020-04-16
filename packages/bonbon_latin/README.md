@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Bonbon typeface
 require('@openfonts/bonbon_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/bonbon_latin/index.css";
+```

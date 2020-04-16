@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Enriqueta typeface
 require('@openfonts/enriqueta_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/enriqueta_latin-ext/index.css";
+```

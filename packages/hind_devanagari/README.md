@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Hind typeface
 require('@openfonts/hind_devanagari')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/hind_devanagari/index.css";
+```

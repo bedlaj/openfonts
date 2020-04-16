@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Mada typeface
 require('@openfonts/mada_arabic')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/mada_arabic/index.css";
+```

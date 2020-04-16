@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Averia Libre typeface
 require('@openfonts/averia-libre_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/averia-libre_latin/index.css";
+```

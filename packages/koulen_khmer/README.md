@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Koulen typeface
 require('@openfonts/koulen_khmer')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/koulen_khmer/index.css";
+```

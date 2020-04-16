@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Diplomata typeface
 require('@openfonts/diplomata_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/diplomata_latin-ext/index.css";
+```

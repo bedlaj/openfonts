@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load IBM Plex Serif typeface
 require('@openfonts/ibm-plex-serif_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/ibm-plex-serif_latin-ext/index.css";
+```

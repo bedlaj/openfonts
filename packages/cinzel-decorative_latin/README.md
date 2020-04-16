@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Cinzel Decorative typeface
 require('@openfonts/cinzel-decorative_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/cinzel-decorative_latin/index.css";
+```

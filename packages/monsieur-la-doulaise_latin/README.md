@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Monsieur La Doulaise typeface
 require('@openfonts/monsieur-la-doulaise_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/monsieur-la-doulaise_latin/index.css";
+```

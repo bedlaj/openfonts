@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Permanent Marker typeface
 require('@openfonts/permanent-marker_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/permanent-marker_latin/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Cutive typeface
 require('@openfonts/cutive_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/cutive_latin/index.css";
+```

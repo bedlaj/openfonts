@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Expletus Sans typeface
 require('@openfonts/expletus-sans_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/expletus-sans_latin/index.css";
+```

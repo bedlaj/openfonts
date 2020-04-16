@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Poor Story typeface
 require('@openfonts/poor-story_korean')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/poor-story_korean/index.css";
+```

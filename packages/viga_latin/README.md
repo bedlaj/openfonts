@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Viga typeface
 require('@openfonts/viga_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/viga_latin/index.css";
+```

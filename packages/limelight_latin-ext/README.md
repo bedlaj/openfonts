@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Limelight typeface
 require('@openfonts/limelight_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/limelight_latin-ext/index.css";
+```

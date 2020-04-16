@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Over the Rainbow typeface
 require('@openfonts/over-the-rainbow_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/over-the-rainbow_latin/index.css";
+```

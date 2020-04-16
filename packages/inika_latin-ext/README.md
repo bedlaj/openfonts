@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Inika typeface
 require('@openfonts/inika_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/inika_latin-ext/index.css";
+```

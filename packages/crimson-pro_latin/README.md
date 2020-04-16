@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Crimson Pro typeface
 require('@openfonts/crimson-pro_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/crimson-pro_latin/index.css";
+```

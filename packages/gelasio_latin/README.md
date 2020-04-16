@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Gelasio typeface
 require('@openfonts/gelasio_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/gelasio_latin/index.css";
+```

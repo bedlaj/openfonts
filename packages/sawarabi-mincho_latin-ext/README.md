@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Sawarabi Mincho typeface
 require('@openfonts/sawarabi-mincho_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/sawarabi-mincho_latin-ext/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Faustina typeface
 require('@openfonts/faustina_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/faustina_latin-ext/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Asset typeface
 require('@openfonts/asset_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/asset_latin/index.css";
+```

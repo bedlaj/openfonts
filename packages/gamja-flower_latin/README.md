@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Gamja Flower typeface
 require('@openfonts/gamja-flower_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/gamja-flower_latin/index.css";
+```

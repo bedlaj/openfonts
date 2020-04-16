@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Meera Inimai typeface
 require('@openfonts/meera-inimai_tamil')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/meera-inimai_tamil/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Marvel typeface
 require('@openfonts/marvel_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/marvel_latin/index.css";
+```

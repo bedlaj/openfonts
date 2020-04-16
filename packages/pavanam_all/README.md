@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Pavanam typeface
 require('@openfonts/pavanam_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/pavanam_all/index.css";
+```

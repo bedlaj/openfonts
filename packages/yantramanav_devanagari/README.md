@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Yantramanav typeface
 require('@openfonts/yantramanav_devanagari')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/yantramanav_devanagari/index.css";
+```

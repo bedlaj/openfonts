@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Yeon Sung typeface
 require('@openfonts/yeon-sung_korean')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/yeon-sung_korean/index.css";
+```

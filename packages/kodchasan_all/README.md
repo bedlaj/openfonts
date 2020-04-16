@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Kodchasan typeface
 require('@openfonts/kodchasan_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/kodchasan_all/index.css";
+```

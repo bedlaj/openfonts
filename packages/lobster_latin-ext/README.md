@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Lobster typeface
 require('@openfonts/lobster_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/lobster_latin-ext/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Vampiro One typeface
 require('@openfonts/vampiro-one_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/vampiro-one_latin-ext/index.css";
+```

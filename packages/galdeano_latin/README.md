@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Galdeano typeface
 require('@openfonts/galdeano_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/galdeano_latin/index.css";
+```

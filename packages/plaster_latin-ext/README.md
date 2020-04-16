@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Plaster typeface
 require('@openfonts/plaster_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/plaster_latin-ext/index.css";
+```

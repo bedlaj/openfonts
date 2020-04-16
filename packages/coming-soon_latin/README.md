@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Coming Soon typeface
 require('@openfonts/coming-soon_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/coming-soon_latin/index.css";
+```

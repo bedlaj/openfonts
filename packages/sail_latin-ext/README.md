@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Sail typeface
 require('@openfonts/sail_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/sail_latin-ext/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Alegreya Sans typeface
 require('@openfonts/alegreya-sans_greek-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/alegreya-sans_greek-ext/index.css";
+```

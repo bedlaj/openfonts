@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Geo typeface
 require('@openfonts/geo_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/geo_latin/index.css";
+```

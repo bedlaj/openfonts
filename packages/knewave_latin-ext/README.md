@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Knewave typeface
 require('@openfonts/knewave_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/knewave_latin-ext/index.css";
+```

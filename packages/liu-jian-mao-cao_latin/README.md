@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Liu Jian Mao Cao typeface
 require('@openfonts/liu-jian-mao-cao_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/liu-jian-mao-cao_latin/index.css";
+```

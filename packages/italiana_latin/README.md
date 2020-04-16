@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Italiana typeface
 require('@openfonts/italiana_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/italiana_latin/index.css";
+```

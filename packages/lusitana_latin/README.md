@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Lusitana typeface
 require('@openfonts/lusitana_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/lusitana_latin/index.css";
+```

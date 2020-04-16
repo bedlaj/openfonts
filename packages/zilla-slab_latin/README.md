@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Zilla Slab typeface
 require('@openfonts/zilla-slab_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/zilla-slab_latin/index.css";
+```

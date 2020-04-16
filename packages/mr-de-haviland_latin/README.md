@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Mr De Haviland typeface
 require('@openfonts/mr-de-haviland_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/mr-de-haviland_latin/index.css";
+```

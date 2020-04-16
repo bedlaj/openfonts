@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Bungee Shade typeface
 require('@openfonts/bungee-shade_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/bungee-shade_latin/index.css";
+```

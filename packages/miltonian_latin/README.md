@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Miltonian typeface
 require('@openfonts/miltonian_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/miltonian_latin/index.css";
+```

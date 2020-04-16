@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Public Sans typeface
 require('@openfonts/public-sans_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/public-sans_latin/index.css";
+```

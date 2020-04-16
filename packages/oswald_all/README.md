@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Oswald typeface
 require('@openfonts/oswald_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/oswald_all/index.css";
+```

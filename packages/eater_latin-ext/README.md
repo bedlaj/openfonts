@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Eater typeface
 require('@openfonts/eater_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/eater_latin-ext/index.css";
+```

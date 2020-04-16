@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Mansalva typeface
 require('@openfonts/mansalva_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/mansalva_latin/index.css";
+```

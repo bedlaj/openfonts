@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Mogra typeface
 require('@openfonts/mogra_gujarati')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/mogra_gujarati/index.css";
+```

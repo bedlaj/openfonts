@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Bitter typeface
 require('@openfonts/bitter_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/bitter_latin/index.css";
+```

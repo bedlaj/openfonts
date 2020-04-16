@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Righteous typeface
 require('@openfonts/righteous_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/righteous_latin-ext/index.css";
+```

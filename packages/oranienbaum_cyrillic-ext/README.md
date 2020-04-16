@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Oranienbaum typeface
 require('@openfonts/oranienbaum_cyrillic-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/oranienbaum_cyrillic-ext/index.css";
+```

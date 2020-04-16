@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Abhaya Libre typeface
 require('@openfonts/abhaya-libre_sinhala')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/abhaya-libre_sinhala/index.css";
+```

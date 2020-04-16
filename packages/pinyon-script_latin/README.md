@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Pinyon Script typeface
 require('@openfonts/pinyon-script_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/pinyon-script_latin/index.css";
+```

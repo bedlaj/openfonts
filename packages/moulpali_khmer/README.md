@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Moulpali typeface
 require('@openfonts/moulpali_khmer')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/moulpali_khmer/index.css";
+```

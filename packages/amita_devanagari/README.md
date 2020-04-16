@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Amita typeface
 require('@openfonts/amita_devanagari')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/amita_devanagari/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Port Lligat Sans typeface
 require('@openfonts/port-lligat-sans_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/port-lligat-sans_latin/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Zeyada typeface
 require('@openfonts/zeyada_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/zeyada_latin/index.css";
+```

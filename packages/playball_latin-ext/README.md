@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Playball typeface
 require('@openfonts/playball_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/playball_latin-ext/index.css";
+```

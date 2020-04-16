@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Bokor typeface
 require('@openfonts/bokor_khmer')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/bokor_khmer/index.css";
+```

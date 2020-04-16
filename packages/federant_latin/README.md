@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Federant typeface
 require('@openfonts/federant_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/federant_latin/index.css";
+```

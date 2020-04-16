@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load MedievalSharp typeface
 require('@openfonts/medievalsharp_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/medievalsharp_latin-ext/index.css";
+```

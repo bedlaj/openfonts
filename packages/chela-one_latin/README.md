@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Chela One typeface
 require('@openfonts/chela-one_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/chela-one_latin/index.css";
+```

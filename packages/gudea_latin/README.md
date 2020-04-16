@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Gudea typeface
 require('@openfonts/gudea_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/gudea_latin/index.css";
+```

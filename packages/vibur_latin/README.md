@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Vibur typeface
 require('@openfonts/vibur_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/vibur_latin/index.css";
+```

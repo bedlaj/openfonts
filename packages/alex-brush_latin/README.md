@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Alex Brush typeface
 require('@openfonts/alex-brush_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/alex-brush_latin/index.css";
+```

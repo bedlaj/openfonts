@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Josefin Sans typeface
 require('@openfonts/josefin-sans_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/josefin-sans_all/index.css";
+```

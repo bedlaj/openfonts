@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Sree Krushnadevaraya typeface
 require('@openfonts/sree-krushnadevaraya_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/sree-krushnadevaraya_latin/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Kirang Haerang typeface
 require('@openfonts/kirang-haerang_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/kirang-haerang_latin/index.css";
+```

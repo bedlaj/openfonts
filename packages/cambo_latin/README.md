@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Cambo typeface
 require('@openfonts/cambo_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/cambo_latin/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Hind Madurai typeface
 require('@openfonts/hind-madurai_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/hind-madurai_latin/index.css";
+```

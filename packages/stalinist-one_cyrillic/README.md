@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Stalinist One typeface
 require('@openfonts/stalinist-one_cyrillic')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/stalinist-one_cyrillic/index.css";
+```

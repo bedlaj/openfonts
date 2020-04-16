@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Andika typeface
 require('@openfonts/andika_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/andika_all/index.css";
+```

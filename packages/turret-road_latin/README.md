@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Turret Road typeface
 require('@openfonts/turret-road_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/turret-road_latin/index.css";
+```

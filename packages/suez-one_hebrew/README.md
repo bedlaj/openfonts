@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Suez One typeface
 require('@openfonts/suez-one_hebrew')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/suez-one_hebrew/index.css";
+```

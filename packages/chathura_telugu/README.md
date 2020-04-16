@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Chathura typeface
 require('@openfonts/chathura_telugu')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/chathura_telugu/index.css";
+```

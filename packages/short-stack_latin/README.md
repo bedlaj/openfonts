@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Short Stack typeface
 require('@openfonts/short-stack_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/short-stack_latin/index.css";
+```

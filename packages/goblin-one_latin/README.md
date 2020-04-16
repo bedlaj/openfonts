@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Goblin One typeface
 require('@openfonts/goblin-one_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/goblin-one_latin/index.css";
+```

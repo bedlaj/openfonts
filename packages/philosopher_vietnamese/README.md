@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Philosopher typeface
 require('@openfonts/philosopher_vietnamese')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/philosopher_vietnamese/index.css";
+```

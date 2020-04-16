@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load BenchNine typeface
 require('@openfonts/benchnine_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/benchnine_latin/index.css";
+```

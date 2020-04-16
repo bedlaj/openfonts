@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Yellowtail typeface
 require('@openfonts/yellowtail_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/yellowtail_latin/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Arbutus typeface
 require('@openfonts/arbutus_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/arbutus_latin/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Playfair Display SC typeface
 require('@openfonts/playfair-display-sc_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/playfair-display-sc_all/index.css";
+```

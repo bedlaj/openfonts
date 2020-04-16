@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Marcellus typeface
 require('@openfonts/marcellus_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/marcellus_latin/index.css";
+```

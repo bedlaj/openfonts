@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Magra typeface
 require('@openfonts/magra_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/magra_latin/index.css";
+```

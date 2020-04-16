@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Quicksand typeface
 require('@openfonts/quicksand_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/quicksand_latin-ext/index.css";
+```

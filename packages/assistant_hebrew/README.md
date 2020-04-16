@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Assistant typeface
 require('@openfonts/assistant_hebrew')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/assistant_hebrew/index.css";
+```

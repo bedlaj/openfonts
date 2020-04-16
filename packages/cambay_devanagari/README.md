@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Cambay typeface
 require('@openfonts/cambay_devanagari')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/cambay_devanagari/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Dangrek typeface
 require('@openfonts/dangrek_khmer')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/dangrek_khmer/index.css";
+```

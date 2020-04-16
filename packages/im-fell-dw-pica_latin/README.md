@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load IM Fell DW Pica typeface
 require('@openfonts/im-fell-dw-pica_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/im-fell-dw-pica_latin/index.css";
+```

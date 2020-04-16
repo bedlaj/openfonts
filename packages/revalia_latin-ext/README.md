@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Revalia typeface
 require('@openfonts/revalia_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/revalia_latin-ext/index.css";
+```

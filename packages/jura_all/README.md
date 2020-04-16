@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Jura typeface
 require('@openfonts/jura_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/jura_all/index.css";
+```

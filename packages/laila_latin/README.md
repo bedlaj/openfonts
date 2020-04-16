@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Laila typeface
 require('@openfonts/laila_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/laila_latin/index.css";
+```

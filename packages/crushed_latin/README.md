@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Crushed typeface
 require('@openfonts/crushed_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/crushed_latin/index.css";
+```

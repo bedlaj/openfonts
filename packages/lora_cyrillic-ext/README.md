@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Lora typeface
 require('@openfonts/lora_cyrillic-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/lora_cyrillic-ext/index.css";
+```

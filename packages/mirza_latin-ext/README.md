@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Mirza typeface
 require('@openfonts/mirza_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/mirza_latin-ext/index.css";
+```

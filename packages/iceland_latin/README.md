@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Iceland typeface
 require('@openfonts/iceland_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/iceland_latin/index.css";
+```

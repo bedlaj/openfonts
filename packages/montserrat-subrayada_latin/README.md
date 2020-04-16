@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Montserrat Subrayada typeface
 require('@openfonts/montserrat-subrayada_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/montserrat-subrayada_latin/index.css";
+```

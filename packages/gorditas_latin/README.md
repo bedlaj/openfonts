@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Gorditas typeface
 require('@openfonts/gorditas_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/gorditas_latin/index.css";
+```

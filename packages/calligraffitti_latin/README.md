@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Calligraffitti typeface
 require('@openfonts/calligraffitti_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/calligraffitti_latin/index.css";
+```

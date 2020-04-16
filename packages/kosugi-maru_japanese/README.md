@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Kosugi Maru typeface
 require('@openfonts/kosugi-maru_japanese')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/kosugi-maru_japanese/index.css";
+```

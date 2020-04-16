@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Nanum Brush Script typeface
 require('@openfonts/nanum-brush-script_korean')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/nanum-brush-script_korean/index.css";
+```

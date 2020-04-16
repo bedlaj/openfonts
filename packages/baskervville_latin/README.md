@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Baskervville typeface
 require('@openfonts/baskervville_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/baskervville_latin/index.css";
+```

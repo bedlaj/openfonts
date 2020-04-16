@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Patua One typeface
 require('@openfonts/patua-one_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/patua-one_latin/index.css";
+```

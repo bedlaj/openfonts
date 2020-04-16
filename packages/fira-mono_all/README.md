@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Fira Mono typeface
 require('@openfonts/fira-mono_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/fira-mono_all/index.css";
+```

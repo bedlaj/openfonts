@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Mountains of Christmas typeface
 require('@openfonts/mountains-of-christmas_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/mountains-of-christmas_latin/index.css";
+```

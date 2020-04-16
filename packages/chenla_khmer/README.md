@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Chenla typeface
 require('@openfonts/chenla_khmer')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/chenla_khmer/index.css";
+```

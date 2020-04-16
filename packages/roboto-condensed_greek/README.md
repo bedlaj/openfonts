@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Roboto Condensed typeface
 require('@openfonts/roboto-condensed_greek')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/roboto-condensed_greek/index.css";
+```

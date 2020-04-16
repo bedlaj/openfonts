@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Suwannaphum typeface
 require('@openfonts/suwannaphum_khmer')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/suwannaphum_khmer/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Codystar typeface
 require('@openfonts/codystar_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/codystar_latin/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Butterfly Kids typeface
 require('@openfonts/butterfly-kids_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/butterfly-kids_latin/index.css";
+```

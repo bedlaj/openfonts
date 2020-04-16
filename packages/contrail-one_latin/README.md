@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Contrail One typeface
 require('@openfonts/contrail-one_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/contrail-one_latin/index.css";
+```

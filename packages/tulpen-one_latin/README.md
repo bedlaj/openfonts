@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Tulpen One typeface
 require('@openfonts/tulpen-one_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/tulpen-one_latin/index.css";
+```

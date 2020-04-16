@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Rosario typeface
 require('@openfonts/rosario_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/rosario_latin/index.css";
+```

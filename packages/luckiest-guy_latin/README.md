@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Luckiest Guy typeface
 require('@openfonts/luckiest-guy_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/luckiest-guy_latin/index.css";
+```

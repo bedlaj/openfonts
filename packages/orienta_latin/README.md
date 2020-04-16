@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Orienta typeface
 require('@openfonts/orienta_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/orienta_latin/index.css";
+```

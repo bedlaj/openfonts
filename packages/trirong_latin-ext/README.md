@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Trirong typeface
 require('@openfonts/trirong_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/trirong_latin-ext/index.css";
+```

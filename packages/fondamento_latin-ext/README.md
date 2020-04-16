@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Fondamento typeface
 require('@openfonts/fondamento_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/fondamento_latin-ext/index.css";
+```

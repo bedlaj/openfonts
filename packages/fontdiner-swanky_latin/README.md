@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Fontdiner Swanky typeface
 require('@openfonts/fontdiner-swanky_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/fontdiner-swanky_latin/index.css";
+```

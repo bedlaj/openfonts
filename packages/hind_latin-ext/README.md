@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Hind typeface
 require('@openfonts/hind_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/hind_latin-ext/index.css";
+```

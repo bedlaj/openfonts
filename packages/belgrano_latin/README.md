@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Belgrano typeface
 require('@openfonts/belgrano_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/belgrano_latin/index.css";
+```

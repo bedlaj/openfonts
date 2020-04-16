@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Freckle Face typeface
 require('@openfonts/freckle-face_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/freckle-face_latin/index.css";
+```

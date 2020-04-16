@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Black Han Sans typeface
 require('@openfonts/black-han-sans_korean')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/black-han-sans_korean/index.css";
+```

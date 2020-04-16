@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Ruda typeface
 require('@openfonts/ruda_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/ruda_latin-ext/index.css";
+```

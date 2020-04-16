@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Hanuman typeface
 require('@openfonts/hanuman_khmer')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/hanuman_khmer/index.css";
+```

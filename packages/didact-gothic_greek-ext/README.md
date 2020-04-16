@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Didact Gothic typeface
 require('@openfonts/didact-gothic_greek-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/didact-gothic_greek-ext/index.css";
+```

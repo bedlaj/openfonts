@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Mate typeface
 require('@openfonts/mate_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/mate_latin/index.css";
+```

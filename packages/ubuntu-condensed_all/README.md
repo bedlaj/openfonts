@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Ubuntu Condensed typeface
 require('@openfonts/ubuntu-condensed_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/ubuntu-condensed_all/index.css";
+```

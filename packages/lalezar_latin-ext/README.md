@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Lalezar typeface
 require('@openfonts/lalezar_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/lalezar_latin-ext/index.css";
+```

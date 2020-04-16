@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Slabo 27px typeface
 require('@openfonts/slabo-27px_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/slabo-27px_latin-ext/index.css";
+```

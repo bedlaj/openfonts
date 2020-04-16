@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Archivo Narrow typeface
 require('@openfonts/archivo-narrow_vietnamese')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/archivo-narrow_vietnamese/index.css";
+```

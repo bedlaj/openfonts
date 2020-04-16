@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Just Another Hand typeface
 require('@openfonts/just-another-hand_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/just-another-hand_latin/index.css";
+```

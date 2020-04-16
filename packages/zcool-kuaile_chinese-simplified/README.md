@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load ZCOOL KuaiLe typeface
 require('@openfonts/zcool-kuaile_chinese-simplified')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/zcool-kuaile_chinese-simplified/index.css";
+```

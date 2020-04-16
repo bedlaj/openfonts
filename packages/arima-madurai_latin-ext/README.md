@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Arima Madurai typeface
 require('@openfonts/arima-madurai_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/arima-madurai_latin-ext/index.css";
+```

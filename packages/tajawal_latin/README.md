@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Tajawal typeface
 require('@openfonts/tajawal_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/tajawal_latin/index.css";
+```

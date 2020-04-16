@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Kosugi typeface
 require('@openfonts/kosugi_cyrillic')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/kosugi_cyrillic/index.css";
+```

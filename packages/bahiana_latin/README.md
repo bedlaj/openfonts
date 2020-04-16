@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Bahiana typeface
 require('@openfonts/bahiana_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/bahiana_latin/index.css";
+```

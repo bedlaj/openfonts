@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Odibee Sans typeface
 require('@openfonts/odibee-sans_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/odibee-sans_latin/index.css";
+```

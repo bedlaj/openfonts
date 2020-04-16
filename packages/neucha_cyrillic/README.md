@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Neucha typeface
 require('@openfonts/neucha_cyrillic')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/neucha_cyrillic/index.css";
+```

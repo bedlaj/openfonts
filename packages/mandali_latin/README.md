@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Mandali typeface
 require('@openfonts/mandali_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/mandali_latin/index.css";
+```

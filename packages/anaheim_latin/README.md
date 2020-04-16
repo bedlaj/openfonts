@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Anaheim typeface
 require('@openfonts/anaheim_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/anaheim_latin/index.css";
+```

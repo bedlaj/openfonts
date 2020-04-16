@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Raleway Dots typeface
 require('@openfonts/raleway-dots_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/raleway-dots_latin-ext/index.css";
+```

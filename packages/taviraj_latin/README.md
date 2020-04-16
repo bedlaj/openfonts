@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Taviraj typeface
 require('@openfonts/taviraj_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/taviraj_latin/index.css";
+```

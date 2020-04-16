@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Sacramento typeface
 require('@openfonts/sacramento_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/sacramento_latin-ext/index.css";
+```

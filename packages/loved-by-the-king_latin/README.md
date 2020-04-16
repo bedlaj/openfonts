@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Loved by the King typeface
 require('@openfonts/loved-by-the-king_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/loved-by-the-king_latin/index.css";
+```

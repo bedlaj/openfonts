@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Uncial Antiqua typeface
 require('@openfonts/uncial-antiqua_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/uncial-antiqua_latin/index.css";
+```

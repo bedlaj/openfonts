@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Pattaya typeface
 require('@openfonts/pattaya_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/pattaya_all/index.css";
+```

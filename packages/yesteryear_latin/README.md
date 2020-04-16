@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Yesteryear typeface
 require('@openfonts/yesteryear_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/yesteryear_latin/index.css";
+```

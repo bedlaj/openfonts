@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Roboto Mono typeface
 require('@openfonts/roboto-mono_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/roboto-mono_all/index.css";
+```

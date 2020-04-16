@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Livvic typeface
 require('@openfonts/livvic_vietnamese')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/livvic_vietnamese/index.css";
+```

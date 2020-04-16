@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Space Mono typeface
 require('@openfonts/space-mono_vietnamese')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/space-mono_vietnamese/index.css";
+```

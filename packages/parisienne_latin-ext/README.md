@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Parisienne typeface
 require('@openfonts/parisienne_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/parisienne_latin-ext/index.css";
+```

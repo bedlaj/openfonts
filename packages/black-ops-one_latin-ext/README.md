@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Black Ops One typeface
 require('@openfonts/black-ops-one_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/black-ops-one_latin-ext/index.css";
+```

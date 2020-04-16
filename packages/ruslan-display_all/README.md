@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Ruslan Display typeface
 require('@openfonts/ruslan-display_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/ruslan-display_all/index.css";
+```

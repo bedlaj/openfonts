@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Imprima typeface
 require('@openfonts/imprima_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/imprima_latin-ext/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Underdog typeface
 require('@openfonts/underdog_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/underdog_latin/index.css";
+```

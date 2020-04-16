@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Modak typeface
 require('@openfonts/modak_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/modak_latin/index.css";
+```

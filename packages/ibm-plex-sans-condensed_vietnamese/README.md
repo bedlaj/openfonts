@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load IBM Plex Sans Condensed typeface
 require('@openfonts/ibm-plex-sans-condensed_vietnamese')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/ibm-plex-sans-condensed_vietnamese/index.css";
+```

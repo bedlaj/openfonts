@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Stoke typeface
 require('@openfonts/stoke_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/stoke_latin-ext/index.css";
+```

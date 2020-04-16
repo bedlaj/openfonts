@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Linden Hill typeface
 require('@openfonts/linden-hill_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/linden-hill_latin/index.css";
+```

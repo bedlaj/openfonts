@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Cantata One typeface
 require('@openfonts/cantata-one_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/cantata-one_latin-ext/index.css";
+```

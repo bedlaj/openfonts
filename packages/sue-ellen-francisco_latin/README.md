@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Sue Ellen Francisco typeface
 require('@openfonts/sue-ellen-francisco_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/sue-ellen-francisco_latin/index.css";
+```

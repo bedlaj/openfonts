@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Cousine typeface
 require('@openfonts/cousine_greek')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/cousine_greek/index.css";
+```

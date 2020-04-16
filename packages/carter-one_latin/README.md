@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Carter One typeface
 require('@openfonts/carter-one_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/carter-one_latin/index.css";
+```

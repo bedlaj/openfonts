@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Federo typeface
 require('@openfonts/federo_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/federo_latin/index.css";
+```

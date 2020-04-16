@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Exo 2 typeface
 require('@openfonts/exo-2_cyrillic')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/exo-2_cyrillic/index.css";
+```

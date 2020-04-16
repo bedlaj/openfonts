@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Shrikhand typeface
 require('@openfonts/shrikhand_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/shrikhand_all/index.css";
+```

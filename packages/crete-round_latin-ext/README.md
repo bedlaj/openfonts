@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Crete Round typeface
 require('@openfonts/crete-round_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/crete-round_latin-ext/index.css";
+```

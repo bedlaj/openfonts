@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Aref Ruqaa typeface
 require('@openfonts/aref-ruqaa_arabic')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/aref-ruqaa_arabic/index.css";
+```

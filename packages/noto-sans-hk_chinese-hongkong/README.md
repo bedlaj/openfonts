@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Noto Sans HK typeface
 require('@openfonts/noto-sans-hk_chinese-hongkong')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/noto-sans-hk_chinese-hongkong/index.css";
+```

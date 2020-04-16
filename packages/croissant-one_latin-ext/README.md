@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Croissant One typeface
 require('@openfonts/croissant-one_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/croissant-one_latin-ext/index.css";
+```

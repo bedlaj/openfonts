@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Sofadi One typeface
 require('@openfonts/sofadi-one_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/sofadi-one_latin/index.css";
+```

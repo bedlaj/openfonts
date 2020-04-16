@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Ruthie typeface
 require('@openfonts/ruthie_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/ruthie_latin/index.css";
+```

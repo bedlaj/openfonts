@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Galada typeface
 require('@openfonts/galada_bengali')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/galada_bengali/index.css";
+```

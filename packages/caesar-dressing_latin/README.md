@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Caesar Dressing typeface
 require('@openfonts/caesar-dressing_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/caesar-dressing_latin/index.css";
+```

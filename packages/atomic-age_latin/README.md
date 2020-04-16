@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Atomic Age typeface
 require('@openfonts/atomic-age_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/atomic-age_latin/index.css";
+```

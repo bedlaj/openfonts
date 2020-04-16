@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Rubik Mono One typeface
 require('@openfonts/rubik-mono-one_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/rubik-mono-one_latin/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Sigmar One typeface
 require('@openfonts/sigmar-one_vietnamese')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/sigmar-one_vietnamese/index.css";
+```

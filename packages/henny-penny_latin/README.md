@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Henny Penny typeface
 require('@openfonts/henny-penny_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/henny-penny_latin/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Ropa Sans typeface
 require('@openfonts/ropa-sans_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/ropa-sans_latin/index.css";
+```

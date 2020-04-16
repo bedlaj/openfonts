@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Chakra Petch typeface
 require('@openfonts/chakra-petch_vietnamese')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/chakra-petch_vietnamese/index.css";
+```

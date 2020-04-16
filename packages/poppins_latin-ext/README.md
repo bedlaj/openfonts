@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Poppins typeface
 require('@openfonts/poppins_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/poppins_latin-ext/index.css";
+```

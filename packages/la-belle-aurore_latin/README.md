@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load La Belle Aurore typeface
 require('@openfonts/la-belle-aurore_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/la-belle-aurore_latin/index.css";
+```

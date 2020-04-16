@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Tangerine typeface
 require('@openfonts/tangerine_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/tangerine_latin/index.css";
+```

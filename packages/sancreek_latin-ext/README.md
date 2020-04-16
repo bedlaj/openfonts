@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Sancreek typeface
 require('@openfonts/sancreek_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/sancreek_latin-ext/index.css";
+```

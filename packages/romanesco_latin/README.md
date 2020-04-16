@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Romanesco typeface
 require('@openfonts/romanesco_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/romanesco_latin/index.css";
+```

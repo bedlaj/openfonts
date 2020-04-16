@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Milonga typeface
 require('@openfonts/milonga_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/milonga_latin/index.css";
+```

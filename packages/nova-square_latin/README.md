@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Nova Square typeface
 require('@openfonts/nova-square_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/nova-square_latin/index.css";
+```

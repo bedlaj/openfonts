@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Athiti typeface
 require('@openfonts/athiti_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/athiti_all/index.css";
+```

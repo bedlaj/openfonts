@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Noto Serif TC typeface
 require('@openfonts/noto-serif-tc_chinese-traditional')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/noto-serif-tc_chinese-traditional/index.css";
+```

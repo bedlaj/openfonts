@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Fredoka One typeface
 require('@openfonts/fredoka-one_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/fredoka-one_latin/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Ruge Boogie typeface
 require('@openfonts/ruge-boogie_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/ruge-boogie_latin/index.css";
+```

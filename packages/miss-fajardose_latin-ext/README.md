@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Miss Fajardose typeface
 require('@openfonts/miss-fajardose_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/miss-fajardose_latin-ext/index.css";
+```

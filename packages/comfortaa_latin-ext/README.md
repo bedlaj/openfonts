@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Comfortaa typeface
 require('@openfonts/comfortaa_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/comfortaa_latin-ext/index.css";
+```

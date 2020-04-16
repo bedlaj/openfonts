@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Rasa typeface
 require('@openfonts/rasa_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/rasa_all/index.css";
+```

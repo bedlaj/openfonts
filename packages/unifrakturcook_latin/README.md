@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load UnifrakturCook typeface
 require('@openfonts/unifrakturcook_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/unifrakturcook_latin/index.css";
+```

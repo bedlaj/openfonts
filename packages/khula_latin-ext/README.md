@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Khula typeface
 require('@openfonts/khula_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/khula_latin-ext/index.css";
+```

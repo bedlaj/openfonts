@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Sura typeface
 require('@openfonts/sura_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/sura_latin/index.css";
+```

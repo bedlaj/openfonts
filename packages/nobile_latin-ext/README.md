@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Nobile typeface
 require('@openfonts/nobile_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/nobile_latin-ext/index.css";
+```

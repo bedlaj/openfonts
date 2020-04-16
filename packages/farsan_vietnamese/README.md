@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Farsan typeface
 require('@openfonts/farsan_vietnamese')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/farsan_vietnamese/index.css";
+```

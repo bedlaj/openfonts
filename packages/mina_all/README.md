@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Mina typeface
 require('@openfonts/mina_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/mina_all/index.css";
+```

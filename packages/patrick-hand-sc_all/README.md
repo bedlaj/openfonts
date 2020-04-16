@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Patrick Hand SC typeface
 require('@openfonts/patrick-hand-sc_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/patrick-hand-sc_all/index.css";
+```

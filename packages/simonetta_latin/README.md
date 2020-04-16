@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Simonetta typeface
 require('@openfonts/simonetta_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/simonetta_latin/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Josefin Slab typeface
 require('@openfonts/josefin-slab_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/josefin-slab_latin/index.css";
+```

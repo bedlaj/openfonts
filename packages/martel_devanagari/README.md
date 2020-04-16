@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Martel typeface
 require('@openfonts/martel_devanagari')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/martel_devanagari/index.css";
+```

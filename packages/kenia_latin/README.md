@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Kenia typeface
 require('@openfonts/kenia_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/kenia_latin/index.css";
+```

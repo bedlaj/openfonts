@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Leckerli One typeface
 require('@openfonts/leckerli-one_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/leckerli-one_latin/index.css";
+```

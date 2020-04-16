@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Spinnaker typeface
 require('@openfonts/spinnaker_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/spinnaker_latin-ext/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Aclonica typeface
 require('@openfonts/aclonica_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/aclonica_latin/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Chelsea Market typeface
 require('@openfonts/chelsea-market_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/chelsea-market_latin-ext/index.css";
+```

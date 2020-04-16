@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Sriracha typeface
 require('@openfonts/sriracha_thai')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/sriracha_thai/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Cabin typeface
 require('@openfonts/cabin_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/cabin_all/index.css";
+```

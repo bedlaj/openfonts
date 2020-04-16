@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Mr Bedfort typeface
 require('@openfonts/mr-bedfort_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/mr-bedfort_latin/index.css";
+```

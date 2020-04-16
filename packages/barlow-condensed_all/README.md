@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Barlow Condensed typeface
 require('@openfonts/barlow-condensed_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/barlow-condensed_all/index.css";
+```

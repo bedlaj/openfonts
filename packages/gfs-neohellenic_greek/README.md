@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load GFS Neohellenic typeface
 require('@openfonts/gfs-neohellenic_greek')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/gfs-neohellenic_greek/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load M PLUS 1p typeface
 require('@openfonts/m-plus-1p_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/m-plus-1p_latin-ext/index.css";
+```

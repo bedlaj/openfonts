@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Petit Formal Script typeface
 require('@openfonts/petit-formal-script_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/petit-formal-script_latin/index.css";
+```

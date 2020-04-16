@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Orbitron typeface
 require('@openfonts/orbitron_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/orbitron_latin/index.css";
+```

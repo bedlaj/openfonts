@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Sarpanch typeface
 require('@openfonts/sarpanch_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/sarpanch_latin-ext/index.css";
+```

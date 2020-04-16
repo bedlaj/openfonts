@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Combo typeface
 require('@openfonts/combo_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/combo_latin/index.css";
+```

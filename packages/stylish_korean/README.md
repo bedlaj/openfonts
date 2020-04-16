@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Stylish typeface
 require('@openfonts/stylish_korean')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/stylish_korean/index.css";
+```

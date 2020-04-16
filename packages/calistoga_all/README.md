@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Calistoga typeface
 require('@openfonts/calistoga_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/calistoga_all/index.css";
+```

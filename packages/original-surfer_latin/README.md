@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Original Surfer typeface
 require('@openfonts/original-surfer_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/original-surfer_latin/index.css";
+```

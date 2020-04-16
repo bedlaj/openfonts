@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Bilbo typeface
 require('@openfonts/bilbo_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/bilbo_latin/index.css";
+```

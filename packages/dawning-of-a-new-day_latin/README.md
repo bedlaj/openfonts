@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Dawning of a New Day typeface
 require('@openfonts/dawning-of-a-new-day_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/dawning-of-a-new-day_latin/index.css";
+```

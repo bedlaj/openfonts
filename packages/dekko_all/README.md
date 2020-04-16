@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Dekko typeface
 require('@openfonts/dekko_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/dekko_all/index.css";
+```

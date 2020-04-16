@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Lexend Giga typeface
 require('@openfonts/lexend-giga_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/lexend-giga_all/index.css";
+```

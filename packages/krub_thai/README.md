@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Krub typeface
 require('@openfonts/krub_thai')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/krub_thai/index.css";
+```

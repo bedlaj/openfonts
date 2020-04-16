@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Tinos typeface
 require('@openfonts/tinos_greek-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/tinos_greek-ext/index.css";
+```

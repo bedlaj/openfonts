@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Emilys Candy typeface
 require('@openfonts/emilys-candy_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/emilys-candy_latin-ext/index.css";
+```

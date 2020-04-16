@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Anonymous Pro typeface
 require('@openfonts/anonymous-pro_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/anonymous-pro_latin-ext/index.css";
+```

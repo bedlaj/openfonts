@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Montaga typeface
 require('@openfonts/montaga_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/montaga_latin/index.css";
+```

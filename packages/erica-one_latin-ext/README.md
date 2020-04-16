@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Erica One typeface
 require('@openfonts/erica-one_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/erica-one_latin-ext/index.css";
+```

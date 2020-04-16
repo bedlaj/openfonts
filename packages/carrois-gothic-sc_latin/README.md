@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Carrois Gothic SC typeface
 require('@openfonts/carrois-gothic-sc_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/carrois-gothic-sc_latin/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Bebas Neue typeface
 require('@openfonts/bebas-neue_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/bebas-neue_latin/index.css";
+```

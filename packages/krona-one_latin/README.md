@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Krona One typeface
 require('@openfonts/krona-one_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/krona-one_latin/index.css";
+```

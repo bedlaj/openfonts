@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Bad Script typeface
 require('@openfonts/bad-script_cyrillic')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/bad-script_cyrillic/index.css";
+```

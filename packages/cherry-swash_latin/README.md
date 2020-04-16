@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Cherry Swash typeface
 require('@openfonts/cherry-swash_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/cherry-swash_latin/index.css";
+```

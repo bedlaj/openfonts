@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Merienda One typeface
 require('@openfonts/merienda-one_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/merienda-one_latin/index.css";
+```

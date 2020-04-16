@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Ruluko typeface
 require('@openfonts/ruluko_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/ruluko_latin-ext/index.css";
+```

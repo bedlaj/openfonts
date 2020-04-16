@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Candal typeface
 require('@openfonts/candal_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/candal_latin/index.css";
+```

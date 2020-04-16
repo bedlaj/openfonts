@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Vibes typeface
 require('@openfonts/vibes_arabic')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/vibes_arabic/index.css";
+```

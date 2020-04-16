@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load PT Sans Caption typeface
 require('@openfonts/pt-sans-caption_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/pt-sans-caption_latin-ext/index.css";
+```

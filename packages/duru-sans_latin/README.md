@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Duru Sans typeface
 require('@openfonts/duru-sans_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/duru-sans_latin/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load ZCOOL QingKe HuangYou typeface
 require('@openfonts/zcool-qingke-huangyou_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/zcool-qingke-huangyou_latin/index.css";
+```

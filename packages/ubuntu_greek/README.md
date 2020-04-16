@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Ubuntu typeface
 require('@openfonts/ubuntu_greek')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/ubuntu_greek/index.css";
+```

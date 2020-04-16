@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Herr Von Muellerhoff typeface
 require('@openfonts/herr-von-muellerhoff_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/herr-von-muellerhoff_latin/index.css";
+```

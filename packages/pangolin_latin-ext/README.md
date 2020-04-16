@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Pangolin typeface
 require('@openfonts/pangolin_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/pangolin_latin-ext/index.css";
+```

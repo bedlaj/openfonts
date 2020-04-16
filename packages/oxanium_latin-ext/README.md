@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Oxanium typeface
 require('@openfonts/oxanium_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/oxanium_latin-ext/index.css";
+```

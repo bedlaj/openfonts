@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Dr Sugiyama typeface
 require('@openfonts/dr-sugiyama_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/dr-sugiyama_latin/index.css";
+```

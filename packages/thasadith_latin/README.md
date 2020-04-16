@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Thasadith typeface
 require('@openfonts/thasadith_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/thasadith_latin/index.css";
+```

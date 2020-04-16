@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Unica One typeface
 require('@openfonts/unica-one_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/unica-one_latin/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Sunshiney typeface
 require('@openfonts/sunshiney_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/sunshiney_latin/index.css";
+```

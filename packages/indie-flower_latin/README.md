@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Indie Flower typeface
 require('@openfonts/indie-flower_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/indie-flower_latin/index.css";
+```

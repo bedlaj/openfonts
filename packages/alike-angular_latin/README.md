@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Alike Angular typeface
 require('@openfonts/alike-angular_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/alike-angular_latin/index.css";
+```

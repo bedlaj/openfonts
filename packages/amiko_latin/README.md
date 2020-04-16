@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Amiko typeface
 require('@openfonts/amiko_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/amiko_latin/index.css";
+```

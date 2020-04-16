@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Be Vietnam typeface
 require('@openfonts/be-vietnam_vietnamese')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/be-vietnam_vietnamese/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Basic typeface
 require('@openfonts/basic_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/basic_latin-ext/index.css";
+```

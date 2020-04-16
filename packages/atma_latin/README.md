@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Atma typeface
 require('@openfonts/atma_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/atma_latin/index.css";
+```

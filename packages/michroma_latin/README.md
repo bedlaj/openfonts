@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Michroma typeface
 require('@openfonts/michroma_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/michroma_latin/index.css";
+```

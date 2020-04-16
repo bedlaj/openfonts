@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Rationale typeface
 require('@openfonts/rationale_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/rationale_latin/index.css";
+```

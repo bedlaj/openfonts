@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Nosifer typeface
 require('@openfonts/nosifer_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/nosifer_latin-ext/index.css";
+```

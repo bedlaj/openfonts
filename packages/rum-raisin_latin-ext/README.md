@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Rum Raisin typeface
 require('@openfonts/rum-raisin_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/rum-raisin_latin-ext/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Berkshire Swash typeface
 require('@openfonts/berkshire-swash_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/berkshire-swash_latin-ext/index.css";
+```

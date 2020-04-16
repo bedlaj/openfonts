@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Red Hat Text typeface
 require('@openfonts/red-hat-text_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/red-hat-text_latin/index.css";
+```

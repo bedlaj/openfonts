@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Cagliostro typeface
 require('@openfonts/cagliostro_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/cagliostro_latin/index.css";
+```

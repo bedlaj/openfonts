@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Metal Mania typeface
 require('@openfonts/metal-mania_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/metal-mania_latin/index.css";
+```

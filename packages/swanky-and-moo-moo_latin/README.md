@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Swanky and Moo Moo typeface
 require('@openfonts/swanky-and-moo-moo_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/swanky-and-moo-moo_latin/index.css";
+```

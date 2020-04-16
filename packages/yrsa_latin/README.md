@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Yrsa typeface
 require('@openfonts/yrsa_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/yrsa_latin/index.css";
+```

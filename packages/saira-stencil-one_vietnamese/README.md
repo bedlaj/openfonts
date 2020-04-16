@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Saira Stencil One typeface
 require('@openfonts/saira-stencil-one_vietnamese')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/saira-stencil-one_vietnamese/index.css";
+```

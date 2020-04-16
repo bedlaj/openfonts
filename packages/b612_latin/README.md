@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load B612 typeface
 require('@openfonts/b612_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/b612_latin/index.css";
+```

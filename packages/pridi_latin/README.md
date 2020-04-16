@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Pridi typeface
 require('@openfonts/pridi_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/pridi_latin/index.css";
+```

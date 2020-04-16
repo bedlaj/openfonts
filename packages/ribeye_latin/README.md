@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Ribeye typeface
 require('@openfonts/ribeye_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/ribeye_latin/index.css";
+```

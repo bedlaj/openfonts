@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Frank Ruhl Libre typeface
 require('@openfonts/frank-ruhl-libre_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/frank-ruhl-libre_all/index.css";
+```

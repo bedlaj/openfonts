@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Text Me One typeface
 require('@openfonts/text-me-one_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/text-me-one_latin/index.css";
+```

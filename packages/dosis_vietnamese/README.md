@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Dosis typeface
 require('@openfonts/dosis_vietnamese')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/dosis_vietnamese/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Cantarell typeface
 require('@openfonts/cantarell_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/cantarell_latin/index.css";
+```

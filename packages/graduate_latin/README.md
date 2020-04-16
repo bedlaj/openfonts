@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Graduate typeface
 require('@openfonts/graduate_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/graduate_latin/index.css";
+```

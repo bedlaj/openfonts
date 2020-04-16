@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Taprom typeface
 require('@openfonts/taprom_khmer')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/taprom_khmer/index.css";
+```

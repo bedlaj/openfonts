@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Catamaran typeface
 require('@openfonts/catamaran_tamil')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/catamaran_tamil/index.css";
+```

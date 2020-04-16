@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Noto Sans typeface
 require('@openfonts/noto-sans_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/noto-sans_latin-ext/index.css";
+```

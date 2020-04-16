@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Rammetto One typeface
 require('@openfonts/rammetto-one_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/rammetto-one_latin-ext/index.css";
+```

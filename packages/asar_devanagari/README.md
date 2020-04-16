@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Asar typeface
 require('@openfonts/asar_devanagari')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/asar_devanagari/index.css";
+```

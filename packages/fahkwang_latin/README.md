@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Fahkwang typeface
 require('@openfonts/fahkwang_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/fahkwang_latin/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Archivo Black typeface
 require('@openfonts/archivo-black_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/archivo-black_latin-ext/index.css";
+```

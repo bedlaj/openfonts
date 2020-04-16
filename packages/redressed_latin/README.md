@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Redressed typeface
 require('@openfonts/redressed_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/redressed_latin/index.css";
+```

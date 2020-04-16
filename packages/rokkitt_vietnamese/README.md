@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Rokkitt typeface
 require('@openfonts/rokkitt_vietnamese')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/rokkitt_vietnamese/index.css";
+```

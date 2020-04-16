@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Slackey typeface
 require('@openfonts/slackey_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/slackey_latin/index.css";
+```

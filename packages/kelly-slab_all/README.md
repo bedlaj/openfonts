@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Kelly Slab typeface
 require('@openfonts/kelly-slab_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/kelly-slab_all/index.css";
+```

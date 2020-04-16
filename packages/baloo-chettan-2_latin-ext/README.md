@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Baloo Chettan 2 typeface
 require('@openfonts/baloo-chettan-2_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/baloo-chettan-2_latin-ext/index.css";
+```

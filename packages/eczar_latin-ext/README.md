@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Eczar typeface
 require('@openfonts/eczar_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/eczar_latin-ext/index.css";
+```

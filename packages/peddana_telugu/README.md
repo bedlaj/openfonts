@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Peddana typeface
 require('@openfonts/peddana_telugu')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/peddana_telugu/index.css";
+```

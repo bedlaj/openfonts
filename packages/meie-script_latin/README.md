@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Meie Script typeface
 require('@openfonts/meie-script_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/meie-script_latin/index.css";
+```

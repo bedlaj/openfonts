@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Press Start 2P typeface
 require('@openfonts/press-start-2p_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/press-start-2p_latin/index.css";
+```

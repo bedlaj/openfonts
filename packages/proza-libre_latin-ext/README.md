@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Proza Libre typeface
 require('@openfonts/proza-libre_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/proza-libre_latin-ext/index.css";
+```

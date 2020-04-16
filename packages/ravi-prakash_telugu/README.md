@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Ravi Prakash typeface
 require('@openfonts/ravi-prakash_telugu')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/ravi-prakash_telugu/index.css";
+```

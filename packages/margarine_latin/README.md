@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Margarine typeface
 require('@openfonts/margarine_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/margarine_latin/index.css";
+```

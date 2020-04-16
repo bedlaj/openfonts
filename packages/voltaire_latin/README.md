@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Voltaire typeface
 require('@openfonts/voltaire_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/voltaire_latin/index.css";
+```

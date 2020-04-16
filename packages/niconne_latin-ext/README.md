@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Niconne typeface
 require('@openfonts/niconne_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/niconne_latin-ext/index.css";
+```

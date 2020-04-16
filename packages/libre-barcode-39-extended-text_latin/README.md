@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Libre Barcode 39 Extended Text typeface
 require('@openfonts/libre-barcode-39-extended-text_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/libre-barcode-39-extended-text_latin/index.css";
+```

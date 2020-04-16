@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Viaoda Libre typeface
 require('@openfonts/viaoda-libre_vietnamese')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/viaoda-libre_vietnamese/index.css";
+```

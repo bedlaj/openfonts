@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Poly typeface
 require('@openfonts/poly_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/poly_latin/index.css";
+```

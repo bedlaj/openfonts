@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Mouse Memoirs typeface
 require('@openfonts/mouse-memoirs_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/mouse-memoirs_latin/index.css";
+```

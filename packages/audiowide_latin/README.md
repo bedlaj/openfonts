@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Audiowide typeface
 require('@openfonts/audiowide_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/audiowide_latin/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Freehand typeface
 require('@openfonts/freehand_khmer')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/freehand_khmer/index.css";
+```

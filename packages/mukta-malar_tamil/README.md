@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Mukta Malar typeface
 require('@openfonts/mukta-malar_tamil')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/mukta-malar_tamil/index.css";
+```

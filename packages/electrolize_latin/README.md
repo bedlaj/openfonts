@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Electrolize typeface
 require('@openfonts/electrolize_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/electrolize_latin/index.css";
+```

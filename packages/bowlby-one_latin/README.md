@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Bowlby One typeface
 require('@openfonts/bowlby-one_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/bowlby-one_latin/index.css";
+```

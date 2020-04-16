@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Nunito Sans typeface
 require('@openfonts/nunito-sans_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/nunito-sans_all/index.css";
+```

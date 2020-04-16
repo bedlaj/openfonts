@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Carme typeface
 require('@openfonts/carme_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/carme_latin/index.css";
+```

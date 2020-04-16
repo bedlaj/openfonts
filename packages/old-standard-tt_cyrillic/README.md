@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Old Standard TT typeface
 require('@openfonts/old-standard-tt_cyrillic')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/old-standard-tt_cyrillic/index.css";
+```

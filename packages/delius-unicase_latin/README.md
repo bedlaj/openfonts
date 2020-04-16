@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Delius Unicase typeface
 require('@openfonts/delius-unicase_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/delius-unicase_latin/index.css";
+```

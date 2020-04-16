@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Allura typeface
 require('@openfonts/allura_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/allura_latin/index.css";
+```

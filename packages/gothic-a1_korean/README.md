@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Gothic A1 typeface
 require('@openfonts/gothic-a1_korean')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/gothic-a1_korean/index.css";
+```

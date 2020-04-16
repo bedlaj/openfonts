@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load PT Mono typeface
 require('@openfonts/pt-mono_cyrillic')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/pt-mono_cyrillic/index.css";
+```

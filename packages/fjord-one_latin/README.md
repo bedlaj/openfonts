@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Fjord One typeface
 require('@openfonts/fjord-one_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/fjord-one_latin/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Pathway Gothic One typeface
 require('@openfonts/pathway-gothic-one_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/pathway-gothic-one_latin/index.css";
+```

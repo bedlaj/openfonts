@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load VT323 typeface
 require('@openfonts/vt323_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/vt323_all/index.css";
+```

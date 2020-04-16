@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Chewy typeface
 require('@openfonts/chewy_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/chewy_latin/index.css";
+```

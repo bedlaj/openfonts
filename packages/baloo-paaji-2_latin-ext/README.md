@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Baloo Paaji 2 typeface
 require('@openfonts/baloo-paaji-2_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/baloo-paaji-2_latin-ext/index.css";
+```

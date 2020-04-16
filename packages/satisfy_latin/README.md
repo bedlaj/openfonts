@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Satisfy typeface
 require('@openfonts/satisfy_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/satisfy_latin/index.css";
+```

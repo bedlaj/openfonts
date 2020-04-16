@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Bungee Hairline typeface
 require('@openfonts/bungee-hairline_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/bungee-hairline_latin/index.css";
+```

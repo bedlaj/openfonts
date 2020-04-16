@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Reem Kufi typeface
 require('@openfonts/reem-kufi_arabic')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/reem-kufi_arabic/index.css";
+```

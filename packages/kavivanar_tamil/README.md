@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Kavivanar typeface
 require('@openfonts/kavivanar_tamil')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/kavivanar_tamil/index.css";
+```

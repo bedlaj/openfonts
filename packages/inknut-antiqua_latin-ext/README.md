@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Inknut Antiqua typeface
 require('@openfonts/inknut-antiqua_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/inknut-antiqua_latin-ext/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Prompt typeface
 require('@openfonts/prompt_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/prompt_all/index.css";
+```

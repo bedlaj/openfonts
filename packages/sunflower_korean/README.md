@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Sunflower typeface
 require('@openfonts/sunflower_korean')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/sunflower_korean/index.css";
+```

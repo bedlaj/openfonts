@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Nanum Gothic typeface
 require('@openfonts/nanum-gothic_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/nanum-gothic_latin/index.css";
+```

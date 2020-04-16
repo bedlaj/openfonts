@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Staatliches typeface
 require('@openfonts/staatliches_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/staatliches_latin/index.css";
+```

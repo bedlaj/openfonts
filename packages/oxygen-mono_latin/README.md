@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Oxygen Mono typeface
 require('@openfonts/oxygen-mono_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/oxygen-mono_latin/index.css";
+```

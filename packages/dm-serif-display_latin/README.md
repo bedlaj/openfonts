@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load DM Serif Display typeface
 require('@openfonts/dm-serif-display_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/dm-serif-display_latin/index.css";
+```

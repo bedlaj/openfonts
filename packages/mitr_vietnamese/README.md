@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Mitr typeface
 require('@openfonts/mitr_vietnamese')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/mitr_vietnamese/index.css";
+```

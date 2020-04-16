@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Biryani typeface
 require('@openfonts/biryani_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/biryani_all/index.css";
+```

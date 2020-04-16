@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Molengo typeface
 require('@openfonts/molengo_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/molengo_latin-ext/index.css";
+```

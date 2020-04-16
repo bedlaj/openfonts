@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Volkhov typeface
 require('@openfonts/volkhov_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/volkhov_latin/index.css";
+```

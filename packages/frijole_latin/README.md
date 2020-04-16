@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Frijole typeface
 require('@openfonts/frijole_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/frijole_latin/index.css";
+```

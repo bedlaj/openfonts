@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Alice typeface
 require('@openfonts/alice_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/alice_latin/index.css";
+```

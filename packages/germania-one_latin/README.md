@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Germania One typeface
 require('@openfonts/germania-one_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/germania-one_latin/index.css";
+```

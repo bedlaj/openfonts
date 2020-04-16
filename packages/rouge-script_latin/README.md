@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Rouge Script typeface
 require('@openfonts/rouge-script_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/rouge-script_latin/index.css";
+```

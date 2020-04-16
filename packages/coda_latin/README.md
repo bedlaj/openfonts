@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Coda typeface
 require('@openfonts/coda_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/coda_latin/index.css";
+```

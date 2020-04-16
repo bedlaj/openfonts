@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Nanum Pen Script typeface
 require('@openfonts/nanum-pen-script_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/nanum-pen-script_latin/index.css";
+```

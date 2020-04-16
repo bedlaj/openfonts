@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Moul typeface
 require('@openfonts/moul_khmer')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/moul_khmer/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Gentium Basic typeface
 require('@openfonts/gentium-basic_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/gentium-basic_latin/index.css";
+```

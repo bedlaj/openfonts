@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Doppio One typeface
 require('@openfonts/doppio-one_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/doppio-one_latin/index.css";
+```

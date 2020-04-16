@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Keania One typeface
 require('@openfonts/keania-one_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/keania-one_latin-ext/index.css";
+```

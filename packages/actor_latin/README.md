@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Actor typeface
 require('@openfonts/actor_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/actor_latin/index.css";
+```

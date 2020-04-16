@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Prata typeface
 require('@openfonts/prata_cyrillic-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/prata_cyrillic-ext/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Encode Sans typeface
 require('@openfonts/encode-sans_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/encode-sans_all/index.css";
+```

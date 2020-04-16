@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Spicy Rice typeface
 require('@openfonts/spicy-rice_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/spicy-rice_latin/index.css";
+```

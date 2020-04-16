@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Hi Melody typeface
 require('@openfonts/hi-melody_korean')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/hi-melody_korean/index.css";
+```

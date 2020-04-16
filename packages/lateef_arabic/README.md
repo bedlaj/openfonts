@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Lateef typeface
 require('@openfonts/lateef_arabic')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/lateef_arabic/index.css";
+```

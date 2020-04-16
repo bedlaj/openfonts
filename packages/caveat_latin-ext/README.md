@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Caveat typeface
 require('@openfonts/caveat_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/caveat_latin-ext/index.css";
+```

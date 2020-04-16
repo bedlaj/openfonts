@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Merriweather typeface
 require('@openfonts/merriweather_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/merriweather_latin-ext/index.css";
+```

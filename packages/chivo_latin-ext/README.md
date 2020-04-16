@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Chivo typeface
 require('@openfonts/chivo_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/chivo_latin-ext/index.css";
+```

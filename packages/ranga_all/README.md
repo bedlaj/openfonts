@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Ranga typeface
 require('@openfonts/ranga_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/ranga_all/index.css";
+```

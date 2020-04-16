@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Advent Pro typeface
 require('@openfonts/advent-pro_greek')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/advent-pro_greek/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Snowburst One typeface
 require('@openfonts/snowburst-one_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/snowburst-one_latin/index.css";
+```

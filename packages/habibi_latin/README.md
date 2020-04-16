@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Habibi typeface
 require('@openfonts/habibi_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/habibi_latin/index.css";
+```

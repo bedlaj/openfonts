@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Belleza typeface
 require('@openfonts/belleza_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/belleza_latin/index.css";
+```

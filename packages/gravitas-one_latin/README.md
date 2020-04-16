@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Gravitas One typeface
 require('@openfonts/gravitas-one_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/gravitas-one_latin/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Russo One typeface
 require('@openfonts/russo-one_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/russo-one_all/index.css";
+```

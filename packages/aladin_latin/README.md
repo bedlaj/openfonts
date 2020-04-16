@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Aladin typeface
 require('@openfonts/aladin_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/aladin_latin/index.css";
+```

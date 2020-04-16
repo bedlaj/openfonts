@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Fira Sans Extra Condensed typeface
 require('@openfonts/fira-sans-extra-condensed_cyrillic-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/fira-sans-extra-condensed_cyrillic-ext/index.css";
+```

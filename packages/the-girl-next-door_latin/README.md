@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load The Girl Next Door typeface
 require('@openfonts/the-girl-next-door_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/the-girl-next-door_latin/index.css";
+```

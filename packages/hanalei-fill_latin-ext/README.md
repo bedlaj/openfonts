@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Hanalei Fill typeface
 require('@openfonts/hanalei-fill_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/hanalei-fill_latin-ext/index.css";
+```

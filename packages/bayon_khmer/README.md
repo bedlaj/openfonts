@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Bayon typeface
 require('@openfonts/bayon_khmer')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/bayon_khmer/index.css";
+```

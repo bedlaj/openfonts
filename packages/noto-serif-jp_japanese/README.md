@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Noto Serif JP typeface
 require('@openfonts/noto-serif-jp_japanese')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/noto-serif-jp_japanese/index.css";
+```

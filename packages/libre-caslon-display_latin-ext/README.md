@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Libre Caslon Display typeface
 require('@openfonts/libre-caslon-display_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/libre-caslon-display_latin-ext/index.css";
+```

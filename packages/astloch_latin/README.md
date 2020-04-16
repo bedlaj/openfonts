@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Astloch typeface
 require('@openfonts/astloch_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/astloch_latin/index.css";
+```

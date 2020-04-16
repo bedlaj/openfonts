@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Gotu typeface
 require('@openfonts/gotu_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/gotu_all/index.css";
+```

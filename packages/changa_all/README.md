@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Changa typeface
 require('@openfonts/changa_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/changa_all/index.css";
+```

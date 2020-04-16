@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Arizonia typeface
 require('@openfonts/arizonia_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/arizonia_latin/index.css";
+```

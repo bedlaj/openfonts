@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Titan One typeface
 require('@openfonts/titan-one_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/titan-one_latin/index.css";
+```

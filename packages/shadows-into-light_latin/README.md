@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Shadows Into Light typeface
 require('@openfonts/shadows-into-light_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/shadows-into-light_latin/index.css";
+```

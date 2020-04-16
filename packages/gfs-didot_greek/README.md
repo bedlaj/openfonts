@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load GFS Didot typeface
 require('@openfonts/gfs-didot_greek')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/gfs-didot_greek/index.css";
+```

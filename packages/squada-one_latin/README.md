@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Squada One typeface
 require('@openfonts/squada-one_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/squada-one_latin/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Libre Franklin typeface
 require('@openfonts/libre-franklin_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/libre-franklin_latin/index.css";
+```

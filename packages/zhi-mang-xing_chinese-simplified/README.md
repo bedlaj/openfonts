@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Zhi Mang Xing typeface
 require('@openfonts/zhi-mang-xing_chinese-simplified')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/zhi-mang-xing_chinese-simplified/index.css";
+```

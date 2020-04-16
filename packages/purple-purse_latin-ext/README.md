@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Purple Purse typeface
 require('@openfonts/purple-purse_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/purple-purse_latin-ext/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Faster One typeface
 require('@openfonts/faster-one_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/faster-one_latin/index.css";
+```

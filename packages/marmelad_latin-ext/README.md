@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Marmelad typeface
 require('@openfonts/marmelad_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/marmelad_latin-ext/index.css";
+```

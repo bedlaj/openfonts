@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Solway typeface
 require('@openfonts/solway_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/solway_latin/index.css";
+```

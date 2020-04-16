@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Gruppo typeface
 require('@openfonts/gruppo_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/gruppo_latin-ext/index.css";
+```

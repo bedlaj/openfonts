@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Wendy One typeface
 require('@openfonts/wendy-one_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/wendy-one_latin/index.css";
+```

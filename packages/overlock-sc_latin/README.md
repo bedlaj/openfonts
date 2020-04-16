@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Overlock SC typeface
 require('@openfonts/overlock-sc_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/overlock-sc_latin/index.css";
+```

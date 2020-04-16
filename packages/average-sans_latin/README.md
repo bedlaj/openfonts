@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Average Sans typeface
 require('@openfonts/average-sans_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/average-sans_latin/index.css";
+```

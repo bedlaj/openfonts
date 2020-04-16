@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Amarante typeface
 require('@openfonts/amarante_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/amarante_latin-ext/index.css";
+```

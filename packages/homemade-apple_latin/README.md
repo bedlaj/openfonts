@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Homemade Apple typeface
 require('@openfonts/homemade-apple_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/homemade-apple_latin/index.css";
+```

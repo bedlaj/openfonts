@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Love Ya Like A Sister typeface
 require('@openfonts/love-ya-like-a-sister_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/love-ya-like-a-sister_latin/index.css";
+```

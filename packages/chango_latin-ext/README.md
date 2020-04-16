@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Chango typeface
 require('@openfonts/chango_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/chango_latin-ext/index.css";
+```

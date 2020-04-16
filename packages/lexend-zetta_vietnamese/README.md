@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Lexend Zetta typeface
 require('@openfonts/lexend-zetta_vietnamese')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/lexend-zetta_vietnamese/index.css";
+```

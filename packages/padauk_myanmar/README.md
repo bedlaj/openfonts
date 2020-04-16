@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Padauk typeface
 require('@openfonts/padauk_myanmar')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/padauk_myanmar/index.css";
+```

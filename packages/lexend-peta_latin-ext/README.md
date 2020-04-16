@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Lexend Peta typeface
 require('@openfonts/lexend-peta_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/lexend-peta_latin-ext/index.css";
+```

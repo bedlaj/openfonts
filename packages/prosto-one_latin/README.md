@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Prosto One typeface
 require('@openfonts/prosto-one_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/prosto-one_latin/index.css";
+```

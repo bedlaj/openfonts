@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Kalam typeface
 require('@openfonts/kalam_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/kalam_all/index.css";
+```

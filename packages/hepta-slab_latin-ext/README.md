@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Hepta Slab typeface
 require('@openfonts/hepta-slab_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/hepta-slab_latin-ext/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Denk One typeface
 require('@openfonts/denk-one_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/denk-one_latin/index.css";
+```

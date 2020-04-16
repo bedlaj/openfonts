@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Seaweed Script typeface
 require('@openfonts/seaweed-script_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/seaweed-script_latin-ext/index.css";
+```

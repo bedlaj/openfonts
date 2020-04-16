@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Grand Hotel typeface
 require('@openfonts/grand-hotel_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/grand-hotel_latin/index.css";
+```

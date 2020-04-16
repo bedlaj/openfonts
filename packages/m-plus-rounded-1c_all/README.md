@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load M PLUS Rounded 1c typeface
 require('@openfonts/m-plus-rounded-1c_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/m-plus-rounded-1c_all/index.css";
+```

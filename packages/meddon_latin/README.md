@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Meddon typeface
 require('@openfonts/meddon_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/meddon_latin/index.css";
+```

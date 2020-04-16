@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Smythe typeface
 require('@openfonts/smythe_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/smythe_latin/index.css";
+```

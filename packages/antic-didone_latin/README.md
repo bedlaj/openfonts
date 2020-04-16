@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Antic Didone typeface
 require('@openfonts/antic-didone_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/antic-didone_latin/index.css";
+```

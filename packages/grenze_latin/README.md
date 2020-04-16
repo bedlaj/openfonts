@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Grenze typeface
 require('@openfonts/grenze_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/grenze_latin/index.css";
+```

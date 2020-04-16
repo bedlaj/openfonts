@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Forum typeface
 require('@openfonts/forum_cyrillic-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/forum_cyrillic-ext/index.css";
+```

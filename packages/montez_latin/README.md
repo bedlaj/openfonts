@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Montez typeface
 require('@openfonts/montez_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/montez_latin/index.css";
+```

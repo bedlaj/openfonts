@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Special Elite typeface
 require('@openfonts/special-elite_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/special-elite_latin/index.css";
+```

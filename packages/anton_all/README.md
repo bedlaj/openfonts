@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Anton typeface
 require('@openfonts/anton_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/anton_all/index.css";
+```

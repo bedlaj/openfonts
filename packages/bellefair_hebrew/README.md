@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Bellefair typeface
 require('@openfonts/bellefair_hebrew')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/bellefair_hebrew/index.css";
+```

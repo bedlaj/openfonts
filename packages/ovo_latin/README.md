@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Ovo typeface
 require('@openfonts/ovo_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/ovo_latin/index.css";
+```

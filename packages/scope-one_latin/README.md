@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Scope One typeface
 require('@openfonts/scope-one_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/scope-one_latin/index.css";
+```

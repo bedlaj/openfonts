@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Jomhuria typeface
 require('@openfonts/jomhuria_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/jomhuria_all/index.css";
+```

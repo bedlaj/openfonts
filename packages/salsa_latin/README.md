@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Salsa typeface
 require('@openfonts/salsa_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/salsa_latin/index.css";
+```

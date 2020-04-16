@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Chicle typeface
 require('@openfonts/chicle_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/chicle_latin-ext/index.css";
+```

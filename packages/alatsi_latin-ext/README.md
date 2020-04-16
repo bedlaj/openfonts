@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Alatsi typeface
 require('@openfonts/alatsi_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/alatsi_latin-ext/index.css";
+```

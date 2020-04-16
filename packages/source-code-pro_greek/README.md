@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Source Code Pro typeface
 require('@openfonts/source-code-pro_greek')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/source-code-pro_greek/index.css";
+```

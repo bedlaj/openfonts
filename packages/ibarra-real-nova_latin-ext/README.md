@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Ibarra Real Nova typeface
 require('@openfonts/ibarra-real-nova_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/ibarra-real-nova_latin-ext/index.css";
+```

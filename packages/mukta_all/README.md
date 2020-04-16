@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Mukta typeface
 require('@openfonts/mukta_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/mukta_all/index.css";
+```

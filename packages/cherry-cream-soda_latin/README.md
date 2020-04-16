@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Cherry Cream Soda typeface
 require('@openfonts/cherry-cream-soda_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/cherry-cream-soda_latin/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Copse typeface
 require('@openfonts/copse_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/copse_latin/index.css";
+```

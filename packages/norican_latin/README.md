@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Norican typeface
 require('@openfonts/norican_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/norican_latin/index.css";
+```

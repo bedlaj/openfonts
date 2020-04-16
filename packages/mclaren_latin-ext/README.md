@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load McLaren typeface
 require('@openfonts/mclaren_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/mclaren_latin-ext/index.css";
+```

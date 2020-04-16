@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load IBM Plex Mono typeface
 require('@openfonts/ibm-plex-mono_cyrillic')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/ibm-plex-mono_cyrillic/index.css";
+```

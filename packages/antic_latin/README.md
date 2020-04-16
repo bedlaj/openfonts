@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Antic typeface
 require('@openfonts/antic_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/antic_latin/index.css";
+```

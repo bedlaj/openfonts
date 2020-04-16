@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Trocchi typeface
 require('@openfonts/trocchi_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/trocchi_latin/index.css";
+```

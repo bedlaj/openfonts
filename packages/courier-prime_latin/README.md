@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Courier Prime typeface
 require('@openfonts/courier-prime_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/courier-prime_latin/index.css";
+```

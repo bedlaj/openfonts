@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Inconsolata typeface
 require('@openfonts/inconsolata_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/inconsolata_latin/index.css";
+```

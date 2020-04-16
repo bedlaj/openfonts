@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load East Sea Dokdo typeface
 require('@openfonts/east-sea-dokdo_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/east-sea-dokdo_latin/index.css";
+```

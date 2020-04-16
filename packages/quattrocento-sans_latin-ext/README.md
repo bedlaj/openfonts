@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Quattrocento Sans typeface
 require('@openfonts/quattrocento-sans_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/quattrocento-sans_latin-ext/index.css";
+```

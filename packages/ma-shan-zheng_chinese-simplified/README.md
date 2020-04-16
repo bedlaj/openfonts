@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Ma Shan Zheng typeface
 require('@openfonts/ma-shan-zheng_chinese-simplified')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/ma-shan-zheng_chinese-simplified/index.css";
+```

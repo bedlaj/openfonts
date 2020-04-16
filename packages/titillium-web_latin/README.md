@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Titillium Web typeface
 require('@openfonts/titillium-web_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/titillium-web_latin/index.css";
+```

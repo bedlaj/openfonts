@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Pompiere typeface
 require('@openfonts/pompiere_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/pompiere_latin/index.css";
+```

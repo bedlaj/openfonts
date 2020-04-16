@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Medula One typeface
 require('@openfonts/medula-one_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/medula-one_latin/index.css";
+```

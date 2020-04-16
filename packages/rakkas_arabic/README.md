@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Rakkas typeface
 require('@openfonts/rakkas_arabic')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/rakkas_arabic/index.css";
+```

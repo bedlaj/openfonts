@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Elsie Swash Caps typeface
 require('@openfonts/elsie-swash-caps_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/elsie-swash-caps_latin-ext/index.css";
+```

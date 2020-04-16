@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Dhurjati typeface
 require('@openfonts/dhurjati_telugu')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/dhurjati_telugu/index.css";
+```

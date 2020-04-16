@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Literata typeface
 require('@openfonts/literata_cyrillic')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/literata_cyrillic/index.css";
+```

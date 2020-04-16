@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Armata typeface
 require('@openfonts/armata_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/armata_latin/index.css";
+```

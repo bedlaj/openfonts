@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Galindo typeface
 require('@openfonts/galindo_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/galindo_latin/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Mali typeface
 require('@openfonts/mali_thai')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/mali_thai/index.css";
+```

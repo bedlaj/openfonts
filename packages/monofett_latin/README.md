@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Monofett typeface
 require('@openfonts/monofett_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/monofett_latin/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Monda typeface
 require('@openfonts/monda_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/monda_latin/index.css";
+```

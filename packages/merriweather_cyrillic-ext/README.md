@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Merriweather typeface
 require('@openfonts/merriweather_cyrillic-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/merriweather_cyrillic-ext/index.css";
+```

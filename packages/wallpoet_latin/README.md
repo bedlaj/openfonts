@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Wallpoet typeface
 require('@openfonts/wallpoet_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/wallpoet_latin/index.css";
+```

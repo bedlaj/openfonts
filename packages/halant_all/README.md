@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Halant typeface
 require('@openfonts/halant_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/halant_all/index.css";
+```

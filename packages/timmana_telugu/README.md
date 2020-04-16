@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Timmana typeface
 require('@openfonts/timmana_telugu')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/timmana_telugu/index.css";
+```

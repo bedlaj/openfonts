@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Kantumruy typeface
 require('@openfonts/kantumruy_khmer')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/kantumruy_khmer/index.css";
+```

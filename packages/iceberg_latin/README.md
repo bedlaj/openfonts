@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Iceberg typeface
 require('@openfonts/iceberg_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/iceberg_latin/index.css";
+```

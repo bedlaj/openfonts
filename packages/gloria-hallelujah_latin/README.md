@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Gloria Hallelujah typeface
 require('@openfonts/gloria-hallelujah_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/gloria-hallelujah_latin/index.css";
+```

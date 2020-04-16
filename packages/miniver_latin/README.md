@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Miniver typeface
 require('@openfonts/miniver_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/miniver_latin/index.css";
+```

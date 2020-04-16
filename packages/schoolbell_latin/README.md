@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Schoolbell typeface
 require('@openfonts/schoolbell_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/schoolbell_latin/index.css";
+```

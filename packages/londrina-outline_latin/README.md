@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Londrina Outline typeface
 require('@openfonts/londrina-outline_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/londrina-outline_latin/index.css";
+```

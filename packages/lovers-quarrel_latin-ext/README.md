@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Lovers Quarrel typeface
 require('@openfonts/lovers-quarrel_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/lovers-quarrel_latin-ext/index.css";
+```

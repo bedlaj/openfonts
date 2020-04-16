@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Pirata One typeface
 require('@openfonts/pirata-one_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/pirata-one_latin/index.css";
+```

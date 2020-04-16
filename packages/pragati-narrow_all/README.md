@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Pragati Narrow typeface
 require('@openfonts/pragati-narrow_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/pragati-narrow_all/index.css";
+```

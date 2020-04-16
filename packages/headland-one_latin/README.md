@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Headland One typeface
 require('@openfonts/headland-one_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/headland-one_latin/index.css";
+```

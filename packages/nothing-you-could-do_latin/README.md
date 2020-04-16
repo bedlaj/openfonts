@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Nothing You Could Do typeface
 require('@openfonts/nothing-you-could-do_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/nothing-you-could-do_latin/index.css";
+```

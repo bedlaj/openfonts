@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Lancelot typeface
 require('@openfonts/lancelot_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/lancelot_latin-ext/index.css";
+```

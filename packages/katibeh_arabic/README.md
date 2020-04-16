@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Katibeh typeface
 require('@openfonts/katibeh_arabic')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/katibeh_arabic/index.css";
+```

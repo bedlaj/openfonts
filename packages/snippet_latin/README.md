@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Snippet typeface
 require('@openfonts/snippet_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/snippet_latin/index.css";
+```

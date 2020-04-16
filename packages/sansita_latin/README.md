@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Sansita typeface
 require('@openfonts/sansita_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/sansita_latin/index.css";
+```

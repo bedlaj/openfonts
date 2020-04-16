@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Andada typeface
 require('@openfonts/andada_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/andada_latin/index.css";
+```

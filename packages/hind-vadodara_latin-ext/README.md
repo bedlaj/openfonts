@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Hind Vadodara typeface
 require('@openfonts/hind-vadodara_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/hind-vadodara_latin-ext/index.css";
+```

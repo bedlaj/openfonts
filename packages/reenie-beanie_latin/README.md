@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Reenie Beanie typeface
 require('@openfonts/reenie-beanie_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/reenie-beanie_latin/index.css";
+```

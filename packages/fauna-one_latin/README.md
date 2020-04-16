@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Fauna One typeface
 require('@openfonts/fauna-one_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/fauna-one_latin/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Heebo typeface
 require('@openfonts/heebo_hebrew')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/heebo_hebrew/index.css";
+```

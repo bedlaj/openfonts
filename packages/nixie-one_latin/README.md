@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Nixie One typeface
 require('@openfonts/nixie-one_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/nixie-one_latin/index.css";
+```

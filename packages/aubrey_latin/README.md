@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Aubrey typeface
 require('@openfonts/aubrey_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/aubrey_latin/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Trykker typeface
 require('@openfonts/trykker_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/trykker_latin/index.css";
+```

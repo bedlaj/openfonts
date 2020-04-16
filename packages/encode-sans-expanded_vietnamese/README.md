@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Encode Sans Expanded typeface
 require('@openfonts/encode-sans-expanded_vietnamese')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/encode-sans-expanded_vietnamese/index.css";
+```

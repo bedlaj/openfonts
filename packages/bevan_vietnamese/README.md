@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Bevan typeface
 require('@openfonts/bevan_vietnamese')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/bevan_vietnamese/index.css";
+```

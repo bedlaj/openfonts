@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Radley typeface
 require('@openfonts/radley_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/radley_latin/index.css";
+```

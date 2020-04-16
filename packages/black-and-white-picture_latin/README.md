@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Black And White Picture typeface
 require('@openfonts/black-and-white-picture_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/black-and-white-picture_latin/index.css";
+```

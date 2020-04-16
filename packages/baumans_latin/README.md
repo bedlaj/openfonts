@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Baumans typeface
 require('@openfonts/baumans_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/baumans_latin/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Just Me Again Down Here typeface
 require('@openfonts/just-me-again-down-here_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/just-me-again-down-here_latin/index.css";
+```

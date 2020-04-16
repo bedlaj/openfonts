@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Sen typeface
 require('@openfonts/sen_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/sen_latin/index.css";
+```

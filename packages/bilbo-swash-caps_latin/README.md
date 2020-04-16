@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Bilbo Swash Caps typeface
 require('@openfonts/bilbo-swash-caps_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/bilbo-swash-caps_latin/index.css";
+```

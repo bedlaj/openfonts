@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Balthazar typeface
 require('@openfonts/balthazar_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/balthazar_latin/index.css";
+```

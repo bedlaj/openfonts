@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Creepster typeface
 require('@openfonts/creepster_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/creepster_latin/index.css";
+```

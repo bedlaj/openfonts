@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Eagle Lake typeface
 require('@openfonts/eagle-lake_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/eagle-lake_latin/index.css";
+```

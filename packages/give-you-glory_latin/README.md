@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Give You Glory typeface
 require('@openfonts/give-you-glory_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/give-you-glory_latin/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Encode Sans Semi Expanded typeface
 require('@openfonts/encode-sans-semi-expanded_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/encode-sans-semi-expanded_latin-ext/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Six Caps typeface
 require('@openfonts/six-caps_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/six-caps_latin/index.css";
+```

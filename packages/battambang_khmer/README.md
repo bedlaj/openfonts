@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Battambang typeface
 require('@openfonts/battambang_khmer')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/battambang_khmer/index.css";
+```

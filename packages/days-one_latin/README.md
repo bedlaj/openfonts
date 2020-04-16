@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Days One typeface
 require('@openfonts/days-one_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/days-one_latin/index.css";
+```

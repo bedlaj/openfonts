@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Petrona typeface
 require('@openfonts/petrona_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/petrona_latin/index.css";
+```

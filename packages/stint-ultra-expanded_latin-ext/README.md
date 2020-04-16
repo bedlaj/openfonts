@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Stint Ultra Expanded typeface
 require('@openfonts/stint-ultra-expanded_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/stint-ultra-expanded_latin-ext/index.css";
+```

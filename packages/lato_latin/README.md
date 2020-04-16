@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Lato typeface
 require('@openfonts/lato_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/lato_latin/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Judson typeface
 require('@openfonts/judson_vietnamese')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/judson_vietnamese/index.css";
+```

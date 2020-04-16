@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Big Shoulders Text typeface
 require('@openfonts/big-shoulders-text_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/big-shoulders-text_latin-ext/index.css";
+```

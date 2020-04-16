@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Kadwa typeface
 require('@openfonts/kadwa_devanagari')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/kadwa_devanagari/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Karma typeface
 require('@openfonts/karma_devanagari')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/karma_devanagari/index.css";
+```

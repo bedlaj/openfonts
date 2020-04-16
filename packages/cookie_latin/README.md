@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Cookie typeface
 require('@openfonts/cookie_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/cookie_latin/index.css";
+```

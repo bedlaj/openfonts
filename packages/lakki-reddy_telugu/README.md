@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Lakki Reddy typeface
 require('@openfonts/lakki-reddy_telugu')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/lakki-reddy_telugu/index.css";
+```

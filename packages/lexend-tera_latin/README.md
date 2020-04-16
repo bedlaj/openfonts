@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Lexend Tera typeface
 require('@openfonts/lexend-tera_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/lexend-tera_latin/index.css";
+```

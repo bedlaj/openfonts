@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Kanit typeface
 require('@openfonts/kanit_vietnamese')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/kanit_vietnamese/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Sanchez typeface
 require('@openfonts/sanchez_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/sanchez_latin-ext/index.css";
+```

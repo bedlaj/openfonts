@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Lemonada typeface
 require('@openfonts/lemonada_all')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/lemonada_all/index.css";
+```

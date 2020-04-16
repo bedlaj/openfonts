@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Beth Ellen typeface
 require('@openfonts/beth-ellen_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/beth-ellen_latin/index.css";
+```

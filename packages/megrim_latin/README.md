@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Megrim typeface
 require('@openfonts/megrim_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/megrim_latin/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Miriam Libre typeface
 require('@openfonts/miriam-libre_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/miriam-libre_latin-ext/index.css";
+```

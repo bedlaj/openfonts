@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Sevillana typeface
 require('@openfonts/sevillana_latin-ext')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/sevillana_latin-ext/index.css";
+```

@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Jua typeface
 require('@openfonts/jua_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/jua_latin/index.css";
+```

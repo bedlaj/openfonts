@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Khmer typeface
 require('@openfonts/khmer_khmer')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/khmer_khmer/index.css";
+```

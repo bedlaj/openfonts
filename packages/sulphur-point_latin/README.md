@@ -23,3 +23,8 @@ To use, simply require the package in your project’s entry file e.g.
 // Load Sulphur Point typeface
 require('@openfonts/sulphur-point_latin')
 ```
+
+Usage in SCSS:
+```scss
+@import "~@openfonts/sulphur-point_latin/index.css";
+```
