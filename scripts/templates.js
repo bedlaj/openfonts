@@ -64,5 +64,10 @@ To use, simply require the package in your project’s entry file e.g.
 // Load <%= typefaceName %> typeface
 require('@openfonts/<%= typefaceId %>_<%= typefaceSubset %>')
 \`\`\`
+
+Usage in SCSS:
+\`\`\`scss
+@import "~@openfonts/<%= typefaceId %>_<%= typefaceSubset %>/index.css";
+\`\`\`
 `
 )
