@@ -1,18 +1,21 @@
 {
   "name": "@openfonts/parent",
+  "scripts": {
+    "google": "node scripts/download-all-google-fonts.js"
+  },
   "devDependencies": {
-    "eslint": "^6.3.0",
-    "lerna": "^3.16.4",
-    "async": "^3.1.0",
-    "bluebird": "^3.5.5",
+    "async": "^3.2.0",
+    "bluebird": "^3.7.2",
+    "eslint": "^6.8.0",
     "fs-extra": "^8.1.0",
-    "glob": "^7.1.4",
+    "glob": "^7.1.6",
+    "lerna": "^3.20.2",
     "lodash": "^4.17.15",
     "md5-dir": "^0.2.0",
     "md5-file": "^4.0.0",
     "mt-files-downloader": "^0.2.5",
-    "request": "^2.88.0",
-    "request-promise": "^4.2.4",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5",
     "shelljs": "^0.8.3",
     "single-line-log": "^1.1.2",
     "sync-request": "^6.1.0",
