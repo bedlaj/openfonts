@@ -3,53 +3,117 @@
   "family": "Inconsolata",
   "variants": [
     {
+      "id": "200",
+      "svg": "https://fonts.gstatic.com/l/font?kit=QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7LppwU8WR32kA&skey=20fa6569a31c71ee&v=v19#Inconsolata",
+      "fontFamily": "'Inconsolata'",
+      "fontStyle": "normal",
+      "fontWeight": "200",
+      "woff": "https://fonts.gstatic.com/s/inconsolata/v19/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7LppwU8WR32kQ.woff",
+      "woff2": "https://fonts.gstatic.com/s/inconsolata/v19/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7LppwU8WR32lw.woff2",
+      "ttf": "https://fonts.gstatic.com/s/inconsolata/v19/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7LppwU8WR32kg.ttf",
+      "eot": "https://fonts.gstatic.com/s/inconsolata/v19/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7LppwU8WR32kw.eot",
+      "errored": false
+    },
+    {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=QldKNThLqRwH-OJ1UHjlKGlZ5q8&skey=20fa6569a31c71ee&v=v18#Inconsolata",
+      "eot": "https://fonts.gstatic.com/s/inconsolata/v19/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp4U8WR32kw.eot",
       "fontFamily": "'Inconsolata'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "local": [
-        "Inconsolata Regular",
-        "Inconsolata-Regular"
-      ],
-      "eot": "https://fonts.gstatic.com/s/inconsolata/v18/QldKNThLqRwH-OJ1UHjlKGlZ5qw.eot",
-      "ttf": "https://fonts.gstatic.com/s/inconsolata/v18/QldKNThLqRwH-OJ1UHjlKGlZ5q0.ttf",
-      "woff2": "https://fonts.gstatic.com/s/inconsolata/v18/QldKNThLqRwH-OJ1UHjlKGlZ5qg.woff2",
-      "woff": "https://fonts.gstatic.com/s/inconsolata/v18/QldKNThLqRwH-OJ1UHjlKGlZ5q4.woff",
+      "woff": "https://fonts.gstatic.com/s/inconsolata/v19/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp4U8WR32kQ.woff",
+      "woff2": "https://fonts.gstatic.com/s/inconsolata/v19/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp4U8WR32lw.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp4U8WR32kA&skey=20fa6569a31c71ee&v=v19#Inconsolata",
+      "ttf": "https://fonts.gstatic.com/s/inconsolata/v19/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp4U8WR32kg.ttf",
+      "errored": false
+    },
+    {
+      "id": "300",
+      "woff": "https://fonts.gstatic.com/s/inconsolata/v19/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp9s8WR32kQ.woff",
+      "fontFamily": "'Inconsolata'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "ttf": "https://fonts.gstatic.com/s/inconsolata/v19/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp9s8WR32kg.ttf",
+      "eot": "https://fonts.gstatic.com/s/inconsolata/v19/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp9s8WR32kw.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp9s8WR32kA&skey=20fa6569a31c71ee&v=v19#Inconsolata",
+      "woff2": "https://fonts.gstatic.com/s/inconsolata/v19/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp9s8WR32lw.woff2",
+      "errored": false
+    },
+    {
+      "id": "500",
+      "eot": "https://fonts.gstatic.com/s/inconsolata/v19/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp7c8WR32kw.eot",
+      "fontFamily": "'Inconsolata'",
+      "fontStyle": "normal",
+      "fontWeight": "500",
+      "woff2": "https://fonts.gstatic.com/s/inconsolata/v19/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp7c8WR32lw.woff2",
+      "ttf": "https://fonts.gstatic.com/s/inconsolata/v19/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp7c8WR32kg.ttf",
+      "woff": "https://fonts.gstatic.com/s/inconsolata/v19/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp7c8WR32kQ.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp7c8WR32kA&skey=20fa6569a31c71ee&v=v19#Inconsolata",
       "errored": false
     },
     {
       "id": "700",
-      "svg": "https://fonts.gstatic.com/l/font?kit=QldXNThLqRwH-OJ1UHjlKGHiw71p5_s&skey=92483760c58cd80&v=v18#Inconsolata",
+      "eot": "https://fonts.gstatic.com/s/inconsolata/v19/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp2I7WR32kw.eot",
       "fontFamily": "'Inconsolata'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "local": [
-        "Inconsolata Bold",
-        "Inconsolata-Bold"
-      ],
-      "woff": "https://fonts.gstatic.com/s/inconsolata/v18/QldXNThLqRwH-OJ1UHjlKGHiw71p5_o.woff",
-      "ttf": "https://fonts.gstatic.com/s/inconsolata/v18/QldXNThLqRwH-OJ1UHjlKGHiw71p5_k.ttf",
-      "eot": "https://fonts.gstatic.com/s/inconsolata/v18/QldXNThLqRwH-OJ1UHjlKGHiw71p5_g.eot",
-      "woff2": "https://fonts.gstatic.com/s/inconsolata/v18/QldXNThLqRwH-OJ1UHjlKGHiw71p5_w.woff2",
+      "woff": "https://fonts.gstatic.com/s/inconsolata/v19/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp2I7WR32kQ.woff",
+      "woff2": "https://fonts.gstatic.com/s/inconsolata/v19/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp2I7WR32lw.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp2I7WR32kA&skey=20fa6569a31c71ee&v=v19#Inconsolata",
+      "ttf": "https://fonts.gstatic.com/s/inconsolata/v19/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp2I7WR32kg.ttf",
+      "errored": false
+    },
+    {
+      "id": "600",
+      "woff": "https://fonts.gstatic.com/s/inconsolata/v19/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp1s7WR32kQ.woff",
+      "fontFamily": "'Inconsolata'",
+      "fontStyle": "normal",
+      "fontWeight": "600",
+      "svg": "https://fonts.gstatic.com/l/font?kit=QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp1s7WR32kA&skey=20fa6569a31c71ee&v=v19#Inconsolata",
+      "ttf": "https://fonts.gstatic.com/s/inconsolata/v19/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp1s7WR32kg.ttf",
+      "woff2": "https://fonts.gstatic.com/s/inconsolata/v19/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp1s7WR32lw.woff2",
+      "eot": "https://fonts.gstatic.com/s/inconsolata/v19/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp1s7WR32kw.eot",
+      "errored": false
+    },
+    {
+      "id": "800",
+      "eot": "https://fonts.gstatic.com/s/inconsolata/v19/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7LppwU7WR32kw.eot",
+      "fontFamily": "'Inconsolata'",
+      "fontStyle": "normal",
+      "fontWeight": "800",
+      "woff": "https://fonts.gstatic.com/s/inconsolata/v19/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7LppwU7WR32kQ.woff",
+      "woff2": "https://fonts.gstatic.com/s/inconsolata/v19/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7LppwU7WR32lw.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7LppwU7WR32kA&skey=20fa6569a31c71ee&v=v19#Inconsolata",
+      "ttf": "https://fonts.gstatic.com/s/inconsolata/v19/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7LppwU7WR32kg.ttf",
+      "errored": false
+    },
+    {
+      "id": "900",
+      "woff2": "https://fonts.gstatic.com/s/inconsolata/v19/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lppyw7WR32lw.woff2",
+      "fontFamily": "'Inconsolata'",
+      "fontStyle": "normal",
+      "fontWeight": "900",
+      "eot": "https://fonts.gstatic.com/s/inconsolata/v19/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lppyw7WR32kw.eot",
+      "woff": "https://fonts.gstatic.com/s/inconsolata/v19/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lppyw7WR32kQ.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lppyw7WR32kA&skey=20fa6569a31c71ee&v=v19#Inconsolata",
+      "ttf": "https://fonts.gstatic.com/s/inconsolata/v19/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lppyw7WR32kg.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "vietnamese",
     "latin",
-    "latin-ext"
+    "latin-ext",
+    "vietnamese"
   ],
   "category": "monospace",
-  "version": "v18",
-  "lastModified": "2019-07-22",
-  "popularity": 36,
+  "version": "v19",
+  "lastModified": "2020-04-20",
+  "popularity": 37,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "vietnamese": false,
     "latin": true,
-    "latin-ext": false
+    "latin-ext": false,
+    "vietnamese": false
   },
   "storeID": "latin"
 }
