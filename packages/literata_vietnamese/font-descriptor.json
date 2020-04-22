@@ -4,14 +4,26 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/literata/v15/or38Q6P12-iJxAIgLa78DkTtAoDhk0oVpaLlY55W.woff2",
+      "ttf": "https://fonts.gstatic.com/s/literata/v15/or38Q6P12-iJxAIgLa78DkTtAoDhk0oVpaLlY55T.ttf",
       "fontFamily": "'Literata'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "svg": "https://fonts.gstatic.com/l/font?kit=or38Q6P12-iJxAIgLa78DkTtAoDhk0oVpaLlY55R&skey=e5398b3698d0752&v=v15#Literata",
-      "ttf": "https://fonts.gstatic.com/s/literata/v15/or38Q6P12-iJxAIgLa78DkTtAoDhk0oVpaLlY55T.ttf",
-      "woff": "https://fonts.gstatic.com/s/literata/v15/or38Q6P12-iJxAIgLa78DkTtAoDhk0oVpaLlY55Q.woff",
       "eot": "https://fonts.gstatic.com/s/literata/v15/or38Q6P12-iJxAIgLa78DkTtAoDhk0oVpaLlY55S.eot",
+      "woff2": "https://fonts.gstatic.com/s/literata/v15/or38Q6P12-iJxAIgLa78DkTtAoDhk0oVpaLlY55W.woff2",
+      "woff": "https://fonts.gstatic.com/s/literata/v15/or38Q6P12-iJxAIgLa78DkTtAoDhk0oVpaLlY55Q.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=or38Q6P12-iJxAIgLa78DkTtAoDhk0oVpaLlY55R&skey=e5398b3698d0752&v=v15#Literata",
+      "errored": false
+    },
+    {
+      "id": "500",
+      "woff": "https://fonts.gstatic.com/s/literata/v15/or38Q6P12-iJxAIgLa78DkTtAoDhk0oVl6LlY55Q.woff",
+      "fontFamily": "'Literata'",
+      "fontStyle": "normal",
+      "fontWeight": "500",
+      "svg": "https://fonts.gstatic.com/l/font?kit=or38Q6P12-iJxAIgLa78DkTtAoDhk0oVl6LlY55R&skey=e5398b3698d0752&v=v15#Literata",
+      "eot": "https://fonts.gstatic.com/s/literata/v15/or38Q6P12-iJxAIgLa78DkTtAoDhk0oVl6LlY55S.eot",
+      "woff2": "https://fonts.gstatic.com/s/literata/v15/or38Q6P12-iJxAIgLa78DkTtAoDhk0oVl6LlY55W.woff2",
+      "ttf": "https://fonts.gstatic.com/s/literata/v15/or38Q6P12-iJxAIgLa78DkTtAoDhk0oVl6LlY55T.ttf",
       "errored": false
     },
     {
@@ -21,9 +33,9 @@
       "fontStyle": "normal",
       "fontWeight": "600",
       "woff": "https://fonts.gstatic.com/s/literata/v15/or38Q6P12-iJxAIgLa78DkTtAoDhk0oVe6XlY55Q.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=or38Q6P12-iJxAIgLa78DkTtAoDhk0oVe6XlY55R&skey=e5398b3698d0752&v=v15#Literata",
       "woff2": "https://fonts.gstatic.com/s/literata/v15/or38Q6P12-iJxAIgLa78DkTtAoDhk0oVe6XlY55W.woff2",
       "ttf": "https://fonts.gstatic.com/s/literata/v15/or38Q6P12-iJxAIgLa78DkTtAoDhk0oVe6XlY55T.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=or38Q6P12-iJxAIgLa78DkTtAoDhk0oVe6XlY55R&skey=e5398b3698d0752&v=v15#Literata",
       "errored": false
     },
     {
@@ -34,20 +46,8 @@
       "fontWeight": "700",
       "woff": "https://fonts.gstatic.com/s/literata/v15/or38Q6P12-iJxAIgLa78DkTtAoDhk0oVQqXlY55Q.woff",
       "woff2": "https://fonts.gstatic.com/s/literata/v15/or38Q6P12-iJxAIgLa78DkTtAoDhk0oVQqXlY55W.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=or38Q6P12-iJxAIgLa78DkTtAoDhk0oVQqXlY55R&skey=e5398b3698d0752&v=v15#Literata",
       "ttf": "https://fonts.gstatic.com/s/literata/v15/or38Q6P12-iJxAIgLa78DkTtAoDhk0oVQqXlY55T.ttf",
-      "errored": false
-    },
-    {
-      "id": "500",
-      "woff": "https://fonts.gstatic.com/s/literata/v15/or38Q6P12-iJxAIgLa78DkTtAoDhk0oVl6LlY55Q.woff",
-      "fontFamily": "'Literata'",
-      "fontStyle": "normal",
-      "fontWeight": "500",
-      "svg": "https://fonts.gstatic.com/l/font?kit=or38Q6P12-iJxAIgLa78DkTtAoDhk0oVl6LlY55R&skey=e5398b3698d0752&v=v15#Literata",
-      "woff2": "https://fonts.gstatic.com/s/literata/v15/or38Q6P12-iJxAIgLa78DkTtAoDhk0oVl6LlY55W.woff2",
-      "ttf": "https://fonts.gstatic.com/s/literata/v15/or38Q6P12-iJxAIgLa78DkTtAoDhk0oVl6LlY55T.ttf",
-      "eot": "https://fonts.gstatic.com/s/literata/v15/or38Q6P12-iJxAIgLa78DkTtAoDhk0oVl6LlY55S.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=or38Q6P12-iJxAIgLa78DkTtAoDhk0oVQqXlY55R&skey=e5398b3698d0752&v=v15#Literata",
       "errored": false
     },
     {
@@ -58,8 +58,8 @@
       "fontWeight": "500",
       "woff": "https://fonts.gstatic.com/s/literata/v15/or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeEPKK5b5C8.woff",
       "woff2": "https://fonts.gstatic.com/s/literata/v15/or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeEPKK5b5Ck.woff2",
-      "ttf": "https://fonts.gstatic.com/s/literata/v15/or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeEPKK5b5Cw.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeEPKK5b5C4&skey=7ce582f541f3de8d&v=v15#Literata",
+      "ttf": "https://fonts.gstatic.com/s/literata/v15/or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeEPKK5b5Cw.ttf",
       "errored": false
     },
     {
@@ -69,9 +69,9 @@
       "fontStyle": "italic",
       "fontWeight": "400",
       "woff": "https://fonts.gstatic.com/s/literata/v15/or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeE9KK5b5C8.woff",
-      "woff2": "https://fonts.gstatic.com/s/literata/v15/or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeE9KK5b5Ck.woff2",
       "ttf": "https://fonts.gstatic.com/s/literata/v15/or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeE9KK5b5Cw.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeE9KK5b5C4&skey=7ce582f541f3de8d&v=v15#Literata",
+      "woff2": "https://fonts.gstatic.com/s/literata/v15/or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeE9KK5b5Ck.woff2",
       "errored": false
     },
     {
@@ -81,18 +81,18 @@
       "fontStyle": "italic",
       "fontWeight": "600",
       "woff": "https://fonts.gstatic.com/s/literata/v15/or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeHjL65b5C8.woff",
-      "woff2": "https://fonts.gstatic.com/s/literata/v15/or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeHjL65b5Ck.woff2",
       "ttf": "https://fonts.gstatic.com/s/literata/v15/or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeHjL65b5Cw.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeHjL65b5C4&skey=7ce582f541f3de8d&v=v15#Literata",
+      "woff2": "https://fonts.gstatic.com/s/literata/v15/or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeHjL65b5Ck.woff2",
       "errored": false
     },
     {
       "id": "700italic",
-      "woff": "https://fonts.gstatic.com/s/literata/v15/or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeHaL65b5C8.woff",
+      "eot": "https://fonts.gstatic.com/s/literata/v15/or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeHaL65b5C0.eot",
       "fontFamily": "'Literata'",
       "fontStyle": "italic",
       "fontWeight": "700",
-      "eot": "https://fonts.gstatic.com/s/literata/v15/or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeHaL65b5C0.eot",
+      "woff": "https://fonts.gstatic.com/s/literata/v15/or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeHaL65b5C8.woff",
       "woff2": "https://fonts.gstatic.com/s/literata/v15/or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeHaL65b5Ck.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeHaL65b5C4&skey=7ce582f541f3de8d&v=v15#Literata",
       "ttf": "https://fonts.gstatic.com/s/literata/v15/or3yQ6P12-iJxAIgLYT1PLs1a-t7PU0AbeHaL65b5Cw.ttf",
@@ -100,26 +100,26 @@
     }
   ],
   "subsets": [
+    "cyrillic",
+    "greek",
     "greek-ext",
     "latin",
-    "cyrillic",
-    "vietnamese",
     "latin-ext",
-    "greek"
+    "vietnamese"
   ],
   "category": "serif",
   "version": "v15",
-  "lastModified": "2020-02-05",
-  "popularity": 544,
+  "lastModified": "2020-04-21",
+  "popularity": 539,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
+    "cyrillic": false,
+    "greek": false,
     "greek-ext": false,
     "latin": true,
-    "cyrillic": false,
-    "vietnamese": true,
     "latin-ext": false,
-    "greek": false
+    "vietnamese": true
   },
   "storeID": "vietnamese_latin"
 }

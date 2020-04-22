@@ -13,29 +13,29 @@
         "Gotu",
         "Gotu-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=o-0FIpksx3QOpHQBjA&skey=444c4bed0798dc3e&v=v1#Gotu",
-      "ttf": "https://fonts.gstatic.com/s/gotu/v1/o-0FIpksx3QOpHQBjg.ttf",
       "woff2": "https://fonts.gstatic.com/s/gotu/v1/o-0FIpksx3QOpHQBiw.woff2",
+      "ttf": "https://fonts.gstatic.com/s/gotu/v1/o-0FIpksx3QOpHQBjg.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=o-0FIpksx3QOpHQBjA&skey=444c4bed0798dc3e&v=v1#Gotu",
       "errored": false
     }
   ],
   "subsets": [
     "devanagari",
-    "latin-ext",
     "latin",
+    "latin-ext",
     "vietnamese"
   ],
   "category": "sans-serif",
   "version": "v1",
-  "lastModified": "2020-03-06",
-  "popularity": 992,
+  "lastModified": "2020-04-21",
+  "popularity": 836,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "devanagari": false,
-    "latin-ext": true,
     "latin": true,
+    "latin-ext": true,
     "vietnamese": false
   },
-  "storeID": "latin_latin-ext"
+  "storeID": "latin-ext_latin"
 }

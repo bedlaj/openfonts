@@ -8,14 +8,30 @@
       "fontFamily": "'Bellota'",
       "fontStyle": "normal",
       "fontWeight": "300",
-      "woff2": "https://fonts.gstatic.com/s/bellota/v1/MwQzbhXl3_qEpiwAID55oGAfiA.woff2",
+      "woff": "https://fonts.gstatic.com/s/bellota/v1/MwQzbhXl3_qEpiwAID55oGAfjg.woff",
       "local": [
         "Bellota Light",
         "Bellota-Light"
       ],
-      "woff": "https://fonts.gstatic.com/s/bellota/v1/MwQzbhXl3_qEpiwAID55oGAfjg.woff",
-      "ttf": "https://fonts.gstatic.com/s/bellota/v1/MwQzbhXl3_qEpiwAID55oGAfjQ.ttf",
+      "woff2": "https://fonts.gstatic.com/s/bellota/v1/MwQzbhXl3_qEpiwAID55oGAfiA.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=MwQzbhXl3_qEpiwAID55oGAfjw&skey=e2ba5ab2e947ffe8&v=v1#Bellota",
+      "ttf": "https://fonts.gstatic.com/s/bellota/v1/MwQzbhXl3_qEpiwAID55oGAfjQ.ttf",
+      "errored": false
+    },
+    {
+      "id": "300italic",
+      "woff2": "https://fonts.gstatic.com/s/bellota/v1/MwQxbhXl3_qEpiwAKJBjHGEvjpFL.woff2",
+      "fontFamily": "'Bellota'",
+      "fontStyle": "italic",
+      "fontWeight": "300",
+      "local": [
+        "Bellota Light Italic",
+        "Bellota-LightItalic"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/bellota/v1/MwQxbhXl3_qEpiwAKJBjHGEvjpFO.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=MwQxbhXl3_qEpiwAKJBjHGEvjpFM&skey=9742ea2d618efdee&v=v1#Bellota",
+      "woff": "https://fonts.gstatic.com/s/bellota/v1/MwQxbhXl3_qEpiwAKJBjHGEvjpFN.woff",
+      "eot": "https://fonts.gstatic.com/s/bellota/v1/MwQxbhXl3_qEpiwAKJBjHGEvjpFP.eot",
       "errored": false
     },
     {
@@ -30,8 +46,8 @@
         "Bellota-Regular"
       ],
       "woff2": "https://fonts.gstatic.com/s/bellota/v1/MwQ2bhXl3_qEpiwAKJFbtQ.woff2",
-      "ttf": "https://fonts.gstatic.com/s/bellota/v1/MwQ2bhXl3_qEpiwAKJFbsA.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=MwQ2bhXl3_qEpiwAKJFbsg&skey=e2c3a6041dcecc79&v=v1#Bellota",
+      "ttf": "https://fonts.gstatic.com/s/bellota/v1/MwQ2bhXl3_qEpiwAKJFbsA.ttf",
       "errored": false
     },
     {
@@ -51,35 +67,19 @@
       "errored": false
     },
     {
-      "id": "300italic",
-      "woff": "https://fonts.gstatic.com/s/bellota/v1/MwQxbhXl3_qEpiwAKJBjHGEvjpFN.woff",
-      "fontFamily": "'Bellota'",
-      "fontStyle": "italic",
-      "fontWeight": "300",
-      "local": [
-        "Bellota Light Italic",
-        "Bellota-LightItalic"
-      ],
-      "eot": "https://fonts.gstatic.com/s/bellota/v1/MwQxbhXl3_qEpiwAKJBjHGEvjpFP.eot",
-      "woff2": "https://fonts.gstatic.com/s/bellota/v1/MwQxbhXl3_qEpiwAKJBjHGEvjpFL.woff2",
-      "ttf": "https://fonts.gstatic.com/s/bellota/v1/MwQxbhXl3_qEpiwAKJBjHGEvjpFO.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=MwQxbhXl3_qEpiwAKJBjHGEvjpFM&skey=9742ea2d618efdee&v=v1#Bellota",
-      "errored": false
-    },
-    {
       "id": "700",
-      "eot": "https://fonts.gstatic.com/s/bellota/v1/MwQzbhXl3_qEpiwAIC5-oGAfjA.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=MwQzbhXl3_qEpiwAIC5-oGAfjw&skey=40c8fa07f2af0a07&v=v1#Bellota",
       "fontFamily": "'Bellota'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/bellota/v1/MwQzbhXl3_qEpiwAIC5-oGAfjg.woff",
       "local": [
         "Bellota Bold",
         "Bellota-Bold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/bellota/v1/MwQzbhXl3_qEpiwAIC5-oGAfiA.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=MwQzbhXl3_qEpiwAIC5-oGAfjw&skey=40c8fa07f2af0a07&v=v1#Bellota",
+      "woff": "https://fonts.gstatic.com/s/bellota/v1/MwQzbhXl3_qEpiwAIC5-oGAfjg.woff",
       "ttf": "https://fonts.gstatic.com/s/bellota/v1/MwQzbhXl3_qEpiwAIC5-oGAfjQ.ttf",
+      "eot": "https://fonts.gstatic.com/s/bellota/v1/MwQzbhXl3_qEpiwAIC5-oGAfjA.eot",
+      "woff2": "https://fonts.gstatic.com/s/bellota/v1/MwQzbhXl3_qEpiwAIC5-oGAfiA.woff2",
       "errored": false
     },
     {
@@ -94,28 +94,28 @@
         "Bellota-BoldItalic"
       ],
       "woff2": "https://fonts.gstatic.com/s/bellota/v1/MwQxbhXl3_qEpiwAKJBjDGYvjpFL.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=MwQxbhXl3_qEpiwAKJBjDGYvjpFM&skey=5195bf9e86b05515&v=v1#Bellota",
       "ttf": "https://fonts.gstatic.com/s/bellota/v1/MwQxbhXl3_qEpiwAKJBjDGYvjpFO.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=MwQxbhXl3_qEpiwAKJBjDGYvjpFM&skey=5195bf9e86b05515&v=v1#Bellota",
       "errored": false
     }
   ],
   "subsets": [
-    "latin-ext",
-    "latin",
     "cyrillic",
+    "latin",
+    "latin-ext",
     "vietnamese"
   ],
   "category": "display",
   "version": "v1",
-  "lastModified": "2020-03-06",
-  "popularity": 990,
+  "lastModified": "2020-04-21",
+  "popularity": 953,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin-ext": false,
-    "latin": true,
     "cyrillic": true,
+    "latin": true,
+    "latin-ext": false,
     "vietnamese": false
   },
-  "storeID": "cyrillic_latin"
+  "storeID": "latin_cyrillic"
 }
