@@ -4,9 +4,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 100;
-  src:
-    local('Exo Thin'),
-    local('Exo-Thin'), 
+  src: 
     url('./files/exo-vietnamese-100.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/exo-vietnamese-100.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
@@ -16,9 +14,7 @@
   font-style: italic;
   font-display: swap;
   font-weight: 100;
-  src:
-    local('Exo Thin Italic'),
-    local('Exo-ThinItalic'), 
+  src: 
     url('./files/exo-vietnamese-100-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/exo-vietnamese-100-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
@@ -28,9 +24,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 200;
-  src:
-    local('Exo ExtraLight'),
-    local('Exo-ExtraLight'), 
+  src: 
     url('./files/exo-vietnamese-200.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/exo-vietnamese-200.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
@@ -40,9 +34,7 @@
   font-style: italic;
   font-display: swap;
   font-weight: 200;
-  src:
-    local('Exo ExtraLight Italic'),
-    local('Exo-ExtraLightItalic'), 
+  src: 
     url('./files/exo-vietnamese-200-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/exo-vietnamese-200-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
@@ -52,9 +44,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 300;
-  src:
-    local('Exo Light'),
-    local('Exo-Light'), 
+  src: 
     url('./files/exo-vietnamese-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/exo-vietnamese-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
@@ -64,9 +54,7 @@
   font-style: italic;
   font-display: swap;
   font-weight: 300;
-  src:
-    local('Exo Light Italic'),
-    local('Exo-LightItalic'), 
+  src: 
     url('./files/exo-vietnamese-300-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/exo-vietnamese-300-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
@@ -76,9 +64,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src:
-    local('Exo Regular'),
-    local('Exo-Regular'), 
+  src: 
     url('./files/exo-vietnamese-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/exo-vietnamese-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
@@ -88,9 +74,7 @@
   font-style: italic;
   font-display: swap;
   font-weight: 400;
-  src:
-    local('Exo Italic'),
-    local('Exo-Italic'), 
+  src: 
     url('./files/exo-vietnamese-400-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/exo-vietnamese-400-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
@@ -100,9 +84,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 500;
-  src:
-    local('Exo Medium'),
-    local('Exo-Medium'), 
+  src: 
     url('./files/exo-vietnamese-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/exo-vietnamese-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
@@ -112,9 +94,7 @@
   font-style: italic;
   font-display: swap;
   font-weight: 500;
-  src:
-    local('Exo Medium Italic'),
-    local('Exo-MediumItalic'), 
+  src: 
     url('./files/exo-vietnamese-500-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/exo-vietnamese-500-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
@@ -124,9 +104,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 600;
-  src:
-    local('Exo SemiBold'),
-    local('Exo-SemiBold'), 
+  src: 
     url('./files/exo-vietnamese-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/exo-vietnamese-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
@@ -136,9 +114,7 @@
   font-style: italic;
   font-display: swap;
   font-weight: 600;
-  src:
-    local('Exo SemiBold Italic'),
-    local('Exo-SemiBoldItalic'), 
+  src: 
     url('./files/exo-vietnamese-600-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/exo-vietnamese-600-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
@@ -148,9 +124,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 700;
-  src:
-    local('Exo Bold'),
-    local('Exo-Bold'), 
+  src: 
     url('./files/exo-vietnamese-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/exo-vietnamese-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
@@ -160,9 +134,7 @@
   font-style: italic;
   font-display: swap;
   font-weight: 700;
-  src:
-    local('Exo Bold Italic'),
-    local('Exo-BoldItalic'), 
+  src: 
     url('./files/exo-vietnamese-700-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/exo-vietnamese-700-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
@@ -172,9 +144,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 800;
-  src:
-    local('Exo ExtraBold'),
-    local('Exo-ExtraBold'), 
+  src: 
     url('./files/exo-vietnamese-800.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/exo-vietnamese-800.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
@@ -184,9 +154,7 @@
   font-style: italic;
   font-display: swap;
   font-weight: 800;
-  src:
-    local('Exo ExtraBold Italic'),
-    local('Exo-ExtraBoldItalic'), 
+  src: 
     url('./files/exo-vietnamese-800-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/exo-vietnamese-800-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
@@ -196,9 +164,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 900;
-  src:
-    local('Exo Black'),
-    local('Exo-Black'), 
+  src: 
     url('./files/exo-vietnamese-900.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/exo-vietnamese-900.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
@@ -208,9 +174,7 @@
   font-style: italic;
   font-display: swap;
   font-weight: 900;
-  src:
-    local('Exo Black Italic'),
-    local('Exo-BlackItalic'), 
+  src: 
     url('./files/exo-vietnamese-900-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/exo-vietnamese-900-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
