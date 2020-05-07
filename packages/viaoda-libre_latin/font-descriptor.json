@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/viaodalibre/v1/vEFW2_lWCgoR6OKuRz9kcRV5aGgf.woff",
+      "eot": "https://fonts.gstatic.com/s/viaodalibre/v2/vEFW2_lWCgoR6OKuRz9kcRV5aGgd.eot",
       "fontFamily": "'Viaoda Libre'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "svg": "https://fonts.gstatic.com/l/font?kit=vEFW2_lWCgoR6OKuRz9kcRV5aGge&skey=8cf4790983ec0afc&v=v2#ViaodaLibre",
       "local": [
         "Viaoda Libre Regular",
         "ViaodaLibre-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/viaodalibre/v1/vEFW2_lWCgoR6OKuRz9kcRV5aGgd.eot",
-      "woff2": "https://fonts.gstatic.com/s/viaodalibre/v1/vEFW2_lWCgoR6OKuRz9kcRV5aGgZ.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=vEFW2_lWCgoR6OKuRz9kcRV5aGge&skey=8cf4790983ec0afc&v=v1#ViaodaLibre",
-      "ttf": "https://fonts.gstatic.com/s/viaodalibre/v1/vEFW2_lWCgoR6OKuRz9kcRV5aGgc.ttf",
+      "woff2": "https://fonts.gstatic.com/s/viaodalibre/v2/vEFW2_lWCgoR6OKuRz9kcRV5aGgZ.woff2",
+      "woff": "https://fonts.gstatic.com/s/viaodalibre/v2/vEFW2_lWCgoR6OKuRz9kcRV5aGgf.woff",
+      "ttf": "https://fonts.gstatic.com/s/viaodalibre/v2/vEFW2_lWCgoR6OKuRz9kcRV5aGgc.ttf",
       "errored": false
     }
   ],
@@ -27,9 +27,9 @@
     "vietnamese"
   ],
   "category": "display",
-  "version": "v1",
-  "lastModified": "2020-04-21",
-  "popularity": 983,
+  "version": "v2",
+  "lastModified": "2020-05-06",
+  "popularity": 985,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
