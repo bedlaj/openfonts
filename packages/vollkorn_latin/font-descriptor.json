@@ -4,154 +4,170 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/vollkorn/v10/0yb9GDoxxrvAnPhYGxkpaE0.woff2",
+      "woff": "https://fonts.gstatic.com/s/vollkorn/v11/0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df2MHGeHmma.woff",
       "fontFamily": "'Vollkorn'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "local": [
-        "Vollkorn Regular",
-        "Vollkorn-Regular"
-      ],
-      "eot": "https://fonts.gstatic.com/s/vollkorn/v10/0yb9GDoxxrvAnPhYGxkpaEk.eot",
-      "ttf": "https://fonts.gstatic.com/s/vollkorn/v10/0yb9GDoxxrvAnPhYGxkpaEg.ttf",
-      "woff": "https://fonts.gstatic.com/s/vollkorn/v10/0yb9GDoxxrvAnPhYGxkpaEs.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=0yb9GDoxxrvAnPhYGxkpaEo&skey=70793812edfff824&v=v10#Vollkorn",
+      "woff2": "https://fonts.gstatic.com/s/vollkorn/v11/0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df2MHGeHmmc.woff2",
+      "eot": "https://fonts.gstatic.com/s/vollkorn/v11/0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df2MHGeHmmY.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df2MHGeHmmb&skey=70793812edfff824&v=v11#Vollkorn",
+      "ttf": "https://fonts.gstatic.com/s/vollkorn/v11/0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df2MHGeHmmZ.ttf",
       "errored": false
     },
     {
-      "id": "italic",
-      "woff2": "https://fonts.gstatic.com/s/vollkorn/v10/0yb7GDoxxrvAnPhYGxksWE8eqQ.woff2",
+      "id": "500",
+      "svg": "https://fonts.gstatic.com/l/font?kit=0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df2AnGeHmmb&skey=70793812edfff824&v=v11#Vollkorn",
       "fontFamily": "'Vollkorn'",
-      "fontStyle": "italic",
-      "fontWeight": "400",
-      "local": [
-        "Vollkorn Italic",
-        "Vollkorn-Italic"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=0yb7GDoxxrvAnPhYGxksWE8erg&skey=32518239f351a3af&v=v10#Vollkorn",
-      "woff": "https://fonts.gstatic.com/s/vollkorn/v10/0yb7GDoxxrvAnPhYGxksWE8erw.woff",
-      "ttf": "https://fonts.gstatic.com/s/vollkorn/v10/0yb7GDoxxrvAnPhYGxksWE8erA.ttf",
-      "eot": "https://fonts.gstatic.com/s/vollkorn/v10/0yb7GDoxxrvAnPhYGxksWE8erQ.eot",
+      "fontStyle": "normal",
+      "fontWeight": "500",
+      "ttf": "https://fonts.gstatic.com/s/vollkorn/v11/0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df2AnGeHmmZ.ttf",
+      "woff": "https://fonts.gstatic.com/s/vollkorn/v11/0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df2AnGeHmma.woff",
+      "woff2": "https://fonts.gstatic.com/s/vollkorn/v11/0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df2AnGeHmmc.woff2",
+      "eot": "https://fonts.gstatic.com/s/vollkorn/v11/0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df2AnGeHmmY.eot",
       "errored": false
     },
     {
       "id": "600",
-      "ttf": "https://fonts.gstatic.com/s/vollkorn/v10/0yb6GDoxxrvAnPhYGxH2TFg5jBA.ttf",
+      "eot": "https://fonts.gstatic.com/s/vollkorn/v11/0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df27naeHmmY.eot",
       "fontFamily": "'Vollkorn'",
       "fontStyle": "normal",
       "fontWeight": "600",
-      "local": [
-        "Vollkorn SemiBold",
-        "Vollkorn-SemiBold"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/vollkorn/v10/0yb6GDoxxrvAnPhYGxH2TFg5jBU.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=0yb6GDoxxrvAnPhYGxH2TFg5jBI&skey=41e95230d3cb30e8&v=v10#Vollkorn",
-      "woff": "https://fonts.gstatic.com/s/vollkorn/v10/0yb6GDoxxrvAnPhYGxH2TFg5jBM.woff",
-      "eot": "https://fonts.gstatic.com/s/vollkorn/v10/0yb6GDoxxrvAnPhYGxH2TFg5jBE.eot",
-      "errored": false
-    },
-    {
-      "id": "600italic",
-      "ttf": "https://fonts.gstatic.com/s/vollkorn/v10/0yb4GDoxxrvAnPhYGxksUJA6vBcU_Q.ttf",
-      "fontFamily": "'Vollkorn'",
-      "fontStyle": "italic",
-      "fontWeight": "600",
-      "local": [
-        "Vollkorn SemiBold Italic",
-        "Vollkorn-SemiBoldItalic"
-      ],
-      "woff": "https://fonts.gstatic.com/s/vollkorn/v10/0yb4GDoxxrvAnPhYGxksUJA6vBcU_g.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=0yb4GDoxxrvAnPhYGxksUJA6vBcU_w&skey=a1c9e88853ea3e2d&v=v10#Vollkorn",
-      "eot": "https://fonts.gstatic.com/s/vollkorn/v10/0yb4GDoxxrvAnPhYGxksUJA6vBcU_A.eot",
-      "woff2": "https://fonts.gstatic.com/s/vollkorn/v10/0yb4GDoxxrvAnPhYGxksUJA6vBcU-A.woff2",
+      "woff": "https://fonts.gstatic.com/s/vollkorn/v11/0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df27naeHmma.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df27naeHmmb&skey=70793812edfff824&v=v11#Vollkorn",
+      "ttf": "https://fonts.gstatic.com/s/vollkorn/v11/0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df27naeHmmZ.ttf",
+      "woff2": "https://fonts.gstatic.com/s/vollkorn/v11/0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df27naeHmmc.woff2",
       "errored": false
     },
     {
       "id": "700",
-      "woff": "https://fonts.gstatic.com/s/vollkorn/v10/0yb6GDoxxrvAnPhYGxGSTVg5jBM.woff",
+      "woff": "https://fonts.gstatic.com/s/vollkorn/v11/0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df213aeHmma.woff",
       "fontFamily": "'Vollkorn'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "local": [
-        "Vollkorn Bold",
-        "Vollkorn-Bold"
-      ],
-      "ttf": "https://fonts.gstatic.com/s/vollkorn/v10/0yb6GDoxxrvAnPhYGxGSTVg5jBA.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=0yb6GDoxxrvAnPhYGxGSTVg5jBI&skey=fcca972bacfda2c0&v=v10#Vollkorn",
-      "woff2": "https://fonts.gstatic.com/s/vollkorn/v10/0yb6GDoxxrvAnPhYGxGSTVg5jBU.woff2",
-      "eot": "https://fonts.gstatic.com/s/vollkorn/v10/0yb6GDoxxrvAnPhYGxGSTVg5jBE.eot",
+      "woff2": "https://fonts.gstatic.com/s/vollkorn/v11/0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df213aeHmmc.woff2",
+      "eot": "https://fonts.gstatic.com/s/vollkorn/v11/0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df213aeHmmY.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df213aeHmmb&skey=70793812edfff824&v=v11#Vollkorn",
+      "ttf": "https://fonts.gstatic.com/s/vollkorn/v11/0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df213aeHmmZ.ttf",
       "errored": false
     },
     {
-      "id": "700italic",
-      "ttf": "https://fonts.gstatic.com/s/vollkorn/v10/0yb4GDoxxrvAnPhYGxksUPQ7vBcU_Q.ttf",
+      "id": "800",
+      "eot": "https://fonts.gstatic.com/s/vollkorn/v11/0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df2sHaeHmmY.eot",
       "fontFamily": "'Vollkorn'",
-      "fontStyle": "italic",
-      "fontWeight": "700",
-      "local": [
-        "Vollkorn Bold Italic",
-        "Vollkorn-BoldItalic"
-      ],
-      "eot": "https://fonts.gstatic.com/s/vollkorn/v10/0yb4GDoxxrvAnPhYGxksUPQ7vBcU_A.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=0yb4GDoxxrvAnPhYGxksUPQ7vBcU_w&skey=10b3db0dffc249bc&v=v10#Vollkorn",
-      "woff": "https://fonts.gstatic.com/s/vollkorn/v10/0yb4GDoxxrvAnPhYGxksUPQ7vBcU_g.woff",
-      "woff2": "https://fonts.gstatic.com/s/vollkorn/v10/0yb4GDoxxrvAnPhYGxksUPQ7vBcU-A.woff2",
+      "fontStyle": "normal",
+      "fontWeight": "800",
+      "svg": "https://fonts.gstatic.com/l/font?kit=0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df2sHaeHmmb&skey=70793812edfff824&v=v11#Vollkorn",
+      "ttf": "https://fonts.gstatic.com/s/vollkorn/v11/0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df2sHaeHmmZ.ttf",
+      "woff": "https://fonts.gstatic.com/s/vollkorn/v11/0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df2sHaeHmma.woff",
+      "woff2": "https://fonts.gstatic.com/s/vollkorn/v11/0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df2sHaeHmmc.woff2",
       "errored": false
     },
     {
       "id": "900",
-      "woff": "https://fonts.gstatic.com/s/vollkorn/v10/0yb6GDoxxrvAnPhYGxGqT1g5jBM.woff",
+      "woff": "https://fonts.gstatic.com/s/vollkorn/v11/0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df2mXaeHmma.woff",
       "fontFamily": "'Vollkorn'",
       "fontStyle": "normal",
       "fontWeight": "900",
-      "local": [
-        "Vollkorn Black",
-        "Vollkorn-Black"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/vollkorn/v10/0yb6GDoxxrvAnPhYGxGqT1g5jBU.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=0yb6GDoxxrvAnPhYGxGqT1g5jBI&skey=fbeeaa50e464c9f3&v=v10#Vollkorn",
-      "ttf": "https://fonts.gstatic.com/s/vollkorn/v10/0yb6GDoxxrvAnPhYGxGqT1g5jBA.ttf",
-      "eot": "https://fonts.gstatic.com/s/vollkorn/v10/0yb6GDoxxrvAnPhYGxGqT1g5jBE.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df2mXaeHmmb&skey=70793812edfff824&v=v11#Vollkorn",
+      "woff2": "https://fonts.gstatic.com/s/vollkorn/v11/0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df2mXaeHmmc.woff2",
+      "ttf": "https://fonts.gstatic.com/s/vollkorn/v11/0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df2mXaeHmmZ.ttf",
+      "eot": "https://fonts.gstatic.com/s/vollkorn/v11/0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df2mXaeHmmY.eot",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "eot": "https://fonts.gstatic.com/s/vollkorn/v11/0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DJGWlmeObA.eot",
+      "fontFamily": "'Vollkorn'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/vollkorn/v11/0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DJGWlmeObI.woff",
+      "woff2": "https://fonts.gstatic.com/s/vollkorn/v11/0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DJGWlmeObQ.woff2",
+      "ttf": "https://fonts.gstatic.com/s/vollkorn/v11/0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DJGWlmeObE.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DJGWlmeObM&skey=32518239f351a3af&v=v11#Vollkorn",
+      "errored": false
+    },
+    {
+      "id": "600italic",
+      "eot": "https://fonts.gstatic.com/s/vollkorn/v11/0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DKYXVmeObA.eot",
+      "fontFamily": "'Vollkorn'",
+      "fontStyle": "italic",
+      "fontWeight": "600",
+      "woff": "https://fonts.gstatic.com/s/vollkorn/v11/0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DKYXVmeObI.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DKYXVmeObM&skey=32518239f351a3af&v=v11#Vollkorn",
+      "woff2": "https://fonts.gstatic.com/s/vollkorn/v11/0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DKYXVmeObQ.woff2",
+      "ttf": "https://fonts.gstatic.com/s/vollkorn/v11/0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DKYXVmeObE.ttf",
+      "errored": false
+    },
+    {
+      "id": "500italic",
+      "eot": "https://fonts.gstatic.com/s/vollkorn/v11/0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DJ0WlmeObA.eot",
+      "fontFamily": "'Vollkorn'",
+      "fontStyle": "italic",
+      "fontWeight": "500",
+      "woff": "https://fonts.gstatic.com/s/vollkorn/v11/0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DJ0WlmeObI.woff",
+      "woff2": "https://fonts.gstatic.com/s/vollkorn/v11/0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DJ0WlmeObQ.woff2",
+      "ttf": "https://fonts.gstatic.com/s/vollkorn/v11/0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DJ0WlmeObE.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DJ0WlmeObM&skey=32518239f351a3af&v=v11#Vollkorn",
+      "errored": false
+    },
+    {
+      "id": "800italic",
+      "eot": "https://fonts.gstatic.com/s/vollkorn/v11/0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DLGXVmeObA.eot",
+      "fontFamily": "'Vollkorn'",
+      "fontStyle": "italic",
+      "fontWeight": "800",
+      "woff2": "https://fonts.gstatic.com/s/vollkorn/v11/0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DLGXVmeObQ.woff2",
+      "woff": "https://fonts.gstatic.com/s/vollkorn/v11/0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DLGXVmeObI.woff",
+      "ttf": "https://fonts.gstatic.com/s/vollkorn/v11/0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DLGXVmeObE.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DLGXVmeObM&skey=32518239f351a3af&v=v11#Vollkorn",
+      "errored": false
+    },
+    {
+      "id": "700italic",
+      "eot": "https://fonts.gstatic.com/s/vollkorn/v11/0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DKhXVmeObA.eot",
+      "fontFamily": "'Vollkorn'",
+      "fontStyle": "italic",
+      "fontWeight": "700",
+      "svg": "https://fonts.gstatic.com/l/font?kit=0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DKhXVmeObM&skey=32518239f351a3af&v=v11#Vollkorn",
+      "ttf": "https://fonts.gstatic.com/s/vollkorn/v11/0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DKhXVmeObE.ttf",
+      "woff2": "https://fonts.gstatic.com/s/vollkorn/v11/0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DKhXVmeObQ.woff2",
+      "woff": "https://fonts.gstatic.com/s/vollkorn/v11/0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DKhXVmeObI.woff",
       "errored": false
     },
     {
       "id": "900italic",
-      "ttf": "https://fonts.gstatic.com/s/vollkorn/v10/0yb4GDoxxrvAnPhYGxksUMw5vBcU_Q.ttf",
+      "woff": "https://fonts.gstatic.com/s/vollkorn/v11/0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DLvXVmeObI.woff",
       "fontFamily": "'Vollkorn'",
       "fontStyle": "italic",
       "fontWeight": "900",
-      "local": [
-        "Vollkorn Black Italic",
-        "Vollkorn-BlackItalic"
-      ],
-      "eot": "https://fonts.gstatic.com/s/vollkorn/v10/0yb4GDoxxrvAnPhYGxksUMw5vBcU_A.eot",
-      "woff2": "https://fonts.gstatic.com/s/vollkorn/v10/0yb4GDoxxrvAnPhYGxksUMw5vBcU-A.woff2",
-      "woff": "https://fonts.gstatic.com/s/vollkorn/v10/0yb4GDoxxrvAnPhYGxksUMw5vBcU_g.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=0yb4GDoxxrvAnPhYGxksUMw5vBcU_w&skey=c668b54c918d784&v=v10#Vollkorn",
+      "svg": "https://fonts.gstatic.com/l/font?kit=0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DLvXVmeObM&skey=32518239f351a3af&v=v11#Vollkorn",
+      "woff2": "https://fonts.gstatic.com/s/vollkorn/v11/0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DLvXVmeObQ.woff2",
+      "ttf": "https://fonts.gstatic.com/s/vollkorn/v11/0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DLvXVmeObE.ttf",
+      "eot": "https://fonts.gstatic.com/s/vollkorn/v11/0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DLvXVmeObA.eot",
       "errored": false
     }
   ],
   "subsets": [
-    "greek",
-    "vietnamese",
-    "latin",
-    "cyrillic-ext",
     "cyrillic",
-    "latin-ext"
+    "cyrillic-ext",
+    "greek",
+    "latin",
+    "latin-ext",
+    "vietnamese"
   ],
   "category": "serif",
-  "version": "v10",
-  "lastModified": "2019-07-17",
-  "popularity": 86,
+  "version": "v11",
+  "lastModified": "2020-05-13",
+  "popularity": 109,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "greek": false,
-    "vietnamese": false,
-    "latin": true,
-    "cyrillic-ext": false,
     "cyrillic": false,
-    "latin-ext": false
+    "cyrillic-ext": false,
+    "greek": false,
+    "latin": true,
+    "latin-ext": false,
+    "vietnamese": false
   },
   "storeID": "latin"
 }
