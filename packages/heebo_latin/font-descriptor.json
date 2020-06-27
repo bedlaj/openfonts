@@ -4,114 +4,110 @@
   "variants": [
     {
       "id": "100",
-      "woff": "https://fonts.gstatic.com/s/heebo/v7/NGS0v5_NC0k9P9mVfbNrsw.woff",
+      "woff2": "https://fonts.gstatic.com/s/heebo/v9/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiS2sdUmm.woff2",
       "fontFamily": "'Heebo'",
       "fontStyle": "normal",
       "fontWeight": "100",
-      "local": [
-        "Heebo Thin",
-        "Heebo-Thin"
-      ],
-      "eot": "https://fonts.gstatic.com/s/heebo/v7/NGS0v5_NC0k9P9mVfbNrsQ.eot",
-      "woff2": "https://fonts.gstatic.com/s/heebo/v7/NGS0v5_NC0k9P9mVfbNrtQ.woff2",
-      "ttf": "https://fonts.gstatic.com/s/heebo/v7/NGS0v5_NC0k9P9mVfbNrsA.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=NGS0v5_NC0k9P9mVfbNrsg&skey=2a3337a4eff65963&v=v7#Heebo",
+      "woff": "https://fonts.gstatic.com/s/heebo/v9/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiS2sdUmg.woff",
+      "eot": "https://fonts.gstatic.com/s/heebo/v9/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiS2sdUmi.eot",
+      "ttf": "https://fonts.gstatic.com/s/heebo/v9/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiS2sdUmj.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiS2sdUmh&skey=878db4aed11f133b&v=v9#Heebo",
+      "errored": false
+    },
+    {
+      "id": "200",
+      "woff": "https://fonts.gstatic.com/s/heebo/v9/NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSysdUmg.woff",
+      "fontFamily": "'Heebo'",
+      "fontStyle": "normal",
+      "fontWeight": "200",
+      "ttf": "https://fonts.gstatic.com/s/heebo/v9/NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSysdUmj.ttf",
+      "woff2": "https://fonts.gstatic.com/s/heebo/v9/NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSysdUmm.woff2",
+      "eot": "https://fonts.gstatic.com/s/heebo/v9/NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSysdUmi.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSysdUmh&skey=878db4aed11f133b&v=v9#Heebo",
       "errored": false
     },
     {
       "id": "300",
-      "svg": "https://fonts.gstatic.com/l/font?kit=NGS3v5_NC0k9P9ldb6RMkKk&skey=a9ec82a05cdd6331&v=v7#Heebo",
+      "eot": "https://fonts.gstatic.com/s/heebo/v9/NGSpv5_NC0k9P_v6ZUCbLRAHxK1E1yysdUmi.eot",
       "fontFamily": "'Heebo'",
       "fontStyle": "normal",
       "fontWeight": "300",
-      "local": [
-        "Heebo Light",
-        "Heebo-Light"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/heebo/v7/NGS3v5_NC0k9P9ldb6RMkK4.woff2",
-      "ttf": "https://fonts.gstatic.com/s/heebo/v7/NGS3v5_NC0k9P9ldb6RMkKs.ttf",
-      "woff": "https://fonts.gstatic.com/s/heebo/v7/NGS3v5_NC0k9P9ldb6RMkKg.woff",
-      "eot": "https://fonts.gstatic.com/s/heebo/v7/NGS3v5_NC0k9P9ldb6RMkKo.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=NGSpv5_NC0k9P_v6ZUCbLRAHxK1E1yysdUmh&skey=878db4aed11f133b&v=v9#Heebo",
+      "woff2": "https://fonts.gstatic.com/s/heebo/v9/NGSpv5_NC0k9P_v6ZUCbLRAHxK1E1yysdUmm.woff2",
+      "woff": "https://fonts.gstatic.com/s/heebo/v9/NGSpv5_NC0k9P_v6ZUCbLRAHxK1E1yysdUmg.woff",
+      "ttf": "https://fonts.gstatic.com/s/heebo/v9/NGSpv5_NC0k9P_v6ZUCbLRAHxK1E1yysdUmj.ttf",
       "errored": false
     },
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/heebo/v7/NGS6v5_NC0k9P9H2TbE.woff2",
+      "eot": "https://fonts.gstatic.com/s/heebo/v9/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSysdUmi.eot",
       "fontFamily": "'Heebo'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "local": [
-        "Heebo",
-        "Heebo-Regular"
-      ],
-      "woff": "https://fonts.gstatic.com/s/heebo/v7/NGS6v5_NC0k9P9H2Tbc.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=NGS6v5_NC0k9P9H2TbY&skey=878db4aed11f133b&v=v7#Heebo",
-      "ttf": "https://fonts.gstatic.com/s/heebo/v7/NGS6v5_NC0k9P9H2TbQ.ttf",
-      "eot": "https://fonts.gstatic.com/s/heebo/v7/NGS6v5_NC0k9P9H2TbU.eot",
+      "woff": "https://fonts.gstatic.com/s/heebo/v9/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSysdUmg.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSysdUmh&skey=878db4aed11f133b&v=v9#Heebo",
+      "ttf": "https://fonts.gstatic.com/s/heebo/v9/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSysdUmj.ttf",
+      "woff2": "https://fonts.gstatic.com/s/heebo/v9/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSysdUmm.woff2",
       "errored": false
     },
     {
       "id": "500",
-      "eot": "https://fonts.gstatic.com/s/heebo/v7/NGS3v5_NC0k9P9kFbqRMkKo.eot",
+      "eot": "https://fonts.gstatic.com/s/heebo/v9/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EuyysdUmi.eot",
       "fontFamily": "'Heebo'",
       "fontStyle": "normal",
       "fontWeight": "500",
-      "woff": "https://fonts.gstatic.com/s/heebo/v7/NGS3v5_NC0k9P9kFbqRMkKg.woff",
-      "local": [
-        "Heebo Medium",
-        "Heebo-Medium"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/heebo/v7/NGS3v5_NC0k9P9kFbqRMkK4.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=NGS3v5_NC0k9P9kFbqRMkKk&skey=2730111f06045c3b&v=v7#Heebo",
-      "ttf": "https://fonts.gstatic.com/s/heebo/v7/NGS3v5_NC0k9P9kFbqRMkKs.ttf",
+      "woff": "https://fonts.gstatic.com/s/heebo/v9/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EuyysdUmg.woff",
+      "woff2": "https://fonts.gstatic.com/s/heebo/v9/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EuyysdUmm.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=NGSpv5_NC0k9P_v6ZUCbLRAHxK1EuyysdUmh&skey=878db4aed11f133b&v=v9#Heebo",
+      "ttf": "https://fonts.gstatic.com/s/heebo/v9/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EuyysdUmj.ttf",
+      "errored": false
+    },
+    {
+      "id": "600",
+      "eot": "https://fonts.gstatic.com/s/heebo/v9/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EVyusdUmi.eot",
+      "fontFamily": "'Heebo'",
+      "fontStyle": "normal",
+      "fontWeight": "600",
+      "woff": "https://fonts.gstatic.com/s/heebo/v9/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EVyusdUmg.woff",
+      "woff2": "https://fonts.gstatic.com/s/heebo/v9/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EVyusdUmm.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=NGSpv5_NC0k9P_v6ZUCbLRAHxK1EVyusdUmh&skey=878db4aed11f133b&v=v9#Heebo",
+      "ttf": "https://fonts.gstatic.com/s/heebo/v9/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EVyusdUmj.ttf",
       "errored": false
     },
     {
       "id": "700",
-      "woff2": "https://fonts.gstatic.com/s/heebo/v7/NGS3v5_NC0k9P9lNaKRMkK4.woff2",
+      "eot": "https://fonts.gstatic.com/s/heebo/v9/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EbiusdUmi.eot",
       "fontFamily": "'Heebo'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "local": [
-        "Heebo Bold",
-        "Heebo-Bold"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=NGS3v5_NC0k9P9lNaKRMkKk&skey=7f010c5479b9601f&v=v7#Heebo",
-      "woff": "https://fonts.gstatic.com/s/heebo/v7/NGS3v5_NC0k9P9lNaKRMkKg.woff",
-      "ttf": "https://fonts.gstatic.com/s/heebo/v7/NGS3v5_NC0k9P9lNaKRMkKs.ttf",
-      "eot": "https://fonts.gstatic.com/s/heebo/v7/NGS3v5_NC0k9P9lNaKRMkKo.eot",
-      "errored": false
-    },
-    {
-      "id": "900",
-      "eot": "https://fonts.gstatic.com/s/heebo/v7/NGS3v5_NC0k9P9l1aqRMkKo.eot",
-      "fontFamily": "'Heebo'",
-      "fontStyle": "normal",
-      "fontWeight": "900",
-      "woff": "https://fonts.gstatic.com/s/heebo/v7/NGS3v5_NC0k9P9l1aqRMkKg.woff",
-      "local": [
-        "Heebo Black",
-        "Heebo-Black"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/heebo/v7/NGS3v5_NC0k9P9l1aqRMkK4.woff2",
-      "ttf": "https://fonts.gstatic.com/s/heebo/v7/NGS3v5_NC0k9P9l1aqRMkKs.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=NGS3v5_NC0k9P9l1aqRMkKk&skey=a6398762cd0cf1cf&v=v7#Heebo",
+      "woff": "https://fonts.gstatic.com/s/heebo/v9/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EbiusdUmg.woff",
+      "woff2": "https://fonts.gstatic.com/s/heebo/v9/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EbiusdUmm.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=NGSpv5_NC0k9P_v6ZUCbLRAHxK1EbiusdUmh&skey=878db4aed11f133b&v=v9#Heebo",
+      "ttf": "https://fonts.gstatic.com/s/heebo/v9/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EbiusdUmj.ttf",
       "errored": false
     },
     {
       "id": "800",
-      "woff": "https://fonts.gstatic.com/s/heebo/v7/NGS3v5_NC0k9P9lRa6RMkKg.woff",
+      "eot": "https://fonts.gstatic.com/s/heebo/v9/NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSusdUmi.eot",
       "fontFamily": "'Heebo'",
       "fontStyle": "normal",
       "fontWeight": "800",
-      "local": [
-        "Heebo ExtraBold",
-        "Heebo-ExtraBold"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=NGS3v5_NC0k9P9lRa6RMkKk&skey=576fa1b780f4a518&v=v7#Heebo",
-      "ttf": "https://fonts.gstatic.com/s/heebo/v7/NGS3v5_NC0k9P9lRa6RMkKs.ttf",
-      "woff2": "https://fonts.gstatic.com/s/heebo/v7/NGS3v5_NC0k9P9lRa6RMkK4.woff2",
-      "eot": "https://fonts.gstatic.com/s/heebo/v7/NGS3v5_NC0k9P9lRa6RMkKo.eot",
+      "woff": "https://fonts.gstatic.com/s/heebo/v9/NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSusdUmg.woff",
+      "woff2": "https://fonts.gstatic.com/s/heebo/v9/NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSusdUmm.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSusdUmh&skey=878db4aed11f133b&v=v9#Heebo",
+      "ttf": "https://fonts.gstatic.com/s/heebo/v9/NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSusdUmj.ttf",
+      "errored": false
+    },
+    {
+      "id": "900",
+      "eot": "https://fonts.gstatic.com/s/heebo/v9/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EICusdUmi.eot",
+      "fontFamily": "'Heebo'",
+      "fontStyle": "normal",
+      "fontWeight": "900",
+      "woff": "https://fonts.gstatic.com/s/heebo/v9/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EICusdUmg.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=NGSpv5_NC0k9P_v6ZUCbLRAHxK1EICusdUmh&skey=878db4aed11f133b&v=v9#Heebo",
+      "woff2": "https://fonts.gstatic.com/s/heebo/v9/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EICusdUmm.woff2",
+      "ttf": "https://fonts.gstatic.com/s/heebo/v9/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EICusdUmj.ttf",
       "errored": false
     }
   ],
@@ -120,9 +116,9 @@
     "latin"
   ],
   "category": "sans-serif",
-  "version": "v7",
-  "lastModified": "2020-05-14",
-  "popularity": 34,
+  "version": "v9",
+  "lastModified": "2020-06-26",
+  "popularity": 36,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

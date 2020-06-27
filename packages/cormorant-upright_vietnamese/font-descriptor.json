@@ -4,32 +4,48 @@
   "variants": [
     {
       "id": "300",
-      "svg": "https://fonts.gstatic.com/l/font?kit=VuJudM3I2Y35poFONtLdafkUCHw1y1N5piDkWdM&skey=444efa8ce6de5368&v=v6#CormorantUpright",
+      "eot": "https://fonts.gstatic.com/s/cormorantupright/v6/VuJudM3I2Y35poFONtLdafkUCHw1y1N5piDkWdA.eot",
       "fontFamily": "'Cormorant Upright'",
       "fontStyle": "normal",
       "fontWeight": "300",
+      "woff": "https://fonts.gstatic.com/s/cormorantupright/v6/VuJudM3I2Y35poFONtLdafkUCHw1y1N5piDkWdI.woff",
       "local": [
         "Cormorant Upright Light",
         "CormorantUpright-Light"
       ],
-      "eot": "https://fonts.gstatic.com/s/cormorantupright/v6/VuJudM3I2Y35poFONtLdafkUCHw1y1N5piDkWdA.eot",
-      "ttf": "https://fonts.gstatic.com/s/cormorantupright/v6/VuJudM3I2Y35poFONtLdafkUCHw1y1N5piDkWdE.ttf",
-      "woff": "https://fonts.gstatic.com/s/cormorantupright/v6/VuJudM3I2Y35poFONtLdafkUCHw1y1N5piDkWdI.woff",
       "woff2": "https://fonts.gstatic.com/s/cormorantupright/v6/VuJudM3I2Y35poFONtLdafkUCHw1y1N5piDkWdQ.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=VuJudM3I2Y35poFONtLdafkUCHw1y1N5piDkWdM&skey=444efa8ce6de5368&v=v6#CormorantUpright",
+      "ttf": "https://fonts.gstatic.com/s/cormorantupright/v6/VuJudM3I2Y35poFONtLdafkUCHw1y1N5piDkWdE.ttf",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/cormorantupright/v6/VuJrdM3I2Y35poFONtLdafkUCHw1y1vdhDE.eot",
+      "fontFamily": "'Cormorant Upright'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/cormorantupright/v6/VuJrdM3I2Y35poFONtLdafkUCHw1y1vdhDM.woff",
+      "local": [
+        "Cormorant Upright Regular",
+        "CormorantUpright-Regular"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=VuJrdM3I2Y35poFONtLdafkUCHw1y1vdhDI&skey=337674b8a2620d4c&v=v6#CormorantUpright",
+      "woff2": "https://fonts.gstatic.com/s/cormorantupright/v6/VuJrdM3I2Y35poFONtLdafkUCHw1y1vdhDU.woff2",
+      "ttf": "https://fonts.gstatic.com/s/cormorantupright/v6/VuJrdM3I2Y35poFONtLdafkUCHw1y1vdhDA.ttf",
       "errored": false
     },
     {
       "id": "500",
-      "eot": "https://fonts.gstatic.com/s/cormorantupright/v6/VuJudM3I2Y35poFONtLdafkUCHw1y1MhpyDkWdA.eot",
+      "woff": "https://fonts.gstatic.com/s/cormorantupright/v6/VuJudM3I2Y35poFONtLdafkUCHw1y1MhpyDkWdI.woff",
       "fontFamily": "'Cormorant Upright'",
       "fontStyle": "normal",
       "fontWeight": "500",
-      "woff2": "https://fonts.gstatic.com/s/cormorantupright/v6/VuJudM3I2Y35poFONtLdafkUCHw1y1MhpyDkWdQ.woff2",
       "local": [
         "Cormorant Upright Medium",
         "CormorantUpright-Medium"
       ],
-      "woff": "https://fonts.gstatic.com/s/cormorantupright/v6/VuJudM3I2Y35poFONtLdafkUCHw1y1MhpyDkWdI.woff",
+      "eot": "https://fonts.gstatic.com/s/cormorantupright/v6/VuJudM3I2Y35poFONtLdafkUCHw1y1MhpyDkWdA.eot",
+      "woff2": "https://fonts.gstatic.com/s/cormorantupright/v6/VuJudM3I2Y35poFONtLdafkUCHw1y1MhpyDkWdQ.woff2",
       "ttf": "https://fonts.gstatic.com/s/cormorantupright/v6/VuJudM3I2Y35poFONtLdafkUCHw1y1MhpyDkWdE.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=VuJudM3I2Y35poFONtLdafkUCHw1y1MhpyDkWdM&skey=ffe466e75f51040c&v=v6#CormorantUpright",
       "errored": false
@@ -51,53 +67,37 @@
       "errored": false
     },
     {
-      "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/cormorantupright/v6/VuJrdM3I2Y35poFONtLdafkUCHw1y1vdhDU.woff2",
-      "fontFamily": "'Cormorant Upright'",
-      "fontStyle": "normal",
-      "fontWeight": "400",
-      "local": [
-        "Cormorant Upright Regular",
-        "CormorantUpright-Regular"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=VuJrdM3I2Y35poFONtLdafkUCHw1y1vdhDI&skey=337674b8a2620d4c&v=v6#CormorantUpright",
-      "woff": "https://fonts.gstatic.com/s/cormorantupright/v6/VuJrdM3I2Y35poFONtLdafkUCHw1y1vdhDM.woff",
-      "ttf": "https://fonts.gstatic.com/s/cormorantupright/v6/VuJrdM3I2Y35poFONtLdafkUCHw1y1vdhDA.ttf",
-      "eot": "https://fonts.gstatic.com/s/cormorantupright/v6/VuJrdM3I2Y35poFONtLdafkUCHw1y1vdhDE.eot",
-      "errored": false
-    },
-    {
       "id": "700",
       "eot": "https://fonts.gstatic.com/s/cormorantupright/v6/VuJudM3I2Y35poFONtLdafkUCHw1y1NpoSDkWdA.eot",
       "fontFamily": "'Cormorant Upright'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff2": "https://fonts.gstatic.com/s/cormorantupright/v6/VuJudM3I2Y35poFONtLdafkUCHw1y1NpoSDkWdQ.woff2",
+      "woff": "https://fonts.gstatic.com/s/cormorantupright/v6/VuJudM3I2Y35poFONtLdafkUCHw1y1NpoSDkWdI.woff",
       "local": [
         "Cormorant Upright Bold",
         "CormorantUpright-Bold"
       ],
-      "woff": "https://fonts.gstatic.com/s/cormorantupright/v6/VuJudM3I2Y35poFONtLdafkUCHw1y1NpoSDkWdI.woff",
+      "woff2": "https://fonts.gstatic.com/s/cormorantupright/v6/VuJudM3I2Y35poFONtLdafkUCHw1y1NpoSDkWdQ.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=VuJudM3I2Y35poFONtLdafkUCHw1y1NpoSDkWdM&skey=d2e4c124fe569662&v=v6#CormorantUpright",
       "ttf": "https://fonts.gstatic.com/s/cormorantupright/v6/VuJudM3I2Y35poFONtLdafkUCHw1y1NpoSDkWdE.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "vietnamese",
     "latin",
-    "latin-ext"
+    "latin-ext",
+    "vietnamese"
   ],
   "category": "serif",
   "version": "v6",
-  "lastModified": "2019-07-16",
-  "popularity": 641,
+  "lastModified": "2020-06-11",
+  "popularity": 546,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "vietnamese": true,
     "latin": true,
-    "latin-ext": false
+    "latin-ext": false,
+    "vietnamese": true
   },
-  "storeID": "latin_vietnamese"
+  "storeID": "vietnamese_latin"
 }
