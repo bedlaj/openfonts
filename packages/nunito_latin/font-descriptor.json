@@ -3,8 +3,216 @@
   "family": "Nunito",
   "variants": [
     {
+      "id": "200italic",
+      "eot": "https://fonts.gstatic.com/s/nunito/v13/XRXQ3I6Li01BKofIMN5MZ9vKUTs.eot",
+      "fontFamily": "'Nunito'",
+      "fontStyle": "italic",
+      "fontWeight": "200",
+      "woff": "https://fonts.gstatic.com/s/nunito/v13/XRXQ3I6Li01BKofIMN5MZ9vKUTk.woff",
+      "local": [
+        "Nunito ExtraLight Italic",
+        "Nunito-ExtraLightItalic"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=XRXQ3I6Li01BKofIMN5MZ9vKUTg&skey=68b7a606f25301c9&v=v13#Nunito",
+      "ttf": "https://fonts.gstatic.com/s/nunito/v13/XRXQ3I6Li01BKofIMN5MZ9vKUTo.ttf",
+      "woff2": "https://fonts.gstatic.com/s/nunito/v13/XRXQ3I6Li01BKofIMN5MZ9vKUT8.woff2",
+      "errored": false
+    },
+    {
+      "id": "300",
+      "eot": "https://fonts.gstatic.com/s/nunito/v13/XRXW3I6Li01BKofAnsSUYevM.eot",
+      "fontFamily": "'Nunito'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "woff": "https://fonts.gstatic.com/s/nunito/v13/XRXW3I6Li01BKofAnsSUYevO.woff",
+      "local": [
+        "Nunito Light",
+        "Nunito-Light"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/nunito/v13/XRXW3I6Li01BKofAnsSUYevI.woff2",
+      "ttf": "https://fonts.gstatic.com/s/nunito/v13/XRXW3I6Li01BKofAnsSUYevN.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=XRXW3I6Li01BKofAnsSUYevP&skey=327ea4351017b269&v=v13#Nunito",
+      "errored": false
+    },
+    {
+      "id": "300italic",
+      "eot": "https://fonts.gstatic.com/s/nunito/v13/XRXQ3I6Li01BKofIMN4oZNvKUTs.eot",
+      "fontFamily": "'Nunito'",
+      "fontStyle": "italic",
+      "fontWeight": "300",
+      "woff": "https://fonts.gstatic.com/s/nunito/v13/XRXQ3I6Li01BKofIMN4oZNvKUTk.woff",
+      "local": [
+        "Nunito Light Italic",
+        "Nunito-LightItalic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/nunito/v13/XRXQ3I6Li01BKofIMN4oZNvKUT8.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=XRXQ3I6Li01BKofIMN4oZNvKUTg&skey=d788ea5e8f746537&v=v13#Nunito",
+      "ttf": "https://fonts.gstatic.com/s/nunito/v13/XRXQ3I6Li01BKofIMN4oZNvKUTo.ttf",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/nunito/v13/XRXV3I6Li01BKofINeaF.eot",
+      "fontFamily": "'Nunito'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/nunito/v13/XRXV3I6Li01BKofINeaH.woff",
+      "local": [
+        "Nunito Regular",
+        "Nunito-Regular"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/nunito/v13/XRXV3I6Li01BKofINeaE.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=XRXV3I6Li01BKofINeaG&skey=27bb6aa8eea8a5e7&v=v13#Nunito",
+      "woff2": "https://fonts.gstatic.com/s/nunito/v13/XRXV3I6Li01BKofINeaB.woff2",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "woff": "https://fonts.gstatic.com/s/nunito/v13/XRXX3I6Li01BKofIMNaDRsg.woff",
+      "fontFamily": "'Nunito'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "local": [
+        "Nunito Italic",
+        "Nunito-Italic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/nunito/v13/XRXX3I6Li01BKofIMNaDRs4.woff2",
+      "eot": "https://fonts.gstatic.com/s/nunito/v13/XRXX3I6Li01BKofIMNaDRso.eot",
+      "ttf": "https://fonts.gstatic.com/s/nunito/v13/XRXX3I6Li01BKofIMNaDRss.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=XRXX3I6Li01BKofIMNaDRsk&skey=75768d03a8bfc23a&v=v13#Nunito",
+      "errored": false
+    },
+    {
+      "id": "600",
+      "eot": "https://fonts.gstatic.com/s/nunito/v13/XRXW3I6Li01BKofA6sKUYevM.eot",
+      "fontFamily": "'Nunito'",
+      "fontStyle": "normal",
+      "fontWeight": "600",
+      "woff2": "https://fonts.gstatic.com/s/nunito/v13/XRXW3I6Li01BKofA6sKUYevI.woff2",
+      "local": [
+        "Nunito SemiBold",
+        "Nunito-SemiBold"
+      ],
+      "woff": "https://fonts.gstatic.com/s/nunito/v13/XRXW3I6Li01BKofA6sKUYevO.woff",
+      "ttf": "https://fonts.gstatic.com/s/nunito/v13/XRXW3I6Li01BKofA6sKUYevN.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=XRXW3I6Li01BKofA6sKUYevP&skey=52e177ab83d749aa&v=v13#Nunito",
+      "errored": false
+    },
+    {
+      "id": "600italic",
+      "eot": "https://fonts.gstatic.com/s/nunito/v13/XRXQ3I6Li01BKofIMN5cYtvKUTs.eot",
+      "fontFamily": "'Nunito'",
+      "fontStyle": "italic",
+      "fontWeight": "600",
+      "woff": "https://fonts.gstatic.com/s/nunito/v13/XRXQ3I6Li01BKofIMN5cYtvKUTk.woff",
+      "local": [
+        "Nunito SemiBold Italic",
+        "Nunito-SemiBoldItalic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/nunito/v13/XRXQ3I6Li01BKofIMN5cYtvKUT8.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=XRXQ3I6Li01BKofIMN5cYtvKUTg&skey=b7a2cf2364e291f2&v=v13#Nunito",
+      "ttf": "https://fonts.gstatic.com/s/nunito/v13/XRXQ3I6Li01BKofIMN5cYtvKUTo.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/nunito/v13/XRXW3I6Li01BKofAjsOUYevM.eot",
+      "fontFamily": "'Nunito'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/nunito/v13/XRXW3I6Li01BKofAjsOUYevO.woff",
+      "local": [
+        "Nunito Bold",
+        "Nunito-Bold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/nunito/v13/XRXW3I6Li01BKofAjsOUYevI.woff2",
+      "ttf": "https://fonts.gstatic.com/s/nunito/v13/XRXW3I6Li01BKofAjsOUYevN.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=XRXW3I6Li01BKofAjsOUYevP&skey=388548fee26cf4d3&v=v13#Nunito",
+      "errored": false
+    },
+    {
+      "id": "700italic",
+      "eot": "https://fonts.gstatic.com/s/nunito/v13/XRXQ3I6Li01BKofIMN44Y9vKUTs.eot",
+      "fontFamily": "'Nunito'",
+      "fontStyle": "italic",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/nunito/v13/XRXQ3I6Li01BKofIMN44Y9vKUTk.woff",
+      "local": [
+        "Nunito Bold Italic",
+        "Nunito-BoldItalic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/nunito/v13/XRXQ3I6Li01BKofIMN44Y9vKUT8.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=XRXQ3I6Li01BKofIMN44Y9vKUTg&skey=a6fac914b3b6528d&v=v13#Nunito",
+      "ttf": "https://fonts.gstatic.com/s/nunito/v13/XRXQ3I6Li01BKofIMN44Y9vKUTo.ttf",
+      "errored": false
+    },
+    {
+      "id": "800",
+      "eot": "https://fonts.gstatic.com/s/nunito/v13/XRXW3I6Li01BKofAksCUYevM.eot",
+      "fontFamily": "'Nunito'",
+      "fontStyle": "normal",
+      "fontWeight": "800",
+      "woff": "https://fonts.gstatic.com/s/nunito/v13/XRXW3I6Li01BKofAksCUYevO.woff",
+      "local": [
+        "Nunito ExtraBold",
+        "Nunito-ExtraBold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/nunito/v13/XRXW3I6Li01BKofAksCUYevI.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=XRXW3I6Li01BKofAksCUYevP&skey=c2b8d7855f17a8f6&v=v13#Nunito",
+      "ttf": "https://fonts.gstatic.com/s/nunito/v13/XRXW3I6Li01BKofAksCUYevN.ttf",
+      "errored": false
+    },
+    {
+      "id": "800italic",
+      "woff2": "https://fonts.gstatic.com/s/nunito/v13/XRXQ3I6Li01BKofIMN4kYNvKUT8.woff2",
+      "fontFamily": "'Nunito'",
+      "fontStyle": "italic",
+      "fontWeight": "800",
+      "local": [
+        "Nunito ExtraBold Italic",
+        "Nunito-ExtraBoldItalic"
+      ],
+      "woff": "https://fonts.gstatic.com/s/nunito/v13/XRXQ3I6Li01BKofIMN4kYNvKUTk.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=XRXQ3I6Li01BKofIMN4kYNvKUTg&skey=32afafedc6e00101&v=v13#Nunito",
+      "eot": "https://fonts.gstatic.com/s/nunito/v13/XRXQ3I6Li01BKofIMN4kYNvKUTs.eot",
+      "ttf": "https://fonts.gstatic.com/s/nunito/v13/XRXQ3I6Li01BKofIMN4kYNvKUTo.ttf",
+      "errored": false
+    },
+    {
+      "id": "900",
+      "woff": "https://fonts.gstatic.com/s/nunito/v13/XRXW3I6Li01BKofAtsGUYevO.woff",
+      "fontFamily": "'Nunito'",
+      "fontStyle": "normal",
+      "fontWeight": "900",
+      "local": [
+        "Nunito Black",
+        "Nunito-Black"
+      ],
+      "eot": "https://fonts.gstatic.com/s/nunito/v13/XRXW3I6Li01BKofAtsGUYevM.eot",
+      "woff2": "https://fonts.gstatic.com/s/nunito/v13/XRXW3I6Li01BKofAtsGUYevI.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=XRXW3I6Li01BKofAtsGUYevP&skey=9c07924cc4353e8f&v=v13#Nunito",
+      "ttf": "https://fonts.gstatic.com/s/nunito/v13/XRXW3I6Li01BKofAtsGUYevN.ttf",
+      "errored": false
+    },
+    {
+      "id": "900italic",
+      "woff": "https://fonts.gstatic.com/s/nunito/v13/XRXQ3I6Li01BKofIMN4AYdvKUTk.woff",
+      "fontFamily": "'Nunito'",
+      "fontStyle": "italic",
+      "fontWeight": "900",
+      "local": [
+        "Nunito Black Italic",
+        "Nunito-BlackItalic"
+      ],
+      "eot": "https://fonts.gstatic.com/s/nunito/v13/XRXQ3I6Li01BKofIMN4AYdvKUTs.eot",
+      "woff2": "https://fonts.gstatic.com/s/nunito/v13/XRXQ3I6Li01BKofIMN4AYdvKUT8.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=XRXQ3I6Li01BKofIMN4AYdvKUTg&skey=4d145ea69c011471&v=v13#Nunito",
+      "ttf": "https://fonts.gstatic.com/s/nunito/v13/XRXQ3I6Li01BKofIMN4AYdvKUTo.ttf",
+      "errored": false
+    },
+    {
       "id": "200",
-      "ttf": "https://fonts.gstatic.com/s/nunito/v12/XRXW3I6Li01BKofA-seUYevN.ttf",
+      "woff": "https://fonts.gstatic.com/s/nunito/v13/XRXW3I6Li01BKofA-seUYevO.woff",
       "fontFamily": "'Nunito'",
       "fontStyle": "normal",
       "fontWeight": "200",
@@ -12,240 +220,32 @@
         "Nunito ExtraLight",
         "Nunito-ExtraLight"
       ],
-      "woff": "https://fonts.gstatic.com/s/nunito/v12/XRXW3I6Li01BKofA-seUYevO.woff",
-      "eot": "https://fonts.gstatic.com/s/nunito/v12/XRXW3I6Li01BKofA-seUYevM.eot",
-      "woff2": "https://fonts.gstatic.com/s/nunito/v12/XRXW3I6Li01BKofA-seUYevI.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=XRXW3I6Li01BKofA-seUYevP&skey=8ad0032e0b847aa6&v=v12#Nunito",
-      "errored": false
-    },
-    {
-      "id": "300",
-      "eot": "https://fonts.gstatic.com/s/nunito/v12/XRXW3I6Li01BKofAnsSUYevM.eot",
-      "fontFamily": "'Nunito'",
-      "fontStyle": "normal",
-      "fontWeight": "300",
-      "woff": "https://fonts.gstatic.com/s/nunito/v12/XRXW3I6Li01BKofAnsSUYevO.woff",
-      "local": [
-        "Nunito Light",
-        "Nunito-Light"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/nunito/v12/XRXW3I6Li01BKofAnsSUYevI.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=XRXW3I6Li01BKofAnsSUYevP&skey=327ea4351017b269&v=v12#Nunito",
-      "ttf": "https://fonts.gstatic.com/s/nunito/v12/XRXW3I6Li01BKofAnsSUYevN.ttf",
-      "errored": false
-    },
-    {
-      "id": "200italic",
-      "eot": "https://fonts.gstatic.com/s/nunito/v12/XRXQ3I6Li01BKofIMN5MZ9vKUTs.eot",
-      "fontFamily": "'Nunito'",
-      "fontStyle": "italic",
-      "fontWeight": "200",
-      "woff": "https://fonts.gstatic.com/s/nunito/v12/XRXQ3I6Li01BKofIMN5MZ9vKUTk.woff",
-      "local": [
-        "Nunito ExtraLight Italic",
-        "Nunito-ExtraLightItalic"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=XRXQ3I6Li01BKofIMN5MZ9vKUTg&skey=68b7a606f25301c9&v=v12#Nunito",
-      "ttf": "https://fonts.gstatic.com/s/nunito/v12/XRXQ3I6Li01BKofIMN5MZ9vKUTo.ttf",
-      "woff2": "https://fonts.gstatic.com/s/nunito/v12/XRXQ3I6Li01BKofIMN5MZ9vKUT8.woff2",
-      "errored": false
-    },
-    {
-      "id": "300italic",
-      "eot": "https://fonts.gstatic.com/s/nunito/v12/XRXQ3I6Li01BKofIMN4oZNvKUTs.eot",
-      "fontFamily": "'Nunito'",
-      "fontStyle": "italic",
-      "fontWeight": "300",
-      "woff2": "https://fonts.gstatic.com/s/nunito/v12/XRXQ3I6Li01BKofIMN4oZNvKUT8.woff2",
-      "local": [
-        "Nunito Light Italic",
-        "Nunito-LightItalic"
-      ],
-      "ttf": "https://fonts.gstatic.com/s/nunito/v12/XRXQ3I6Li01BKofIMN4oZNvKUTo.ttf",
-      "woff": "https://fonts.gstatic.com/s/nunito/v12/XRXQ3I6Li01BKofIMN4oZNvKUTk.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=XRXQ3I6Li01BKofIMN4oZNvKUTg&skey=d788ea5e8f746537&v=v12#Nunito",
-      "errored": false
-    },
-    {
-      "id": "italic",
-      "eot": "https://fonts.gstatic.com/s/nunito/v12/XRXX3I6Li01BKofIMNaDRso.eot",
-      "fontFamily": "'Nunito'",
-      "fontStyle": "italic",
-      "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/nunito/v12/XRXX3I6Li01BKofIMNaDRsg.woff",
-      "local": [
-        "Nunito Italic",
-        "Nunito-Italic"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/nunito/v12/XRXX3I6Li01BKofIMNaDRs4.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=XRXX3I6Li01BKofIMNaDRsk&skey=75768d03a8bfc23a&v=v12#Nunito",
-      "ttf": "https://fonts.gstatic.com/s/nunito/v12/XRXX3I6Li01BKofIMNaDRss.ttf",
-      "errored": false
-    },
-    {
-      "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/nunito/v12/XRXV3I6Li01BKofINeaF.eot",
-      "fontFamily": "'Nunito'",
-      "fontStyle": "normal",
-      "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/nunito/v12/XRXV3I6Li01BKofINeaB.woff2",
-      "local": [
-        "Nunito Regular",
-        "Nunito-Regular"
-      ],
-      "ttf": "https://fonts.gstatic.com/s/nunito/v12/XRXV3I6Li01BKofINeaE.ttf",
-      "woff": "https://fonts.gstatic.com/s/nunito/v12/XRXV3I6Li01BKofINeaH.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=XRXV3I6Li01BKofINeaG&skey=27bb6aa8eea8a5e7&v=v12#Nunito",
-      "errored": false
-    },
-    {
-      "id": "600",
-      "eot": "https://fonts.gstatic.com/s/nunito/v12/XRXW3I6Li01BKofA6sKUYevM.eot",
-      "fontFamily": "'Nunito'",
-      "fontStyle": "normal",
-      "fontWeight": "600",
-      "woff": "https://fonts.gstatic.com/s/nunito/v12/XRXW3I6Li01BKofA6sKUYevO.woff",
-      "local": [
-        "Nunito SemiBold",
-        "Nunito-SemiBold"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/nunito/v12/XRXW3I6Li01BKofA6sKUYevI.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=XRXW3I6Li01BKofA6sKUYevP&skey=52e177ab83d749aa&v=v12#Nunito",
-      "ttf": "https://fonts.gstatic.com/s/nunito/v12/XRXW3I6Li01BKofA6sKUYevN.ttf",
-      "errored": false
-    },
-    {
-      "id": "600italic",
-      "eot": "https://fonts.gstatic.com/s/nunito/v12/XRXQ3I6Li01BKofIMN5cYtvKUTs.eot",
-      "fontFamily": "'Nunito'",
-      "fontStyle": "italic",
-      "fontWeight": "600",
-      "woff": "https://fonts.gstatic.com/s/nunito/v12/XRXQ3I6Li01BKofIMN5cYtvKUTk.woff",
-      "local": [
-        "Nunito SemiBold Italic",
-        "Nunito-SemiBoldItalic"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/nunito/v12/XRXQ3I6Li01BKofIMN5cYtvKUT8.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=XRXQ3I6Li01BKofIMN5cYtvKUTg&skey=b7a2cf2364e291f2&v=v12#Nunito",
-      "ttf": "https://fonts.gstatic.com/s/nunito/v12/XRXQ3I6Li01BKofIMN5cYtvKUTo.ttf",
-      "errored": false
-    },
-    {
-      "id": "700",
-      "eot": "https://fonts.gstatic.com/s/nunito/v12/XRXW3I6Li01BKofAjsOUYevM.eot",
-      "fontFamily": "'Nunito'",
-      "fontStyle": "normal",
-      "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/nunito/v12/XRXW3I6Li01BKofAjsOUYevO.woff",
-      "local": [
-        "Nunito Bold",
-        "Nunito-Bold"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/nunito/v12/XRXW3I6Li01BKofAjsOUYevI.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=XRXW3I6Li01BKofAjsOUYevP&skey=388548fee26cf4d3&v=v12#Nunito",
-      "ttf": "https://fonts.gstatic.com/s/nunito/v12/XRXW3I6Li01BKofAjsOUYevN.ttf",
-      "errored": false
-    },
-    {
-      "id": "700italic",
-      "eot": "https://fonts.gstatic.com/s/nunito/v12/XRXQ3I6Li01BKofIMN44Y9vKUTs.eot",
-      "fontFamily": "'Nunito'",
-      "fontStyle": "italic",
-      "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/nunito/v12/XRXQ3I6Li01BKofIMN44Y9vKUTk.woff",
-      "local": [
-        "Nunito Bold Italic",
-        "Nunito-BoldItalic"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/nunito/v12/XRXQ3I6Li01BKofIMN44Y9vKUT8.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=XRXQ3I6Li01BKofIMN44Y9vKUTg&skey=a6fac914b3b6528d&v=v12#Nunito",
-      "ttf": "https://fonts.gstatic.com/s/nunito/v12/XRXQ3I6Li01BKofIMN44Y9vKUTo.ttf",
-      "errored": false
-    },
-    {
-      "id": "800",
-      "eot": "https://fonts.gstatic.com/s/nunito/v12/XRXW3I6Li01BKofAksCUYevM.eot",
-      "fontFamily": "'Nunito'",
-      "fontStyle": "normal",
-      "fontWeight": "800",
-      "woff": "https://fonts.gstatic.com/s/nunito/v12/XRXW3I6Li01BKofAksCUYevO.woff",
-      "local": [
-        "Nunito ExtraBold",
-        "Nunito-ExtraBold"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/nunito/v12/XRXW3I6Li01BKofAksCUYevI.woff2",
-      "ttf": "https://fonts.gstatic.com/s/nunito/v12/XRXW3I6Li01BKofAksCUYevN.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=XRXW3I6Li01BKofAksCUYevP&skey=c2b8d7855f17a8f6&v=v12#Nunito",
-      "errored": false
-    },
-    {
-      "id": "800italic",
-      "eot": "https://fonts.gstatic.com/s/nunito/v12/XRXQ3I6Li01BKofIMN4kYNvKUTs.eot",
-      "fontFamily": "'Nunito'",
-      "fontStyle": "italic",
-      "fontWeight": "800",
-      "woff": "https://fonts.gstatic.com/s/nunito/v12/XRXQ3I6Li01BKofIMN4kYNvKUTk.woff",
-      "local": [
-        "Nunito ExtraBold Italic",
-        "Nunito-ExtraBoldItalic"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/nunito/v12/XRXQ3I6Li01BKofIMN4kYNvKUT8.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=XRXQ3I6Li01BKofIMN4kYNvKUTg&skey=32afafedc6e00101&v=v12#Nunito",
-      "ttf": "https://fonts.gstatic.com/s/nunito/v12/XRXQ3I6Li01BKofIMN4kYNvKUTo.ttf",
-      "errored": false
-    },
-    {
-      "id": "900",
-      "eot": "https://fonts.gstatic.com/s/nunito/v12/XRXW3I6Li01BKofAtsGUYevM.eot",
-      "fontFamily": "'Nunito'",
-      "fontStyle": "normal",
-      "fontWeight": "900",
-      "woff": "https://fonts.gstatic.com/s/nunito/v12/XRXW3I6Li01BKofAtsGUYevO.woff",
-      "local": [
-        "Nunito Black",
-        "Nunito-Black"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/nunito/v12/XRXW3I6Li01BKofAtsGUYevI.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=XRXW3I6Li01BKofAtsGUYevP&skey=9c07924cc4353e8f&v=v12#Nunito",
-      "ttf": "https://fonts.gstatic.com/s/nunito/v12/XRXW3I6Li01BKofAtsGUYevN.ttf",
-      "errored": false
-    },
-    {
-      "id": "900italic",
-      "eot": "https://fonts.gstatic.com/s/nunito/v12/XRXQ3I6Li01BKofIMN4AYdvKUTs.eot",
-      "fontFamily": "'Nunito'",
-      "fontStyle": "italic",
-      "fontWeight": "900",
-      "woff": "https://fonts.gstatic.com/s/nunito/v12/XRXQ3I6Li01BKofIMN4AYdvKUTk.woff",
-      "local": [
-        "Nunito Black Italic",
-        "Nunito-BlackItalic"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/nunito/v12/XRXQ3I6Li01BKofIMN4AYdvKUT8.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=XRXQ3I6Li01BKofIMN4AYdvKUTg&skey=4d145ea69c011471&v=v12#Nunito",
-      "ttf": "https://fonts.gstatic.com/s/nunito/v12/XRXQ3I6Li01BKofIMN4AYdvKUTo.ttf",
+      "ttf": "https://fonts.gstatic.com/s/nunito/v13/XRXW3I6Li01BKofA-seUYevN.ttf",
+      "woff2": "https://fonts.gstatic.com/s/nunito/v13/XRXW3I6Li01BKofA-seUYevI.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=XRXW3I6Li01BKofA-seUYevP&skey=8ad0032e0b847aa6&v=v13#Nunito",
+      "eot": "https://fonts.gstatic.com/s/nunito/v13/XRXW3I6Li01BKofA-seUYevM.eot",
       "errored": false
     }
   ],
   "subsets": [
+    "cyrillic",
     "cyrillic-ext",
-    "latin-ext",
-    "vietnamese",
     "latin",
-    "cyrillic"
+    "latin-ext",
+    "vietnamese"
   ],
   "category": "sans-serif",
-  "version": "v12",
-  "lastModified": "2019-11-14",
-  "popularity": 22,
+  "version": "v13",
+  "lastModified": "2020-07-13",
+  "popularity": 23,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
+    "cyrillic": false,
     "cyrillic-ext": false,
-    "latin-ext": false,
-    "vietnamese": false,
     "latin": true,
-    "cyrillic": false
+    "latin-ext": false,
+    "vietnamese": false
   },
   "storeID": "latin"
 }

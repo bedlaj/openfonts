@@ -4,18 +4,34 @@
   "variants": [
     {
       "id": "300",
-      "svg": "https://fonts.gstatic.com/l/font?kit=dFa5ZfeM_74wlPZtksIFYpEY6HOpXA&skey=ca4b45fc2d8284fd&v=v5#ZillaSlab",
+      "eot": "https://fonts.gstatic.com/s/zillaslab/v5/dFa5ZfeM_74wlPZtksIFYpEY6HOpXw.eot",
       "fontFamily": "'Zilla Slab'",
       "fontStyle": "normal",
       "fontWeight": "300",
+      "woff": "https://fonts.gstatic.com/s/zillaslab/v5/dFa5ZfeM_74wlPZtksIFYpEY6HOpXQ.woff",
       "local": [
         "Zilla Slab Light",
         "ZillaSlab-Light"
       ],
-      "woff": "https://fonts.gstatic.com/s/zillaslab/v5/dFa5ZfeM_74wlPZtksIFYpEY6HOpXQ.woff",
-      "eot": "https://fonts.gstatic.com/s/zillaslab/v5/dFa5ZfeM_74wlPZtksIFYpEY6HOpXw.eot",
       "ttf": "https://fonts.gstatic.com/s/zillaslab/v5/dFa5ZfeM_74wlPZtksIFYpEY6HOpXg.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=dFa5ZfeM_74wlPZtksIFYpEY6HOpXA&skey=ca4b45fc2d8284fd&v=v5#ZillaSlab",
       "woff2": "https://fonts.gstatic.com/s/zillaslab/v5/dFa5ZfeM_74wlPZtksIFYpEY6HOpWw.woff2",
+      "errored": false
+    },
+    {
+      "id": "300italic",
+      "woff": "https://fonts.gstatic.com/s/zillaslab/v5/dFanZfeM_74wlPZtksIFaj8CVHaZWXBx.woff",
+      "fontFamily": "'Zilla Slab'",
+      "fontStyle": "italic",
+      "fontWeight": "300",
+      "local": [
+        "Zilla Slab Light Italic",
+        "ZillaSlab-LightItalic"
+      ],
+      "eot": "https://fonts.gstatic.com/s/zillaslab/v5/dFanZfeM_74wlPZtksIFaj8CVHaZWXBz.eot",
+      "woff2": "https://fonts.gstatic.com/s/zillaslab/v5/dFanZfeM_74wlPZtksIFaj8CVHaZWXB3.woff2",
+      "ttf": "https://fonts.gstatic.com/s/zillaslab/v5/dFanZfeM_74wlPZtksIFaj8CVHaZWXBy.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=dFanZfeM_74wlPZtksIFaj8CVHaZWXBw&skey=2edace82e38b93fe&v=v5#ZillaSlab",
       "errored": false
     },
     {
@@ -35,22 +51,6 @@
       "errored": false
     },
     {
-      "id": "300italic",
-      "woff": "https://fonts.gstatic.com/s/zillaslab/v5/dFanZfeM_74wlPZtksIFaj8CVHaZWXBx.woff",
-      "fontFamily": "'Zilla Slab'",
-      "fontStyle": "italic",
-      "fontWeight": "300",
-      "local": [
-        "Zilla Slab Light Italic",
-        "ZillaSlab-LightItalic"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/zillaslab/v5/dFanZfeM_74wlPZtksIFaj8CVHaZWXB3.woff2",
-      "ttf": "https://fonts.gstatic.com/s/zillaslab/v5/dFanZfeM_74wlPZtksIFaj8CVHaZWXBy.ttf",
-      "eot": "https://fonts.gstatic.com/s/zillaslab/v5/dFanZfeM_74wlPZtksIFaj8CVHaZWXBz.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=dFanZfeM_74wlPZtksIFaj8CVHaZWXBw&skey=2edace82e38b93fe&v=v5#ZillaSlab",
-      "errored": false
-    },
-    {
       "id": "italic",
       "eot": "https://fonts.gstatic.com/s/zillaslab/v5/dFa4ZfeM_74wlPZtksIFaj8K_1SI.eot",
       "fontFamily": "'Zilla Slab'",
@@ -61,57 +61,89 @@
         "Zilla Slab Italic",
         "ZillaSlab-Italic"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=dFa4ZfeM_74wlPZtksIFaj8K_1SL&skey=9ce6a510b53c4ae1&v=v5#ZillaSlab",
       "woff2": "https://fonts.gstatic.com/s/zillaslab/v5/dFa4ZfeM_74wlPZtksIFaj8K_1SM.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=dFa4ZfeM_74wlPZtksIFaj8K_1SL&skey=9ce6a510b53c4ae1&v=v5#ZillaSlab",
       "ttf": "https://fonts.gstatic.com/s/zillaslab/v5/dFa4ZfeM_74wlPZtksIFaj8K_1SJ.ttf",
       "errored": false
     },
     {
-      "id": "500italic",
-      "woff2": "https://fonts.gstatic.com/s/zillaslab/v5/dFanZfeM_74wlPZtksIFaj8CDHeZWXB3.woff2",
-      "fontFamily": "'Zilla Slab'",
-      "fontStyle": "italic",
-      "fontWeight": "500",
-      "local": [
-        "Zilla Slab Medium Italic",
-        "ZillaSlab-MediumItalic"
-      ],
-      "woff": "https://fonts.gstatic.com/s/zillaslab/v5/dFanZfeM_74wlPZtksIFaj8CDHeZWXBx.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=dFanZfeM_74wlPZtksIFaj8CDHeZWXBw&skey=c3d6da9ec551b3ac&v=v5#ZillaSlab",
-      "ttf": "https://fonts.gstatic.com/s/zillaslab/v5/dFanZfeM_74wlPZtksIFaj8CDHeZWXBy.ttf",
-      "eot": "https://fonts.gstatic.com/s/zillaslab/v5/dFanZfeM_74wlPZtksIFaj8CDHeZWXBz.eot",
-      "errored": false
-    },
-    {
       "id": "500",
-      "eot": "https://fonts.gstatic.com/s/zillaslab/v5/dFa5ZfeM_74wlPZtksIFYskZ6HOpXw.eot",
+      "woff": "https://fonts.gstatic.com/s/zillaslab/v5/dFa5ZfeM_74wlPZtksIFYskZ6HOpXQ.woff",
       "fontFamily": "'Zilla Slab'",
       "fontStyle": "normal",
       "fontWeight": "500",
-      "woff": "https://fonts.gstatic.com/s/zillaslab/v5/dFa5ZfeM_74wlPZtksIFYskZ6HOpXQ.woff",
       "local": [
         "Zilla Slab Medium",
         "ZillaSlab-Medium"
       ],
       "woff2": "https://fonts.gstatic.com/s/zillaslab/v5/dFa5ZfeM_74wlPZtksIFYskZ6HOpWw.woff2",
+      "eot": "https://fonts.gstatic.com/s/zillaslab/v5/dFa5ZfeM_74wlPZtksIFYskZ6HOpXw.eot",
       "svg": "https://fonts.gstatic.com/l/font?kit=dFa5ZfeM_74wlPZtksIFYskZ6HOpXA&skey=fa8b38d9fb8245bc&v=v5#ZillaSlab",
       "ttf": "https://fonts.gstatic.com/s/zillaslab/v5/dFa5ZfeM_74wlPZtksIFYskZ6HOpXg.ttf",
       "errored": false
     },
     {
+      "id": "500italic",
+      "eot": "https://fonts.gstatic.com/s/zillaslab/v5/dFanZfeM_74wlPZtksIFaj8CDHeZWXBz.eot",
+      "fontFamily": "'Zilla Slab'",
+      "fontStyle": "italic",
+      "fontWeight": "500",
+      "woff": "https://fonts.gstatic.com/s/zillaslab/v5/dFanZfeM_74wlPZtksIFaj8CDHeZWXBx.woff",
+      "local": [
+        "Zilla Slab Medium Italic",
+        "ZillaSlab-MediumItalic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/zillaslab/v5/dFanZfeM_74wlPZtksIFaj8CDHeZWXB3.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=dFanZfeM_74wlPZtksIFaj8CDHeZWXBw&skey=c3d6da9ec551b3ac&v=v5#ZillaSlab",
+      "ttf": "https://fonts.gstatic.com/s/zillaslab/v5/dFanZfeM_74wlPZtksIFaj8CDHeZWXBy.ttf",
+      "errored": false
+    },
+    {
       "id": "600",
-      "woff": "https://fonts.gstatic.com/s/zillaslab/v5/dFa5ZfeM_74wlPZtksIFYuUe6HOpXQ.woff",
+      "eot": "https://fonts.gstatic.com/s/zillaslab/v5/dFa5ZfeM_74wlPZtksIFYuUe6HOpXw.eot",
       "fontFamily": "'Zilla Slab'",
       "fontStyle": "normal",
       "fontWeight": "600",
+      "woff": "https://fonts.gstatic.com/s/zillaslab/v5/dFa5ZfeM_74wlPZtksIFYuUe6HOpXQ.woff",
       "local": [
         "Zilla Slab SemiBold",
         "ZillaSlab-SemiBold"
       ],
-      "eot": "https://fonts.gstatic.com/s/zillaslab/v5/dFa5ZfeM_74wlPZtksIFYuUe6HOpXw.eot",
       "woff2": "https://fonts.gstatic.com/s/zillaslab/v5/dFa5ZfeM_74wlPZtksIFYuUe6HOpWw.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=dFa5ZfeM_74wlPZtksIFYuUe6HOpXA&skey=b142959be4274cbf&v=v5#ZillaSlab",
       "ttf": "https://fonts.gstatic.com/s/zillaslab/v5/dFa5ZfeM_74wlPZtksIFYuUe6HOpXg.ttf",
+      "errored": false
+    },
+    {
+      "id": "600italic",
+      "woff": "https://fonts.gstatic.com/s/zillaslab/v5/dFanZfeM_74wlPZtksIFaj8CIHCZWXBx.woff",
+      "fontFamily": "'Zilla Slab'",
+      "fontStyle": "italic",
+      "fontWeight": "600",
+      "local": [
+        "Zilla Slab SemiBold Italic",
+        "ZillaSlab-SemiBoldItalic"
+      ],
+      "eot": "https://fonts.gstatic.com/s/zillaslab/v5/dFanZfeM_74wlPZtksIFaj8CIHCZWXBz.eot",
+      "woff2": "https://fonts.gstatic.com/s/zillaslab/v5/dFanZfeM_74wlPZtksIFaj8CIHCZWXB3.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=dFanZfeM_74wlPZtksIFaj8CIHCZWXBw&skey=3a4040de6e68062&v=v5#ZillaSlab",
+      "ttf": "https://fonts.gstatic.com/s/zillaslab/v5/dFanZfeM_74wlPZtksIFaj8CIHCZWXBy.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff": "https://fonts.gstatic.com/s/zillaslab/v5/dFa5ZfeM_74wlPZtksIFYoEf6HOpXQ.woff",
+      "fontFamily": "'Zilla Slab'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Zilla Slab Bold",
+        "ZillaSlab-Bold"
+      ],
+      "eot": "https://fonts.gstatic.com/s/zillaslab/v5/dFa5ZfeM_74wlPZtksIFYoEf6HOpXw.eot",
+      "woff2": "https://fonts.gstatic.com/s/zillaslab/v5/dFa5ZfeM_74wlPZtksIFYoEf6HOpWw.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=dFa5ZfeM_74wlPZtksIFYoEf6HOpXA&skey=fa01195928aed3f7&v=v5#ZillaSlab",
+      "ttf": "https://fonts.gstatic.com/s/zillaslab/v5/dFa5ZfeM_74wlPZtksIFYoEf6HOpXg.ttf",
       "errored": false
     },
     {
@@ -129,38 +161,6 @@
       "svg": "https://fonts.gstatic.com/l/font?kit=dFanZfeM_74wlPZtksIFaj8CRHGZWXBw&skey=31b1451cc7b95f1d&v=v5#ZillaSlab",
       "ttf": "https://fonts.gstatic.com/s/zillaslab/v5/dFanZfeM_74wlPZtksIFaj8CRHGZWXBy.ttf",
       "errored": false
-    },
-    {
-      "id": "600italic",
-      "woff": "https://fonts.gstatic.com/s/zillaslab/v5/dFanZfeM_74wlPZtksIFaj8CIHCZWXBx.woff",
-      "fontFamily": "'Zilla Slab'",
-      "fontStyle": "italic",
-      "fontWeight": "600",
-      "local": [
-        "Zilla Slab SemiBold Italic",
-        "ZillaSlab-SemiBoldItalic"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/zillaslab/v5/dFanZfeM_74wlPZtksIFaj8CIHCZWXB3.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=dFanZfeM_74wlPZtksIFaj8CIHCZWXBw&skey=3a4040de6e68062&v=v5#ZillaSlab",
-      "eot": "https://fonts.gstatic.com/s/zillaslab/v5/dFanZfeM_74wlPZtksIFaj8CIHCZWXBz.eot",
-      "ttf": "https://fonts.gstatic.com/s/zillaslab/v5/dFanZfeM_74wlPZtksIFaj8CIHCZWXBy.ttf",
-      "errored": false
-    },
-    {
-      "id": "700",
-      "woff": "https://fonts.gstatic.com/s/zillaslab/v5/dFa5ZfeM_74wlPZtksIFYoEf6HOpXQ.woff",
-      "fontFamily": "'Zilla Slab'",
-      "fontStyle": "normal",
-      "fontWeight": "700",
-      "local": [
-        "Zilla Slab Bold",
-        "ZillaSlab-Bold"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/zillaslab/v5/dFa5ZfeM_74wlPZtksIFYoEf6HOpWw.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=dFa5ZfeM_74wlPZtksIFYoEf6HOpXA&skey=fa01195928aed3f7&v=v5#ZillaSlab",
-      "ttf": "https://fonts.gstatic.com/s/zillaslab/v5/dFa5ZfeM_74wlPZtksIFYoEf6HOpXg.ttf",
-      "eot": "https://fonts.gstatic.com/s/zillaslab/v5/dFa5ZfeM_74wlPZtksIFYoEf6HOpXw.eot",
-      "errored": false
     }
   ],
   "subsets": [
@@ -169,8 +169,8 @@
   ],
   "category": "serif",
   "version": "v5",
-  "lastModified": "2019-07-17",
-  "popularity": 124,
+  "lastModified": "2020-07-13",
+  "popularity": 82,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

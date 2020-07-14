@@ -1,0 +1,71 @@
+{
+  "id": "rowdies",
+  "family": "Rowdies",
+  "variants": [
+    {
+      "id": "300",
+      "woff": "https://fonts.gstatic.com/s/rowdies/v1/ptRMTieMYPNBAK219hth1Ob4Lg.woff",
+      "fontFamily": "'Rowdies'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "local": [
+        "Rowdies Light",
+        "Rowdies-Light"
+      ],
+      "eot": "https://fonts.gstatic.com/s/rowdies/v1/ptRMTieMYPNBAK219hth1Ob4LA.eot",
+      "woff2": "https://fonts.gstatic.com/s/rowdies/v1/ptRMTieMYPNBAK219hth1Ob4KA.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=ptRMTieMYPNBAK219hth1Ob4Lw&skey=be5e5dcd1c9e6f69&v=v1#Rowdies",
+      "ttf": "https://fonts.gstatic.com/s/rowdies/v1/ptRMTieMYPNBAK219hth1Ob4LQ.ttf",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/rowdies/v1/ptRJTieMYPNBAK21_r9DxQ.eot",
+      "fontFamily": "'Rowdies'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/rowdies/v1/ptRJTieMYPNBAK21_r9DwQ.woff2",
+      "local": [
+        "Rowdies Regular",
+        "Rowdies-Regular"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=ptRJTieMYPNBAK21_r9Dxg&skey=b958925ecc21120d&v=v1#Rowdies",
+      "woff": "https://fonts.gstatic.com/s/rowdies/v1/ptRJTieMYPNBAK21_r9Dxw.woff",
+      "ttf": "https://fonts.gstatic.com/s/rowdies/v1/ptRJTieMYPNBAK21_r9DxA.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff": "https://fonts.gstatic.com/s/rowdies/v1/ptRMTieMYPNBAK219gtm1Ob4Lg.woff",
+      "fontFamily": "'Rowdies'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Rowdies Bold",
+        "Rowdies-Bold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/rowdies/v1/ptRMTieMYPNBAK219gtm1Ob4KA.woff2",
+      "eot": "https://fonts.gstatic.com/s/rowdies/v1/ptRMTieMYPNBAK219gtm1Ob4LA.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=ptRMTieMYPNBAK219gtm1Ob4Lw&skey=dc3942e9051ae007&v=v1#Rowdies",
+      "ttf": "https://fonts.gstatic.com/s/rowdies/v1/ptRMTieMYPNBAK219gtm1Ob4LQ.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "category": "display",
+  "version": "v1",
+  "lastModified": "2020-07-13",
+  "popularity": 996,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false,
+    "vietnamese": true
+  },
+  "storeID": "vietnamese_latin"
+}

@@ -4,164 +4,128 @@
   "variants": [
     {
       "id": "100",
-      "ttf": "https://fonts.gstatic.com/s/encodesans/v4/LDI0apOFNxEwR-Bd1O9uYPvISerukw.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGGHiVt2F6g&skey=e89c161dda2ef39d&v=v6#EncodeSans",
       "fontFamily": "'Encode Sans'",
       "fontStyle": "normal",
       "fontWeight": "100",
-      "local": [
-        "Encode Sans Thin",
-        "EncodeSans-Thin"
-      ],
-      "woff": "https://fonts.gstatic.com/s/encodesans/v4/LDI0apOFNxEwR-Bd1O9uYPvISerukA.woff",
-      "woff2": "https://fonts.gstatic.com/s/encodesans/v4/LDI0apOFNxEwR-Bd1O9uYPvISerulg.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=LDI0apOFNxEwR-Bd1O9uYPvISerukQ&skey=4897862124b5804f&v=v4#EncodeSans",
-      "eot": "https://fonts.gstatic.com/s/encodesans/v4/LDI0apOFNxEwR-Bd1O9uYPvISerukg.eot",
-      "errored": false
-    },
-    {
-      "id": "300",
-      "eot": "https://fonts.gstatic.com/s/encodesans/v4/LDIrapOFNxEwR-Bd1O9uYPsAW_LGs7s.eot",
-      "fontFamily": "'Encode Sans'",
-      "fontStyle": "normal",
-      "fontWeight": "300",
-      "woff": "https://fonts.gstatic.com/s/encodesans/v4/LDIrapOFNxEwR-Bd1O9uYPsAW_LGs7k.woff",
-      "local": [
-        "Encode Sans Light",
-        "EncodeSans-Light"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/encodesans/v4/LDIrapOFNxEwR-Bd1O9uYPsAW_LGs78.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=LDIrapOFNxEwR-Bd1O9uYPsAW_LGs7g&skey=d134ae2d6cb06133&v=v4#EncodeSans",
-      "ttf": "https://fonts.gstatic.com/s/encodesans/v4/LDIrapOFNxEwR-Bd1O9uYPsAW_LGs7o.ttf",
+      "woff": "https://fonts.gstatic.com/s/encodesans/v6/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGGHiVt2F6w.woff",
+      "ttf": "https://fonts.gstatic.com/s/encodesans/v6/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGGHiVt2F6A.ttf",
+      "eot": "https://fonts.gstatic.com/s/encodesans/v6/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGGHiVt2F6Q.eot",
+      "woff2": "https://fonts.gstatic.com/s/encodesans/v6/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGGHiVt2F7Q.woff2",
       "errored": false
     },
     {
       "id": "200",
-      "eot": "https://fonts.gstatic.com/s/encodesans/v4/LDIrapOFNxEwR-Bd1O9uYPtkWPLGs7s.eot",
+      "eot": "https://fonts.gstatic.com/s/encodesans/v6/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGOHjVt2F6Q.eot",
       "fontFamily": "'Encode Sans'",
       "fontStyle": "normal",
       "fontWeight": "200",
-      "woff": "https://fonts.gstatic.com/s/encodesans/v4/LDIrapOFNxEwR-Bd1O9uYPtkWPLGs7k.woff",
-      "local": [
-        "Encode Sans ExtraLight",
-        "EncodeSans-ExtraLight"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=LDIrapOFNxEwR-Bd1O9uYPtkWPLGs7g&skey=a94bc255fe60e002&v=v4#EncodeSans",
-      "woff2": "https://fonts.gstatic.com/s/encodesans/v4/LDIrapOFNxEwR-Bd1O9uYPtkWPLGs78.woff2",
-      "ttf": "https://fonts.gstatic.com/s/encodesans/v4/LDIrapOFNxEwR-Bd1O9uYPtkWPLGs7o.ttf",
+      "woff": "https://fonts.gstatic.com/s/encodesans/v6/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGOHjVt2F6w.woff",
+      "woff2": "https://fonts.gstatic.com/s/encodesans/v6/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGOHjVt2F7Q.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGOHjVt2F6g&skey=e89c161dda2ef39d&v=v6#EncodeSans",
+      "ttf": "https://fonts.gstatic.com/s/encodesans/v6/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGOHjVt2F6A.ttf",
+      "errored": false
+    },
+    {
+      "id": "300",
+      "eot": "https://fonts.gstatic.com/s/encodesans/v6/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGD_jVt2F6Q.eot",
+      "fontFamily": "'Encode Sans'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "woff": "https://fonts.gstatic.com/s/encodesans/v6/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGD_jVt2F6w.woff",
+      "woff2": "https://fonts.gstatic.com/s/encodesans/v6/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGD_jVt2F7Q.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGD_jVt2F6g&skey=e89c161dda2ef39d&v=v6#EncodeSans",
+      "ttf": "https://fonts.gstatic.com/s/encodesans/v6/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGD_jVt2F6A.ttf",
       "errored": false
     },
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/encodesans/v4/LDI2apOFNxEwR-Bd1O9uYPOkeeM.eot",
+      "eot": "https://fonts.gstatic.com/s/encodesans/v6/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGGHjVt2F6Q.eot",
       "fontFamily": "'Encode Sans'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/encodesans/v4/LDI2apOFNxEwR-Bd1O9uYPOkeec.woff2",
-      "local": [
-        "Encode Sans Regular",
-        "EncodeSans-Regular"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=LDI2apOFNxEwR-Bd1O9uYPOkeeA&skey=e89c161dda2ef39d&v=v4#EncodeSans",
-      "woff": "https://fonts.gstatic.com/s/encodesans/v4/LDI2apOFNxEwR-Bd1O9uYPOkeeE.woff",
-      "ttf": "https://fonts.gstatic.com/s/encodesans/v4/LDI2apOFNxEwR-Bd1O9uYPOkeeI.ttf",
+      "woff": "https://fonts.gstatic.com/s/encodesans/v6/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGGHjVt2F6w.woff",
+      "woff2": "https://fonts.gstatic.com/s/encodesans/v6/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGGHjVt2F7Q.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGGHjVt2F6g&skey=e89c161dda2ef39d&v=v6#EncodeSans",
+      "ttf": "https://fonts.gstatic.com/s/encodesans/v6/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGGHjVt2F6A.ttf",
       "errored": false
     },
     {
       "id": "500",
-      "eot": "https://fonts.gstatic.com/s/encodesans/v4/LDIrapOFNxEwR-Bd1O9uYPtYWvLGs7s.eot",
+      "eot": "https://fonts.gstatic.com/s/encodesans/v6/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGFPjVt2F6Q.eot",
       "fontFamily": "'Encode Sans'",
       "fontStyle": "normal",
       "fontWeight": "500",
-      "woff2": "https://fonts.gstatic.com/s/encodesans/v4/LDIrapOFNxEwR-Bd1O9uYPtYWvLGs78.woff2",
-      "local": [
-        "Encode Sans Medium",
-        "EncodeSans-Medium"
-      ],
-      "woff": "https://fonts.gstatic.com/s/encodesans/v4/LDIrapOFNxEwR-Bd1O9uYPtYWvLGs7k.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=LDIrapOFNxEwR-Bd1O9uYPtYWvLGs7g&skey=241fde597644f863&v=v4#EncodeSans",
-      "ttf": "https://fonts.gstatic.com/s/encodesans/v4/LDIrapOFNxEwR-Bd1O9uYPtYWvLGs7o.ttf",
-      "errored": false
-    },
-    {
-      "id": "700",
-      "eot": "https://fonts.gstatic.com/s/encodesans/v4/LDIrapOFNxEwR-Bd1O9uYPsQXPLGs7s.eot",
-      "fontFamily": "'Encode Sans'",
-      "fontStyle": "normal",
-      "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/encodesans/v4/LDIrapOFNxEwR-Bd1O9uYPsQXPLGs7k.woff",
-      "local": [
-        "Encode Sans Bold",
-        "EncodeSans-Bold"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/encodesans/v4/LDIrapOFNxEwR-Bd1O9uYPsQXPLGs78.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=LDIrapOFNxEwR-Bd1O9uYPsQXPLGs7g&skey=7578a3c5006b77c5&v=v4#EncodeSans",
-      "ttf": "https://fonts.gstatic.com/s/encodesans/v4/LDIrapOFNxEwR-Bd1O9uYPsQXPLGs7o.ttf",
-      "errored": false
-    },
-    {
-      "id": "800",
-      "eot": "https://fonts.gstatic.com/s/encodesans/v4/LDIrapOFNxEwR-Bd1O9uYPsMX_LGs7s.eot",
-      "fontFamily": "'Encode Sans'",
-      "fontStyle": "normal",
-      "fontWeight": "800",
-      "woff": "https://fonts.gstatic.com/s/encodesans/v4/LDIrapOFNxEwR-Bd1O9uYPsMX_LGs7k.woff",
-      "local": [
-        "Encode Sans ExtraBold",
-        "EncodeSans-ExtraBold"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/encodesans/v4/LDIrapOFNxEwR-Bd1O9uYPsMX_LGs78.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=LDIrapOFNxEwR-Bd1O9uYPsMX_LGs7g&skey=73b8969bdd83d4e5&v=v4#EncodeSans",
-      "ttf": "https://fonts.gstatic.com/s/encodesans/v4/LDIrapOFNxEwR-Bd1O9uYPsMX_LGs7o.ttf",
+      "woff": "https://fonts.gstatic.com/s/encodesans/v6/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGFPjVt2F6w.woff",
+      "woff2": "https://fonts.gstatic.com/s/encodesans/v6/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGFPjVt2F7Q.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGFPjVt2F6g&skey=e89c161dda2ef39d&v=v6#EncodeSans",
+      "ttf": "https://fonts.gstatic.com/s/encodesans/v6/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGFPjVt2F6A.ttf",
       "errored": false
     },
     {
       "id": "600",
-      "eot": "https://fonts.gstatic.com/s/encodesans/v4/LDIrapOFNxEwR-Bd1O9uYPt0XfLGs7s.eot",
+      "eot": "https://fonts.gstatic.com/s/encodesans/v6/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGL_kVt2F6Q.eot",
       "fontFamily": "'Encode Sans'",
       "fontStyle": "normal",
       "fontWeight": "600",
-      "woff": "https://fonts.gstatic.com/s/encodesans/v4/LDIrapOFNxEwR-Bd1O9uYPt0XfLGs7k.woff",
-      "local": [
-        "Encode Sans SemiBold",
-        "EncodeSans-SemiBold"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/encodesans/v4/LDIrapOFNxEwR-Bd1O9uYPt0XfLGs78.woff2",
-      "ttf": "https://fonts.gstatic.com/s/encodesans/v4/LDIrapOFNxEwR-Bd1O9uYPt0XfLGs7o.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=LDIrapOFNxEwR-Bd1O9uYPt0XfLGs7g&skey=7604cc58fa3da2f5&v=v4#EncodeSans",
+      "woff2": "https://fonts.gstatic.com/s/encodesans/v6/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGL_kVt2F7Q.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGL_kVt2F6g&skey=e89c161dda2ef39d&v=v6#EncodeSans",
+      "woff": "https://fonts.gstatic.com/s/encodesans/v6/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGL_kVt2F6w.woff",
+      "ttf": "https://fonts.gstatic.com/s/encodesans/v6/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGL_kVt2F6A.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/encodesans/v6/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGIbkVt2F6Q.eot",
+      "fontFamily": "'Encode Sans'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/encodesans/v6/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGIbkVt2F6w.woff",
+      "woff2": "https://fonts.gstatic.com/s/encodesans/v6/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGIbkVt2F7Q.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGIbkVt2F6g&skey=e89c161dda2ef39d&v=v6#EncodeSans",
+      "ttf": "https://fonts.gstatic.com/s/encodesans/v6/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGIbkVt2F6A.ttf",
+      "errored": false
+    },
+    {
+      "id": "800",
+      "woff": "https://fonts.gstatic.com/s/encodesans/v6/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGOHkVt2F6w.woff",
+      "fontFamily": "'Encode Sans'",
+      "fontStyle": "normal",
+      "fontWeight": "800",
+      "eot": "https://fonts.gstatic.com/s/encodesans/v6/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGOHkVt2F6Q.eot",
+      "woff2": "https://fonts.gstatic.com/s/encodesans/v6/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGOHkVt2F7Q.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGOHkVt2F6g&skey=e89c161dda2ef39d&v=v6#EncodeSans",
+      "ttf": "https://fonts.gstatic.com/s/encodesans/v6/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGOHkVt2F6A.ttf",
       "errored": false
     },
     {
       "id": "900",
-      "eot": "https://fonts.gstatic.com/s/encodesans/v4/LDIrapOFNxEwR-Bd1O9uYPsoXvLGs7s.eot",
+      "eot": "https://fonts.gstatic.com/s/encodesans/v6/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGMjkVt2F6Q.eot",
       "fontFamily": "'Encode Sans'",
       "fontStyle": "normal",
       "fontWeight": "900",
-      "woff2": "https://fonts.gstatic.com/s/encodesans/v4/LDIrapOFNxEwR-Bd1O9uYPsoXvLGs78.woff2",
-      "local": [
-        "Encode Sans Black",
-        "EncodeSans-Black"
-      ],
-      "woff": "https://fonts.gstatic.com/s/encodesans/v4/LDIrapOFNxEwR-Bd1O9uYPsoXvLGs7k.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=LDIrapOFNxEwR-Bd1O9uYPsoXvLGs7g&skey=3b790319ee4e3d43&v=v4#EncodeSans",
-      "ttf": "https://fonts.gstatic.com/s/encodesans/v4/LDIrapOFNxEwR-Bd1O9uYPsoXvLGs7o.ttf",
+      "woff": "https://fonts.gstatic.com/s/encodesans/v6/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGMjkVt2F6w.woff",
+      "woff2": "https://fonts.gstatic.com/s/encodesans/v6/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGMjkVt2F7Q.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGMjkVt2F6g&skey=e89c161dda2ef39d&v=v6#EncodeSans",
+      "ttf": "https://fonts.gstatic.com/s/encodesans/v6/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGMjkVt2F6A.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "vietnamese",
     "latin",
-    "latin-ext"
+    "latin-ext",
+    "vietnamese"
   ],
   "category": "sans-serif",
-  "version": "v4",
-  "lastModified": "2019-07-16",
-  "popularity": 346,
+  "version": "v6",
+  "lastModified": "2020-07-13",
+  "popularity": 183,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "vietnamese": true,
     "latin": true,
-    "latin-ext": false
+    "latin-ext": false,
+    "vietnamese": true
   },
-  "storeID": "latin_vietnamese"
+  "storeID": "vietnamese_latin"
 }
