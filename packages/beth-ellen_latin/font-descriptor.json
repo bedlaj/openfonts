@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=WwkbxPW2BE-3rb_JNT-qIIcoUg&skey=25b69ed324f5791a&v=v1#BethEllen",
+      "woff2": "https://fonts.gstatic.com/s/bethellen/v2/WwkbxPW2BE-3rb_JNT-qIIcoVQ.woff2",
       "fontFamily": "'Beth Ellen'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Beth Ellen Regular",
         "BethEllen-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/bethellen/v1/WwkbxPW2BE-3rb_JNT-qIIcoUw.woff",
-      "eot": "https://fonts.gstatic.com/s/bethellen/v1/WwkbxPW2BE-3rb_JNT-qIIcoUQ.eot",
-      "ttf": "https://fonts.gstatic.com/s/bethellen/v1/WwkbxPW2BE-3rb_JNT-qIIcoUA.ttf",
-      "woff2": "https://fonts.gstatic.com/s/bethellen/v1/WwkbxPW2BE-3rb_JNT-qIIcoVQ.woff2",
+      "woff": "https://fonts.gstatic.com/s/bethellen/v2/WwkbxPW2BE-3rb_JNT-qIIcoUw.woff",
+      "eot": "https://fonts.gstatic.com/s/bethellen/v2/WwkbxPW2BE-3rb_JNT-qIIcoUQ.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=WwkbxPW2BE-3rb_JNT-qIIcoUg&skey=25b69ed324f5791a&v=v2#BethEllen",
+      "ttf": "https://fonts.gstatic.com/s/bethellen/v2/WwkbxPW2BE-3rb_JNT-qIIcoUA.ttf",
       "errored": false
     }
   ],
@@ -23,9 +23,9 @@
     "latin"
   ],
   "category": "handwriting",
-  "version": "v1",
-  "lastModified": "2019-11-05",
-  "popularity": 937,
+  "version": "v2",
+  "lastModified": "2020-07-15",
+  "popularity": 957,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

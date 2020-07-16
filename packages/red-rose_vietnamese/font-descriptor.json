@@ -1,0 +1,71 @@
+{
+  "id": "red-rose",
+  "family": "Red Rose",
+  "variants": [
+    {
+      "id": "300",
+      "svg": "https://fonts.gstatic.com/l/font?kit=QdVSSTYiLBjouPgEUYpIuxFos24&skey=aa741445a753e0f9&v=v1#RedRose",
+      "fontFamily": "'Red Rose'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "local": [
+        "Red Rose Light",
+        "RedRose-Light"
+      ],
+      "woff": "https://fonts.gstatic.com/s/redrose/v1/QdVSSTYiLBjouPgEUYpIuxFos28.woff",
+      "woff2": "https://fonts.gstatic.com/s/redrose/v1/QdVSSTYiLBjouPgEUYpIuxFos2k.woff2",
+      "ttf": "https://fonts.gstatic.com/s/redrose/v1/QdVSSTYiLBjouPgEUYpIuxFos2w.ttf",
+      "eot": "https://fonts.gstatic.com/s/redrose/v1/QdVSSTYiLBjouPgEUYpIuxFos20.eot",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/redrose/v1/QdVVSTYiLBjouPgEUYLsmQI.woff",
+      "fontFamily": "'Red Rose'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Red Rose Regular",
+        "RedRose-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/redrose/v1/QdVVSTYiLBjouPgEUYLsmQA.eot",
+      "woff2": "https://fonts.gstatic.com/s/redrose/v1/QdVVSTYiLBjouPgEUYLsmQQ.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=QdVVSTYiLBjouPgEUYLsmQM&skey=ffb4898cf949c915&v=v1#RedRose",
+      "ttf": "https://fonts.gstatic.com/s/redrose/v1/QdVVSTYiLBjouPgEUYLsmQE.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/redrose/v1/QdVSSTYiLBjouPgEUYpYvBFos20.eot",
+      "fontFamily": "'Red Rose'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/redrose/v1/QdVSSTYiLBjouPgEUYpYvBFos28.woff",
+      "local": [
+        "Red Rose Bold",
+        "RedRose-Bold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/redrose/v1/QdVSSTYiLBjouPgEUYpYvBFos2k.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=QdVSSTYiLBjouPgEUYpYvBFos24&skey=c1a14089377fbc1a&v=v1#RedRose",
+      "ttf": "https://fonts.gstatic.com/s/redrose/v1/QdVSSTYiLBjouPgEUYpYvBFos2w.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "category": "display",
+  "version": "v1",
+  "lastModified": "2020-07-15",
+  "popularity": 998,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false,
+    "vietnamese": true
+  },
+  "storeID": "vietnamese_latin"
+}

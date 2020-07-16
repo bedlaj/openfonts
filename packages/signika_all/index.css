@@ -1,0 +1,50 @@
+/* signika-300normal - all */
+@font-face {
+  font-family: 'Signika';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src: 
+    url('./files/signika-all-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/signika-all-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* signika-400normal - all */
+@font-face {
+  font-family: 'Signika';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: 
+    url('./files/signika-all-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/signika-all-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* signika-500normal - all */
+@font-face {
+  font-family: 'Signika';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: 
+    url('./files/signika-all-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/signika-all-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* signika-600normal - all */
+@font-face {
+  font-family: 'Signika';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: 
+    url('./files/signika-all-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/signika-all-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* signika-700normal - all */
+@font-face {
+  font-family: 'Signika';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: 
+    url('./files/signika-all-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/signika-all-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}

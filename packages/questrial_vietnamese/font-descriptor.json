@@ -1,0 +1,39 @@
+{
+  "id": "questrial",
+  "family": "Questrial",
+  "variants": [
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/questrial/v10/QdVUSTchPBm7nuUeVf70sSFh.eot",
+      "fontFamily": "'Questrial'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/questrial/v10/QdVUSTchPBm7nuUeVf70sSFj.woff",
+      "local": [
+        "Questrial Regular",
+        "Questrial-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/questrial/v10/QdVUSTchPBm7nuUeVf70sSFl.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=QdVUSTchPBm7nuUeVf70sSFi&skey=52b8dabeb218987d&v=v10#Questrial",
+      "ttf": "https://fonts.gstatic.com/s/questrial/v10/QdVUSTchPBm7nuUeVf70sSFg.ttf",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ],
+  "category": "sans-serif",
+  "version": "v10",
+  "lastModified": "2020-07-15",
+  "popularity": 71,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false,
+    "vietnamese": true
+  },
+  "storeID": "vietnamese_latin"
+}
