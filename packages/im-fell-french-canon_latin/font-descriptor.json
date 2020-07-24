@@ -4,34 +4,34 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/imfellfrenchcanon/v9/-F6ufiNtDWYfYc-tDiyiw08rrghJszkK6foSNNg.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=-F6ufiNtDWYfYc-tDiyiw08rrghJszkK6foSNNs&skey=e84a686a36c32686&v=v10#IMFellFrenchCanon",
       "fontFamily": "'IM Fell French Canon'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/imfellfrenchcanon/v9/-F6ufiNtDWYfYc-tDiyiw08rrghJszkK6foSNNo.woff",
       "local": [
         "IM FELL French Canon Roman",
         "IM_FELL_French_Canon_Roman"
       ],
-      "ttf": "https://fonts.gstatic.com/s/imfellfrenchcanon/v9/-F6ufiNtDWYfYc-tDiyiw08rrghJszkK6foSNNk.ttf",
-      "woff2": "https://fonts.gstatic.com/s/imfellfrenchcanon/v9/-F6ufiNtDWYfYc-tDiyiw08rrghJszkK6foSNNw.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=-F6ufiNtDWYfYc-tDiyiw08rrghJszkK6foSNNs&skey=e84a686a36c32686&v=v9#IMFellFrenchCanon",
+      "ttf": "https://fonts.gstatic.com/s/imfellfrenchcanon/v10/-F6ufiNtDWYfYc-tDiyiw08rrghJszkK6foSNNk.ttf",
+      "eot": "https://fonts.gstatic.com/s/imfellfrenchcanon/v10/-F6ufiNtDWYfYc-tDiyiw08rrghJszkK6foSNNg.eot",
+      "woff": "https://fonts.gstatic.com/s/imfellfrenchcanon/v10/-F6ufiNtDWYfYc-tDiyiw08rrghJszkK6foSNNo.woff",
+      "woff2": "https://fonts.gstatic.com/s/imfellfrenchcanon/v10/-F6ufiNtDWYfYc-tDiyiw08rrghJszkK6foSNNw.woff2",
       "errored": false
     },
     {
       "id": "italic",
-      "woff": "https://fonts.gstatic.com/s/imfellfrenchcanon/v9/-F6gfiNtDWYfYc-tDiyiw08rrghJszkK6foXBN5AzA.woff",
+      "eot": "https://fonts.gstatic.com/s/imfellfrenchcanon/v10/-F6gfiNtDWYfYc-tDiyiw08rrghJszkK6foXBN5Azg.eot",
       "fontFamily": "'IM Fell French Canon'",
       "fontStyle": "italic",
       "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/imfellfrenchcanon/v10/-F6gfiNtDWYfYc-tDiyiw08rrghJszkK6foXBN5Ayg.woff2",
       "local": [
         "IM FELL French Canon Italic",
         "IM_FELL_French_Canon_Italic"
       ],
-      "eot": "https://fonts.gstatic.com/s/imfellfrenchcanon/v9/-F6gfiNtDWYfYc-tDiyiw08rrghJszkK6foXBN5Azg.eot",
-      "woff2": "https://fonts.gstatic.com/s/imfellfrenchcanon/v9/-F6gfiNtDWYfYc-tDiyiw08rrghJszkK6foXBN5Ayg.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=-F6gfiNtDWYfYc-tDiyiw08rrghJszkK6foXBN5AzQ&skey=2a36a76ac685a10c&v=v9#IMFellFrenchCanon",
-      "ttf": "https://fonts.gstatic.com/s/imfellfrenchcanon/v9/-F6gfiNtDWYfYc-tDiyiw08rrghJszkK6foXBN5Azw.ttf",
+      "ttf": "https://fonts.gstatic.com/s/imfellfrenchcanon/v10/-F6gfiNtDWYfYc-tDiyiw08rrghJszkK6foXBN5Azw.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=-F6gfiNtDWYfYc-tDiyiw08rrghJszkK6foXBN5AzQ&skey=2a36a76ac685a10c&v=v10#IMFellFrenchCanon",
+      "woff": "https://fonts.gstatic.com/s/imfellfrenchcanon/v10/-F6gfiNtDWYfYc-tDiyiw08rrghJszkK6foXBN5AzA.woff",
       "errored": false
     }
   ],
@@ -39,9 +39,9 @@
     "latin"
   ],
   "category": "serif",
-  "version": "v9",
-  "lastModified": "2019-07-16",
-  "popularity": 722,
+  "version": "v10",
+  "lastModified": "2020-07-23",
+  "popularity": 786,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

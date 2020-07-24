@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/dynalight/v8/1Ptsg8LOU_aOmQvTsF44Q4Fv.ttf",
+      "woff2": "https://fonts.gstatic.com/s/dynalight/v9/1Ptsg8LOU_aOmQvTsF44Q4Fq.woff2",
       "fontFamily": "'Dynalight'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Dynalight",
         "Dynalight-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/dynalight/v8/1Ptsg8LOU_aOmQvTsF44Q4Fs.woff",
-      "eot": "https://fonts.gstatic.com/s/dynalight/v8/1Ptsg8LOU_aOmQvTsF44Q4Fu.eot",
-      "woff2": "https://fonts.gstatic.com/s/dynalight/v8/1Ptsg8LOU_aOmQvTsF44Q4Fq.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=1Ptsg8LOU_aOmQvTsF44Q4Ft&skey=97fd8018c14a4dc1&v=v8#Dynalight",
+      "eot": "https://fonts.gstatic.com/s/dynalight/v9/1Ptsg8LOU_aOmQvTsF44Q4Fu.eot",
+      "woff": "https://fonts.gstatic.com/s/dynalight/v9/1Ptsg8LOU_aOmQvTsF44Q4Fs.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=1Ptsg8LOU_aOmQvTsF44Q4Ft&skey=97fd8018c14a4dc1&v=v9#Dynalight",
+      "ttf": "https://fonts.gstatic.com/s/dynalight/v9/1Ptsg8LOU_aOmQvTsF44Q4Fv.ttf",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "display",
-  "version": "v8",
-  "lastModified": "2019-07-16",
-  "popularity": 667,
+  "version": "v9",
+  "lastModified": "2020-07-23",
+  "popularity": 676,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

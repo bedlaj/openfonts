@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/combo/v8/BXRlvF3Jh_fIhj0lDOo.eot",
+      "woff2": "https://fonts.gstatic.com/s/combo/v9/BXRlvF3Jh_fIhj0lDO4.woff2",
       "fontFamily": "'Combo'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "ttf": "https://fonts.gstatic.com/s/combo/v8/BXRlvF3Jh_fIhj0lDOs.ttf",
       "local": [
         "Combo",
         "Combo-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=BXRlvF3Jh_fIhj0lDOk&skey=5d39bfc218062a9c&v=v8#Combo",
-      "woff": "https://fonts.gstatic.com/s/combo/v8/BXRlvF3Jh_fIhj0lDOg.woff",
-      "woff2": "https://fonts.gstatic.com/s/combo/v8/BXRlvF3Jh_fIhj0lDO4.woff2",
+      "ttf": "https://fonts.gstatic.com/s/combo/v9/BXRlvF3Jh_fIhj0lDOs.ttf",
+      "woff": "https://fonts.gstatic.com/s/combo/v9/BXRlvF3Jh_fIhj0lDOg.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=BXRlvF3Jh_fIhj0lDOk&skey=5d39bfc218062a9c&v=v9#Combo",
+      "eot": "https://fonts.gstatic.com/s/combo/v9/BXRlvF3Jh_fIhj0lDOo.eot",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "display",
-  "version": "v8",
-  "lastModified": "2019-07-16",
-  "popularity": 899,
+  "version": "v9",
+  "lastModified": "2020-07-23",
+  "popularity": 966,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

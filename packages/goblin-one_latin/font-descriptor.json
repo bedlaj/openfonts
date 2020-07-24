@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/goblinone/v9/CSR64z1ZnOqZRjRCBVY_fOAKSw.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=CSR64z1ZnOqZRjRCBVY_fOAKSg&skey=42b648ad0b68aa48&v=v10#GoblinOne",
       "fontFamily": "'Goblin One'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Goblin One",
         "GoblinOne"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=CSR64z1ZnOqZRjRCBVY_fOAKSg&skey=42b648ad0b68aa48&v=v9#GoblinOne",
-      "woff2": "https://fonts.gstatic.com/s/goblinone/v9/CSR64z1ZnOqZRjRCBVY_fOAKTQ.woff2",
-      "ttf": "https://fonts.gstatic.com/s/goblinone/v9/CSR64z1ZnOqZRjRCBVY_fOAKSA.ttf",
-      "eot": "https://fonts.gstatic.com/s/goblinone/v9/CSR64z1ZnOqZRjRCBVY_fOAKSQ.eot",
+      "eot": "https://fonts.gstatic.com/s/goblinone/v10/CSR64z1ZnOqZRjRCBVY_fOAKSQ.eot",
+      "woff": "https://fonts.gstatic.com/s/goblinone/v10/CSR64z1ZnOqZRjRCBVY_fOAKSw.woff",
+      "woff2": "https://fonts.gstatic.com/s/goblinone/v10/CSR64z1ZnOqZRjRCBVY_fOAKTQ.woff2",
+      "ttf": "https://fonts.gstatic.com/s/goblinone/v10/CSR64z1ZnOqZRjRCBVY_fOAKSA.ttf",
       "errored": false
     }
   ],
@@ -23,9 +23,9 @@
     "latin"
   ],
   "category": "display",
-  "version": "v9",
-  "lastModified": "2019-07-16",
-  "popularity": 779,
+  "version": "v10",
+  "lastModified": "2020-07-23",
+  "popularity": 846,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

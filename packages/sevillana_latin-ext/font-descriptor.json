@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/sevillana/v8/KFOlCnWFscmDt1Bfiy1fChc4.woff2",
+      "eot": "https://fonts.gstatic.com/s/sevillana/v9/KFOlCnWFscmDt1Bfiy1fChc8.eot",
       "fontFamily": "'Sevillana'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/sevillana/v9/KFOlCnWFscmDt1Bfiy1fChc-.woff",
       "local": [
         "Sevillana",
         "Sevillana-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/sevillana/v8/KFOlCnWFscmDt1Bfiy1fChc9.ttf",
-      "eot": "https://fonts.gstatic.com/s/sevillana/v8/KFOlCnWFscmDt1Bfiy1fChc8.eot",
-      "woff": "https://fonts.gstatic.com/s/sevillana/v8/KFOlCnWFscmDt1Bfiy1fChc-.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=KFOlCnWFscmDt1Bfiy1fChc_&skey=766250f377172da2&v=v8#Sevillana",
+      "woff2": "https://fonts.gstatic.com/s/sevillana/v9/KFOlCnWFscmDt1Bfiy1fChc4.woff2",
+      "ttf": "https://fonts.gstatic.com/s/sevillana/v9/KFOlCnWFscmDt1Bfiy1fChc9.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=KFOlCnWFscmDt1Bfiy1fChc_&skey=766250f377172da2&v=v9#Sevillana",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "display",
-  "version": "v8",
-  "lastModified": "2019-07-16",
-  "popularity": 883,
+  "version": "v9",
+  "lastModified": "2020-07-23",
+  "popularity": 933,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

@@ -4,38 +4,38 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/coiny/v5/gyByhwU1K989PUwcGFE.eot",
+      "woff": "https://fonts.gstatic.com/s/coiny/v6/gyByhwU1K989PUwcGFM.woff",
       "fontFamily": "'Coiny'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "svg": "https://fonts.gstatic.com/l/font?kit=gyByhwU1K989PUwcGFI&skey=f65afa53b66c5694&v=v5#Coiny",
       "local": [
         "Coiny Regular",
         "Coiny-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/coiny/v5/gyByhwU1K989PUwcGFM.woff",
-      "woff2": "https://fonts.gstatic.com/s/coiny/v5/gyByhwU1K989PUwcGFU.woff2",
-      "ttf": "https://fonts.gstatic.com/s/coiny/v5/gyByhwU1K989PUwcGFA.ttf",
+      "eot": "https://fonts.gstatic.com/s/coiny/v6/gyByhwU1K989PUwcGFE.eot",
+      "ttf": "https://fonts.gstatic.com/s/coiny/v6/gyByhwU1K989PUwcGFA.ttf",
+      "woff2": "https://fonts.gstatic.com/s/coiny/v6/gyByhwU1K989PUwcGFU.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=gyByhwU1K989PUwcGFI&skey=f65afa53b66c5694&v=v6#Coiny",
       "errored": false
     }
   ],
   "subsets": [
-    "tamil",
-    "vietnamese",
     "latin",
-    "latin-ext"
+    "latin-ext",
+    "tamil",
+    "vietnamese"
   ],
   "category": "display",
-  "version": "v5",
-  "lastModified": "2019-07-16",
-  "popularity": 650,
+  "version": "v6",
+  "lastModified": "2020-07-23",
+  "popularity": 709,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "tamil": false,
-    "vietnamese": false,
     "latin": true,
-    "latin-ext": false
+    "latin-ext": false,
+    "tamil": false,
+    "vietnamese": false
   },
   "storeID": "latin"
 }

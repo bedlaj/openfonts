@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/griffy/v8/FwZa7-ox2FQh9kfAT96F.woff2",
+      "ttf": "https://fonts.gstatic.com/s/griffy/v9/FwZa7-ox2FQh9kfAT96A.ttf",
       "fontFamily": "'Griffy'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Griffy",
         "Griffy-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/griffy/v8/FwZa7-ox2FQh9kfAT96D.woff",
-      "eot": "https://fonts.gstatic.com/s/griffy/v8/FwZa7-ox2FQh9kfAT96B.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=FwZa7-ox2FQh9kfAT96C&skey=8bca262f73db85e4&v=v8#Griffy",
-      "ttf": "https://fonts.gstatic.com/s/griffy/v8/FwZa7-ox2FQh9kfAT96A.ttf",
+      "woff2": "https://fonts.gstatic.com/s/griffy/v9/FwZa7-ox2FQh9kfAT96F.woff2",
+      "woff": "https://fonts.gstatic.com/s/griffy/v9/FwZa7-ox2FQh9kfAT96D.woff",
+      "eot": "https://fonts.gstatic.com/s/griffy/v9/FwZa7-ox2FQh9kfAT96B.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=FwZa7-ox2FQh9kfAT96C&skey=8bca262f73db85e4&v=v9#Griffy",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "display",
-  "version": "v8",
-  "lastModified": "2019-07-16",
-  "popularity": 770,
+  "version": "v9",
+  "lastModified": "2020-07-23",
+  "popularity": 873,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

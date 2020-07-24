@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/bellefair/v5/kJExBuYY6AAuhiXUxG1N-vo3.woff2",
+      "eot": "https://fonts.gstatic.com/s/bellefair/v6/kJExBuYY6AAuhiXUxG1N-voz.eot",
       "fontFamily": "'Bellefair'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/bellefair/v6/kJExBuYY6AAuhiXUxG1N-vox.woff",
       "local": [
         "Bellefair Regular",
         "Bellefair-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/bellefair/v5/kJExBuYY6AAuhiXUxG1N-voz.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=kJExBuYY6AAuhiXUxG1N-vow&skey=5e2608507b793d9a&v=v5#Bellefair",
-      "woff": "https://fonts.gstatic.com/s/bellefair/v5/kJExBuYY6AAuhiXUxG1N-vox.woff",
-      "ttf": "https://fonts.gstatic.com/s/bellefair/v5/kJExBuYY6AAuhiXUxG1N-voy.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=kJExBuYY6AAuhiXUxG1N-vow&skey=5e2608507b793d9a&v=v6#Bellefair",
+      "ttf": "https://fonts.gstatic.com/s/bellefair/v6/kJExBuYY6AAuhiXUxG1N-voy.ttf",
+      "woff2": "https://fonts.gstatic.com/s/bellefair/v6/kJExBuYY6AAuhiXUxG1N-vo3.woff2",
       "errored": false
     }
   ],
@@ -25,9 +25,9 @@
     "latin-ext"
   ],
   "category": "serif",
-  "version": "v5",
-  "lastModified": "2019-07-16",
-  "popularity": 573,
+  "version": "v6",
+  "lastModified": "2020-07-23",
+  "popularity": 559,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

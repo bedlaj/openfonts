@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "300",
-      "woff2": "https://fonts.gstatic.com/s/inriaserif/v1/fC14PYxPY3rXxEndZJAzN3wAVTjCjl0.woff2",
+      "woff2": "https://fonts.gstatic.com/s/inriaserif/v2/fC14PYxPY3rXxEndZJAzN3wAVTjCjl0.woff2",
       "fontFamily": "'Inria Serif'",
       "fontStyle": "normal",
       "fontWeight": "300",
@@ -12,15 +12,31 @@
         "Inria Serif Light",
         "InriaSerif-Light"
       ],
-      "woff": "https://fonts.gstatic.com/s/inriaserif/v1/fC14PYxPY3rXxEndZJAzN3wAVTjCjls.woff",
-      "eot": "https://fonts.gstatic.com/s/inriaserif/v1/fC14PYxPY3rXxEndZJAzN3wAVTjCjlk.eot",
-      "ttf": "https://fonts.gstatic.com/s/inriaserif/v1/fC14PYxPY3rXxEndZJAzN3wAVTjCjlg.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=fC14PYxPY3rXxEndZJAzN3wAVTjCjlo&skey=be9044c7c3a4466b&v=v1#InriaSerif",
+      "woff": "https://fonts.gstatic.com/s/inriaserif/v2/fC14PYxPY3rXxEndZJAzN3wAVTjCjls.woff",
+      "eot": "https://fonts.gstatic.com/s/inriaserif/v2/fC14PYxPY3rXxEndZJAzN3wAVTjCjlk.eot",
+      "ttf": "https://fonts.gstatic.com/s/inriaserif/v2/fC14PYxPY3rXxEndZJAzN3wAVTjCjlg.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=fC14PYxPY3rXxEndZJAzN3wAVTjCjlo&skey=be9044c7c3a4466b&v=v2#InriaSerif",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/inriaserif/v2/fC1lPYxPY3rXxEndZJAzN3Srdys.woff",
+      "fontFamily": "'Inria Serif'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Inria Serif Regular",
+        "InriaSerif-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/inriaserif/v2/fC1lPYxPY3rXxEndZJAzN3Srdy0.woff2",
+      "eot": "https://fonts.gstatic.com/s/inriaserif/v2/fC1lPYxPY3rXxEndZJAzN3Srdyk.eot",
+      "ttf": "https://fonts.gstatic.com/s/inriaserif/v2/fC1lPYxPY3rXxEndZJAzN3Srdyg.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=fC1lPYxPY3rXxEndZJAzN3Srdyo&skey=fba7953e8afd9858&v=v2#InriaSerif",
       "errored": false
     },
     {
       "id": "300italic",
-      "woff": "https://fonts.gstatic.com/s/inriaserif/v1/fC16PYxPY3rXxEndZJAzN3SuT4THvl-FaQ.woff",
+      "woff2": "https://fonts.gstatic.com/s/inriaserif/v2/fC16PYxPY3rXxEndZJAzN3SuT4THvl-Fbw.woff2",
       "fontFamily": "'Inria Serif'",
       "fontStyle": "italic",
       "fontWeight": "300",
@@ -28,31 +44,15 @@
         "Inria Serif Light Italic",
         "InriaSerif-LightItalic"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=fC16PYxPY3rXxEndZJAzN3SuT4THvl-FaA&skey=7a3ac04ed6e8ced1&v=v1#InriaSerif",
-      "ttf": "https://fonts.gstatic.com/s/inriaserif/v1/fC16PYxPY3rXxEndZJAzN3SuT4THvl-Fag.ttf",
-      "woff2": "https://fonts.gstatic.com/s/inriaserif/v1/fC16PYxPY3rXxEndZJAzN3SuT4THvl-Fbw.woff2",
-      "eot": "https://fonts.gstatic.com/s/inriaserif/v1/fC16PYxPY3rXxEndZJAzN3SuT4THvl-Faw.eot",
-      "errored": false
-    },
-    {
-      "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/inriaserif/v1/fC1lPYxPY3rXxEndZJAzN3Srdyk.eot",
-      "fontFamily": "'Inria Serif'",
-      "fontStyle": "normal",
-      "fontWeight": "400",
-      "svg": "https://fonts.gstatic.com/l/font?kit=fC1lPYxPY3rXxEndZJAzN3Srdyo&skey=fba7953e8afd9858&v=v1#InriaSerif",
-      "local": [
-        "Inria Serif Regular",
-        "InriaSerif-Regular"
-      ],
-      "woff": "https://fonts.gstatic.com/s/inriaserif/v1/fC1lPYxPY3rXxEndZJAzN3Srdys.woff",
-      "woff2": "https://fonts.gstatic.com/s/inriaserif/v1/fC1lPYxPY3rXxEndZJAzN3Srdy0.woff2",
-      "ttf": "https://fonts.gstatic.com/s/inriaserif/v1/fC1lPYxPY3rXxEndZJAzN3Srdyg.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=fC16PYxPY3rXxEndZJAzN3SuT4THvl-FaA&skey=7a3ac04ed6e8ced1&v=v2#InriaSerif",
+      "woff": "https://fonts.gstatic.com/s/inriaserif/v2/fC16PYxPY3rXxEndZJAzN3SuT4THvl-FaQ.woff",
+      "ttf": "https://fonts.gstatic.com/s/inriaserif/v2/fC16PYxPY3rXxEndZJAzN3SuT4THvl-Fag.ttf",
+      "eot": "https://fonts.gstatic.com/s/inriaserif/v2/fC16PYxPY3rXxEndZJAzN3SuT4THvl-Faw.eot",
       "errored": false
     },
     {
       "id": "italic",
-      "woff2": "https://fonts.gstatic.com/s/inriaserif/v1/fC1nPYxPY3rXxEndZJAzN3SuRy_lqw.woff2",
+      "woff": "https://fonts.gstatic.com/s/inriaserif/v2/fC1nPYxPY3rXxEndZJAzN3SuRy_lrQ.woff",
       "fontFamily": "'Inria Serif'",
       "fontStyle": "italic",
       "fontWeight": "400",
@@ -60,42 +60,42 @@
         "Inria Serif Italic",
         "InriaSerif-Italic"
       ],
-      "eot": "https://fonts.gstatic.com/s/inriaserif/v1/fC1nPYxPY3rXxEndZJAzN3SuRy_lrw.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=fC1nPYxPY3rXxEndZJAzN3SuRy_lrA&skey=762dc1246aab64fe&v=v1#InriaSerif",
-      "woff": "https://fonts.gstatic.com/s/inriaserif/v1/fC1nPYxPY3rXxEndZJAzN3SuRy_lrQ.woff",
-      "ttf": "https://fonts.gstatic.com/s/inriaserif/v1/fC1nPYxPY3rXxEndZJAzN3SuRy_lrg.ttf",
+      "eot": "https://fonts.gstatic.com/s/inriaserif/v2/fC1nPYxPY3rXxEndZJAzN3SuRy_lrw.eot",
+      "woff2": "https://fonts.gstatic.com/s/inriaserif/v2/fC1nPYxPY3rXxEndZJAzN3SuRy_lqw.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=fC1nPYxPY3rXxEndZJAzN3SuRy_lrA&skey=762dc1246aab64fe&v=v2#InriaSerif",
+      "ttf": "https://fonts.gstatic.com/s/inriaserif/v2/fC1nPYxPY3rXxEndZJAzN3SuRy_lrg.ttf",
       "errored": false
     },
     {
       "id": "700",
-      "eot": "https://fonts.gstatic.com/s/inriaserif/v1/fC14PYxPY3rXxEndZJAzN3wQUjjCjlk.eot",
+      "woff": "https://fonts.gstatic.com/s/inriaserif/v2/fC14PYxPY3rXxEndZJAzN3wQUjjCjls.woff",
       "fontFamily": "'Inria Serif'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/inriaserif/v1/fC14PYxPY3rXxEndZJAzN3wQUjjCjls.woff",
       "local": [
         "Inria Serif Bold",
         "InriaSerif-Bold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/inriaserif/v1/fC14PYxPY3rXxEndZJAzN3wQUjjCjl0.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=fC14PYxPY3rXxEndZJAzN3wQUjjCjlo&skey=55b6aeda26fa06ac&v=v1#InriaSerif",
-      "ttf": "https://fonts.gstatic.com/s/inriaserif/v1/fC14PYxPY3rXxEndZJAzN3wQUjjCjlg.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=fC14PYxPY3rXxEndZJAzN3wQUjjCjlo&skey=55b6aeda26fa06ac&v=v2#InriaSerif",
+      "woff2": "https://fonts.gstatic.com/s/inriaserif/v2/fC14PYxPY3rXxEndZJAzN3wQUjjCjl0.woff2",
+      "ttf": "https://fonts.gstatic.com/s/inriaserif/v2/fC14PYxPY3rXxEndZJAzN3wQUjjCjlg.ttf",
+      "eot": "https://fonts.gstatic.com/s/inriaserif/v2/fC14PYxPY3rXxEndZJAzN3wQUjjCjlk.eot",
       "errored": false
     },
     {
       "id": "700italic",
-      "eot": "https://fonts.gstatic.com/s/inriaserif/v1/fC16PYxPY3rXxEndZJAzN3SuT5TAvl-Faw.eot",
+      "eot": "https://fonts.gstatic.com/s/inriaserif/v2/fC16PYxPY3rXxEndZJAzN3SuT5TAvl-Faw.eot",
       "fontFamily": "'Inria Serif'",
       "fontStyle": "italic",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/inriaserif/v1/fC16PYxPY3rXxEndZJAzN3SuT5TAvl-FaQ.woff",
+      "woff": "https://fonts.gstatic.com/s/inriaserif/v2/fC16PYxPY3rXxEndZJAzN3SuT5TAvl-FaQ.woff",
       "local": [
         "Inria Serif Bold Italic",
         "InriaSerif-BoldItalic"
       ],
-      "woff2": "https://fonts.gstatic.com/s/inriaserif/v1/fC16PYxPY3rXxEndZJAzN3SuT5TAvl-Fbw.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=fC16PYxPY3rXxEndZJAzN3SuT5TAvl-FaA&skey=2f8de7a8a64d8d08&v=v1#InriaSerif",
-      "ttf": "https://fonts.gstatic.com/s/inriaserif/v1/fC16PYxPY3rXxEndZJAzN3SuT5TAvl-Fag.ttf",
+      "woff2": "https://fonts.gstatic.com/s/inriaserif/v2/fC16PYxPY3rXxEndZJAzN3SuT5TAvl-Fbw.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=fC16PYxPY3rXxEndZJAzN3SuT5TAvl-FaA&skey=2f8de7a8a64d8d08&v=v2#InriaSerif",
+      "ttf": "https://fonts.gstatic.com/s/inriaserif/v2/fC16PYxPY3rXxEndZJAzN3SuT5TAvl-Fag.ttf",
       "errored": false
     }
   ],
@@ -104,9 +104,9 @@
     "latin-ext"
   ],
   "category": "serif",
-  "version": "v1",
-  "lastModified": "2020-03-03",
-  "popularity": 886,
+  "version": "v2",
+  "lastModified": "2020-07-23",
+  "popularity": 881,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

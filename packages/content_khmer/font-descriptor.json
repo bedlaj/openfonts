@@ -4,33 +4,33 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/content/v12/zrfl0HLayePhU_AwYaz4Jw.eot",
+      "eot": "https://fonts.gstatic.com/s/content/v13/zrfl0HLayePhU_AwYaz4Jw.eot",
       "fontFamily": "'Content'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/content/v12/zrfl0HLayePhU_AwYaz4Iw.woff2",
+      "woff": "https://fonts.gstatic.com/s/content/v13/zrfl0HLayePhU_AwYaz4JQ.woff",
       "local": [
         "Content"
       ],
-      "woff": "https://fonts.gstatic.com/s/content/v12/zrfl0HLayePhU_AwYaz4JQ.woff",
-      "ttf": "https://fonts.gstatic.com/s/content/v12/zrfl0HLayePhU_AwYaz4Jg.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=zrfl0HLayePhU_AwYaz4JA&skey=df16c0bda2ebb594&v=v12#Content",
+      "svg": "https://fonts.gstatic.com/l/font?kit=zrfl0HLayePhU_AwYaz4JA&skey=df16c0bda2ebb594&v=v13#Content",
+      "ttf": "https://fonts.gstatic.com/s/content/v13/zrfl0HLayePhU_AwYaz4Jg.ttf",
+      "woff2": "https://fonts.gstatic.com/s/content/v13/zrfl0HLayePhU_AwYaz4Iw.woff2",
       "errored": false
     },
     {
       "id": "700",
-      "woff": "https://fonts.gstatic.com/s/content/v12/zrfg0HLayePhU_AwaRzdNibVXw.woff",
+      "eot": "https://fonts.gstatic.com/s/content/v13/zrfg0HLayePhU_AwaRzdNibVXQ.eot",
       "fontFamily": "'Content'",
       "fontStyle": "normal",
       "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/content/v13/zrfg0HLayePhU_AwaRzdNibVXw.woff",
       "local": [
         "Content Bold",
         "Content-Bold"
       ],
-      "eot": "https://fonts.gstatic.com/s/content/v12/zrfg0HLayePhU_AwaRzdNibVXQ.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=zrfg0HLayePhU_AwaRzdNibVXg&skey=2cb501a81b30e788&v=v12#Content",
-      "woff2": "https://fonts.gstatic.com/s/content/v12/zrfg0HLayePhU_AwaRzdNibVWQ.woff2",
-      "ttf": "https://fonts.gstatic.com/s/content/v12/zrfg0HLayePhU_AwaRzdNibVXA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=zrfg0HLayePhU_AwaRzdNibVXg&skey=2cb501a81b30e788&v=v13#Content",
+      "woff2": "https://fonts.gstatic.com/s/content/v13/zrfg0HLayePhU_AwaRzdNibVWQ.woff2",
+      "ttf": "https://fonts.gstatic.com/s/content/v13/zrfg0HLayePhU_AwaRzdNibVXA.ttf",
       "errored": false
     }
   ],
@@ -38,9 +38,9 @@
     "khmer"
   ],
   "category": "display",
-  "version": "v12",
-  "lastModified": "2019-07-16",
-  "popularity": 813,
+  "version": "v13",
+  "lastModified": "2020-07-23",
+  "popularity": 866,
   "defSubset": "khmer",
   "defVariant": "regular",
   "subsetMap": {

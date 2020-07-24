@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/arbutus/v9/NaPYcZ7dG_5J3pooX9Vnqw.ttf",
+      "eot": "https://fonts.gstatic.com/s/arbutus/v10/NaPYcZ7dG_5J3pooX9Vnqg.eot",
       "fontFamily": "'Arbutus'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "ttf": "https://fonts.gstatic.com/s/arbutus/v10/NaPYcZ7dG_5J3pooX9Vnqw.ttf",
       "local": [
         "Arbutus Regular",
         "Arbutus-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/arbutus/v9/NaPYcZ7dG_5J3pooX9Vnrg.woff2",
-      "woff": "https://fonts.gstatic.com/s/arbutus/v9/NaPYcZ7dG_5J3pooX9VnqA.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=NaPYcZ7dG_5J3pooX9VnqQ&skey=d539f84867a5c63d&v=v9#Arbutus",
-      "eot": "https://fonts.gstatic.com/s/arbutus/v9/NaPYcZ7dG_5J3pooX9Vnqg.eot",
+      "woff": "https://fonts.gstatic.com/s/arbutus/v10/NaPYcZ7dG_5J3pooX9VnqA.woff",
+      "woff2": "https://fonts.gstatic.com/s/arbutus/v10/NaPYcZ7dG_5J3pooX9Vnrg.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=NaPYcZ7dG_5J3pooX9VnqQ&skey=d539f84867a5c63d&v=v10#Arbutus",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "display",
-  "version": "v9",
-  "lastModified": "2019-07-16",
-  "popularity": 817,
+  "version": "v10",
+  "lastModified": "2020-07-23",
+  "popularity": 819,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

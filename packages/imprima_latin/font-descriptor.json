@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/imprima/v8/VEMxRoN7sY3yuy-7yoKNzw.woff",
+      "eot": "https://fonts.gstatic.com/s/imprima/v9/VEMxRoN7sY3yuy-7yoKNzQ.eot",
       "fontFamily": "'Imprima'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/imprima/v9/VEMxRoN7sY3yuy-7yoKNyQ.woff2",
       "local": [
         "Imprima",
         "Imprima-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/imprima/v8/VEMxRoN7sY3yuy-7yoKNzQ.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=VEMxRoN7sY3yuy-7yoKNzg&skey=29732b71f07bec76&v=v8#Imprima",
-      "woff2": "https://fonts.gstatic.com/s/imprima/v8/VEMxRoN7sY3yuy-7yoKNyQ.woff2",
-      "ttf": "https://fonts.gstatic.com/s/imprima/v8/VEMxRoN7sY3yuy-7yoKNzA.ttf",
+      "woff": "https://fonts.gstatic.com/s/imprima/v9/VEMxRoN7sY3yuy-7yoKNzw.woff",
+      "ttf": "https://fonts.gstatic.com/s/imprima/v9/VEMxRoN7sY3yuy-7yoKNzA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=VEMxRoN7sY3yuy-7yoKNzg&skey=29732b71f07bec76&v=v9#Imprima",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "sans-serif",
-  "version": "v8",
-  "lastModified": "2019-07-16",
-  "popularity": 582,
+  "version": "v9",
+  "lastModified": "2020-07-23",
+  "popularity": 630,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

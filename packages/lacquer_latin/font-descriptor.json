@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/lacquer/v2/EYqzma1QwqpG4_BBN7iKWQ.woff",
+      "eot": "https://fonts.gstatic.com/s/lacquer/v3/EYqzma1QwqpG4_BBN7iKWw.eot",
       "fontFamily": "'Lacquer'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/lacquer/v3/EYqzma1QwqpG4_BBN7iKXw.woff2",
       "local": [
         "Lacquer Regular",
         "Lacquer-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/lacquer/v2/EYqzma1QwqpG4_BBN7iKXw.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=EYqzma1QwqpG4_BBN7iKWA&skey=def56740c064e884&v=v2#Lacquer",
-      "ttf": "https://fonts.gstatic.com/s/lacquer/v2/EYqzma1QwqpG4_BBN7iKWg.ttf",
-      "eot": "https://fonts.gstatic.com/s/lacquer/v2/EYqzma1QwqpG4_BBN7iKWw.eot",
+      "ttf": "https://fonts.gstatic.com/s/lacquer/v3/EYqzma1QwqpG4_BBN7iKWg.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=EYqzma1QwqpG4_BBN7iKWA&skey=def56740c064e884&v=v3#Lacquer",
+      "woff": "https://fonts.gstatic.com/s/lacquer/v3/EYqzma1QwqpG4_BBN7iKWQ.woff",
       "errored": false
     }
   ],
@@ -23,9 +23,9 @@
     "latin"
   ],
   "category": "display",
-  "version": "v2",
-  "lastModified": "2020-03-06",
-  "popularity": 929,
+  "version": "v3",
+  "lastModified": "2020-07-23",
+  "popularity": 948,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

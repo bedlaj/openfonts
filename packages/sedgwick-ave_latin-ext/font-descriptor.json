@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/sedgwickave/v5/uK_04rKEYuguzAcSYRdWTJqMV2Iy.woff",
+      "woff2": "https://fonts.gstatic.com/s/sedgwickave/v6/uK_04rKEYuguzAcSYRdWTJqMV2I0.woff2",
       "fontFamily": "'Sedgwick Ave'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,28 +12,28 @@
         "Sedgwick Ave Regular",
         "SedgwickAve-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/sedgwickave/v5/uK_04rKEYuguzAcSYRdWTJqMV2I0.woff2",
-      "eot": "https://fonts.gstatic.com/s/sedgwickave/v5/uK_04rKEYuguzAcSYRdWTJqMV2Iw.eot",
-      "ttf": "https://fonts.gstatic.com/s/sedgwickave/v5/uK_04rKEYuguzAcSYRdWTJqMV2Ix.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=uK_04rKEYuguzAcSYRdWTJqMV2Iz&skey=12879115c1ef3a53&v=v5#SedgwickAve",
+      "ttf": "https://fonts.gstatic.com/s/sedgwickave/v6/uK_04rKEYuguzAcSYRdWTJqMV2Ix.ttf",
+      "woff": "https://fonts.gstatic.com/s/sedgwickave/v6/uK_04rKEYuguzAcSYRdWTJqMV2Iy.woff",
+      "eot": "https://fonts.gstatic.com/s/sedgwickave/v6/uK_04rKEYuguzAcSYRdWTJqMV2Iw.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=uK_04rKEYuguzAcSYRdWTJqMV2Iz&skey=12879115c1ef3a53&v=v6#SedgwickAve",
       "errored": false
     }
   ],
   "subsets": [
-    "vietnamese",
     "latin",
-    "latin-ext"
+    "latin-ext",
+    "vietnamese"
   ],
   "category": "handwriting",
-  "version": "v5",
-  "lastModified": "2019-07-16",
-  "popularity": 606,
+  "version": "v6",
+  "lastModified": "2020-07-23",
+  "popularity": 470,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "vietnamese": false,
     "latin": true,
-    "latin-ext": true
+    "latin-ext": true,
+    "vietnamese": false
   },
   "storeID": "latin-ext_latin"
 }

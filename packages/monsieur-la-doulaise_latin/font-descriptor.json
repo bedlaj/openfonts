@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/monsieurladoulaise/v8/_Xmz-GY4rjmCbQfc-aPRaa4pqV340p7EZm5ZyEY.woff",
+      "woff2": "https://fonts.gstatic.com/s/monsieurladoulaise/v9/_Xmz-GY4rjmCbQfc-aPRaa4pqV340p7EZm5ZyEA.woff2",
       "fontFamily": "'Monsieur La Doulaise'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Monsieur La Doulaise Regular",
         "MonsieurLaDoulaise-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/monsieurladoulaise/v8/_Xmz-GY4rjmCbQfc-aPRaa4pqV340p7EZm5ZyEU.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=_Xmz-GY4rjmCbQfc-aPRaa4pqV340p7EZm5ZyEc&skey=f0bf0703ab573473&v=v8#MonsieurLaDoulaise",
-      "eot": "https://fonts.gstatic.com/s/monsieurladoulaise/v8/_Xmz-GY4rjmCbQfc-aPRaa4pqV340p7EZm5ZyEQ.eot",
-      "woff2": "https://fonts.gstatic.com/s/monsieurladoulaise/v8/_Xmz-GY4rjmCbQfc-aPRaa4pqV340p7EZm5ZyEA.woff2",
+      "woff": "https://fonts.gstatic.com/s/monsieurladoulaise/v9/_Xmz-GY4rjmCbQfc-aPRaa4pqV340p7EZm5ZyEY.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=_Xmz-GY4rjmCbQfc-aPRaa4pqV340p7EZm5ZyEc&skey=f0bf0703ab573473&v=v9#MonsieurLaDoulaise",
+      "ttf": "https://fonts.gstatic.com/s/monsieurladoulaise/v9/_Xmz-GY4rjmCbQfc-aPRaa4pqV340p7EZm5ZyEU.ttf",
+      "eot": "https://fonts.gstatic.com/s/monsieurladoulaise/v9/_Xmz-GY4rjmCbQfc-aPRaa4pqV340p7EZm5ZyEQ.eot",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "handwriting",
-  "version": "v8",
-  "lastModified": "2019-07-16",
-  "popularity": 766,
+  "version": "v9",
+  "lastModified": "2020-07-23",
+  "popularity": 680,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

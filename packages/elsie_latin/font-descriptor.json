@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/elsie/v9/BCanqZABrez54xYp_M0.ttf",
+      "ttf": "https://fonts.gstatic.com/s/elsie/v10/BCanqZABrez54xYp_M0.ttf",
       "fontFamily": "'Elsie'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,26 +12,26 @@
         "Elsie Regular",
         "Elsie-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=BCanqZABrez54xYp_M8&skey=f3b82328fc9a0e44&v=v9#Elsie",
-      "woff2": "https://fonts.gstatic.com/s/elsie/v9/BCanqZABrez54xYp_Mg.woff2",
-      "woff": "https://fonts.gstatic.com/s/elsie/v9/BCanqZABrez54xYp_M4.woff",
-      "eot": "https://fonts.gstatic.com/s/elsie/v9/BCanqZABrez54xYp_Mw.eot",
+      "woff": "https://fonts.gstatic.com/s/elsie/v10/BCanqZABrez54xYp_M4.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=BCanqZABrez54xYp_M8&skey=f3b82328fc9a0e44&v=v10#Elsie",
+      "eot": "https://fonts.gstatic.com/s/elsie/v10/BCanqZABrez54xYp_Mw.eot",
+      "woff2": "https://fonts.gstatic.com/s/elsie/v10/BCanqZABrez54xYp_Mg.woff2",
       "errored": false
     },
     {
       "id": "900",
-      "eot": "https://fonts.gstatic.com/s/elsie/v9/BCaqqZABrez54x6q291PWaE.eot",
+      "woff2": "https://fonts.gstatic.com/s/elsie/v10/BCaqqZABrez54x6q291PWaU.woff2",
       "fontFamily": "'Elsie'",
       "fontStyle": "normal",
       "fontWeight": "900",
-      "ttf": "https://fonts.gstatic.com/s/elsie/v9/BCaqqZABrez54x6q291PWaA.ttf",
       "local": [
         "Elsie Black",
         "Elsie-Black"
       ],
-      "woff2": "https://fonts.gstatic.com/s/elsie/v9/BCaqqZABrez54x6q291PWaU.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=BCaqqZABrez54x6q291PWaI&skey=c81378f431f562b8&v=v9#Elsie",
-      "woff": "https://fonts.gstatic.com/s/elsie/v9/BCaqqZABrez54x6q291PWaM.woff",
+      "ttf": "https://fonts.gstatic.com/s/elsie/v10/BCaqqZABrez54x6q291PWaA.ttf",
+      "woff": "https://fonts.gstatic.com/s/elsie/v10/BCaqqZABrez54x6q291PWaM.woff",
+      "eot": "https://fonts.gstatic.com/s/elsie/v10/BCaqqZABrez54x6q291PWaE.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=BCaqqZABrez54x6q291PWaI&skey=c81378f431f562b8&v=v10#Elsie",
       "errored": false
     }
   ],
@@ -40,9 +40,9 @@
     "latin-ext"
   ],
   "category": "display",
-  "version": "v9",
-  "lastModified": "2019-07-16",
-  "popularity": 661,
+  "version": "v10",
+  "lastModified": "2020-07-23",
+  "popularity": 681,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

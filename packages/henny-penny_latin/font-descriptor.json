@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/hennypenny/v7/wXKvE3UZookzsxz_kjGSfPQtvXc.ttf",
+      "eot": "https://fonts.gstatic.com/s/hennypenny/v8/wXKvE3UZookzsxz_kjGSfPQtvXY.eot",
       "fontFamily": "'Henny Penny'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/hennypenny/v8/wXKvE3UZookzsxz_kjGSfPQtvXQ.woff",
       "local": [
         "Henny Penny",
         "HennyPenny-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/hennypenny/v7/wXKvE3UZookzsxz_kjGSfPQtvXI.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=wXKvE3UZookzsxz_kjGSfPQtvXU&skey=337b39e4b7ae6f1&v=v7#HennyPenny",
-      "woff": "https://fonts.gstatic.com/s/hennypenny/v7/wXKvE3UZookzsxz_kjGSfPQtvXQ.woff",
-      "eot": "https://fonts.gstatic.com/s/hennypenny/v7/wXKvE3UZookzsxz_kjGSfPQtvXY.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=wXKvE3UZookzsxz_kjGSfPQtvXU&skey=337b39e4b7ae6f1&v=v8#HennyPenny",
+      "ttf": "https://fonts.gstatic.com/s/hennypenny/v8/wXKvE3UZookzsxz_kjGSfPQtvXc.ttf",
+      "woff2": "https://fonts.gstatic.com/s/hennypenny/v8/wXKvE3UZookzsxz_kjGSfPQtvXI.woff2",
       "errored": false
     }
   ],
@@ -23,9 +23,9 @@
     "latin"
   ],
   "category": "display",
-  "version": "v7",
-  "lastModified": "2019-07-16",
-  "popularity": 773,
+  "version": "v8",
+  "lastModified": "2020-07-23",
+  "popularity": 742,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

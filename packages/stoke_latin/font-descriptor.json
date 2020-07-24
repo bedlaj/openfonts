@@ -3,8 +3,24 @@
   "family": "Stoke",
   "variants": [
     {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/stoke/v10/z7NadRb7aTMfKNNudC0.eot",
+      "fontFamily": "'Stoke'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "svg": "https://fonts.gstatic.com/l/font?kit=z7NadRb7aTMfKNNudC4&skey=7319a5348dd78968&v=v10#Stoke",
+      "local": [
+        "Stoke Regular",
+        "Stoke-Regular"
+      ],
+      "woff": "https://fonts.gstatic.com/s/stoke/v10/z7NadRb7aTMfKNNudC8.woff",
+      "woff2": "https://fonts.gstatic.com/s/stoke/v10/z7NadRb7aTMfKNNudCk.woff2",
+      "ttf": "https://fonts.gstatic.com/s/stoke/v10/z7NadRb7aTMfKNNudCw.ttf",
+      "errored": false
+    },
+    {
       "id": "300",
-      "woff": "https://fonts.gstatic.com/s/stoke/v9/z7NXdRb7aTMfKNvFVjxF9J8.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=z7NXdRb7aTMfKNvFVjxF9J4&skey=b6de22c5327d9a8a&v=v10#Stoke",
       "fontFamily": "'Stoke'",
       "fontStyle": "normal",
       "fontWeight": "300",
@@ -12,26 +28,10 @@
         "Stoke Light",
         "Stoke-Light"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=z7NXdRb7aTMfKNvFVjxF9J4&skey=b6de22c5327d9a8a&v=v9#Stoke",
-      "woff2": "https://fonts.gstatic.com/s/stoke/v9/z7NXdRb7aTMfKNvFVjxF9Jk.woff2",
-      "eot": "https://fonts.gstatic.com/s/stoke/v9/z7NXdRb7aTMfKNvFVjxF9J0.eot",
-      "ttf": "https://fonts.gstatic.com/s/stoke/v9/z7NXdRb7aTMfKNvFVjxF9Jw.ttf",
-      "errored": false
-    },
-    {
-      "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/stoke/v9/z7NadRb7aTMfKNNudC0.eot",
-      "fontFamily": "'Stoke'",
-      "fontStyle": "normal",
-      "fontWeight": "400",
-      "svg": "https://fonts.gstatic.com/l/font?kit=z7NadRb7aTMfKNNudC4&skey=7319a5348dd78968&v=v9#Stoke",
-      "local": [
-        "Stoke Regular",
-        "Stoke-Regular"
-      ],
-      "ttf": "https://fonts.gstatic.com/s/stoke/v9/z7NadRb7aTMfKNNudCw.ttf",
-      "woff": "https://fonts.gstatic.com/s/stoke/v9/z7NadRb7aTMfKNNudC8.woff",
-      "woff2": "https://fonts.gstatic.com/s/stoke/v9/z7NadRb7aTMfKNNudCk.woff2",
+      "ttf": "https://fonts.gstatic.com/s/stoke/v10/z7NXdRb7aTMfKNvFVjxF9Jw.ttf",
+      "woff": "https://fonts.gstatic.com/s/stoke/v10/z7NXdRb7aTMfKNvFVjxF9J8.woff",
+      "woff2": "https://fonts.gstatic.com/s/stoke/v10/z7NXdRb7aTMfKNvFVjxF9Jk.woff2",
+      "eot": "https://fonts.gstatic.com/s/stoke/v10/z7NXdRb7aTMfKNvFVjxF9J0.eot",
       "errored": false
     }
   ],
@@ -40,9 +40,9 @@
     "latin-ext"
   ],
   "category": "serif",
-  "version": "v9",
-  "lastModified": "2019-07-16",
-  "popularity": 721,
+  "version": "v10",
+  "lastModified": "2020-07-23",
+  "popularity": 752,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

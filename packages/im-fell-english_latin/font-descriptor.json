@@ -3,8 +3,24 @@
   "family": "IM Fell English",
   "variants": [
     {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/imfellenglish/v10/Ktk1ALSLW8zDe0rthJysWrnLsAzHEKOc.eot",
+      "fontFamily": "'IM Fell English'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Ktk1ALSLW8zDe0rthJysWrnLsAzHEKOf&skey=afb75104e969187e&v=v10#IMFellEnglish",
+      "local": [
+        "IM FELL English Roman",
+        "IM_FELL_English_Roman"
+      ],
+      "woff": "https://fonts.gstatic.com/s/imfellenglish/v10/Ktk1ALSLW8zDe0rthJysWrnLsAzHEKOe.woff",
+      "ttf": "https://fonts.gstatic.com/s/imfellenglish/v10/Ktk1ALSLW8zDe0rthJysWrnLsAzHEKOd.ttf",
+      "woff2": "https://fonts.gstatic.com/s/imfellenglish/v10/Ktk1ALSLW8zDe0rthJysWrnLsAzHEKOY.woff2",
+      "errored": false
+    },
+    {
       "id": "italic",
-      "woff": "https://fonts.gstatic.com/s/imfellenglish/v9/Ktk3ALSLW8zDe0rthJysWrnLsAzHFZOafY0.woff",
+      "woff": "https://fonts.gstatic.com/s/imfellenglish/v10/Ktk3ALSLW8zDe0rthJysWrnLsAzHFZOafY0.woff",
       "fontFamily": "'IM Fell English'",
       "fontStyle": "italic",
       "fontWeight": "400",
@@ -12,26 +28,10 @@
         "IM FELL English Italic",
         "IM_FELL_English_Italic"
       ],
-      "eot": "https://fonts.gstatic.com/s/imfellenglish/v9/Ktk3ALSLW8zDe0rthJysWrnLsAzHFZOafY8.eot",
-      "woff2": "https://fonts.gstatic.com/s/imfellenglish/v9/Ktk3ALSLW8zDe0rthJysWrnLsAzHFZOafYs.woff2",
-      "ttf": "https://fonts.gstatic.com/s/imfellenglish/v9/Ktk3ALSLW8zDe0rthJysWrnLsAzHFZOafY4.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Ktk3ALSLW8zDe0rthJysWrnLsAzHFZOafYw&skey=ab4ad6d91b1d279a&v=v9#IMFellEnglish",
-      "errored": false
-    },
-    {
-      "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/imfellenglish/v9/Ktk1ALSLW8zDe0rthJysWrnLsAzHEKOY.woff2",
-      "fontFamily": "'IM Fell English'",
-      "fontStyle": "normal",
-      "fontWeight": "400",
-      "local": [
-        "IM FELL English Roman",
-        "IM_FELL_English_Roman"
-      ],
-      "eot": "https://fonts.gstatic.com/s/imfellenglish/v9/Ktk1ALSLW8zDe0rthJysWrnLsAzHEKOc.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Ktk1ALSLW8zDe0rthJysWrnLsAzHEKOf&skey=afb75104e969187e&v=v9#IMFellEnglish",
-      "ttf": "https://fonts.gstatic.com/s/imfellenglish/v9/Ktk1ALSLW8zDe0rthJysWrnLsAzHEKOd.ttf",
-      "woff": "https://fonts.gstatic.com/s/imfellenglish/v9/Ktk1ALSLW8zDe0rthJysWrnLsAzHEKOe.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Ktk3ALSLW8zDe0rthJysWrnLsAzHFZOafYw&skey=ab4ad6d91b1d279a&v=v10#IMFellEnglish",
+      "ttf": "https://fonts.gstatic.com/s/imfellenglish/v10/Ktk3ALSLW8zDe0rthJysWrnLsAzHFZOafY4.ttf",
+      "woff2": "https://fonts.gstatic.com/s/imfellenglish/v10/Ktk3ALSLW8zDe0rthJysWrnLsAzHFZOafYs.woff2",
+      "eot": "https://fonts.gstatic.com/s/imfellenglish/v10/Ktk3ALSLW8zDe0rthJysWrnLsAzHFZOafY8.eot",
       "errored": false
     }
   ],
@@ -39,9 +39,9 @@
     "latin"
   ],
   "category": "serif",
-  "version": "v9",
-  "lastModified": "2019-07-16",
-  "popularity": 475,
+  "version": "v10",
+  "lastModified": "2020-07-23",
+  "popularity": 507,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

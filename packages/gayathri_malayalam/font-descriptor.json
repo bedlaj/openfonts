@@ -4,39 +4,23 @@
   "variants": [
     {
       "id": "100",
-      "svg": "https://fonts.gstatic.com/l/font?kit=MCoWzAb429DbBilWLLhcyoTYBQ&skey=99dbbb2745d5075f&v=v1#Gayathri",
+      "eot": "https://fonts.gstatic.com/s/gayathri/v2/MCoWzAb429DbBilWLLhcyoTYBg.eot",
       "fontFamily": "'Gayathri'",
       "fontStyle": "normal",
       "fontWeight": "100",
+      "ttf": "https://fonts.gstatic.com/s/gayathri/v2/MCoWzAb429DbBilWLLhcyoTYBw.ttf",
       "local": [
         "Gayathri Thin",
         "Gayathri-Thin"
       ],
-      "woff": "https://fonts.gstatic.com/s/gayathri/v1/MCoWzAb429DbBilWLLhcyoTYBA.woff",
-      "ttf": "https://fonts.gstatic.com/s/gayathri/v1/MCoWzAb429DbBilWLLhcyoTYBw.ttf",
-      "eot": "https://fonts.gstatic.com/s/gayathri/v1/MCoWzAb429DbBilWLLhcyoTYBg.eot",
-      "woff2": "https://fonts.gstatic.com/s/gayathri/v1/MCoWzAb429DbBilWLLhcyoTYAg.woff2",
-      "errored": false
-    },
-    {
-      "id": "700",
-      "woff": "https://fonts.gstatic.com/s/gayathri/v1/MCoXzAb429DbBilWLLiE34vnJ_M.woff",
-      "fontFamily": "'Gayathri'",
-      "fontStyle": "normal",
-      "fontWeight": "700",
-      "local": [
-        "Gayathri Bold",
-        "Gayathri-Bold"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/gayathri/v1/MCoXzAb429DbBilWLLiE34vnJ_U.woff2",
-      "eot": "https://fonts.gstatic.com/s/gayathri/v1/MCoXzAb429DbBilWLLiE34vnJ_E.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=MCoXzAb429DbBilWLLiE34vnJ_I&skey=17e3544ed73f54f4&v=v1#Gayathri",
-      "ttf": "https://fonts.gstatic.com/s/gayathri/v1/MCoXzAb429DbBilWLLiE34vnJ_A.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=MCoWzAb429DbBilWLLhcyoTYBQ&skey=99dbbb2745d5075f&v=v2#Gayathri",
+      "woff": "https://fonts.gstatic.com/s/gayathri/v2/MCoWzAb429DbBilWLLhcyoTYBA.woff",
+      "woff2": "https://fonts.gstatic.com/s/gayathri/v2/MCoWzAb429DbBilWLLhcyoTYAg.woff2",
       "errored": false
     },
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/gayathri/v1/MCoQzAb429DbBilWLLAn-pg.woff",
+      "woff": "https://fonts.gstatic.com/s/gayathri/v2/MCoQzAb429DbBilWLLAn-pg.woff",
       "fontFamily": "'Gayathri'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -44,26 +28,42 @@
         "Gayathri Regular",
         "Gayathri-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/gayathri/v1/MCoQzAb429DbBilWLLAn-p4.woff2",
-      "eot": "https://fonts.gstatic.com/s/gayathri/v1/MCoQzAb429DbBilWLLAn-po.eot",
-      "ttf": "https://fonts.gstatic.com/s/gayathri/v1/MCoQzAb429DbBilWLLAn-ps.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=MCoQzAb429DbBilWLLAn-pk&skey=f831e08bdd1f971b&v=v1#Gayathri",
+      "eot": "https://fonts.gstatic.com/s/gayathri/v2/MCoQzAb429DbBilWLLAn-po.eot",
+      "ttf": "https://fonts.gstatic.com/s/gayathri/v2/MCoQzAb429DbBilWLLAn-ps.ttf",
+      "woff2": "https://fonts.gstatic.com/s/gayathri/v2/MCoQzAb429DbBilWLLAn-p4.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=MCoQzAb429DbBilWLLAn-pk&skey=f831e08bdd1f971b&v=v2#Gayathri",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/gayathri/v2/MCoXzAb429DbBilWLLiE34vnJ_E.eot",
+      "fontFamily": "'Gayathri'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/gayathri/v2/MCoXzAb429DbBilWLLiE34vnJ_M.woff",
+      "local": [
+        "Gayathri Bold",
+        "Gayathri-Bold"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=MCoXzAb429DbBilWLLiE34vnJ_I&skey=17e3544ed73f54f4&v=v2#Gayathri",
+      "woff2": "https://fonts.gstatic.com/s/gayathri/v2/MCoXzAb429DbBilWLLiE34vnJ_U.woff2",
+      "ttf": "https://fonts.gstatic.com/s/gayathri/v2/MCoXzAb429DbBilWLLiE34vnJ_A.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "malayalam",
-    "latin"
+    "latin",
+    "malayalam"
   ],
   "category": "sans-serif",
-  "version": "v1",
-  "lastModified": "2019-11-05",
-  "popularity": 829,
+  "version": "v2",
+  "lastModified": "2020-07-23",
+  "popularity": 931,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "malayalam": true,
-    "latin": true
+    "latin": true,
+    "malayalam": true
   },
-  "storeID": "latin_malayalam"
+  "storeID": "malayalam_latin"
 }

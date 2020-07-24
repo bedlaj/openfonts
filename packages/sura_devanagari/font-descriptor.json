@@ -4,34 +4,34 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/sura/v4/SZc23FL5PbyzJfheXA.woff",
+      "eot": "https://fonts.gstatic.com/s/sura/v5/SZc23FL5PbyzJfheXg.eot",
       "fontFamily": "'Sura'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/sura/v5/SZc23FL5PbyzJfheWg.woff2",
       "local": [
         "Sura",
         "Sura-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/sura/v4/SZc23FL5PbyzJfheWg.woff2",
-      "eot": "https://fonts.gstatic.com/s/sura/v4/SZc23FL5PbyzJfheXg.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=SZc23FL5PbyzJfheXQ&skey=ef535c3779017afa&v=v4#Sura",
-      "ttf": "https://fonts.gstatic.com/s/sura/v4/SZc23FL5PbyzJfheXw.ttf",
+      "woff": "https://fonts.gstatic.com/s/sura/v5/SZc23FL5PbyzJfheXA.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=SZc23FL5PbyzJfheXQ&skey=ef535c3779017afa&v=v5#Sura",
+      "ttf": "https://fonts.gstatic.com/s/sura/v5/SZc23FL5PbyzJfheXw.ttf",
       "errored": false
     },
     {
       "id": "700",
-      "woff2": "https://fonts.gstatic.com/s/sura/v4/SZc53FL5PbyzLUJ7TzvMkA.woff2",
+      "eot": "https://fonts.gstatic.com/s/sura/v5/SZc53FL5PbyzLUJ7TzvMlA.eot",
       "fontFamily": "'Sura'",
       "fontStyle": "normal",
       "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/sura/v5/SZc53FL5PbyzLUJ7TzvMlg.woff",
       "local": [
         "Sura Bold",
         "Sura-Bold"
       ],
-      "ttf": "https://fonts.gstatic.com/s/sura/v4/SZc53FL5PbyzLUJ7TzvMlQ.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=SZc53FL5PbyzLUJ7TzvMlw&skey=ec0c744fd09d77e7&v=v4#Sura",
-      "eot": "https://fonts.gstatic.com/s/sura/v4/SZc53FL5PbyzLUJ7TzvMlA.eot",
-      "woff": "https://fonts.gstatic.com/s/sura/v4/SZc53FL5PbyzLUJ7TzvMlg.woff",
+      "woff2": "https://fonts.gstatic.com/s/sura/v5/SZc53FL5PbyzLUJ7TzvMkA.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=SZc53FL5PbyzLUJ7TzvMlw&skey=ec0c744fd09d77e7&v=v5#Sura",
+      "ttf": "https://fonts.gstatic.com/s/sura/v5/SZc53FL5PbyzLUJ7TzvMlQ.ttf",
       "errored": false
     }
   ],
@@ -41,9 +41,9 @@
     "latin-ext"
   ],
   "category": "serif",
-  "version": "v4",
-  "lastModified": "2019-07-16",
-  "popularity": 727,
+  "version": "v5",
+  "lastModified": "2020-07-23",
+  "popularity": 807,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

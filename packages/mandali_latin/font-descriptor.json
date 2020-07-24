@@ -4,33 +4,33 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/mandali/v8/LhWlMVbYOfASNfNUZF4_YA.ttf",
+      "woff2": "https://fonts.gstatic.com/s/mandali/v9/LhWlMVbYOfASNfNUZF4_ZQ.woff2",
       "fontFamily": "'Mandali'",
       "fontStyle": "normal",
       "fontWeight": "400",
       "local": [
         "Mandali"
       ],
-      "eot": "https://fonts.gstatic.com/s/mandali/v8/LhWlMVbYOfASNfNUZF4_YQ.eot",
-      "woff": "https://fonts.gstatic.com/s/mandali/v8/LhWlMVbYOfASNfNUZF4_Yw.woff",
-      "woff2": "https://fonts.gstatic.com/s/mandali/v8/LhWlMVbYOfASNfNUZF4_ZQ.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=LhWlMVbYOfASNfNUZF4_Yg&skey=9c05afd86886abb8&v=v8#Mandali",
+      "svg": "https://fonts.gstatic.com/l/font?kit=LhWlMVbYOfASNfNUZF4_Yg&skey=9c05afd86886abb8&v=v9#Mandali",
+      "woff": "https://fonts.gstatic.com/s/mandali/v9/LhWlMVbYOfASNfNUZF4_Yw.woff",
+      "eot": "https://fonts.gstatic.com/s/mandali/v9/LhWlMVbYOfASNfNUZF4_YQ.eot",
+      "ttf": "https://fonts.gstatic.com/s/mandali/v9/LhWlMVbYOfASNfNUZF4_YA.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "telugu",
-    "latin"
+    "latin",
+    "telugu"
   ],
   "category": "sans-serif",
-  "version": "v8",
-  "lastModified": "2019-07-16",
-  "popularity": 635,
+  "version": "v9",
+  "lastModified": "2020-07-23",
+  "popularity": 527,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "telugu": false,
-    "latin": true
+    "latin": true,
+    "telugu": false
   },
   "storeID": "latin"
 }

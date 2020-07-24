@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/alata/v1/PbytFmztEwbIoceyzqY.woff2",
+      "woff2": "https://fonts.gstatic.com/s/alata/v2/PbytFmztEwbIoceyzqY.woff2",
       "fontFamily": "'Alata'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,28 +12,28 @@
         "Alata Regular",
         "Alata-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/alata/v1/PbytFmztEwbIoceyzqM.ttf",
-      "eot": "https://fonts.gstatic.com/s/alata/v1/PbytFmztEwbIoceyzqI.eot",
-      "woff": "https://fonts.gstatic.com/s/alata/v1/PbytFmztEwbIoceyzqA.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=PbytFmztEwbIoceyzqE&skey=8b3803308a257846&v=v1#Alata",
+      "woff": "https://fonts.gstatic.com/s/alata/v2/PbytFmztEwbIoceyzqA.woff",
+      "eot": "https://fonts.gstatic.com/s/alata/v2/PbytFmztEwbIoceyzqI.eot",
+      "ttf": "https://fonts.gstatic.com/s/alata/v2/PbytFmztEwbIoceyzqM.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=PbytFmztEwbIoceyzqE&skey=8b3803308a257846&v=v2#Alata",
       "errored": false
     }
   ],
   "subsets": [
     "latin",
-    "vietnamese",
-    "latin-ext"
+    "latin-ext",
+    "vietnamese"
   ],
   "category": "sans-serif",
-  "version": "v1",
-  "lastModified": "2020-03-03",
-  "popularity": 698,
+  "version": "v2",
+  "lastModified": "2020-07-23",
+  "popularity": 492,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "latin": true,
-    "vietnamese": true,
-    "latin-ext": false
+    "latin-ext": false,
+    "vietnamese": true
   },
   "storeID": "vietnamese_latin"
 }

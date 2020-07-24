@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/petrona/v8/mtG64_NXL7bZo9XXgXJYtQ.woff2",
+      "ttf": "https://fonts.gstatic.com/s/petrona/v9/mtG64_NXL7bZo9XXgXJYsA.ttf",
       "fontFamily": "'Petrona'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Petrona Regular",
         "Petrona-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/petrona/v8/mtG64_NXL7bZo9XXgXJYsw.woff",
-      "eot": "https://fonts.gstatic.com/s/petrona/v8/mtG64_NXL7bZo9XXgXJYsQ.eot",
-      "ttf": "https://fonts.gstatic.com/s/petrona/v8/mtG64_NXL7bZo9XXgXJYsA.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=mtG64_NXL7bZo9XXgXJYsg&skey=c7b9dcd5b96edb47&v=v8#Petrona",
+      "woff2": "https://fonts.gstatic.com/s/petrona/v9/mtG64_NXL7bZo9XXgXJYtQ.woff2",
+      "eot": "https://fonts.gstatic.com/s/petrona/v9/mtG64_NXL7bZo9XXgXJYsQ.eot",
+      "woff": "https://fonts.gstatic.com/s/petrona/v9/mtG64_NXL7bZo9XXgXJYsw.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=mtG64_NXL7bZo9XXgXJYsg&skey=c7b9dcd5b96edb47&v=v9#Petrona",
       "errored": false
     }
   ],
@@ -23,9 +23,9 @@
     "latin"
   ],
   "category": "serif",
-  "version": "v8",
-  "lastModified": "2019-07-16",
-  "popularity": 752,
+  "version": "v9",
+  "lastModified": "2020-07-23",
+  "popularity": 804,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

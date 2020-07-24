@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/chilanka/v5/WWXRlj2DZQiMJYaYRoJXKdU.ttf",
+      "woff2": "https://fonts.gstatic.com/s/chilanka/v6/WWXRlj2DZQiMJYaYRoJXKdA.woff2",
       "fontFamily": "'Chilanka'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Chilanka Regular",
         "Chilanka-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/chilanka/v5/WWXRlj2DZQiMJYaYRoJXKdY.woff",
-      "woff2": "https://fonts.gstatic.com/s/chilanka/v5/WWXRlj2DZQiMJYaYRoJXKdA.woff2",
-      "eot": "https://fonts.gstatic.com/s/chilanka/v5/WWXRlj2DZQiMJYaYRoJXKdQ.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=WWXRlj2DZQiMJYaYRoJXKdc&skey=959ced8e02f09fab&v=v5#Chilanka",
+      "woff": "https://fonts.gstatic.com/s/chilanka/v6/WWXRlj2DZQiMJYaYRoJXKdY.woff",
+      "eot": "https://fonts.gstatic.com/s/chilanka/v6/WWXRlj2DZQiMJYaYRoJXKdQ.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=WWXRlj2DZQiMJYaYRoJXKdc&skey=959ced8e02f09fab&v=v6#Chilanka",
+      "ttf": "https://fonts.gstatic.com/s/chilanka/v6/WWXRlj2DZQiMJYaYRoJXKdU.ttf",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "malayalam"
   ],
   "category": "handwriting",
-  "version": "v5",
-  "lastModified": "2020-03-03",
-  "popularity": 881,
+  "version": "v6",
+  "lastModified": "2020-07-23",
+  "popularity": 952,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

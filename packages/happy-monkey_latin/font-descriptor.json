@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/happymonkey/v8/K2F2fZZcl-9SXwl5F_C4R_OwAAry.ttf",
+      "eot": "https://fonts.gstatic.com/s/happymonkey/v9/K2F2fZZcl-9SXwl5F_C4R_OwAArz.eot",
       "fontFamily": "'Happy Monkey'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/happymonkey/v9/K2F2fZZcl-9SXwl5F_C4R_OwAArx.woff",
       "local": [
         "Happy Monkey",
         "HappyMonkey-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/happymonkey/v8/K2F2fZZcl-9SXwl5F_C4R_OwAArz.eot",
-      "woff": "https://fonts.gstatic.com/s/happymonkey/v8/K2F2fZZcl-9SXwl5F_C4R_OwAArx.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=K2F2fZZcl-9SXwl5F_C4R_OwAArw&skey=17aeed53e5d1fc82&v=v8#HappyMonkey",
-      "woff2": "https://fonts.gstatic.com/s/happymonkey/v8/K2F2fZZcl-9SXwl5F_C4R_OwAAr3.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=K2F2fZZcl-9SXwl5F_C4R_OwAArw&skey=17aeed53e5d1fc82&v=v9#HappyMonkey",
+      "woff2": "https://fonts.gstatic.com/s/happymonkey/v9/K2F2fZZcl-9SXwl5F_C4R_OwAAr3.woff2",
+      "ttf": "https://fonts.gstatic.com/s/happymonkey/v9/K2F2fZZcl-9SXwl5F_C4R_OwAAry.ttf",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "display",
-  "version": "v8",
-  "lastModified": "2019-07-16",
-  "popularity": 523,
+  "version": "v9",
+  "lastModified": "2020-07-23",
+  "popularity": 600,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

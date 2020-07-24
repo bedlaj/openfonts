@@ -4,33 +4,33 @@
   "variants": [
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=6xKvdShfL9yK-rvpOnDRLg&skey=909c473ed6ecde4d&v=v4#Timmana",
+      "woff": "https://fonts.gstatic.com/s/timmana/v5/6xKvdShfL9yK-rvpOnDRLw.woff",
       "fontFamily": "'Timmana'",
       "fontStyle": "normal",
       "fontWeight": "400",
       "local": [
         "Timmana"
       ],
-      "ttf": "https://fonts.gstatic.com/s/timmana/v4/6xKvdShfL9yK-rvpOnDRLA.ttf",
-      "eot": "https://fonts.gstatic.com/s/timmana/v4/6xKvdShfL9yK-rvpOnDRLQ.eot",
-      "woff": "https://fonts.gstatic.com/s/timmana/v4/6xKvdShfL9yK-rvpOnDRLw.woff",
-      "woff2": "https://fonts.gstatic.com/s/timmana/v4/6xKvdShfL9yK-rvpOnDRKQ.woff2",
+      "woff2": "https://fonts.gstatic.com/s/timmana/v5/6xKvdShfL9yK-rvpOnDRKQ.woff2",
+      "eot": "https://fonts.gstatic.com/s/timmana/v5/6xKvdShfL9yK-rvpOnDRLQ.eot",
+      "ttf": "https://fonts.gstatic.com/s/timmana/v5/6xKvdShfL9yK-rvpOnDRLA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=6xKvdShfL9yK-rvpOnDRLg&skey=909c473ed6ecde4d&v=v5#Timmana",
       "errored": false
     }
   ],
   "subsets": [
-    "telugu",
-    "latin"
+    "latin",
+    "telugu"
   ],
   "category": "sans-serif",
-  "version": "v4",
-  "lastModified": "2019-07-16",
-  "popularity": 553,
+  "version": "v5",
+  "lastModified": "2020-07-23",
+  "popularity": 602,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "telugu": true,
-    "latin": true
+    "latin": true,
+    "telugu": true
   },
-  "storeID": "latin_telugu"
+  "storeID": "telugu_latin"
 }

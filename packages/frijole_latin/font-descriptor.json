@@ -4,17 +4,17 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/frijole/v8/uU9PCBUR8oakM2BQ3xTR2w.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=uU9PCBUR8oakM2BQ3xTR2A&skey=e994fa4cc1f77143&v=v9#Frijole",
       "fontFamily": "'Frijole'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/frijole/v8/uU9PCBUR8oakM2BQ3xTR2Q.woff",
       "local": [
         "Frijole"
       ],
-      "woff2": "https://fonts.gstatic.com/s/frijole/v8/uU9PCBUR8oakM2BQ3xTR3w.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=uU9PCBUR8oakM2BQ3xTR2A&skey=e994fa4cc1f77143&v=v8#Frijole",
-      "ttf": "https://fonts.gstatic.com/s/frijole/v8/uU9PCBUR8oakM2BQ3xTR2g.ttf",
+      "woff2": "https://fonts.gstatic.com/s/frijole/v9/uU9PCBUR8oakM2BQ3xTR3w.woff2",
+      "eot": "https://fonts.gstatic.com/s/frijole/v9/uU9PCBUR8oakM2BQ3xTR2w.eot",
+      "woff": "https://fonts.gstatic.com/s/frijole/v9/uU9PCBUR8oakM2BQ3xTR2Q.woff",
+      "ttf": "https://fonts.gstatic.com/s/frijole/v9/uU9PCBUR8oakM2BQ3xTR2g.ttf",
       "errored": false
     }
   ],
@@ -22,9 +22,9 @@
     "latin"
   ],
   "category": "display",
-  "version": "v8",
-  "lastModified": "2019-07-16",
-  "popularity": 617,
+  "version": "v9",
+  "lastModified": "2020-07-23",
+  "popularity": 584,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

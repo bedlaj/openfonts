@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=SZc53FHsOru5QYsMTzrMlw&skey=2938d85b2577c941&v=v12#Fruktur",
+      "ttf": "https://fonts.gstatic.com/s/fruktur/v13/SZc53FHsOru5QYsMTzrMlQ.ttf",
       "fontFamily": "'Fruktur'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Fruktur",
         "Fruktur-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/fruktur/v12/SZc53FHsOru5QYsMTzrMlQ.ttf",
-      "woff": "https://fonts.gstatic.com/s/fruktur/v12/SZc53FHsOru5QYsMTzrMlg.woff",
-      "woff2": "https://fonts.gstatic.com/s/fruktur/v12/SZc53FHsOru5QYsMTzrMkA.woff2",
-      "eot": "https://fonts.gstatic.com/s/fruktur/v12/SZc53FHsOru5QYsMTzrMlA.eot",
+      "woff": "https://fonts.gstatic.com/s/fruktur/v13/SZc53FHsOru5QYsMTzrMlg.woff",
+      "woff2": "https://fonts.gstatic.com/s/fruktur/v13/SZc53FHsOru5QYsMTzrMkA.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=SZc53FHsOru5QYsMTzrMlw&skey=2938d85b2577c941&v=v13#Fruktur",
+      "eot": "https://fonts.gstatic.com/s/fruktur/v13/SZc53FHsOru5QYsMTzrMlA.eot",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "display",
-  "version": "v12",
-  "lastModified": "2019-07-16",
-  "popularity": 917,
+  "version": "v13",
+  "lastModified": "2020-07-23",
+  "popularity": 963,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

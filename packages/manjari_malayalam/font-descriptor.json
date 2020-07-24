@@ -4,66 +4,66 @@
   "variants": [
     {
       "id": "100",
-      "woff": "https://fonts.gstatic.com/s/manjari/v2/k3kSo8UPMOBO2w1UdbrYNGHC.woff",
+      "eot": "https://fonts.gstatic.com/s/manjari/v3/k3kSo8UPMOBO2w1UdbrYNGHA.eot",
       "fontFamily": "'Manjari'",
       "fontStyle": "normal",
       "fontWeight": "100",
+      "ttf": "https://fonts.gstatic.com/s/manjari/v3/k3kSo8UPMOBO2w1UdbrYNGHB.ttf",
       "local": [
         "Manjari Thin",
         "Manjari-Thin"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=k3kSo8UPMOBO2w1UdbrYNGHD&skey=b189116bf2b64cc7&v=v2#Manjari",
-      "eot": "https://fonts.gstatic.com/s/manjari/v2/k3kSo8UPMOBO2w1UdbrYNGHA.eot",
-      "ttf": "https://fonts.gstatic.com/s/manjari/v2/k3kSo8UPMOBO2w1UdbrYNGHB.ttf",
-      "woff2": "https://fonts.gstatic.com/s/manjari/v2/k3kSo8UPMOBO2w1UdbrYNGHE.woff2",
-      "errored": false
-    },
-    {
-      "id": "700",
-      "eot": "https://fonts.gstatic.com/s/manjari/v2/k3kVo8UPMOBO2w1UdWLNO17hKA.eot",
-      "fontFamily": "'Manjari'",
-      "fontStyle": "normal",
-      "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/manjari/v2/k3kVo8UPMOBO2w1UdWLNO17hKg.woff",
-      "local": [
-        "Manjari Bold",
-        "Manjari-Bold"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/manjari/v2/k3kVo8UPMOBO2w1UdWLNO17hLA.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=k3kVo8UPMOBO2w1UdWLNO17hKw&skey=f71b24a7ab4e0c25&v=v2#Manjari",
-      "ttf": "https://fonts.gstatic.com/s/manjari/v2/k3kVo8UPMOBO2w1UdWLNO17hKQ.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=k3kSo8UPMOBO2w1UdbrYNGHD&skey=b189116bf2b64cc7&v=v3#Manjari",
+      "woff": "https://fonts.gstatic.com/s/manjari/v3/k3kSo8UPMOBO2w1UdbrYNGHC.woff",
+      "woff2": "https://fonts.gstatic.com/s/manjari/v3/k3kSo8UPMOBO2w1UdbrYNGHE.woff2",
       "errored": false
     },
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/manjari/v2/k3kQo8UPMOBO2w1UfcHoKg.eot",
+      "woff": "https://fonts.gstatic.com/s/manjari/v3/k3kQo8UPMOBO2w1UfcHoKA.woff",
       "fontFamily": "'Manjari'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "svg": "https://fonts.gstatic.com/l/font?kit=k3kQo8UPMOBO2w1UfcHoKQ&skey=46aa6c1774caed83&v=v2#Manjari",
       "local": [
         "Manjari Regular",
         "Manjari-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/manjari/v2/k3kQo8UPMOBO2w1UfcHoKA.woff",
-      "woff2": "https://fonts.gstatic.com/s/manjari/v2/k3kQo8UPMOBO2w1UfcHoLg.woff2",
-      "ttf": "https://fonts.gstatic.com/s/manjari/v2/k3kQo8UPMOBO2w1UfcHoKw.ttf",
+      "ttf": "https://fonts.gstatic.com/s/manjari/v3/k3kQo8UPMOBO2w1UfcHoKw.ttf",
+      "woff2": "https://fonts.gstatic.com/s/manjari/v3/k3kQo8UPMOBO2w1UfcHoLg.woff2",
+      "eot": "https://fonts.gstatic.com/s/manjari/v3/k3kQo8UPMOBO2w1UfcHoKg.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=k3kQo8UPMOBO2w1UfcHoKQ&skey=46aa6c1774caed83&v=v3#Manjari",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/manjari/v3/k3kVo8UPMOBO2w1UdWLNO17hKA.eot",
+      "fontFamily": "'Manjari'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "svg": "https://fonts.gstatic.com/l/font?kit=k3kVo8UPMOBO2w1UdWLNO17hKw&skey=f71b24a7ab4e0c25&v=v3#Manjari",
+      "local": [
+        "Manjari Bold",
+        "Manjari-Bold"
+      ],
+      "woff": "https://fonts.gstatic.com/s/manjari/v3/k3kVo8UPMOBO2w1UdWLNO17hKg.woff",
+      "woff2": "https://fonts.gstatic.com/s/manjari/v3/k3kVo8UPMOBO2w1UdWLNO17hLA.woff2",
+      "ttf": "https://fonts.gstatic.com/s/manjari/v3/k3kVo8UPMOBO2w1UdWLNO17hKQ.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "malayalam",
-    "latin"
+    "latin",
+    "malayalam"
   ],
   "category": "sans-serif",
-  "version": "v2",
-  "lastModified": "2019-11-05",
-  "popularity": 650,
+  "version": "v3",
+  "lastModified": "2020-07-23",
+  "popularity": 517,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "malayalam": true,
-    "latin": true
+    "latin": true,
+    "malayalam": true
   },
-  "storeID": "latin_malayalam"
+  "storeID": "malayalam_latin"
 }

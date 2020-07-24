@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/numans/v9/SlGRmQmGupYAfH84ZhIn.woff",
+      "eot": "https://fonts.gstatic.com/s/numans/v10/SlGRmQmGupYAfH84ZhIl.eot",
       "fontFamily": "'Numans'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/numans/v10/SlGRmQmGupYAfH84ZhIh.woff2",
       "local": [
         "Numans",
         "Numans-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/numans/v9/SlGRmQmGupYAfH84ZhIl.eot",
-      "woff2": "https://fonts.gstatic.com/s/numans/v9/SlGRmQmGupYAfH84ZhIh.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=SlGRmQmGupYAfH84ZhIm&skey=50929a21c0501bac&v=v9#Numans",
-      "ttf": "https://fonts.gstatic.com/s/numans/v9/SlGRmQmGupYAfH84ZhIk.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=SlGRmQmGupYAfH84ZhIm&skey=50929a21c0501bac&v=v10#Numans",
+      "woff": "https://fonts.gstatic.com/s/numans/v10/SlGRmQmGupYAfH84ZhIn.woff",
+      "ttf": "https://fonts.gstatic.com/s/numans/v10/SlGRmQmGupYAfH84ZhIk.ttf",
       "errored": false
     }
   ],
@@ -23,9 +23,9 @@
     "latin"
   ],
   "category": "sans-serif",
-  "version": "v9",
-  "lastModified": "2019-07-16",
-  "popularity": 638,
+  "version": "v10",
+  "lastModified": "2020-07-23",
+  "popularity": 583,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

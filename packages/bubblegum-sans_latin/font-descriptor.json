@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/bubblegumsans/v8/AYCSpXb_Z9EORv1M5QTjEzMEteaAxIQ.woff",
+      "woff2": "https://fonts.gstatic.com/s/bubblegumsans/v9/AYCSpXb_Z9EORv1M5QTjEzMEteaAxII.woff2",
       "fontFamily": "'Bubblegum Sans'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Bubblegum Sans Regular",
         "BubblegumSans-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/bubblegumsans/v8/AYCSpXb_Z9EORv1M5QTjEzMEteaAxII.woff2",
-      "eot": "https://fonts.gstatic.com/s/bubblegumsans/v8/AYCSpXb_Z9EORv1M5QTjEzMEteaAxIY.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=AYCSpXb_Z9EORv1M5QTjEzMEteaAxIU&skey=907fcf96211c8e7e&v=v8#BubblegumSans",
-      "ttf": "https://fonts.gstatic.com/s/bubblegumsans/v8/AYCSpXb_Z9EORv1M5QTjEzMEteaAxIc.ttf",
+      "ttf": "https://fonts.gstatic.com/s/bubblegumsans/v9/AYCSpXb_Z9EORv1M5QTjEzMEteaAxIc.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=AYCSpXb_Z9EORv1M5QTjEzMEteaAxIU&skey=907fcf96211c8e7e&v=v9#BubblegumSans",
+      "eot": "https://fonts.gstatic.com/s/bubblegumsans/v9/AYCSpXb_Z9EORv1M5QTjEzMEteaAxIY.eot",
+      "woff": "https://fonts.gstatic.com/s/bubblegumsans/v9/AYCSpXb_Z9EORv1M5QTjEzMEteaAxIQ.woff",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "display",
-  "version": "v8",
-  "lastModified": "2019-07-16",
-  "popularity": 376,
+  "version": "v9",
+  "lastModified": "2020-07-23",
+  "popularity": 443,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

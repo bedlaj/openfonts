@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/fenix/v7/XoHo2YL_S7-g5rskITc.woff",
+      "eot": "https://fonts.gstatic.com/s/fenix/v8/XoHo2YL_S7-g5rskITU.eot",
       "fontFamily": "'Fenix'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/fenix/v8/XoHo2YL_S7-g5rskITc.woff",
       "local": [
         "Fenix",
         "Fenix-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/fenix/v7/XoHo2YL_S7-g5rskITU.eot",
-      "woff2": "https://fonts.gstatic.com/s/fenix/v7/XoHo2YL_S7-g5rskITE.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=XoHo2YL_S7-g5rskITY&skey=f66d8ae9cfca8a8a&v=v7#Fenix",
-      "ttf": "https://fonts.gstatic.com/s/fenix/v7/XoHo2YL_S7-g5rskITQ.ttf",
+      "woff2": "https://fonts.gstatic.com/s/fenix/v8/XoHo2YL_S7-g5rskITE.woff2",
+      "ttf": "https://fonts.gstatic.com/s/fenix/v8/XoHo2YL_S7-g5rskITQ.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=XoHo2YL_S7-g5rskITY&skey=f66d8ae9cfca8a8a&v=v8#Fenix",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "serif",
-  "version": "v7",
-  "lastModified": "2019-07-16",
-  "popularity": 671,
+  "version": "v8",
+  "lastModified": "2020-07-23",
+  "popularity": 762,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

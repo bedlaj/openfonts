@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=845DNN8xGZyVX5MVo_upKf7KnjK0TePfLg&skey=628a9c934fe0954e&v=v8#ElsieSwashCaps",
+      "svg": "https://fonts.gstatic.com/l/font?kit=845DNN8xGZyVX5MVo_upKf7KnjK0TePfLg&skey=628a9c934fe0954e&v=v9#ElsieSwashCaps",
       "fontFamily": "'Elsie Swash Caps'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,26 +12,26 @@
         "Elsie Swash Caps Regular",
         "ElsieSwashCaps-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/elsieswashcaps/v8/845DNN8xGZyVX5MVo_upKf7KnjK0TePfKQ.woff2",
-      "woff": "https://fonts.gstatic.com/s/elsieswashcaps/v8/845DNN8xGZyVX5MVo_upKf7KnjK0TePfLw.woff",
-      "ttf": "https://fonts.gstatic.com/s/elsieswashcaps/v8/845DNN8xGZyVX5MVo_upKf7KnjK0TePfLA.ttf",
-      "eot": "https://fonts.gstatic.com/s/elsieswashcaps/v8/845DNN8xGZyVX5MVo_upKf7KnjK0TePfLQ.eot",
+      "eot": "https://fonts.gstatic.com/s/elsieswashcaps/v9/845DNN8xGZyVX5MVo_upKf7KnjK0TePfLQ.eot",
+      "woff": "https://fonts.gstatic.com/s/elsieswashcaps/v9/845DNN8xGZyVX5MVo_upKf7KnjK0TePfLw.woff",
+      "woff2": "https://fonts.gstatic.com/s/elsieswashcaps/v9/845DNN8xGZyVX5MVo_upKf7KnjK0TePfKQ.woff2",
+      "ttf": "https://fonts.gstatic.com/s/elsieswashcaps/v9/845DNN8xGZyVX5MVo_upKf7KnjK0TePfLA.ttf",
       "errored": false
     },
     {
       "id": "900",
-      "woff2": "https://fonts.gstatic.com/s/elsieswashcaps/v8/845ENN8xGZyVX5MVo_upKf7KnjK0RW74PGSNTw.woff2",
+      "eot": "https://fonts.gstatic.com/s/elsieswashcaps/v9/845ENN8xGZyVX5MVo_upKf7KnjK0RW74PGSNSw.eot",
       "fontFamily": "'Elsie Swash Caps'",
       "fontStyle": "normal",
       "fontWeight": "900",
+      "woff": "https://fonts.gstatic.com/s/elsieswashcaps/v9/845ENN8xGZyVX5MVo_upKf7KnjK0RW74PGSNSQ.woff",
       "local": [
         "Elsie Swash Caps Black",
         "ElsieSwashCaps-Black"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=845ENN8xGZyVX5MVo_upKf7KnjK0RW74PGSNSA&skey=674768f5b901a42b&v=v8#ElsieSwashCaps",
-      "ttf": "https://fonts.gstatic.com/s/elsieswashcaps/v8/845ENN8xGZyVX5MVo_upKf7KnjK0RW74PGSNSg.ttf",
-      "eot": "https://fonts.gstatic.com/s/elsieswashcaps/v8/845ENN8xGZyVX5MVo_upKf7KnjK0RW74PGSNSw.eot",
-      "woff": "https://fonts.gstatic.com/s/elsieswashcaps/v8/845ENN8xGZyVX5MVo_upKf7KnjK0RW74PGSNSQ.woff",
+      "woff2": "https://fonts.gstatic.com/s/elsieswashcaps/v9/845ENN8xGZyVX5MVo_upKf7KnjK0RW74PGSNTw.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=845ENN8xGZyVX5MVo_upKf7KnjK0RW74PGSNSA&skey=674768f5b901a42b&v=v9#ElsieSwashCaps",
+      "ttf": "https://fonts.gstatic.com/s/elsieswashcaps/v9/845ENN8xGZyVX5MVo_upKf7KnjK0RW74PGSNSg.ttf",
       "errored": false
     }
   ],
@@ -40,9 +40,9 @@
     "latin-ext"
   ],
   "category": "display",
-  "version": "v8",
-  "lastModified": "2019-07-16",
-  "popularity": 775,
+  "version": "v9",
+  "lastModified": "2020-07-23",
+  "popularity": 829,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

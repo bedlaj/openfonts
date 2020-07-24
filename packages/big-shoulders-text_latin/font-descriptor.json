@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "100",
-      "woff2": "https://fonts.gstatic.com/s/bigshoulderstext/v1/55xzezRtP9G3CGPIf49hxc8P0eytUxBU-LZ4aMY.woff2",
+      "woff": "https://fonts.gstatic.com/s/bigshoulderstext/v2/55xzezRtP9G3CGPIf49hxc8P0eytUxBU-LZ4aMA.woff",
       "fontFamily": "'Big Shoulders Text'",
       "fontStyle": "normal",
       "fontWeight": "100",
@@ -12,15 +12,31 @@
         "Big Shoulders Text Thin",
         "BigShouldersText-Thin"
       ],
-      "ttf": "https://fonts.gstatic.com/s/bigshoulderstext/v1/55xzezRtP9G3CGPIf49hxc8P0eytUxBU-LZ4aMM.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=55xzezRtP9G3CGPIf49hxc8P0eytUxBU-LZ4aME&skey=3b4225d9722c0a37&v=v1#BigShouldersText",
-      "woff": "https://fonts.gstatic.com/s/bigshoulderstext/v1/55xzezRtP9G3CGPIf49hxc8P0eytUxBU-LZ4aMA.woff",
-      "eot": "https://fonts.gstatic.com/s/bigshoulderstext/v1/55xzezRtP9G3CGPIf49hxc8P0eytUxBU-LZ4aMI.eot",
+      "woff2": "https://fonts.gstatic.com/s/bigshoulderstext/v2/55xzezRtP9G3CGPIf49hxc8P0eytUxBU-LZ4aMY.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=55xzezRtP9G3CGPIf49hxc8P0eytUxBU-LZ4aME&skey=3b4225d9722c0a37&v=v2#BigShouldersText",
+      "ttf": "https://fonts.gstatic.com/s/bigshoulderstext/v2/55xzezRtP9G3CGPIf49hxc8P0eytUxBU-LZ4aMM.ttf",
+      "eot": "https://fonts.gstatic.com/s/bigshoulderstext/v2/55xzezRtP9G3CGPIf49hxc8P0eytUxBU-LZ4aMI.eot",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/bigshoulderstext/v2/55xxezRtP9G3CGPIf49hxc8P0eytUxBcm4Z-.eot",
+      "fontFamily": "'Big Shoulders Text'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "svg": "https://fonts.gstatic.com/l/font?kit=55xxezRtP9G3CGPIf49hxc8P0eytUxBcm4Z9&skey=5fe082260217636d&v=v2#BigShouldersText",
+      "local": [
+        "Big Shoulders Text Regular",
+        "BigShouldersText-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/bigshoulderstext/v2/55xxezRtP9G3CGPIf49hxc8P0eytUxBcm4Z6.woff2",
+      "woff": "https://fonts.gstatic.com/s/bigshoulderstext/v2/55xxezRtP9G3CGPIf49hxc8P0eytUxBcm4Z8.woff",
+      "ttf": "https://fonts.gstatic.com/s/bigshoulderstext/v2/55xxezRtP9G3CGPIf49hxc8P0eytUxBcm4Z_.ttf",
       "errored": false
     },
     {
       "id": "300",
-      "woff2": "https://fonts.gstatic.com/s/bigshoulderstext/v1/55xyezRtP9G3CGPIf49hxc8P0eytUxBUMKRvT-MP.woff2",
+      "woff": "https://fonts.gstatic.com/s/bigshoulderstext/v2/55xyezRtP9G3CGPIf49hxc8P0eytUxBUMKRvT-MJ.woff",
       "fontFamily": "'Big Shoulders Text'",
       "fontStyle": "normal",
       "fontWeight": "300",
@@ -28,124 +44,108 @@
         "Big Shoulders Text Light",
         "BigShouldersText-Light"
       ],
-      "ttf": "https://fonts.gstatic.com/s/bigshoulderstext/v1/55xyezRtP9G3CGPIf49hxc8P0eytUxBUMKRvT-MK.ttf",
-      "woff": "https://fonts.gstatic.com/s/bigshoulderstext/v1/55xyezRtP9G3CGPIf49hxc8P0eytUxBUMKRvT-MJ.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=55xyezRtP9G3CGPIf49hxc8P0eytUxBUMKRvT-MI&skey=3b15dfc15130cfc2&v=v1#BigShouldersText",
-      "eot": "https://fonts.gstatic.com/s/bigshoulderstext/v1/55xyezRtP9G3CGPIf49hxc8P0eytUxBUMKRvT-ML.eot",
-      "errored": false
-    },
-    {
-      "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/bigshoulderstext/v1/55xxezRtP9G3CGPIf49hxc8P0eytUxBcm4Z-.eot",
-      "fontFamily": "'Big Shoulders Text'",
-      "fontStyle": "normal",
-      "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/bigshoulderstext/v1/55xxezRtP9G3CGPIf49hxc8P0eytUxBcm4Z8.woff",
-      "local": [
-        "Big Shoulders Text Regular",
-        "BigShouldersText-Regular"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/bigshoulderstext/v1/55xxezRtP9G3CGPIf49hxc8P0eytUxBcm4Z6.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=55xxezRtP9G3CGPIf49hxc8P0eytUxBcm4Z9&skey=5fe082260217636d&v=v1#BigShouldersText",
-      "ttf": "https://fonts.gstatic.com/s/bigshoulderstext/v1/55xxezRtP9G3CGPIf49hxc8P0eytUxBcm4Z_.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=55xyezRtP9G3CGPIf49hxc8P0eytUxBUMKRvT-MI&skey=3b15dfc15130cfc2&v=v2#BigShouldersText",
+      "ttf": "https://fonts.gstatic.com/s/bigshoulderstext/v2/55xyezRtP9G3CGPIf49hxc8P0eytUxBUMKRvT-MK.ttf",
+      "eot": "https://fonts.gstatic.com/s/bigshoulderstext/v2/55xyezRtP9G3CGPIf49hxc8P0eytUxBUMKRvT-ML.eot",
+      "woff2": "https://fonts.gstatic.com/s/bigshoulderstext/v2/55xyezRtP9G3CGPIf49hxc8P0eytUxBUMKRvT-MP.woff2",
       "errored": false
     },
     {
       "id": "500",
-      "eot": "https://fonts.gstatic.com/s/bigshoulderstext/v1/55xyezRtP9G3CGPIf49hxc8P0eytUxBUaKVvT-ML.eot",
+      "woff": "https://fonts.gstatic.com/s/bigshoulderstext/v2/55xyezRtP9G3CGPIf49hxc8P0eytUxBUaKVvT-MJ.woff",
       "fontFamily": "'Big Shoulders Text'",
       "fontStyle": "normal",
       "fontWeight": "500",
-      "woff": "https://fonts.gstatic.com/s/bigshoulderstext/v1/55xyezRtP9G3CGPIf49hxc8P0eytUxBUaKVvT-MJ.woff",
       "local": [
         "Big Shoulders Text Medium",
         "BigShouldersText-Medium"
       ],
-      "woff2": "https://fonts.gstatic.com/s/bigshoulderstext/v1/55xyezRtP9G3CGPIf49hxc8P0eytUxBUaKVvT-MP.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=55xyezRtP9G3CGPIf49hxc8P0eytUxBUaKVvT-MI&skey=fff5c1e908b7f613&v=v1#BigShouldersText",
-      "ttf": "https://fonts.gstatic.com/s/bigshoulderstext/v1/55xyezRtP9G3CGPIf49hxc8P0eytUxBUaKVvT-MK.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=55xyezRtP9G3CGPIf49hxc8P0eytUxBUaKVvT-MI&skey=fff5c1e908b7f613&v=v2#BigShouldersText",
+      "ttf": "https://fonts.gstatic.com/s/bigshoulderstext/v2/55xyezRtP9G3CGPIf49hxc8P0eytUxBUaKVvT-MK.ttf",
+      "woff2": "https://fonts.gstatic.com/s/bigshoulderstext/v2/55xyezRtP9G3CGPIf49hxc8P0eytUxBUaKVvT-MP.woff2",
+      "eot": "https://fonts.gstatic.com/s/bigshoulderstext/v2/55xyezRtP9G3CGPIf49hxc8P0eytUxBUaKVvT-ML.eot",
       "errored": false
     },
     {
       "id": "700",
-      "eot": "https://fonts.gstatic.com/s/bigshoulderstext/v1/55xyezRtP9G3CGPIf49hxc8P0eytUxBUIKNvT-ML.eot",
+      "eot": "https://fonts.gstatic.com/s/bigshoulderstext/v2/55xyezRtP9G3CGPIf49hxc8P0eytUxBUIKNvT-ML.eot",
       "fontFamily": "'Big Shoulders Text'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/bigshoulderstext/v1/55xyezRtP9G3CGPIf49hxc8P0eytUxBUIKNvT-MJ.woff",
+      "woff": "https://fonts.gstatic.com/s/bigshoulderstext/v2/55xyezRtP9G3CGPIf49hxc8P0eytUxBUIKNvT-MJ.woff",
       "local": [
         "Big Shoulders Text Bold",
         "BigShouldersText-Bold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/bigshoulderstext/v1/55xyezRtP9G3CGPIf49hxc8P0eytUxBUIKNvT-MP.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=55xyezRtP9G3CGPIf49hxc8P0eytUxBUIKNvT-MI&skey=424f5276fb779f04&v=v1#BigShouldersText",
-      "ttf": "https://fonts.gstatic.com/s/bigshoulderstext/v1/55xyezRtP9G3CGPIf49hxc8P0eytUxBUIKNvT-MK.ttf",
+      "woff2": "https://fonts.gstatic.com/s/bigshoulderstext/v2/55xyezRtP9G3CGPIf49hxc8P0eytUxBUIKNvT-MP.woff2",
+      "ttf": "https://fonts.gstatic.com/s/bigshoulderstext/v2/55xyezRtP9G3CGPIf49hxc8P0eytUxBUIKNvT-MK.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=55xyezRtP9G3CGPIf49hxc8P0eytUxBUIKNvT-MI&skey=424f5276fb779f04&v=v2#BigShouldersText",
       "errored": false
     },
     {
       "id": "600",
-      "eot": "https://fonts.gstatic.com/s/bigshoulderstext/v1/55xyezRtP9G3CGPIf49hxc8P0eytUxBURKJvT-ML.eot",
+      "eot": "https://fonts.gstatic.com/s/bigshoulderstext/v2/55xyezRtP9G3CGPIf49hxc8P0eytUxBURKJvT-ML.eot",
       "fontFamily": "'Big Shoulders Text'",
       "fontStyle": "normal",
       "fontWeight": "600",
-      "woff2": "https://fonts.gstatic.com/s/bigshoulderstext/v1/55xyezRtP9G3CGPIf49hxc8P0eytUxBURKJvT-MP.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=55xyezRtP9G3CGPIf49hxc8P0eytUxBURKJvT-MI&skey=30b8e1b42d6f8922&v=v2#BigShouldersText",
       "local": [
         "Big Shoulders Text SemiBold",
         "BigShouldersText-SemiBold"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=55xyezRtP9G3CGPIf49hxc8P0eytUxBURKJvT-MI&skey=30b8e1b42d6f8922&v=v1#BigShouldersText",
-      "woff": "https://fonts.gstatic.com/s/bigshoulderstext/v1/55xyezRtP9G3CGPIf49hxc8P0eytUxBURKJvT-MJ.woff",
-      "ttf": "https://fonts.gstatic.com/s/bigshoulderstext/v1/55xyezRtP9G3CGPIf49hxc8P0eytUxBURKJvT-MK.ttf",
+      "woff": "https://fonts.gstatic.com/s/bigshoulderstext/v2/55xyezRtP9G3CGPIf49hxc8P0eytUxBURKJvT-MJ.woff",
+      "ttf": "https://fonts.gstatic.com/s/bigshoulderstext/v2/55xyezRtP9G3CGPIf49hxc8P0eytUxBURKJvT-MK.ttf",
+      "woff2": "https://fonts.gstatic.com/s/bigshoulderstext/v2/55xyezRtP9G3CGPIf49hxc8P0eytUxBURKJvT-MP.woff2",
       "errored": false
     },
     {
       "id": "800",
-      "eot": "https://fonts.gstatic.com/s/bigshoulderstext/v1/55xyezRtP9G3CGPIf49hxc8P0eytUxBUPKBvT-ML.eot",
+      "eot": "https://fonts.gstatic.com/s/bigshoulderstext/v2/55xyezRtP9G3CGPIf49hxc8P0eytUxBUPKBvT-ML.eot",
       "fontFamily": "'Big Shoulders Text'",
       "fontStyle": "normal",
       "fontWeight": "800",
-      "svg": "https://fonts.gstatic.com/l/font?kit=55xyezRtP9G3CGPIf49hxc8P0eytUxBUPKBvT-MI&skey=2880034562905177&v=v1#BigShouldersText",
+      "woff": "https://fonts.gstatic.com/s/bigshoulderstext/v2/55xyezRtP9G3CGPIf49hxc8P0eytUxBUPKBvT-MJ.woff",
       "local": [
         "Big Shoulders Text ExtraBold",
         "BigShouldersText-ExtraBold"
       ],
-      "woff": "https://fonts.gstatic.com/s/bigshoulderstext/v1/55xyezRtP9G3CGPIf49hxc8P0eytUxBUPKBvT-MJ.woff",
-      "woff2": "https://fonts.gstatic.com/s/bigshoulderstext/v1/55xyezRtP9G3CGPIf49hxc8P0eytUxBUPKBvT-MP.woff2",
-      "ttf": "https://fonts.gstatic.com/s/bigshoulderstext/v1/55xyezRtP9G3CGPIf49hxc8P0eytUxBUPKBvT-MK.ttf",
+      "woff2": "https://fonts.gstatic.com/s/bigshoulderstext/v2/55xyezRtP9G3CGPIf49hxc8P0eytUxBUPKBvT-MP.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=55xyezRtP9G3CGPIf49hxc8P0eytUxBUPKBvT-MI&skey=2880034562905177&v=v2#BigShouldersText",
+      "ttf": "https://fonts.gstatic.com/s/bigshoulderstext/v2/55xyezRtP9G3CGPIf49hxc8P0eytUxBUPKBvT-MK.ttf",
       "errored": false
     },
     {
       "id": "900",
-      "woff": "https://fonts.gstatic.com/s/bigshoulderstext/v1/55xyezRtP9G3CGPIf49hxc8P0eytUxBUGKFvT-MJ.woff",
+      "eot": "https://fonts.gstatic.com/s/bigshoulderstext/v2/55xyezRtP9G3CGPIf49hxc8P0eytUxBUGKFvT-ML.eot",
       "fontFamily": "'Big Shoulders Text'",
       "fontStyle": "normal",
       "fontWeight": "900",
+      "woff": "https://fonts.gstatic.com/s/bigshoulderstext/v2/55xyezRtP9G3CGPIf49hxc8P0eytUxBUGKFvT-MJ.woff",
       "local": [
         "Big Shoulders Text Black",
         "BigShouldersText-Black"
       ],
-      "eot": "https://fonts.gstatic.com/s/bigshoulderstext/v1/55xyezRtP9G3CGPIf49hxc8P0eytUxBUGKFvT-ML.eot",
-      "ttf": "https://fonts.gstatic.com/s/bigshoulderstext/v1/55xyezRtP9G3CGPIf49hxc8P0eytUxBUGKFvT-MK.ttf",
-      "woff2": "https://fonts.gstatic.com/s/bigshoulderstext/v1/55xyezRtP9G3CGPIf49hxc8P0eytUxBUGKFvT-MP.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=55xyezRtP9G3CGPIf49hxc8P0eytUxBUGKFvT-MI&skey=cb3558f36e6c44ad&v=v1#BigShouldersText",
+      "woff2": "https://fonts.gstatic.com/s/bigshoulderstext/v2/55xyezRtP9G3CGPIf49hxc8P0eytUxBUGKFvT-MP.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=55xyezRtP9G3CGPIf49hxc8P0eytUxBUGKFvT-MI&skey=cb3558f36e6c44ad&v=v2#BigShouldersText",
+      "ttf": "https://fonts.gstatic.com/s/bigshoulderstext/v2/55xyezRtP9G3CGPIf49hxc8P0eytUxBUGKFvT-MK.ttf",
       "errored": false
     }
   ],
   "subsets": [
     "latin",
-    "vietnamese",
-    "latin-ext"
+    "latin-ext",
+    "vietnamese"
   ],
   "category": "display",
-  "version": "v1",
-  "lastModified": "2020-03-03",
-  "popularity": 856,
+  "version": "v2",
+  "lastModified": "2020-07-23",
+  "popularity": 623,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "latin": true,
-    "vietnamese": false,
-    "latin-ext": false
+    "latin-ext": false,
+    "vietnamese": false
   },
   "storeID": "latin"
 }

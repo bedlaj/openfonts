@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/warnes/v9/pONn1hc0GsW6sW5-ryqy.ttf",
+      "eot": "https://fonts.gstatic.com/s/warnes/v10/pONn1hc0GsW6sW5-ryqz.eot",
       "fontFamily": "'Warnes'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/warnes/v10/pONn1hc0GsW6sW5-ryqx.woff",
       "local": [
         "Warnes",
         "Warnes-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/warnes/v9/pONn1hc0GsW6sW5-ryqx.woff",
-      "eot": "https://fonts.gstatic.com/s/warnes/v9/pONn1hc0GsW6sW5-ryqz.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=pONn1hc0GsW6sW5-ryqw&skey=86cbc7a7f35f6c3e&v=v9#Warnes",
-      "woff2": "https://fonts.gstatic.com/s/warnes/v9/pONn1hc0GsW6sW5-ryq3.woff2",
+      "woff2": "https://fonts.gstatic.com/s/warnes/v10/pONn1hc0GsW6sW5-ryq3.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=pONn1hc0GsW6sW5-ryqw&skey=86cbc7a7f35f6c3e&v=v10#Warnes",
+      "ttf": "https://fonts.gstatic.com/s/warnes/v10/pONn1hc0GsW6sW5-ryqy.ttf",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "display",
-  "version": "v9",
-  "lastModified": "2019-07-16",
-  "popularity": 939,
+  "version": "v10",
+  "lastModified": "2020-07-23",
+  "popularity": 994,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

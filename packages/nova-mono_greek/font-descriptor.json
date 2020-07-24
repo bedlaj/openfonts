@@ -4,17 +4,17 @@
   "variants": [
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Cn-0JtiGWQ5Ajb--MRKvZGZe&skey=573d932cf583f4f3&v=v10#NovaMono",
+      "woff": "https://fonts.gstatic.com/s/novamono/v11/Cn-0JtiGWQ5Ajb--MRKvZGZf.woff",
       "fontFamily": "'Nova Mono'",
       "fontStyle": "normal",
       "fontWeight": "400",
       "local": [
         "NovaMono"
       ],
-      "woff": "https://fonts.gstatic.com/s/novamono/v10/Cn-0JtiGWQ5Ajb--MRKvZGZf.woff",
-      "woff2": "https://fonts.gstatic.com/s/novamono/v10/Cn-0JtiGWQ5Ajb--MRKvZGZZ.woff2",
-      "eot": "https://fonts.gstatic.com/s/novamono/v10/Cn-0JtiGWQ5Ajb--MRKvZGZd.eot",
-      "ttf": "https://fonts.gstatic.com/s/novamono/v10/Cn-0JtiGWQ5Ajb--MRKvZGZc.ttf",
+      "ttf": "https://fonts.gstatic.com/s/novamono/v11/Cn-0JtiGWQ5Ajb--MRKvZGZc.ttf",
+      "woff2": "https://fonts.gstatic.com/s/novamono/v11/Cn-0JtiGWQ5Ajb--MRKvZGZZ.woff2",
+      "eot": "https://fonts.gstatic.com/s/novamono/v11/Cn-0JtiGWQ5Ajb--MRKvZGZd.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Cn-0JtiGWQ5Ajb--MRKvZGZe&skey=573d932cf583f4f3&v=v11#NovaMono",
       "errored": false
     }
   ],
@@ -23,8 +23,8 @@
     "latin"
   ],
   "category": "monospace",
-  "version": "v10",
-  "lastModified": "2019-07-16",
+  "version": "v11",
+  "lastModified": "2020-07-23",
   "popularity": 663,
   "defSubset": "latin",
   "defVariant": "regular",

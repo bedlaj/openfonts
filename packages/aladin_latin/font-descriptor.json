@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/aladin/v8/ZgNSjPJFPrvJV5fF7i3_.woff",
+      "woff2": "https://fonts.gstatic.com/s/aladin/v9/ZgNSjPJFPrvJV5fF7i35.woff2",
       "fontFamily": "'Aladin'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Aladin Regular",
         "Aladin-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/aladin/v8/ZgNSjPJFPrvJV5fF7i39.eot",
-      "woff2": "https://fonts.gstatic.com/s/aladin/v8/ZgNSjPJFPrvJV5fF7i35.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=ZgNSjPJFPrvJV5fF7i3-&skey=6a1ad71149991211&v=v8#Aladin",
-      "ttf": "https://fonts.gstatic.com/s/aladin/v8/ZgNSjPJFPrvJV5fF7i38.ttf",
+      "eot": "https://fonts.gstatic.com/s/aladin/v9/ZgNSjPJFPrvJV5fF7i39.eot",
+      "ttf": "https://fonts.gstatic.com/s/aladin/v9/ZgNSjPJFPrvJV5fF7i38.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=ZgNSjPJFPrvJV5fF7i3-&skey=6a1ad71149991211&v=v9#Aladin",
+      "woff": "https://fonts.gstatic.com/s/aladin/v9/ZgNSjPJFPrvJV5fF7i3_.woff",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "handwriting",
-  "version": "v8",
-  "lastModified": "2019-07-16",
-  "popularity": 430,
+  "version": "v9",
+  "lastModified": "2020-07-23",
+  "popularity": 411,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

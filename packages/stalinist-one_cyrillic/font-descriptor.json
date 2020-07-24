@@ -4,36 +4,36 @@
   "variants": [
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=MQpS-WezM9W4Dd7D3B7I-UT7SZyeOQ&skey=c6285f31e996b9a4&v=v25#StalinistOne",
+      "eot": "https://fonts.gstatic.com/s/stalinistone/v26/MQpS-WezM9W4Dd7D3B7I-UT7SZyeOg.eot",
       "fontFamily": "'Stalinist One'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "svg": "https://fonts.gstatic.com/l/font?kit=MQpS-WezM9W4Dd7D3B7I-UT7SZyeOQ&skey=c6285f31e996b9a4&v=v26#StalinistOne",
       "local": [
         "Stalinist One",
         "StalinistOne-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/stalinistone/v25/MQpS-WezM9W4Dd7D3B7I-UT7SZyeOA.woff",
-      "woff2": "https://fonts.gstatic.com/s/stalinistone/v25/MQpS-WezM9W4Dd7D3B7I-UT7SZyePg.woff2",
-      "ttf": "https://fonts.gstatic.com/s/stalinistone/v25/MQpS-WezM9W4Dd7D3B7I-UT7SZyeOw.ttf",
-      "eot": "https://fonts.gstatic.com/s/stalinistone/v25/MQpS-WezM9W4Dd7D3B7I-UT7SZyeOg.eot",
+      "woff2": "https://fonts.gstatic.com/s/stalinistone/v26/MQpS-WezM9W4Dd7D3B7I-UT7SZyePg.woff2",
+      "woff": "https://fonts.gstatic.com/s/stalinistone/v26/MQpS-WezM9W4Dd7D3B7I-UT7SZyeOA.woff",
+      "ttf": "https://fonts.gstatic.com/s/stalinistone/v26/MQpS-WezM9W4Dd7D3B7I-UT7SZyeOw.ttf",
       "errored": false
     }
   ],
   "subsets": [
+    "cyrillic",
     "latin",
-    "latin-ext",
-    "cyrillic"
+    "latin-ext"
   ],
   "category": "display",
-  "version": "v25",
-  "lastModified": "2019-12-05",
-  "popularity": 952,
+  "version": "v26",
+  "lastModified": "2020-07-23",
+  "popularity": 985,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
+    "cyrillic": true,
     "latin": true,
-    "latin-ext": false,
-    "cyrillic": true
+    "latin-ext": false
   },
-  "storeID": "cyrillic_latin"
+  "storeID": "latin_cyrillic"
 }

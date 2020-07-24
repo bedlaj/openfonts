@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/meerainimai/v4/845fNMM5EIqOW5MPuvO3ILeZ7mLC.woff2",
+      "woff2": "https://fonts.gstatic.com/s/meerainimai/v5/845fNMM5EIqOW5MPuvO3ILeZ7mLC.woff2",
       "fontFamily": "'Meera Inimai'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,26 +12,26 @@
         "Meera Inimai",
         "MeeraInimai-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/meerainimai/v4/845fNMM5EIqOW5MPuvO3ILeZ7mLG.eot",
-      "woff": "https://fonts.gstatic.com/s/meerainimai/v4/845fNMM5EIqOW5MPuvO3ILeZ7mLE.woff",
-      "ttf": "https://fonts.gstatic.com/s/meerainimai/v4/845fNMM5EIqOW5MPuvO3ILeZ7mLH.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=845fNMM5EIqOW5MPuvO3ILeZ7mLF&skey=117d94e55359b521&v=v4#MeeraInimai",
+      "eot": "https://fonts.gstatic.com/s/meerainimai/v5/845fNMM5EIqOW5MPuvO3ILeZ7mLG.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=845fNMM5EIqOW5MPuvO3ILeZ7mLF&skey=117d94e55359b521&v=v5#MeeraInimai",
+      "woff": "https://fonts.gstatic.com/s/meerainimai/v5/845fNMM5EIqOW5MPuvO3ILeZ7mLE.woff",
+      "ttf": "https://fonts.gstatic.com/s/meerainimai/v5/845fNMM5EIqOW5MPuvO3ILeZ7mLH.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "tamil",
-    "latin"
+    "latin",
+    "tamil"
   ],
   "category": "sans-serif",
-  "version": "v4",
-  "lastModified": "2019-07-16",
-  "popularity": 728,
+  "version": "v5",
+  "lastModified": "2020-07-23",
+  "popularity": 555,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "tamil": true,
-    "latin": true
+    "latin": true,
+    "tamil": true
   },
-  "storeID": "latin_tamil"
+  "storeID": "tamil_latin"
 }

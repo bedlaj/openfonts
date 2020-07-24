@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/rammettoone/v8/LhWiMV3HOfMbMetJG3lQDppNO_Gd.woff2",
+      "eot": "https://fonts.gstatic.com/s/rammettoone/v9/LhWiMV3HOfMbMetJG3lQDppNO_GZ.eot",
       "fontFamily": "'Rammetto One'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/rammettoone/v9/LhWiMV3HOfMbMetJG3lQDppNO_Gb.woff",
       "local": [
         "Rammetto One Regular",
         "RammettoOne-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/rammettoone/v8/LhWiMV3HOfMbMetJG3lQDppNO_GY.ttf",
-      "eot": "https://fonts.gstatic.com/s/rammettoone/v8/LhWiMV3HOfMbMetJG3lQDppNO_GZ.eot",
-      "woff": "https://fonts.gstatic.com/s/rammettoone/v8/LhWiMV3HOfMbMetJG3lQDppNO_Gb.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=LhWiMV3HOfMbMetJG3lQDppNO_Ga&skey=63613ce3f85be896&v=v8#RammettoOne",
+      "woff2": "https://fonts.gstatic.com/s/rammettoone/v9/LhWiMV3HOfMbMetJG3lQDppNO_Gd.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=LhWiMV3HOfMbMetJG3lQDppNO_Ga&skey=63613ce3f85be896&v=v9#RammettoOne",
+      "ttf": "https://fonts.gstatic.com/s/rammettoone/v9/LhWiMV3HOfMbMetJG3lQDppNO_GY.ttf",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "display",
-  "version": "v8",
-  "lastModified": "2019-07-16",
-  "popularity": 593,
+  "version": "v9",
+  "lastModified": "2020-07-23",
+  "popularity": 551,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

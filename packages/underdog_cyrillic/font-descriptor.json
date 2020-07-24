@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/underdog/v8/CHygV-jCElj7diMroWShWVk.woff",
+      "woff": "https://fonts.gstatic.com/s/underdog/v9/CHygV-jCElj7diMroWShWVk.woff",
       "fontFamily": "'Underdog'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,28 +12,28 @@
         "Underdog",
         "Underdog-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/underdog/v8/CHygV-jCElj7diMroWShWVs.eot",
-      "woff2": "https://fonts.gstatic.com/s/underdog/v8/CHygV-jCElj7diMroWShWV8.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=CHygV-jCElj7diMroWShWVg&skey=419e757df0aff982&v=v8#Underdog",
-      "ttf": "https://fonts.gstatic.com/s/underdog/v8/CHygV-jCElj7diMroWShWVo.ttf",
+      "woff2": "https://fonts.gstatic.com/s/underdog/v9/CHygV-jCElj7diMroWShWV8.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=CHygV-jCElj7diMroWShWVg&skey=419e757df0aff982&v=v9#Underdog",
+      "eot": "https://fonts.gstatic.com/s/underdog/v9/CHygV-jCElj7diMroWShWVs.eot",
+      "ttf": "https://fonts.gstatic.com/s/underdog/v9/CHygV-jCElj7diMroWShWVo.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
     "cyrillic",
+    "latin",
     "latin-ext"
   ],
   "category": "display",
-  "version": "v8",
-  "lastModified": "2019-07-16",
-  "popularity": 758,
+  "version": "v9",
+  "lastModified": "2020-07-23",
+  "popularity": 892,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
     "cyrillic": true,
+    "latin": true,
     "latin-ext": false
   },
-  "storeID": "cyrillic_latin"
+  "storeID": "latin_cyrillic"
 }

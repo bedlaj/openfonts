@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/girassol/v1/JTUUjIo_-DK48laaNB9KxW8.eot",
+      "eot": "https://fonts.gstatic.com/s/girassol/v2/JTUUjIo_-DK48laaNB9KxW8.eot",
       "fontFamily": "'Girassol'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "ttf": "https://fonts.gstatic.com/s/girassol/v1/JTUUjIo_-DK48laaNB9KxW4.ttf",
+      "woff2": "https://fonts.gstatic.com/s/girassol/v2/JTUUjIo_-DK48laaNB9KxWs.woff2",
       "local": [
         "Girassol Regular",
         "Girassol-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/girassol/v1/JTUUjIo_-DK48laaNB9KxW0.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=JTUUjIo_-DK48laaNB9KxWw&skey=2cc1dbc883e2a625&v=v1#Girassol",
-      "woff2": "https://fonts.gstatic.com/s/girassol/v1/JTUUjIo_-DK48laaNB9KxWs.woff2",
+      "woff": "https://fonts.gstatic.com/s/girassol/v2/JTUUjIo_-DK48laaNB9KxW0.woff",
+      "ttf": "https://fonts.gstatic.com/s/girassol/v2/JTUUjIo_-DK48laaNB9KxW4.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=JTUUjIo_-DK48laaNB9KxWw&skey=2cc1dbc883e2a625&v=v2#Girassol",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "display",
-  "version": "v1",
-  "lastModified": "2020-03-03",
-  "popularity": 955,
+  "version": "v2",
+  "lastModified": "2020-07-23",
+  "popularity": 670,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

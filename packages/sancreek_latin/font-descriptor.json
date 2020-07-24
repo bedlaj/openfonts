@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=pxiHypAnsdxUm159X4D5V1k&skey=a5236a9ac64b7cf8&v=v10#Sancreek",
+      "woff": "https://fonts.gstatic.com/s/sancreek/v11/pxiHypAnsdxUm159X4D5V1g.woff",
       "fontFamily": "'Sancreek'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Sancreek Regular",
         "Sancreek-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/sancreek/v10/pxiHypAnsdxUm159X4D5V1g.woff",
-      "ttf": "https://fonts.gstatic.com/s/sancreek/v10/pxiHypAnsdxUm159X4D5V1s.ttf",
-      "woff2": "https://fonts.gstatic.com/s/sancreek/v10/pxiHypAnsdxUm159X4D5V14.woff2",
-      "eot": "https://fonts.gstatic.com/s/sancreek/v10/pxiHypAnsdxUm159X4D5V1o.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=pxiHypAnsdxUm159X4D5V1k&skey=a5236a9ac64b7cf8&v=v11#Sancreek",
+      "ttf": "https://fonts.gstatic.com/s/sancreek/v11/pxiHypAnsdxUm159X4D5V1s.ttf",
+      "eot": "https://fonts.gstatic.com/s/sancreek/v11/pxiHypAnsdxUm159X4D5V1o.eot",
+      "woff2": "https://fonts.gstatic.com/s/sancreek/v11/pxiHypAnsdxUm159X4D5V14.woff2",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "display",
-  "version": "v10",
-  "lastModified": "2019-07-16",
-  "popularity": 682,
+  "version": "v11",
+  "lastModified": "2020-07-23",
+  "popularity": 785,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

@@ -4,36 +4,36 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/gabriela/v8/qkBWXvsO6sreR8E-b8m0xL8.eot",
+      "woff2": "https://fonts.gstatic.com/s/gabriela/v9/qkBWXvsO6sreR8E-b8m0xLs.woff2",
       "fontFamily": "'Gabriela'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/gabriela/v8/qkBWXvsO6sreR8E-b8m0xL0.woff",
       "local": [
         "Gabriela Regular",
         "Gabriela-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/gabriela/v8/qkBWXvsO6sreR8E-b8m0xLs.woff2",
-      "ttf": "https://fonts.gstatic.com/s/gabriela/v8/qkBWXvsO6sreR8E-b8m0xL4.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=qkBWXvsO6sreR8E-b8m0xLw&skey=146d0218141ab9a9&v=v8#Gabriela",
+      "svg": "https://fonts.gstatic.com/l/font?kit=qkBWXvsO6sreR8E-b8m0xLw&skey=146d0218141ab9a9&v=v9#Gabriela",
+      "woff": "https://fonts.gstatic.com/s/gabriela/v9/qkBWXvsO6sreR8E-b8m0xL0.woff",
+      "ttf": "https://fonts.gstatic.com/s/gabriela/v9/qkBWXvsO6sreR8E-b8m0xL4.ttf",
+      "eot": "https://fonts.gstatic.com/s/gabriela/v9/qkBWXvsO6sreR8E-b8m0xL8.eot",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
+    "cyrillic",
     "cyrillic-ext",
-    "cyrillic"
+    "latin"
   ],
   "category": "serif",
-  "version": "v8",
-  "lastModified": "2019-07-16",
-  "popularity": 400,
+  "version": "v9",
+  "lastModified": "2020-07-23",
+  "popularity": 506,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
+    "cyrillic": true,
     "cyrillic-ext": true,
-    "cyrillic": true
+    "latin": true
   },
-  "storeID": "cyrillic_cyrillic-ext_latin"
+  "storeID": "latin_cyrillic-ext_cyrillic"
 }

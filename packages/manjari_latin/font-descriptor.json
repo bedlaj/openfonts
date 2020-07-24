@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "100",
-      "woff2": "https://fonts.gstatic.com/s/manjari/v2/k3kSo8UPMOBO2w1UdbrYLGHE.woff2",
+      "woff2": "https://fonts.gstatic.com/s/manjari/v3/k3kSo8UPMOBO2w1UdbrYLGHE.woff2",
       "fontFamily": "'Manjari'",
       "fontStyle": "normal",
       "fontWeight": "100",
@@ -12,15 +12,31 @@
         "Manjari Thin",
         "Manjari-Thin"
       ],
-      "woff": "https://fonts.gstatic.com/s/manjari/v2/k3kSo8UPMOBO2w1UdbrYLGHC.woff",
-      "eot": "https://fonts.gstatic.com/s/manjari/v2/k3kSo8UPMOBO2w1UdbrYLGHA.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=k3kSo8UPMOBO2w1UdbrYLGHD&skey=b189116bf2b64cc7&v=v2#Manjari",
-      "ttf": "https://fonts.gstatic.com/s/manjari/v2/k3kSo8UPMOBO2w1UdbrYLGHB.ttf",
+      "eot": "https://fonts.gstatic.com/s/manjari/v3/k3kSo8UPMOBO2w1UdbrYLGHA.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=k3kSo8UPMOBO2w1UdbrYLGHD&skey=b189116bf2b64cc7&v=v3#Manjari",
+      "ttf": "https://fonts.gstatic.com/s/manjari/v3/k3kSo8UPMOBO2w1UdbrYLGHB.ttf",
+      "woff": "https://fonts.gstatic.com/s/manjari/v3/k3kSo8UPMOBO2w1UdbrYLGHC.woff",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/manjari/v3/k3kVo8UPMOBO2w1UdWLNO0bhKA.eot",
+      "fontFamily": "'Manjari'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/manjari/v3/k3kVo8UPMOBO2w1UdWLNO0bhKg.woff",
+      "local": [
+        "Manjari Bold",
+        "Manjari-Bold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/manjari/v3/k3kVo8UPMOBO2w1UdWLNO0bhLA.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=k3kVo8UPMOBO2w1UdWLNO0bhKw&skey=f71b24a7ab4e0c25&v=v3#Manjari",
+      "ttf": "https://fonts.gstatic.com/s/manjari/v3/k3kVo8UPMOBO2w1UdWLNO0bhKQ.ttf",
       "errored": false
     },
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/manjari/v2/k3kQo8UPMOBO2w1UfdnoKA.woff",
+      "woff": "https://fonts.gstatic.com/s/manjari/v3/k3kQo8UPMOBO2w1UfdnoKA.woff",
       "fontFamily": "'Manjari'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -28,42 +44,26 @@
         "Manjari Regular",
         "Manjari-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/manjari/v2/k3kQo8UPMOBO2w1UfdnoLg.woff2",
-      "eot": "https://fonts.gstatic.com/s/manjari/v2/k3kQo8UPMOBO2w1UfdnoKg.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=k3kQo8UPMOBO2w1UfdnoKQ&skey=46aa6c1774caed83&v=v2#Manjari",
-      "ttf": "https://fonts.gstatic.com/s/manjari/v2/k3kQo8UPMOBO2w1UfdnoKw.ttf",
-      "errored": false
-    },
-    {
-      "id": "700",
-      "eot": "https://fonts.gstatic.com/s/manjari/v2/k3kVo8UPMOBO2w1UdWLNO0bhKA.eot",
-      "fontFamily": "'Manjari'",
-      "fontStyle": "normal",
-      "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/manjari/v2/k3kVo8UPMOBO2w1UdWLNO0bhKg.woff",
-      "local": [
-        "Manjari Bold",
-        "Manjari-Bold"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/manjari/v2/k3kVo8UPMOBO2w1UdWLNO0bhLA.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=k3kVo8UPMOBO2w1UdWLNO0bhKw&skey=f71b24a7ab4e0c25&v=v2#Manjari",
-      "ttf": "https://fonts.gstatic.com/s/manjari/v2/k3kVo8UPMOBO2w1UdWLNO0bhKQ.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=k3kQo8UPMOBO2w1UfdnoKQ&skey=46aa6c1774caed83&v=v3#Manjari",
+      "woff2": "https://fonts.gstatic.com/s/manjari/v3/k3kQo8UPMOBO2w1UfdnoLg.woff2",
+      "ttf": "https://fonts.gstatic.com/s/manjari/v3/k3kQo8UPMOBO2w1UfdnoKw.ttf",
+      "eot": "https://fonts.gstatic.com/s/manjari/v3/k3kQo8UPMOBO2w1UfdnoKg.eot",
       "errored": false
     }
   ],
   "subsets": [
-    "malayalam",
-    "latin"
+    "latin",
+    "malayalam"
   ],
   "category": "sans-serif",
-  "version": "v2",
-  "lastModified": "2019-11-05",
-  "popularity": 650,
+  "version": "v3",
+  "lastModified": "2020-07-23",
+  "popularity": 517,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "malayalam": false,
-    "latin": true
+    "latin": true,
+    "malayalam": false
   },
   "storeID": "latin"
 }

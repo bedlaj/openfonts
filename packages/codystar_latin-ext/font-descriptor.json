@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "300",
-      "woff2": "https://fonts.gstatic.com/s/codystar/v7/FwZf7-Q1xVk-40qxOuYsytyihUY.woff2",
+      "woff": "https://fonts.gstatic.com/s/codystar/v8/FwZf7-Q1xVk-40qxOuYsytyihUA.woff",
       "fontFamily": "'Codystar'",
       "fontStyle": "normal",
       "fontWeight": "300",
@@ -12,25 +12,25 @@
         "Codystar Light",
         "Codystar-Light"
       ],
-      "eot": "https://fonts.gstatic.com/s/codystar/v7/FwZf7-Q1xVk-40qxOuYsytyihUI.eot",
-      "woff": "https://fonts.gstatic.com/s/codystar/v7/FwZf7-Q1xVk-40qxOuYsytyihUA.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=FwZf7-Q1xVk-40qxOuYsytyihUE&skey=6c4a048055cc7f7b&v=v7#Codystar",
-      "ttf": "https://fonts.gstatic.com/s/codystar/v7/FwZf7-Q1xVk-40qxOuYsytyihUM.ttf",
+      "woff2": "https://fonts.gstatic.com/s/codystar/v8/FwZf7-Q1xVk-40qxOuYsytyihUY.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=FwZf7-Q1xVk-40qxOuYsytyihUE&skey=6c4a048055cc7f7b&v=v8#Codystar",
+      "eot": "https://fonts.gstatic.com/s/codystar/v8/FwZf7-Q1xVk-40qxOuYsytyihUI.eot",
+      "ttf": "https://fonts.gstatic.com/s/codystar/v8/FwZf7-Q1xVk-40qxOuYsytyihUM.ttf",
       "errored": false
     },
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/codystar/v7/FwZY7-Q1xVk-40qxOu6J6M0.eot",
+      "woff": "https://fonts.gstatic.com/s/codystar/v8/FwZY7-Q1xVk-40qxOu6J6M8.woff",
       "fontFamily": "'Codystar'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/codystar/v7/FwZY7-Q1xVk-40qxOu6J6Mk.woff2",
       "local": [
         "Codystar"
       ],
-      "woff": "https://fonts.gstatic.com/s/codystar/v7/FwZY7-Q1xVk-40qxOu6J6M8.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=FwZY7-Q1xVk-40qxOu6J6M4&skey=5d796f9025f59d2&v=v7#Codystar",
-      "ttf": "https://fonts.gstatic.com/s/codystar/v7/FwZY7-Q1xVk-40qxOu6J6Mw.ttf",
+      "eot": "https://fonts.gstatic.com/s/codystar/v8/FwZY7-Q1xVk-40qxOu6J6M0.eot",
+      "woff2": "https://fonts.gstatic.com/s/codystar/v8/FwZY7-Q1xVk-40qxOu6J6Mk.woff2",
+      "ttf": "https://fonts.gstatic.com/s/codystar/v8/FwZY7-Q1xVk-40qxOu6J6Mw.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=FwZY7-Q1xVk-40qxOu6J6M4&skey=5d796f9025f59d2&v=v8#Codystar",
       "errored": false
     }
   ],
@@ -39,9 +39,9 @@
     "latin-ext"
   ],
   "category": "display",
-  "version": "v7",
-  "lastModified": "2019-07-16",
-  "popularity": 620,
+  "version": "v8",
+  "lastModified": "2020-07-23",
+  "popularity": 478,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

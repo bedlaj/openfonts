@@ -4,34 +4,34 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/raviprakash/v6/gokpH6fsDkVrF9Bv9X8SOAK3g9xB.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=gokpH6fsDkVrF9Bv9X8SOAK3g9xC&skey=9bf559893359bc97&v=v7#RaviPrakash",
       "fontFamily": "'Ravi Prakash'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/raviprakash/v6/gokpH6fsDkVrF9Bv9X8SOAK3g9xD.woff",
       "local": [
         "Ravi Prakash",
         "RaviPrakash-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/raviprakash/v6/gokpH6fsDkVrF9Bv9X8SOAK3g9xF.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=gokpH6fsDkVrF9Bv9X8SOAK3g9xC&skey=9bf559893359bc97&v=v6#RaviPrakash",
-      "ttf": "https://fonts.gstatic.com/s/raviprakash/v6/gokpH6fsDkVrF9Bv9X8SOAK3g9xA.ttf",
+      "ttf": "https://fonts.gstatic.com/s/raviprakash/v7/gokpH6fsDkVrF9Bv9X8SOAK3g9xA.ttf",
+      "woff2": "https://fonts.gstatic.com/s/raviprakash/v7/gokpH6fsDkVrF9Bv9X8SOAK3g9xF.woff2",
+      "woff": "https://fonts.gstatic.com/s/raviprakash/v7/gokpH6fsDkVrF9Bv9X8SOAK3g9xD.woff",
+      "eot": "https://fonts.gstatic.com/s/raviprakash/v7/gokpH6fsDkVrF9Bv9X8SOAK3g9xB.eot",
       "errored": false
     }
   ],
   "subsets": [
-    "telugu",
-    "latin"
+    "latin",
+    "telugu"
   ],
   "category": "display",
-  "version": "v6",
-  "lastModified": "2019-07-16",
-  "popularity": 797,
+  "version": "v7",
+  "lastModified": "2020-07-23",
+  "popularity": 911,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "telugu": true,
-    "latin": true
+    "latin": true,
+    "telugu": true
   },
-  "storeID": "latin_telugu"
+  "storeID": "telugu_latin"
 }

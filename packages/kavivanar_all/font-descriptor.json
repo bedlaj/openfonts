@@ -4,36 +4,36 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/kavivanar/v5/o-0IIpQgyXYSwhxP7_Jb4w.eot",
+      "eot": "https://fonts.gstatic.com/s/kavivanar/v6/o-0IIpQgyXYSwhxP7_Jb4w.eot",
       "fontFamily": "'Kavivanar'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/kavivanar/v5/o-0IIpQgyXYSwhxP7_Jb5w.woff2",
+      "woff": "https://fonts.gstatic.com/s/kavivanar/v6/o-0IIpQgyXYSwhxP7_Jb4Q.woff",
       "local": [
         "Kavivanar Regular",
         "Kavivanar-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=o-0IIpQgyXYSwhxP7_Jb4A&skey=171e1659f41f9002&v=v5#Kavivanar",
-      "woff": "https://fonts.gstatic.com/s/kavivanar/v5/o-0IIpQgyXYSwhxP7_Jb4Q.woff",
-      "ttf": "https://fonts.gstatic.com/s/kavivanar/v5/o-0IIpQgyXYSwhxP7_Jb4g.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=o-0IIpQgyXYSwhxP7_Jb4A&skey=171e1659f41f9002&v=v6#Kavivanar",
+      "ttf": "https://fonts.gstatic.com/s/kavivanar/v6/o-0IIpQgyXYSwhxP7_Jb4g.ttf",
+      "woff2": "https://fonts.gstatic.com/s/kavivanar/v6/o-0IIpQgyXYSwhxP7_Jb5w.woff2",
       "errored": false
     }
   ],
   "subsets": [
-    "tamil",
     "latin",
-    "latin-ext"
+    "latin-ext",
+    "tamil"
   ],
   "category": "handwriting",
-  "version": "v5",
-  "lastModified": "2019-07-16",
-  "popularity": 815,
+  "version": "v6",
+  "lastModified": "2020-07-23",
+  "popularity": 895,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "tamil": true,
     "latin": true,
-    "latin-ext": true
+    "latin-ext": true,
+    "tamil": true
   },
-  "storeID": "latin-ext_latin_tamil"
+  "storeID": "tamil_latin-ext_latin"
 }

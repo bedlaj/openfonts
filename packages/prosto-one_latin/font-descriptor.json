@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/prostoone/v8/OpNJno4VhNfK-RgpwWWxli1VWw.woff2",
+      "ttf": "https://fonts.gstatic.com/s/prostoone/v9/OpNJno4VhNfK-RgpwWWxli1VXg.ttf",
       "fontFamily": "'Prosto One'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,27 +12,27 @@
         "Prosto One",
         "ProstoOne-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=OpNJno4VhNfK-RgpwWWxli1VXA&skey=dd4f849bff091329&v=v8#ProstoOne",
-      "woff": "https://fonts.gstatic.com/s/prostoone/v8/OpNJno4VhNfK-RgpwWWxli1VXQ.woff",
-      "eot": "https://fonts.gstatic.com/s/prostoone/v8/OpNJno4VhNfK-RgpwWWxli1VXw.eot",
-      "ttf": "https://fonts.gstatic.com/s/prostoone/v8/OpNJno4VhNfK-RgpwWWxli1VXg.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=OpNJno4VhNfK-RgpwWWxli1VXA&skey=dd4f849bff091329&v=v9#ProstoOne",
+      "woff2": "https://fonts.gstatic.com/s/prostoone/v9/OpNJno4VhNfK-RgpwWWxli1VWw.woff2",
+      "eot": "https://fonts.gstatic.com/s/prostoone/v9/OpNJno4VhNfK-RgpwWWxli1VXw.eot",
+      "woff": "https://fonts.gstatic.com/s/prostoone/v9/OpNJno4VhNfK-RgpwWWxli1VXQ.woff",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
     "cyrillic",
+    "latin",
     "latin-ext"
   ],
   "category": "display",
-  "version": "v8",
-  "lastModified": "2019-07-16",
-  "popularity": 393,
+  "version": "v9",
+  "lastModified": "2020-07-23",
+  "popularity": 620,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
     "cyrillic": false,
+    "latin": true,
     "latin-ext": false
   },
   "storeID": "latin"

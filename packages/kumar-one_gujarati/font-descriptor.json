@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/kumarone/v4/bMr1mS-P958wYi6YaGe2KOSS.ttf",
+      "woff": "https://fonts.gstatic.com/s/kumarone/v5/bMr1mS-P958wYi6YaGe2KOSR.woff",
       "fontFamily": "'Kumar One'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Kumar One",
         "KumarOne-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/kumarone/v4/bMr1mS-P958wYi6YaGe2KOSX.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=bMr1mS-P958wYi6YaGe2KOSQ&skey=eb34840884e61733&v=v4#KumarOne",
-      "eot": "https://fonts.gstatic.com/s/kumarone/v4/bMr1mS-P958wYi6YaGe2KOST.eot",
-      "woff": "https://fonts.gstatic.com/s/kumarone/v4/bMr1mS-P958wYi6YaGe2KOSR.woff",
+      "woff2": "https://fonts.gstatic.com/s/kumarone/v5/bMr1mS-P958wYi6YaGe2KOSX.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=bMr1mS-P958wYi6YaGe2KOSQ&skey=eb34840884e61733&v=v5#KumarOne",
+      "eot": "https://fonts.gstatic.com/s/kumarone/v5/bMr1mS-P958wYi6YaGe2KOST.eot",
+      "ttf": "https://fonts.gstatic.com/s/kumarone/v5/bMr1mS-P958wYi6YaGe2KOSS.ttf",
       "errored": false
     }
   ],
@@ -25,9 +25,9 @@
     "latin-ext"
   ],
   "category": "display",
-  "version": "v4",
-  "lastModified": "2019-07-16",
-  "popularity": 673,
+  "version": "v5",
+  "lastModified": "2020-07-23",
+  "popularity": 696,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

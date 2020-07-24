@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=kmKmZrYrGBbdN1aV7Vokow6Lw4s4p7R-SQ&skey=570b1be17ddba092&v=v8#PortLligatSans",
+      "woff": "https://fonts.gstatic.com/s/portlligatsans/v9/kmKmZrYrGBbdN1aV7Vokow6Lw4s4p7R-SA.woff",
       "fontFamily": "'Port Lligat Sans'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Port Lligat Sans",
         "PortLligatSans-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/portlligatsans/v8/kmKmZrYrGBbdN1aV7Vokow6Lw4s4p7R-SA.woff",
-      "woff2": "https://fonts.gstatic.com/s/portlligatsans/v8/kmKmZrYrGBbdN1aV7Vokow6Lw4s4p7R-Tg.woff2",
-      "eot": "https://fonts.gstatic.com/s/portlligatsans/v8/kmKmZrYrGBbdN1aV7Vokow6Lw4s4p7R-Sg.eot",
-      "ttf": "https://fonts.gstatic.com/s/portlligatsans/v8/kmKmZrYrGBbdN1aV7Vokow6Lw4s4p7R-Sw.ttf",
+      "eot": "https://fonts.gstatic.com/s/portlligatsans/v9/kmKmZrYrGBbdN1aV7Vokow6Lw4s4p7R-Sg.eot",
+      "woff2": "https://fonts.gstatic.com/s/portlligatsans/v9/kmKmZrYrGBbdN1aV7Vokow6Lw4s4p7R-Tg.woff2",
+      "ttf": "https://fonts.gstatic.com/s/portlligatsans/v9/kmKmZrYrGBbdN1aV7Vokow6Lw4s4p7R-Sw.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=kmKmZrYrGBbdN1aV7Vokow6Lw4s4p7R-SQ&skey=570b1be17ddba092&v=v9#PortLligatSans",
       "errored": false
     }
   ],
@@ -23,9 +23,9 @@
     "latin"
   ],
   "category": "sans-serif",
-  "version": "v8",
-  "lastModified": "2019-07-16",
-  "popularity": 719,
+  "version": "v9",
+  "lastModified": "2020-07-23",
+  "popularity": 661,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

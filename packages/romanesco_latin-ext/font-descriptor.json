@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/romanesco/v8/w8gYH2ozQOY7_r_J7mSX1XYP.ttf",
+      "eot": "https://fonts.gstatic.com/s/romanesco/v9/w8gYH2ozQOY7_r_J7mSX1XYO.eot",
       "fontFamily": "'Romanesco'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/romanesco/v9/w8gYH2ozQOY7_r_J7mSX1XYM.woff",
       "local": [
         "Romanesco",
         "Romanesco-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/romanesco/v8/w8gYH2ozQOY7_r_J7mSX1XYO.eot",
-      "woff2": "https://fonts.gstatic.com/s/romanesco/v8/w8gYH2ozQOY7_r_J7mSX1XYK.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=w8gYH2ozQOY7_r_J7mSX1XYN&skey=dce06ed1e7f19359&v=v8#Romanesco",
-      "woff": "https://fonts.gstatic.com/s/romanesco/v8/w8gYH2ozQOY7_r_J7mSX1XYM.woff",
+      "woff2": "https://fonts.gstatic.com/s/romanesco/v9/w8gYH2ozQOY7_r_J7mSX1XYK.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=w8gYH2ozQOY7_r_J7mSX1XYN&skey=dce06ed1e7f19359&v=v9#Romanesco",
+      "ttf": "https://fonts.gstatic.com/s/romanesco/v9/w8gYH2ozQOY7_r_J7mSX1XYP.ttf",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "handwriting",
-  "version": "v8",
-  "lastModified": "2019-07-16",
-  "popularity": 852,
+  "version": "v9",
+  "lastModified": "2020-07-23",
+  "popularity": 918,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

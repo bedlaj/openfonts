@@ -4,33 +4,33 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/gurajada/v7/FwZY7-Qx308m-l-0Ke6b6M0.eot",
+      "eot": "https://fonts.gstatic.com/s/gurajada/v8/FwZY7-Qx308m-l-0Ke6b6M0.eot",
       "fontFamily": "'Gurajada'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/gurajada/v7/FwZY7-Qx308m-l-0Ke6b6M8.woff",
+      "woff": "https://fonts.gstatic.com/s/gurajada/v8/FwZY7-Qx308m-l-0Ke6b6M8.woff",
       "local": [
         "Gurajada"
       ],
-      "woff2": "https://fonts.gstatic.com/s/gurajada/v7/FwZY7-Qx308m-l-0Ke6b6Mk.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=FwZY7-Qx308m-l-0Ke6b6M4&skey=6cdaef1bf910cd15&v=v7#Gurajada",
-      "ttf": "https://fonts.gstatic.com/s/gurajada/v7/FwZY7-Qx308m-l-0Ke6b6Mw.ttf",
+      "woff2": "https://fonts.gstatic.com/s/gurajada/v8/FwZY7-Qx308m-l-0Ke6b6Mk.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=FwZY7-Qx308m-l-0Ke6b6M4&skey=6cdaef1bf910cd15&v=v8#Gurajada",
+      "ttf": "https://fonts.gstatic.com/s/gurajada/v8/FwZY7-Qx308m-l-0Ke6b6Mw.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "telugu",
-    "latin"
+    "latin",
+    "telugu"
   ],
   "category": "serif",
-  "version": "v7",
-  "lastModified": "2019-07-16",
-  "popularity": 512,
+  "version": "v8",
+  "lastModified": "2020-07-23",
+  "popularity": 487,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "telugu": true,
-    "latin": true
+    "latin": true,
+    "telugu": true
   },
-  "storeID": "latin_telugu"
+  "storeID": "telugu_latin"
 }

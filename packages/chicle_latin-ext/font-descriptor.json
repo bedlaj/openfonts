@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/chicle/v8/lJwG-pw9i2dqU-BzwGiq.ttf",
+      "eot": "https://fonts.gstatic.com/s/chicle/v9/lJwG-pw9i2dqU-BzwGir.eot",
       "fontFamily": "'Chicle'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/chicle/v9/lJwG-pw9i2dqU-BzwGip.woff",
       "local": [
         "Chicle Regular",
         "Chicle-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/chicle/v8/lJwG-pw9i2dqU-BzwGir.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=lJwG-pw9i2dqU-BzwGio&skey=446ff37347f80fd9&v=v8#Chicle",
-      "woff2": "https://fonts.gstatic.com/s/chicle/v8/lJwG-pw9i2dqU-BzwGiv.woff2",
-      "woff": "https://fonts.gstatic.com/s/chicle/v8/lJwG-pw9i2dqU-BzwGip.woff",
+      "woff2": "https://fonts.gstatic.com/s/chicle/v9/lJwG-pw9i2dqU-BzwGiv.woff2",
+      "ttf": "https://fonts.gstatic.com/s/chicle/v9/lJwG-pw9i2dqU-BzwGiq.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=lJwG-pw9i2dqU-BzwGio&skey=446ff37347f80fd9&v=v9#Chicle",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "display",
-  "version": "v8",
-  "lastModified": "2019-07-16",
-  "popularity": 675,
+  "version": "v9",
+  "lastModified": "2020-07-23",
+  "popularity": 730,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

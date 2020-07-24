@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/singleday/v1/LYjHdGDjlEgoAcF95EI5vVcPVQ.eot",
+      "woff2": "https://fonts.gstatic.com/s/singleday/v2/LYjHdGDjlEgoAcF95EI5vVcPUQ.woff2",
       "fontFamily": "'Single Day'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/singleday/v1/LYjHdGDjlEgoAcF95EI5vVcPVw.woff",
       "local": [
         "Single Day Regular",
         "SingleDay-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/singleday/v1/LYjHdGDjlEgoAcF95EI5vVcPUQ.woff2",
-      "ttf": "https://fonts.gstatic.com/s/singleday/v1/LYjHdGDjlEgoAcF95EI5vVcPVA.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=LYjHdGDjlEgoAcF95EI5vVcPVg&skey=8be73a6b89855e0e&v=v1#SingleDay",
+      "woff": "https://fonts.gstatic.com/s/singleday/v2/LYjHdGDjlEgoAcF95EI5vVcPVw.woff",
+      "eot": "https://fonts.gstatic.com/s/singleday/v2/LYjHdGDjlEgoAcF95EI5vVcPVQ.eot",
+      "ttf": "https://fonts.gstatic.com/s/singleday/v2/LYjHdGDjlEgoAcF95EI5vVcPVA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=LYjHdGDjlEgoAcF95EI5vVcPVg&skey=8be73a6b89855e0e&v=v2#SingleDay",
       "errored": false
     }
   ],
@@ -23,9 +23,9 @@
     "korean"
   ],
   "category": "display",
-  "version": "v1",
-  "lastModified": "2020-03-03",
-  "popularity": 972,
+  "version": "v2",
+  "lastModified": "2020-07-23",
+  "popularity": 974,
   "defSubset": "korean",
   "defVariant": "regular",
   "subsetMap": {

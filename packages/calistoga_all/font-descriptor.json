@@ -4,36 +4,36 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/calistoga/v1/6NUU8F2OJg6MeR7l4e0vtQ.eot",
+      "eot": "https://fonts.gstatic.com/s/calistoga/v2/6NUU8F2OJg6MeR7l4e0vtQ.eot",
       "fontFamily": "'Calistoga'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/calistoga/v1/6NUU8F2OJg6MeR7l4e0vsQ.woff2",
+      "woff2": "https://fonts.gstatic.com/s/calistoga/v2/6NUU8F2OJg6MeR7l4e0vsQ.woff2",
       "local": [
         "Calistoga Regular",
         "Calistoga-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=6NUU8F2OJg6MeR7l4e0vtg&skey=e8e8bbd2bc5db823&v=v1#Calistoga",
-      "woff": "https://fonts.gstatic.com/s/calistoga/v1/6NUU8F2OJg6MeR7l4e0vtw.woff",
-      "ttf": "https://fonts.gstatic.com/s/calistoga/v1/6NUU8F2OJg6MeR7l4e0vtA.ttf",
+      "woff": "https://fonts.gstatic.com/s/calistoga/v2/6NUU8F2OJg6MeR7l4e0vtw.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=6NUU8F2OJg6MeR7l4e0vtg&skey=e8e8bbd2bc5db823&v=v2#Calistoga",
+      "ttf": "https://fonts.gstatic.com/s/calistoga/v2/6NUU8F2OJg6MeR7l4e0vtA.ttf",
       "errored": false
     }
   ],
   "subsets": [
     "latin",
-    "vietnamese",
-    "latin-ext"
+    "latin-ext",
+    "vietnamese"
   ],
   "category": "display",
-  "version": "v1",
-  "lastModified": "2020-03-03",
-  "popularity": 834,
+  "version": "v2",
+  "lastModified": "2020-07-23",
+  "popularity": 719,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "latin": true,
-    "vietnamese": true,
-    "latin-ext": true
+    "latin-ext": true,
+    "vietnamese": true
   },
-  "storeID": "latin-ext_vietnamese_latin"
+  "storeID": "vietnamese_latin-ext_latin"
 }

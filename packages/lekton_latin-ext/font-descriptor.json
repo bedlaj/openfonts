@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/lekton/v10/SZc43FDmLaWmWpBuVh3p.woff2",
+      "woff2": "https://fonts.gstatic.com/s/lekton/v11/SZc43FDmLaWmWpBuVh3p.woff2",
       "fontFamily": "'Lekton'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,40 +12,40 @@
         "Lekton",
         "Lekton-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=SZc43FDmLaWmWpBuVh3u&skey=ea1e370f252c6f8d&v=v10#Lekton",
-      "eot": "https://fonts.gstatic.com/s/lekton/v10/SZc43FDmLaWmWpBuVh3t.eot",
-      "woff": "https://fonts.gstatic.com/s/lekton/v10/SZc43FDmLaWmWpBuVh3v.woff",
-      "ttf": "https://fonts.gstatic.com/s/lekton/v10/SZc43FDmLaWmWpBuVh3s.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=SZc43FDmLaWmWpBuVh3u&skey=ea1e370f252c6f8d&v=v11#Lekton",
+      "eot": "https://fonts.gstatic.com/s/lekton/v11/SZc43FDmLaWmWpBuVh3t.eot",
+      "ttf": "https://fonts.gstatic.com/s/lekton/v11/SZc43FDmLaWmWpBuVh3s.ttf",
+      "woff": "https://fonts.gstatic.com/s/lekton/v11/SZc43FDmLaWmWpBuVh3v.woff",
       "errored": false
     },
     {
       "id": "italic",
-      "woff2": "https://fonts.gstatic.com/s/lekton/v10/SZc63FDmLaWmWpBuXS3ltUc.woff2",
+      "woff": "https://fonts.gstatic.com/s/lekton/v11/SZc63FDmLaWmWpBuXS3ltUE.woff",
       "fontFamily": "'Lekton'",
       "fontStyle": "italic",
       "fontWeight": "400",
       "local": [
         "Lekton-Italic"
       ],
-      "woff": "https://fonts.gstatic.com/s/lekton/v10/SZc63FDmLaWmWpBuXS3ltUE.woff",
-      "ttf": "https://fonts.gstatic.com/s/lekton/v10/SZc63FDmLaWmWpBuXS3ltUI.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=SZc63FDmLaWmWpBuXS3ltUA&skey=f90240a45c2af78&v=v10#Lekton",
-      "eot": "https://fonts.gstatic.com/s/lekton/v10/SZc63FDmLaWmWpBuXS3ltUM.eot",
+      "eot": "https://fonts.gstatic.com/s/lekton/v11/SZc63FDmLaWmWpBuXS3ltUM.eot",
+      "woff2": "https://fonts.gstatic.com/s/lekton/v11/SZc63FDmLaWmWpBuXS3ltUc.woff2",
+      "ttf": "https://fonts.gstatic.com/s/lekton/v11/SZc63FDmLaWmWpBuXS3ltUI.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=SZc63FDmLaWmWpBuXS3ltUA&skey=f90240a45c2af78&v=v11#Lekton",
       "errored": false
     },
     {
       "id": "700",
-      "eot": "https://fonts.gstatic.com/s/lekton/v10/SZc73FDmLaWmWpBm4zj8nGLS.eot",
+      "eot": "https://fonts.gstatic.com/s/lekton/v11/SZc73FDmLaWmWpBm4zj8nGLS.eot",
       "fontFamily": "'Lekton'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "svg": "https://fonts.gstatic.com/l/font?kit=SZc73FDmLaWmWpBm4zj8nGLR&skey=bda8e77f1d703414&v=v10#Lekton",
+      "woff": "https://fonts.gstatic.com/s/lekton/v11/SZc73FDmLaWmWpBm4zj8nGLQ.woff",
       "local": [
         "Lekton-Bold"
       ],
-      "ttf": "https://fonts.gstatic.com/s/lekton/v10/SZc73FDmLaWmWpBm4zj8nGLT.ttf",
-      "woff2": "https://fonts.gstatic.com/s/lekton/v10/SZc73FDmLaWmWpBm4zj8nGLW.woff2",
-      "woff": "https://fonts.gstatic.com/s/lekton/v10/SZc73FDmLaWmWpBm4zj8nGLQ.woff",
+      "woff2": "https://fonts.gstatic.com/s/lekton/v11/SZc73FDmLaWmWpBm4zj8nGLW.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=SZc73FDmLaWmWpBm4zj8nGLR&skey=bda8e77f1d703414&v=v11#Lekton",
+      "ttf": "https://fonts.gstatic.com/s/lekton/v11/SZc73FDmLaWmWpBm4zj8nGLT.ttf",
       "errored": false
     }
   ],
@@ -54,9 +54,9 @@
     "latin-ext"
   ],
   "category": "sans-serif",
-  "version": "v10",
-  "lastModified": "2019-07-16",
-  "popularity": 361,
+  "version": "v11",
+  "lastModified": "2020-07-23",
+  "popularity": 475,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

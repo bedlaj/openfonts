@@ -4,17 +4,17 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/delius/v9/PN_xRfK0pW_9e1rdZsg5.woff",
+      "woff2": "https://fonts.gstatic.com/s/delius/v10/PN_xRfK0pW_9e1rdZsg_.woff2",
       "fontFamily": "'Delius'",
       "fontStyle": "normal",
       "fontWeight": "400",
       "local": [
         "Delius-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/delius/v9/PN_xRfK0pW_9e1rdZsg_.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=PN_xRfK0pW_9e1rdZsg4&skey=f36ed9ae8917239c&v=v9#Delius",
-      "eot": "https://fonts.gstatic.com/s/delius/v9/PN_xRfK0pW_9e1rdZsg7.eot",
-      "ttf": "https://fonts.gstatic.com/s/delius/v9/PN_xRfK0pW_9e1rdZsg6.ttf",
+      "eot": "https://fonts.gstatic.com/s/delius/v10/PN_xRfK0pW_9e1rdZsg7.eot",
+      "ttf": "https://fonts.gstatic.com/s/delius/v10/PN_xRfK0pW_9e1rdZsg6.ttf",
+      "woff": "https://fonts.gstatic.com/s/delius/v10/PN_xRfK0pW_9e1rdZsg5.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=PN_xRfK0pW_9e1rdZsg4&skey=f36ed9ae8917239c&v=v10#Delius",
       "errored": false
     }
   ],
@@ -22,9 +22,9 @@
     "latin"
   ],
   "category": "handwriting",
-  "version": "v9",
-  "lastModified": "2019-07-16",
-  "popularity": 420,
+  "version": "v10",
+  "lastModified": "2020-07-23",
+  "popularity": 469,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

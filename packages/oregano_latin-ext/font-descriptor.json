@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/oregano/v7/If2IXTPxciS3H4S2oZ7VOw.ttf",
+      "ttf": "https://fonts.gstatic.com/s/oregano/v8/If2IXTPxciS3H4S2oZ7VOw.ttf",
       "fontFamily": "'Oregano'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,15 +12,15 @@
         "Oregano",
         "Oregano-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/oregano/v7/If2IXTPxciS3H4S2oZ7VOA.woff",
-      "woff2": "https://fonts.gstatic.com/s/oregano/v7/If2IXTPxciS3H4S2oZ7VPg.woff2",
-      "eot": "https://fonts.gstatic.com/s/oregano/v7/If2IXTPxciS3H4S2oZ7VOg.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=If2IXTPxciS3H4S2oZ7VOQ&skey=dd6c9651a76f041a&v=v7#Oregano",
+      "eot": "https://fonts.gstatic.com/s/oregano/v8/If2IXTPxciS3H4S2oZ7VOg.eot",
+      "woff2": "https://fonts.gstatic.com/s/oregano/v8/If2IXTPxciS3H4S2oZ7VPg.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=If2IXTPxciS3H4S2oZ7VOQ&skey=dd6c9651a76f041a&v=v8#Oregano",
+      "woff": "https://fonts.gstatic.com/s/oregano/v8/If2IXTPxciS3H4S2oZ7VOA.woff",
       "errored": false
     },
     {
       "id": "italic",
-      "woff": "https://fonts.gstatic.com/s/oregano/v7/If2KXTPxciS3H4S2oZXlMhHM.woff",
+      "woff2": "https://fonts.gstatic.com/s/oregano/v8/If2KXTPxciS3H4S2oZXlMhHK.woff2",
       "fontFamily": "'Oregano'",
       "fontStyle": "italic",
       "fontWeight": "400",
@@ -28,10 +28,10 @@
         "Oregano Italic",
         "Oregano-Italic"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=If2KXTPxciS3H4S2oZXlMhHN&skey=c349953193d858e4&v=v7#Oregano",
-      "ttf": "https://fonts.gstatic.com/s/oregano/v7/If2KXTPxciS3H4S2oZXlMhHP.ttf",
-      "woff2": "https://fonts.gstatic.com/s/oregano/v7/If2KXTPxciS3H4S2oZXlMhHK.woff2",
-      "eot": "https://fonts.gstatic.com/s/oregano/v7/If2KXTPxciS3H4S2oZXlMhHO.eot",
+      "eot": "https://fonts.gstatic.com/s/oregano/v8/If2KXTPxciS3H4S2oZXlMhHO.eot",
+      "woff": "https://fonts.gstatic.com/s/oregano/v8/If2KXTPxciS3H4S2oZXlMhHM.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=If2KXTPxciS3H4S2oZXlMhHN&skey=c349953193d858e4&v=v8#Oregano",
+      "ttf": "https://fonts.gstatic.com/s/oregano/v8/If2KXTPxciS3H4S2oZXlMhHP.ttf",
       "errored": false
     }
   ],
@@ -40,9 +40,9 @@
     "latin-ext"
   ],
   "category": "display",
-  "version": "v7",
-  "lastModified": "2019-07-16",
-  "popularity": 500,
+  "version": "v8",
+  "lastModified": "2020-07-23",
+  "popularity": 581,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

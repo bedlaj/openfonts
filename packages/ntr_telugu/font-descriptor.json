@@ -4,33 +4,33 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/ntr/v7/RLpzK5Xy0ZjSA2Jr.woff",
+      "woff": "https://fonts.gstatic.com/s/ntr/v8/RLpzK5Xy0ZjSA2Jr.woff",
       "fontFamily": "'NTR'",
       "fontStyle": "normal",
       "fontWeight": "400",
       "local": [
         "NTR"
       ],
-      "ttf": "https://fonts.gstatic.com/s/ntr/v7/RLpzK5Xy0ZjSA2Jo.ttf",
-      "woff2": "https://fonts.gstatic.com/s/ntr/v7/RLpzK5Xy0ZjSA2Jt.woff2",
-      "eot": "https://fonts.gstatic.com/s/ntr/v7/RLpzK5Xy0ZjSA2Jp.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=RLpzK5Xy0ZjSA2Jq&skey=999f4d6f4b731465&v=v7#NTR",
+      "ttf": "https://fonts.gstatic.com/s/ntr/v8/RLpzK5Xy0ZjSA2Jo.ttf",
+      "woff2": "https://fonts.gstatic.com/s/ntr/v8/RLpzK5Xy0ZjSA2Jt.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=RLpzK5Xy0ZjSA2Jq&skey=999f4d6f4b731465&v=v8#NTR",
+      "eot": "https://fonts.gstatic.com/s/ntr/v8/RLpzK5Xy0ZjSA2Jp.eot",
       "errored": false
     }
   ],
   "subsets": [
-    "telugu",
-    "latin"
+    "latin",
+    "telugu"
   ],
   "category": "sans-serif",
-  "version": "v7",
-  "lastModified": "2019-07-16",
-  "popularity": 555,
+  "version": "v8",
+  "lastModified": "2020-07-23",
+  "popularity": 575,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "telugu": true,
-    "latin": true
+    "latin": true,
+    "telugu": true
   },
-  "storeID": "latin_telugu"
+  "storeID": "telugu_latin"
 }

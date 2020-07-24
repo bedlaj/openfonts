@@ -4,17 +4,17 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/moul/v11/nuF2D__FSo_3I-hSjA.ttf",
+      "woff2": "https://fonts.gstatic.com/s/moul/v12/nuF2D__FSo_3I-hSiQ.woff2",
       "fontFamily": "'Moul'",
       "fontStyle": "normal",
       "fontWeight": "400",
       "local": [
         "Moul"
       ],
-      "eot": "https://fonts.gstatic.com/s/moul/v11/nuF2D__FSo_3I-hSjQ.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=nuF2D__FSo_3I-hSjg&skey=eae70e3253c63b0&v=v11#Moul",
-      "woff2": "https://fonts.gstatic.com/s/moul/v11/nuF2D__FSo_3I-hSiQ.woff2",
-      "woff": "https://fonts.gstatic.com/s/moul/v11/nuF2D__FSo_3I-hSjw.woff",
+      "woff": "https://fonts.gstatic.com/s/moul/v12/nuF2D__FSo_3I-hSjw.woff",
+      "eot": "https://fonts.gstatic.com/s/moul/v12/nuF2D__FSo_3I-hSjQ.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=nuF2D__FSo_3I-hSjg&skey=eae70e3253c63b0&v=v12#Moul",
+      "ttf": "https://fonts.gstatic.com/s/moul/v12/nuF2D__FSo_3I-hSjA.ttf",
       "errored": false
     }
   ],
@@ -22,9 +22,9 @@
     "khmer"
   ],
   "category": "display",
-  "version": "v11",
-  "lastModified": "2019-07-16",
-  "popularity": 687,
+  "version": "v12",
+  "lastModified": "2020-07-23",
+  "popularity": 780,
   "defSubset": "khmer",
   "defVariant": "regular",
   "subsetMap": {

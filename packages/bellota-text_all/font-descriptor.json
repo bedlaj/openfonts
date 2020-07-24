@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "300",
-      "woff": "https://fonts.gstatic.com/s/bellotatext/v1/0FlMVP2VnlWS4f3-UE9hHXM5Vfsqfg.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=0FlMVP2VnlWS4f3-UE9hHXM5Vfsqfw&skey=2e250e20a246659e&v=v2#BellotaText",
       "fontFamily": "'Bellota Text'",
       "fontStyle": "normal",
       "fontWeight": "300",
@@ -12,90 +12,90 @@
         "Bellota Text Light",
         "BellotaText-Light"
       ],
-      "woff2": "https://fonts.gstatic.com/s/bellotatext/v1/0FlMVP2VnlWS4f3-UE9hHXM5VfsqeA.woff2",
-      "eot": "https://fonts.gstatic.com/s/bellotatext/v1/0FlMVP2VnlWS4f3-UE9hHXM5VfsqfA.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=0FlMVP2VnlWS4f3-UE9hHXM5Vfsqfw&skey=2e250e20a246659e&v=v1#BellotaText",
-      "ttf": "https://fonts.gstatic.com/s/bellotatext/v1/0FlMVP2VnlWS4f3-UE9hHXM5VfsqfQ.ttf",
-      "errored": false
-    },
-    {
-      "id": "300italic",
-      "woff2": "https://fonts.gstatic.com/s/bellotatext/v1/0FlOVP2VnlWS4f3-UE9hHXMx--Gmfw_x.woff2",
-      "fontFamily": "'Bellota Text'",
-      "fontStyle": "italic",
-      "fontWeight": "300",
-      "local": [
-        "Bellota Text Light Italic",
-        "BellotaText-LightItalic"
-      ],
-      "woff": "https://fonts.gstatic.com/s/bellotatext/v1/0FlOVP2VnlWS4f3-UE9hHXMx--Gmfw_3.woff",
-      "eot": "https://fonts.gstatic.com/s/bellotatext/v1/0FlOVP2VnlWS4f3-UE9hHXMx--Gmfw_1.eot",
-      "ttf": "https://fonts.gstatic.com/s/bellotatext/v1/0FlOVP2VnlWS4f3-UE9hHXMx--Gmfw_0.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=0FlOVP2VnlWS4f3-UE9hHXMx--Gmfw_2&skey=4309c97d9a339b69&v=v1#BellotaText",
+      "ttf": "https://fonts.gstatic.com/s/bellotatext/v2/0FlMVP2VnlWS4f3-UE9hHXM5VfsqfQ.ttf",
+      "woff2": "https://fonts.gstatic.com/s/bellotatext/v2/0FlMVP2VnlWS4f3-UE9hHXM5VfsqeA.woff2",
+      "woff": "https://fonts.gstatic.com/s/bellotatext/v2/0FlMVP2VnlWS4f3-UE9hHXM5Vfsqfg.woff",
+      "eot": "https://fonts.gstatic.com/s/bellotatext/v2/0FlMVP2VnlWS4f3-UE9hHXM5VfsqfA.eot",
       "errored": false
     },
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/bellotatext/v1/0FlTVP2VnlWS4f3-UE9hHXMB-A.eot",
+      "eot": "https://fonts.gstatic.com/s/bellotatext/v2/0FlTVP2VnlWS4f3-UE9hHXMB-A.eot",
       "fontFamily": "'Bellota Text'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/bellotatext/v1/0FlTVP2VnlWS4f3-UE9hHXMB-g.woff",
+      "woff": "https://fonts.gstatic.com/s/bellotatext/v2/0FlTVP2VnlWS4f3-UE9hHXMB-g.woff",
       "local": [
         "Bellota Text Regular",
         "BellotaText-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/bellotatext/v1/0FlTVP2VnlWS4f3-UE9hHXMB_A.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=0FlTVP2VnlWS4f3-UE9hHXMB-w&skey=9a182f307f182cd6&v=v1#BellotaText",
-      "ttf": "https://fonts.gstatic.com/s/bellotatext/v1/0FlTVP2VnlWS4f3-UE9hHXMB-Q.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=0FlTVP2VnlWS4f3-UE9hHXMB-w&skey=9a182f307f182cd6&v=v2#BellotaText",
+      "woff2": "https://fonts.gstatic.com/s/bellotatext/v2/0FlTVP2VnlWS4f3-UE9hHXMB_A.woff2",
+      "ttf": "https://fonts.gstatic.com/s/bellotatext/v2/0FlTVP2VnlWS4f3-UE9hHXMB-Q.ttf",
+      "errored": false
+    },
+    {
+      "id": "300italic",
+      "eot": "https://fonts.gstatic.com/s/bellotatext/v2/0FlOVP2VnlWS4f3-UE9hHXMx--Gmfw_1.eot",
+      "fontFamily": "'Bellota Text'",
+      "fontStyle": "italic",
+      "fontWeight": "300",
+      "woff2": "https://fonts.gstatic.com/s/bellotatext/v2/0FlOVP2VnlWS4f3-UE9hHXMx--Gmfw_x.woff2",
+      "local": [
+        "Bellota Text Light Italic",
+        "BellotaText-LightItalic"
+      ],
+      "woff": "https://fonts.gstatic.com/s/bellotatext/v2/0FlOVP2VnlWS4f3-UE9hHXMx--Gmfw_3.woff",
+      "ttf": "https://fonts.gstatic.com/s/bellotatext/v2/0FlOVP2VnlWS4f3-UE9hHXMx--Gmfw_0.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=0FlOVP2VnlWS4f3-UE9hHXMx--Gmfw_2&skey=4309c97d9a339b69&v=v2#BellotaText",
       "errored": false
     },
     {
       "id": "italic",
-      "woff": "https://fonts.gstatic.com/s/bellotatext/v1/0FlNVP2VnlWS4f3-UE9hHXMx-9kJ.woff",
+      "eot": "https://fonts.gstatic.com/s/bellotatext/v2/0FlNVP2VnlWS4f3-UE9hHXMx-9kL.eot",
       "fontFamily": "'Bellota Text'",
       "fontStyle": "italic",
       "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/bellotatext/v2/0FlNVP2VnlWS4f3-UE9hHXMx-9kP.woff2",
       "local": [
         "Bellota Text Italic",
         "BellotaText-Italic"
       ],
-      "woff2": "https://fonts.gstatic.com/s/bellotatext/v1/0FlNVP2VnlWS4f3-UE9hHXMx-9kP.woff2",
-      "eot": "https://fonts.gstatic.com/s/bellotatext/v1/0FlNVP2VnlWS4f3-UE9hHXMx-9kL.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=0FlNVP2VnlWS4f3-UE9hHXMx-9kI&skey=682ca6d9c2e26034&v=v1#BellotaText",
-      "ttf": "https://fonts.gstatic.com/s/bellotatext/v1/0FlNVP2VnlWS4f3-UE9hHXMx-9kK.ttf",
+      "woff": "https://fonts.gstatic.com/s/bellotatext/v2/0FlNVP2VnlWS4f3-UE9hHXMx-9kJ.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=0FlNVP2VnlWS4f3-UE9hHXMx-9kI&skey=682ca6d9c2e26034&v=v2#BellotaText",
+      "ttf": "https://fonts.gstatic.com/s/bellotatext/v2/0FlNVP2VnlWS4f3-UE9hHXMx-9kK.ttf",
       "errored": false
     },
     {
       "id": "700",
-      "svg": "https://fonts.gstatic.com/l/font?kit=0FlMVP2VnlWS4f3-UE9hHXM5Rfwqfw&skey=a8661c2b5cebdd15&v=v1#BellotaText",
+      "eot": "https://fonts.gstatic.com/s/bellotatext/v2/0FlMVP2VnlWS4f3-UE9hHXM5RfwqfA.eot",
       "fontFamily": "'Bellota Text'",
       "fontStyle": "normal",
       "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/bellotatext/v2/0FlMVP2VnlWS4f3-UE9hHXM5Rfwqfg.woff",
       "local": [
         "Bellota Text Bold",
         "BellotaText-Bold"
       ],
-      "ttf": "https://fonts.gstatic.com/s/bellotatext/v1/0FlMVP2VnlWS4f3-UE9hHXM5RfwqfQ.ttf",
-      "woff2": "https://fonts.gstatic.com/s/bellotatext/v1/0FlMVP2VnlWS4f3-UE9hHXM5RfwqeA.woff2",
-      "eot": "https://fonts.gstatic.com/s/bellotatext/v1/0FlMVP2VnlWS4f3-UE9hHXM5RfwqfA.eot",
-      "woff": "https://fonts.gstatic.com/s/bellotatext/v1/0FlMVP2VnlWS4f3-UE9hHXM5Rfwqfg.woff",
+      "woff2": "https://fonts.gstatic.com/s/bellotatext/v2/0FlMVP2VnlWS4f3-UE9hHXM5RfwqeA.woff2",
+      "ttf": "https://fonts.gstatic.com/s/bellotatext/v2/0FlMVP2VnlWS4f3-UE9hHXM5RfwqfQ.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=0FlMVP2VnlWS4f3-UE9hHXM5Rfwqfw&skey=a8661c2b5cebdd15&v=v2#BellotaText",
       "errored": false
     },
     {
       "id": "700italic",
-      "eot": "https://fonts.gstatic.com/s/bellotatext/v1/0FlOVP2VnlWS4f3-UE9hHXMx--G2eA_1.eot",
+      "eot": "https://fonts.gstatic.com/s/bellotatext/v2/0FlOVP2VnlWS4f3-UE9hHXMx--G2eA_1.eot",
       "fontFamily": "'Bellota Text'",
       "fontStyle": "italic",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/bellotatext/v1/0FlOVP2VnlWS4f3-UE9hHXMx--G2eA_3.woff",
+      "woff": "https://fonts.gstatic.com/s/bellotatext/v2/0FlOVP2VnlWS4f3-UE9hHXMx--G2eA_3.woff",
       "local": [
         "Bellota Text Bold Italic",
         "BellotaText-BoldItalic"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=0FlOVP2VnlWS4f3-UE9hHXMx--G2eA_2&skey=ce5a806f7e42e80d&v=v1#BellotaText",
-      "woff2": "https://fonts.gstatic.com/s/bellotatext/v1/0FlOVP2VnlWS4f3-UE9hHXMx--G2eA_x.woff2",
-      "ttf": "https://fonts.gstatic.com/s/bellotatext/v1/0FlOVP2VnlWS4f3-UE9hHXMx--G2eA_0.ttf",
+      "woff2": "https://fonts.gstatic.com/s/bellotatext/v2/0FlOVP2VnlWS4f3-UE9hHXMx--G2eA_x.woff2",
+      "ttf": "https://fonts.gstatic.com/s/bellotatext/v2/0FlOVP2VnlWS4f3-UE9hHXMx--G2eA_0.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=0FlOVP2VnlWS4f3-UE9hHXMx--G2eA_2&skey=ce5a806f7e42e80d&v=v2#BellotaText",
       "errored": false
     }
   ],
@@ -106,9 +106,9 @@
     "vietnamese"
   ],
   "category": "display",
-  "version": "v1",
-  "lastModified": "2020-04-21",
-  "popularity": 969,
+  "version": "v2",
+  "lastModified": "2020-07-23",
+  "popularity": 820,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

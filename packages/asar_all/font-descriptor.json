@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/asar/v7/sZlLdRyI6TBIXkM.woff2",
+      "woff": "https://fonts.gstatic.com/s/asar/v8/sZlLdRyI6TBIXkU.woff",
       "fontFamily": "'Asar'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Asar Regular",
         "Asar-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/asar/v7/sZlLdRyI6TBIXkY.ttf",
-      "woff": "https://fonts.gstatic.com/s/asar/v7/sZlLdRyI6TBIXkU.woff",
-      "eot": "https://fonts.gstatic.com/s/asar/v7/sZlLdRyI6TBIXkc.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=sZlLdRyI6TBIXkQ&skey=a29dbc6a54d5d953&v=v7#Asar",
+      "eot": "https://fonts.gstatic.com/s/asar/v8/sZlLdRyI6TBIXkc.eot",
+      "woff2": "https://fonts.gstatic.com/s/asar/v8/sZlLdRyI6TBIXkM.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=sZlLdRyI6TBIXkQ&skey=a29dbc6a54d5d953&v=v8#Asar",
+      "ttf": "https://fonts.gstatic.com/s/asar/v8/sZlLdRyI6TBIXkY.ttf",
       "errored": false
     }
   ],
@@ -25,9 +25,9 @@
     "latin-ext"
   ],
   "category": "serif",
-  "version": "v7",
-  "lastModified": "2019-07-16",
-  "popularity": 810,
+  "version": "v8",
+  "lastModified": "2020-07-23",
+  "popularity": 781,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

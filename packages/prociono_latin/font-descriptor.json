@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/prociono/v9/r05YGLlR-KxAf9GGO_uuwjE.woff",
+      "eot": "https://fonts.gstatic.com/s/prociono/v10/r05YGLlR-KxAf9GGO_uuwjM.eot",
       "fontFamily": "'Prociono'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/prociono/v10/r05YGLlR-KxAf9GGO_uuwjc.woff2",
       "local": [
         "Prociono",
         "Prociono-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/prociono/v9/r05YGLlR-KxAf9GGO_uuwjM.eot",
-      "woff2": "https://fonts.gstatic.com/s/prociono/v9/r05YGLlR-KxAf9GGO_uuwjc.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=r05YGLlR-KxAf9GGO_uuwjA&skey=f1ab602d48b8a5f7&v=v9#Prociono",
-      "ttf": "https://fonts.gstatic.com/s/prociono/v9/r05YGLlR-KxAf9GGO_uuwjI.ttf",
+      "ttf": "https://fonts.gstatic.com/s/prociono/v10/r05YGLlR-KxAf9GGO_uuwjI.ttf",
+      "woff": "https://fonts.gstatic.com/s/prociono/v10/r05YGLlR-KxAf9GGO_uuwjE.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=r05YGLlR-KxAf9GGO_uuwjA&skey=f1ab602d48b8a5f7&v=v10#Prociono",
       "errored": false
     }
   ],
@@ -23,9 +23,9 @@
     "latin"
   ],
   "category": "serif",
-  "version": "v9",
-  "lastModified": "2019-07-16",
-  "popularity": 631,
+  "version": "v10",
+  "lastModified": "2020-07-23",
+  "popularity": 791,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

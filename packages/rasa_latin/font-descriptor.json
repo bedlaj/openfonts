@@ -4,39 +4,55 @@
   "variants": [
     {
       "id": "300",
-      "svg": "https://fonts.gstatic.com/l/font?kit=xn7gYHIn1mWmdg52ggexTQ&skey=67368781f9a5bb98&v=v5#Rasa",
+      "eot": "https://fonts.gstatic.com/s/rasa/v6/xn7gYHIn1mWmdg52ggexTg.eot",
       "fontFamily": "'Rasa'",
       "fontStyle": "normal",
       "fontWeight": "300",
+      "woff2": "https://fonts.gstatic.com/s/rasa/v6/xn7gYHIn1mWmdg52ggexSg.woff2",
       "local": [
         "Rasa Light",
         "Rasa-Light"
       ],
-      "ttf": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdg52ggexTw.ttf",
-      "woff": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdg52ggexTA.woff",
-      "eot": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdg52ggexTg.eot",
-      "woff2": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdg52ggexSg.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=xn7gYHIn1mWmdg52ggexTQ&skey=67368781f9a5bb98&v=v6#Rasa",
+      "woff": "https://fonts.gstatic.com/s/rasa/v6/xn7gYHIn1mWmdg52ggexTA.woff",
+      "ttf": "https://fonts.gstatic.com/s/rasa/v6/xn7gYHIn1mWmdg52ggexTw.ttf",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "svg": "https://fonts.gstatic.com/l/font?kit=xn7vYHIn1mWmfqVUkA&skey=3c5158bdcde195ad&v=v6#Rasa",
+      "fontFamily": "'Rasa'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Rasa Regular",
+        "Rasa-Regular"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/rasa/v6/xn7vYHIn1mWmfqVUkg.ttf",
+      "woff": "https://fonts.gstatic.com/s/rasa/v6/xn7vYHIn1mWmfqVUkQ.woff",
+      "woff2": "https://fonts.gstatic.com/s/rasa/v6/xn7vYHIn1mWmfqVUlw.woff2",
+      "eot": "https://fonts.gstatic.com/s/rasa/v6/xn7vYHIn1mWmfqVUkw.eot",
       "errored": false
     },
     {
       "id": "500",
-      "eot": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdlZ3ggexTg.eot",
+      "woff": "https://fonts.gstatic.com/s/rasa/v6/xn7gYHIn1mWmdlZ3ggexTA.woff",
       "fontFamily": "'Rasa'",
       "fontStyle": "normal",
       "fontWeight": "500",
-      "woff": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdlZ3ggexTA.woff",
       "local": [
         "Rasa Medium",
         "Rasa-Medium"
       ],
-      "woff2": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdlZ3ggexSg.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=xn7gYHIn1mWmdlZ3ggexTQ&skey=2ea360b732075747&v=v5#Rasa",
-      "ttf": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdlZ3ggexTw.ttf",
+      "eot": "https://fonts.gstatic.com/s/rasa/v6/xn7gYHIn1mWmdlZ3ggexTg.eot",
+      "woff2": "https://fonts.gstatic.com/s/rasa/v6/xn7gYHIn1mWmdlZ3ggexSg.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=xn7gYHIn1mWmdlZ3ggexTQ&skey=2ea360b732075747&v=v6#Rasa",
+      "ttf": "https://fonts.gstatic.com/s/rasa/v6/xn7gYHIn1mWmdlZ3ggexTw.ttf",
       "errored": false
     },
     {
       "id": "600",
-      "woff": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdnpwggexTA.woff",
+      "woff": "https://fonts.gstatic.com/s/rasa/v6/xn7gYHIn1mWmdnpwggexTA.woff",
       "fontFamily": "'Rasa'",
       "fontStyle": "normal",
       "fontWeight": "600",
@@ -44,42 +60,26 @@
         "Rasa SemiBold",
         "Rasa-SemiBold"
       ],
-      "eot": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdnpwggexTg.eot",
-      "woff2": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdnpwggexSg.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=xn7gYHIn1mWmdnpwggexTQ&skey=17261dab7f0cb1f8&v=v5#Rasa",
-      "ttf": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdnpwggexTw.ttf",
-      "errored": false
-    },
-    {
-      "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/rasa/v5/xn7vYHIn1mWmfqVUkw.eot",
-      "fontFamily": "'Rasa'",
-      "fontStyle": "normal",
-      "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/rasa/v5/xn7vYHIn1mWmfqVUkQ.woff",
-      "local": [
-        "Rasa Regular",
-        "Rasa-Regular"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=xn7vYHIn1mWmfqVUkA&skey=3c5158bdcde195ad&v=v5#Rasa",
-      "ttf": "https://fonts.gstatic.com/s/rasa/v5/xn7vYHIn1mWmfqVUkg.ttf",
-      "woff2": "https://fonts.gstatic.com/s/rasa/v5/xn7vYHIn1mWmfqVUlw.woff2",
+      "woff2": "https://fonts.gstatic.com/s/rasa/v6/xn7gYHIn1mWmdnpwggexSg.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=xn7gYHIn1mWmdnpwggexTQ&skey=17261dab7f0cb1f8&v=v6#Rasa",
+      "eot": "https://fonts.gstatic.com/s/rasa/v6/xn7gYHIn1mWmdnpwggexTg.eot",
+      "ttf": "https://fonts.gstatic.com/s/rasa/v6/xn7gYHIn1mWmdnpwggexTw.ttf",
       "errored": false
     },
     {
       "id": "700",
-      "eot": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdh5xggexTg.eot",
+      "eot": "https://fonts.gstatic.com/s/rasa/v6/xn7gYHIn1mWmdh5xggexTg.eot",
       "fontFamily": "'Rasa'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdh5xggexTA.woff",
+      "woff": "https://fonts.gstatic.com/s/rasa/v6/xn7gYHIn1mWmdh5xggexTA.woff",
       "local": [
         "Rasa Bold",
         "Rasa-Bold"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=xn7gYHIn1mWmdh5xggexTQ&skey=704d133d144191f0&v=v5#Rasa",
-      "woff2": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdh5xggexSg.woff2",
-      "ttf": "https://fonts.gstatic.com/s/rasa/v5/xn7gYHIn1mWmdh5xggexTw.ttf",
+      "ttf": "https://fonts.gstatic.com/s/rasa/v6/xn7gYHIn1mWmdh5xggexTw.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=xn7gYHIn1mWmdh5xggexTQ&skey=704d133d144191f0&v=v6#Rasa",
+      "woff2": "https://fonts.gstatic.com/s/rasa/v6/xn7gYHIn1mWmdh5xggexSg.woff2",
       "errored": false
     }
   ],
@@ -89,9 +89,9 @@
     "latin-ext"
   ],
   "category": "serif",
-  "version": "v5",
-  "lastModified": "2019-07-16",
-  "popularity": 226,
+  "version": "v6",
+  "lastModified": "2020-07-23",
+  "popularity": 554,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

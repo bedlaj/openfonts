@@ -4,54 +4,54 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/srisakdi/v3/yMJRMIlvdpDbkB0A-gq1dyk.eot",
+      "ttf": "https://fonts.gstatic.com/s/srisakdi/v4/yMJRMIlvdpDbkB0A-gq1dyg.ttf",
       "fontFamily": "'Srisakdi'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/srisakdi/v3/yMJRMIlvdpDbkB0A-gq1dys.woff",
       "local": [
         "Srisakdi Regular",
         "Srisakdi-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=yMJRMIlvdpDbkB0A-gq1dyo&skey=788157e0305eddec&v=v3#Srisakdi",
-      "woff2": "https://fonts.gstatic.com/s/srisakdi/v3/yMJRMIlvdpDbkB0A-gq1dy0.woff2",
-      "ttf": "https://fonts.gstatic.com/s/srisakdi/v3/yMJRMIlvdpDbkB0A-gq1dyg.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=yMJRMIlvdpDbkB0A-gq1dyo&skey=788157e0305eddec&v=v4#Srisakdi",
+      "woff": "https://fonts.gstatic.com/s/srisakdi/v4/yMJRMIlvdpDbkB0A-gq1dys.woff",
+      "eot": "https://fonts.gstatic.com/s/srisakdi/v4/yMJRMIlvdpDbkB0A-gq1dyk.eot",
+      "woff2": "https://fonts.gstatic.com/s/srisakdi/v4/yMJRMIlvdpDbkB0A-gq1dy0.woff2",
       "errored": false
     },
     {
       "id": "700",
-      "eot": "https://fonts.gstatic.com/s/srisakdi/v3/yMJWMIlvdpDbkB0A-gIAUjh4qtQ.eot",
+      "eot": "https://fonts.gstatic.com/s/srisakdi/v4/yMJWMIlvdpDbkB0A-gIAUjh4qtQ.eot",
       "fontFamily": "'Srisakdi'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/srisakdi/v3/yMJWMIlvdpDbkB0A-gIAUjh4qtY.woff",
+      "woff": "https://fonts.gstatic.com/s/srisakdi/v4/yMJWMIlvdpDbkB0A-gIAUjh4qtY.woff",
       "local": [
         "Srisakdi Bold",
         "Srisakdi-Bold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/srisakdi/v3/yMJWMIlvdpDbkB0A-gIAUjh4qtA.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=yMJWMIlvdpDbkB0A-gIAUjh4qtc&skey=24500905fa98148a&v=v3#Srisakdi",
-      "ttf": "https://fonts.gstatic.com/s/srisakdi/v3/yMJWMIlvdpDbkB0A-gIAUjh4qtU.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=yMJWMIlvdpDbkB0A-gIAUjh4qtc&skey=24500905fa98148a&v=v4#Srisakdi",
+      "woff2": "https://fonts.gstatic.com/s/srisakdi/v4/yMJWMIlvdpDbkB0A-gIAUjh4qtA.woff2",
+      "ttf": "https://fonts.gstatic.com/s/srisakdi/v4/yMJWMIlvdpDbkB0A-gIAUjh4qtU.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "thai",
     "latin",
-    "vietnamese",
-    "latin-ext"
+    "latin-ext",
+    "thai",
+    "vietnamese"
   ],
   "category": "display",
-  "version": "v3",
-  "lastModified": "2019-11-05",
-  "popularity": 777,
+  "version": "v4",
+  "lastModified": "2020-07-23",
+  "popularity": 668,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "thai": false,
     "latin": true,
-    "vietnamese": false,
-    "latin-ext": true
+    "latin-ext": true,
+    "thai": false,
+    "vietnamese": false
   },
   "storeID": "latin-ext_latin"
 }

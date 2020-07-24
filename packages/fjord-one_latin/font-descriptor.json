@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/fjordone/v8/zOL-4pbEnKBY_9S1jNKb7uRF.eot",
+      "woff": "https://fonts.gstatic.com/s/fjordone/v9/zOL-4pbEnKBY_9S1jNKb7uRH.woff",
       "fontFamily": "'Fjord One'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/fjordone/v8/zOL-4pbEnKBY_9S1jNKb7uRB.woff2",
       "local": [
         "Fjord One",
         "Fjord-One"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=zOL-4pbEnKBY_9S1jNKb7uRG&skey=224c2a5a687d4c50&v=v8#FjordOne",
-      "woff": "https://fonts.gstatic.com/s/fjordone/v8/zOL-4pbEnKBY_9S1jNKb7uRH.woff",
-      "ttf": "https://fonts.gstatic.com/s/fjordone/v8/zOL-4pbEnKBY_9S1jNKb7uRE.ttf",
+      "eot": "https://fonts.gstatic.com/s/fjordone/v9/zOL-4pbEnKBY_9S1jNKb7uRF.eot",
+      "woff2": "https://fonts.gstatic.com/s/fjordone/v9/zOL-4pbEnKBY_9S1jNKb7uRB.woff2",
+      "ttf": "https://fonts.gstatic.com/s/fjordone/v9/zOL-4pbEnKBY_9S1jNKb7uRE.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=zOL-4pbEnKBY_9S1jNKb7uRG&skey=224c2a5a687d4c50&v=v9#FjordOne",
       "errored": false
     }
   ],
@@ -23,9 +23,9 @@
     "latin"
   ],
   "category": "serif",
-  "version": "v8",
-  "lastModified": "2019-07-16",
-  "popularity": 595,
+  "version": "v9",
+  "lastModified": "2020-07-23",
+  "popularity": 586,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

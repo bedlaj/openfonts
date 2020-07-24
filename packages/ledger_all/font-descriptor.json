@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/ledger/v8/j8_q6-HK1L3if_sxmg.eot",
+      "woff": "https://fonts.gstatic.com/s/ledger/v9/j8_q6-HK1L3if_sxmA.woff",
       "fontFamily": "'Ledger'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/ledger/v8/j8_q6-HK1L3if_sxmA.woff",
       "local": [
         "Ledger",
         "Ledger-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/ledger/v8/j8_q6-HK1L3if_sxng.woff2",
-      "ttf": "https://fonts.gstatic.com/s/ledger/v8/j8_q6-HK1L3if_sxmw.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=j8_q6-HK1L3if_sxmQ&skey=6e1b03f801dd56e8&v=v8#Ledger",
+      "woff2": "https://fonts.gstatic.com/s/ledger/v9/j8_q6-HK1L3if_sxng.woff2",
+      "ttf": "https://fonts.gstatic.com/s/ledger/v9/j8_q6-HK1L3if_sxmw.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=j8_q6-HK1L3if_sxmQ&skey=6e1b03f801dd56e8&v=v9#Ledger",
+      "eot": "https://fonts.gstatic.com/s/ledger/v9/j8_q6-HK1L3if_sxmg.eot",
       "errored": false
     }
   ],
@@ -25,9 +25,9 @@
     "latin-ext"
   ],
   "category": "serif",
-  "version": "v8",
-  "lastModified": "2020-07-13",
-  "popularity": 551,
+  "version": "v9",
+  "lastModified": "2020-07-23",
+  "popularity": 589,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

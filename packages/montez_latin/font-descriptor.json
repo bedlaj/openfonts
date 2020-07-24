@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/montez/v10/845ZNMk5GoGIX8lW07rf.woff2",
+      "eot": "https://fonts.gstatic.com/s/montez/v11/845ZNMk5GoGIX8lW07rb.eot",
       "fontFamily": "'Montez'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "svg": "https://fonts.gstatic.com/l/font?kit=845ZNMk5GoGIX8lW07rY&skey=f103622e34a5cc95&v=v11#Montez",
       "local": [
         "Montez Regular",
         "Montez-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/montez/v10/845ZNMk5GoGIX8lW07rZ.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=845ZNMk5GoGIX8lW07rY&skey=f103622e34a5cc95&v=v10#Montez",
-      "ttf": "https://fonts.gstatic.com/s/montez/v10/845ZNMk5GoGIX8lW07ra.ttf",
-      "eot": "https://fonts.gstatic.com/s/montez/v10/845ZNMk5GoGIX8lW07rb.eot",
+      "woff": "https://fonts.gstatic.com/s/montez/v11/845ZNMk5GoGIX8lW07rZ.woff",
+      "woff2": "https://fonts.gstatic.com/s/montez/v11/845ZNMk5GoGIX8lW07rf.woff2",
+      "ttf": "https://fonts.gstatic.com/s/montez/v11/845ZNMk5GoGIX8lW07ra.ttf",
       "errored": false
     }
   ],
@@ -23,9 +23,9 @@
     "latin"
   ],
   "category": "handwriting",
-  "version": "v10",
-  "lastModified": "2019-07-16",
-  "popularity": 493,
+  "version": "v11",
+  "lastModified": "2020-07-23",
+  "popularity": 400,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

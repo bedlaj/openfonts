@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/akronim/v9/fdN-9sqWtWZZlHRpygd7lw.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=fdN-9sqWtWZZlHRpygd7lg&skey=a537edc4421490c4&v=v10#Akronim",
       "fontFamily": "'Akronim'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Akronim Regular",
         "Akronim-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=fdN-9sqWtWZZlHRpygd7lg&skey=a537edc4421490c4&v=v9#Akronim",
-      "woff2": "https://fonts.gstatic.com/s/akronim/v9/fdN-9sqWtWZZlHRpygd7kQ.woff2",
-      "eot": "https://fonts.gstatic.com/s/akronim/v9/fdN-9sqWtWZZlHRpygd7lQ.eot",
-      "ttf": "https://fonts.gstatic.com/s/akronim/v9/fdN-9sqWtWZZlHRpygd7lA.ttf",
+      "eot": "https://fonts.gstatic.com/s/akronim/v10/fdN-9sqWtWZZlHRpygd7lQ.eot",
+      "woff2": "https://fonts.gstatic.com/s/akronim/v10/fdN-9sqWtWZZlHRpygd7kQ.woff2",
+      "ttf": "https://fonts.gstatic.com/s/akronim/v10/fdN-9sqWtWZZlHRpygd7lA.ttf",
+      "woff": "https://fonts.gstatic.com/s/akronim/v10/fdN-9sqWtWZZlHRpygd7lw.woff",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "display",
-  "version": "v9",
-  "lastModified": "2019-07-16",
-  "popularity": 705,
+  "version": "v10",
+  "lastModified": "2020-07-23",
+  "popularity": 784,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

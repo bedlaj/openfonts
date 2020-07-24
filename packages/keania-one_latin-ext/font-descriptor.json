@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/keaniaone/v7/zOL54pXJk65E8pXardnu-c1kug.eot",
+      "woff2": "https://fonts.gstatic.com/s/keaniaone/v8/zOL54pXJk65E8pXardnu-c1kvg.woff2",
       "fontFamily": "'Keania One'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "ttf": "https://fonts.gstatic.com/s/keaniaone/v7/zOL54pXJk65E8pXardnu-c1kuw.ttf",
       "local": [
         "Keania One",
         "KeaniaOne-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/keaniaone/v7/zOL54pXJk65E8pXardnu-c1kuA.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=zOL54pXJk65E8pXardnu-c1kuQ&skey=dbf3f94cd2851bcd&v=v7#KeaniaOne",
-      "woff2": "https://fonts.gstatic.com/s/keaniaone/v7/zOL54pXJk65E8pXardnu-c1kvg.woff2",
+      "woff": "https://fonts.gstatic.com/s/keaniaone/v8/zOL54pXJk65E8pXardnu-c1kuA.woff",
+      "ttf": "https://fonts.gstatic.com/s/keaniaone/v8/zOL54pXJk65E8pXardnu-c1kuw.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=zOL54pXJk65E8pXardnu-c1kuQ&skey=dbf3f94cd2851bcd&v=v8#KeaniaOne",
+      "eot": "https://fonts.gstatic.com/s/keaniaone/v8/zOL54pXJk65E8pXardnu-c1kug.eot",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "display",
-  "version": "v7",
-  "lastModified": "2019-07-16",
-  "popularity": 839,
+  "version": "v8",
+  "lastModified": "2020-07-23",
+  "popularity": 900,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

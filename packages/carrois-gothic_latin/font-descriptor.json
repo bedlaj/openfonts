@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/carroisgothic/v10/Z9XPDmFATg-N1PLtLOOxvIHl9amE1C8.woff2",
+      "eot": "https://fonts.gstatic.com/s/carroisgothic/v11/Z9XPDmFATg-N1PLtLOOxvIHl9amE1Cs.eot",
       "fontFamily": "'Carrois Gothic'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/carroisgothic/v11/Z9XPDmFATg-N1PLtLOOxvIHl9amE1Ck.woff",
       "local": [
         "Carrois Gothic Regular",
         "CarroisGothic-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/carroisgothic/v10/Z9XPDmFATg-N1PLtLOOxvIHl9amE1Ck.woff",
-      "ttf": "https://fonts.gstatic.com/s/carroisgothic/v10/Z9XPDmFATg-N1PLtLOOxvIHl9amE1Co.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Z9XPDmFATg-N1PLtLOOxvIHl9amE1Cg&skey=9e26ceadcb501f24&v=v10#CarroisGothic",
-      "eot": "https://fonts.gstatic.com/s/carroisgothic/v10/Z9XPDmFATg-N1PLtLOOxvIHl9amE1Cs.eot",
+      "woff2": "https://fonts.gstatic.com/s/carroisgothic/v11/Z9XPDmFATg-N1PLtLOOxvIHl9amE1C8.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Z9XPDmFATg-N1PLtLOOxvIHl9amE1Cg&skey=9e26ceadcb501f24&v=v11#CarroisGothic",
+      "ttf": "https://fonts.gstatic.com/s/carroisgothic/v11/Z9XPDmFATg-N1PLtLOOxvIHl9amE1Co.ttf",
       "errored": false
     }
   ],
@@ -23,9 +23,9 @@
     "latin"
   ],
   "category": "sans-serif",
-  "version": "v10",
-  "lastModified": "2019-07-16",
-  "popularity": 373,
+  "version": "v11",
+  "lastModified": "2020-07-23",
+  "popularity": 438,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

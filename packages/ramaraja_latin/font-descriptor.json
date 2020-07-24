@@ -4,33 +4,33 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/ramaraja/v4/SlGTmQearpYAYG1CACIjoHc.woff",
+      "eot": "https://fonts.gstatic.com/s/ramaraja/v5/SlGTmQearpYAYG1CACIjoHU.eot",
       "fontFamily": "'Ramaraja'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/ramaraja/v5/SlGTmQearpYAYG1CACIjoHE.woff2",
       "local": [
         "Ramaraja"
       ],
-      "eot": "https://fonts.gstatic.com/s/ramaraja/v4/SlGTmQearpYAYG1CACIjoHU.eot",
-      "ttf": "https://fonts.gstatic.com/s/ramaraja/v4/SlGTmQearpYAYG1CACIjoHQ.ttf",
-      "woff2": "https://fonts.gstatic.com/s/ramaraja/v4/SlGTmQearpYAYG1CACIjoHE.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=SlGTmQearpYAYG1CACIjoHY&skey=f83b7da96b6fa9d5&v=v4#Ramaraja",
+      "woff": "https://fonts.gstatic.com/s/ramaraja/v5/SlGTmQearpYAYG1CACIjoHc.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=SlGTmQearpYAYG1CACIjoHY&skey=f83b7da96b6fa9d5&v=v5#Ramaraja",
+      "ttf": "https://fonts.gstatic.com/s/ramaraja/v5/SlGTmQearpYAYG1CACIjoHQ.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "telugu",
-    "latin"
+    "latin",
+    "telugu"
   ],
   "category": "serif",
-  "version": "v4",
-  "lastModified": "2019-07-16",
-  "popularity": 674,
+  "version": "v5",
+  "lastModified": "2020-07-23",
+  "popularity": 758,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "telugu": false,
-    "latin": true
+    "latin": true,
+    "telugu": false
   },
   "storeID": "latin"
 }

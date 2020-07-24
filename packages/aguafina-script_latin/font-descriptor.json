@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/aguafinascript/v8/If2QXTv_ZzSxGIO30LemWEOmt1b3rcQs.eot",
+      "woff": "https://fonts.gstatic.com/s/aguafinascript/v9/If2QXTv_ZzSxGIO30LemWEOmt1b3rcQu.woff",
       "fontFamily": "'Aguafina Script'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/aguafinascript/v8/If2QXTv_ZzSxGIO30LemWEOmt1b3rcQo.woff2",
       "local": [
         "Aguafina Script Regular",
         "AguafinaScript-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/aguafinascript/v8/If2QXTv_ZzSxGIO30LemWEOmt1b3rcQt.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=If2QXTv_ZzSxGIO30LemWEOmt1b3rcQv&skey=572306981a7a1f93&v=v8#AguafinaScript",
-      "woff": "https://fonts.gstatic.com/s/aguafinascript/v8/If2QXTv_ZzSxGIO30LemWEOmt1b3rcQu.woff",
+      "woff2": "https://fonts.gstatic.com/s/aguafinascript/v9/If2QXTv_ZzSxGIO30LemWEOmt1b3rcQo.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=If2QXTv_ZzSxGIO30LemWEOmt1b3rcQv&skey=572306981a7a1f93&v=v9#AguafinaScript",
+      "eot": "https://fonts.gstatic.com/s/aguafinascript/v9/If2QXTv_ZzSxGIO30LemWEOmt1b3rcQs.eot",
+      "ttf": "https://fonts.gstatic.com/s/aguafinascript/v9/If2QXTv_ZzSxGIO30LemWEOmt1b3rcQt.ttf",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "handwriting",
-  "version": "v8",
-  "lastModified": "2019-07-16",
-  "popularity": 536,
+  "version": "v9",
+  "lastModified": "2020-07-23",
+  "popularity": 597,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

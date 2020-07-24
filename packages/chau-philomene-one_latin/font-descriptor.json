@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/chauphilomeneone/v9/55xxezRsPtfie1vPY49qzdgSlJiHRQFcm4Z_.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=55xxezRsPtfie1vPY49qzdgSlJiHRQFcm4Z9&skey=4c1fda6540b94a11&v=v10#ChauPhilomeneOne",
       "fontFamily": "'Chau Philomene One'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,26 +12,26 @@
         "Chau Philomene One Regular",
         "ChauPhilomeneOne-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/chauphilomeneone/v9/55xxezRsPtfie1vPY49qzdgSlJiHRQFcm4Z-.eot",
-      "woff": "https://fonts.gstatic.com/s/chauphilomeneone/v9/55xxezRsPtfie1vPY49qzdgSlJiHRQFcm4Z8.woff",
-      "woff2": "https://fonts.gstatic.com/s/chauphilomeneone/v9/55xxezRsPtfie1vPY49qzdgSlJiHRQFcm4Z6.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=55xxezRsPtfie1vPY49qzdgSlJiHRQFcm4Z9&skey=4c1fda6540b94a11&v=v9#ChauPhilomeneOne",
+      "woff": "https://fonts.gstatic.com/s/chauphilomeneone/v10/55xxezRsPtfie1vPY49qzdgSlJiHRQFcm4Z8.woff",
+      "eot": "https://fonts.gstatic.com/s/chauphilomeneone/v10/55xxezRsPtfie1vPY49qzdgSlJiHRQFcm4Z-.eot",
+      "woff2": "https://fonts.gstatic.com/s/chauphilomeneone/v10/55xxezRsPtfie1vPY49qzdgSlJiHRQFcm4Z6.woff2",
+      "ttf": "https://fonts.gstatic.com/s/chauphilomeneone/v10/55xxezRsPtfie1vPY49qzdgSlJiHRQFcm4Z_.ttf",
       "errored": false
     },
     {
       "id": "italic",
-      "woff2": "https://fonts.gstatic.com/s/chauphilomeneone/v9/55xzezRsPtfie1vPY49qzdgSlJiHRQFcnrZ4aMY.woff2",
+      "eot": "https://fonts.gstatic.com/s/chauphilomeneone/v10/55xzezRsPtfie1vPY49qzdgSlJiHRQFcnrZ4aMI.eot",
       "fontFamily": "'Chau Philomene One'",
       "fontStyle": "italic",
       "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/chauphilomeneone/v10/55xzezRsPtfie1vPY49qzdgSlJiHRQFcnrZ4aMY.woff2",
       "local": [
         "Chau Philomene One Italic",
         "ChauPhilomeneOne-Italic"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=55xzezRsPtfie1vPY49qzdgSlJiHRQFcnrZ4aME&skey=81aa108e7cdf69f&v=v9#ChauPhilomeneOne",
-      "woff": "https://fonts.gstatic.com/s/chauphilomeneone/v9/55xzezRsPtfie1vPY49qzdgSlJiHRQFcnrZ4aMA.woff",
-      "eot": "https://fonts.gstatic.com/s/chauphilomeneone/v9/55xzezRsPtfie1vPY49qzdgSlJiHRQFcnrZ4aMI.eot",
-      "ttf": "https://fonts.gstatic.com/s/chauphilomeneone/v9/55xzezRsPtfie1vPY49qzdgSlJiHRQFcnrZ4aMM.ttf",
+      "woff": "https://fonts.gstatic.com/s/chauphilomeneone/v10/55xzezRsPtfie1vPY49qzdgSlJiHRQFcnrZ4aMA.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=55xzezRsPtfie1vPY49qzdgSlJiHRQFcnrZ4aME&skey=81aa108e7cdf69f&v=v10#ChauPhilomeneOne",
+      "ttf": "https://fonts.gstatic.com/s/chauphilomeneone/v10/55xzezRsPtfie1vPY49qzdgSlJiHRQFcnrZ4aMM.ttf",
       "errored": false
     }
   ],
@@ -40,9 +40,9 @@
     "latin-ext"
   ],
   "category": "sans-serif",
-  "version": "v9",
-  "lastModified": "2019-07-16",
-  "popularity": 646,
+  "version": "v10",
+  "lastModified": "2020-07-23",
+  "popularity": 449,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

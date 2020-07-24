@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/trocchi/v8/qWcqB6WkuIDxDZLcPrJeuA.ttf",
+      "eot": "https://fonts.gstatic.com/s/trocchi/v9/qWcqB6WkuIDxDZLcPrJeuQ.eot",
       "fontFamily": "'Trocchi'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/trocchi/v9/qWcqB6WkuIDxDZLcPrJeuw.woff",
       "local": [
         "Trocchi Regular",
         "Trocchi-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=qWcqB6WkuIDxDZLcPrJeug&skey=5da67ec0a0f56975&v=v8#Trocchi",
-      "eot": "https://fonts.gstatic.com/s/trocchi/v8/qWcqB6WkuIDxDZLcPrJeuQ.eot",
-      "woff2": "https://fonts.gstatic.com/s/trocchi/v8/qWcqB6WkuIDxDZLcPrJevQ.woff2",
-      "woff": "https://fonts.gstatic.com/s/trocchi/v8/qWcqB6WkuIDxDZLcPrJeuw.woff",
+      "woff2": "https://fonts.gstatic.com/s/trocchi/v9/qWcqB6WkuIDxDZLcPrJevQ.woff2",
+      "ttf": "https://fonts.gstatic.com/s/trocchi/v9/qWcqB6WkuIDxDZLcPrJeuA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=qWcqB6WkuIDxDZLcPrJeug&skey=5da67ec0a0f56975&v=v9#Trocchi",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "serif",
-  "version": "v8",
-  "lastModified": "2019-07-16",
-  "popularity": 431,
+  "version": "v9",
+  "lastModified": "2020-07-23",
+  "popularity": 503,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

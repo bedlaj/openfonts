@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/ribeyemarrow/v9/GFDsWApshnqMRO2JdtRZ2d0vIAsZUA.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=GFDsWApshnqMRO2JdtRZ2d0vIAsZUw&skey=b09ef2bd866c87a6&v=v10#RibeyeMarrow",
       "fontFamily": "'Ribeye Marrow'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "svg": "https://fonts.gstatic.com/l/font?kit=GFDsWApshnqMRO2JdtRZ2d0vIAsZUw&skey=b09ef2bd866c87a6&v=v9#RibeyeMarrow",
       "local": [
         "Ribeye Marrow",
         "RibeyeMarrow-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/ribeyemarrow/v9/GFDsWApshnqMRO2JdtRZ2d0vIAsZUg.woff",
-      "woff2": "https://fonts.gstatic.com/s/ribeyemarrow/v9/GFDsWApshnqMRO2JdtRZ2d0vIAsZVA.woff2",
-      "ttf": "https://fonts.gstatic.com/s/ribeyemarrow/v9/GFDsWApshnqMRO2JdtRZ2d0vIAsZUQ.ttf",
+      "woff": "https://fonts.gstatic.com/s/ribeyemarrow/v10/GFDsWApshnqMRO2JdtRZ2d0vIAsZUg.woff",
+      "eot": "https://fonts.gstatic.com/s/ribeyemarrow/v10/GFDsWApshnqMRO2JdtRZ2d0vIAsZUA.eot",
+      "ttf": "https://fonts.gstatic.com/s/ribeyemarrow/v10/GFDsWApshnqMRO2JdtRZ2d0vIAsZUQ.ttf",
+      "woff2": "https://fonts.gstatic.com/s/ribeyemarrow/v10/GFDsWApshnqMRO2JdtRZ2d0vIAsZVA.woff2",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "display",
-  "version": "v9",
-  "lastModified": "2019-07-16",
-  "popularity": 833,
+  "version": "v10",
+  "lastModified": "2020-07-23",
+  "popularity": 708,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/corben/v13/LYjDdGzzklQtCMpNpwNF.woff2",
+      "woff": "https://fonts.gstatic.com/s/corben/v14/LYjDdGzzklQtCMpNpwND.woff",
       "fontFamily": "'Corben'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,25 +12,25 @@
         "Corben Regular",
         "Corben-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/corben/v13/LYjDdGzzklQtCMpNpwND.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=LYjDdGzzklQtCMpNpwNC&skey=795061005e976bd6&v=v13#Corben",
-      "eot": "https://fonts.gstatic.com/s/corben/v13/LYjDdGzzklQtCMpNpwNB.eot",
-      "ttf": "https://fonts.gstatic.com/s/corben/v13/LYjDdGzzklQtCMpNpwNA.ttf",
+      "ttf": "https://fonts.gstatic.com/s/corben/v14/LYjDdGzzklQtCMpNpwNA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=LYjDdGzzklQtCMpNpwNC&skey=795061005e976bd6&v=v14#Corben",
+      "woff2": "https://fonts.gstatic.com/s/corben/v14/LYjDdGzzklQtCMpNpwNF.woff2",
+      "eot": "https://fonts.gstatic.com/s/corben/v14/LYjDdGzzklQtCMpNpwNB.eot",
       "errored": false
     },
     {
       "id": "700",
-      "eot": "https://fonts.gstatic.com/s/corben/v13/LYjAdGzzklQtCMpFHCZQqnou.eot",
+      "woff": "https://fonts.gstatic.com/s/corben/v14/LYjAdGzzklQtCMpFHCZQqnos.woff",
       "fontFamily": "'Corben'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff2": "https://fonts.gstatic.com/s/corben/v13/LYjAdGzzklQtCMpFHCZQqnoq.woff2",
       "local": [
         "Corben"
       ],
-      "woff": "https://fonts.gstatic.com/s/corben/v13/LYjAdGzzklQtCMpFHCZQqnos.woff",
-      "ttf": "https://fonts.gstatic.com/s/corben/v13/LYjAdGzzklQtCMpFHCZQqnov.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=LYjAdGzzklQtCMpFHCZQqnot&skey=f18040a69657653b&v=v13#Corben",
+      "woff2": "https://fonts.gstatic.com/s/corben/v14/LYjAdGzzklQtCMpFHCZQqnoq.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=LYjAdGzzklQtCMpFHCZQqnot&skey=f18040a69657653b&v=v14#Corben",
+      "ttf": "https://fonts.gstatic.com/s/corben/v14/LYjAdGzzklQtCMpFHCZQqnov.ttf",
+      "eot": "https://fonts.gstatic.com/s/corben/v14/LYjAdGzzklQtCMpFHCZQqnou.eot",
       "errored": false
     }
   ],
@@ -39,9 +39,9 @@
     "latin-ext"
   ],
   "category": "display",
-  "version": "v13",
-  "lastModified": "2019-07-16",
-  "popularity": 456,
+  "version": "v14",
+  "lastModified": "2020-07-23",
+  "popularity": 458,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

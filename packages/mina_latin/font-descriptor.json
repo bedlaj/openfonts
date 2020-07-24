@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/mina/v3/-nFzOGc18vARnzhp6g.ttf",
+      "ttf": "https://fonts.gstatic.com/s/mina/v4/-nFzOGc18vARnzhp6g.ttf",
       "fontFamily": "'Mina'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,43 +12,43 @@
         "Mina",
         "Mina-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/mina/v3/-nFzOGc18vARnzhp6Q.woff",
-      "eot": "https://fonts.gstatic.com/s/mina/v3/-nFzOGc18vARnzhp6w.eot",
-      "woff2": "https://fonts.gstatic.com/s/mina/v3/-nFzOGc18vARnzhp7w.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=-nFzOGc18vARnzhp6A&skey=443fdf0a1d81ab47&v=v3#Mina",
+      "svg": "https://fonts.gstatic.com/l/font?kit=-nFzOGc18vARnzhp6A&skey=443fdf0a1d81ab47&v=v4#Mina",
+      "woff": "https://fonts.gstatic.com/s/mina/v4/-nFzOGc18vARnzhp6Q.woff",
+      "woff2": "https://fonts.gstatic.com/s/mina/v4/-nFzOGc18vARnzhp7w.woff2",
+      "eot": "https://fonts.gstatic.com/s/mina/v4/-nFzOGc18vARnzhp6w.eot",
       "errored": false
     },
     {
       "id": "700",
-      "eot": "https://fonts.gstatic.com/s/mina/v3/-nF8OGc18vARl4NM-iLT8g.eot",
+      "eot": "https://fonts.gstatic.com/s/mina/v4/-nF8OGc18vARl4NM-iLT8g.eot",
       "fontFamily": "'Mina'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "ttf": "https://fonts.gstatic.com/s/mina/v3/-nF8OGc18vARl4NM-iLT8w.ttf",
+      "woff2": "https://fonts.gstatic.com/s/mina/v4/-nF8OGc18vARl4NM-iLT9g.woff2",
       "local": [
         "Mina Bold",
         "Mina-Bold"
       ],
-      "woff": "https://fonts.gstatic.com/s/mina/v3/-nF8OGc18vARl4NM-iLT8A.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=-nF8OGc18vARl4NM-iLT8Q&skey=c886375473c13d5&v=v3#Mina",
-      "woff2": "https://fonts.gstatic.com/s/mina/v3/-nF8OGc18vARl4NM-iLT9g.woff2",
+      "ttf": "https://fonts.gstatic.com/s/mina/v4/-nF8OGc18vARl4NM-iLT8w.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=-nF8OGc18vARl4NM-iLT8Q&skey=c886375473c13d5&v=v4#Mina",
+      "woff": "https://fonts.gstatic.com/s/mina/v4/-nF8OGc18vARl4NM-iLT8A.woff",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
     "bengali",
+    "latin",
     "latin-ext"
   ],
   "category": "sans-serif",
-  "version": "v3",
-  "lastModified": "2019-07-16",
-  "popularity": 754,
+  "version": "v4",
+  "lastModified": "2020-07-23",
+  "popularity": 779,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
     "bengali": false,
+    "latin": true,
     "latin-ext": false
   },
   "storeID": "latin"

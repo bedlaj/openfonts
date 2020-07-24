@@ -4,34 +4,34 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/sreekrushnadevaraya/v7/R70FjzQeifmPepmyQQjQ9kvwMkWYPfTA_HWc0l0.eot",
+      "woff2": "https://fonts.gstatic.com/s/sreekrushnadevaraya/v8/R70FjzQeifmPepmyQQjQ9kvwMkWYPfTA_HWc0lk.woff2",
       "fontFamily": "'Sree Krushnadevaraya'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/sreekrushnadevaraya/v7/R70FjzQeifmPepmyQQjQ9kvwMkWYPfTA_HWc0l8.woff",
       "local": [
         "Sree Krushnadevaraya",
         "SreeKrushnadevaraya"
       ],
-      "woff2": "https://fonts.gstatic.com/s/sreekrushnadevaraya/v7/R70FjzQeifmPepmyQQjQ9kvwMkWYPfTA_HWc0lk.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=R70FjzQeifmPepmyQQjQ9kvwMkWYPfTA_HWc0l4&skey=e1fc77f4532581af&v=v7#SreeKrushnadevaraya",
-      "ttf": "https://fonts.gstatic.com/s/sreekrushnadevaraya/v7/R70FjzQeifmPepmyQQjQ9kvwMkWYPfTA_HWc0lw.ttf",
+      "woff": "https://fonts.gstatic.com/s/sreekrushnadevaraya/v8/R70FjzQeifmPepmyQQjQ9kvwMkWYPfTA_HWc0l8.woff",
+      "ttf": "https://fonts.gstatic.com/s/sreekrushnadevaraya/v8/R70FjzQeifmPepmyQQjQ9kvwMkWYPfTA_HWc0lw.ttf",
+      "eot": "https://fonts.gstatic.com/s/sreekrushnadevaraya/v8/R70FjzQeifmPepmyQQjQ9kvwMkWYPfTA_HWc0l0.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=R70FjzQeifmPepmyQQjQ9kvwMkWYPfTA_HWc0l4&skey=e1fc77f4532581af&v=v8#SreeKrushnadevaraya",
       "errored": false
     }
   ],
   "subsets": [
-    "telugu",
-    "latin"
+    "latin",
+    "telugu"
   ],
   "category": "serif",
-  "version": "v7",
-  "lastModified": "2019-07-16",
-  "popularity": 788,
+  "version": "v8",
+  "lastModified": "2020-07-23",
+  "popularity": 834,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "telugu": false,
-    "latin": true
+    "latin": true,
+    "telugu": false
   },
   "storeID": "latin"
 }

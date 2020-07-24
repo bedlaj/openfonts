@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/sen/v1/6xKjdSxYI9_3kvWN.woff2",
+      "woff2": "https://fonts.gstatic.com/s/sen/v2/6xKjdSxYI9_3kvWN.woff2",
       "fontFamily": "'Sen'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,15 +12,31 @@
         "Sen Regular",
         "Sen-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/sen/v1/6xKjdSxYI9_3kvWJ.eot",
-      "woff": "https://fonts.gstatic.com/s/sen/v1/6xKjdSxYI9_3kvWL.woff",
-      "ttf": "https://fonts.gstatic.com/s/sen/v1/6xKjdSxYI9_3kvWI.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=6xKjdSxYI9_3kvWK&skey=d76fdf2735379328&v=v1#Sen",
+      "svg": "https://fonts.gstatic.com/l/font?kit=6xKjdSxYI9_3kvWK&skey=d76fdf2735379328&v=v2#Sen",
+      "woff": "https://fonts.gstatic.com/s/sen/v2/6xKjdSxYI9_3kvWL.woff",
+      "eot": "https://fonts.gstatic.com/s/sen/v2/6xKjdSxYI9_3kvWJ.eot",
+      "ttf": "https://fonts.gstatic.com/s/sen/v2/6xKjdSxYI9_3kvWI.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff2": "https://fonts.gstatic.com/s/sen/v2/6xKudSxYI9__J9CYI0v0.woff2",
+      "fontFamily": "'Sen'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Sen Bold",
+        "Sen-Bold"
+      ],
+      "woff": "https://fonts.gstatic.com/s/sen/v2/6xKudSxYI9__J9CYI0vy.woff",
+      "eot": "https://fonts.gstatic.com/s/sen/v2/6xKudSxYI9__J9CYI0vw.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=6xKudSxYI9__J9CYI0vz&skey=5df3d02d3642b643&v=v2#Sen",
+      "ttf": "https://fonts.gstatic.com/s/sen/v2/6xKudSxYI9__J9CYI0vx.ttf",
       "errored": false
     },
     {
       "id": "800",
-      "woff": "https://fonts.gstatic.com/s/sen/v1/6xKudSxYI9__O9OYI0vy.woff",
+      "woff": "https://fonts.gstatic.com/s/sen/v2/6xKudSxYI9__O9OYI0vy.woff",
       "fontFamily": "'Sen'",
       "fontStyle": "normal",
       "fontWeight": "800",
@@ -28,26 +44,10 @@
         "Sen ExtraBold",
         "Sen-ExtraBold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/sen/v1/6xKudSxYI9__O9OYI0v0.woff2",
-      "eot": "https://fonts.gstatic.com/s/sen/v1/6xKudSxYI9__O9OYI0vw.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=6xKudSxYI9__O9OYI0vz&skey=2c0ab5ec745faadb&v=v1#Sen",
-      "ttf": "https://fonts.gstatic.com/s/sen/v1/6xKudSxYI9__O9OYI0vx.ttf",
-      "errored": false
-    },
-    {
-      "id": "700",
-      "eot": "https://fonts.gstatic.com/s/sen/v1/6xKudSxYI9__J9CYI0vw.eot",
-      "fontFamily": "'Sen'",
-      "fontStyle": "normal",
-      "fontWeight": "700",
-      "woff2": "https://fonts.gstatic.com/s/sen/v1/6xKudSxYI9__J9CYI0v0.woff2",
-      "local": [
-        "Sen Bold",
-        "Sen-Bold"
-      ],
-      "ttf": "https://fonts.gstatic.com/s/sen/v1/6xKudSxYI9__J9CYI0vx.ttf",
-      "woff": "https://fonts.gstatic.com/s/sen/v1/6xKudSxYI9__J9CYI0vy.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=6xKudSxYI9__J9CYI0vz&skey=5df3d02d3642b643&v=v1#Sen",
+      "woff2": "https://fonts.gstatic.com/s/sen/v2/6xKudSxYI9__O9OYI0v0.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=6xKudSxYI9__O9OYI0vz&skey=2c0ab5ec745faadb&v=v2#Sen",
+      "ttf": "https://fonts.gstatic.com/s/sen/v2/6xKudSxYI9__O9OYI0vx.ttf",
+      "eot": "https://fonts.gstatic.com/s/sen/v2/6xKudSxYI9__O9OYI0vw.eot",
       "errored": false
     }
   ],
@@ -56,9 +56,9 @@
     "latin-ext"
   ],
   "category": "sans-serif",
-  "version": "v1",
-  "lastModified": "2020-04-21",
-  "popularity": 553,
+  "version": "v2",
+  "lastModified": "2020-07-23",
+  "popularity": 543,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

@@ -4,70 +4,70 @@
   "variants": [
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=snfus0W_99N64iuYSvp4W_l-&skey=3edeced652c7f867&v=v4#DavidLibre",
+      "eot": "https://fonts.gstatic.com/s/davidlibre/v5/snfus0W_99N64iuYSvp4W_l9.eot",
       "fontFamily": "'David Libre'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/davidlibre/v5/snfus0W_99N64iuYSvp4W_l_.woff",
       "local": [
         "David Libre",
         "DavidLibre-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/davidlibre/v4/snfus0W_99N64iuYSvp4W_l_.woff",
-      "eot": "https://fonts.gstatic.com/s/davidlibre/v4/snfus0W_99N64iuYSvp4W_l9.eot",
-      "woff2": "https://fonts.gstatic.com/s/davidlibre/v4/snfus0W_99N64iuYSvp4W_l5.woff2",
-      "ttf": "https://fonts.gstatic.com/s/davidlibre/v4/snfus0W_99N64iuYSvp4W_l8.ttf",
+      "woff2": "https://fonts.gstatic.com/s/davidlibre/v5/snfus0W_99N64iuYSvp4W_l5.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=snfus0W_99N64iuYSvp4W_l-&skey=3edeced652c7f867&v=v5#DavidLibre",
+      "ttf": "https://fonts.gstatic.com/s/davidlibre/v5/snfus0W_99N64iuYSvp4W_l8.ttf",
       "errored": false
     },
     {
       "id": "500",
-      "eot": "https://fonts.gstatic.com/s/davidlibre/v4/snfzs0W_99N64iuYSvp4W8GIw7qa.eot",
+      "eot": "https://fonts.gstatic.com/s/davidlibre/v5/snfzs0W_99N64iuYSvp4W8GIw7qa.eot",
       "fontFamily": "'David Libre'",
       "fontStyle": "normal",
       "fontWeight": "500",
-      "ttf": "https://fonts.gstatic.com/s/davidlibre/v4/snfzs0W_99N64iuYSvp4W8GIw7qb.ttf",
+      "woff": "https://fonts.gstatic.com/s/davidlibre/v5/snfzs0W_99N64iuYSvp4W8GIw7qY.woff",
       "local": [
         "David Libre Medium",
         "DavidLibre-Medium"
       ],
-      "woff2": "https://fonts.gstatic.com/s/davidlibre/v4/snfzs0W_99N64iuYSvp4W8GIw7qe.woff2",
-      "woff": "https://fonts.gstatic.com/s/davidlibre/v4/snfzs0W_99N64iuYSvp4W8GIw7qY.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=snfzs0W_99N64iuYSvp4W8GIw7qZ&skey=68ec32da19b248d3&v=v4#DavidLibre",
+      "woff2": "https://fonts.gstatic.com/s/davidlibre/v5/snfzs0W_99N64iuYSvp4W8GIw7qe.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=snfzs0W_99N64iuYSvp4W8GIw7qZ&skey=68ec32da19b248d3&v=v5#DavidLibre",
+      "ttf": "https://fonts.gstatic.com/s/davidlibre/v5/snfzs0W_99N64iuYSvp4W8GIw7qb.ttf",
       "errored": false
     },
     {
       "id": "700",
-      "eot": "https://fonts.gstatic.com/s/davidlibre/v4/snfzs0W_99N64iuYSvp4W8HAxbqa.eot",
+      "eot": "https://fonts.gstatic.com/s/davidlibre/v5/snfzs0W_99N64iuYSvp4W8HAxbqa.eot",
       "fontFamily": "'David Libre'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/davidlibre/v4/snfzs0W_99N64iuYSvp4W8HAxbqY.woff",
+      "woff": "https://fonts.gstatic.com/s/davidlibre/v5/snfzs0W_99N64iuYSvp4W8HAxbqY.woff",
       "local": [
         "David Libre Bold",
         "DavidLibre-Bold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/davidlibre/v4/snfzs0W_99N64iuYSvp4W8HAxbqe.woff2",
-      "ttf": "https://fonts.gstatic.com/s/davidlibre/v4/snfzs0W_99N64iuYSvp4W8HAxbqb.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=snfzs0W_99N64iuYSvp4W8HAxbqZ&skey=d1ee03efca576c07&v=v4#DavidLibre",
+      "svg": "https://fonts.gstatic.com/l/font?kit=snfzs0W_99N64iuYSvp4W8HAxbqZ&skey=d1ee03efca576c07&v=v5#DavidLibre",
+      "woff2": "https://fonts.gstatic.com/s/davidlibre/v5/snfzs0W_99N64iuYSvp4W8HAxbqe.woff2",
+      "ttf": "https://fonts.gstatic.com/s/davidlibre/v5/snfzs0W_99N64iuYSvp4W8HAxbqb.ttf",
       "errored": false
     }
   ],
   "subsets": [
     "hebrew",
-    "vietnamese",
     "latin",
-    "latin-ext"
+    "latin-ext",
+    "vietnamese"
   ],
   "category": "serif",
-  "version": "v4",
-  "lastModified": "2019-07-16",
-  "popularity": 412,
+  "version": "v5",
+  "lastModified": "2020-07-23",
+  "popularity": 611,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "hebrew": true,
-    "vietnamese": true,
     "latin": true,
-    "latin-ext": true
+    "latin-ext": true,
+    "vietnamese": true
   },
-  "storeID": "latin-ext_latin_vietnamese_hebrew"
+  "storeID": "vietnamese_latin-ext_latin_hebrew"
 }

@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/milonga/v7/SZc53FHnIaK9W5kfTzrMkA.woff2",
+      "eot": "https://fonts.gstatic.com/s/milonga/v8/SZc53FHnIaK9W5kfTzrMlA.eot",
       "fontFamily": "'Milonga'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/milonga/v8/SZc53FHnIaK9W5kfTzrMlg.woff",
       "local": [
         "Milonga",
         "Milonga-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/milonga/v7/SZc53FHnIaK9W5kfTzrMlg.woff",
-      "eot": "https://fonts.gstatic.com/s/milonga/v7/SZc53FHnIaK9W5kfTzrMlA.eot",
-      "ttf": "https://fonts.gstatic.com/s/milonga/v7/SZc53FHnIaK9W5kfTzrMlQ.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=SZc53FHnIaK9W5kfTzrMlw&skey=db6287e2596efbcb&v=v7#Milonga",
+      "woff2": "https://fonts.gstatic.com/s/milonga/v8/SZc53FHnIaK9W5kfTzrMkA.woff2",
+      "ttf": "https://fonts.gstatic.com/s/milonga/v8/SZc53FHnIaK9W5kfTzrMlQ.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=SZc53FHnIaK9W5kfTzrMlw&skey=db6287e2596efbcb&v=v8#Milonga",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "display",
-  "version": "v7",
-  "lastModified": "2019-07-16",
-  "popularity": 665,
+  "version": "v8",
+  "lastModified": "2020-07-23",
+  "popularity": 757,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

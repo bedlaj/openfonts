@@ -4,17 +4,17 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/salsa/v9/gNMKW3FiRpKj-hmf-HY.woff2",
+      "ttf": "https://fonts.gstatic.com/s/salsa/v10/gNMKW3FiRpKj-hmf-HM.ttf",
       "fontFamily": "'Salsa'",
       "fontStyle": "normal",
       "fontWeight": "400",
       "local": [
         "Salsa-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/salsa/v9/gNMKW3FiRpKj-hmf-HI.eot",
-      "ttf": "https://fonts.gstatic.com/s/salsa/v9/gNMKW3FiRpKj-hmf-HM.ttf",
-      "woff": "https://fonts.gstatic.com/s/salsa/v9/gNMKW3FiRpKj-hmf-HA.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=gNMKW3FiRpKj-hmf-HE&skey=985c78b6ec74c6ef&v=v9#Salsa",
+      "woff2": "https://fonts.gstatic.com/s/salsa/v10/gNMKW3FiRpKj-hmf-HY.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=gNMKW3FiRpKj-hmf-HE&skey=985c78b6ec74c6ef&v=v10#Salsa",
+      "eot": "https://fonts.gstatic.com/s/salsa/v10/gNMKW3FiRpKj-hmf-HI.eot",
+      "woff": "https://fonts.gstatic.com/s/salsa/v10/gNMKW3FiRpKj-hmf-HA.woff",
       "errored": false
     }
   ],
@@ -22,9 +22,9 @@
     "latin"
   ],
   "category": "display",
-  "version": "v9",
-  "lastModified": "2019-07-16",
-  "popularity": 584,
+  "version": "v10",
+  "lastModified": "2020-07-23",
+  "popularity": 564,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

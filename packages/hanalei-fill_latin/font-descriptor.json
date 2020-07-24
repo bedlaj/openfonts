@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/hanaleifill/v8/fC1mPYtObGbfyQznIaQzPQi8UAjF.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=fC1mPYtObGbfyQznIaQzPQi8UAjH&skey=acc33bda7cb3835&v=v9#HanaleiFill",
       "fontFamily": "'Hanalei Fill'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Hanalei Fill",
         "HanaleiFill-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=fC1mPYtObGbfyQznIaQzPQi8UAjH&skey=acc33bda7cb3835&v=v8#HanaleiFill",
-      "woff": "https://fonts.gstatic.com/s/hanaleifill/v8/fC1mPYtObGbfyQznIaQzPQi8UAjG.woff",
-      "eot": "https://fonts.gstatic.com/s/hanaleifill/v8/fC1mPYtObGbfyQznIaQzPQi8UAjE.eot",
-      "woff2": "https://fonts.gstatic.com/s/hanaleifill/v8/fC1mPYtObGbfyQznIaQzPQi8UAjA.woff2",
+      "eot": "https://fonts.gstatic.com/s/hanaleifill/v9/fC1mPYtObGbfyQznIaQzPQi8UAjE.eot",
+      "ttf": "https://fonts.gstatic.com/s/hanaleifill/v9/fC1mPYtObGbfyQznIaQzPQi8UAjF.ttf",
+      "woff": "https://fonts.gstatic.com/s/hanaleifill/v9/fC1mPYtObGbfyQznIaQzPQi8UAjG.woff",
+      "woff2": "https://fonts.gstatic.com/s/hanaleifill/v9/fC1mPYtObGbfyQznIaQzPQi8UAjA.woff2",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "display",
-  "version": "v8",
-  "lastModified": "2019-07-16",
-  "popularity": 605,
+  "version": "v9",
+  "lastModified": "2020-07-23",
+  "popularity": 855,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

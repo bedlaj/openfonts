@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "italic",
-      "woff2": "https://fonts.gstatic.com/s/molle/v8/E21n_dL5hOXFhWEsbz8sVg.woff2",
+      "eot": "https://fonts.gstatic.com/s/molle/v9/E21n_dL5hOXFhWEsbz8sUg.eot",
       "fontFamily": "'Molle'",
       "fontStyle": "italic",
       "fontWeight": "400",
+      "ttf": "https://fonts.gstatic.com/s/molle/v9/E21n_dL5hOXFhWEsbz8sUw.ttf",
       "local": [
         "Molle",
         "Molle-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/molle/v8/E21n_dL5hOXFhWEsbz8sUA.woff",
-      "eot": "https://fonts.gstatic.com/s/molle/v8/E21n_dL5hOXFhWEsbz8sUg.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=E21n_dL5hOXFhWEsbz8sUQ&skey=f55d6ddb7bd7ec17&v=v8#Molle",
-      "ttf": "https://fonts.gstatic.com/s/molle/v8/E21n_dL5hOXFhWEsbz8sUw.ttf",
+      "woff2": "https://fonts.gstatic.com/s/molle/v9/E21n_dL5hOXFhWEsbz8sVg.woff2",
+      "woff": "https://fonts.gstatic.com/s/molle/v9/E21n_dL5hOXFhWEsbz8sUA.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=E21n_dL5hOXFhWEsbz8sUQ&skey=f55d6ddb7bd7ec17&v=v9#Molle",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "handwriting",
-  "version": "v8",
-  "lastModified": "2019-07-16",
-  "popularity": 848,
+  "version": "v9",
+  "lastModified": "2020-07-23",
+  "popularity": 865,
   "defSubset": "latin",
   "defVariant": "italic",
   "subsetMap": {

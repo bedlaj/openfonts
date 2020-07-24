@@ -4,36 +4,36 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/bungeeoutline/v5/_6_mEDvmVP24UvU2MyiGDslL3Tg-aBc.eot",
+      "woff2": "https://fonts.gstatic.com/s/bungeeoutline/v6/_6_mEDvmVP24UvU2MyiGDslL3Tg-aBM.woff2",
       "fontFamily": "'Bungee Outline'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/bungeeoutline/v5/_6_mEDvmVP24UvU2MyiGDslL3Tg-aBU.woff",
       "local": [
         "Bungee Outline",
         "BungeeOutline-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=_6_mEDvmVP24UvU2MyiGDslL3Tg-aBQ&skey=29f00acf17ba0cd1&v=v5#BungeeOutline",
-      "ttf": "https://fonts.gstatic.com/s/bungeeoutline/v5/_6_mEDvmVP24UvU2MyiGDslL3Tg-aBY.ttf",
-      "woff2": "https://fonts.gstatic.com/s/bungeeoutline/v5/_6_mEDvmVP24UvU2MyiGDslL3Tg-aBM.woff2",
+      "woff": "https://fonts.gstatic.com/s/bungeeoutline/v6/_6_mEDvmVP24UvU2MyiGDslL3Tg-aBU.woff",
+      "ttf": "https://fonts.gstatic.com/s/bungeeoutline/v6/_6_mEDvmVP24UvU2MyiGDslL3Tg-aBY.ttf",
+      "eot": "https://fonts.gstatic.com/s/bungeeoutline/v6/_6_mEDvmVP24UvU2MyiGDslL3Tg-aBc.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=_6_mEDvmVP24UvU2MyiGDslL3Tg-aBQ&skey=29f00acf17ba0cd1&v=v6#BungeeOutline",
       "errored": false
     }
   ],
   "subsets": [
-    "vietnamese",
     "latin",
-    "latin-ext"
+    "latin-ext",
+    "vietnamese"
   ],
   "category": "display",
-  "version": "v5",
-  "lastModified": "2019-07-16",
-  "popularity": 905,
+  "version": "v6",
+  "lastModified": "2020-07-23",
+  "popularity": 940,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "vietnamese": false,
     "latin": true,
-    "latin-ext": true
+    "latin-ext": true,
+    "vietnamese": false
   },
   "storeID": "latin-ext_latin"
 }

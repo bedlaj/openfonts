@@ -4,17 +4,17 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/khmer/v12/MjQImit_vPPwpG-Nrtw.woff2",
+      "eot": "https://fonts.gstatic.com/s/khmer/v13/MjQImit_vPPwpG-Nrtg.eot",
       "fontFamily": "'Khmer'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/khmer/v13/MjQImit_vPPwpG-Nrtw.woff2",
       "local": [
         "Khmer"
       ],
-      "eot": "https://fonts.gstatic.com/s/khmer/v12/MjQImit_vPPwpG-Nrtg.eot",
-      "woff": "https://fonts.gstatic.com/s/khmer/v12/MjQImit_vPPwpG-Nrto.woff",
-      "ttf": "https://fonts.gstatic.com/s/khmer/v12/MjQImit_vPPwpG-Nrtk.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=MjQImit_vPPwpG-Nrts&skey=6527b71fcb030ef0&v=v12#Khmer",
+      "woff": "https://fonts.gstatic.com/s/khmer/v13/MjQImit_vPPwpG-Nrto.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=MjQImit_vPPwpG-Nrts&skey=6527b71fcb030ef0&v=v13#Khmer",
+      "ttf": "https://fonts.gstatic.com/s/khmer/v13/MjQImit_vPPwpG-Nrtk.ttf",
       "errored": false
     }
   ],
@@ -22,9 +22,9 @@
     "khmer"
   ],
   "category": "display",
-  "version": "v12",
-  "lastModified": "2019-07-16",
-  "popularity": 677,
+  "version": "v13",
+  "lastModified": "2020-07-23",
+  "popularity": 755,
   "defSubset": "khmer",
   "defVariant": "regular",
   "subsetMap": {

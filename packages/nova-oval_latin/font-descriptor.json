@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/novaoval/v11/jAnEgHdmANHvPenMaswyNoWk.eot",
+      "woff": "https://fonts.gstatic.com/s/novaoval/v12/jAnEgHdmANHvPenMaswyNoWm.woff",
       "fontFamily": "'Nova Oval'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/novaoval/v11/jAnEgHdmANHvPenMaswyNoWg.woff2",
       "local": [
         "Nova Oval",
         "NovaOval"
       ],
-      "woff": "https://fonts.gstatic.com/s/novaoval/v11/jAnEgHdmANHvPenMaswyNoWm.woff",
-      "ttf": "https://fonts.gstatic.com/s/novaoval/v11/jAnEgHdmANHvPenMaswyNoWl.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=jAnEgHdmANHvPenMaswyNoWn&skey=e3610a8d67a56934&v=v11#NovaOval",
+      "svg": "https://fonts.gstatic.com/l/font?kit=jAnEgHdmANHvPenMaswyNoWn&skey=e3610a8d67a56934&v=v12#NovaOval",
+      "ttf": "https://fonts.gstatic.com/s/novaoval/v12/jAnEgHdmANHvPenMaswyNoWl.ttf",
+      "eot": "https://fonts.gstatic.com/s/novaoval/v12/jAnEgHdmANHvPenMaswyNoWk.eot",
+      "woff2": "https://fonts.gstatic.com/s/novaoval/v12/jAnEgHdmANHvPenMaswyNoWg.woff2",
       "errored": false
     }
   ],
@@ -23,9 +23,9 @@
     "latin"
   ],
   "category": "display",
-  "version": "v11",
-  "lastModified": "2019-07-16",
-  "popularity": 891,
+  "version": "v12",
+  "lastModified": "2020-07-23",
+  "popularity": 957,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

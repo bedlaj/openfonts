@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/majormonodisplay/v4/RWmVoLyb5fEqtsfBX9PDZIGr2tFubRh7DXeX.woff",
+      "woff2": "https://fonts.gstatic.com/s/majormonodisplay/v5/RWmVoLyb5fEqtsfBX9PDZIGr2tFubRh7DXeR.woff2",
       "fontFamily": "'Major Mono Display'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,28 +12,28 @@
         "Major Mono Display Regular",
         "MajorMonoDisplay-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=RWmVoLyb5fEqtsfBX9PDZIGr2tFubRh7DXeW&skey=83d62fa7110a1053&v=v4#MajorMonoDisplay",
-      "woff2": "https://fonts.gstatic.com/s/majormonodisplay/v4/RWmVoLyb5fEqtsfBX9PDZIGr2tFubRh7DXeR.woff2",
-      "eot": "https://fonts.gstatic.com/s/majormonodisplay/v4/RWmVoLyb5fEqtsfBX9PDZIGr2tFubRh7DXeV.eot",
-      "ttf": "https://fonts.gstatic.com/s/majormonodisplay/v4/RWmVoLyb5fEqtsfBX9PDZIGr2tFubRh7DXeU.ttf",
+      "ttf": "https://fonts.gstatic.com/s/majormonodisplay/v5/RWmVoLyb5fEqtsfBX9PDZIGr2tFubRh7DXeU.ttf",
+      "eot": "https://fonts.gstatic.com/s/majormonodisplay/v5/RWmVoLyb5fEqtsfBX9PDZIGr2tFubRh7DXeV.eot",
+      "woff": "https://fonts.gstatic.com/s/majormonodisplay/v5/RWmVoLyb5fEqtsfBX9PDZIGr2tFubRh7DXeX.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=RWmVoLyb5fEqtsfBX9PDZIGr2tFubRh7DXeW&skey=83d62fa7110a1053&v=v5#MajorMonoDisplay",
       "errored": false
     }
   ],
   "subsets": [
+    "latin",
     "latin-ext",
-    "vietnamese",
-    "latin"
+    "vietnamese"
   ],
   "category": "monospace",
-  "version": "v4",
-  "lastModified": "2019-11-22",
-  "popularity": 884,
+  "version": "v5",
+  "lastModified": "2020-07-23",
+  "popularity": 839,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
+    "latin": true,
     "latin-ext": false,
-    "vietnamese": false,
-    "latin": true
+    "vietnamese": false
   },
   "storeID": "latin"
 }

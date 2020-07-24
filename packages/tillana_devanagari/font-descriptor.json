@@ -4,23 +4,55 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/tillana/v5/VuJxdNvf35P4qJ1OSKDdOQ.woff2",
+      "eot": "https://fonts.gstatic.com/s/tillana/v6/VuJxdNvf35P4qJ1OSKDdPQ.eot",
       "fontFamily": "'Tillana'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "svg": "https://fonts.gstatic.com/l/font?kit=VuJxdNvf35P4qJ1OSKDdPg&skey=ca2cb923082f4f9a&v=v6#Tillana",
       "local": [
         "Tillana Regular",
         "Tillana-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=VuJxdNvf35P4qJ1OSKDdPg&skey=ca2cb923082f4f9a&v=v5#Tillana",
-      "woff": "https://fonts.gstatic.com/s/tillana/v5/VuJxdNvf35P4qJ1OSKDdPw.woff",
-      "eot": "https://fonts.gstatic.com/s/tillana/v5/VuJxdNvf35P4qJ1OSKDdPQ.eot",
-      "ttf": "https://fonts.gstatic.com/s/tillana/v5/VuJxdNvf35P4qJ1OSKDdPA.ttf",
+      "ttf": "https://fonts.gstatic.com/s/tillana/v6/VuJxdNvf35P4qJ1OSKDdPA.ttf",
+      "woff": "https://fonts.gstatic.com/s/tillana/v6/VuJxdNvf35P4qJ1OSKDdPw.woff",
+      "woff2": "https://fonts.gstatic.com/s/tillana/v6/VuJxdNvf35P4qJ1OSKDdOQ.woff2",
+      "errored": false
+    },
+    {
+      "id": "600",
+      "eot": "https://fonts.gstatic.com/s/tillana/v6/VuJ0dNvf35P4qJ1OQH75LI9GYA.eot",
+      "fontFamily": "'Tillana'",
+      "fontStyle": "normal",
+      "fontWeight": "600",
+      "woff2": "https://fonts.gstatic.com/s/tillana/v6/VuJ0dNvf35P4qJ1OQH75LI9GZA.woff2",
+      "local": [
+        "Tillana SemiBold",
+        "Tillana-SemiBold"
+      ],
+      "woff": "https://fonts.gstatic.com/s/tillana/v6/VuJ0dNvf35P4qJ1OQH75LI9GYg.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=VuJ0dNvf35P4qJ1OQH75LI9GYw&skey=7b349d8b2c0c1a6a&v=v6#Tillana",
+      "ttf": "https://fonts.gstatic.com/s/tillana/v6/VuJ0dNvf35P4qJ1OQH75LI9GYQ.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/tillana/v6/VuJ0dNvf35P4qJ1OQBr4LI9GYA.eot",
+      "fontFamily": "'Tillana'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff2": "https://fonts.gstatic.com/s/tillana/v6/VuJ0dNvf35P4qJ1OQBr4LI9GZA.woff2",
+      "local": [
+        "Tillana Bold",
+        "Tillana-Bold"
+      ],
+      "woff": "https://fonts.gstatic.com/s/tillana/v6/VuJ0dNvf35P4qJ1OQBr4LI9GYg.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=VuJ0dNvf35P4qJ1OQBr4LI9GYw&skey=1712e2177469f846&v=v6#Tillana",
+      "ttf": "https://fonts.gstatic.com/s/tillana/v6/VuJ0dNvf35P4qJ1OQBr4LI9GYQ.ttf",
       "errored": false
     },
     {
       "id": "500",
-      "woff": "https://fonts.gstatic.com/s/tillana/v5/VuJ0dNvf35P4qJ1OQFL-LI9GYg.woff",
+      "woff": "https://fonts.gstatic.com/s/tillana/v6/VuJ0dNvf35P4qJ1OQFL-LI9GYg.woff",
       "fontFamily": "'Tillana'",
       "fontStyle": "normal",
       "fontWeight": "500",
@@ -28,58 +60,26 @@
         "Tillana Medium",
         "Tillana-Medium"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=VuJ0dNvf35P4qJ1OQFL-LI9GYw&skey=95bb8da8c5d94cdc&v=v5#Tillana",
-      "ttf": "https://fonts.gstatic.com/s/tillana/v5/VuJ0dNvf35P4qJ1OQFL-LI9GYQ.ttf",
-      "woff2": "https://fonts.gstatic.com/s/tillana/v5/VuJ0dNvf35P4qJ1OQFL-LI9GZA.woff2",
-      "eot": "https://fonts.gstatic.com/s/tillana/v5/VuJ0dNvf35P4qJ1OQFL-LI9GYA.eot",
-      "errored": false
-    },
-    {
-      "id": "700",
-      "eot": "https://fonts.gstatic.com/s/tillana/v5/VuJ0dNvf35P4qJ1OQBr4LI9GYA.eot",
-      "fontFamily": "'Tillana'",
-      "fontStyle": "normal",
-      "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/tillana/v5/VuJ0dNvf35P4qJ1OQBr4LI9GYg.woff",
-      "local": [
-        "Tillana Bold",
-        "Tillana-Bold"
-      ],
-      "ttf": "https://fonts.gstatic.com/s/tillana/v5/VuJ0dNvf35P4qJ1OQBr4LI9GYQ.ttf",
-      "woff2": "https://fonts.gstatic.com/s/tillana/v5/VuJ0dNvf35P4qJ1OQBr4LI9GZA.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=VuJ0dNvf35P4qJ1OQBr4LI9GYw&skey=1712e2177469f846&v=v5#Tillana",
-      "errored": false
-    },
-    {
-      "id": "600",
-      "woff": "https://fonts.gstatic.com/s/tillana/v5/VuJ0dNvf35P4qJ1OQH75LI9GYg.woff",
-      "fontFamily": "'Tillana'",
-      "fontStyle": "normal",
-      "fontWeight": "600",
-      "local": [
-        "Tillana SemiBold",
-        "Tillana-SemiBold"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=VuJ0dNvf35P4qJ1OQH75LI9GYw&skey=7b349d8b2c0c1a6a&v=v5#Tillana",
-      "woff2": "https://fonts.gstatic.com/s/tillana/v5/VuJ0dNvf35P4qJ1OQH75LI9GZA.woff2",
-      "ttf": "https://fonts.gstatic.com/s/tillana/v5/VuJ0dNvf35P4qJ1OQH75LI9GYQ.ttf",
-      "eot": "https://fonts.gstatic.com/s/tillana/v5/VuJ0dNvf35P4qJ1OQH75LI9GYA.eot",
+      "eot": "https://fonts.gstatic.com/s/tillana/v6/VuJ0dNvf35P4qJ1OQFL-LI9GYA.eot",
+      "ttf": "https://fonts.gstatic.com/s/tillana/v6/VuJ0dNvf35P4qJ1OQFL-LI9GYQ.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=VuJ0dNvf35P4qJ1OQFL-LI9GYw&skey=95bb8da8c5d94cdc&v=v6#Tillana",
+      "woff2": "https://fonts.gstatic.com/s/tillana/v6/VuJ0dNvf35P4qJ1OQFL-LI9GZA.woff2",
       "errored": false
     },
     {
       "id": "800",
-      "eot": "https://fonts.gstatic.com/s/tillana/v5/VuJ0dNvf35P4qJ1OQAb7LI9GYA.eot",
+      "eot": "https://fonts.gstatic.com/s/tillana/v6/VuJ0dNvf35P4qJ1OQAb7LI9GYA.eot",
       "fontFamily": "'Tillana'",
       "fontStyle": "normal",
       "fontWeight": "800",
-      "woff2": "https://fonts.gstatic.com/s/tillana/v5/VuJ0dNvf35P4qJ1OQAb7LI9GZA.woff2",
+      "woff": "https://fonts.gstatic.com/s/tillana/v6/VuJ0dNvf35P4qJ1OQAb7LI9GYg.woff",
       "local": [
         "Tillana ExtraBold",
         "Tillana-ExtraBold"
       ],
-      "ttf": "https://fonts.gstatic.com/s/tillana/v5/VuJ0dNvf35P4qJ1OQAb7LI9GYQ.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=VuJ0dNvf35P4qJ1OQAb7LI9GYw&skey=e32709bfa5ab92a7&v=v5#Tillana",
-      "woff": "https://fonts.gstatic.com/s/tillana/v5/VuJ0dNvf35P4qJ1OQAb7LI9GYg.woff",
+      "woff2": "https://fonts.gstatic.com/s/tillana/v6/VuJ0dNvf35P4qJ1OQAb7LI9GZA.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=VuJ0dNvf35P4qJ1OQAb7LI9GYw&skey=e32709bfa5ab92a7&v=v6#Tillana",
+      "ttf": "https://fonts.gstatic.com/s/tillana/v6/VuJ0dNvf35P4qJ1OQAb7LI9GYQ.ttf",
       "errored": false
     }
   ],
@@ -89,9 +89,9 @@
     "latin-ext"
   ],
   "category": "handwriting",
-  "version": "v5",
-  "lastModified": "2019-07-16",
-  "popularity": 772,
+  "version": "v6",
+  "lastModified": "2020-07-23",
+  "popularity": 744,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

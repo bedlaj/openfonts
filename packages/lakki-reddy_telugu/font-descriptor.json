@@ -4,34 +4,34 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/lakkireddy/v6/S6u5w49MUSzD9jlCPmvLZTfzzdw.eot",
+      "woff": "https://fonts.gstatic.com/s/lakkireddy/v7/S6u5w49MUSzD9jlCPmvLZTfzzd4.woff",
       "fontFamily": "'Lakki Reddy'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/lakkireddy/v6/S6u5w49MUSzD9jlCPmvLZTfzzdg.woff2",
       "local": [
         "Lakki Reddy",
         "LakkiReddy"
       ],
-      "ttf": "https://fonts.gstatic.com/s/lakkireddy/v6/S6u5w49MUSzD9jlCPmvLZTfzzd0.ttf",
-      "woff": "https://fonts.gstatic.com/s/lakkireddy/v6/S6u5w49MUSzD9jlCPmvLZTfzzd4.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=S6u5w49MUSzD9jlCPmvLZTfzzd8&skey=6d3860caa41babe7&v=v6#LakkiReddy",
+      "woff2": "https://fonts.gstatic.com/s/lakkireddy/v7/S6u5w49MUSzD9jlCPmvLZTfzzdg.woff2",
+      "eot": "https://fonts.gstatic.com/s/lakkireddy/v7/S6u5w49MUSzD9jlCPmvLZTfzzdw.eot",
+      "ttf": "https://fonts.gstatic.com/s/lakkireddy/v7/S6u5w49MUSzD9jlCPmvLZTfzzd0.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=S6u5w49MUSzD9jlCPmvLZTfzzd8&skey=6d3860caa41babe7&v=v7#LakkiReddy",
       "errored": false
     }
   ],
   "subsets": [
-    "telugu",
-    "latin"
+    "latin",
+    "telugu"
   ],
   "category": "handwriting",
-  "version": "v6",
-  "lastModified": "2019-07-16",
-  "popularity": 878,
+  "version": "v7",
+  "lastModified": "2020-07-23",
+  "popularity": 765,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "telugu": true,
-    "latin": true
+    "latin": true,
+    "telugu": true
   },
-  "storeID": "latin_telugu"
+  "storeID": "telugu_latin"
 }

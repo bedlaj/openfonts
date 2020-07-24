@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/textmeone/v7/i7dOIFdlayuLUvgoFvHQFVZbYFI.ttf",
+      "eot": "https://fonts.gstatic.com/s/textmeone/v8/i7dOIFdlayuLUvgoFvHQFVZbYFM.eot",
       "fontFamily": "'Text Me One'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/textmeone/v8/i7dOIFdlayuLUvgoFvHQFVZbYFE.woff",
       "local": [
         "Text Me One",
         "TextMeOne-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/textmeone/v7/i7dOIFdlayuLUvgoFvHQFVZbYFE.woff",
-      "eot": "https://fonts.gstatic.com/s/textmeone/v7/i7dOIFdlayuLUvgoFvHQFVZbYFM.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=i7dOIFdlayuLUvgoFvHQFVZbYFA&skey=e4462b563ebfbe6&v=v7#TextMeOne",
-      "woff2": "https://fonts.gstatic.com/s/textmeone/v7/i7dOIFdlayuLUvgoFvHQFVZbYFc.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=i7dOIFdlayuLUvgoFvHQFVZbYFA&skey=e4462b563ebfbe6&v=v8#TextMeOne",
+      "ttf": "https://fonts.gstatic.com/s/textmeone/v8/i7dOIFdlayuLUvgoFvHQFVZbYFI.ttf",
+      "woff2": "https://fonts.gstatic.com/s/textmeone/v8/i7dOIFdlayuLUvgoFvHQFVZbYFc.woff2",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "sans-serif",
-  "version": "v7",
-  "lastModified": "2019-07-16",
-  "popularity": 737,
+  "version": "v8",
+  "lastModified": "2020-07-23",
+  "popularity": 777,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

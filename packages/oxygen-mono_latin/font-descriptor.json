@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/oxygenmono/v7/h0GsssGg9FxgDgCjLeAd7hjYx-o.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=h0GsssGg9FxgDgCjLeAd7hjYx-k&skey=464e9f9167c9e76a&v=v8#OxygenMono",
       "fontFamily": "'Oxygen Mono'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/oxygenmono/v7/h0GsssGg9FxgDgCjLeAd7hjYx-4.woff2",
       "local": [
         "Oxygen Mono",
         "OxygenMono-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=h0GsssGg9FxgDgCjLeAd7hjYx-k&skey=464e9f9167c9e76a&v=v7#OxygenMono",
-      "ttf": "https://fonts.gstatic.com/s/oxygenmono/v7/h0GsssGg9FxgDgCjLeAd7hjYx-s.ttf",
-      "woff": "https://fonts.gstatic.com/s/oxygenmono/v7/h0GsssGg9FxgDgCjLeAd7hjYx-g.woff",
+      "eot": "https://fonts.gstatic.com/s/oxygenmono/v8/h0GsssGg9FxgDgCjLeAd7hjYx-o.eot",
+      "woff": "https://fonts.gstatic.com/s/oxygenmono/v8/h0GsssGg9FxgDgCjLeAd7hjYx-g.woff",
+      "ttf": "https://fonts.gstatic.com/s/oxygenmono/v8/h0GsssGg9FxgDgCjLeAd7hjYx-s.ttf",
+      "woff2": "https://fonts.gstatic.com/s/oxygenmono/v8/h0GsssGg9FxgDgCjLeAd7hjYx-4.woff2",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "monospace",
-  "version": "v7",
-  "lastModified": "2019-07-16",
-  "popularity": 349,
+  "version": "v8",
+  "lastModified": "2020-07-23",
+  "popularity": 473,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

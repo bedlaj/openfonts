@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=hYkIPuwgTubzaWxgNzAJ&skey=92f56279027d37f9&v=v13#Nokora",
+      "woff": "https://fonts.gstatic.com/s/nokora/v14/hYkIPuwgTubzaWxgNzAI.woff",
       "fontFamily": "'Nokora'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,15 +12,15 @@
         "Nokora Regular",
         "Nokora-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/nokora/v13/hYkIPuwgTubzaWxgNzAL.ttf",
-      "woff": "https://fonts.gstatic.com/s/nokora/v13/hYkIPuwgTubzaWxgNzAI.woff",
-      "eot": "https://fonts.gstatic.com/s/nokora/v13/hYkIPuwgTubzaWxgNzAK.eot",
-      "woff2": "https://fonts.gstatic.com/s/nokora/v13/hYkIPuwgTubzaWxgNzAO.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=hYkIPuwgTubzaWxgNzAJ&skey=92f56279027d37f9&v=v14#Nokora",
+      "ttf": "https://fonts.gstatic.com/s/nokora/v14/hYkIPuwgTubzaWxgNzAL.ttf",
+      "woff2": "https://fonts.gstatic.com/s/nokora/v14/hYkIPuwgTubzaWxgNzAO.woff2",
+      "eot": "https://fonts.gstatic.com/s/nokora/v14/hYkIPuwgTubzaWxgNzAK.eot",
       "errored": false
     },
     {
       "id": "700",
-      "woff": "https://fonts.gstatic.com/s/nokora/v13/hYkLPuwgTubzaWxohxUbptd7.woff",
+      "woff2": "https://fonts.gstatic.com/s/nokora/v14/hYkLPuwgTubzaWxohxUbptd9.woff2",
       "fontFamily": "'Nokora'",
       "fontStyle": "normal",
       "fontWeight": "700",
@@ -28,10 +28,10 @@
         "Nokora Bold",
         "Nokora-Bold"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=hYkLPuwgTubzaWxohxUbptd6&skey=3f98b1bfbe4ceea4&v=v13#Nokora",
-      "ttf": "https://fonts.gstatic.com/s/nokora/v13/hYkLPuwgTubzaWxohxUbptd4.ttf",
-      "woff2": "https://fonts.gstatic.com/s/nokora/v13/hYkLPuwgTubzaWxohxUbptd9.woff2",
-      "eot": "https://fonts.gstatic.com/s/nokora/v13/hYkLPuwgTubzaWxohxUbptd5.eot",
+      "woff": "https://fonts.gstatic.com/s/nokora/v14/hYkLPuwgTubzaWxohxUbptd7.woff",
+      "ttf": "https://fonts.gstatic.com/s/nokora/v14/hYkLPuwgTubzaWxohxUbptd4.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=hYkLPuwgTubzaWxohxUbptd6&skey=3f98b1bfbe4ceea4&v=v14#Nokora",
+      "eot": "https://fonts.gstatic.com/s/nokora/v14/hYkLPuwgTubzaWxohxUbptd5.eot",
       "errored": false
     }
   ],
@@ -39,9 +39,9 @@
     "khmer"
   ],
   "category": "serif",
-  "version": "v13",
-  "lastModified": "2019-07-16",
-  "popularity": 749,
+  "version": "v14",
+  "lastModified": "2020-07-23",
+  "popularity": 793,
   "defSubset": "khmer",
   "defVariant": "regular",
   "subsetMap": {

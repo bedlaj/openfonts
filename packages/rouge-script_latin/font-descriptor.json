@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=LYjFdGbiklMoCIQOw1Ep3S4_U__d&skey=54a920bdb79ab018&v=v8#RougeScript",
+      "woff": "https://fonts.gstatic.com/s/rougescript/v9/LYjFdGbiklMoCIQOw1Ep3S4_U__c.woff",
       "fontFamily": "'Rouge Script'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Rouge Script",
         "RougeScript-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/rougescript/v8/LYjFdGbiklMoCIQOw1Ep3S4_U__f.ttf",
-      "woff2": "https://fonts.gstatic.com/s/rougescript/v8/LYjFdGbiklMoCIQOw1Ep3S4_U__a.woff2",
-      "woff": "https://fonts.gstatic.com/s/rougescript/v8/LYjFdGbiklMoCIQOw1Ep3S4_U__c.woff",
-      "eot": "https://fonts.gstatic.com/s/rougescript/v8/LYjFdGbiklMoCIQOw1Ep3S4_U__e.eot",
+      "woff2": "https://fonts.gstatic.com/s/rougescript/v9/LYjFdGbiklMoCIQOw1Ep3S4_U__a.woff2",
+      "ttf": "https://fonts.gstatic.com/s/rougescript/v9/LYjFdGbiklMoCIQOw1Ep3S4_U__f.ttf",
+      "eot": "https://fonts.gstatic.com/s/rougescript/v9/LYjFdGbiklMoCIQOw1Ep3S4_U__e.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=LYjFdGbiklMoCIQOw1Ep3S4_U__d&skey=54a920bdb79ab018&v=v9#RougeScript",
       "errored": false
     }
   ],
@@ -23,9 +23,9 @@
     "latin"
   ],
   "category": "handwriting",
-  "version": "v8",
-  "lastModified": "2019-07-16",
-  "popularity": 483,
+  "version": "v9",
+  "lastModified": "2020-07-23",
+  "popularity": 511,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

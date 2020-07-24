@@ -4,23 +4,39 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/expletussans/v13/RLp5K5v5_bqufTYdnhFzDj2ddf4Yvg.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=RLp5K5v5_bqufTYdnhFzDj2ddf4YvQ&skey=543c118cee2614c3&v=v14#ExpletusSans",
       "fontFamily": "'Expletus Sans'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "svg": "https://fonts.gstatic.com/l/font?kit=RLp5K5v5_bqufTYdnhFzDj2ddf4YvQ&skey=543c118cee2614c3&v=v13#ExpletusSans",
       "local": [
         "Expletus Sans",
         "ExpletusSans"
       ],
-      "woff2": "https://fonts.gstatic.com/s/expletussans/v13/RLp5K5v5_bqufTYdnhFzDj2ddf4Yug.woff2",
-      "ttf": "https://fonts.gstatic.com/s/expletussans/v13/RLp5K5v5_bqufTYdnhFzDj2ddf4Yvw.ttf",
-      "woff": "https://fonts.gstatic.com/s/expletussans/v13/RLp5K5v5_bqufTYdnhFzDj2ddf4YvA.woff",
+      "woff": "https://fonts.gstatic.com/s/expletussans/v14/RLp5K5v5_bqufTYdnhFzDj2ddf4YvA.woff",
+      "woff2": "https://fonts.gstatic.com/s/expletussans/v14/RLp5K5v5_bqufTYdnhFzDj2ddf4Yug.woff2",
+      "eot": "https://fonts.gstatic.com/s/expletussans/v14/RLp5K5v5_bqufTYdnhFzDj2ddf4Yvg.eot",
+      "ttf": "https://fonts.gstatic.com/s/expletussans/v14/RLp5K5v5_bqufTYdnhFzDj2ddf4Yvw.ttf",
+      "errored": false
+    },
+    {
+      "id": "500",
+      "eot": "https://fonts.gstatic.com/s/expletussans/v14/RLpkK5v5_bqufTYdnhFzDj2dfQ07r64PVQ.eot",
+      "fontFamily": "'Expletus Sans'",
+      "fontStyle": "normal",
+      "fontWeight": "500",
+      "woff2": "https://fonts.gstatic.com/s/expletussans/v14/RLpkK5v5_bqufTYdnhFzDj2dfQ07r64PUQ.woff2",
+      "local": [
+        "Expletus Sans Medium",
+        "ExpletusSans-Medium"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=RLpkK5v5_bqufTYdnhFzDj2dfQ07r64PVg&skey=f593aff44da560da&v=v14#ExpletusSans",
+      "woff": "https://fonts.gstatic.com/s/expletussans/v14/RLpkK5v5_bqufTYdnhFzDj2dfQ07r64PVw.woff",
+      "ttf": "https://fonts.gstatic.com/s/expletussans/v14/RLpkK5v5_bqufTYdnhFzDj2dfQ07r64PVA.ttf",
       "errored": false
     },
     {
       "id": "italic",
-      "ttf": "https://fonts.gstatic.com/s/expletussans/v13/RLpnK5v5_bqufTYdnhFzDj2ddfsouIkv.ttf",
+      "ttf": "https://fonts.gstatic.com/s/expletussans/v14/RLpnK5v5_bqufTYdnhFzDj2ddfsouIkv.ttf",
       "fontFamily": "'Expletus Sans'",
       "fontStyle": "italic",
       "fontWeight": "400",
@@ -28,106 +44,90 @@
         "Expletus Sans Italic",
         "ExpletusSans-Italic"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=RLpnK5v5_bqufTYdnhFzDj2ddfsouIkt&skey=d5ae864298e8569a&v=v13#ExpletusSans",
-      "eot": "https://fonts.gstatic.com/s/expletussans/v13/RLpnK5v5_bqufTYdnhFzDj2ddfsouIku.eot",
-      "woff2": "https://fonts.gstatic.com/s/expletussans/v13/RLpnK5v5_bqufTYdnhFzDj2ddfsouIkq.woff2",
-      "woff": "https://fonts.gstatic.com/s/expletussans/v13/RLpnK5v5_bqufTYdnhFzDj2ddfsouIks.woff",
-      "errored": false
-    },
-    {
-      "id": "500",
-      "eot": "https://fonts.gstatic.com/s/expletussans/v13/RLpkK5v5_bqufTYdnhFzDj2dfQ07r64PVQ.eot",
-      "fontFamily": "'Expletus Sans'",
-      "fontStyle": "normal",
-      "fontWeight": "500",
-      "woff2": "https://fonts.gstatic.com/s/expletussans/v13/RLpkK5v5_bqufTYdnhFzDj2dfQ07r64PUQ.woff2",
-      "local": [
-        "Expletus Sans Medium",
-        "ExpletusSans-Medium"
-      ],
-      "woff": "https://fonts.gstatic.com/s/expletussans/v13/RLpkK5v5_bqufTYdnhFzDj2dfQ07r64PVw.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=RLpkK5v5_bqufTYdnhFzDj2dfQ07r64PVg&skey=f593aff44da560da&v=v13#ExpletusSans",
-      "ttf": "https://fonts.gstatic.com/s/expletussans/v13/RLpkK5v5_bqufTYdnhFzDj2dfQ07r64PVA.ttf",
+      "woff": "https://fonts.gstatic.com/s/expletussans/v14/RLpnK5v5_bqufTYdnhFzDj2ddfsouIks.woff",
+      "woff2": "https://fonts.gstatic.com/s/expletussans/v14/RLpnK5v5_bqufTYdnhFzDj2ddfsouIkq.woff2",
+      "eot": "https://fonts.gstatic.com/s/expletussans/v14/RLpnK5v5_bqufTYdnhFzDj2ddfsouIku.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=RLpnK5v5_bqufTYdnhFzDj2ddfsouIkt&skey=d5ae864298e8569a&v=v14#ExpletusSans",
       "errored": false
     },
     {
       "id": "500italic",
-      "eot": "https://fonts.gstatic.com/s/expletussans/v13/RLpiK5v5_bqufTYdnhFzDj2ddfsgS6o_U1vI.eot",
+      "eot": "https://fonts.gstatic.com/s/expletussans/v14/RLpiK5v5_bqufTYdnhFzDj2ddfsgS6o_U1vI.eot",
       "fontFamily": "'Expletus Sans'",
       "fontStyle": "italic",
       "fontWeight": "500",
-      "woff": "https://fonts.gstatic.com/s/expletussans/v13/RLpiK5v5_bqufTYdnhFzDj2ddfsgS6o_U1vK.woff",
+      "woff": "https://fonts.gstatic.com/s/expletussans/v14/RLpiK5v5_bqufTYdnhFzDj2ddfsgS6o_U1vK.woff",
       "local": [
         "Expletus Sans Medium Italic",
         "ExpletusSans-MediumItalic"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=RLpiK5v5_bqufTYdnhFzDj2ddfsgS6o_U1vL&skey=9ad64cdf57f1f1c5&v=v13#ExpletusSans",
-      "ttf": "https://fonts.gstatic.com/s/expletussans/v13/RLpiK5v5_bqufTYdnhFzDj2ddfsgS6o_U1vJ.ttf",
-      "woff2": "https://fonts.gstatic.com/s/expletussans/v13/RLpiK5v5_bqufTYdnhFzDj2ddfsgS6o_U1vM.woff2",
-      "errored": false
-    },
-    {
-      "id": "600",
-      "svg": "https://fonts.gstatic.com/l/font?kit=RLpkK5v5_bqufTYdnhFzDj2dfSE8r64PVg&skey=d5a36fc4a374b26b&v=v13#ExpletusSans",
-      "fontFamily": "'Expletus Sans'",
-      "fontStyle": "normal",
-      "fontWeight": "600",
-      "local": [
-        "Expletus Sans SemiBold",
-        "ExpletusSans-SemiBold"
-      ],
-      "ttf": "https://fonts.gstatic.com/s/expletussans/v13/RLpkK5v5_bqufTYdnhFzDj2dfSE8r64PVA.ttf",
-      "woff": "https://fonts.gstatic.com/s/expletussans/v13/RLpkK5v5_bqufTYdnhFzDj2dfSE8r64PVw.woff",
-      "eot": "https://fonts.gstatic.com/s/expletussans/v13/RLpkK5v5_bqufTYdnhFzDj2dfSE8r64PVQ.eot",
-      "woff2": "https://fonts.gstatic.com/s/expletussans/v13/RLpkK5v5_bqufTYdnhFzDj2dfSE8r64PUQ.woff2",
+      "woff2": "https://fonts.gstatic.com/s/expletussans/v14/RLpiK5v5_bqufTYdnhFzDj2ddfsgS6o_U1vM.woff2",
+      "ttf": "https://fonts.gstatic.com/s/expletussans/v14/RLpiK5v5_bqufTYdnhFzDj2ddfsgS6o_U1vJ.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=RLpiK5v5_bqufTYdnhFzDj2ddfsgS6o_U1vL&skey=9ad64cdf57f1f1c5&v=v14#ExpletusSans",
       "errored": false
     },
     {
       "id": "600italic",
-      "eot": "https://fonts.gstatic.com/s/expletussans/v13/RLpiK5v5_bqufTYdnhFzDj2ddfsgZ60_U1vI.eot",
+      "eot": "https://fonts.gstatic.com/s/expletussans/v14/RLpiK5v5_bqufTYdnhFzDj2ddfsgZ60_U1vI.eot",
       "fontFamily": "'Expletus Sans'",
       "fontStyle": "italic",
       "fontWeight": "600",
-      "woff2": "https://fonts.gstatic.com/s/expletussans/v13/RLpiK5v5_bqufTYdnhFzDj2ddfsgZ60_U1vM.woff2",
+      "woff": "https://fonts.gstatic.com/s/expletussans/v14/RLpiK5v5_bqufTYdnhFzDj2ddfsgZ60_U1vK.woff",
       "local": [
         "Expletus Sans SemiBold Italic",
         "ExpletusSans-SemiBoldItalic"
       ],
-      "woff": "https://fonts.gstatic.com/s/expletussans/v13/RLpiK5v5_bqufTYdnhFzDj2ddfsgZ60_U1vK.woff",
-      "ttf": "https://fonts.gstatic.com/s/expletussans/v13/RLpiK5v5_bqufTYdnhFzDj2ddfsgZ60_U1vJ.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=RLpiK5v5_bqufTYdnhFzDj2ddfsgZ60_U1vL&skey=a77bcd933cd47c0c&v=v13#ExpletusSans",
+      "woff2": "https://fonts.gstatic.com/s/expletussans/v14/RLpiK5v5_bqufTYdnhFzDj2ddfsgZ60_U1vM.woff2",
+      "ttf": "https://fonts.gstatic.com/s/expletussans/v14/RLpiK5v5_bqufTYdnhFzDj2ddfsgZ60_U1vJ.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=RLpiK5v5_bqufTYdnhFzDj2ddfsgZ60_U1vL&skey=a77bcd933cd47c0c&v=v14#ExpletusSans",
+      "errored": false
+    },
+    {
+      "id": "600",
+      "eot": "https://fonts.gstatic.com/s/expletussans/v14/RLpkK5v5_bqufTYdnhFzDj2dfSE8r64PVQ.eot",
+      "fontFamily": "'Expletus Sans'",
+      "fontStyle": "normal",
+      "fontWeight": "600",
+      "ttf": "https://fonts.gstatic.com/s/expletussans/v14/RLpkK5v5_bqufTYdnhFzDj2dfSE8r64PVA.ttf",
+      "local": [
+        "Expletus Sans SemiBold",
+        "ExpletusSans-SemiBold"
+      ],
+      "woff": "https://fonts.gstatic.com/s/expletussans/v14/RLpkK5v5_bqufTYdnhFzDj2dfSE8r64PVw.woff",
+      "woff2": "https://fonts.gstatic.com/s/expletussans/v14/RLpkK5v5_bqufTYdnhFzDj2dfSE8r64PUQ.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=RLpkK5v5_bqufTYdnhFzDj2dfSE8r64PVg&skey=d5a36fc4a374b26b&v=v14#ExpletusSans",
       "errored": false
     },
     {
       "id": "700",
-      "eot": "https://fonts.gstatic.com/s/expletussans/v13/RLpkK5v5_bqufTYdnhFzDj2dfUU9r64PVQ.eot",
+      "eot": "https://fonts.gstatic.com/s/expletussans/v14/RLpkK5v5_bqufTYdnhFzDj2dfUU9r64PVQ.eot",
       "fontFamily": "'Expletus Sans'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/expletussans/v13/RLpkK5v5_bqufTYdnhFzDj2dfUU9r64PVw.woff",
+      "woff": "https://fonts.gstatic.com/s/expletussans/v14/RLpkK5v5_bqufTYdnhFzDj2dfUU9r64PVw.woff",
       "local": [
         "Expletus Sans Bold",
         "ExpletusSans-Bold"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=RLpkK5v5_bqufTYdnhFzDj2dfUU9r64PVg&skey=b82fb81e32c901d9&v=v13#ExpletusSans",
-      "ttf": "https://fonts.gstatic.com/s/expletussans/v13/RLpkK5v5_bqufTYdnhFzDj2dfUU9r64PVA.ttf",
-      "woff2": "https://fonts.gstatic.com/s/expletussans/v13/RLpkK5v5_bqufTYdnhFzDj2dfUU9r64PUQ.woff2",
+      "woff2": "https://fonts.gstatic.com/s/expletussans/v14/RLpkK5v5_bqufTYdnhFzDj2dfUU9r64PUQ.woff2",
+      "ttf": "https://fonts.gstatic.com/s/expletussans/v14/RLpkK5v5_bqufTYdnhFzDj2dfUU9r64PVA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=RLpkK5v5_bqufTYdnhFzDj2dfUU9r64PVg&skey=b82fb81e32c901d9&v=v14#ExpletusSans",
       "errored": false
     },
     {
       "id": "700italic",
-      "eot": "https://fonts.gstatic.com/s/expletussans/v13/RLpiK5v5_bqufTYdnhFzDj2ddfsgA6w_U1vI.eot",
+      "woff": "https://fonts.gstatic.com/s/expletussans/v14/RLpiK5v5_bqufTYdnhFzDj2ddfsgA6w_U1vK.woff",
       "fontFamily": "'Expletus Sans'",
       "fontStyle": "italic",
       "fontWeight": "700",
-      "svg": "https://fonts.gstatic.com/l/font?kit=RLpiK5v5_bqufTYdnhFzDj2ddfsgA6w_U1vL&skey=9087fec68755ac7b&v=v13#ExpletusSans",
       "local": [
         "Expletus Sans Bold Italic",
         "ExpletusSans-BoldItalic"
       ],
-      "ttf": "https://fonts.gstatic.com/s/expletussans/v13/RLpiK5v5_bqufTYdnhFzDj2ddfsgA6w_U1vJ.ttf",
-      "woff": "https://fonts.gstatic.com/s/expletussans/v13/RLpiK5v5_bqufTYdnhFzDj2ddfsgA6w_U1vK.woff",
-      "woff2": "https://fonts.gstatic.com/s/expletussans/v13/RLpiK5v5_bqufTYdnhFzDj2ddfsgA6w_U1vM.woff2",
+      "eot": "https://fonts.gstatic.com/s/expletussans/v14/RLpiK5v5_bqufTYdnhFzDj2ddfsgA6w_U1vI.eot",
+      "woff2": "https://fonts.gstatic.com/s/expletussans/v14/RLpiK5v5_bqufTYdnhFzDj2ddfsgA6w_U1vM.woff2",
+      "ttf": "https://fonts.gstatic.com/s/expletussans/v14/RLpiK5v5_bqufTYdnhFzDj2ddfsgA6w_U1vJ.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=RLpiK5v5_bqufTYdnhFzDj2ddfsgA6w_U1vL&skey=9087fec68755ac7b&v=v14#ExpletusSans",
       "errored": false
     }
   ],
@@ -135,9 +135,9 @@
     "latin"
   ],
   "category": "display",
-  "version": "v13",
-  "lastModified": "2019-07-16",
-  "popularity": 529,
+  "version": "v14",
+  "lastModified": "2020-07-23",
+  "popularity": 538,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

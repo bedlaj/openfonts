@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/petitformalscript/v7/B50TF6xQr2TXJBnGOFME6u5OR83oRP5qkHDgOA.woff",
+      "woff2": "https://fonts.gstatic.com/s/petitformalscript/v8/B50TF6xQr2TXJBnGOFME6u5OR83oRP5qkHDgPg.woff2",
       "fontFamily": "'Petit Formal Script'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Petit Formal Script",
         "PetitFormalScript-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/petitformalscript/v7/B50TF6xQr2TXJBnGOFME6u5OR83oRP5qkHDgPg.woff2",
-      "ttf": "https://fonts.gstatic.com/s/petitformalscript/v7/B50TF6xQr2TXJBnGOFME6u5OR83oRP5qkHDgOw.ttf",
-      "eot": "https://fonts.gstatic.com/s/petitformalscript/v7/B50TF6xQr2TXJBnGOFME6u5OR83oRP5qkHDgOg.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=B50TF6xQr2TXJBnGOFME6u5OR83oRP5qkHDgOQ&skey=38fb57e61db330e&v=v7#PetitFormalScript",
+      "eot": "https://fonts.gstatic.com/s/petitformalscript/v8/B50TF6xQr2TXJBnGOFME6u5OR83oRP5qkHDgOg.eot",
+      "ttf": "https://fonts.gstatic.com/s/petitformalscript/v8/B50TF6xQr2TXJBnGOFME6u5OR83oRP5qkHDgOw.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=B50TF6xQr2TXJBnGOFME6u5OR83oRP5qkHDgOQ&skey=38fb57e61db330e&v=v8#PetitFormalScript",
+      "woff": "https://fonts.gstatic.com/s/petitformalscript/v8/B50TF6xQr2TXJBnGOFME6u5OR83oRP5qkHDgOA.woff",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "handwriting",
-  "version": "v7",
-  "lastModified": "2019-07-16",
-  "popularity": 383,
+  "version": "v8",
+  "lastModified": "2020-07-23",
+  "popularity": 430,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/amita/v5/HhyaU5si9Om7PQlv.ttf",
+      "woff": "https://fonts.gstatic.com/s/amita/v6/HhyaU5si9Om7PQls.woff",
       "fontFamily": "'Amita'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,26 +12,26 @@
         "Amita Regular",
         "Amita-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/amita/v5/HhyaU5si9Om7PQlq.woff2",
-      "eot": "https://fonts.gstatic.com/s/amita/v5/HhyaU5si9Om7PQlu.eot",
-      "woff": "https://fonts.gstatic.com/s/amita/v5/HhyaU5si9Om7PQls.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=HhyaU5si9Om7PQlt&skey=3dfbdf6b2e59f965&v=v5#Amita",
+      "svg": "https://fonts.gstatic.com/l/font?kit=HhyaU5si9Om7PQlt&skey=3dfbdf6b2e59f965&v=v6#Amita",
+      "woff2": "https://fonts.gstatic.com/s/amita/v6/HhyaU5si9Om7PQlq.woff2",
+      "ttf": "https://fonts.gstatic.com/s/amita/v6/HhyaU5si9Om7PQlv.ttf",
+      "eot": "https://fonts.gstatic.com/s/amita/v6/HhyaU5si9Om7PQlu.eot",
       "errored": false
     },
     {
       "id": "700",
-      "eot": "https://fonts.gstatic.com/s/amita/v5/HhyXU5si9Om7PTHTLtCD.eot",
+      "eot": "https://fonts.gstatic.com/s/amita/v6/HhyXU5si9Om7PTHTLtCD.eot",
       "fontFamily": "'Amita'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "ttf": "https://fonts.gstatic.com/s/amita/v5/HhyXU5si9Om7PTHTLtCC.ttf",
+      "woff2": "https://fonts.gstatic.com/s/amita/v6/HhyXU5si9Om7PTHTLtCH.woff2",
       "local": [
         "Amita Bold",
         "Amita-Bold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/amita/v5/HhyXU5si9Om7PTHTLtCH.woff2",
-      "woff": "https://fonts.gstatic.com/s/amita/v5/HhyXU5si9Om7PTHTLtCB.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=HhyXU5si9Om7PTHTLtCA&skey=f4d9463ce099459b&v=v5#Amita",
+      "woff": "https://fonts.gstatic.com/s/amita/v6/HhyXU5si9Om7PTHTLtCB.woff",
+      "ttf": "https://fonts.gstatic.com/s/amita/v6/HhyXU5si9Om7PTHTLtCC.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=HhyXU5si9Om7PTHTLtCA&skey=f4d9463ce099459b&v=v6#Amita",
       "errored": false
     }
   ],
@@ -41,9 +41,9 @@
     "latin-ext"
   ],
   "category": "handwriting",
-  "version": "v5",
-  "lastModified": "2019-07-16",
-  "popularity": 463,
+  "version": "v6",
+  "lastModified": "2020-07-23",
+  "popularity": 520,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

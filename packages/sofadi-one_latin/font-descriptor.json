@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/sofadione/v8/JIA2UVBxdnVBuElZaMFGQDSCFg.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=JIA2UVBxdnVBuElZaMFGQDSCFw&skey=46900f32e5de2be5&v=v9#SofadiOne",
       "fontFamily": "'Sofadi One'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Sofadi One Regular",
         "SofadiOne-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/sofadione/v8/JIA2UVBxdnVBuElZaMFGQDSCFQ.ttf",
-      "eot": "https://fonts.gstatic.com/s/sofadione/v8/JIA2UVBxdnVBuElZaMFGQDSCFA.eot",
-      "woff2": "https://fonts.gstatic.com/s/sofadione/v8/JIA2UVBxdnVBuElZaMFGQDSCEA.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=JIA2UVBxdnVBuElZaMFGQDSCFw&skey=46900f32e5de2be5&v=v8#SofadiOne",
+      "woff2": "https://fonts.gstatic.com/s/sofadione/v9/JIA2UVBxdnVBuElZaMFGQDSCEA.woff2",
+      "eot": "https://fonts.gstatic.com/s/sofadione/v9/JIA2UVBxdnVBuElZaMFGQDSCFA.eot",
+      "ttf": "https://fonts.gstatic.com/s/sofadione/v9/JIA2UVBxdnVBuElZaMFGQDSCFQ.ttf",
+      "woff": "https://fonts.gstatic.com/s/sofadione/v9/JIA2UVBxdnVBuElZaMFGQDSCFg.woff",
       "errored": false
     }
   ],
@@ -23,9 +23,9 @@
     "latin"
   ],
   "category": "display",
-  "version": "v8",
-  "lastModified": "2019-07-16",
-  "popularity": 908,
+  "version": "v9",
+  "lastModified": "2020-07-23",
+  "popularity": 960,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

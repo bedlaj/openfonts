@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/harmattan/v7/goksH6L2DkFvVvRp9XpjTEqk.woff",
+      "ttf": "https://fonts.gstatic.com/s/harmattan/v8/goksH6L2DkFvVvRp9XpjTEqn.ttf",
       "fontFamily": "'Harmattan'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,26 +12,26 @@
         "Harmattan",
         "Harmattan-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/harmattan/v7/goksH6L2DkFvVvRp9XpjTEqi.woff2",
-      "eot": "https://fonts.gstatic.com/s/harmattan/v7/goksH6L2DkFvVvRp9XpjTEqm.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=goksH6L2DkFvVvRp9XpjTEql&skey=455aa37d69b7e881&v=v7#Harmattan",
-      "ttf": "https://fonts.gstatic.com/s/harmattan/v7/goksH6L2DkFvVvRp9XpjTEqn.ttf",
+      "woff2": "https://fonts.gstatic.com/s/harmattan/v8/goksH6L2DkFvVvRp9XpjTEqi.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=goksH6L2DkFvVvRp9XpjTEql&skey=455aa37d69b7e881&v=v8#Harmattan",
+      "eot": "https://fonts.gstatic.com/s/harmattan/v8/goksH6L2DkFvVvRp9XpjTEqm.eot",
+      "woff": "https://fonts.gstatic.com/s/harmattan/v8/goksH6L2DkFvVvRp9XpjTEqk.woff",
       "errored": false
     },
     {
       "id": "700",
-      "eot": "https://fonts.gstatic.com/s/harmattan/v7/gokpH6L2DkFvVvRp9Xpr92-3n9xB.eot",
+      "eot": "https://fonts.gstatic.com/s/harmattan/v8/gokpH6L2DkFvVvRp9Xpr92-3n9xB.eot",
       "fontFamily": "'Harmattan'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/harmattan/v7/gokpH6L2DkFvVvRp9Xpr92-3n9xD.woff",
+      "woff": "https://fonts.gstatic.com/s/harmattan/v8/gokpH6L2DkFvVvRp9Xpr92-3n9xD.woff",
       "local": [
         "Harmattan Bold",
         "Harmattan-Bold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/harmattan/v7/gokpH6L2DkFvVvRp9Xpr92-3n9xF.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=gokpH6L2DkFvVvRp9Xpr92-3n9xC&skey=e78db0f27125f9f1&v=v7#Harmattan",
-      "ttf": "https://fonts.gstatic.com/s/harmattan/v7/gokpH6L2DkFvVvRp9Xpr92-3n9xA.ttf",
+      "woff2": "https://fonts.gstatic.com/s/harmattan/v8/gokpH6L2DkFvVvRp9Xpr92-3n9xF.woff2",
+      "ttf": "https://fonts.gstatic.com/s/harmattan/v8/gokpH6L2DkFvVvRp9Xpr92-3n9xA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=gokpH6L2DkFvVvRp9Xpr92-3n9xC&skey=e78db0f27125f9f1&v=v8#Harmattan",
       "errored": false
     }
   ],
@@ -40,9 +40,9 @@
     "latin-ext"
   ],
   "category": "sans-serif",
-  "version": "v7",
-  "lastModified": "2020-07-15",
-  "popularity": 472,
+  "version": "v8",
+  "lastModified": "2020-07-23",
+  "popularity": 482,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

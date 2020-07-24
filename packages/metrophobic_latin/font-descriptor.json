@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/metrophobic/v13/sJoA3LZUhMSAPV_u0qwiAQ-O5Xk.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=sJoA3LZUhMSAPV_u0qwiAQ-O5Xg&skey=b2c727d4404ede06&v=v14#Metrophobic",
       "fontFamily": "'Metrophobic'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,28 +12,28 @@
         "Metrophobic Regular",
         "Metrophobic-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/metrophobic/v13/sJoA3LZUhMSAPV_u0qwiAQ-O5Xs.eot",
-      "woff2": "https://fonts.gstatic.com/s/metrophobic/v13/sJoA3LZUhMSAPV_u0qwiAQ-O5X8.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=sJoA3LZUhMSAPV_u0qwiAQ-O5Xg&skey=b2c727d4404ede06&v=v13#Metrophobic",
-      "ttf": "https://fonts.gstatic.com/s/metrophobic/v13/sJoA3LZUhMSAPV_u0qwiAQ-O5Xo.ttf",
+      "woff2": "https://fonts.gstatic.com/s/metrophobic/v14/sJoA3LZUhMSAPV_u0qwiAQ-O5X8.woff2",
+      "woff": "https://fonts.gstatic.com/s/metrophobic/v14/sJoA3LZUhMSAPV_u0qwiAQ-O5Xk.woff",
+      "ttf": "https://fonts.gstatic.com/s/metrophobic/v14/sJoA3LZUhMSAPV_u0qwiAQ-O5Xo.ttf",
+      "eot": "https://fonts.gstatic.com/s/metrophobic/v14/sJoA3LZUhMSAPV_u0qwiAQ-O5Xs.eot",
       "errored": false
     }
   ],
   "subsets": [
-    "vietnamese",
     "latin",
-    "latin-ext"
+    "latin-ext",
+    "vietnamese"
   ],
   "category": "sans-serif",
-  "version": "v13",
-  "lastModified": "2019-07-16",
-  "popularity": 441,
+  "version": "v14",
+  "lastModified": "2020-07-23",
+  "popularity": 456,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "vietnamese": false,
     "latin": true,
-    "latin-ext": false
+    "latin-ext": false,
+    "vietnamese": false
   },
   "storeID": "latin"
 }

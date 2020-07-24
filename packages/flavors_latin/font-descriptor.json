@@ -4,34 +4,34 @@
   "variants": [
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=FBV2dDrhxqmveJTpXkvvMA&skey=21678b8931efff73&v=v9#Flavors",
+      "eot": "https://fonts.gstatic.com/s/flavors/v10/FBV2dDrhxqmveJTpXkvvMw.eot",
       "fontFamily": "'Flavors'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "svg": "https://fonts.gstatic.com/l/font?kit=FBV2dDrhxqmveJTpXkvvMA&skey=21678b8931efff73&v=v10#Flavors",
       "local": [
         "Flavors Regular",
         "Flavors-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/flavors/v9/FBV2dDrhxqmveJTpXkvvMw.eot",
-      "woff2": "https://fonts.gstatic.com/s/flavors/v9/FBV2dDrhxqmveJTpXkvvNw.woff2",
-      "ttf": "https://fonts.gstatic.com/s/flavors/v9/FBV2dDrhxqmveJTpXkvvMg.ttf",
-      "woff": "https://fonts.gstatic.com/s/flavors/v9/FBV2dDrhxqmveJTpXkvvMQ.woff",
+      "ttf": "https://fonts.gstatic.com/s/flavors/v10/FBV2dDrhxqmveJTpXkvvMg.ttf",
+      "woff": "https://fonts.gstatic.com/s/flavors/v10/FBV2dDrhxqmveJTpXkvvMQ.woff",
+      "woff2": "https://fonts.gstatic.com/s/flavors/v10/FBV2dDrhxqmveJTpXkvvNw.woff2",
       "errored": false
     }
   ],
   "subsets": [
-    "latin-ext",
-    "latin"
+    "latin",
+    "latin-ext"
   ],
   "category": "display",
-  "version": "v9",
-  "lastModified": "2019-07-26",
-  "popularity": 842,
+  "version": "v10",
+  "lastModified": "2020-07-23",
+  "popularity": 857,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin-ext": false,
-    "latin": true
+    "latin": true,
+    "latin-ext": false
   },
   "storeID": "latin"
 }

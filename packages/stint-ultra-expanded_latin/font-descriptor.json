@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/stintultraexpanded/v7/CSRg4yNNh-GbW3o3JkwoDcdvMKMf0oBAd3qvCzU.woff2",
+      "eot": "https://fonts.gstatic.com/s/stintultraexpanded/v8/CSRg4yNNh-GbW3o3JkwoDcdvMKMf0oBAd3qvCzE.eot",
       "fontFamily": "'Stint Ultra Expanded'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/stintultraexpanded/v8/CSRg4yNNh-GbW3o3JkwoDcdvMKMf0oBAd3qvCzM.woff",
       "local": [
         "Stint Ultra Expanded",
         "StintUltraExpanded-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=CSRg4yNNh-GbW3o3JkwoDcdvMKMf0oBAd3qvCzI&skey=52d609829581e7a9&v=v7#StintUltraExpanded",
-      "woff": "https://fonts.gstatic.com/s/stintultraexpanded/v7/CSRg4yNNh-GbW3o3JkwoDcdvMKMf0oBAd3qvCzM.woff",
-      "ttf": "https://fonts.gstatic.com/s/stintultraexpanded/v7/CSRg4yNNh-GbW3o3JkwoDcdvMKMf0oBAd3qvCzA.ttf",
-      "eot": "https://fonts.gstatic.com/s/stintultraexpanded/v7/CSRg4yNNh-GbW3o3JkwoDcdvMKMf0oBAd3qvCzE.eot",
+      "woff2": "https://fonts.gstatic.com/s/stintultraexpanded/v8/CSRg4yNNh-GbW3o3JkwoDcdvMKMf0oBAd3qvCzU.woff2",
+      "ttf": "https://fonts.gstatic.com/s/stintultraexpanded/v8/CSRg4yNNh-GbW3o3JkwoDcdvMKMf0oBAd3qvCzA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=CSRg4yNNh-GbW3o3JkwoDcdvMKMf0oBAd3qvCzI&skey=52d609829581e7a9&v=v8#StintUltraExpanded",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "display",
-  "version": "v7",
-  "lastModified": "2019-07-16",
-  "popularity": 664,
+  "version": "v8",
+  "lastModified": "2020-07-23",
+  "popularity": 812,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

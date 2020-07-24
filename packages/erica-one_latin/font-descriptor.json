@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/ericaone/v10/WBLnrEXccV9VGrOKmGDFXEXJ.eot",
+      "woff2": "https://fonts.gstatic.com/s/ericaone/v11/WBLnrEXccV9VGrOKmGDFXEXN.woff2",
       "fontFamily": "'Erica One'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/ericaone/v10/WBLnrEXccV9VGrOKmGDFXEXN.woff2",
       "local": [
         "Erica One",
         "EricaOne-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/ericaone/v10/WBLnrEXccV9VGrOKmGDFXEXL.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=WBLnrEXccV9VGrOKmGDFXEXK&skey=411c9a24a37316a6&v=v10#EricaOne",
-      "ttf": "https://fonts.gstatic.com/s/ericaone/v10/WBLnrEXccV9VGrOKmGDFXEXI.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=WBLnrEXccV9VGrOKmGDFXEXK&skey=411c9a24a37316a6&v=v11#EricaOne",
+      "eot": "https://fonts.gstatic.com/s/ericaone/v11/WBLnrEXccV9VGrOKmGDFXEXJ.eot",
+      "ttf": "https://fonts.gstatic.com/s/ericaone/v11/WBLnrEXccV9VGrOKmGDFXEXI.ttf",
+      "woff": "https://fonts.gstatic.com/s/ericaone/v11/WBLnrEXccV9VGrOKmGDFXEXL.woff",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "display",
-  "version": "v10",
-  "lastModified": "2019-07-16",
-  "popularity": 913,
+  "version": "v11",
+  "lastModified": "2020-07-23",
+  "popularity": 962,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

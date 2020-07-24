@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/librebarcode128text/v9/fdNv9tubt3ZEnz1Gu3I4-zppwZ9CWZ16Z0w5QVrS7w.woff",
+      "woff2": "https://fonts.gstatic.com/s/librebarcode128text/v10/fdNv9tubt3ZEnz1Gu3I4-zppwZ9CWZ16Z0w5QVrS6Q.woff2",
       "fontFamily": "'Libre Barcode 128 Text'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Libre Barcode 128 Text Regular",
         "LibreBarcode128Text-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/librebarcode128text/v9/fdNv9tubt3ZEnz1Gu3I4-zppwZ9CWZ16Z0w5QVrS6Q.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=fdNv9tubt3ZEnz1Gu3I4-zppwZ9CWZ16Z0w5QVrS7g&skey=d0b4a7e3a2472aa4&v=v9#LibreBarcode128Text",
-      "ttf": "https://fonts.gstatic.com/s/librebarcode128text/v9/fdNv9tubt3ZEnz1Gu3I4-zppwZ9CWZ16Z0w5QVrS7A.ttf",
-      "eot": "https://fonts.gstatic.com/s/librebarcode128text/v9/fdNv9tubt3ZEnz1Gu3I4-zppwZ9CWZ16Z0w5QVrS7Q.eot",
+      "eot": "https://fonts.gstatic.com/s/librebarcode128text/v10/fdNv9tubt3ZEnz1Gu3I4-zppwZ9CWZ16Z0w5QVrS7Q.eot",
+      "ttf": "https://fonts.gstatic.com/s/librebarcode128text/v10/fdNv9tubt3ZEnz1Gu3I4-zppwZ9CWZ16Z0w5QVrS7A.ttf",
+      "woff": "https://fonts.gstatic.com/s/librebarcode128text/v10/fdNv9tubt3ZEnz1Gu3I4-zppwZ9CWZ16Z0w5QVrS7w.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=fdNv9tubt3ZEnz1Gu3I4-zppwZ9CWZ16Z0w5QVrS7g&skey=d0b4a7e3a2472aa4&v=v10#LibreBarcode128Text",
       "errored": false
     }
   ],
@@ -23,9 +23,9 @@
     "latin"
   ],
   "category": "display",
-  "version": "v9",
-  "lastModified": "2020-03-03",
-  "popularity": 889,
+  "version": "v10",
+  "lastModified": "2020-07-23",
+  "popularity": 923,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

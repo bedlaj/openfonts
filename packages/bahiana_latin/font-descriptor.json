@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/bahiana/v4/uU9PCBUV4YenPWJU3xTR2Q.woff",
+      "eot": "https://fonts.gstatic.com/s/bahiana/v5/uU9PCBUV4YenPWJU3xTR2w.eot",
       "fontFamily": "'Bahiana'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "svg": "https://fonts.gstatic.com/l/font?kit=uU9PCBUV4YenPWJU3xTR2A&skey=3cf698d11caf64aa&v=v5#Bahiana",
       "local": [
         "Bahiana Regular",
         "Bahiana-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/bahiana/v4/uU9PCBUV4YenPWJU3xTR3w.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=uU9PCBUV4YenPWJU3xTR2A&skey=3cf698d11caf64aa&v=v4#Bahiana",
-      "ttf": "https://fonts.gstatic.com/s/bahiana/v4/uU9PCBUV4YenPWJU3xTR2g.ttf",
-      "eot": "https://fonts.gstatic.com/s/bahiana/v4/uU9PCBUV4YenPWJU3xTR2w.eot",
+      "woff": "https://fonts.gstatic.com/s/bahiana/v5/uU9PCBUV4YenPWJU3xTR2Q.woff",
+      "ttf": "https://fonts.gstatic.com/s/bahiana/v5/uU9PCBUV4YenPWJU3xTR2g.ttf",
+      "woff2": "https://fonts.gstatic.com/s/bahiana/v5/uU9PCBUV4YenPWJU3xTR3w.woff2",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "display",
-  "version": "v4",
-  "lastModified": "2019-07-16",
-  "popularity": 806,
+  "version": "v5",
+  "lastModified": "2020-07-23",
+  "popularity": 876,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

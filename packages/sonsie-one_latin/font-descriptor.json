@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=PbymFmP_EAnPqbKaoc18UVy21A&skey=730dc7d0eb7b26ef&v=v8#SonsieOne",
+      "eot": "https://fonts.gstatic.com/s/sonsieone/v9/PbymFmP_EAnPqbKaoc18UVy21w.eot",
       "fontFamily": "'Sonsie One'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/sonsieone/v9/PbymFmP_EAnPqbKaoc18UVy21Q.woff",
       "local": [
         "Sonsie One",
         "SonsieOne-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/sonsieone/v8/PbymFmP_EAnPqbKaoc18UVy20w.woff2",
-      "woff": "https://fonts.gstatic.com/s/sonsieone/v8/PbymFmP_EAnPqbKaoc18UVy21Q.woff",
-      "eot": "https://fonts.gstatic.com/s/sonsieone/v8/PbymFmP_EAnPqbKaoc18UVy21w.eot",
-      "ttf": "https://fonts.gstatic.com/s/sonsieone/v8/PbymFmP_EAnPqbKaoc18UVy21g.ttf",
+      "woff2": "https://fonts.gstatic.com/s/sonsieone/v9/PbymFmP_EAnPqbKaoc18UVy20w.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=PbymFmP_EAnPqbKaoc18UVy21A&skey=730dc7d0eb7b26ef&v=v9#SonsieOne",
+      "ttf": "https://fonts.gstatic.com/s/sonsieone/v9/PbymFmP_EAnPqbKaoc18UVy21g.ttf",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "display",
-  "version": "v8",
-  "lastModified": "2019-07-16",
-  "popularity": 750,
+  "version": "v9",
+  "lastModified": "2020-07-23",
+  "popularity": 640,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

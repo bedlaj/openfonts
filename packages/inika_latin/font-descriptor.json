@@ -4,33 +4,33 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/inika/v8/rnCm-x5X3QP-piTAT8Y.woff2",
+      "eot": "https://fonts.gstatic.com/s/inika/v9/rnCm-x5X3QP-piTAT8I.eot",
       "fontFamily": "'Inika'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/inika/v9/rnCm-x5X3QP-piTAT8Y.woff2",
       "local": [
         "Inika"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=rnCm-x5X3QP-piTAT8E&skey=4a5fa8e3d9422bfa&v=v8#Inika",
-      "woff": "https://fonts.gstatic.com/s/inika/v8/rnCm-x5X3QP-piTAT8A.woff",
-      "eot": "https://fonts.gstatic.com/s/inika/v8/rnCm-x5X3QP-piTAT8I.eot",
-      "ttf": "https://fonts.gstatic.com/s/inika/v8/rnCm-x5X3QP-piTAT8M.ttf",
+      "ttf": "https://fonts.gstatic.com/s/inika/v9/rnCm-x5X3QP-piTAT8M.ttf",
+      "woff": "https://fonts.gstatic.com/s/inika/v9/rnCm-x5X3QP-piTAT8A.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=rnCm-x5X3QP-piTAT8E&skey=4a5fa8e3d9422bfa&v=v9#Inika",
       "errored": false
     },
     {
       "id": "700",
-      "woff": "https://fonts.gstatic.com/s/inika/v8/rnCr-x5X3QP-pix7atM5kn4.woff",
+      "eot": "https://fonts.gstatic.com/s/inika/v9/rnCr-x5X3QP-pix7atM5knw.eot",
       "fontFamily": "'Inika'",
       "fontStyle": "normal",
       "fontWeight": "700",
+      "woff2": "https://fonts.gstatic.com/s/inika/v9/rnCr-x5X3QP-pix7atM5kng.woff2",
       "local": [
         "Inika Bold",
         "Inika-Bold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/inika/v8/rnCr-x5X3QP-pix7atM5kng.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=rnCr-x5X3QP-pix7atM5kn8&skey=cb57b1b3fdfec5ca&v=v8#Inika",
-      "eot": "https://fonts.gstatic.com/s/inika/v8/rnCr-x5X3QP-pix7atM5knw.eot",
-      "ttf": "https://fonts.gstatic.com/s/inika/v8/rnCr-x5X3QP-pix7atM5kn0.ttf",
+      "ttf": "https://fonts.gstatic.com/s/inika/v9/rnCr-x5X3QP-pix7atM5kn0.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=rnCr-x5X3QP-pix7atM5kn8&skey=cb57b1b3fdfec5ca&v=v9#Inika",
+      "woff": "https://fonts.gstatic.com/s/inika/v9/rnCr-x5X3QP-pix7atM5kn4.woff",
       "errored": false
     }
   ],
@@ -39,9 +39,9 @@
     "latin-ext"
   ],
   "category": "serif",
-  "version": "v8",
-  "lastModified": "2019-07-16",
-  "popularity": 760,
+  "version": "v9",
+  "lastModified": "2020-07-23",
+  "popularity": 859,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

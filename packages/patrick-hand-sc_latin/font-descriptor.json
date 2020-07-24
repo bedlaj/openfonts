@@ -4,36 +4,36 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/patrickhandsc/v7/0nkwC9f7MfsBiWcLtY65AWDK873ljiK_.eot",
+      "woff": "https://fonts.gstatic.com/s/patrickhandsc/v8/0nkwC9f7MfsBiWcLtY65AWDK873ljiK9.woff",
       "fontFamily": "'Patrick Hand SC'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/patrickhandsc/v7/0nkwC9f7MfsBiWcLtY65AWDK873ljiK7.woff2",
       "local": [
         "Patrick Hand SC",
         "PatrickHandSC-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/patrickhandsc/v7/0nkwC9f7MfsBiWcLtY65AWDK873ljiK9.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=0nkwC9f7MfsBiWcLtY65AWDK873ljiK8&skey=fc81b720009e6c7&v=v7#PatrickHandSC",
-      "ttf": "https://fonts.gstatic.com/s/patrickhandsc/v7/0nkwC9f7MfsBiWcLtY65AWDK873ljiK-.ttf",
+      "ttf": "https://fonts.gstatic.com/s/patrickhandsc/v8/0nkwC9f7MfsBiWcLtY65AWDK873ljiK-.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=0nkwC9f7MfsBiWcLtY65AWDK873ljiK8&skey=fc81b720009e6c7&v=v8#PatrickHandSC",
+      "woff2": "https://fonts.gstatic.com/s/patrickhandsc/v8/0nkwC9f7MfsBiWcLtY65AWDK873ljiK7.woff2",
+      "eot": "https://fonts.gstatic.com/s/patrickhandsc/v8/0nkwC9f7MfsBiWcLtY65AWDK873ljiK_.eot",
       "errored": false
     }
   ],
   "subsets": [
-    "vietnamese",
     "latin",
-    "latin-ext"
+    "latin-ext",
+    "vietnamese"
   ],
   "category": "handwriting",
-  "version": "v7",
-  "lastModified": "2019-07-16",
-  "popularity": 501,
+  "version": "v8",
+  "lastModified": "2020-07-23",
+  "popularity": 550,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "vietnamese": false,
     "latin": true,
-    "latin-ext": false
+    "latin-ext": false,
+    "vietnamese": false
   },
   "storeID": "latin"
 }

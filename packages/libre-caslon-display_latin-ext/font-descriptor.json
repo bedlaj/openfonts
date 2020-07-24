@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/librecaslondisplay/v1/TuGOUUFxWphYQ6YI6q9Xp61FQzxDRKmzr1lYfxk.woff2",
+      "woff": "https://fonts.gstatic.com/s/librecaslondisplay/v2/TuGOUUFxWphYQ6YI6q9Xp61FQzxDRKmzr1lYfx8.woff",
       "fontFamily": "'Libre Caslon Display'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Libre Caslon Display Regular",
         "LibreCaslonDisplay-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/librecaslondisplay/v1/TuGOUUFxWphYQ6YI6q9Xp61FQzxDRKmzr1lYfxw.ttf",
-      "eot": "https://fonts.gstatic.com/s/librecaslondisplay/v1/TuGOUUFxWphYQ6YI6q9Xp61FQzxDRKmzr1lYfx0.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=TuGOUUFxWphYQ6YI6q9Xp61FQzxDRKmzr1lYfx4&skey=a0b25bf0e93098d2&v=v1#LibreCaslonDisplay",
-      "woff": "https://fonts.gstatic.com/s/librecaslondisplay/v1/TuGOUUFxWphYQ6YI6q9Xp61FQzxDRKmzr1lYfx8.woff",
+      "eot": "https://fonts.gstatic.com/s/librecaslondisplay/v2/TuGOUUFxWphYQ6YI6q9Xp61FQzxDRKmzr1lYfx0.eot",
+      "woff2": "https://fonts.gstatic.com/s/librecaslondisplay/v2/TuGOUUFxWphYQ6YI6q9Xp61FQzxDRKmzr1lYfxk.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=TuGOUUFxWphYQ6YI6q9Xp61FQzxDRKmzr1lYfx4&skey=a0b25bf0e93098d2&v=v2#LibreCaslonDisplay",
+      "ttf": "https://fonts.gstatic.com/s/librecaslondisplay/v2/TuGOUUFxWphYQ6YI6q9Xp61FQzxDRKmzr1lYfxw.ttf",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "serif",
-  "version": "v1",
-  "lastModified": "2020-03-03",
-  "popularity": 957,
+  "version": "v2",
+  "lastModified": "2020-07-23",
+  "popularity": 927,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

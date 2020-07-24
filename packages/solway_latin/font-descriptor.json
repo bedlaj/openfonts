@@ -4,23 +4,39 @@
   "variants": [
     {
       "id": "300",
-      "eot": "https://fonts.gstatic.com/s/solway/v2/AMOTz46Cs2uTAOCuLlgpnccV.eot",
+      "woff": "https://fonts.gstatic.com/s/solway/v3/AMOTz46Cs2uTAOCuLlgpnccX.woff",
       "fontFamily": "'Solway'",
       "fontStyle": "normal",
       "fontWeight": "300",
-      "woff": "https://fonts.gstatic.com/s/solway/v2/AMOTz46Cs2uTAOCuLlgpnccX.woff",
       "local": [
         "Solway Light",
         "Solway-Light"
       ],
-      "ttf": "https://fonts.gstatic.com/s/solway/v2/AMOTz46Cs2uTAOCuLlgpnccU.ttf",
-      "woff2": "https://fonts.gstatic.com/s/solway/v2/AMOTz46Cs2uTAOCuLlgpnccR.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=AMOTz46Cs2uTAOCuLlgpnccW&skey=699ff1493c0cc76d&v=v2#Solway",
+      "woff2": "https://fonts.gstatic.com/s/solway/v3/AMOTz46Cs2uTAOCuLlgpnccR.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=AMOTz46Cs2uTAOCuLlgpnccW&skey=699ff1493c0cc76d&v=v3#Solway",
+      "ttf": "https://fonts.gstatic.com/s/solway/v3/AMOTz46Cs2uTAOCuLlgpnccU.ttf",
+      "eot": "https://fonts.gstatic.com/s/solway/v3/AMOTz46Cs2uTAOCuLlgpnccV.eot",
+      "errored": false
+    },
+    {
+      "id": "500",
+      "eot": "https://fonts.gstatic.com/s/solway/v3/AMOTz46Cs2uTAOCudlkpnccV.eot",
+      "fontFamily": "'Solway'",
+      "fontStyle": "normal",
+      "fontWeight": "500",
+      "woff": "https://fonts.gstatic.com/s/solway/v3/AMOTz46Cs2uTAOCudlkpnccX.woff",
+      "local": [
+        "Solway Medium",
+        "Solway-Medium"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/solway/v3/AMOTz46Cs2uTAOCudlkpnccR.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=AMOTz46Cs2uTAOCudlkpnccW&skey=4afff9406d2ebaaf&v=v3#Solway",
+      "ttf": "https://fonts.gstatic.com/s/solway/v3/AMOTz46Cs2uTAOCudlkpnccU.ttf",
       "errored": false
     },
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/solway/v2/AMOQz46Cs2uTAOCmhXo8.woff2",
+      "woff": "https://fonts.gstatic.com/s/solway/v3/AMOQz46Cs2uTAOCmhXo6.woff",
       "fontFamily": "'Solway'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -28,58 +44,42 @@
         "Solway Regular",
         "Solway-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/solway/v2/AMOQz46Cs2uTAOCmhXo4.eot",
-      "woff": "https://fonts.gstatic.com/s/solway/v2/AMOQz46Cs2uTAOCmhXo6.woff",
-      "ttf": "https://fonts.gstatic.com/s/solway/v2/AMOQz46Cs2uTAOCmhXo5.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=AMOQz46Cs2uTAOCmhXo7&skey=9b82410785867af3&v=v2#Solway",
-      "errored": false
-    },
-    {
-      "id": "500",
-      "woff2": "https://fonts.gstatic.com/s/solway/v2/AMOTz46Cs2uTAOCudlkpnccR.woff2",
-      "fontFamily": "'Solway'",
-      "fontStyle": "normal",
-      "fontWeight": "500",
-      "local": [
-        "Solway Medium",
-        "Solway-Medium"
-      ],
-      "eot": "https://fonts.gstatic.com/s/solway/v2/AMOTz46Cs2uTAOCudlkpnccV.eot",
-      "ttf": "https://fonts.gstatic.com/s/solway/v2/AMOTz46Cs2uTAOCudlkpnccU.ttf",
-      "woff": "https://fonts.gstatic.com/s/solway/v2/AMOTz46Cs2uTAOCudlkpnccX.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=AMOTz46Cs2uTAOCudlkpnccW&skey=4afff9406d2ebaaf&v=v2#Solway",
+      "woff2": "https://fonts.gstatic.com/s/solway/v3/AMOQz46Cs2uTAOCmhXo8.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=AMOQz46Cs2uTAOCmhXo7&skey=9b82410785867af3&v=v3#Solway",
+      "ttf": "https://fonts.gstatic.com/s/solway/v3/AMOQz46Cs2uTAOCmhXo5.ttf",
+      "eot": "https://fonts.gstatic.com/s/solway/v3/AMOQz46Cs2uTAOCmhXo4.eot",
       "errored": false
     },
     {
       "id": "700",
-      "woff": "https://fonts.gstatic.com/s/solway/v2/AMOTz46Cs2uTAOCuPl8pnccX.woff",
+      "eot": "https://fonts.gstatic.com/s/solway/v3/AMOTz46Cs2uTAOCuPl8pnccV.eot",
       "fontFamily": "'Solway'",
       "fontStyle": "normal",
       "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/solway/v3/AMOTz46Cs2uTAOCuPl8pnccX.woff",
       "local": [
         "Solway Bold",
         "Solway-Bold"
       ],
-      "eot": "https://fonts.gstatic.com/s/solway/v2/AMOTz46Cs2uTAOCuPl8pnccV.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=AMOTz46Cs2uTAOCuPl8pnccW&skey=69a1c210b4b90aa3&v=v2#Solway",
-      "woff2": "https://fonts.gstatic.com/s/solway/v2/AMOTz46Cs2uTAOCuPl8pnccR.woff2",
-      "ttf": "https://fonts.gstatic.com/s/solway/v2/AMOTz46Cs2uTAOCuPl8pnccU.ttf",
+      "woff2": "https://fonts.gstatic.com/s/solway/v3/AMOTz46Cs2uTAOCuPl8pnccR.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=AMOTz46Cs2uTAOCuPl8pnccW&skey=69a1c210b4b90aa3&v=v3#Solway",
+      "ttf": "https://fonts.gstatic.com/s/solway/v3/AMOTz46Cs2uTAOCuPl8pnccU.ttf",
       "errored": false
     },
     {
       "id": "800",
-      "woff": "https://fonts.gstatic.com/s/solway/v2/AMOTz46Cs2uTAOCuIlwpnccX.woff",
+      "eot": "https://fonts.gstatic.com/s/solway/v3/AMOTz46Cs2uTAOCuIlwpnccV.eot",
       "fontFamily": "'Solway'",
       "fontStyle": "normal",
       "fontWeight": "800",
+      "woff": "https://fonts.gstatic.com/s/solway/v3/AMOTz46Cs2uTAOCuIlwpnccX.woff",
       "local": [
         "Solway ExtraBold",
         "Solway-ExtraBold"
       ],
-      "eot": "https://fonts.gstatic.com/s/solway/v2/AMOTz46Cs2uTAOCuIlwpnccV.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=AMOTz46Cs2uTAOCuIlwpnccW&skey=e07086c127243f5d&v=v2#Solway",
-      "ttf": "https://fonts.gstatic.com/s/solway/v2/AMOTz46Cs2uTAOCuIlwpnccU.ttf",
-      "woff2": "https://fonts.gstatic.com/s/solway/v2/AMOTz46Cs2uTAOCuIlwpnccR.woff2",
+      "woff2": "https://fonts.gstatic.com/s/solway/v3/AMOTz46Cs2uTAOCuIlwpnccR.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=AMOTz46Cs2uTAOCuIlwpnccW&skey=e07086c127243f5d&v=v3#Solway",
+      "ttf": "https://fonts.gstatic.com/s/solway/v3/AMOTz46Cs2uTAOCuIlwpnccU.ttf",
       "errored": false
     }
   ],
@@ -87,9 +87,9 @@
     "latin"
   ],
   "category": "serif",
-  "version": "v2",
-  "lastModified": "2020-03-03",
-  "popularity": 904,
+  "version": "v3",
+  "lastModified": "2020-07-23",
+  "popularity": 945,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/charm/v4/7cHmv4oii5K0MeYq.woff2",
+      "woff2": "https://fonts.gstatic.com/s/charm/v5/7cHmv4oii5K0MeYq.woff2",
       "fontFamily": "'Charm'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,46 +12,46 @@
         "Charm Regular",
         "Charm-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/charm/v4/7cHmv4oii5K0MeYv.ttf",
-      "woff": "https://fonts.gstatic.com/s/charm/v4/7cHmv4oii5K0MeYs.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=7cHmv4oii5K0MeYt&skey=203fb70c7d6d0c6c&v=v4#Charm",
-      "eot": "https://fonts.gstatic.com/s/charm/v4/7cHmv4oii5K0MeYu.eot",
+      "eot": "https://fonts.gstatic.com/s/charm/v5/7cHmv4oii5K0MeYu.eot",
+      "woff": "https://fonts.gstatic.com/s/charm/v5/7cHmv4oii5K0MeYs.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=7cHmv4oii5K0MeYt&skey=203fb70c7d6d0c6c&v=v5#Charm",
+      "ttf": "https://fonts.gstatic.com/s/charm/v5/7cHmv4oii5K0MeYv.ttf",
       "errored": false
     },
     {
       "id": "700",
-      "svg": "https://fonts.gstatic.com/l/font?kit=7cHrv4oii5K0Md6TDss-&skey=36260d0affa72a7a&v=v4#Charm",
+      "eot": "https://fonts.gstatic.com/s/charm/v5/7cHrv4oii5K0Md6TDss9.eot",
       "fontFamily": "'Charm'",
       "fontStyle": "normal",
       "fontWeight": "700",
+      "woff2": "https://fonts.gstatic.com/s/charm/v5/7cHrv4oii5K0Md6TDss5.woff2",
       "local": [
         "Charm Bold",
         "Charm-Bold"
       ],
-      "woff": "https://fonts.gstatic.com/s/charm/v4/7cHrv4oii5K0Md6TDss_.woff",
-      "ttf": "https://fonts.gstatic.com/s/charm/v4/7cHrv4oii5K0Md6TDss8.ttf",
-      "woff2": "https://fonts.gstatic.com/s/charm/v4/7cHrv4oii5K0Md6TDss5.woff2",
-      "eot": "https://fonts.gstatic.com/s/charm/v4/7cHrv4oii5K0Md6TDss9.eot",
+      "woff": "https://fonts.gstatic.com/s/charm/v5/7cHrv4oii5K0Md6TDss_.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=7cHrv4oii5K0Md6TDss-&skey=36260d0affa72a7a&v=v5#Charm",
+      "ttf": "https://fonts.gstatic.com/s/charm/v5/7cHrv4oii5K0Md6TDss8.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "thai",
     "latin",
-    "vietnamese",
-    "latin-ext"
+    "latin-ext",
+    "thai",
+    "vietnamese"
   ],
   "category": "handwriting",
-  "version": "v4",
-  "lastModified": "2019-11-05",
-  "popularity": 603,
+  "version": "v5",
+  "lastModified": "2020-07-23",
+  "popularity": 566,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "thai": true,
     "latin": true,
-    "vietnamese": true,
-    "latin-ext": true
+    "latin-ext": true,
+    "thai": true,
+    "vietnamese": true
   },
-  "storeID": "latin-ext_vietnamese_latin_thai"
+  "storeID": "vietnamese_thai_latin-ext_latin"
 }

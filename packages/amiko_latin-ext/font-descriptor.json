@@ -4,50 +4,50 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/amiko/v4/WwkQxPq1DFK04uqseVk.woff",
+      "eot": "https://fonts.gstatic.com/s/amiko/v5/WwkQxPq1DFK04uqseVs.eot",
       "fontFamily": "'Amiko'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/amiko/v5/WwkQxPq1DFK04uqseVk.woff",
       "local": [
         "Amiko",
         "Amiko-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=WwkQxPq1DFK04uqseVg&skey=9370075dbbb9661d&v=v4#Amiko",
-      "woff2": "https://fonts.gstatic.com/s/amiko/v4/WwkQxPq1DFK04uqseV8.woff2",
-      "eot": "https://fonts.gstatic.com/s/amiko/v4/WwkQxPq1DFK04uqseVs.eot",
-      "ttf": "https://fonts.gstatic.com/s/amiko/v4/WwkQxPq1DFK04uqseVo.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=WwkQxPq1DFK04uqseVg&skey=9370075dbbb9661d&v=v5#Amiko",
+      "ttf": "https://fonts.gstatic.com/s/amiko/v5/WwkQxPq1DFK04uqseVo.ttf",
+      "woff2": "https://fonts.gstatic.com/s/amiko/v5/WwkQxPq1DFK04uqseV8.woff2",
       "errored": false
     },
     {
       "id": "600",
-      "eot": "https://fonts.gstatic.com/s/amiko/v4/WwkdxPq1DFK04uJ9XUrNEIE.eot",
+      "eot": "https://fonts.gstatic.com/s/amiko/v5/WwkdxPq1DFK04uJ9XUrNEIE.eot",
       "fontFamily": "'Amiko'",
       "fontStyle": "normal",
       "fontWeight": "600",
-      "woff": "https://fonts.gstatic.com/s/amiko/v4/WwkdxPq1DFK04uJ9XUrNEIM.woff",
+      "woff2": "https://fonts.gstatic.com/s/amiko/v5/WwkdxPq1DFK04uJ9XUrNEIU.woff2",
       "local": [
         "Amiko SemiBold",
         "Amiko-SemiBold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/amiko/v4/WwkdxPq1DFK04uJ9XUrNEIU.woff2",
-      "ttf": "https://fonts.gstatic.com/s/amiko/v4/WwkdxPq1DFK04uJ9XUrNEIA.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=WwkdxPq1DFK04uJ9XUrNEII&skey=dc341fb169f5b947&v=v4#Amiko",
+      "woff": "https://fonts.gstatic.com/s/amiko/v5/WwkdxPq1DFK04uJ9XUrNEIM.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=WwkdxPq1DFK04uJ9XUrNEII&skey=dc341fb169f5b947&v=v5#Amiko",
+      "ttf": "https://fonts.gstatic.com/s/amiko/v5/WwkdxPq1DFK04uJ9XUrNEIA.ttf",
       "errored": false
     },
     {
       "id": "700",
-      "eot": "https://fonts.gstatic.com/s/amiko/v4/WwkdxPq1DFK04uIZXErNEIE.eot",
+      "eot": "https://fonts.gstatic.com/s/amiko/v5/WwkdxPq1DFK04uIZXErNEIE.eot",
       "fontFamily": "'Amiko'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/amiko/v4/WwkdxPq1DFK04uIZXErNEIM.woff",
+      "woff2": "https://fonts.gstatic.com/s/amiko/v5/WwkdxPq1DFK04uIZXErNEIU.woff2",
       "local": [
         "Amiko Bold",
         "Amiko-Bold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/amiko/v4/WwkdxPq1DFK04uIZXErNEIU.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=WwkdxPq1DFK04uIZXErNEII&skey=b0f97d34e902453e&v=v4#Amiko",
-      "ttf": "https://fonts.gstatic.com/s/amiko/v4/WwkdxPq1DFK04uIZXErNEIA.ttf",
+      "woff": "https://fonts.gstatic.com/s/amiko/v5/WwkdxPq1DFK04uIZXErNEIM.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=WwkdxPq1DFK04uIZXErNEII&skey=b0f97d34e902453e&v=v5#Amiko",
+      "ttf": "https://fonts.gstatic.com/s/amiko/v5/WwkdxPq1DFK04uIZXErNEIA.ttf",
       "errored": false
     }
   ],
@@ -57,8 +57,8 @@
     "latin-ext"
   ],
   "category": "sans-serif",
-  "version": "v4",
-  "lastModified": "2019-07-16",
+  "version": "v5",
+  "lastModified": "2020-07-23",
   "popularity": 479,
   "defSubset": "latin",
   "defVariant": "regular",

@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/pavanam/v4/BXRrvF_aiezLh0xPPPpa9A.woff2",
+      "ttf": "https://fonts.gstatic.com/s/pavanam/v5/BXRrvF_aiezLh0xPPPpa8Q.ttf",
       "fontFamily": "'Pavanam'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,28 +12,28 @@
         "Pavanam",
         "Pavanam-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/pavanam/v4/BXRrvF_aiezLh0xPPPpa8Q.ttf",
-      "woff": "https://fonts.gstatic.com/s/pavanam/v4/BXRrvF_aiezLh0xPPPpa8g.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=BXRrvF_aiezLh0xPPPpa8w&skey=e28b0edd81e978ba&v=v4#Pavanam",
-      "eot": "https://fonts.gstatic.com/s/pavanam/v4/BXRrvF_aiezLh0xPPPpa8A.eot",
+      "eot": "https://fonts.gstatic.com/s/pavanam/v5/BXRrvF_aiezLh0xPPPpa8A.eot",
+      "woff2": "https://fonts.gstatic.com/s/pavanam/v5/BXRrvF_aiezLh0xPPPpa9A.woff2",
+      "woff": "https://fonts.gstatic.com/s/pavanam/v5/BXRrvF_aiezLh0xPPPpa8g.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=BXRrvF_aiezLh0xPPPpa8w&skey=e28b0edd81e978ba&v=v5#Pavanam",
       "errored": false
     }
   ],
   "subsets": [
-    "tamil",
     "latin",
-    "latin-ext"
+    "latin-ext",
+    "tamil"
   ],
   "category": "sans-serif",
-  "version": "v4",
-  "lastModified": "2019-07-16",
-  "popularity": 517,
+  "version": "v5",
+  "lastModified": "2020-07-23",
+  "popularity": 525,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "tamil": true,
     "latin": true,
-    "latin-ext": false
+    "latin-ext": false,
+    "tamil": true
   },
-  "storeID": "latin_tamil"
+  "storeID": "tamil_latin"
 }

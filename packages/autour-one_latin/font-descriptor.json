@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/autourone/v9/UqyVK80cP25l3fJgbdfbo55cUQ.woff",
+      "eot": "https://fonts.gstatic.com/s/autourone/v10/UqyVK80cP25l3fJgbdfbo55cUw.eot",
       "fontFamily": "'Autour One'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/autourone/v10/UqyVK80cP25l3fJgbdfbo55cVw.woff2",
       "local": [
         "Autour One Regular",
         "AutourOne-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/autourone/v9/UqyVK80cP25l3fJgbdfbo55cVw.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=UqyVK80cP25l3fJgbdfbo55cUA&skey=349fce4f261a2eda&v=v9#AutourOne",
-      "ttf": "https://fonts.gstatic.com/s/autourone/v9/UqyVK80cP25l3fJgbdfbo55cUg.ttf",
-      "eot": "https://fonts.gstatic.com/s/autourone/v9/UqyVK80cP25l3fJgbdfbo55cUw.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=UqyVK80cP25l3fJgbdfbo55cUA&skey=349fce4f261a2eda&v=v10#AutourOne",
+      "woff": "https://fonts.gstatic.com/s/autourone/v10/UqyVK80cP25l3fJgbdfbo55cUQ.woff",
+      "ttf": "https://fonts.gstatic.com/s/autourone/v10/UqyVK80cP25l3fJgbdfbo55cUg.ttf",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "display",
-  "version": "v9",
-  "lastModified": "2019-07-16",
-  "popularity": 765,
+  "version": "v10",
+  "lastModified": "2020-07-23",
+  "popularity": 852,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

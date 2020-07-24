@@ -4,36 +4,36 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/bungeeinline/v5/Gg8zN58UcgnlCweMrih332VuPGp__Q.eot",
+      "ttf": "https://fonts.gstatic.com/s/bungeeinline/v6/Gg8zN58UcgnlCweMrih332VuPGp__A.ttf",
       "fontFamily": "'Bungee Inline'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/bungeeinline/v5/Gg8zN58UcgnlCweMrih332VuPGp__w.woff",
       "local": [
         "Bungee Inline",
         "BungeeInline-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/bungeeinline/v5/Gg8zN58UcgnlCweMrih332VuPGp_-Q.woff2",
-      "ttf": "https://fonts.gstatic.com/s/bungeeinline/v5/Gg8zN58UcgnlCweMrih332VuPGp__A.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Gg8zN58UcgnlCweMrih332VuPGp__g&skey=ff5b0f9d1988133a&v=v5#BungeeInline",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Gg8zN58UcgnlCweMrih332VuPGp__g&skey=ff5b0f9d1988133a&v=v6#BungeeInline",
+      "woff2": "https://fonts.gstatic.com/s/bungeeinline/v6/Gg8zN58UcgnlCweMrih332VuPGp_-Q.woff2",
+      "eot": "https://fonts.gstatic.com/s/bungeeinline/v6/Gg8zN58UcgnlCweMrih332VuPGp__Q.eot",
+      "woff": "https://fonts.gstatic.com/s/bungeeinline/v6/Gg8zN58UcgnlCweMrih332VuPGp__w.woff",
       "errored": false
     }
   ],
   "subsets": [
-    "vietnamese",
     "latin",
-    "latin-ext"
+    "latin-ext",
+    "vietnamese"
   ],
   "category": "display",
-  "version": "v5",
-  "lastModified": "2019-07-16",
-  "popularity": 371,
+  "version": "v6",
+  "lastModified": "2020-07-23",
+  "popularity": 404,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "vietnamese": true,
     "latin": true,
-    "latin-ext": false
+    "latin-ext": false,
+    "vietnamese": true
   },
-  "storeID": "latin_vietnamese"
+  "storeID": "vietnamese_latin"
 }

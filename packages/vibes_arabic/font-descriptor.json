@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=QdVYSTsmIB6tmYd1FJA&skey=4912d45c76bf9864&v=v1#Vibes",
+      "woff": "https://fonts.gstatic.com/s/vibes/v2/QdVYSTsmIB6tmYd1FJE.woff",
       "fontFamily": "'Vibes'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Vibes Regular",
         "Vibes-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/vibes/v1/QdVYSTsmIB6tmYd1FJc.woff2",
-      "ttf": "https://fonts.gstatic.com/s/vibes/v1/QdVYSTsmIB6tmYd1FJI.ttf",
-      "woff": "https://fonts.gstatic.com/s/vibes/v1/QdVYSTsmIB6tmYd1FJE.woff",
-      "eot": "https://fonts.gstatic.com/s/vibes/v1/QdVYSTsmIB6tmYd1FJM.eot",
+      "woff2": "https://fonts.gstatic.com/s/vibes/v2/QdVYSTsmIB6tmYd1FJc.woff2",
+      "eot": "https://fonts.gstatic.com/s/vibes/v2/QdVYSTsmIB6tmYd1FJM.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=QdVYSTsmIB6tmYd1FJA&skey=4912d45c76bf9864&v=v2#Vibes",
+      "ttf": "https://fonts.gstatic.com/s/vibes/v2/QdVYSTsmIB6tmYd1FJI.ttf",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin"
   ],
   "category": "display",
-  "version": "v1",
-  "lastModified": "2019-11-05",
-  "popularity": 960,
+  "version": "v2",
+  "lastModified": "2020-07-23",
+  "popularity": 836,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

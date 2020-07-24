@@ -4,38 +4,38 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/farsan/v5/VEMwRoJ0vY_zsyz63w.woff2",
+      "eot": "https://fonts.gstatic.com/s/farsan/v6/VEMwRoJ0vY_zsyz62w.eot",
       "fontFamily": "'Farsan'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/farsan/v6/VEMwRoJ0vY_zsyz62Q.woff",
       "local": [
         "Farsan Regular",
         "Farsan-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/farsan/v5/VEMwRoJ0vY_zsyz62Q.woff",
-      "eot": "https://fonts.gstatic.com/s/farsan/v5/VEMwRoJ0vY_zsyz62w.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=VEMwRoJ0vY_zsyz62A&skey=e4c5cdf64e1df983&v=v5#Farsan",
-      "ttf": "https://fonts.gstatic.com/s/farsan/v5/VEMwRoJ0vY_zsyz62g.ttf",
+      "ttf": "https://fonts.gstatic.com/s/farsan/v6/VEMwRoJ0vY_zsyz62g.ttf",
+      "woff2": "https://fonts.gstatic.com/s/farsan/v6/VEMwRoJ0vY_zsyz63w.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=VEMwRoJ0vY_zsyz62A&skey=e4c5cdf64e1df983&v=v6#Farsan",
       "errored": false
     }
   ],
   "subsets": [
     "gujarati",
-    "vietnamese",
     "latin",
-    "latin-ext"
+    "latin-ext",
+    "vietnamese"
   ],
   "category": "display",
-  "version": "v5",
-  "lastModified": "2019-07-16",
-  "popularity": 700,
+  "version": "v6",
+  "lastModified": "2020-07-23",
+  "popularity": 692,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "gujarati": true,
-    "vietnamese": true,
     "latin": true,
-    "latin-ext": true
+    "latin-ext": true,
+    "vietnamese": true
   },
-  "storeID": "latin-ext_latin_vietnamese_gujarati"
+  "storeID": "vietnamese_latin-ext_latin_gujarati"
 }

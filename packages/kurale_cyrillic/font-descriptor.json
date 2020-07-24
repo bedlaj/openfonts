@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/kurale/v5/4iCs6KV9e9dXjhoKew7z.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=4iCs6KV9e9dXjhoKew7x&skey=fa62c6eb7f6052b&v=v6#Kurale",
       "fontFamily": "'Kurale'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,32 +12,32 @@
         "Kurale Regular",
         "Kurale-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/kurale/v5/4iCs6KV9e9dXjhoKew7w.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=4iCs6KV9e9dXjhoKew7x&skey=fa62c6eb7f6052b&v=v5#Kurale",
-      "eot": "https://fonts.gstatic.com/s/kurale/v5/4iCs6KV9e9dXjhoKew7y.eot",
-      "woff2": "https://fonts.gstatic.com/s/kurale/v5/4iCs6KV9e9dXjhoKew72.woff2",
+      "woff2": "https://fonts.gstatic.com/s/kurale/v6/4iCs6KV9e9dXjhoKew72.woff2",
+      "ttf": "https://fonts.gstatic.com/s/kurale/v6/4iCs6KV9e9dXjhoKew7z.ttf",
+      "woff": "https://fonts.gstatic.com/s/kurale/v6/4iCs6KV9e9dXjhoKew7w.woff",
+      "eot": "https://fonts.gstatic.com/s/kurale/v6/4iCs6KV9e9dXjhoKew7y.eot",
       "errored": false
     }
   ],
   "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
     "devanagari",
     "latin",
-    "cyrillic-ext",
-    "cyrillic",
     "latin-ext"
   ],
   "category": "serif",
-  "version": "v5",
-  "lastModified": "2019-07-16",
-  "popularity": 551,
+  "version": "v6",
+  "lastModified": "2020-07-23",
+  "popularity": 505,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
+    "cyrillic": true,
+    "cyrillic-ext": false,
     "devanagari": false,
     "latin": true,
-    "cyrillic-ext": false,
-    "cyrillic": true,
     "latin-ext": false
   },
-  "storeID": "cyrillic_latin"
+  "storeID": "latin_cyrillic"
 }

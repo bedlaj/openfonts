@@ -4,33 +4,33 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/mallanna/v7/hv-Vlzx-KEQb84YaDFw0GTE.eot",
+      "eot": "https://fonts.gstatic.com/s/mallanna/v8/hv-Vlzx-KEQb84YaDFw0GTE.eot",
       "fontFamily": "'Mallanna'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/mallanna/v7/hv-Vlzx-KEQb84YaDFw0GTM.woff",
+      "woff2": "https://fonts.gstatic.com/s/mallanna/v8/hv-Vlzx-KEQb84YaDFw0GTU.woff2",
       "local": [
         "Mallanna"
       ],
-      "woff2": "https://fonts.gstatic.com/s/mallanna/v7/hv-Vlzx-KEQb84YaDFw0GTU.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=hv-Vlzx-KEQb84YaDFw0GTI&skey=1cbb48e2a8964ae5&v=v7#Mallanna",
-      "ttf": "https://fonts.gstatic.com/s/mallanna/v7/hv-Vlzx-KEQb84YaDFw0GTA.ttf",
+      "ttf": "https://fonts.gstatic.com/s/mallanna/v8/hv-Vlzx-KEQb84YaDFw0GTA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=hv-Vlzx-KEQb84YaDFw0GTI&skey=1cbb48e2a8964ae5&v=v8#Mallanna",
+      "woff": "https://fonts.gstatic.com/s/mallanna/v8/hv-Vlzx-KEQb84YaDFw0GTM.woff",
       "errored": false
     }
   ],
   "subsets": [
-    "telugu",
-    "latin"
+    "latin",
+    "telugu"
   ],
   "category": "sans-serif",
-  "version": "v7",
-  "lastModified": "2019-07-16",
-  "popularity": 499,
+  "version": "v8",
+  "lastModified": "2020-07-23",
+  "popularity": 425,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "telugu": false,
-    "latin": true
+    "latin": true,
+    "telugu": false
   },
   "storeID": "latin"
 }

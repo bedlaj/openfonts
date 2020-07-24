@@ -4,34 +4,34 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/peddana/v7/aFTU7PBhaX89UcKWtgaQAA.eot",
+      "woff2": "https://fonts.gstatic.com/s/peddana/v8/aFTU7PBhaX89UcKWtgaQBA.woff2",
       "fontFamily": "'Peddana'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/peddana/v7/aFTU7PBhaX89UcKWtgaQAg.woff",
       "local": [
         "Peddana Regular",
         "Peddana"
       ],
-      "woff2": "https://fonts.gstatic.com/s/peddana/v7/aFTU7PBhaX89UcKWtgaQBA.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=aFTU7PBhaX89UcKWtgaQAw&skey=13ff572c5e71df32&v=v7#Peddana",
-      "ttf": "https://fonts.gstatic.com/s/peddana/v7/aFTU7PBhaX89UcKWtgaQAQ.ttf",
+      "eot": "https://fonts.gstatic.com/s/peddana/v8/aFTU7PBhaX89UcKWtgaQAA.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=aFTU7PBhaX89UcKWtgaQAw&skey=13ff572c5e71df32&v=v8#Peddana",
+      "woff": "https://fonts.gstatic.com/s/peddana/v8/aFTU7PBhaX89UcKWtgaQAg.woff",
+      "ttf": "https://fonts.gstatic.com/s/peddana/v8/aFTU7PBhaX89UcKWtgaQAQ.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "telugu",
-    "latin"
+    "latin",
+    "telugu"
   ],
   "category": "serif",
-  "version": "v7",
-  "lastModified": "2019-07-16",
-  "popularity": 927,
+  "version": "v8",
+  "lastModified": "2020-07-23",
+  "popularity": 964,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "telugu": true,
-    "latin": true
+    "latin": true,
+    "telugu": true
   },
-  "storeID": "latin_telugu"
+  "storeID": "telugu_latin"
 }

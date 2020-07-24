@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/ranchers/v7/zrfm0H3Lx-P2Xvs2ArDfBio.ttf",
+      "woff2": "https://fonts.gstatic.com/s/ranchers/v8/zrfm0H3Lx-P2Xvs2ArDfBi8.woff2",
       "fontFamily": "'Ranchers'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Ranchers",
         "Ranchers-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=zrfm0H3Lx-P2Xvs2ArDfBig&skey=d5ab3d28a945ee24&v=v7#Ranchers",
-      "woff2": "https://fonts.gstatic.com/s/ranchers/v7/zrfm0H3Lx-P2Xvs2ArDfBi8.woff2",
-      "eot": "https://fonts.gstatic.com/s/ranchers/v7/zrfm0H3Lx-P2Xvs2ArDfBis.eot",
-      "woff": "https://fonts.gstatic.com/s/ranchers/v7/zrfm0H3Lx-P2Xvs2ArDfBik.woff",
+      "eot": "https://fonts.gstatic.com/s/ranchers/v8/zrfm0H3Lx-P2Xvs2ArDfBis.eot",
+      "woff": "https://fonts.gstatic.com/s/ranchers/v8/zrfm0H3Lx-P2Xvs2ArDfBik.woff",
+      "ttf": "https://fonts.gstatic.com/s/ranchers/v8/zrfm0H3Lx-P2Xvs2ArDfBio.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=zrfm0H3Lx-P2Xvs2ArDfBig&skey=d5ab3d28a945ee24&v=v8#Ranchers",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "display",
-  "version": "v7",
-  "lastModified": "2019-07-16",
-  "popularity": 729,
+  "version": "v8",
+  "lastModified": "2020-07-23",
+  "popularity": 646,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

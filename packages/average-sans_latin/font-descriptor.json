@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/averagesans/v8/1Ptpg8fLXP2dlAXR-HlJJNJ_AtCf.eot",
+      "woff2": "https://fonts.gstatic.com/s/averagesans/v9/1Ptpg8fLXP2dlAXR-HlJJNJ_AtCb.woff2",
       "fontFamily": "'Average Sans'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/averagesans/v8/1Ptpg8fLXP2dlAXR-HlJJNJ_AtCd.woff",
       "local": [
         "Average Sans Regular",
         "AverageSans-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=1Ptpg8fLXP2dlAXR-HlJJNJ_AtCc&skey=96ddd4e1c10cfd7f&v=v8#AverageSans",
-      "ttf": "https://fonts.gstatic.com/s/averagesans/v8/1Ptpg8fLXP2dlAXR-HlJJNJ_AtCe.ttf",
-      "woff2": "https://fonts.gstatic.com/s/averagesans/v8/1Ptpg8fLXP2dlAXR-HlJJNJ_AtCb.woff2",
+      "woff": "https://fonts.gstatic.com/s/averagesans/v9/1Ptpg8fLXP2dlAXR-HlJJNJ_AtCd.woff",
+      "eot": "https://fonts.gstatic.com/s/averagesans/v9/1Ptpg8fLXP2dlAXR-HlJJNJ_AtCf.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=1Ptpg8fLXP2dlAXR-HlJJNJ_AtCc&skey=96ddd4e1c10cfd7f&v=v9#AverageSans",
+      "ttf": "https://fonts.gstatic.com/s/averagesans/v9/1Ptpg8fLXP2dlAXR-HlJJNJ_AtCe.ttf",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "sans-serif",
-  "version": "v8",
-  "lastModified": "2019-07-16",
-  "popularity": 434,
+  "version": "v9",
+  "lastModified": "2020-07-23",
+  "popularity": 416,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/mansalva/v1/aWB4m0aacbtDfvq5NKliKYk.woff",
+      "woff": "https://fonts.gstatic.com/s/mansalva/v2/aWB4m0aacbtDfvq5NKliKYk.woff",
       "fontFamily": "'Mansalva'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Mansalva Regular",
         "Mansalva-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=aWB4m0aacbtDfvq5NKliKYg&skey=c44feb786187b756&v=v1#Mansalva",
-      "woff2": "https://fonts.gstatic.com/s/mansalva/v1/aWB4m0aacbtDfvq5NKliKY8.woff2",
-      "ttf": "https://fonts.gstatic.com/s/mansalva/v1/aWB4m0aacbtDfvq5NKliKYo.ttf",
-      "eot": "https://fonts.gstatic.com/s/mansalva/v1/aWB4m0aacbtDfvq5NKliKYs.eot",
+      "woff2": "https://fonts.gstatic.com/s/mansalva/v2/aWB4m0aacbtDfvq5NKliKY8.woff2",
+      "eot": "https://fonts.gstatic.com/s/mansalva/v2/aWB4m0aacbtDfvq5NKliKYs.eot",
+      "ttf": "https://fonts.gstatic.com/s/mansalva/v2/aWB4m0aacbtDfvq5NKliKYo.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=aWB4m0aacbtDfvq5NKliKYg&skey=c44feb786187b756&v=v2#Mansalva",
       "errored": false
     }
   ],
@@ -23,9 +23,9 @@
     "latin"
   ],
   "category": "handwriting",
-  "version": "v1",
-  "lastModified": "2020-03-03",
-  "popularity": 756,
+  "version": "v2",
+  "lastModified": "2020-07-23",
+  "popularity": 582,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

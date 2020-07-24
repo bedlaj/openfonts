@@ -4,33 +4,33 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/dhurjati/v7/_6_8ED3gSeatXfFiFU3pQqM.woff",
+      "eot": "https://fonts.gstatic.com/s/dhurjati/v8/_6_8ED3gSeatXfFiFU3pQqE.eot",
       "fontFamily": "'Dhurjati'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/dhurjati/v8/_6_8ED3gSeatXfFiFU3pQqM.woff",
       "local": [
         "Dhurjati"
       ],
-      "woff2": "https://fonts.gstatic.com/s/dhurjati/v7/_6_8ED3gSeatXfFiFU3pQqU.woff2",
-      "eot": "https://fonts.gstatic.com/s/dhurjati/v7/_6_8ED3gSeatXfFiFU3pQqE.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=_6_8ED3gSeatXfFiFU3pQqI&skey=4848e17bf4d9fa9e&v=v7#Dhurjati",
-      "ttf": "https://fonts.gstatic.com/s/dhurjati/v7/_6_8ED3gSeatXfFiFU3pQqA.ttf",
+      "woff2": "https://fonts.gstatic.com/s/dhurjati/v8/_6_8ED3gSeatXfFiFU3pQqU.woff2",
+      "ttf": "https://fonts.gstatic.com/s/dhurjati/v8/_6_8ED3gSeatXfFiFU3pQqA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=_6_8ED3gSeatXfFiFU3pQqI&skey=4848e17bf4d9fa9e&v=v8#Dhurjati",
       "errored": false
     }
   ],
   "subsets": [
-    "telugu",
-    "latin"
+    "latin",
+    "telugu"
   ],
   "category": "sans-serif",
-  "version": "v7",
-  "lastModified": "2019-07-16",
-  "popularity": 929,
+  "version": "v8",
+  "lastModified": "2020-07-23",
+  "popularity": 986,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "telugu": true,
-    "latin": true
+    "latin": true,
+    "telugu": true
   },
-  "storeID": "latin_telugu"
+  "storeID": "telugu_latin"
 }

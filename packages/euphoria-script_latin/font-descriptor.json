@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/euphoriascript/v8/mFTpWb0X2bLb_cx6To2B8GpKoD5qlPxU.woff",
+      "woff2": "https://fonts.gstatic.com/s/euphoriascript/v9/mFTpWb0X2bLb_cx6To2B8GpKoD5qlPxS.woff2",
       "fontFamily": "'Euphoria Script'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Euphoria Script",
         "EuphoriaScript-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/euphoriascript/v8/mFTpWb0X2bLb_cx6To2B8GpKoD5qlPxW.eot",
-      "woff2": "https://fonts.gstatic.com/s/euphoriascript/v8/mFTpWb0X2bLb_cx6To2B8GpKoD5qlPxS.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=mFTpWb0X2bLb_cx6To2B8GpKoD5qlPxV&skey=43c0de58807de10a&v=v8#EuphoriaScript",
-      "ttf": "https://fonts.gstatic.com/s/euphoriascript/v8/mFTpWb0X2bLb_cx6To2B8GpKoD5qlPxX.ttf",
+      "eot": "https://fonts.gstatic.com/s/euphoriascript/v9/mFTpWb0X2bLb_cx6To2B8GpKoD5qlPxW.eot",
+      "woff": "https://fonts.gstatic.com/s/euphoriascript/v9/mFTpWb0X2bLb_cx6To2B8GpKoD5qlPxU.woff",
+      "ttf": "https://fonts.gstatic.com/s/euphoriascript/v9/mFTpWb0X2bLb_cx6To2B8GpKoD5qlPxX.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=mFTpWb0X2bLb_cx6To2B8GpKoD5qlPxV&skey=43c0de58807de10a&v=v9#EuphoriaScript",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "handwriting",
-  "version": "v8",
-  "lastModified": "2019-07-16",
-  "popularity": 580,
+  "version": "v9",
+  "lastModified": "2020-07-23",
+  "popularity": 590,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

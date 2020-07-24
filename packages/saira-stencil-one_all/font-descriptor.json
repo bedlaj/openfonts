@@ -4,36 +4,36 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/sairastencilone/v1/SLXSc03I6HkvZGJ1GvvipLoYSTEL9AsP.woff",
+      "eot": "https://fonts.gstatic.com/s/sairastencilone/v2/SLXSc03I6HkvZGJ1GvvipLoYSTEL9AsN.eot",
       "fontFamily": "'Saira Stencil One'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/sairastencilone/v2/SLXSc03I6HkvZGJ1GvvipLoYSTEL9AsJ.woff2",
       "local": [
         "Saira Stencil One Regular",
         "SairaStencilOne-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/sairastencilone/v1/SLXSc03I6HkvZGJ1GvvipLoYSTEL9AsN.eot",
-      "woff2": "https://fonts.gstatic.com/s/sairastencilone/v1/SLXSc03I6HkvZGJ1GvvipLoYSTEL9AsJ.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=SLXSc03I6HkvZGJ1GvvipLoYSTEL9AsO&skey=3854f42b11687006&v=v1#SairaStencilOne",
-      "ttf": "https://fonts.gstatic.com/s/sairastencilone/v1/SLXSc03I6HkvZGJ1GvvipLoYSTEL9AsM.ttf",
+      "woff": "https://fonts.gstatic.com/s/sairastencilone/v2/SLXSc03I6HkvZGJ1GvvipLoYSTEL9AsP.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=SLXSc03I6HkvZGJ1GvvipLoYSTEL9AsO&skey=3854f42b11687006&v=v2#SairaStencilOne",
+      "ttf": "https://fonts.gstatic.com/s/sairastencilone/v2/SLXSc03I6HkvZGJ1GvvipLoYSTEL9AsM.ttf",
       "errored": false
     }
   ],
   "subsets": [
     "latin",
-    "vietnamese",
-    "latin-ext"
+    "latin-ext",
+    "vietnamese"
   ],
   "category": "display",
-  "version": "v1",
-  "lastModified": "2019-11-05",
-  "popularity": 698,
+  "version": "v2",
+  "lastModified": "2020-07-23",
+  "popularity": 690,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "latin": true,
-    "vietnamese": true,
-    "latin-ext": true
+    "latin-ext": true,
+    "vietnamese": true
   },
-  "storeID": "latin-ext_vietnamese_latin"
+  "storeID": "vietnamese_latin-ext_latin"
 }

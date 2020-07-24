@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/bungeehairline/v5/snfys0G548t04270a_ljTLUVrv-LaRec.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=snfys0G548t04270a_ljTLUVrv-LaReb&skey=f83e9a70b2ed1d60&v=v6#BungeeHairline",
       "fontFamily": "'Bungee Hairline'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,28 +12,28 @@
         "Bungee Hairline",
         "BungeeHairline-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=snfys0G548t04270a_ljTLUVrv-LaReb&skey=f83e9a70b2ed1d60&v=v5#BungeeHairline",
-      "eot": "https://fonts.gstatic.com/s/bungeehairline/v5/snfys0G548t04270a_ljTLUVrv-LaReY.eot",
-      "ttf": "https://fonts.gstatic.com/s/bungeehairline/v5/snfys0G548t04270a_ljTLUVrv-LaReZ.ttf",
-      "woff": "https://fonts.gstatic.com/s/bungeehairline/v5/snfys0G548t04270a_ljTLUVrv-LaRea.woff",
+      "woff": "https://fonts.gstatic.com/s/bungeehairline/v6/snfys0G548t04270a_ljTLUVrv-LaRea.woff",
+      "ttf": "https://fonts.gstatic.com/s/bungeehairline/v6/snfys0G548t04270a_ljTLUVrv-LaReZ.ttf",
+      "woff2": "https://fonts.gstatic.com/s/bungeehairline/v6/snfys0G548t04270a_ljTLUVrv-LaRec.woff2",
+      "eot": "https://fonts.gstatic.com/s/bungeehairline/v6/snfys0G548t04270a_ljTLUVrv-LaReY.eot",
       "errored": false
     }
   ],
   "subsets": [
-    "vietnamese",
     "latin",
-    "latin-ext"
+    "latin-ext",
+    "vietnamese"
   ],
   "category": "display",
-  "version": "v5",
-  "lastModified": "2019-07-16",
-  "popularity": 919,
+  "version": "v6",
+  "lastModified": "2020-07-23",
+  "popularity": 959,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "vietnamese": false,
     "latin": true,
-    "latin-ext": true
+    "latin-ext": true,
+    "vietnamese": false
   },
   "storeID": "latin-ext_latin"
 }

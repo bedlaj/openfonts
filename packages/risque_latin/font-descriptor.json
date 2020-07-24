@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/risque/v7/VdGfAZUfHosahXxYDkwU.woff2",
+      "eot": "https://fonts.gstatic.com/s/risque/v8/VdGfAZUfHosahXxYDkwQ.eot",
       "fontFamily": "'Risque'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/risque/v8/VdGfAZUfHosahXxYDkwU.woff2",
       "local": [
         "Risque",
         "Risque-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/risque/v7/VdGfAZUfHosahXxYDkwQ.eot",
-      "woff": "https://fonts.gstatic.com/s/risque/v7/VdGfAZUfHosahXxYDkwS.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=VdGfAZUfHosahXxYDkwT&skey=7de61f5b97e020bc&v=v7#Risque",
-      "ttf": "https://fonts.gstatic.com/s/risque/v7/VdGfAZUfHosahXxYDkwR.ttf",
+      "woff": "https://fonts.gstatic.com/s/risque/v8/VdGfAZUfHosahXxYDkwS.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=VdGfAZUfHosahXxYDkwT&skey=7de61f5b97e020bc&v=v8#Risque",
+      "ttf": "https://fonts.gstatic.com/s/risque/v8/VdGfAZUfHosahXxYDkwR.ttf",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "display",
-  "version": "v7",
-  "lastModified": "2019-07-16",
-  "popularity": 884,
+  "version": "v8",
+  "lastModified": "2020-07-23",
+  "popularity": 938,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

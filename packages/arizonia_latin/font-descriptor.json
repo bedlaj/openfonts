@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/arizonia/v10/neIIzCemt4A5qa7mv5WBFqo.woff",
+      "woff2": "https://fonts.gstatic.com/s/arizonia/v11/neIIzCemt4A5qa7mv5WBFqw.woff2",
       "fontFamily": "'Arizonia'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Arizonia Regular",
         "Arizonia-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/arizonia/v10/neIIzCemt4A5qa7mv5WBFqg.eot",
-      "woff2": "https://fonts.gstatic.com/s/arizonia/v10/neIIzCemt4A5qa7mv5WBFqw.woff2",
-      "ttf": "https://fonts.gstatic.com/s/arizonia/v10/neIIzCemt4A5qa7mv5WBFqk.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=neIIzCemt4A5qa7mv5WBFqs&skey=940a156b384ad39&v=v10#Arizonia",
+      "woff": "https://fonts.gstatic.com/s/arizonia/v11/neIIzCemt4A5qa7mv5WBFqo.woff",
+      "eot": "https://fonts.gstatic.com/s/arizonia/v11/neIIzCemt4A5qa7mv5WBFqg.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=neIIzCemt4A5qa7mv5WBFqs&skey=940a156b384ad39&v=v11#Arizonia",
+      "ttf": "https://fonts.gstatic.com/s/arizonia/v11/neIIzCemt4A5qa7mv5WBFqk.ttf",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "handwriting",
-  "version": "v10",
-  "lastModified": "2019-07-16",
-  "popularity": 342,
+  "version": "v11",
+  "lastModified": "2020-07-23",
+  "popularity": 410,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

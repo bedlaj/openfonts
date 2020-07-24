@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/scopeone/v6/WBLnrEXKYFlGHrOKmGDFXEXJ.eot",
+      "woff": "https://fonts.gstatic.com/s/scopeone/v7/WBLnrEXKYFlGHrOKmGDFXEXL.woff",
       "fontFamily": "'Scope One'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/scopeone/v6/WBLnrEXKYFlGHrOKmGDFXEXN.woff2",
       "local": [
         "Scope One",
         "ScopeOne-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=WBLnrEXKYFlGHrOKmGDFXEXK&skey=e6e682d8fd842817&v=v6#ScopeOne",
-      "woff": "https://fonts.gstatic.com/s/scopeone/v6/WBLnrEXKYFlGHrOKmGDFXEXL.woff",
-      "ttf": "https://fonts.gstatic.com/s/scopeone/v6/WBLnrEXKYFlGHrOKmGDFXEXI.ttf",
+      "ttf": "https://fonts.gstatic.com/s/scopeone/v7/WBLnrEXKYFlGHrOKmGDFXEXI.ttf",
+      "woff2": "https://fonts.gstatic.com/s/scopeone/v7/WBLnrEXKYFlGHrOKmGDFXEXN.woff2",
+      "eot": "https://fonts.gstatic.com/s/scopeone/v7/WBLnrEXKYFlGHrOKmGDFXEXJ.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=WBLnrEXKYFlGHrOKmGDFXEXK&skey=e6e682d8fd842817&v=v7#ScopeOne",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "serif",
-  "version": "v6",
-  "lastModified": "2019-07-16",
-  "popularity": 590,
+  "version": "v7",
+  "lastModified": "2020-07-23",
+  "popularity": 715,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

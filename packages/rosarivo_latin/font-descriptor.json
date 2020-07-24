@@ -4,34 +4,34 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/rosarivo/v7/PlI-Fl2lO6N9f8HaNDeF0H0.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=PlI-Fl2lO6N9f8HaNDeF0H4&skey=ac6102bdca509a99&v=v8#Rosarivo",
       "fontFamily": "'Rosarivo'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "svg": "https://fonts.gstatic.com/l/font?kit=PlI-Fl2lO6N9f8HaNDeF0H4&skey=ac6102bdca509a99&v=v7#Rosarivo",
       "local": [
         "Rosarivo",
         "Rosarivo-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/rosarivo/v7/PlI-Fl2lO6N9f8HaNDeF0Hk.woff2",
-      "woff": "https://fonts.gstatic.com/s/rosarivo/v7/PlI-Fl2lO6N9f8HaNDeF0H8.woff",
-      "ttf": "https://fonts.gstatic.com/s/rosarivo/v7/PlI-Fl2lO6N9f8HaNDeF0Hw.ttf",
+      "woff2": "https://fonts.gstatic.com/s/rosarivo/v8/PlI-Fl2lO6N9f8HaNDeF0Hk.woff2",
+      "woff": "https://fonts.gstatic.com/s/rosarivo/v8/PlI-Fl2lO6N9f8HaNDeF0H8.woff",
+      "eot": "https://fonts.gstatic.com/s/rosarivo/v8/PlI-Fl2lO6N9f8HaNDeF0H0.eot",
+      "ttf": "https://fonts.gstatic.com/s/rosarivo/v8/PlI-Fl2lO6N9f8HaNDeF0Hw.ttf",
       "errored": false
     },
     {
       "id": "italic",
-      "woff2": "https://fonts.gstatic.com/s/rosarivo/v7/PlI4Fl2lO6N9f8HaNDeA4HtkmA.woff2",
+      "eot": "https://fonts.gstatic.com/s/rosarivo/v8/PlI4Fl2lO6N9f8HaNDeA4HtknA.eot",
       "fontFamily": "'Rosarivo'",
       "fontStyle": "italic",
       "fontWeight": "400",
+      "svg": "https://fonts.gstatic.com/l/font?kit=PlI4Fl2lO6N9f8HaNDeA4Htknw&skey=e497383dad5f70d7&v=v8#Rosarivo",
       "local": [
         "Rosarivo Italic",
         "Rosarivo-Italic"
       ],
-      "ttf": "https://fonts.gstatic.com/s/rosarivo/v7/PlI4Fl2lO6N9f8HaNDeA4HtknQ.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=PlI4Fl2lO6N9f8HaNDeA4Htknw&skey=e497383dad5f70d7&v=v7#Rosarivo",
-      "eot": "https://fonts.gstatic.com/s/rosarivo/v7/PlI4Fl2lO6N9f8HaNDeA4HtknA.eot",
-      "woff": "https://fonts.gstatic.com/s/rosarivo/v7/PlI4Fl2lO6N9f8HaNDeA4Htkng.woff",
+      "ttf": "https://fonts.gstatic.com/s/rosarivo/v8/PlI4Fl2lO6N9f8HaNDeA4HtknQ.ttf",
+      "woff": "https://fonts.gstatic.com/s/rosarivo/v8/PlI4Fl2lO6N9f8HaNDeA4Htkng.woff",
+      "woff2": "https://fonts.gstatic.com/s/rosarivo/v8/PlI4Fl2lO6N9f8HaNDeA4HtkmA.woff2",
       "errored": false
     }
   ],
@@ -40,9 +40,9 @@
     "latin-ext"
   ],
   "category": "serif",
-  "version": "v7",
-  "lastModified": "2019-07-16",
-  "popularity": 717,
+  "version": "v8",
+  "lastModified": "2020-07-23",
+  "popularity": 763,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

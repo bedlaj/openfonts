@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/peralta/v7/hYkJPu0-RP_9d3kRKxcrqQ.woff",
+      "ttf": "https://fonts.gstatic.com/s/peralta/v8/hYkJPu0-RP_9d3kRKxcrqg.ttf",
       "fontFamily": "'Peralta'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Peralta",
         "Peralta-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/peralta/v7/hYkJPu0-RP_9d3kRKxcrqg.ttf",
-      "woff2": "https://fonts.gstatic.com/s/peralta/v7/hYkJPu0-RP_9d3kRKxcrrw.woff2",
-      "eot": "https://fonts.gstatic.com/s/peralta/v7/hYkJPu0-RP_9d3kRKxcrqw.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=hYkJPu0-RP_9d3kRKxcrqA&skey=4fcf46385831e5a6&v=v7#Peralta",
+      "svg": "https://fonts.gstatic.com/l/font?kit=hYkJPu0-RP_9d3kRKxcrqA&skey=4fcf46385831e5a6&v=v8#Peralta",
+      "woff2": "https://fonts.gstatic.com/s/peralta/v8/hYkJPu0-RP_9d3kRKxcrrw.woff2",
+      "eot": "https://fonts.gstatic.com/s/peralta/v8/hYkJPu0-RP_9d3kRKxcrqw.eot",
+      "woff": "https://fonts.gstatic.com/s/peralta/v8/hYkJPu0-RP_9d3kRKxcrqQ.woff",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "display",
-  "version": "v7",
-  "lastModified": "2019-07-16",
-  "popularity": 695,
+  "version": "v8",
+  "lastModified": "2020-07-23",
+  "popularity": 721,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

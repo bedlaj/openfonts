@@ -4,33 +4,33 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/mate/v8/m8JdjftRd7WZ6zq2XQ.woff",
+      "woff": "https://fonts.gstatic.com/s/mate/v9/m8JdjftRd7WZ6zq2XQ.woff",
       "fontFamily": "'Mate'",
       "fontStyle": "normal",
       "fontWeight": "400",
       "local": [
         "Mate-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/mate/v8/m8JdjftRd7WZ6zq2Xg.ttf",
-      "eot": "https://fonts.gstatic.com/s/mate/v8/m8JdjftRd7WZ6zq2Xw.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=m8JdjftRd7WZ6zq2XA&skey=3809b241213e7468&v=v8#Mate",
-      "woff2": "https://fonts.gstatic.com/s/mate/v8/m8JdjftRd7WZ6zq2Ww.woff2",
+      "woff2": "https://fonts.gstatic.com/s/mate/v9/m8JdjftRd7WZ6zq2Ww.woff2",
+      "ttf": "https://fonts.gstatic.com/s/mate/v9/m8JdjftRd7WZ6zq2Xg.ttf",
+      "eot": "https://fonts.gstatic.com/s/mate/v9/m8JdjftRd7WZ6zq2Xw.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=m8JdjftRd7WZ6zq2XA&skey=3809b241213e7468&v=v9#Mate",
       "errored": false
     },
     {
       "id": "italic",
-      "eot": "https://fonts.gstatic.com/s/mate/v8/m8JTjftRd7WZ6z-GWa3S.eot",
+      "eot": "https://fonts.gstatic.com/s/mate/v9/m8JTjftRd7WZ6z-GWa3S.eot",
       "fontFamily": "'Mate'",
       "fontStyle": "italic",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/mate/v8/m8JTjftRd7WZ6z-GWa3W.woff2",
+      "woff2": "https://fonts.gstatic.com/s/mate/v9/m8JTjftRd7WZ6z-GWa3W.woff2",
       "local": [
         "Mate Italic",
         "Mate-Italic"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=m8JTjftRd7WZ6z-GWa3R&skey=2841edb4ac82bfc&v=v8#Mate",
-      "woff": "https://fonts.gstatic.com/s/mate/v8/m8JTjftRd7WZ6z-GWa3Q.woff",
-      "ttf": "https://fonts.gstatic.com/s/mate/v8/m8JTjftRd7WZ6z-GWa3T.ttf",
+      "woff": "https://fonts.gstatic.com/s/mate/v9/m8JTjftRd7WZ6z-GWa3Q.woff",
+      "ttf": "https://fonts.gstatic.com/s/mate/v9/m8JTjftRd7WZ6z-GWa3T.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=m8JTjftRd7WZ6z-GWa3R&skey=2841edb4ac82bfc&v=v9#Mate",
       "errored": false
     }
   ],
@@ -38,9 +38,9 @@
     "latin"
   ],
   "category": "serif",
-  "version": "v8",
-  "lastModified": "2019-07-16",
-  "popularity": 484,
+  "version": "v9",
+  "lastModified": "2020-07-23",
+  "popularity": 490,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

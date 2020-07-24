@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/qwigley/v9/1cXzaU3UGJb5tGoCiVVmig.woff2",
+      "eot": "https://fonts.gstatic.com/s/qwigley/v10/1cXzaU3UGJb5tGoCiVVmjg.eot",
       "fontFamily": "'Qwigley'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/qwigley/v10/1cXzaU3UGJb5tGoCiVVmjA.woff",
       "local": [
         "Qwigley",
         "Qwigley-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=1cXzaU3UGJb5tGoCiVVmjQ&skey=556bf49db578a148&v=v9#Qwigley",
-      "woff": "https://fonts.gstatic.com/s/qwigley/v9/1cXzaU3UGJb5tGoCiVVmjA.woff",
-      "eot": "https://fonts.gstatic.com/s/qwigley/v9/1cXzaU3UGJb5tGoCiVVmjg.eot",
-      "ttf": "https://fonts.gstatic.com/s/qwigley/v9/1cXzaU3UGJb5tGoCiVVmjw.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=1cXzaU3UGJb5tGoCiVVmjQ&skey=556bf49db578a148&v=v10#Qwigley",
+      "woff2": "https://fonts.gstatic.com/s/qwigley/v10/1cXzaU3UGJb5tGoCiVVmig.woff2",
+      "ttf": "https://fonts.gstatic.com/s/qwigley/v10/1cXzaU3UGJb5tGoCiVVmjw.ttf",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "handwriting",
-  "version": "v9",
-  "lastModified": "2019-07-16",
-  "popularity": 487,
+  "version": "v10",
+  "lastModified": "2020-07-23",
+  "popularity": 546,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

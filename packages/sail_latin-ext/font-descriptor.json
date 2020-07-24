@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/sail/v10/DPEjYwiBxwYJJB3JBA.ttf",
+      "woff": "https://fonts.gstatic.com/s/sail/v11/DPEjYwiBxwYJJB3JBw.woff",
       "fontFamily": "'Sail'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Sail",
         "Sail-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/sail/v10/DPEjYwiBxwYJJB3JBQ.eot",
-      "woff2": "https://fonts.gstatic.com/s/sail/v10/DPEjYwiBxwYJJB3JAQ.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=DPEjYwiBxwYJJB3JBg&skey=8b8d2acf792d1a65&v=v10#Sail",
-      "woff": "https://fonts.gstatic.com/s/sail/v10/DPEjYwiBxwYJJB3JBw.woff",
+      "eot": "https://fonts.gstatic.com/s/sail/v11/DPEjYwiBxwYJJB3JBQ.eot",
+      "woff2": "https://fonts.gstatic.com/s/sail/v11/DPEjYwiBxwYJJB3JAQ.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=DPEjYwiBxwYJJB3JBg&skey=8b8d2acf792d1a65&v=v11#Sail",
+      "ttf": "https://fonts.gstatic.com/s/sail/v11/DPEjYwiBxwYJJB3JBA.ttf",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "display",
-  "version": "v10",
-  "lastModified": "2019-07-16",
-  "popularity": 669,
+  "version": "v11",
+  "lastModified": "2020-07-23",
+  "popularity": 625,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

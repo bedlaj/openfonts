@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/sahitya/v4/6qLAKZkOuhnuqlJAWSAPPg.woff2",
+      "woff2": "https://fonts.gstatic.com/s/sahitya/v5/6qLAKZkOuhnuqlJAWSAPPg.woff2",
       "fontFamily": "'Sahitya'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,15 +12,15 @@
         "Sahitya",
         "Sahitya-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/sahitya/v4/6qLAKZkOuhnuqlJAWSAPOA.woff",
-      "ttf": "https://fonts.gstatic.com/s/sahitya/v4/6qLAKZkOuhnuqlJAWSAPOw.ttf",
-      "eot": "https://fonts.gstatic.com/s/sahitya/v4/6qLAKZkOuhnuqlJAWSAPOg.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=6qLAKZkOuhnuqlJAWSAPOQ&skey=980a4c34e0a2c199&v=v4#Sahitya",
+      "ttf": "https://fonts.gstatic.com/s/sahitya/v5/6qLAKZkOuhnuqlJAWSAPOw.ttf",
+      "woff": "https://fonts.gstatic.com/s/sahitya/v5/6qLAKZkOuhnuqlJAWSAPOA.woff",
+      "eot": "https://fonts.gstatic.com/s/sahitya/v5/6qLAKZkOuhnuqlJAWSAPOg.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=6qLAKZkOuhnuqlJAWSAPOQ&skey=980a4c34e0a2c199&v=v5#Sahitya",
       "errored": false
     },
     {
       "id": "700",
-      "woff": "https://fonts.gstatic.com/s/sahitya/v4/6qLFKZkOuhnuqlJAUZsqKyMlFQ.woff",
+      "woff": "https://fonts.gstatic.com/s/sahitya/v5/6qLFKZkOuhnuqlJAUZsqKyMlFQ.woff",
       "fontFamily": "'Sahitya'",
       "fontStyle": "normal",
       "fontWeight": "700",
@@ -28,10 +28,10 @@
         "Sahitya Bold",
         "Sahitya-Bold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/sahitya/v4/6qLFKZkOuhnuqlJAUZsqKyMlEw.woff2",
-      "ttf": "https://fonts.gstatic.com/s/sahitya/v4/6qLFKZkOuhnuqlJAUZsqKyMlFg.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=6qLFKZkOuhnuqlJAUZsqKyMlFA&skey=4a09c211f370817d&v=v4#Sahitya",
-      "eot": "https://fonts.gstatic.com/s/sahitya/v4/6qLFKZkOuhnuqlJAUZsqKyMlFw.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=6qLFKZkOuhnuqlJAUZsqKyMlFA&skey=4a09c211f370817d&v=v5#Sahitya",
+      "ttf": "https://fonts.gstatic.com/s/sahitya/v5/6qLFKZkOuhnuqlJAUZsqKyMlFg.ttf",
+      "woff2": "https://fonts.gstatic.com/s/sahitya/v5/6qLFKZkOuhnuqlJAUZsqKyMlEw.woff2",
+      "eot": "https://fonts.gstatic.com/s/sahitya/v5/6qLFKZkOuhnuqlJAUZsqKyMlFw.eot",
       "errored": false
     }
   ],
@@ -40,9 +40,9 @@
     "latin"
   ],
   "category": "serif",
-  "version": "v4",
-  "lastModified": "2019-07-16",
-  "popularity": 825,
+  "version": "v5",
+  "lastModified": "2020-07-23",
+  "popularity": 883,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

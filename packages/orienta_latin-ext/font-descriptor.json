@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/orienta/v7/PlI9FlK4Jrl5Y9zNSy6i8A.ttf",
+      "woff2": "https://fonts.gstatic.com/s/orienta/v8/PlI9FlK4Jrl5Y9zNSy6i9Q.woff2",
       "fontFamily": "'Orienta'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Orienta",
         "Orienta-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/orienta/v7/PlI9FlK4Jrl5Y9zNSy6i9Q.woff2",
-      "woff": "https://fonts.gstatic.com/s/orienta/v7/PlI9FlK4Jrl5Y9zNSy6i8w.woff",
-      "eot": "https://fonts.gstatic.com/s/orienta/v7/PlI9FlK4Jrl5Y9zNSy6i8Q.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=PlI9FlK4Jrl5Y9zNSy6i8g&skey=e41114ee31e61880&v=v7#Orienta",
+      "woff": "https://fonts.gstatic.com/s/orienta/v8/PlI9FlK4Jrl5Y9zNSy6i8w.woff",
+      "eot": "https://fonts.gstatic.com/s/orienta/v8/PlI9FlK4Jrl5Y9zNSy6i8Q.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=PlI9FlK4Jrl5Y9zNSy6i8g&skey=e41114ee31e61880&v=v8#Orienta",
+      "ttf": "https://fonts.gstatic.com/s/orienta/v8/PlI9FlK4Jrl5Y9zNSy6i8A.ttf",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "sans-serif",
-  "version": "v7",
-  "lastModified": "2019-07-16",
-  "popularity": 572,
+  "version": "v8",
+  "lastModified": "2020-07-23",
+  "popularity": 662,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

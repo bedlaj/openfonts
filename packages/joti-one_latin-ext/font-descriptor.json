@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/jotione/v8/Z9XVDmdJQAmWm9TwabTX6Og.eot",
+      "ttf": "https://fonts.gstatic.com/s/jotione/v9/Z9XVDmdJQAmWm9TwabTX6Ok.ttf",
       "fontFamily": "'Joti One'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Z9XVDmdJQAmWm9TwabTX6Os&skey=62c1bf261cc3b314&v=v8#JotiOne",
       "local": [
         "Joti One",
         "JotiOne-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/jotione/v8/Z9XVDmdJQAmWm9TwabTX6Ok.ttf",
-      "woff": "https://fonts.gstatic.com/s/jotione/v8/Z9XVDmdJQAmWm9TwabTX6Oo.woff",
-      "woff2": "https://fonts.gstatic.com/s/jotione/v8/Z9XVDmdJQAmWm9TwabTX6Ow.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Z9XVDmdJQAmWm9TwabTX6Os&skey=62c1bf261cc3b314&v=v9#JotiOne",
+      "woff2": "https://fonts.gstatic.com/s/jotione/v9/Z9XVDmdJQAmWm9TwabTX6Ow.woff2",
+      "eot": "https://fonts.gstatic.com/s/jotione/v9/Z9XVDmdJQAmWm9TwabTX6Og.eot",
+      "woff": "https://fonts.gstatic.com/s/jotione/v9/Z9XVDmdJQAmWm9TwabTX6Oo.woff",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "display",
-  "version": "v8",
-  "lastModified": "2019-07-16",
-  "popularity": 781,
+  "version": "v9",
+  "lastModified": "2020-07-23",
+  "popularity": 802,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

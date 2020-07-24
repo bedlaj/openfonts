@@ -4,36 +4,36 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/seymourone/v7/4iCp6Khla9xbjQpoWGGd0lyLN4Q.ttf",
+      "eot": "https://fonts.gstatic.com/s/seymourone/v8/4iCp6Khla9xbjQpoWGGd0lyLN4U.eot",
       "fontFamily": "'Seymour One'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/seymourone/v8/4iCp6Khla9xbjQpoWGGd0lyLN4E.woff2",
       "local": [
         "Seymour One",
         "SeymourOne"
       ],
-      "eot": "https://fonts.gstatic.com/s/seymourone/v7/4iCp6Khla9xbjQpoWGGd0lyLN4U.eot",
-      "woff": "https://fonts.gstatic.com/s/seymourone/v7/4iCp6Khla9xbjQpoWGGd0lyLN4c.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=4iCp6Khla9xbjQpoWGGd0lyLN4Y&skey=f9acfe398dc38251&v=v7#SeymourOne",
-      "woff2": "https://fonts.gstatic.com/s/seymourone/v7/4iCp6Khla9xbjQpoWGGd0lyLN4E.woff2",
+      "ttf": "https://fonts.gstatic.com/s/seymourone/v8/4iCp6Khla9xbjQpoWGGd0lyLN4Q.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=4iCp6Khla9xbjQpoWGGd0lyLN4Y&skey=f9acfe398dc38251&v=v8#SeymourOne",
+      "woff": "https://fonts.gstatic.com/s/seymourone/v8/4iCp6Khla9xbjQpoWGGd0lyLN4c.woff",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
     "cyrillic",
+    "latin",
     "latin-ext"
   ],
   "category": "sans-serif",
-  "version": "v7",
-  "lastModified": "2019-07-16",
-  "popularity": 885,
+  "version": "v8",
+  "lastModified": "2020-07-23",
+  "popularity": 956,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
     "cyrillic": true,
+    "latin": true,
     "latin-ext": false
   },
-  "storeID": "cyrillic_latin"
+  "storeID": "latin_cyrillic"
 }

@@ -4,36 +4,36 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/alatsi/v1/TK3iWkUJAxQ2nLN2Fz8C.eot",
+      "woff": "https://fonts.gstatic.com/s/alatsi/v2/TK3iWkUJAxQ2nLN2Fz8A.woff",
       "fontFamily": "'Alatsi'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/alatsi/v1/TK3iWkUJAxQ2nLN2Fz8G.woff2",
       "local": [
         "Alatsi Regular",
         "Alatsi-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/alatsi/v1/TK3iWkUJAxQ2nLN2Fz8D.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=TK3iWkUJAxQ2nLN2Fz8B&skey=861c1b101f0a39de&v=v1#Alatsi",
-      "woff": "https://fonts.gstatic.com/s/alatsi/v1/TK3iWkUJAxQ2nLN2Fz8A.woff",
+      "woff2": "https://fonts.gstatic.com/s/alatsi/v2/TK3iWkUJAxQ2nLN2Fz8G.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=TK3iWkUJAxQ2nLN2Fz8B&skey=861c1b101f0a39de&v=v2#Alatsi",
+      "eot": "https://fonts.gstatic.com/s/alatsi/v2/TK3iWkUJAxQ2nLN2Fz8C.eot",
+      "ttf": "https://fonts.gstatic.com/s/alatsi/v2/TK3iWkUJAxQ2nLN2Fz8D.ttf",
       "errored": false
     }
   ],
   "subsets": [
     "latin",
-    "vietnamese",
-    "latin-ext"
+    "latin-ext",
+    "vietnamese"
   ],
   "category": "sans-serif",
-  "version": "v1",
-  "lastModified": "2020-03-03",
-  "popularity": 710,
+  "version": "v2",
+  "lastModified": "2020-07-23",
+  "popularity": 631,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "latin": true,
-    "vietnamese": false,
-    "latin-ext": true
+    "latin-ext": true,
+    "vietnamese": false
   },
   "storeID": "latin-ext_latin"
 }

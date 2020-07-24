@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/mogra/v6/f0X40eSs8c95TCoxBPU.woff",
+      "woff2": "https://fonts.gstatic.com/s/mogra/v7/f0X40eSs8c95TCoxBPM.woff2",
       "fontFamily": "'Mogra'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Mogra Regular",
         "Mogra-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=f0X40eSs8c95TCoxBPQ&skey=b7f0e945d2c7fa06&v=v6#Mogra",
-      "woff2": "https://fonts.gstatic.com/s/mogra/v6/f0X40eSs8c95TCoxBPM.woff2",
-      "ttf": "https://fonts.gstatic.com/s/mogra/v6/f0X40eSs8c95TCoxBPY.ttf",
-      "eot": "https://fonts.gstatic.com/s/mogra/v6/f0X40eSs8c95TCoxBPc.eot",
+      "ttf": "https://fonts.gstatic.com/s/mogra/v7/f0X40eSs8c95TCoxBPY.ttf",
+      "woff": "https://fonts.gstatic.com/s/mogra/v7/f0X40eSs8c95TCoxBPU.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=f0X40eSs8c95TCoxBPQ&skey=b7f0e945d2c7fa06&v=v7#Mogra",
+      "eot": "https://fonts.gstatic.com/s/mogra/v7/f0X40eSs8c95TCoxBPc.eot",
       "errored": false
     }
   ],
@@ -25,9 +25,9 @@
     "latin-ext"
   ],
   "category": "display",
-  "version": "v6",
-  "lastModified": "2019-07-16",
-  "popularity": 647,
+  "version": "v7",
+  "lastModified": "2020-07-23",
+  "popularity": 754,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

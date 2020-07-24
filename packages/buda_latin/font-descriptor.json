@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "300",
-      "woff2": "https://fonts.gstatic.com/s/buda/v10/GFDqWAN8mnyIJSSrK7ILrg.woff2",
+      "ttf": "https://fonts.gstatic.com/s/buda/v11/GFDqWAN8mnyIJSSrK7ILqw.ttf",
       "fontFamily": "'Buda'",
       "fontStyle": "normal",
       "fontWeight": "300",
@@ -12,10 +12,10 @@
         "Buda Light",
         "Buda-Light"
       ],
-      "woff": "https://fonts.gstatic.com/s/buda/v10/GFDqWAN8mnyIJSSrK7ILqA.woff",
-      "eot": "https://fonts.gstatic.com/s/buda/v10/GFDqWAN8mnyIJSSrK7ILqg.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=GFDqWAN8mnyIJSSrK7ILqQ&skey=b7e64cadd1bf937&v=v10#Buda",
-      "ttf": "https://fonts.gstatic.com/s/buda/v10/GFDqWAN8mnyIJSSrK7ILqw.ttf",
+      "eot": "https://fonts.gstatic.com/s/buda/v11/GFDqWAN8mnyIJSSrK7ILqg.eot",
+      "woff2": "https://fonts.gstatic.com/s/buda/v11/GFDqWAN8mnyIJSSrK7ILrg.woff2",
+      "woff": "https://fonts.gstatic.com/s/buda/v11/GFDqWAN8mnyIJSSrK7ILqA.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=GFDqWAN8mnyIJSSrK7ILqQ&skey=b7e64cadd1bf937&v=v11#Buda",
       "errored": false
     }
   ],
@@ -23,9 +23,9 @@
     "latin"
   ],
   "category": "display",
-  "version": "v10",
-  "lastModified": "2019-07-16",
-  "popularity": 720,
+  "version": "v11",
+  "lastModified": "2020-07-23",
+  "popularity": 805,
   "defSubset": "latin",
   "defVariant": "300",
   "subsetMap": {
