@@ -4,16 +4,16 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/balootamma2/v1/vEFX2_hCAgcR46PaajtrYlBbf0A80w.eot",
+      "woff": "https://fonts.gstatic.com/s/balootamma2/v1/vEFX2_hCAgcR46PaajtrYlBbf0A80Q.woff",
       "fontFamily": "'Baloo Tamma 2'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/balootamma2/v1/vEFX2_hCAgcR46PaajtrYlBbf0A81w.woff2",
       "local": [
         "Baloo Tamma 2 Regular",
         "BalooTamma2-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/balootamma2/v1/vEFX2_hCAgcR46PaajtrYlBbf0A80Q.woff",
+      "eot": "https://fonts.gstatic.com/s/balootamma2/v1/vEFX2_hCAgcR46PaajtrYlBbf0A80w.eot",
+      "woff2": "https://fonts.gstatic.com/s/balootamma2/v1/vEFX2_hCAgcR46PaajtrYlBbf0A81w.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=vEFX2_hCAgcR46PaajtrYlBbf0A80A&skey=9f9420dc7eb5e26c&v=v1#BalooTamma2",
       "ttf": "https://fonts.gstatic.com/s/balootamma2/v1/vEFX2_hCAgcR46PaajtrYlBbf0A80g.ttf",
       "errored": false
@@ -29,9 +29,9 @@
         "Baloo Tamma 2 Medium",
         "BalooTamma2-Medium"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=vEFK2_hCAgcR46PaajtrYlBbd7wfwtq_XQ&skey=ade194e3227782d5&v=v1#BalooTamma2",
-      "ttf": "https://fonts.gstatic.com/s/balootamma2/v1/vEFK2_hCAgcR46PaajtrYlBbd7wfwtq_Xw.ttf",
       "woff2": "https://fonts.gstatic.com/s/balootamma2/v1/vEFK2_hCAgcR46PaajtrYlBbd7wfwtq_Wg.woff2",
+      "ttf": "https://fonts.gstatic.com/s/balootamma2/v1/vEFK2_hCAgcR46PaajtrYlBbd7wfwtq_Xw.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=vEFK2_hCAgcR46PaajtrYlBbd7wfwtq_XQ&skey=ade194e3227782d5&v=v1#BalooTamma2",
       "errored": false
     },
     {
@@ -56,14 +56,14 @@
       "fontFamily": "'Baloo Tamma 2'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/balootamma2/v1/vEFK2_hCAgcR46PaajtrYlBbd_QZwtq_XA.woff",
+      "woff2": "https://fonts.gstatic.com/s/balootamma2/v1/vEFK2_hCAgcR46PaajtrYlBbd_QZwtq_Wg.woff2",
       "local": [
         "Baloo Tamma 2 Bold",
         "BalooTamma2-Bold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/balootamma2/v1/vEFK2_hCAgcR46PaajtrYlBbd_QZwtq_Wg.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=vEFK2_hCAgcR46PaajtrYlBbd_QZwtq_XQ&skey=b08d6d8b51372483&v=v1#BalooTamma2",
       "ttf": "https://fonts.gstatic.com/s/balootamma2/v1/vEFK2_hCAgcR46PaajtrYlBbd_QZwtq_Xw.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=vEFK2_hCAgcR46PaajtrYlBbd_QZwtq_XQ&skey=b08d6d8b51372483&v=v1#BalooTamma2",
+      "woff": "https://fonts.gstatic.com/s/balootamma2/v1/vEFK2_hCAgcR46PaajtrYlBbd_QZwtq_XA.woff",
       "errored": false
     },
     {
@@ -85,20 +85,20 @@
   ],
   "subsets": [
     "kannada",
-    "latin-ext",
     "latin",
+    "latin-ext",
     "vietnamese"
   ],
   "category": "display",
   "version": "v1",
-  "lastModified": "2020-03-06",
-  "popularity": 987,
+  "lastModified": "2020-03-05",
+  "popularity": 983,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "kannada": false,
-    "latin-ext": false,
     "latin": true,
+    "latin-ext": false,
     "vietnamese": true
   },
   "storeID": "vietnamese_latin"

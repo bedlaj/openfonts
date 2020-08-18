@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/balsamiqsans/v1/P5sEzZiAbNrN8SB3lQQX7Pncwd4XJQ.ttf",
+      "woff": "https://fonts.gstatic.com/s/balsamiqsans/v1/P5sEzZiAbNrN8SB3lQQX7Pncwd4XJg.woff",
       "fontFamily": "'Balsamiq Sans'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Balsamiq Sans Regular",
         "BalsamiqSans-Regular"
       ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=P5sEzZiAbNrN8SB3lQQX7Pncwd4XJw&skey=aba016cf33110df9&v=v1#BalsamiqSans",
       "woff2": "https://fonts.gstatic.com/s/balsamiqsans/v1/P5sEzZiAbNrN8SB3lQQX7Pncwd4XIA.woff2",
       "eot": "https://fonts.gstatic.com/s/balsamiqsans/v1/P5sEzZiAbNrN8SB3lQQX7Pncwd4XJA.eot",
-      "woff": "https://fonts.gstatic.com/s/balsamiqsans/v1/P5sEzZiAbNrN8SB3lQQX7Pncwd4XJg.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=P5sEzZiAbNrN8SB3lQQX7Pncwd4XJw&skey=aba016cf33110df9&v=v1#BalsamiqSans",
+      "ttf": "https://fonts.gstatic.com/s/balsamiqsans/v1/P5sEzZiAbNrN8SB3lQQX7Pncwd4XJQ.ttf",
       "errored": false
     },
     {
@@ -36,18 +36,18 @@
     },
     {
       "id": "italic",
-      "woff2": "https://fonts.gstatic.com/s/balsamiqsans/v1/P5sazZiAbNrN8SB3lQQX7PncwdsnIq9J.woff2",
+      "eot": "https://fonts.gstatic.com/s/balsamiqsans/v1/P5sazZiAbNrN8SB3lQQX7PncwdsnIq9N.eot",
       "fontFamily": "'Balsamiq Sans'",
       "fontStyle": "italic",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/balsamiqsans/v1/P5sazZiAbNrN8SB3lQQX7PncwdsnIq9P.woff",
       "local": [
         "Balsamiq Sans Italic",
         "BalsamiqSans-Italic"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=P5sazZiAbNrN8SB3lQQX7PncwdsnIq9O&skey=723ae8380a1af90c&v=v1#BalsamiqSans",
-      "eot": "https://fonts.gstatic.com/s/balsamiqsans/v1/P5sazZiAbNrN8SB3lQQX7PncwdsnIq9N.eot",
       "ttf": "https://fonts.gstatic.com/s/balsamiqsans/v1/P5sazZiAbNrN8SB3lQQX7PncwdsnIq9M.ttf",
-      "woff": "https://fonts.gstatic.com/s/balsamiqsans/v1/P5sazZiAbNrN8SB3lQQX7PncwdsnIq9P.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=P5sazZiAbNrN8SB3lQQX7PncwdsnIq9O&skey=723ae8380a1af90c&v=v1#BalsamiqSans",
+      "woff2": "https://fonts.gstatic.com/s/balsamiqsans/v1/P5sazZiAbNrN8SB3lQQX7PncwdsnIq9J.woff2",
       "errored": false
     },
     {
@@ -56,14 +56,14 @@
       "fontFamily": "'Balsamiq Sans'",
       "fontStyle": "italic",
       "fontWeight": "700",
-      "woff2": "https://fonts.gstatic.com/s/balsamiqsans/v1/P5sfzZiAbNrN8SB3lQQX7PncwdsvmYpcABrB.woff2",
+      "woff": "https://fonts.gstatic.com/s/balsamiqsans/v1/P5sfzZiAbNrN8SB3lQQX7PncwdsvmYpcABrH.woff",
       "local": [
         "Balsamiq Sans Bold Italic",
         "BalsamiqSans-BoldItalic"
       ],
-      "woff": "https://fonts.gstatic.com/s/balsamiqsans/v1/P5sfzZiAbNrN8SB3lQQX7PncwdsvmYpcABrH.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=P5sfzZiAbNrN8SB3lQQX7PncwdsvmYpcABrG&skey=4ccce8aff5b32d19&v=v1#BalsamiqSans",
       "ttf": "https://fonts.gstatic.com/s/balsamiqsans/v1/P5sfzZiAbNrN8SB3lQQX7PncwdsvmYpcABrE.ttf",
+      "woff2": "https://fonts.gstatic.com/s/balsamiqsans/v1/P5sfzZiAbNrN8SB3lQQX7PncwdsvmYpcABrB.woff2",
       "errored": false
     }
   ],
@@ -75,8 +75,8 @@
   ],
   "category": "display",
   "version": "v1",
-  "lastModified": "2020-05-06",
-  "popularity": 990,
+  "lastModified": "2020-05-05",
+  "popularity": 143,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
