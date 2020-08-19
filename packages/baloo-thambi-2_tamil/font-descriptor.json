@@ -3,6 +3,22 @@
   "family": "Baloo Thambi 2",
   "variants": [
     {
+      "id": "500",
+      "woff": "https://fonts.gstatic.com/s/baloothambi2/v1/cY9ffjeOW0NHpmOQXranrbDyu7CzLYeoRBg.woff",
+      "fontFamily": "'Baloo Thambi 2'",
+      "fontStyle": "normal",
+      "fontWeight": "500",
+      "local": [
+        "Baloo Thambi 2 Medium",
+        "BalooThambi2-Medium"
+      ],
+      "eot": "https://fonts.gstatic.com/s/baloothambi2/v1/cY9ffjeOW0NHpmOQXranrbDyu7CzLYeoRBo.eot",
+      "woff2": "https://fonts.gstatic.com/s/baloothambi2/v1/cY9ffjeOW0NHpmOQXranrbDyu7CzLYeoRB4.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=cY9ffjeOW0NHpmOQXranrbDyu7CzLYeoRBk&skey=2db57688c0d435e1&v=v1#BalooThambi2",
+      "ttf": "https://fonts.gstatic.com/s/baloothambi2/v1/cY9ffjeOW0NHpmOQXranrbDyu7CzLYeoRBs.ttf",
+      "errored": false
+    },
+    {
       "id": "regular",
       "woff": "https://fonts.gstatic.com/s/baloothambi2/v1/cY9cfjeOW0NHpmOQXranrbDyu7hWDpQ.woff",
       "fontFamily": "'Baloo Thambi 2'",
@@ -13,25 +29,9 @@
         "BalooThambi2-Regular"
       ],
       "eot": "https://fonts.gstatic.com/s/baloothambi2/v1/cY9cfjeOW0NHpmOQXranrbDyu7hWDpY.eot",
-      "ttf": "https://fonts.gstatic.com/s/baloothambi2/v1/cY9cfjeOW0NHpmOQXranrbDyu7hWDpc.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=cY9cfjeOW0NHpmOQXranrbDyu7hWDpU&skey=5c437c295dc4816c&v=v1#BalooThambi2",
+      "ttf": "https://fonts.gstatic.com/s/baloothambi2/v1/cY9cfjeOW0NHpmOQXranrbDyu7hWDpc.ttf",
       "woff2": "https://fonts.gstatic.com/s/baloothambi2/v1/cY9cfjeOW0NHpmOQXranrbDyu7hWDpI.woff2",
-      "errored": false
-    },
-    {
-      "id": "500",
-      "eot": "https://fonts.gstatic.com/s/baloothambi2/v1/cY9ffjeOW0NHpmOQXranrbDyu7CzLYeoRBo.eot",
-      "fontFamily": "'Baloo Thambi 2'",
-      "fontStyle": "normal",
-      "fontWeight": "500",
-      "woff": "https://fonts.gstatic.com/s/baloothambi2/v1/cY9ffjeOW0NHpmOQXranrbDyu7CzLYeoRBg.woff",
-      "local": [
-        "Baloo Thambi 2 Medium",
-        "BalooThambi2-Medium"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/baloothambi2/v1/cY9ffjeOW0NHpmOQXranrbDyu7CzLYeoRB4.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=cY9ffjeOW0NHpmOQXranrbDyu7CzLYeoRBk&skey=2db57688c0d435e1&v=v1#BalooThambi2",
-      "ttf": "https://fonts.gstatic.com/s/baloothambi2/v1/cY9ffjeOW0NHpmOQXranrbDyu7CzLYeoRBs.ttf",
       "errored": false
     },
     {
@@ -46,8 +46,8 @@
         "BalooThambi2-SemiBold"
       ],
       "woff2": "https://fonts.gstatic.com/s/baloothambi2/v1/cY9ffjeOW0NHpmOQXranrbDyu7CfKoeoRB4.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=cY9ffjeOW0NHpmOQXranrbDyu7CfKoeoRBk&skey=9fdad4dba37d01e0&v=v1#BalooThambi2",
       "ttf": "https://fonts.gstatic.com/s/baloothambi2/v1/cY9ffjeOW0NHpmOQXranrbDyu7CfKoeoRBs.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=cY9ffjeOW0NHpmOQXranrbDyu7CfKoeoRBk&skey=9fdad4dba37d01e0&v=v1#BalooThambi2",
       "errored": false
     },
     {
@@ -61,9 +61,9 @@
         "Baloo Thambi 2 Bold",
         "BalooThambi2-Bold"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=cY9ffjeOW0NHpmOQXranrbDyu7D7K4eoRBk&skey=9eb7915b6a574f5d&v=v1#BalooThambi2",
       "woff2": "https://fonts.gstatic.com/s/baloothambi2/v1/cY9ffjeOW0NHpmOQXranrbDyu7D7K4eoRB4.woff2",
       "ttf": "https://fonts.gstatic.com/s/baloothambi2/v1/cY9ffjeOW0NHpmOQXranrbDyu7D7K4eoRBs.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=cY9ffjeOW0NHpmOQXranrbDyu7D7K4eoRBk&skey=9eb7915b6a574f5d&v=v1#BalooThambi2",
       "errored": false
     },
     {
@@ -91,8 +91,8 @@
   ],
   "category": "display",
   "version": "v1",
-  "lastModified": "2020-03-05",
-  "popularity": 666,
+  "lastModified": "2020-03-06",
+  "popularity": 619,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

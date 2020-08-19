@@ -4,18 +4,34 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/baloo2/v1/wXKrE3kTposypRyd51jcBA.eot",
+      "ttf": "https://fonts.gstatic.com/s/baloo2/v1/wXKrE3kTposypRyd51jcBQ.ttf",
       "fontFamily": "'Baloo 2'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "ttf": "https://fonts.gstatic.com/s/baloo2/v1/wXKrE3kTposypRyd51jcBQ.ttf",
       "local": [
         "Baloo 2 Regular",
         "Baloo2-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=wXKrE3kTposypRyd51jcBw&skey=f84d20f19091b325&v=v1#Baloo2",
-      "woff2": "https://fonts.gstatic.com/s/baloo2/v1/wXKrE3kTposypRyd51jcAA.woff2",
       "woff": "https://fonts.gstatic.com/s/baloo2/v1/wXKrE3kTposypRyd51jcBg.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=wXKrE3kTposypRyd51jcBw&skey=f84d20f19091b325&v=v1#Baloo2",
+      "eot": "https://fonts.gstatic.com/s/baloo2/v1/wXKrE3kTposypRyd51jcBA.eot",
+      "woff2": "https://fonts.gstatic.com/s/baloo2/v1/wXKrE3kTposypRyd51jcAA.woff2",
+      "errored": false
+    },
+    {
+      "id": "500",
+      "ttf": "https://fonts.gstatic.com/s/baloo2/v1/wXKuE3kTposypRyd76v_FeMKnQ.ttf",
+      "fontFamily": "'Baloo 2'",
+      "fontStyle": "normal",
+      "fontWeight": "500",
+      "local": [
+        "Baloo 2 Medium",
+        "Baloo2-Medium"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=wXKuE3kTposypRyd76v_FeMKnw&skey=a1a076e2128fa43f&v=v1#Baloo2",
+      "eot": "https://fonts.gstatic.com/s/baloo2/v1/wXKuE3kTposypRyd76v_FeMKnA.eot",
+      "woff2": "https://fonts.gstatic.com/s/baloo2/v1/wXKuE3kTposypRyd76v_FeMKmA.woff2",
+      "woff": "https://fonts.gstatic.com/s/baloo2/v1/wXKuE3kTposypRyd76v_FeMKng.woff",
       "errored": false
     },
     {
@@ -24,30 +40,14 @@
       "fontFamily": "'Baloo 2'",
       "fontStyle": "normal",
       "fontWeight": "600",
-      "woff": "https://fonts.gstatic.com/s/baloo2/v1/wXKuE3kTposypRyd74f4FeMKng.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=wXKuE3kTposypRyd74f4FeMKnw&skey=fc4711e3f04c9036&v=v1#Baloo2",
       "local": [
         "Baloo 2 SemiBold",
         "Baloo2-SemiBold"
       ],
+      "woff": "https://fonts.gstatic.com/s/baloo2/v1/wXKuE3kTposypRyd74f4FeMKng.woff",
       "woff2": "https://fonts.gstatic.com/s/baloo2/v1/wXKuE3kTposypRyd74f4FeMKmA.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=wXKuE3kTposypRyd74f4FeMKnw&skey=fc4711e3f04c9036&v=v1#Baloo2",
       "ttf": "https://fonts.gstatic.com/s/baloo2/v1/wXKuE3kTposypRyd74f4FeMKnQ.ttf",
-      "errored": false
-    },
-    {
-      "id": "500",
-      "woff": "https://fonts.gstatic.com/s/baloo2/v1/wXKuE3kTposypRyd76v_FeMKng.woff",
-      "fontFamily": "'Baloo 2'",
-      "fontStyle": "normal",
-      "fontWeight": "500",
-      "local": [
-        "Baloo 2 Medium",
-        "Baloo2-Medium"
-      ],
-      "eot": "https://fonts.gstatic.com/s/baloo2/v1/wXKuE3kTposypRyd76v_FeMKnA.eot",
-      "ttf": "https://fonts.gstatic.com/s/baloo2/v1/wXKuE3kTposypRyd76v_FeMKnQ.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=wXKuE3kTposypRyd76v_FeMKnw&skey=a1a076e2128fa43f&v=v1#Baloo2",
-      "woff2": "https://fonts.gstatic.com/s/baloo2/v1/wXKuE3kTposypRyd76v_FeMKmA.woff2",
       "errored": false
     },
     {
@@ -61,8 +61,8 @@
         "Baloo 2 Bold",
         "Baloo2-Bold"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=wXKuE3kTposypRyd7-P5FeMKnw&skey=59b8b7c114fd6822&v=v1#Baloo2",
       "woff2": "https://fonts.gstatic.com/s/baloo2/v1/wXKuE3kTposypRyd7-P5FeMKmA.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=wXKuE3kTposypRyd7-P5FeMKnw&skey=59b8b7c114fd6822&v=v1#Baloo2",
       "ttf": "https://fonts.gstatic.com/s/baloo2/v1/wXKuE3kTposypRyd7-P5FeMKnQ.ttf",
       "errored": false
     },
@@ -77,9 +77,9 @@
         "Baloo 2 ExtraBold",
         "Baloo2-ExtraBold"
       ],
+      "ttf": "https://fonts.gstatic.com/s/baloo2/v1/wXKuE3kTposypRyd7__6FeMKnQ.ttf",
       "woff2": "https://fonts.gstatic.com/s/baloo2/v1/wXKuE3kTposypRyd7__6FeMKmA.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=wXKuE3kTposypRyd7__6FeMKnw&skey=b46dc53452411bb2&v=v1#Baloo2",
-      "ttf": "https://fonts.gstatic.com/s/baloo2/v1/wXKuE3kTposypRyd7__6FeMKnQ.ttf",
       "errored": false
     }
   ],
@@ -91,8 +91,8 @@
   ],
   "category": "display",
   "version": "v1",
-  "lastModified": "2020-03-05",
-  "popularity": 169,
+  "lastModified": "2020-03-06",
+  "popularity": 181,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

@@ -4,17 +4,32 @@
   "variants": [
     {
       "id": "100",
-      "eot": "https://fonts.gstatic.com/s/notosansjp/v25/-F6ofjtqLzI2JPCgQBnw7HFQojgF8lY.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=-F6ofjtqLzI2JPCgQBnw7HFQojgF8lU&skey=dec77943ffd1c735&v=v25#NotoSansJP",
       "fontFamily": "'Noto Sans JP'",
       "fontStyle": "normal",
       "fontWeight": "100",
-      "svg": "https://fonts.gstatic.com/l/font?kit=-F6ofjtqLzI2JPCgQBnw7HFQojgF8lU&skey=dec77943ffd1c735&v=v25#NotoSansJP",
       "local": [
         "Noto Sans Japanese Thin",
         "NotoSansJapanese-Thin"
       ],
+      "eot": "https://fonts.gstatic.com/s/notosansjp/v25/-F6ofjtqLzI2JPCgQBnw7HFQojgF8lY.eot",
       "woff2": "https://fonts.gstatic.com/s/notosansjp/v25/-F6ofjtqLzI2JPCgQBnw7HFQojgF8lI.woff2",
       "woff": "https://fonts.gstatic.com/s/notosansjp/v25/-F6ofjtqLzI2JPCgQBnw7HFQojgF8lQ.woff",
+      "errored": false
+    },
+    {
+      "id": "300",
+      "woff2": "https://fonts.gstatic.com/s/notosansjp/v25/-F6pfjtqLzI2JPCgQBnw7HFQaioa3Xdg.woff2",
+      "fontFamily": "'Noto Sans JP'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "local": [
+        "Noto Sans Japanese Light",
+        "NotoSansJapanese-Light"
+      ],
+      "woff": "https://fonts.gstatic.com/s/notosansjp/v25/-F6pfjtqLzI2JPCgQBnw7HFQaioa3Xdm.woff",
+      "eot": "https://fonts.gstatic.com/s/notosansjp/v25/-F6pfjtqLzI2JPCgQBnw7HFQaioa3Xdk.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=-F6pfjtqLzI2JPCgQBnw7HFQaioa3Xdn&skey=f8a75aa314b1396f&v=v25#NotoSansJP",
       "errored": false
     },
     {
@@ -30,21 +45,6 @@
       ],
       "woff2": "https://fonts.gstatic.com/s/notosansjp/v25/-F62fjtqLzI2JPCgQBnw7HFYyQgP.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=-F62fjtqLzI2JPCgQBnw7HFYyQgI&skey=72472b0eb8793570&v=v25#NotoSansJP",
-      "errored": false
-    },
-    {
-      "id": "300",
-      "eot": "https://fonts.gstatic.com/s/notosansjp/v25/-F6pfjtqLzI2JPCgQBnw7HFQaioa3Xdk.eot",
-      "fontFamily": "'Noto Sans JP'",
-      "fontStyle": "normal",
-      "fontWeight": "300",
-      "woff": "https://fonts.gstatic.com/s/notosansjp/v25/-F6pfjtqLzI2JPCgQBnw7HFQaioa3Xdm.woff",
-      "local": [
-        "Noto Sans Japanese Light",
-        "NotoSansJapanese-Light"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/notosansjp/v25/-F6pfjtqLzI2JPCgQBnw7HFQaioa3Xdg.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=-F6pfjtqLzI2JPCgQBnw7HFQaioa3Xdn&skey=f8a75aa314b1396f&v=v25#NotoSansJP",
       "errored": false
     },
     {
@@ -73,8 +73,8 @@
         "Noto Sans Japanese Bold",
         "NotoSansJapanese-Bold"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=-F6pfjtqLzI2JPCgQBnw7HFQei0a3Xdn&skey=b1468649b9c42538&v=v25#NotoSansJP",
       "woff2": "https://fonts.gstatic.com/s/notosansjp/v25/-F6pfjtqLzI2JPCgQBnw7HFQei0a3Xdg.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=-F6pfjtqLzI2JPCgQBnw7HFQei0a3Xdn&skey=b1468649b9c42538&v=v25#NotoSansJP",
       "errored": false
     },
     {
@@ -99,8 +99,8 @@
   ],
   "category": "sans-serif",
   "version": "v25",
-  "lastModified": "2020-03-04",
-  "popularity": 4,
+  "lastModified": "2020-03-05",
+  "popularity": 3,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
