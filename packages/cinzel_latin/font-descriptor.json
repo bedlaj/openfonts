@@ -4,50 +4,74 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/cinzel/v9/8vIJ7ww63mVu7gt79mT-.ttf",
+      "eot": "https://fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-tbnfY3lCQ.eot",
       "fontFamily": "'Cinzel'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "local": [
-        "Cinzel Regular",
-        "Cinzel-Regular"
-      ],
-      "eot": "https://fonts.gstatic.com/s/cinzel/v9/8vIJ7ww63mVu7gt79mT_.eot",
-      "woff": "https://fonts.gstatic.com/s/cinzel/v9/8vIJ7ww63mVu7gt79mT9.woff",
-      "woff2": "https://fonts.gstatic.com/s/cinzel/v9/8vIJ7ww63mVu7gt79mT7.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=8vIJ7ww63mVu7gt79mT8&skey=f319ae43d1034808&v=v9#Cinzel",
+      "woff2": "https://fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-tbnfY3lDQ.woff2",
+      "ttf": "https://fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-tbnfY3lCA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=8vIU7ww63mVu7gtR-kwKxNvkNOjw-tbnfY3lCg&skey=f319ae43d1034808&v=v10#Cinzel",
+      "woff": "https://fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-tbnfY3lCw.woff",
+      "errored": false
+    },
+    {
+      "id": "600",
+      "eot": "https://fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-gjgfY3lCQ.eot",
+      "fontFamily": "'Cinzel'",
+      "fontStyle": "normal",
+      "fontWeight": "600",
+      "woff": "https://fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-gjgfY3lCw.woff",
+      "woff2": "https://fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-gjgfY3lDQ.woff2",
+      "ttf": "https://fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-gjgfY3lCA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=8vIU7ww63mVu7gtR-kwKxNvkNOjw-gjgfY3lCg&skey=f319ae43d1034808&v=v10#Cinzel",
+      "errored": false
+    },
+    {
+      "id": "500",
+      "eot": "https://fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-uTnfY3lCQ.eot",
+      "fontFamily": "'Cinzel'",
+      "fontStyle": "normal",
+      "fontWeight": "500",
+      "woff2": "https://fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-uTnfY3lDQ.woff2",
+      "ttf": "https://fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-uTnfY3lCA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=8vIU7ww63mVu7gtR-kwKxNvkNOjw-uTnfY3lCg&skey=f319ae43d1034808&v=v10#Cinzel",
+      "woff": "https://fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-uTnfY3lCw.woff",
       "errored": false
     },
     {
       "id": "700",
-      "woff": "https://fonts.gstatic.com/s/cinzel/v9/8vIK7ww63mVu7gtzTUHuE2Zc.woff",
+      "woff2": "https://fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-jHgfY3lDQ.woff2",
       "fontFamily": "'Cinzel'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "local": [
-        "Cinzel Bold",
-        "Cinzel-Bold"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=8vIK7ww63mVu7gtzTUHuE2Zd&skey=d0bd7ac4911fce5f&v=v9#Cinzel",
-      "eot": "https://fonts.gstatic.com/s/cinzel/v9/8vIK7ww63mVu7gtzTUHuE2Ze.eot",
-      "ttf": "https://fonts.gstatic.com/s/cinzel/v9/8vIK7ww63mVu7gtzTUHuE2Zf.ttf",
-      "woff2": "https://fonts.gstatic.com/s/cinzel/v9/8vIK7ww63mVu7gtzTUHuE2Za.woff2",
+      "woff": "https://fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-jHgfY3lCw.woff",
+      "eot": "https://fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-jHgfY3lCQ.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=8vIU7ww63mVu7gtR-kwKxNvkNOjw-jHgfY3lCg&skey=f319ae43d1034808&v=v10#Cinzel",
+      "ttf": "https://fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-jHgfY3lCA.ttf",
+      "errored": false
+    },
+    {
+      "id": "800",
+      "woff": "https://fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-lbgfY3lCw.woff",
+      "fontFamily": "'Cinzel'",
+      "fontStyle": "normal",
+      "fontWeight": "800",
+      "eot": "https://fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-lbgfY3lCQ.eot",
+      "ttf": "https://fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-lbgfY3lCA.ttf",
+      "woff2": "https://fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-lbgfY3lDQ.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=8vIU7ww63mVu7gtR-kwKxNvkNOjw-lbgfY3lCg&skey=f319ae43d1034808&v=v10#Cinzel",
       "errored": false
     },
     {
       "id": "900",
-      "eot": "https://fonts.gstatic.com/s/cinzel/v9/8vIK7ww63mVu7gtzdUPuE2Ze.eot",
+      "woff2": "https://fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-n_gfY3lDQ.woff2",
       "fontFamily": "'Cinzel'",
       "fontStyle": "normal",
       "fontWeight": "900",
-      "woff2": "https://fonts.gstatic.com/s/cinzel/v9/8vIK7ww63mVu7gtzdUPuE2Za.woff2",
-      "local": [
-        "Cinzel Black",
-        "Cinzel-Black"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=8vIK7ww63mVu7gtzdUPuE2Zd&skey=be449759839bebc9&v=v9#Cinzel",
-      "woff": "https://fonts.gstatic.com/s/cinzel/v9/8vIK7ww63mVu7gtzdUPuE2Zc.woff",
-      "ttf": "https://fonts.gstatic.com/s/cinzel/v9/8vIK7ww63mVu7gtzdUPuE2Zf.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=8vIU7ww63mVu7gtR-kwKxNvkNOjw-n_gfY3lCg&skey=f319ae43d1034808&v=v10#Cinzel",
+      "ttf": "https://fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-n_gfY3lCA.ttf",
+      "woff": "https://fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-n_gfY3lCw.woff",
+      "eot": "https://fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-n_gfY3lCQ.eot",
       "errored": false
     }
   ],
@@ -56,9 +80,9 @@
     "latin-ext"
   ],
   "category": "serif",
-  "version": "v9",
-  "lastModified": "2019-07-17",
-  "popularity": 98,
+  "version": "v10",
+  "lastModified": "2020-08-20",
+  "popularity": 124,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

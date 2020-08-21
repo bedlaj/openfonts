@@ -4,11 +4,29 @@
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src:
-    local('Cinzel Regular'),
-    local('Cinzel-Regular'), 
+  src: 
     url('./files/cinzel-latin-400.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/cinzel-latin-400.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* cinzel-500normal - latin */
+@font-face {
+  font-family: 'Cinzel';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: 
+    url('./files/cinzel-latin-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/cinzel-latin-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* cinzel-600normal - latin */
+@font-face {
+  font-family: 'Cinzel';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: 
+    url('./files/cinzel-latin-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/cinzel-latin-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* cinzel-700normal - latin */
 @font-face {
@@ -16,11 +34,19 @@
   font-style: normal;
   font-display: swap;
   font-weight: 700;
-  src:
-    local('Cinzel Bold'),
-    local('Cinzel-Bold'), 
+  src: 
     url('./files/cinzel-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/cinzel-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* cinzel-800normal - latin */
+@font-face {
+  font-family: 'Cinzel';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src: 
+    url('./files/cinzel-latin-800.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./files/cinzel-latin-800.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* cinzel-900normal - latin */
 @font-face {
@@ -28,9 +54,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 900;
-  src:
-    local('Cinzel Black'),
-    local('Cinzel-Black'), 
+  src: 
     url('./files/cinzel-latin-900.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
     url('./files/cinzel-latin-900.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
