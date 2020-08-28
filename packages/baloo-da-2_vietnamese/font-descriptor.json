@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/balooda2/v1/2-ci9J9j0IaUMQZwAJyJQubdpg.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=2-ci9J9j0IaUMQZwAJyJQubdpw&skey=d5c9a7acb4640d0c&v=v1#BalooDa2",
       "fontFamily": "'Baloo Da 2'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,26 +12,10 @@
         "Baloo Da 2 Regular",
         "BalooDa2-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/balooda2/v1/2-ci9J9j0IaUMQZwAJyJQubdoA.woff2",
       "ttf": "https://fonts.gstatic.com/s/balooda2/v1/2-ci9J9j0IaUMQZwAJyJQubdpQ.ttf",
+      "woff": "https://fonts.gstatic.com/s/balooda2/v1/2-ci9J9j0IaUMQZwAJyJQubdpg.woff",
+      "woff2": "https://fonts.gstatic.com/s/balooda2/v1/2-ci9J9j0IaUMQZwAJyJQubdoA.woff2",
       "eot": "https://fonts.gstatic.com/s/balooda2/v1/2-ci9J9j0IaUMQZwAJyJQubdpA.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=2-ci9J9j0IaUMQZwAJyJQubdpw&skey=d5c9a7acb4640d0c&v=v1#BalooDa2",
-      "errored": false
-    },
-    {
-      "id": "500",
-      "eot": "https://fonts.gstatic.com/s/balooda2/v1/2-ch9J9j0IaUMQZwAJyJShr-tZFiZg.eot",
-      "fontFamily": "'Baloo Da 2'",
-      "fontStyle": "normal",
-      "fontWeight": "500",
-      "woff": "https://fonts.gstatic.com/s/balooda2/v1/2-ch9J9j0IaUMQZwAJyJShr-tZFiZA.woff",
-      "local": [
-        "Baloo Da 2 Medium",
-        "BalooDa2-Medium"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=2-ch9J9j0IaUMQZwAJyJShr-tZFiZQ&skey=fb32018f25245b09&v=v1#BalooDa2",
-      "woff2": "https://fonts.gstatic.com/s/balooda2/v1/2-ch9J9j0IaUMQZwAJyJShr-tZFiYg.woff2",
-      "ttf": "https://fonts.gstatic.com/s/balooda2/v1/2-ch9J9j0IaUMQZwAJyJShr-tZFiZw.ttf",
       "errored": false
     },
     {
@@ -45,25 +29,41 @@
         "Baloo Da 2 SemiBold",
         "BalooDa2-SemiBold"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=2-ch9J9j0IaUMQZwAJyJSjb5tZFiZQ&skey=40b1b439f1bc87f7&v=v1#BalooDa2",
       "woff2": "https://fonts.gstatic.com/s/balooda2/v1/2-ch9J9j0IaUMQZwAJyJSjb5tZFiYg.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=2-ch9J9j0IaUMQZwAJyJSjb5tZFiZQ&skey=40b1b439f1bc87f7&v=v1#BalooDa2",
       "ttf": "https://fonts.gstatic.com/s/balooda2/v1/2-ch9J9j0IaUMQZwAJyJSjb5tZFiZw.ttf",
       "errored": false
     },
     {
+      "id": "500",
+      "woff": "https://fonts.gstatic.com/s/balooda2/v1/2-ch9J9j0IaUMQZwAJyJShr-tZFiZA.woff",
+      "fontFamily": "'Baloo Da 2'",
+      "fontStyle": "normal",
+      "fontWeight": "500",
+      "local": [
+        "Baloo Da 2 Medium",
+        "BalooDa2-Medium"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/balooda2/v1/2-ch9J9j0IaUMQZwAJyJShr-tZFiYg.woff2",
+      "ttf": "https://fonts.gstatic.com/s/balooda2/v1/2-ch9J9j0IaUMQZwAJyJShr-tZFiZw.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=2-ch9J9j0IaUMQZwAJyJShr-tZFiZQ&skey=fb32018f25245b09&v=v1#BalooDa2",
+      "eot": "https://fonts.gstatic.com/s/balooda2/v1/2-ch9J9j0IaUMQZwAJyJShr-tZFiZg.eot",
+      "errored": false
+    },
+    {
       "id": "700",
-      "woff": "https://fonts.gstatic.com/s/balooda2/v1/2-ch9J9j0IaUMQZwAJyJSlL4tZFiZA.woff",
+      "eot": "https://fonts.gstatic.com/s/balooda2/v1/2-ch9J9j0IaUMQZwAJyJSlL4tZFiZg.eot",
       "fontFamily": "'Baloo Da 2'",
       "fontStyle": "normal",
       "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/balooda2/v1/2-ch9J9j0IaUMQZwAJyJSlL4tZFiZA.woff",
       "local": [
         "Baloo Da 2 Bold",
         "BalooDa2-Bold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/balooda2/v1/2-ch9J9j0IaUMQZwAJyJSlL4tZFiYg.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=2-ch9J9j0IaUMQZwAJyJSlL4tZFiZQ&skey=31c42252e038b1b3&v=v1#BalooDa2",
-      "eot": "https://fonts.gstatic.com/s/balooda2/v1/2-ch9J9j0IaUMQZwAJyJSlL4tZFiZg.eot",
       "ttf": "https://fonts.gstatic.com/s/balooda2/v1/2-ch9J9j0IaUMQZwAJyJSlL4tZFiZw.ttf",
+      "woff2": "https://fonts.gstatic.com/s/balooda2/v1/2-ch9J9j0IaUMQZwAJyJSlL4tZFiYg.woff2",
       "errored": false
     },
     {
@@ -91,8 +91,8 @@
   ],
   "category": "display",
   "version": "v1",
-  "lastModified": "2020-03-05",
-  "popularity": 949,
+  "lastModified": "2020-03-06",
+  "popularity": 649,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

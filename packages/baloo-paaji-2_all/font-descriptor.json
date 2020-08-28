@@ -4,18 +4,34 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/baloopaaji2/v1/i7dMIFFzbz-QHZUdV9_UGWZuYFM.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=i7dMIFFzbz-QHZUdV9_UGWZuYFA&skey=cd5942d112af61b5&v=v1#BalooPaaji2",
       "fontFamily": "'Baloo Paaji 2'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "svg": "https://fonts.gstatic.com/l/font?kit=i7dMIFFzbz-QHZUdV9_UGWZuYFA&skey=cd5942d112af61b5&v=v1#BalooPaaji2",
       "local": [
         "Baloo Paaji 2 Regular",
         "BalooPaaji2-Regular"
       ],
+      "woff2": "https://fonts.gstatic.com/s/baloopaaji2/v1/i7dMIFFzbz-QHZUdV9_UGWZuYFc.woff2",
+      "eot": "https://fonts.gstatic.com/s/baloopaaji2/v1/i7dMIFFzbz-QHZUdV9_UGWZuYFM.eot",
       "ttf": "https://fonts.gstatic.com/s/baloopaaji2/v1/i7dMIFFzbz-QHZUdV9_UGWZuYFI.ttf",
       "woff": "https://fonts.gstatic.com/s/baloopaaji2/v1/i7dMIFFzbz-QHZUdV9_UGWZuYFE.woff",
-      "woff2": "https://fonts.gstatic.com/s/baloopaaji2/v1/i7dMIFFzbz-QHZUdV9_UGWZuYFc.woff2",
+      "errored": false
+    },
+    {
+      "id": "600",
+      "woff": "https://fonts.gstatic.com/s/baloopaaji2/v1/i7dRIFFzbz-QHZUdV9_UGWZuWIq-Owc.woff",
+      "fontFamily": "'Baloo Paaji 2'",
+      "fontStyle": "normal",
+      "fontWeight": "600",
+      "local": [
+        "Baloo Paaji 2 SemiBold",
+        "BalooPaaji2-SemiBold"
+      ],
+      "eot": "https://fonts.gstatic.com/s/baloopaaji2/v1/i7dRIFFzbz-QHZUdV9_UGWZuWIq-OwU.eot",
+      "woff2": "https://fonts.gstatic.com/s/baloopaaji2/v1/i7dRIFFzbz-QHZUdV9_UGWZuWIq-OwE.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=i7dRIFFzbz-QHZUdV9_UGWZuWIq-OwY&skey=c449d4fbf89f397f&v=v1#BalooPaaji2",
+      "ttf": "https://fonts.gstatic.com/s/baloopaaji2/v1/i7dRIFFzbz-QHZUdV9_UGWZuWIq-OwQ.ttf",
       "errored": false
     },
     {
@@ -24,30 +40,14 @@
       "fontFamily": "'Baloo Paaji 2'",
       "fontStyle": "normal",
       "fontWeight": "500",
-      "svg": "https://fonts.gstatic.com/l/font?kit=i7dRIFFzbz-QHZUdV9_UGWZuWKa5OwY&skey=257b37e038a9a23c&v=v1#BalooPaaji2",
+      "woff": "https://fonts.gstatic.com/s/baloopaaji2/v1/i7dRIFFzbz-QHZUdV9_UGWZuWKa5Owc.woff",
       "local": [
         "Baloo Paaji 2 Medium",
         "BalooPaaji2-Medium"
       ],
-      "woff": "https://fonts.gstatic.com/s/baloopaaji2/v1/i7dRIFFzbz-QHZUdV9_UGWZuWKa5Owc.woff",
-      "woff2": "https://fonts.gstatic.com/s/baloopaaji2/v1/i7dRIFFzbz-QHZUdV9_UGWZuWKa5OwE.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=i7dRIFFzbz-QHZUdV9_UGWZuWKa5OwY&skey=257b37e038a9a23c&v=v1#BalooPaaji2",
       "ttf": "https://fonts.gstatic.com/s/baloopaaji2/v1/i7dRIFFzbz-QHZUdV9_UGWZuWKa5OwQ.ttf",
-      "errored": false
-    },
-    {
-      "id": "600",
-      "eot": "https://fonts.gstatic.com/s/baloopaaji2/v1/i7dRIFFzbz-QHZUdV9_UGWZuWIq-OwU.eot",
-      "fontFamily": "'Baloo Paaji 2'",
-      "fontStyle": "normal",
-      "fontWeight": "600",
-      "woff": "https://fonts.gstatic.com/s/baloopaaji2/v1/i7dRIFFzbz-QHZUdV9_UGWZuWIq-Owc.woff",
-      "local": [
-        "Baloo Paaji 2 SemiBold",
-        "BalooPaaji2-SemiBold"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/baloopaaji2/v1/i7dRIFFzbz-QHZUdV9_UGWZuWIq-OwE.woff2",
-      "ttf": "https://fonts.gstatic.com/s/baloopaaji2/v1/i7dRIFFzbz-QHZUdV9_UGWZuWIq-OwQ.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=i7dRIFFzbz-QHZUdV9_UGWZuWIq-OwY&skey=c449d4fbf89f397f&v=v1#BalooPaaji2",
+      "woff2": "https://fonts.gstatic.com/s/baloopaaji2/v1/i7dRIFFzbz-QHZUdV9_UGWZuWKa5OwE.woff2",
       "errored": false
     },
     {
@@ -56,14 +56,14 @@
       "fontFamily": "'Baloo Paaji 2'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff2": "https://fonts.gstatic.com/s/baloopaaji2/v1/i7dRIFFzbz-QHZUdV9_UGWZuWO6_OwE.woff2",
+      "woff": "https://fonts.gstatic.com/s/baloopaaji2/v1/i7dRIFFzbz-QHZUdV9_UGWZuWO6_Owc.woff",
       "local": [
         "Baloo Paaji 2 Bold",
         "BalooPaaji2-Bold"
       ],
-      "woff": "https://fonts.gstatic.com/s/baloopaaji2/v1/i7dRIFFzbz-QHZUdV9_UGWZuWO6_Owc.woff",
-      "ttf": "https://fonts.gstatic.com/s/baloopaaji2/v1/i7dRIFFzbz-QHZUdV9_UGWZuWO6_OwQ.ttf",
+      "woff2": "https://fonts.gstatic.com/s/baloopaaji2/v1/i7dRIFFzbz-QHZUdV9_UGWZuWO6_OwE.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=i7dRIFFzbz-QHZUdV9_UGWZuWO6_OwY&skey=3acea44de5af2130&v=v1#BalooPaaji2",
+      "ttf": "https://fonts.gstatic.com/s/baloopaaji2/v1/i7dRIFFzbz-QHZUdV9_UGWZuWO6_OwQ.ttf",
       "errored": false
     },
     {
@@ -77,9 +77,9 @@
         "Baloo Paaji 2 ExtraBold",
         "BalooPaaji2-ExtraBold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/baloopaaji2/v1/i7dRIFFzbz-QHZUdV9_UGWZuWPK8OwE.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=i7dRIFFzbz-QHZUdV9_UGWZuWPK8OwY&skey=a7ec77c21706a1cc&v=v1#BalooPaaji2",
       "ttf": "https://fonts.gstatic.com/s/baloopaaji2/v1/i7dRIFFzbz-QHZUdV9_UGWZuWPK8OwQ.ttf",
+      "woff2": "https://fonts.gstatic.com/s/baloopaaji2/v1/i7dRIFFzbz-QHZUdV9_UGWZuWPK8OwE.woff2",
       "errored": false
     }
   ],
@@ -91,8 +91,8 @@
   ],
   "category": "display",
   "version": "v1",
-  "lastModified": "2020-03-05",
-  "popularity": 844,
+  "lastModified": "2020-03-06",
+  "popularity": 825,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
