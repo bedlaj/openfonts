@@ -4,26 +4,14 @@
   "variants": [
     {
       "id": "100",
-      "eot": "https://fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbeOLbOWQ.eot",
+      "woff": "https://fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbeOLbOWw.woff",
       "fontFamily": "'Bitter'",
       "fontStyle": "normal",
       "fontWeight": "100",
-      "woff2": "https://fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbeOLbOXQ.woff2",
-      "woff": "https://fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbeOLbOWw.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbeOLbOWg&skey=c92268a3e57ee309&v=v16#Bitter",
       "ttf": "https://fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbeOLbOWA.ttf",
-      "errored": false
-    },
-    {
-      "id": "200",
-      "eot": "https://fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8XbfOLbOWQ.eot",
-      "fontFamily": "'Bitter'",
-      "fontStyle": "normal",
-      "fontWeight": "200",
-      "woff": "https://fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8XbfOLbOWw.woff",
-      "woff2": "https://fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8XbfOLbOXQ.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=raxhHiqOu8IVPmnRc6SY1KXhnF_Y8XbfOLbOWg&skey=c92268a3e57ee309&v=v16#Bitter",
-      "ttf": "https://fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8XbfOLbOWA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbeOLbOWg&skey=c92268a3e57ee309&v=v16#Bitter",
+      "woff2": "https://fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbeOLbOXQ.woff2",
+      "eot": "https://fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbeOLbOWQ.eot",
       "errored": false
     },
     {
@@ -39,6 +27,18 @@
       "errored": false
     },
     {
+      "id": "200",
+      "eot": "https://fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8XbfOLbOWQ.eot",
+      "fontFamily": "'Bitter'",
+      "fontStyle": "normal",
+      "fontWeight": "200",
+      "woff2": "https://fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8XbfOLbOXQ.woff2",
+      "woff": "https://fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8XbfOLbOWw.woff",
+      "ttf": "https://fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8XbfOLbOWA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=raxhHiqOu8IVPmnRc6SY1KXhnF_Y8XbfOLbOWg&skey=c92268a3e57ee309&v=v16#Bitter",
+      "errored": false
+    },
+    {
       "id": "regular",
       "eot": "https://fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbfOLbOWQ.eot",
       "fontFamily": "'Bitter'",
@@ -46,8 +46,8 @@
       "fontWeight": "400",
       "woff": "https://fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbfOLbOWw.woff",
       "woff2": "https://fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbfOLbOXQ.woff2",
-      "ttf": "https://fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbfOLbOWA.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbfOLbOWg&skey=c92268a3e57ee309&v=v16#Bitter",
+      "ttf": "https://fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbfOLbOWA.ttf",
       "errored": false
     },
     {
@@ -58,20 +58,8 @@
       "fontWeight": "500",
       "woff": "https://fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8cTfOLbOWw.woff",
       "woff2": "https://fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8cTfOLbOXQ.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=raxhHiqOu8IVPmnRc6SY1KXhnF_Y8cTfOLbOWg&skey=c92268a3e57ee309&v=v16#Bitter",
       "ttf": "https://fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8cTfOLbOWA.ttf",
-      "errored": false
-    },
-    {
-      "id": "600",
-      "eot": "https://fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8SjYOLbOWQ.eot",
-      "fontFamily": "'Bitter'",
-      "fontStyle": "normal",
-      "fontWeight": "600",
-      "woff": "https://fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8SjYOLbOWw.woff",
-      "woff2": "https://fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8SjYOLbOXQ.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=raxhHiqOu8IVPmnRc6SY1KXhnF_Y8SjYOLbOWg&skey=c92268a3e57ee309&v=v16#Bitter",
-      "ttf": "https://fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8SjYOLbOWA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=raxhHiqOu8IVPmnRc6SY1KXhnF_Y8cTfOLbOWg&skey=c92268a3e57ee309&v=v16#Bitter",
       "errored": false
     },
     {
@@ -99,14 +87,26 @@
       "errored": false
     },
     {
+      "id": "600",
+      "woff": "https://fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8SjYOLbOWw.woff",
+      "fontFamily": "'Bitter'",
+      "fontStyle": "normal",
+      "fontWeight": "600",
+      "eot": "https://fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8SjYOLbOWQ.eot",
+      "woff2": "https://fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8SjYOLbOXQ.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=raxhHiqOu8IVPmnRc6SY1KXhnF_Y8SjYOLbOWg&skey=c92268a3e57ee309&v=v16#Bitter",
+      "ttf": "https://fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8SjYOLbOWA.ttf",
+      "errored": false
+    },
+    {
       "id": "900",
       "eot": "https://fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8V_YOLbOWQ.eot",
       "fontFamily": "'Bitter'",
       "fontStyle": "normal",
       "fontWeight": "900",
       "woff": "https://fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8V_YOLbOWw.woff",
-      "woff2": "https://fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8V_YOLbOXQ.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=raxhHiqOu8IVPmnRc6SY1KXhnF_Y8V_YOLbOWg&skey=c92268a3e57ee309&v=v16#Bitter",
+      "woff2": "https://fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8V_YOLbOXQ.woff2",
       "ttf": "https://fonts.gstatic.com/s/bitter/v16/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8V_YOLbOWA.ttf",
       "errored": false
     },
@@ -117,21 +117,9 @@
       "fontStyle": "italic",
       "fontWeight": "100",
       "woff": "https://fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6c4P3-UXB0.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=raxjHiqOu8IVPmn7epZnDMyKBvHf5D6c4P3-UXB1&skey=7ce735f7301da1b7&v=v16#Bitter",
       "woff2": "https://fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6c4P3-UXBy.woff2",
       "ttf": "https://fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6c4P3-UXB3.ttf",
-      "errored": false
-    },
-    {
-      "id": "200italic",
-      "woff": "https://fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cYPz-UXB0.woff",
-      "fontFamily": "'Bitter'",
-      "fontStyle": "italic",
-      "fontWeight": "200",
-      "eot": "https://fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cYPz-UXB2.eot",
-      "woff2": "https://fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cYPz-UXBy.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cYPz-UXB1&skey=7ce735f7301da1b7&v=v16#Bitter",
-      "ttf": "https://fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cYPz-UXB3.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=raxjHiqOu8IVPmn7epZnDMyKBvHf5D6c4P3-UXB1&skey=7ce735f7301da1b7&v=v16#Bitter",
       "errored": false
     },
     {
@@ -142,8 +130,32 @@
       "fontWeight": "300",
       "woff": "https://fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cvvz-UXB0.woff",
       "woff2": "https://fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cvvz-UXBy.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cvvz-UXB1&skey=7ce735f7301da1b7&v=v16#Bitter",
       "ttf": "https://fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cvvz-UXB3.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cvvz-UXB1&skey=7ce735f7301da1b7&v=v16#Bitter",
+      "errored": false
+    },
+    {
+      "id": "200italic",
+      "eot": "https://fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cYPz-UXB2.eot",
+      "fontFamily": "'Bitter'",
+      "fontStyle": "italic",
+      "fontWeight": "200",
+      "svg": "https://fonts.gstatic.com/l/font?kit=raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cYPz-UXB1&skey=7ce735f7301da1b7&v=v16#Bitter",
+      "woff2": "https://fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cYPz-UXBy.woff2",
+      "ttf": "https://fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cYPz-UXB3.ttf",
+      "woff": "https://fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cYPz-UXB0.woff",
+      "errored": false
+    },
+    {
+      "id": "500italic",
+      "eot": "https://fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6c0vz-UXB2.eot",
+      "fontFamily": "'Bitter'",
+      "fontStyle": "italic",
+      "fontWeight": "500",
+      "woff": "https://fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6c0vz-UXB0.woff",
+      "woff2": "https://fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6c0vz-UXBy.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=raxjHiqOu8IVPmn7epZnDMyKBvHf5D6c0vz-UXB1&skey=7ce735f7301da1b7&v=v16#Bitter",
+      "ttf": "https://fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6c0vz-UXB3.ttf",
       "errored": false
     },
     {
@@ -159,39 +171,27 @@
       "errored": false
     },
     {
-      "id": "500italic",
-      "woff": "https://fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6c0vz-UXB0.woff",
+      "id": "700italic",
+      "eot": "https://fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cB_v-UXB2.eot",
       "fontFamily": "'Bitter'",
       "fontStyle": "italic",
-      "fontWeight": "500",
-      "eot": "https://fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6c0vz-UXB2.eot",
-      "woff2": "https://fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6c0vz-UXBy.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=raxjHiqOu8IVPmn7epZnDMyKBvHf5D6c0vz-UXB1&skey=7ce735f7301da1b7&v=v16#Bitter",
-      "ttf": "https://fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6c0vz-UXB3.ttf",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cB_v-UXB0.woff",
+      "woff2": "https://fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cB_v-UXBy.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cB_v-UXB1&skey=7ce735f7301da1b7&v=v16#Bitter",
+      "ttf": "https://fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cB_v-UXB3.ttf",
       "errored": false
     },
     {
       "id": "600italic",
-      "woff": "https://fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cPvv-UXB0.woff",
+      "eot": "https://fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cPvv-UXB2.eot",
       "fontFamily": "'Bitter'",
       "fontStyle": "italic",
       "fontWeight": "600",
-      "eot": "https://fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cPvv-UXB2.eot",
+      "woff": "https://fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cPvv-UXB0.woff",
       "woff2": "https://fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cPvv-UXBy.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cPvv-UXB1&skey=7ce735f7301da1b7&v=v16#Bitter",
       "ttf": "https://fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cPvv-UXB3.ttf",
-      "errored": false
-    },
-    {
-      "id": "700italic",
-      "woff": "https://fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cB_v-UXB0.woff",
-      "fontFamily": "'Bitter'",
-      "fontStyle": "italic",
-      "fontWeight": "700",
-      "eot": "https://fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cB_v-UXB2.eot",
-      "woff2": "https://fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cB_v-UXBy.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cB_v-UXB1&skey=7ce735f7301da1b7&v=v16#Bitter",
-      "ttf": "https://fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cB_v-UXB3.ttf",
       "errored": false
     },
     {
@@ -200,22 +200,22 @@
       "fontFamily": "'Bitter'",
       "fontStyle": "italic",
       "fontWeight": "800",
-      "woff2": "https://fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cYPv-UXBy.woff2",
       "woff": "https://fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cYPv-UXB0.woff",
+      "woff2": "https://fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cYPv-UXBy.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cYPv-UXB1&skey=7ce735f7301da1b7&v=v16#Bitter",
       "ttf": "https://fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cYPv-UXB3.ttf",
       "errored": false
     },
     {
       "id": "900italic",
-      "woff2": "https://fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cSfv-UXBy.woff2",
+      "woff": "https://fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cSfv-UXB0.woff",
       "fontFamily": "'Bitter'",
       "fontStyle": "italic",
       "fontWeight": "900",
       "eot": "https://fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cSfv-UXB2.eot",
-      "woff": "https://fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cSfv-UXB0.woff",
-      "ttf": "https://fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cSfv-UXB3.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cSfv-UXB1&skey=7ce735f7301da1b7&v=v16#Bitter",
+      "ttf": "https://fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cSfv-UXB3.ttf",
+      "woff2": "https://fonts.gstatic.com/s/bitter/v16/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cSfv-UXBy.woff2",
       "errored": false
     }
   ],
@@ -228,8 +228,8 @@
   ],
   "category": "serif",
   "version": "v16",
-  "lastModified": "2020-07-29",
-  "popularity": 50,
+  "lastModified": "2020-07-28",
+  "popularity": 49,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

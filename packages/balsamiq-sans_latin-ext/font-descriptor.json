@@ -4,17 +4,17 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/balsamiqsans/v1/P5sEzZiAbNrN8SB3lQQX7PncwdAXJQ.ttf",
+      "eot": "https://fonts.gstatic.com/s/balsamiqsans/v1/P5sEzZiAbNrN8SB3lQQX7PncwdAXJA.eot",
       "fontFamily": "'Balsamiq Sans'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "ttf": "https://fonts.gstatic.com/s/balsamiqsans/v1/P5sEzZiAbNrN8SB3lQQX7PncwdAXJQ.ttf",
       "local": [
         "Balsamiq Sans Regular",
         "BalsamiqSans-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/balsamiqsans/v1/P5sEzZiAbNrN8SB3lQQX7PncwdAXJA.eot",
-      "woff": "https://fonts.gstatic.com/s/balsamiqsans/v1/P5sEzZiAbNrN8SB3lQQX7PncwdAXJg.woff",
       "svg": "https://fonts.gstatic.com/l/font?kit=P5sEzZiAbNrN8SB3lQQX7PncwdAXJw&skey=aba016cf33110df9&v=v1#BalsamiqSans",
+      "woff": "https://fonts.gstatic.com/s/balsamiqsans/v1/P5sEzZiAbNrN8SB3lQQX7PncwdAXJg.woff",
       "woff2": "https://fonts.gstatic.com/s/balsamiqsans/v1/P5sEzZiAbNrN8SB3lQQX7PncwdAXIA.woff2",
       "errored": false
     },
@@ -24,13 +24,13 @@
       "fontFamily": "'Balsamiq Sans'",
       "fontStyle": "italic",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/balsamiqsans/v1/P5sazZiAbNrN8SB3lQQX7PncwdsnLK9P.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=P5sazZiAbNrN8SB3lQQX7PncwdsnLK9O&skey=723ae8380a1af90c&v=v1#BalsamiqSans",
       "local": [
         "Balsamiq Sans Italic",
         "BalsamiqSans-Italic"
       ],
+      "woff": "https://fonts.gstatic.com/s/balsamiqsans/v1/P5sazZiAbNrN8SB3lQQX7PncwdsnLK9P.woff",
       "woff2": "https://fonts.gstatic.com/s/balsamiqsans/v1/P5sazZiAbNrN8SB3lQQX7PncwdsnLK9J.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=P5sazZiAbNrN8SB3lQQX7PncwdsnLK9O&skey=723ae8380a1af90c&v=v1#BalsamiqSans",
       "ttf": "https://fonts.gstatic.com/s/balsamiqsans/v1/P5sazZiAbNrN8SB3lQQX7PncwdsnLK9M.ttf",
       "errored": false
     },
@@ -40,12 +40,12 @@
       "fontFamily": "'Balsamiq Sans'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff2": "https://fonts.gstatic.com/s/balsamiqsans/v1/P5sZzZiAbNrN8SB3lQQX7PncyWUyNYZsAg.woff2",
+      "woff": "https://fonts.gstatic.com/s/balsamiqsans/v1/P5sZzZiAbNrN8SB3lQQX7PncyWUyNYZsBA.woff",
       "local": [
         "Balsamiq Sans Bold",
         "BalsamiqSans-Bold"
       ],
-      "woff": "https://fonts.gstatic.com/s/balsamiqsans/v1/P5sZzZiAbNrN8SB3lQQX7PncyWUyNYZsBA.woff",
+      "woff2": "https://fonts.gstatic.com/s/balsamiqsans/v1/P5sZzZiAbNrN8SB3lQQX7PncyWUyNYZsAg.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=P5sZzZiAbNrN8SB3lQQX7PncyWUyNYZsBQ&skey=ae14fc485ccc4fa&v=v1#BalsamiqSans",
       "ttf": "https://fonts.gstatic.com/s/balsamiqsans/v1/P5sZzZiAbNrN8SB3lQQX7PncyWUyNYZsBw.ttf",
       "errored": false
@@ -60,10 +60,10 @@
         "Balsamiq Sans Bold Italic",
         "BalsamiqSans-BoldItalic"
       ],
-      "eot": "https://fonts.gstatic.com/s/balsamiqsans/v1/P5sfzZiAbNrN8SB3lQQX7PncwdsvmYpcDhrF.eot",
       "woff2": "https://fonts.gstatic.com/s/balsamiqsans/v1/P5sfzZiAbNrN8SB3lQQX7PncwdsvmYpcDhrB.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=P5sfzZiAbNrN8SB3lQQX7PncwdsvmYpcDhrG&skey=4ccce8aff5b32d19&v=v1#BalsamiqSans",
       "ttf": "https://fonts.gstatic.com/s/balsamiqsans/v1/P5sfzZiAbNrN8SB3lQQX7PncwdsvmYpcDhrE.ttf",
+      "eot": "https://fonts.gstatic.com/s/balsamiqsans/v1/P5sfzZiAbNrN8SB3lQQX7PncwdsvmYpcDhrF.eot",
       "errored": false
     }
   ],
@@ -75,8 +75,8 @@
   ],
   "category": "display",
   "version": "v1",
-  "lastModified": "2020-05-06",
-  "popularity": 74,
+  "lastModified": "2020-05-05",
+  "popularity": 143,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
