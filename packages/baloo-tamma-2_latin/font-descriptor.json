@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=vEFX2_hCAgcR46PaajtrYlBbf0880A&skey=9f9420dc7eb5e26c&v=v1#BalooTamma2",
+      "woff2": "https://fonts.gstatic.com/s/balootamma2/v1/vEFX2_hCAgcR46PaajtrYlBbf0881w.woff2",
       "fontFamily": "'Baloo Tamma 2'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,9 +12,9 @@
         "Baloo Tamma 2 Regular",
         "BalooTamma2-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/balootamma2/v1/vEFX2_hCAgcR46PaajtrYlBbf0880g.ttf",
-      "woff2": "https://fonts.gstatic.com/s/balootamma2/v1/vEFX2_hCAgcR46PaajtrYlBbf0881w.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=vEFX2_hCAgcR46PaajtrYlBbf0880A&skey=9f9420dc7eb5e26c&v=v1#BalooTamma2",
       "eot": "https://fonts.gstatic.com/s/balootamma2/v1/vEFX2_hCAgcR46PaajtrYlBbf0880w.eot",
+      "ttf": "https://fonts.gstatic.com/s/balootamma2/v1/vEFX2_hCAgcR46PaajtrYlBbf0880g.ttf",
       "woff": "https://fonts.gstatic.com/s/balootamma2/v1/vEFX2_hCAgcR46PaajtrYlBbf0880Q.woff",
       "errored": false
     },
@@ -24,14 +24,14 @@
       "fontFamily": "'Baloo Tamma 2'",
       "fontStyle": "normal",
       "fontWeight": "500",
-      "woff": "https://fonts.gstatic.com/s/balootamma2/v1/vEFK2_hCAgcR46PaajtrYlBbd7wfwtW_XA.woff",
+      "woff2": "https://fonts.gstatic.com/s/balootamma2/v1/vEFK2_hCAgcR46PaajtrYlBbd7wfwtW_Wg.woff2",
       "local": [
         "Baloo Tamma 2 Medium",
         "BalooTamma2-Medium"
       ],
-      "woff2": "https://fonts.gstatic.com/s/balootamma2/v1/vEFK2_hCAgcR46PaajtrYlBbd7wfwtW_Wg.woff2",
       "ttf": "https://fonts.gstatic.com/s/balootamma2/v1/vEFK2_hCAgcR46PaajtrYlBbd7wfwtW_Xw.ttf",
       "svg": "https://fonts.gstatic.com/l/font?kit=vEFK2_hCAgcR46PaajtrYlBbd7wfwtW_XQ&skey=ade194e3227782d5&v=v1#BalooTamma2",
+      "woff": "https://fonts.gstatic.com/s/balootamma2/v1/vEFK2_hCAgcR46PaajtrYlBbd7wfwtW_XA.woff",
       "errored": false
     },
     {
@@ -40,14 +40,30 @@
       "fontFamily": "'Baloo Tamma 2'",
       "fontStyle": "normal",
       "fontWeight": "600",
-      "woff2": "https://fonts.gstatic.com/s/balootamma2/v1/vEFK2_hCAgcR46PaajtrYlBbd5AYwtW_Wg.woff2",
+      "woff": "https://fonts.gstatic.com/s/balootamma2/v1/vEFK2_hCAgcR46PaajtrYlBbd5AYwtW_XA.woff",
       "local": [
         "Baloo Tamma 2 SemiBold",
         "BalooTamma2-SemiBold"
       ],
-      "woff": "https://fonts.gstatic.com/s/balootamma2/v1/vEFK2_hCAgcR46PaajtrYlBbd5AYwtW_XA.woff",
+      "woff2": "https://fonts.gstatic.com/s/balootamma2/v1/vEFK2_hCAgcR46PaajtrYlBbd5AYwtW_Wg.woff2",
       "svg": "https://fonts.gstatic.com/l/font?kit=vEFK2_hCAgcR46PaajtrYlBbd5AYwtW_XQ&skey=1ebef374da3f316b&v=v1#BalooTamma2",
       "ttf": "https://fonts.gstatic.com/s/balootamma2/v1/vEFK2_hCAgcR46PaajtrYlBbd5AYwtW_Xw.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/balootamma2/v1/vEFK2_hCAgcR46PaajtrYlBbd_QZwtW_Xg.eot",
+      "fontFamily": "'Baloo Tamma 2'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/balootamma2/v1/vEFK2_hCAgcR46PaajtrYlBbd_QZwtW_XA.woff",
+      "local": [
+        "Baloo Tamma 2 Bold",
+        "BalooTamma2-Bold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/balootamma2/v1/vEFK2_hCAgcR46PaajtrYlBbd_QZwtW_Wg.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=vEFK2_hCAgcR46PaajtrYlBbd_QZwtW_XQ&skey=b08d6d8b51372483&v=v1#BalooTamma2",
+      "ttf": "https://fonts.gstatic.com/s/balootamma2/v1/vEFK2_hCAgcR46PaajtrYlBbd_QZwtW_Xw.ttf",
       "errored": false
     },
     {
@@ -65,22 +81,6 @@
       "svg": "https://fonts.gstatic.com/l/font?kit=vEFK2_hCAgcR46PaajtrYlBbd-gawtW_XQ&skey=2c5d0b7f1fda98db&v=v1#BalooTamma2",
       "ttf": "https://fonts.gstatic.com/s/balootamma2/v1/vEFK2_hCAgcR46PaajtrYlBbd-gawtW_Xw.ttf",
       "errored": false
-    },
-    {
-      "id": "700",
-      "eot": "https://fonts.gstatic.com/s/balootamma2/v1/vEFK2_hCAgcR46PaajtrYlBbd_QZwtW_Xg.eot",
-      "fontFamily": "'Baloo Tamma 2'",
-      "fontStyle": "normal",
-      "fontWeight": "700",
-      "woff2": "https://fonts.gstatic.com/s/balootamma2/v1/vEFK2_hCAgcR46PaajtrYlBbd_QZwtW_Wg.woff2",
-      "local": [
-        "Baloo Tamma 2 Bold",
-        "BalooTamma2-Bold"
-      ],
-      "woff": "https://fonts.gstatic.com/s/balootamma2/v1/vEFK2_hCAgcR46PaajtrYlBbd_QZwtW_XA.woff",
-      "ttf": "https://fonts.gstatic.com/s/balootamma2/v1/vEFK2_hCAgcR46PaajtrYlBbd_QZwtW_Xw.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=vEFK2_hCAgcR46PaajtrYlBbd_QZwtW_XQ&skey=b08d6d8b51372483&v=v1#BalooTamma2",
-      "errored": false
     }
   ],
   "subsets": [
@@ -91,8 +91,8 @@
   ],
   "category": "display",
   "version": "v1",
-  "lastModified": "2020-03-05",
-  "popularity": 983,
+  "lastModified": "2020-03-06",
+  "popularity": 793,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
