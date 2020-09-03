@@ -4,34 +4,34 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/creteround/v8/55xoey1sJNPjPiv1ZZZrxK170bs.woff",
+      "eot": "https://fonts.gstatic.com/s/creteround/v9/55xoey1sJNPjPiv1ZZZrxK170bk.eot",
       "fontFamily": "'Crete Round'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "ttf": "https://fonts.gstatic.com/s/creteround/v9/55xoey1sJNPjPiv1ZZZrxK170bg.ttf",
       "local": [
         "Crete Round",
         "CreteRound-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=55xoey1sJNPjPiv1ZZZrxK170bo&skey=d604d2367fd68cff&v=v8#CreteRound",
-      "eot": "https://fonts.gstatic.com/s/creteround/v8/55xoey1sJNPjPiv1ZZZrxK170bk.eot",
-      "ttf": "https://fonts.gstatic.com/s/creteround/v8/55xoey1sJNPjPiv1ZZZrxK170bg.ttf",
-      "woff2": "https://fonts.gstatic.com/s/creteround/v8/55xoey1sJNPjPiv1ZZZrxK170b0.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=55xoey1sJNPjPiv1ZZZrxK170bo&skey=d604d2367fd68cff&v=v9#CreteRound",
+      "woff2": "https://fonts.gstatic.com/s/creteround/v9/55xoey1sJNPjPiv1ZZZrxK170b0.woff2",
+      "woff": "https://fonts.gstatic.com/s/creteround/v9/55xoey1sJNPjPiv1ZZZrxK170bs.woff",
       "errored": false
     },
     {
       "id": "italic",
-      "woff2": "https://fonts.gstatic.com/s/creteround/v8/55xqey1sJNPjPiv1ZZZrxK1-4b_oLg.woff2",
+      "eot": "https://fonts.gstatic.com/s/creteround/v9/55xqey1sJNPjPiv1ZZZrxK1-4b_oKg.eot",
       "fontFamily": "'Crete Round'",
       "fontStyle": "italic",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/creteround/v9/55xqey1sJNPjPiv1ZZZrxK1-4b_oKA.woff",
       "local": [
         "Crete Round Italic",
         "CreteRound-Italic"
       ],
-      "woff": "https://fonts.gstatic.com/s/creteround/v8/55xqey1sJNPjPiv1ZZZrxK1-4b_oKA.woff",
-      "eot": "https://fonts.gstatic.com/s/creteround/v8/55xqey1sJNPjPiv1ZZZrxK1-4b_oKg.eot",
-      "ttf": "https://fonts.gstatic.com/s/creteround/v8/55xqey1sJNPjPiv1ZZZrxK1-4b_oKw.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=55xqey1sJNPjPiv1ZZZrxK1-4b_oKQ&skey=8176e819c3fe9b&v=v8#CreteRound",
+      "woff2": "https://fonts.gstatic.com/s/creteround/v9/55xqey1sJNPjPiv1ZZZrxK1-4b_oLg.woff2",
+      "ttf": "https://fonts.gstatic.com/s/creteround/v9/55xqey1sJNPjPiv1ZZZrxK1-4b_oKw.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=55xqey1sJNPjPiv1ZZZrxK1-4b_oKQ&skey=8176e819c3fe9b&v=v9#CreteRound",
       "errored": false
     }
   ],
@@ -40,9 +40,9 @@
     "latin-ext"
   ],
   "category": "serif",
-  "version": "v8",
-  "lastModified": "2019-07-17",
-  "popularity": 104,
+  "version": "v9",
+  "lastModified": "2020-09-02",
+  "popularity": 112,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

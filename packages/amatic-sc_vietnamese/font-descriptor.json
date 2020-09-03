@@ -4,56 +4,56 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/amaticsc/v13/TUZyzwprpvBS1izr_vOEBeSf.woff2",
+      "eot": "https://fonts.gstatic.com/s/amaticsc/v14/TUZyzwprpvBS1izr_vOEBeSb.eot",
       "fontFamily": "'Amatic SC'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/amaticsc/v14/TUZyzwprpvBS1izr_vOEBeSZ.woff",
       "local": [
         "Amatic SC Regular",
         "AmaticSC-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/amaticsc/v13/TUZyzwprpvBS1izr_vOEBeSb.eot",
-      "woff": "https://fonts.gstatic.com/s/amaticsc/v13/TUZyzwprpvBS1izr_vOEBeSZ.woff",
-      "ttf": "https://fonts.gstatic.com/s/amaticsc/v13/TUZyzwprpvBS1izr_vOEBeSa.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=TUZyzwprpvBS1izr_vOEBeSY&skey=fb863bec8adba0c7&v=v13#AmaticSC",
+      "ttf": "https://fonts.gstatic.com/s/amaticsc/v14/TUZyzwprpvBS1izr_vOEBeSa.ttf",
+      "woff2": "https://fonts.gstatic.com/s/amaticsc/v14/TUZyzwprpvBS1izr_vOEBeSf.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=TUZyzwprpvBS1izr_vOEBeSY&skey=fb863bec8adba0c7&v=v14#AmaticSC",
       "errored": false
     },
     {
       "id": "700",
-      "eot": "https://fonts.gstatic.com/s/amaticsc/v13/TUZ3zwprpvBS1izr_vOMscGKcbUG.eot",
+      "eot": "https://fonts.gstatic.com/s/amaticsc/v14/TUZ3zwprpvBS1izr_vOMscGKcbUG.eot",
       "fontFamily": "'Amatic SC'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/amaticsc/v13/TUZ3zwprpvBS1izr_vOMscGKcbUE.woff",
+      "woff": "https://fonts.gstatic.com/s/amaticsc/v14/TUZ3zwprpvBS1izr_vOMscGKcbUE.woff",
       "local": [
         "Amatic SC Bold",
         "AmaticSC-Bold"
       ],
-      "ttf": "https://fonts.gstatic.com/s/amaticsc/v13/TUZ3zwprpvBS1izr_vOMscGKcbUH.ttf",
-      "woff2": "https://fonts.gstatic.com/s/amaticsc/v13/TUZ3zwprpvBS1izr_vOMscGKcbUC.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=TUZ3zwprpvBS1izr_vOMscGKcbUF&skey=f5c87b6211811ffa&v=v13#AmaticSC",
+      "woff2": "https://fonts.gstatic.com/s/amaticsc/v14/TUZ3zwprpvBS1izr_vOMscGKcbUC.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=TUZ3zwprpvBS1izr_vOMscGKcbUF&skey=f5c87b6211811ffa&v=v14#AmaticSC",
+      "ttf": "https://fonts.gstatic.com/s/amaticsc/v14/TUZ3zwprpvBS1izr_vOMscGKcbUH.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "hebrew",
-    "vietnamese",
-    "latin",
     "cyrillic",
-    "latin-ext"
+    "hebrew",
+    "latin",
+    "latin-ext",
+    "vietnamese"
   ],
   "category": "handwriting",
-  "version": "v13",
-  "lastModified": "2019-07-17",
-  "popularity": 83,
+  "version": "v14",
+  "lastModified": "2020-09-02",
+  "popularity": 89,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "hebrew": false,
-    "vietnamese": true,
-    "latin": true,
     "cyrillic": false,
-    "latin-ext": false
+    "hebrew": false,
+    "latin": true,
+    "latin-ext": false,
+    "vietnamese": true
   },
-  "storeID": "latin_vietnamese"
+  "storeID": "vietnamese_latin"
 }

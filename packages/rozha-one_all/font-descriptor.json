@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/rozhaone/v7/AlZy_zVFtYP12Zncg2khcA.woff2",
+      "woff": "https://fonts.gstatic.com/s/rozhaone/v8/AlZy_zVFtYP12Zncg2khdg.woff",
       "fontFamily": "'Rozha One'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Rozha One Regular",
         "RozhaOne-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/rozhaone/v7/AlZy_zVFtYP12Zncg2khdg.woff",
-      "eot": "https://fonts.gstatic.com/s/rozhaone/v7/AlZy_zVFtYP12Zncg2khdA.eot",
-      "ttf": "https://fonts.gstatic.com/s/rozhaone/v7/AlZy_zVFtYP12Zncg2khdQ.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=AlZy_zVFtYP12Zncg2khdw&skey=c32e4a53d412ff83&v=v7#RozhaOne",
+      "ttf": "https://fonts.gstatic.com/s/rozhaone/v8/AlZy_zVFtYP12Zncg2khdQ.ttf",
+      "woff2": "https://fonts.gstatic.com/s/rozhaone/v8/AlZy_zVFtYP12Zncg2khcA.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=AlZy_zVFtYP12Zncg2khdw&skey=c32e4a53d412ff83&v=v8#RozhaOne",
+      "eot": "https://fonts.gstatic.com/s/rozhaone/v8/AlZy_zVFtYP12Zncg2khdA.eot",
       "errored": false
     }
   ],
@@ -25,9 +25,9 @@
     "latin-ext"
   ],
   "category": "serif",
-  "version": "v7",
-  "lastModified": "2019-07-16",
-  "popularity": 495,
+  "version": "v8",
+  "lastModified": "2020-09-02",
+  "popularity": 380,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

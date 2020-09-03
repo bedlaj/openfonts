@@ -4,36 +4,36 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/francoisone/v14/_Xmr-H4zszafZw3A-KPSZut9zgiR.woff2",
+      "eot": "https://fonts.gstatic.com/s/francoisone/v15/_Xmr-H4zszafZw3A-KPSZut9zgiV.eot",
       "fontFamily": "'Francois One'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/francoisone/v15/_Xmr-H4zszafZw3A-KPSZut9zgiX.woff",
       "local": [
         "Francois One Regular",
         "FrancoisOne-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/francoisone/v14/_Xmr-H4zszafZw3A-KPSZut9zgiU.ttf",
-      "woff": "https://fonts.gstatic.com/s/francoisone/v14/_Xmr-H4zszafZw3A-KPSZut9zgiX.woff",
-      "eot": "https://fonts.gstatic.com/s/francoisone/v14/_Xmr-H4zszafZw3A-KPSZut9zgiV.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=_Xmr-H4zszafZw3A-KPSZut9zgiW&skey=37e55f964c88f579&v=v14#FrancoisOne",
+      "woff2": "https://fonts.gstatic.com/s/francoisone/v15/_Xmr-H4zszafZw3A-KPSZut9zgiR.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=_Xmr-H4zszafZw3A-KPSZut9zgiW&skey=37e55f964c88f579&v=v15#FrancoisOne",
+      "ttf": "https://fonts.gstatic.com/s/francoisone/v15/_Xmr-H4zszafZw3A-KPSZut9zgiU.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "vietnamese",
     "latin",
-    "latin-ext"
+    "latin-ext",
+    "vietnamese"
   ],
   "category": "sans-serif",
-  "version": "v14",
-  "lastModified": "2019-07-17",
-  "popularity": 96,
+  "version": "v15",
+  "lastModified": "2020-09-02",
+  "popularity": 125,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "vietnamese": true,
     "latin": true,
-    "latin-ext": false
+    "latin-ext": false,
+    "vietnamese": true
   },
-  "storeID": "latin_vietnamese"
+  "storeID": "vietnamese_latin"
 }

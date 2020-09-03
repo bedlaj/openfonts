@@ -4,33 +4,33 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/neucha/v11/q5uGsou0JOdh94bfuQlr.woff",
+      "woff": "https://fonts.gstatic.com/s/neucha/v12/q5uGsou0JOdh94bfuQlr.woff",
       "fontFamily": "'Neucha'",
       "fontStyle": "normal",
       "fontWeight": "400",
       "local": [
         "Neucha"
       ],
-      "woff2": "https://fonts.gstatic.com/s/neucha/v11/q5uGsou0JOdh94bfuQlt.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=q5uGsou0JOdh94bfuQlq&skey=3220290e94c865ad&v=v11#Neucha",
-      "ttf": "https://fonts.gstatic.com/s/neucha/v11/q5uGsou0JOdh94bfuQlo.ttf",
-      "eot": "https://fonts.gstatic.com/s/neucha/v11/q5uGsou0JOdh94bfuQlp.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=q5uGsou0JOdh94bfuQlq&skey=3220290e94c865ad&v=v12#Neucha",
+      "woff2": "https://fonts.gstatic.com/s/neucha/v12/q5uGsou0JOdh94bfuQlt.woff2",
+      "eot": "https://fonts.gstatic.com/s/neucha/v12/q5uGsou0JOdh94bfuQlp.eot",
+      "ttf": "https://fonts.gstatic.com/s/neucha/v12/q5uGsou0JOdh94bfuQlo.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
-    "cyrillic"
+    "cyrillic",
+    "latin"
   ],
   "category": "handwriting",
-  "version": "v11",
-  "lastModified": "2019-07-16",
-  "popularity": 160,
+  "version": "v12",
+  "lastModified": "2020-09-02",
+  "popularity": 193,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
-    "cyrillic": true
+    "cyrillic": true,
+    "latin": true
   },
-  "storeID": "cyrillic_latin"
+  "storeID": "latin_cyrillic"
 }

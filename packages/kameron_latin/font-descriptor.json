@@ -4,22 +4,22 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/kameron/v10/vm82dR7vXErQxuzngLk6KA.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=vm82dR7vXErQxuzngLk6KQ&skey=320070e7b0fe699d&v=v11#Kameron",
       "fontFamily": "'Kameron'",
       "fontStyle": "normal",
       "fontWeight": "400",
       "local": [
         "Kameron"
       ],
-      "eot": "https://fonts.gstatic.com/s/kameron/v10/vm82dR7vXErQxuzngLk6Kg.eot",
-      "ttf": "https://fonts.gstatic.com/s/kameron/v10/vm82dR7vXErQxuzngLk6Kw.ttf",
-      "woff2": "https://fonts.gstatic.com/s/kameron/v10/vm82dR7vXErQxuzngLk6Lg.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=vm82dR7vXErQxuzngLk6KQ&skey=320070e7b0fe699d&v=v10#Kameron",
+      "eot": "https://fonts.gstatic.com/s/kameron/v11/vm82dR7vXErQxuzngLk6Kg.eot",
+      "woff2": "https://fonts.gstatic.com/s/kameron/v11/vm82dR7vXErQxuzngLk6Lg.woff2",
+      "ttf": "https://fonts.gstatic.com/s/kameron/v11/vm82dR7vXErQxuzngLk6Kw.ttf",
+      "woff": "https://fonts.gstatic.com/s/kameron/v11/vm82dR7vXErQxuzngLk6KA.woff",
       "errored": false
     },
     {
       "id": "700",
-      "woff": "https://fonts.gstatic.com/s/kameron/v10/vm8zdR7vXErQxuzniAIfO-rpew.woff",
+      "woff": "https://fonts.gstatic.com/s/kameron/v11/vm8zdR7vXErQxuzniAIfO-rpew.woff",
       "fontFamily": "'Kameron'",
       "fontStyle": "normal",
       "fontWeight": "700",
@@ -27,10 +27,10 @@
         "Kameron Bold",
         "Kameron-Bold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/kameron/v10/vm8zdR7vXErQxuzniAIfO-rpfQ.woff2",
-      "eot": "https://fonts.gstatic.com/s/kameron/v10/vm8zdR7vXErQxuzniAIfO-rpeQ.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=vm8zdR7vXErQxuzniAIfO-rpeg&skey=36c6c85829f8e05c&v=v10#Kameron",
-      "ttf": "https://fonts.gstatic.com/s/kameron/v10/vm8zdR7vXErQxuzniAIfO-rpeA.ttf",
+      "ttf": "https://fonts.gstatic.com/s/kameron/v11/vm8zdR7vXErQxuzniAIfO-rpeA.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=vm8zdR7vXErQxuzniAIfO-rpeg&skey=36c6c85829f8e05c&v=v11#Kameron",
+      "woff2": "https://fonts.gstatic.com/s/kameron/v11/vm8zdR7vXErQxuzniAIfO-rpfQ.woff2",
+      "eot": "https://fonts.gstatic.com/s/kameron/v11/vm8zdR7vXErQxuzniAIfO-rpeQ.eot",
       "errored": false
     }
   ],
@@ -38,9 +38,9 @@
     "latin"
   ],
   "category": "serif",
-  "version": "v10",
-  "lastModified": "2019-07-16",
-  "popularity": 317,
+  "version": "v11",
+  "lastModified": "2020-09-02",
+  "popularity": 374,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

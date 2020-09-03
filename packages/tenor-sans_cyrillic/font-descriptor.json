@@ -4,36 +4,36 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/tenorsans/v11/bx6ANxqUneKx06UkIXISn3F4Dg.eot",
+      "woff2": "https://fonts.gstatic.com/s/tenorsans/v12/bx6ANxqUneKx06UkIXISn3F4Cg.woff2",
       "fontFamily": "'Tenor Sans'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "ttf": "https://fonts.gstatic.com/s/tenorsans/v11/bx6ANxqUneKx06UkIXISn3F4Dw.ttf",
       "local": [
         "Tenor Sans",
         "TenorSans"
       ],
-      "woff2": "https://fonts.gstatic.com/s/tenorsans/v11/bx6ANxqUneKx06UkIXISn3F4Cg.woff2",
-      "woff": "https://fonts.gstatic.com/s/tenorsans/v11/bx6ANxqUneKx06UkIXISn3F4DA.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=bx6ANxqUneKx06UkIXISn3F4DQ&skey=9e159c41209dbf49&v=v11#TenorSans",
+      "eot": "https://fonts.gstatic.com/s/tenorsans/v12/bx6ANxqUneKx06UkIXISn3F4Dg.eot",
+      "woff": "https://fonts.gstatic.com/s/tenorsans/v12/bx6ANxqUneKx06UkIXISn3F4DA.woff",
+      "ttf": "https://fonts.gstatic.com/s/tenorsans/v12/bx6ANxqUneKx06UkIXISn3F4Dw.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=bx6ANxqUneKx06UkIXISn3F4DQ&skey=9e159c41209dbf49&v=v12#TenorSans",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
     "cyrillic",
+    "latin",
     "latin-ext"
   ],
   "category": "sans-serif",
-  "version": "v11",
-  "lastModified": "2019-07-16",
-  "popularity": 310,
+  "version": "v12",
+  "lastModified": "2020-09-02",
+  "popularity": 260,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
     "cyrillic": true,
+    "latin": true,
     "latin-ext": false
   },
-  "storeID": "cyrillic_latin"
+  "storeID": "latin_cyrillic"
 }

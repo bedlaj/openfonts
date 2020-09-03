@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/cantarell/v9/B50NF7ZDq37KMUvlO015jKJt.woff",
+      "ttf": "https://fonts.gstatic.com/s/cantarell/v10/B50NF7ZDq37KMUvlO015jKJu.ttf",
       "fontFamily": "'Cantarell'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,15 +12,31 @@
         "Cantarell Regular",
         "Cantarell-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=B50NF7ZDq37KMUvlO015jKJs&skey=4fa1583b73a857db&v=v9#Cantarell",
-      "woff2": "https://fonts.gstatic.com/s/cantarell/v9/B50NF7ZDq37KMUvlO015jKJr.woff2",
-      "ttf": "https://fonts.gstatic.com/s/cantarell/v9/B50NF7ZDq37KMUvlO015jKJu.ttf",
-      "eot": "https://fonts.gstatic.com/s/cantarell/v9/B50NF7ZDq37KMUvlO015jKJv.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=B50NF7ZDq37KMUvlO015jKJs&skey=4fa1583b73a857db&v=v10#Cantarell",
+      "eot": "https://fonts.gstatic.com/s/cantarell/v10/B50NF7ZDq37KMUvlO015jKJv.eot",
+      "woff2": "https://fonts.gstatic.com/s/cantarell/v10/B50NF7ZDq37KMUvlO015jKJr.woff2",
+      "woff": "https://fonts.gstatic.com/s/cantarell/v10/B50NF7ZDq37KMUvlO015jKJt.woff",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/cantarell/v10/B50IF7ZDq37KMUvlO01xN4d-E46b.eot",
+      "fontFamily": "'Cantarell'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/cantarell/v10/B50IF7ZDq37KMUvlO01xN4d-E46Z.woff",
+      "local": [
+        "Cantarell Bold",
+        "Cantarell-Bold"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=B50IF7ZDq37KMUvlO01xN4d-E46Y&skey=4ce757239eccd614&v=v10#Cantarell",
+      "ttf": "https://fonts.gstatic.com/s/cantarell/v10/B50IF7ZDq37KMUvlO01xN4d-E46a.ttf",
+      "woff2": "https://fonts.gstatic.com/s/cantarell/v10/B50IF7ZDq37KMUvlO01xN4d-E46f.woff2",
       "errored": false
     },
     {
       "id": "italic",
-      "ttf": "https://fonts.gstatic.com/s/cantarell/v9/B50LF7ZDq37KMUvlO015iZJpNK4.ttf",
+      "woff2": "https://fonts.gstatic.com/s/cantarell/v10/B50LF7ZDq37KMUvlO015iZJpNKs.woff2",
       "fontFamily": "'Cantarell'",
       "fontStyle": "italic",
       "fontWeight": "400",
@@ -28,42 +44,26 @@
         "Cantarell Oblique",
         "Cantarell-Oblique"
       ],
-      "woff2": "https://fonts.gstatic.com/s/cantarell/v9/B50LF7ZDq37KMUvlO015iZJpNKs.woff2",
-      "eot": "https://fonts.gstatic.com/s/cantarell/v9/B50LF7ZDq37KMUvlO015iZJpNK8.eot",
-      "woff": "https://fonts.gstatic.com/s/cantarell/v9/B50LF7ZDq37KMUvlO015iZJpNK0.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=B50LF7ZDq37KMUvlO015iZJpNKw&skey=5f16ed9b6a8a2f0d&v=v9#Cantarell",
-      "errored": false
-    },
-    {
-      "id": "700",
-      "eot": "https://fonts.gstatic.com/s/cantarell/v9/B50IF7ZDq37KMUvlO01xN4d-E46b.eot",
-      "fontFamily": "'Cantarell'",
-      "fontStyle": "normal",
-      "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/cantarell/v9/B50IF7ZDq37KMUvlO01xN4d-E46Z.woff",
-      "local": [
-        "Cantarell Bold",
-        "Cantarell-Bold"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/cantarell/v9/B50IF7ZDq37KMUvlO01xN4d-E46f.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=B50IF7ZDq37KMUvlO01xN4d-E46Y&skey=4ce757239eccd614&v=v9#Cantarell",
-      "ttf": "https://fonts.gstatic.com/s/cantarell/v9/B50IF7ZDq37KMUvlO01xN4d-E46a.ttf",
+      "ttf": "https://fonts.gstatic.com/s/cantarell/v10/B50LF7ZDq37KMUvlO015iZJpNK4.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=B50LF7ZDq37KMUvlO015iZJpNKw&skey=5f16ed9b6a8a2f0d&v=v10#Cantarell",
+      "woff": "https://fonts.gstatic.com/s/cantarell/v10/B50LF7ZDq37KMUvlO015iZJpNK0.woff",
+      "eot": "https://fonts.gstatic.com/s/cantarell/v10/B50LF7ZDq37KMUvlO015iZJpNK8.eot",
       "errored": false
     },
     {
       "id": "700italic",
-      "woff2": "https://fonts.gstatic.com/s/cantarell/v9/B50WF7ZDq37KMUvlO015iZrSEb6dDYs.woff2",
+      "eot": "https://fonts.gstatic.com/s/cantarell/v10/B50WF7ZDq37KMUvlO015iZrSEb6dDY8.eot",
       "fontFamily": "'Cantarell'",
       "fontStyle": "italic",
       "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/cantarell/v10/B50WF7ZDq37KMUvlO015iZrSEb6dDY0.woff",
       "local": [
         "Cantarell Bold Oblique",
         "Cantarell-BoldOblique"
       ],
-      "eot": "https://fonts.gstatic.com/s/cantarell/v9/B50WF7ZDq37KMUvlO015iZrSEb6dDY8.eot",
-      "woff": "https://fonts.gstatic.com/s/cantarell/v9/B50WF7ZDq37KMUvlO015iZrSEb6dDY0.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=B50WF7ZDq37KMUvlO015iZrSEb6dDYw&skey=6a4e6d776759d980&v=v9#Cantarell",
-      "ttf": "https://fonts.gstatic.com/s/cantarell/v9/B50WF7ZDq37KMUvlO015iZrSEb6dDY4.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=B50WF7ZDq37KMUvlO015iZrSEb6dDYw&skey=6a4e6d776759d980&v=v10#Cantarell",
+      "woff2": "https://fonts.gstatic.com/s/cantarell/v10/B50WF7ZDq37KMUvlO015iZrSEb6dDYs.woff2",
+      "ttf": "https://fonts.gstatic.com/s/cantarell/v10/B50WF7ZDq37KMUvlO015iZrSEb6dDY4.ttf",
       "errored": false
     }
   ],
@@ -71,9 +71,9 @@
     "latin"
   ],
   "category": "sans-serif",
-  "version": "v9",
-  "lastModified": "2019-07-17",
-  "popularity": 125,
+  "version": "v10",
+  "lastModified": "2020-09-02",
+  "popularity": 123,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

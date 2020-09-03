@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/coda/v15/SLXHc1jY5nQ8FUUGaw.woff2",
+      "ttf": "https://fonts.gstatic.com/s/coda/v16/SLXHc1jY5nQ8FUUGbg.ttf",
       "fontFamily": "'Coda'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,26 +12,26 @@
         "Coda Regular",
         "Coda-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/coda/v15/SLXHc1jY5nQ8FUUGbw.eot",
-      "woff": "https://fonts.gstatic.com/s/coda/v15/SLXHc1jY5nQ8FUUGbQ.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=SLXHc1jY5nQ8FUUGbA&skey=85bb675133fabe3&v=v15#Coda",
-      "ttf": "https://fonts.gstatic.com/s/coda/v15/SLXHc1jY5nQ8FUUGbg.ttf",
+      "eot": "https://fonts.gstatic.com/s/coda/v16/SLXHc1jY5nQ8FUUGbw.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=SLXHc1jY5nQ8FUUGbA&skey=85bb675133fabe3&v=v16#Coda",
+      "woff2": "https://fonts.gstatic.com/s/coda/v16/SLXHc1jY5nQ8FUUGaw.woff2",
+      "woff": "https://fonts.gstatic.com/s/coda/v16/SLXHc1jY5nQ8FUUGbQ.woff",
       "errored": false
     },
     {
       "id": "800",
-      "eot": "https://fonts.gstatic.com/s/coda/v15/SLXIc1jY5nQ8HeIgfpmsxg.eot",
+      "woff2": "https://fonts.gstatic.com/s/coda/v16/SLXIc1jY5nQ8HeIgfpmswg.woff2",
       "fontFamily": "'Coda'",
       "fontStyle": "normal",
       "fontWeight": "800",
-      "svg": "https://fonts.gstatic.com/l/font?kit=SLXIc1jY5nQ8HeIgfpmsxQ&skey=4835f90a6ea1d5e3&v=v15#Coda",
       "local": [
         "Coda ExtraBold",
         "Coda-ExtraBold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/coda/v15/SLXIc1jY5nQ8HeIgfpmswg.woff2",
-      "woff": "https://fonts.gstatic.com/s/coda/v15/SLXIc1jY5nQ8HeIgfpmsxA.woff",
-      "ttf": "https://fonts.gstatic.com/s/coda/v15/SLXIc1jY5nQ8HeIgfpmsxw.ttf",
+      "woff": "https://fonts.gstatic.com/s/coda/v16/SLXIc1jY5nQ8HeIgfpmsxA.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=SLXIc1jY5nQ8HeIgfpmsxQ&skey=4835f90a6ea1d5e3&v=v16#Coda",
+      "ttf": "https://fonts.gstatic.com/s/coda/v16/SLXIc1jY5nQ8HeIgfpmsxw.ttf",
+      "eot": "https://fonts.gstatic.com/s/coda/v16/SLXIc1jY5nQ8HeIgfpmsxg.eot",
       "errored": false
     }
   ],
@@ -40,9 +40,9 @@
     "latin-ext"
   ],
   "category": "display",
-  "version": "v15",
-  "lastModified": "2019-07-16",
-  "popularity": 236,
+  "version": "v16",
+  "lastModified": "2020-09-02",
+  "popularity": 328,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

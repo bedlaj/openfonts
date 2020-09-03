@@ -4,36 +4,36 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/lexendmega/v1/qFdA35aBi5JtHD41zSTFEs7D4h4.eot",
+      "eot": "https://fonts.gstatic.com/s/lexendmega/v2/qFdA35aBi5JtHD41zSTFEs7D4h4.eot",
       "fontFamily": "'Lexend Mega'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/lexendmega/v1/qFdA35aBi5JtHD41zSTFEs7D4ho.woff2",
+      "woff2": "https://fonts.gstatic.com/s/lexendmega/v2/qFdA35aBi5JtHD41zSTFEs7D4ho.woff2",
       "local": [
         "Lexend Mega Regular",
         "LexendMega-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/lexendmega/v1/qFdA35aBi5JtHD41zSTFEs7D4hw.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=qFdA35aBi5JtHD41zSTFEs7D4h0&skey=d28adc07680f92a&v=v1#LexendMega",
-      "ttf": "https://fonts.gstatic.com/s/lexendmega/v1/qFdA35aBi5JtHD41zSTFEs7D4h8.ttf",
+      "woff": "https://fonts.gstatic.com/s/lexendmega/v2/qFdA35aBi5JtHD41zSTFEs7D4hw.woff",
+      "ttf": "https://fonts.gstatic.com/s/lexendmega/v2/qFdA35aBi5JtHD41zSTFEs7D4h8.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=qFdA35aBi5JtHD41zSTFEs7D4h0&skey=d28adc07680f92a&v=v2#LexendMega",
       "errored": false
     }
   ],
   "subsets": [
     "latin",
-    "vietnamese",
-    "latin-ext"
+    "latin-ext",
+    "vietnamese"
   ],
   "category": "sans-serif",
-  "version": "v1",
-  "lastModified": "2020-03-03",
-  "popularity": 979,
+  "version": "v2",
+  "lastModified": "2020-09-02",
+  "popularity": 995,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "latin": true,
-    "vietnamese": false,
-    "latin-ext": true
+    "latin-ext": true,
+    "vietnamese": false
   },
   "storeID": "latin-ext_latin"
 }

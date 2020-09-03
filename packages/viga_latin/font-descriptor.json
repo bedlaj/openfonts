@@ -4,17 +4,17 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/viga/v8/xMQbuFFdSaiXzQUpDg.woff2",
+      "woff": "https://fonts.gstatic.com/s/viga/v9/xMQbuFFdSaiXzQUpCA.woff",
       "fontFamily": "'Viga'",
       "fontStyle": "normal",
       "fontWeight": "400",
       "local": [
         "Viga-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/viga/v8/xMQbuFFdSaiXzQUpCA.woff",
-      "eot": "https://fonts.gstatic.com/s/viga/v8/xMQbuFFdSaiXzQUpCg.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=xMQbuFFdSaiXzQUpCQ&skey=86c8fd86a8d4871d&v=v8#Viga",
-      "ttf": "https://fonts.gstatic.com/s/viga/v8/xMQbuFFdSaiXzQUpCw.ttf",
+      "woff2": "https://fonts.gstatic.com/s/viga/v9/xMQbuFFdSaiXzQUpDg.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=xMQbuFFdSaiXzQUpCQ&skey=86c8fd86a8d4871d&v=v9#Viga",
+      "eot": "https://fonts.gstatic.com/s/viga/v9/xMQbuFFdSaiXzQUpCg.eot",
+      "ttf": "https://fonts.gstatic.com/s/viga/v9/xMQbuFFdSaiXzQUpCw.ttf",
       "errored": false
     }
   ],
@@ -23,9 +23,9 @@
     "latin-ext"
   ],
   "category": "sans-serif",
-  "version": "v8",
-  "lastModified": "2019-07-17",
-  "popularity": 154,
+  "version": "v9",
+  "lastModified": "2020-09-02",
+  "popularity": 236,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

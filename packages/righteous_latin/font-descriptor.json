@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/righteous/v8/1cXxaUPXBpj2rGoU7C9WiHGD.woff",
+      "ttf": "https://fonts.gstatic.com/s/righteous/v9/1cXxaUPXBpj2rGoU7C9WiHGA.ttf",
       "fontFamily": "'Righteous'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Righteous",
         "Righteous-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/righteous/v8/1cXxaUPXBpj2rGoU7C9WiHGA.ttf",
-      "eot": "https://fonts.gstatic.com/s/righteous/v8/1cXxaUPXBpj2rGoU7C9WiHGB.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=1cXxaUPXBpj2rGoU7C9WiHGC&skey=7d7e8613ba1b398f&v=v8#Righteous",
-      "woff2": "https://fonts.gstatic.com/s/righteous/v8/1cXxaUPXBpj2rGoU7C9WiHGF.woff2",
+      "woff2": "https://fonts.gstatic.com/s/righteous/v9/1cXxaUPXBpj2rGoU7C9WiHGF.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=1cXxaUPXBpj2rGoU7C9WiHGC&skey=7d7e8613ba1b398f&v=v9#Righteous",
+      "woff": "https://fonts.gstatic.com/s/righteous/v9/1cXxaUPXBpj2rGoU7C9WiHGD.woff",
+      "eot": "https://fonts.gstatic.com/s/righteous/v9/1cXxaUPXBpj2rGoU7C9WiHGB.eot",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "display",
-  "version": "v8",
-  "lastModified": "2019-07-17",
-  "popularity": 80,
+  "version": "v9",
+  "lastModified": "2020-09-02",
+  "popularity": 101,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

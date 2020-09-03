@@ -4,35 +4,35 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/rubikmonoone/v8/UqyJK8kPP3hjw6ANTdfRk9YSN983TKE.eot",
+      "eot": "https://fonts.gstatic.com/s/rubikmonoone/v9/UqyJK8kPP3hjw6ANTdfRk9YSN983TKE.eot",
       "fontFamily": "'Rubik Mono One'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/rubikmonoone/v8/UqyJK8kPP3hjw6ANTdfRk9YSN983TKU.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=UqyJK8kPP3hjw6ANTdfRk9YSN983TKI&skey=ae6db2ecce22196d&v=v9#RubikMonoOne",
       "local": [
         "Rubik Mono One Regular",
         "RubikMonoOne-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/rubikmonoone/v8/UqyJK8kPP3hjw6ANTdfRk9YSN983TKM.woff",
-      "ttf": "https://fonts.gstatic.com/s/rubikmonoone/v8/UqyJK8kPP3hjw6ANTdfRk9YSN983TKA.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=UqyJK8kPP3hjw6ANTdfRk9YSN983TKI&skey=ae6db2ecce22196d&v=v8#RubikMonoOne",
+      "woff2": "https://fonts.gstatic.com/s/rubikmonoone/v9/UqyJK8kPP3hjw6ANTdfRk9YSN983TKU.woff2",
+      "woff": "https://fonts.gstatic.com/s/rubikmonoone/v9/UqyJK8kPP3hjw6ANTdfRk9YSN983TKM.woff",
+      "ttf": "https://fonts.gstatic.com/s/rubikmonoone/v9/UqyJK8kPP3hjw6ANTdfRk9YSN983TKA.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
     "cyrillic",
+    "latin",
     "latin-ext"
   ],
   "category": "sans-serif",
-  "version": "v8",
-  "lastModified": "2019-07-16",
-  "popularity": 298,
+  "version": "v9",
+  "lastModified": "2020-09-02",
+  "popularity": 269,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
     "cyrillic": false,
+    "latin": true,
     "latin-ext": false
   },
   "storeID": "latin"

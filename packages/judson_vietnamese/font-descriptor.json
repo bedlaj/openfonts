@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/judson/v12/FeVRS0Fbvbc14VxhB7l1.woff2",
+      "woff2": "https://fonts.gstatic.com/s/judson/v13/FeVRS0Fbvbc14VxhB7l1.woff2",
       "fontFamily": "'Judson'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,60 +12,60 @@
         "Judson Regular",
         "Judson-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/judson/v12/FeVRS0Fbvbc14VxhB7lx.eot",
-      "woff": "https://fonts.gstatic.com/s/judson/v12/FeVRS0Fbvbc14VxhB7lz.woff",
-      "ttf": "https://fonts.gstatic.com/s/judson/v12/FeVRS0Fbvbc14VxhB7lw.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=FeVRS0Fbvbc14VxhB7ly&skey=5e4bbbcb41f6cd25&v=v12#Judson",
-      "errored": false
-    },
-    {
-      "id": "700",
-      "eot": "https://fonts.gstatic.com/s/judson/v12/FeVSS0Fbvbc14Vxps5xg1ZRi.eot",
-      "fontFamily": "'Judson'",
-      "fontStyle": "normal",
-      "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/judson/v12/FeVSS0Fbvbc14Vxps5xg1ZRg.woff",
-      "local": [
-        "Judson Bold",
-        "Judson-Bold"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/judson/v12/FeVSS0Fbvbc14Vxps5xg1ZRm.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=FeVSS0Fbvbc14Vxps5xg1ZRh&skey=2a4e7d9700bda035&v=v12#Judson",
-      "ttf": "https://fonts.gstatic.com/s/judson/v12/FeVSS0Fbvbc14Vxps5xg1ZRj.ttf",
+      "eot": "https://fonts.gstatic.com/s/judson/v13/FeVRS0Fbvbc14VxhB7lx.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=FeVRS0Fbvbc14VxhB7ly&skey=5e4bbbcb41f6cd25&v=v13#Judson",
+      "ttf": "https://fonts.gstatic.com/s/judson/v13/FeVRS0Fbvbc14VxhB7lw.ttf",
+      "woff": "https://fonts.gstatic.com/s/judson/v13/FeVRS0Fbvbc14VxhB7lz.woff",
       "errored": false
     },
     {
       "id": "italic",
-      "woff2": "https://fonts.gstatic.com/s/judson/v12/FeVTS0Fbvbc14VxhDYl4_bE.woff2",
+      "eot": "https://fonts.gstatic.com/s/judson/v13/FeVTS0Fbvbc14VxhDYl4_bU.eot",
       "fontFamily": "'Judson'",
       "fontStyle": "italic",
       "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/judson/v13/FeVTS0Fbvbc14VxhDYl4_bE.woff2",
       "local": [
         "Judson Italic",
         "Judson-Italic"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=FeVTS0Fbvbc14VxhDYl4_bY&skey=d937ef2f415e3371&v=v12#Judson",
-      "ttf": "https://fonts.gstatic.com/s/judson/v12/FeVTS0Fbvbc14VxhDYl4_bQ.ttf",
-      "eot": "https://fonts.gstatic.com/s/judson/v12/FeVTS0Fbvbc14VxhDYl4_bU.eot",
-      "woff": "https://fonts.gstatic.com/s/judson/v12/FeVTS0Fbvbc14VxhDYl4_bc.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=FeVTS0Fbvbc14VxhDYl4_bY&skey=d937ef2f415e3371&v=v13#Judson",
+      "woff": "https://fonts.gstatic.com/s/judson/v13/FeVTS0Fbvbc14VxhDYl4_bc.woff",
+      "ttf": "https://fonts.gstatic.com/s/judson/v13/FeVTS0Fbvbc14VxhDYl4_bQ.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "woff": "https://fonts.gstatic.com/s/judson/v13/FeVSS0Fbvbc14Vxps5xg1ZRg.woff",
+      "fontFamily": "'Judson'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "local": [
+        "Judson Bold",
+        "Judson-Bold"
+      ],
+      "eot": "https://fonts.gstatic.com/s/judson/v13/FeVSS0Fbvbc14Vxps5xg1ZRi.eot",
+      "woff2": "https://fonts.gstatic.com/s/judson/v13/FeVSS0Fbvbc14Vxps5xg1ZRm.woff2",
+      "ttf": "https://fonts.gstatic.com/s/judson/v13/FeVSS0Fbvbc14Vxps5xg1ZRj.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=FeVSS0Fbvbc14Vxps5xg1ZRh&skey=2a4e7d9700bda035&v=v13#Judson",
       "errored": false
     }
   ],
   "subsets": [
-    "vietnamese",
     "latin",
-    "latin-ext"
+    "latin-ext",
+    "vietnamese"
   ],
   "category": "serif",
-  "version": "v12",
-  "lastModified": "2019-07-16",
-  "popularity": 433,
+  "version": "v13",
+  "lastModified": "2020-09-02",
+  "popularity": 281,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "vietnamese": true,
     "latin": true,
-    "latin-ext": false
+    "latin-ext": false,
+    "vietnamese": true
   },
-  "storeID": "latin_vietnamese"
+  "storeID": "vietnamese_latin"
 }

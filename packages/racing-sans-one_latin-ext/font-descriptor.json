@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/racingsansone/v7/sykr-yRtm7EvTrXNxkv5jfKKyDCAJnDj.eot",
+      "woff2": "https://fonts.gstatic.com/s/racingsansone/v8/sykr-yRtm7EvTrXNxkv5jfKKyDCAJnDn.woff2",
       "fontFamily": "'Racing Sans One'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/racingsansone/v7/sykr-yRtm7EvTrXNxkv5jfKKyDCAJnDh.woff",
       "local": [
         "Racing Sans One",
         "RacingSansOne-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/racingsansone/v7/sykr-yRtm7EvTrXNxkv5jfKKyDCAJnDn.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=sykr-yRtm7EvTrXNxkv5jfKKyDCAJnDg&skey=c54fc5912484ccc5&v=v7#RacingSansOne",
-      "ttf": "https://fonts.gstatic.com/s/racingsansone/v7/sykr-yRtm7EvTrXNxkv5jfKKyDCAJnDi.ttf",
+      "ttf": "https://fonts.gstatic.com/s/racingsansone/v8/sykr-yRtm7EvTrXNxkv5jfKKyDCAJnDi.ttf",
+      "woff": "https://fonts.gstatic.com/s/racingsansone/v8/sykr-yRtm7EvTrXNxkv5jfKKyDCAJnDh.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=sykr-yRtm7EvTrXNxkv5jfKKyDCAJnDg&skey=c54fc5912484ccc5&v=v8#RacingSansOne",
+      "eot": "https://fonts.gstatic.com/s/racingsansone/v8/sykr-yRtm7EvTrXNxkv5jfKKyDCAJnDj.eot",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "display",
-  "version": "v7",
-  "lastModified": "2019-07-16",
-  "popularity": 348,
+  "version": "v8",
+  "lastModified": "2020-09-02",
+  "popularity": 395,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

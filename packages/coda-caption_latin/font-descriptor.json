@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "800",
-      "woff2": "https://fonts.gstatic.com/s/codacaption/v13/ieVm2YRII2GMY7SyXSoDRiQGqcxKwPWe.woff2",
+      "woff": "https://fonts.gstatic.com/s/codacaption/v14/ieVm2YRII2GMY7SyXSoDRiQGqcxKwPWY.woff",
       "fontFamily": "'Coda Caption'",
       "fontStyle": "normal",
       "fontWeight": "800",
@@ -12,10 +12,10 @@
         "Coda Caption ExtraBold",
         "CodaCaption-ExtraBold"
       ],
-      "ttf": "https://fonts.gstatic.com/s/codacaption/v13/ieVm2YRII2GMY7SyXSoDRiQGqcxKwPWb.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=ieVm2YRII2GMY7SyXSoDRiQGqcxKwPWZ&skey=c11ca7c94b3d7330&v=v13#CodaCaption",
-      "eot": "https://fonts.gstatic.com/s/codacaption/v13/ieVm2YRII2GMY7SyXSoDRiQGqcxKwPWa.eot",
-      "woff": "https://fonts.gstatic.com/s/codacaption/v13/ieVm2YRII2GMY7SyXSoDRiQGqcxKwPWY.woff",
+      "eot": "https://fonts.gstatic.com/s/codacaption/v14/ieVm2YRII2GMY7SyXSoDRiQGqcxKwPWa.eot",
+      "ttf": "https://fonts.gstatic.com/s/codacaption/v14/ieVm2YRII2GMY7SyXSoDRiQGqcxKwPWb.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=ieVm2YRII2GMY7SyXSoDRiQGqcxKwPWZ&skey=c11ca7c94b3d7330&v=v14#CodaCaption",
+      "woff2": "https://fonts.gstatic.com/s/codacaption/v14/ieVm2YRII2GMY7SyXSoDRiQGqcxKwPWe.woff2",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "sans-serif",
-  "version": "v13",
-  "lastModified": "2019-07-16",
-  "popularity": 443,
+  "version": "v14",
+  "lastModified": "2020-09-02",
+  "popularity": 350,
   "defSubset": "latin",
   "defVariant": "800",
   "subsetMap": {

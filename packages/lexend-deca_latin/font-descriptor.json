@@ -4,36 +4,36 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/lexenddeca/v1/K2F1fZFYk-dHSE0UPPuwQ5qnJys.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=K2F1fZFYk-dHSE0UPPuwQ5qnJyg&skey=885fac1a2cdd625a&v=v2#LexendDeca",
       "fontFamily": "'Lexend Deca'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/lexenddeca/v1/K2F1fZFYk-dHSE0UPPuwQ5qnJy8.woff2",
       "local": [
         "Lexend Deca Regular",
         "LexendDeca-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/lexenddeca/v1/K2F1fZFYk-dHSE0UPPuwQ5qnJyo.ttf",
-      "woff": "https://fonts.gstatic.com/s/lexenddeca/v1/K2F1fZFYk-dHSE0UPPuwQ5qnJyk.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=K2F1fZFYk-dHSE0UPPuwQ5qnJyg&skey=885fac1a2cdd625a&v=v1#LexendDeca",
+      "eot": "https://fonts.gstatic.com/s/lexenddeca/v2/K2F1fZFYk-dHSE0UPPuwQ5qnJys.eot",
+      "woff": "https://fonts.gstatic.com/s/lexenddeca/v2/K2F1fZFYk-dHSE0UPPuwQ5qnJyk.woff",
+      "ttf": "https://fonts.gstatic.com/s/lexenddeca/v2/K2F1fZFYk-dHSE0UPPuwQ5qnJyo.ttf",
+      "woff2": "https://fonts.gstatic.com/s/lexenddeca/v2/K2F1fZFYk-dHSE0UPPuwQ5qnJy8.woff2",
       "errored": false
     }
   ],
   "subsets": [
     "latin",
-    "vietnamese",
-    "latin-ext"
+    "latin-ext",
+    "vietnamese"
   ],
   "category": "sans-serif",
-  "version": "v1",
-  "lastModified": "2020-03-03",
-  "popularity": 372,
+  "version": "v2",
+  "lastModified": "2020-09-02",
+  "popularity": 364,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "latin": true,
-    "vietnamese": false,
-    "latin-ext": false
+    "latin-ext": false,
+    "vietnamese": false
   },
   "storeID": "latin"
 }

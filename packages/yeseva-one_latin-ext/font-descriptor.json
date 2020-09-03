@@ -4,40 +4,40 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/yesevaone/v14/OpNJno4ck8vc-xYpwWWxliNVXg.ttf",
+      "eot": "https://fonts.gstatic.com/s/yesevaone/v15/OpNJno4ck8vc-xYpwWWxliNVXw.eot",
       "fontFamily": "'Yeseva One'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "ttf": "https://fonts.gstatic.com/s/yesevaone/v15/OpNJno4ck8vc-xYpwWWxliNVXg.ttf",
       "local": [
         "Yeseva One Regular",
         "YesevaOne-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/yesevaone/v14/OpNJno4ck8vc-xYpwWWxliNVXQ.woff",
-      "eot": "https://fonts.gstatic.com/s/yesevaone/v14/OpNJno4ck8vc-xYpwWWxliNVXw.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=OpNJno4ck8vc-xYpwWWxliNVXA&skey=9baeda5be4021674&v=v14#YesevaOne",
-      "woff2": "https://fonts.gstatic.com/s/yesevaone/v14/OpNJno4ck8vc-xYpwWWxliNVWw.woff2",
+      "woff": "https://fonts.gstatic.com/s/yesevaone/v15/OpNJno4ck8vc-xYpwWWxliNVXQ.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=OpNJno4ck8vc-xYpwWWxliNVXA&skey=9baeda5be4021674&v=v15#YesevaOne",
+      "woff2": "https://fonts.gstatic.com/s/yesevaone/v15/OpNJno4ck8vc-xYpwWWxliNVWw.woff2",
       "errored": false
     }
   ],
   "subsets": [
-    "vietnamese",
-    "latin",
-    "cyrillic-ext",
     "cyrillic",
-    "latin-ext"
+    "cyrillic-ext",
+    "latin",
+    "latin-ext",
+    "vietnamese"
   ],
   "category": "display",
-  "version": "v14",
-  "lastModified": "2019-07-16",
-  "popularity": 359,
+  "version": "v15",
+  "lastModified": "2020-09-02",
+  "popularity": 289,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "vietnamese": false,
-    "latin": true,
-    "cyrillic-ext": false,
     "cyrillic": false,
-    "latin-ext": true
+    "cyrillic-ext": false,
+    "latin": true,
+    "latin-ext": true,
+    "vietnamese": false
   },
   "storeID": "latin-ext_latin"
 }

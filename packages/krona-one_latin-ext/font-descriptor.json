@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=jAnEgHdjHcjgfIb1ZcUyOIWn&skey=f76bf6a024f8fca&v=v8#KronaOne",
+      "woff2": "https://fonts.gstatic.com/s/kronaone/v9/jAnEgHdjHcjgfIb1ZcUyOIWg.woff2",
       "fontFamily": "'Krona One'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Krona One",
         "KronaOne-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/kronaone/v8/jAnEgHdjHcjgfIb1ZcUyOIWl.ttf",
-      "woff2": "https://fonts.gstatic.com/s/kronaone/v8/jAnEgHdjHcjgfIb1ZcUyOIWg.woff2",
-      "eot": "https://fonts.gstatic.com/s/kronaone/v8/jAnEgHdjHcjgfIb1ZcUyOIWk.eot",
-      "woff": "https://fonts.gstatic.com/s/kronaone/v8/jAnEgHdjHcjgfIb1ZcUyOIWm.woff",
+      "ttf": "https://fonts.gstatic.com/s/kronaone/v9/jAnEgHdjHcjgfIb1ZcUyOIWl.ttf",
+      "eot": "https://fonts.gstatic.com/s/kronaone/v9/jAnEgHdjHcjgfIb1ZcUyOIWk.eot",
+      "woff": "https://fonts.gstatic.com/s/kronaone/v9/jAnEgHdjHcjgfIb1ZcUyOIWm.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=jAnEgHdjHcjgfIb1ZcUyOIWn&skey=f76bf6a024f8fca&v=v9#KronaOne",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "sans-serif",
-  "version": "v8",
-  "lastModified": "2019-07-16",
-  "popularity": 563,
+  "version": "v9",
+  "lastModified": "2020-09-02",
+  "popularity": 372,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

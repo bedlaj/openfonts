@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/sacramento/v7/buEzpo6gcdjy0EiZMBUG4CMf-w.woff",
+      "woff2": "https://fonts.gstatic.com/s/sacramento/v8/buEzpo6gcdjy0EiZMBUG4CMf_Q.woff2",
       "fontFamily": "'Sacramento'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Sacramento",
         "Sacramento-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=buEzpo6gcdjy0EiZMBUG4CMf-g&skey=81ec871a4d9062d2&v=v7#Sacramento",
-      "ttf": "https://fonts.gstatic.com/s/sacramento/v7/buEzpo6gcdjy0EiZMBUG4CMf-A.ttf",
-      "woff2": "https://fonts.gstatic.com/s/sacramento/v7/buEzpo6gcdjy0EiZMBUG4CMf_Q.woff2",
-      "eot": "https://fonts.gstatic.com/s/sacramento/v7/buEzpo6gcdjy0EiZMBUG4CMf-Q.eot",
+      "eot": "https://fonts.gstatic.com/s/sacramento/v8/buEzpo6gcdjy0EiZMBUG4CMf-Q.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=buEzpo6gcdjy0EiZMBUG4CMf-g&skey=81ec871a4d9062d2&v=v8#Sacramento",
+      "woff": "https://fonts.gstatic.com/s/sacramento/v8/buEzpo6gcdjy0EiZMBUG4CMf-w.woff",
+      "ttf": "https://fonts.gstatic.com/s/sacramento/v8/buEzpo6gcdjy0EiZMBUG4CMf-A.ttf",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "handwriting",
-  "version": "v7",
-  "lastModified": "2019-07-16",
-  "popularity": 153,
+  "version": "v8",
+  "lastModified": "2020-09-02",
+  "popularity": 143,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

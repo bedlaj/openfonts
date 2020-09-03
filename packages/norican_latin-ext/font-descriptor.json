@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/norican/v8/MwQ2bhXp1eSBqjkPKJtbtQ.woff2",
+      "woff": "https://fonts.gstatic.com/s/norican/v9/MwQ2bhXp1eSBqjkPKJtbsw.woff",
       "fontFamily": "'Norican'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Norican Regular",
         "Norican-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/norican/v8/MwQ2bhXp1eSBqjkPKJtbsQ.eot",
-      "ttf": "https://fonts.gstatic.com/s/norican/v8/MwQ2bhXp1eSBqjkPKJtbsA.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=MwQ2bhXp1eSBqjkPKJtbsg&skey=7e98b520a4dd1a90&v=v8#Norican",
-      "woff": "https://fonts.gstatic.com/s/norican/v8/MwQ2bhXp1eSBqjkPKJtbsw.woff",
+      "eot": "https://fonts.gstatic.com/s/norican/v9/MwQ2bhXp1eSBqjkPKJtbsQ.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=MwQ2bhXp1eSBqjkPKJtbsg&skey=7e98b520a4dd1a90&v=v9#Norican",
+      "woff2": "https://fonts.gstatic.com/s/norican/v9/MwQ2bhXp1eSBqjkPKJtbtQ.woff2",
+      "ttf": "https://fonts.gstatic.com/s/norican/v9/MwQ2bhXp1eSBqjkPKJtbsA.ttf",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "handwriting",
-  "version": "v8",
-  "lastModified": "2019-07-16",
-  "popularity": 374,
+  "version": "v9",
+  "lastModified": "2020-09-02",
+  "popularity": 387,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

@@ -4,35 +4,35 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/marckscript/v10/nwpTtK2oNgBA3Or78gapdwuyyCg_.woff2",
+      "eot": "https://fonts.gstatic.com/s/marckscript/v11/nwpTtK2oNgBA3Or78gapdwuyyCg7.eot",
       "fontFamily": "'Marck Script'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/marckscript/v11/nwpTtK2oNgBA3Or78gapdwuyyCg5.woff",
       "local": [
         "Marck Script",
         "MarckScript-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/marckscript/v10/nwpTtK2oNgBA3Or78gapdwuyyCg5.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=nwpTtK2oNgBA3Or78gapdwuyyCg4&skey=5f8a9188ebf1b8e9&v=v10#MarckScript",
-      "eot": "https://fonts.gstatic.com/s/marckscript/v10/nwpTtK2oNgBA3Or78gapdwuyyCg7.eot",
-      "ttf": "https://fonts.gstatic.com/s/marckscript/v10/nwpTtK2oNgBA3Or78gapdwuyyCg6.ttf",
+      "woff2": "https://fonts.gstatic.com/s/marckscript/v11/nwpTtK2oNgBA3Or78gapdwuyyCg_.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=nwpTtK2oNgBA3Or78gapdwuyyCg4&skey=5f8a9188ebf1b8e9&v=v11#MarckScript",
+      "ttf": "https://fonts.gstatic.com/s/marckscript/v11/nwpTtK2oNgBA3Or78gapdwuyyCg6.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
     "cyrillic",
+    "latin",
     "latin-ext"
   ],
   "category": "handwriting",
-  "version": "v10",
-  "lastModified": "2019-07-16",
-  "popularity": 194,
+  "version": "v11",
+  "lastModified": "2020-09-02",
+  "popularity": 213,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
     "cyrillic": false,
+    "latin": true,
     "latin-ext": false
   },
   "storeID": "latin"

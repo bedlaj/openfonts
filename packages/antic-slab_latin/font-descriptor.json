@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/anticslab/v8/bWt97fPFfRzkCa9Jlp6IacVcWQ.ttf",
+      "woff": "https://fonts.gstatic.com/s/anticslab/v9/bWt97fPFfRzkCa9Jlp6IacVcWg.woff",
       "fontFamily": "'Antic Slab'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Antic Slab Regular",
         "AnticSlab-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/anticslab/v8/bWt97fPFfRzkCa9Jlp6IacVcWg.woff",
-      "woff2": "https://fonts.gstatic.com/s/anticslab/v8/bWt97fPFfRzkCa9Jlp6IacVcXA.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=bWt97fPFfRzkCa9Jlp6IacVcWw&skey=2a7d5f3ad329463a&v=v8#AnticSlab",
-      "eot": "https://fonts.gstatic.com/s/anticslab/v8/bWt97fPFfRzkCa9Jlp6IacVcWA.eot",
+      "woff2": "https://fonts.gstatic.com/s/anticslab/v9/bWt97fPFfRzkCa9Jlp6IacVcXA.woff2",
+      "eot": "https://fonts.gstatic.com/s/anticslab/v9/bWt97fPFfRzkCa9Jlp6IacVcWA.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=bWt97fPFfRzkCa9Jlp6IacVcWw&skey=2a7d5f3ad329463a&v=v9#AnticSlab",
+      "ttf": "https://fonts.gstatic.com/s/anticslab/v9/bWt97fPFfRzkCa9Jlp6IacVcWQ.ttf",
       "errored": false
     }
   ],
@@ -23,9 +23,9 @@
     "latin"
   ],
   "category": "serif",
-  "version": "v8",
-  "lastModified": "2019-07-16",
-  "popularity": 273,
+  "version": "v9",
+  "lastModified": "2020-09-02",
+  "popularity": 88,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

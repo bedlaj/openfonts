@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/harmattan/v6/goksH6L2DkFvVvRp9XpjSUqk.woff",
+      "woff2": "https://fonts.gstatic.com/s/harmattan/v9/goksH6L2DkFvVvRp9XpjSUqi.woff2",
       "fontFamily": "'Harmattan'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,26 +12,44 @@
         "Harmattan",
         "Harmattan-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/harmattan/v6/goksH6L2DkFvVvRp9XpjSUqn.ttf",
-      "woff2": "https://fonts.gstatic.com/s/harmattan/v6/goksH6L2DkFvVvRp9XpjSUqi.woff2",
-      "eot": "https://fonts.gstatic.com/s/harmattan/v6/goksH6L2DkFvVvRp9XpjSUqm.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=goksH6L2DkFvVvRp9XpjSUql&skey=455aa37d69b7e881&v=v6#Harmattan",
+      "eot": "https://fonts.gstatic.com/s/harmattan/v9/goksH6L2DkFvVvRp9XpjSUqm.eot",
+      "woff": "https://fonts.gstatic.com/s/harmattan/v9/goksH6L2DkFvVvRp9XpjSUqk.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=goksH6L2DkFvVvRp9XpjSUql&skey=455aa37d69b7e881&v=v9#Harmattan",
+      "ttf": "https://fonts.gstatic.com/s/harmattan/v9/goksH6L2DkFvVvRp9XpjSUqn.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/harmattan/v9/gokpH6L2DkFvVvRp9Xpr92-3mtxB.eot",
+      "fontFamily": "'Harmattan'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff2": "https://fonts.gstatic.com/s/harmattan/v9/gokpH6L2DkFvVvRp9Xpr92-3mtxF.woff2",
+      "local": [
+        "Harmattan Bold",
+        "Harmattan-Bold"
+      ],
+      "woff": "https://fonts.gstatic.com/s/harmattan/v9/gokpH6L2DkFvVvRp9Xpr92-3mtxD.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=gokpH6L2DkFvVvRp9Xpr92-3mtxC&skey=e78db0f27125f9f1&v=v9#Harmattan",
+      "ttf": "https://fonts.gstatic.com/s/harmattan/v9/gokpH6L2DkFvVvRp9Xpr92-3mtxA.ttf",
       "errored": false
     }
   ],
   "subsets": [
     "arabic",
-    "latin"
+    "latin",
+    "latin-ext"
   ],
   "category": "sans-serif",
-  "version": "v6",
-  "lastModified": "2019-07-16",
-  "popularity": 548,
+  "version": "v9",
+  "lastModified": "2020-09-02",
+  "popularity": 481,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "arabic": true,
-    "latin": true
+    "latin": true,
+    "latin-ext": false
   },
   "storeID": "latin_arabic"
 }

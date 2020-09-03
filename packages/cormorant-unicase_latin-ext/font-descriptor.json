@@ -4,23 +4,39 @@
   "variants": [
     {
       "id": "300",
-      "eot": "https://fonts.gstatic.com/s/cormorantunicase/v8/HI_ViZUaILtOqhqgDeXoF_n1_fTGX9N_ttcm5mk.eot",
+      "woff": "https://fonts.gstatic.com/s/cormorantunicase/v9/HI_ViZUaILtOqhqgDeXoF_n1_fTGX9N_ttcm5ms.woff",
       "fontFamily": "'Cormorant Unicase'",
       "fontStyle": "normal",
       "fontWeight": "300",
-      "woff": "https://fonts.gstatic.com/s/cormorantunicase/v8/HI_ViZUaILtOqhqgDeXoF_n1_fTGX9N_ttcm5ms.woff",
       "local": [
         "Cormorant Unicase Light",
         "CormorantUnicase-Light"
       ],
-      "woff2": "https://fonts.gstatic.com/s/cormorantunicase/v8/HI_ViZUaILtOqhqgDeXoF_n1_fTGX9N_ttcm5m0.woff2",
-      "ttf": "https://fonts.gstatic.com/s/cormorantunicase/v8/HI_ViZUaILtOqhqgDeXoF_n1_fTGX9N_ttcm5mg.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=HI_ViZUaILtOqhqgDeXoF_n1_fTGX9N_ttcm5mo&skey=18d98ec96ab6d046&v=v8#CormorantUnicase",
+      "eot": "https://fonts.gstatic.com/s/cormorantunicase/v9/HI_ViZUaILtOqhqgDeXoF_n1_fTGX9N_ttcm5mk.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=HI_ViZUaILtOqhqgDeXoF_n1_fTGX9N_ttcm5mo&skey=18d98ec96ab6d046&v=v9#CormorantUnicase",
+      "woff2": "https://fonts.gstatic.com/s/cormorantunicase/v9/HI_ViZUaILtOqhqgDeXoF_n1_fTGX9N_ttcm5m0.woff2",
+      "ttf": "https://fonts.gstatic.com/s/cormorantunicase/v9/HI_ViZUaILtOqhqgDeXoF_n1_fTGX9N_ttcm5mg.ttf",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/cormorantunicase/v9/HI_QiZUaILtOqhqgDeXoF_n1_fTGX9valMY.eot",
+      "fontFamily": "'Cormorant Unicase'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/cormorantunicase/v9/HI_QiZUaILtOqhqgDeXoF_n1_fTGX9valMQ.woff",
+      "local": [
+        "Cormorant Unicase Regular",
+        "CormorantUnicase-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/cormorantunicase/v9/HI_QiZUaILtOqhqgDeXoF_n1_fTGX9valMI.woff2",
+      "ttf": "https://fonts.gstatic.com/s/cormorantunicase/v9/HI_QiZUaILtOqhqgDeXoF_n1_fTGX9valMc.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=HI_QiZUaILtOqhqgDeXoF_n1_fTGX9valMU&skey=bf63b41c202e7150&v=v9#CormorantUnicase",
       "errored": false
     },
     {
       "id": "500",
-      "woff2": "https://fonts.gstatic.com/s/cormorantunicase/v8/HI_ViZUaILtOqhqgDeXoF_n1_fTGX9Mnt9cm5m0.woff2",
+      "woff2": "https://fonts.gstatic.com/s/cormorantunicase/v9/HI_ViZUaILtOqhqgDeXoF_n1_fTGX9Mnt9cm5m0.woff2",
       "fontFamily": "'Cormorant Unicase'",
       "fontStyle": "normal",
       "fontWeight": "500",
@@ -28,80 +44,64 @@
         "Cormorant Unicase Medium",
         "CormorantUnicase-Medium"
       ],
-      "eot": "https://fonts.gstatic.com/s/cormorantunicase/v8/HI_ViZUaILtOqhqgDeXoF_n1_fTGX9Mnt9cm5mk.eot",
-      "woff": "https://fonts.gstatic.com/s/cormorantunicase/v8/HI_ViZUaILtOqhqgDeXoF_n1_fTGX9Mnt9cm5ms.woff",
-      "ttf": "https://fonts.gstatic.com/s/cormorantunicase/v8/HI_ViZUaILtOqhqgDeXoF_n1_fTGX9Mnt9cm5mg.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=HI_ViZUaILtOqhqgDeXoF_n1_fTGX9Mnt9cm5mo&skey=ec1f95dcc37c8c7c&v=v8#CormorantUnicase",
-      "errored": false
-    },
-    {
-      "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/cormorantunicase/v8/HI_QiZUaILtOqhqgDeXoF_n1_fTGX9valMY.eot",
-      "fontFamily": "'Cormorant Unicase'",
-      "fontStyle": "normal",
-      "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/cormorantunicase/v8/HI_QiZUaILtOqhqgDeXoF_n1_fTGX9valMI.woff2",
-      "local": [
-        "Cormorant Unicase Regular",
-        "CormorantUnicase-Regular"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=HI_QiZUaILtOqhqgDeXoF_n1_fTGX9valMU&skey=bf63b41c202e7150&v=v8#CormorantUnicase",
-      "woff": "https://fonts.gstatic.com/s/cormorantunicase/v8/HI_QiZUaILtOqhqgDeXoF_n1_fTGX9valMQ.woff",
-      "ttf": "https://fonts.gstatic.com/s/cormorantunicase/v8/HI_QiZUaILtOqhqgDeXoF_n1_fTGX9valMc.ttf",
+      "woff": "https://fonts.gstatic.com/s/cormorantunicase/v9/HI_ViZUaILtOqhqgDeXoF_n1_fTGX9Mnt9cm5ms.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=HI_ViZUaILtOqhqgDeXoF_n1_fTGX9Mnt9cm5mo&skey=ec1f95dcc37c8c7c&v=v9#CormorantUnicase",
+      "ttf": "https://fonts.gstatic.com/s/cormorantunicase/v9/HI_ViZUaILtOqhqgDeXoF_n1_fTGX9Mnt9cm5mg.ttf",
+      "eot": "https://fonts.gstatic.com/s/cormorantunicase/v9/HI_ViZUaILtOqhqgDeXoF_n1_fTGX9Mnt9cm5mk.eot",
       "errored": false
     },
     {
       "id": "600",
-      "woff2": "https://fonts.gstatic.com/s/cormorantunicase/v8/HI_ViZUaILtOqhqgDeXoF_n1_fTGX9MLsNcm5m0.woff2",
+      "eot": "https://fonts.gstatic.com/s/cormorantunicase/v9/HI_ViZUaILtOqhqgDeXoF_n1_fTGX9MLsNcm5mk.eot",
       "fontFamily": "'Cormorant Unicase'",
       "fontStyle": "normal",
       "fontWeight": "600",
+      "woff": "https://fonts.gstatic.com/s/cormorantunicase/v9/HI_ViZUaILtOqhqgDeXoF_n1_fTGX9MLsNcm5ms.woff",
       "local": [
         "Cormorant Unicase SemiBold",
         "CormorantUnicase-SemiBold"
       ],
-      "woff": "https://fonts.gstatic.com/s/cormorantunicase/v8/HI_ViZUaILtOqhqgDeXoF_n1_fTGX9MLsNcm5ms.woff",
-      "eot": "https://fonts.gstatic.com/s/cormorantunicase/v8/HI_ViZUaILtOqhqgDeXoF_n1_fTGX9MLsNcm5mk.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=HI_ViZUaILtOqhqgDeXoF_n1_fTGX9MLsNcm5mo&skey=11970fa560cef00d&v=v8#CormorantUnicase",
-      "ttf": "https://fonts.gstatic.com/s/cormorantunicase/v8/HI_ViZUaILtOqhqgDeXoF_n1_fTGX9MLsNcm5mg.ttf",
+      "woff2": "https://fonts.gstatic.com/s/cormorantunicase/v9/HI_ViZUaILtOqhqgDeXoF_n1_fTGX9MLsNcm5m0.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=HI_ViZUaILtOqhqgDeXoF_n1_fTGX9MLsNcm5mo&skey=11970fa560cef00d&v=v9#CormorantUnicase",
+      "ttf": "https://fonts.gstatic.com/s/cormorantunicase/v9/HI_ViZUaILtOqhqgDeXoF_n1_fTGX9MLsNcm5mg.ttf",
       "errored": false
     },
     {
       "id": "700",
-      "woff": "https://fonts.gstatic.com/s/cormorantunicase/v8/HI_ViZUaILtOqhqgDeXoF_n1_fTGX9Nvsdcm5ms.woff",
+      "eot": "https://fonts.gstatic.com/s/cormorantunicase/v9/HI_ViZUaILtOqhqgDeXoF_n1_fTGX9Nvsdcm5mk.eot",
       "fontFamily": "'Cormorant Unicase'",
       "fontStyle": "normal",
       "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/cormorantunicase/v9/HI_ViZUaILtOqhqgDeXoF_n1_fTGX9Nvsdcm5ms.woff",
       "local": [
         "Cormorant Unicase Bold",
         "CormorantUnicase-Bold"
       ],
-      "eot": "https://fonts.gstatic.com/s/cormorantunicase/v8/HI_ViZUaILtOqhqgDeXoF_n1_fTGX9Nvsdcm5mk.eot",
-      "woff2": "https://fonts.gstatic.com/s/cormorantunicase/v8/HI_ViZUaILtOqhqgDeXoF_n1_fTGX9Nvsdcm5m0.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=HI_ViZUaILtOqhqgDeXoF_n1_fTGX9Nvsdcm5mo&skey=a156c753a4db3d87&v=v8#CormorantUnicase",
-      "ttf": "https://fonts.gstatic.com/s/cormorantunicase/v8/HI_ViZUaILtOqhqgDeXoF_n1_fTGX9Nvsdcm5mg.ttf",
+      "woff2": "https://fonts.gstatic.com/s/cormorantunicase/v9/HI_ViZUaILtOqhqgDeXoF_n1_fTGX9Nvsdcm5m0.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=HI_ViZUaILtOqhqgDeXoF_n1_fTGX9Nvsdcm5mo&skey=a156c753a4db3d87&v=v9#CormorantUnicase",
+      "ttf": "https://fonts.gstatic.com/s/cormorantunicase/v9/HI_ViZUaILtOqhqgDeXoF_n1_fTGX9Nvsdcm5mg.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "vietnamese",
-    "latin",
-    "cyrillic-ext",
     "cyrillic",
-    "latin-ext"
+    "cyrillic-ext",
+    "latin",
+    "latin-ext",
+    "vietnamese"
   ],
   "category": "serif",
-  "version": "v8",
-  "lastModified": "2019-07-16",
-  "popularity": 597,
+  "version": "v9",
+  "lastModified": "2020-09-02",
+  "popularity": 816,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "vietnamese": false,
-    "latin": true,
-    "cyrillic-ext": false,
     "cyrillic": false,
-    "latin-ext": true
+    "cyrillic-ext": false,
+    "latin": true,
+    "latin-ext": true,
+    "vietnamese": false
   },
   "storeID": "latin-ext_latin"
 }

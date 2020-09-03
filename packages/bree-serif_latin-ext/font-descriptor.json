@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/breeserif/v9/4UaHrEJCrhhnVA3DgluA96Tp4Q.woff",
+      "eot": "https://fonts.gstatic.com/s/breeserif/v10/4UaHrEJCrhhnVA3DgluA96Tp4w.eot",
       "fontFamily": "'Bree Serif'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/breeserif/v10/4UaHrEJCrhhnVA3DgluA96Tp4Q.woff",
       "local": [
         "Bree Serif Regular",
         "BreeSerif-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/breeserif/v9/4UaHrEJCrhhnVA3DgluA96Tp5w.woff2",
-      "ttf": "https://fonts.gstatic.com/s/breeserif/v9/4UaHrEJCrhhnVA3DgluA96Tp4g.ttf",
-      "eot": "https://fonts.gstatic.com/s/breeserif/v9/4UaHrEJCrhhnVA3DgluA96Tp4w.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=4UaHrEJCrhhnVA3DgluA96Tp4A&skey=31c3ad25dd3d74b0&v=v9#BreeSerif",
+      "woff2": "https://fonts.gstatic.com/s/breeserif/v10/4UaHrEJCrhhnVA3DgluA96Tp5w.woff2",
+      "ttf": "https://fonts.gstatic.com/s/breeserif/v10/4UaHrEJCrhhnVA3DgluA96Tp4g.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=4UaHrEJCrhhnVA3DgluA96Tp4A&skey=31c3ad25dd3d74b0&v=v10#BreeSerif",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "serif",
-  "version": "v9",
-  "lastModified": "2019-07-17",
-  "popularity": 69,
+  "version": "v10",
+  "lastModified": "2020-09-02",
+  "popularity": 87,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

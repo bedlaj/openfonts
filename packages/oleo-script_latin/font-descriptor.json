@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/oleoscript/v8/rax5HieDvtMOe0iICsUccChdu0k.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=rax5HieDvtMOe0iICsUccChdu0g&skey=d18666d540079220&v=v9#OleoScript",
       "fontFamily": "'Oleo Script'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,15 +12,15 @@
         "Oleo Script",
         "OleoScript-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/oleoscript/v8/rax5HieDvtMOe0iICsUccChdu0s.eot",
-      "ttf": "https://fonts.gstatic.com/s/oleoscript/v8/rax5HieDvtMOe0iICsUccChdu0o.ttf",
-      "woff2": "https://fonts.gstatic.com/s/oleoscript/v8/rax5HieDvtMOe0iICsUccChdu08.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=rax5HieDvtMOe0iICsUccChdu0g&skey=d18666d540079220&v=v8#OleoScript",
+      "eot": "https://fonts.gstatic.com/s/oleoscript/v9/rax5HieDvtMOe0iICsUccChdu0s.eot",
+      "woff": "https://fonts.gstatic.com/s/oleoscript/v9/rax5HieDvtMOe0iICsUccChdu0k.woff",
+      "woff2": "https://fonts.gstatic.com/s/oleoscript/v9/rax5HieDvtMOe0iICsUccChdu08.woff2",
+      "ttf": "https://fonts.gstatic.com/s/oleoscript/v9/rax5HieDvtMOe0iICsUccChdu0o.ttf",
       "errored": false
     },
     {
       "id": "700",
-      "ttf": "https://fonts.gstatic.com/s/oleoscript/v8/raxkHieDvtMOe0iICsUccCDmnlrf0T4.ttf",
+      "woff2": "https://fonts.gstatic.com/s/oleoscript/v9/raxkHieDvtMOe0iICsUccCDmnlrf0Ts.woff2",
       "fontFamily": "'Oleo Script'",
       "fontStyle": "normal",
       "fontWeight": "700",
@@ -28,10 +28,10 @@
         "Oleo Script Bold",
         "OleoScript-Bold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/oleoscript/v8/raxkHieDvtMOe0iICsUccCDmnlrf0Ts.woff2",
-      "woff": "https://fonts.gstatic.com/s/oleoscript/v8/raxkHieDvtMOe0iICsUccCDmnlrf0T0.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=raxkHieDvtMOe0iICsUccCDmnlrf0Tw&skey=425bc780e3a5e191&v=v8#OleoScript",
-      "eot": "https://fonts.gstatic.com/s/oleoscript/v8/raxkHieDvtMOe0iICsUccCDmnlrf0T8.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=raxkHieDvtMOe0iICsUccCDmnlrf0Tw&skey=425bc780e3a5e191&v=v9#OleoScript",
+      "ttf": "https://fonts.gstatic.com/s/oleoscript/v9/raxkHieDvtMOe0iICsUccCDmnlrf0T4.ttf",
+      "eot": "https://fonts.gstatic.com/s/oleoscript/v9/raxkHieDvtMOe0iICsUccCDmnlrf0T8.eot",
+      "woff": "https://fonts.gstatic.com/s/oleoscript/v9/raxkHieDvtMOe0iICsUccCDmnlrf0T0.woff",
       "errored": false
     }
   ],
@@ -40,9 +40,9 @@
     "latin-ext"
   ],
   "category": "display",
-  "version": "v8",
-  "lastModified": "2019-07-16",
-  "popularity": 253,
+  "version": "v9",
+  "lastModified": "2020-09-02",
+  "popularity": 235,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

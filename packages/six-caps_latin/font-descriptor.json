@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/sixcaps/v10/6ae_4KGrU7VR7bNmaYcV_3I.woff",
+      "eot": "https://fonts.gstatic.com/s/sixcaps/v11/6ae_4KGrU7VR7bNmaYcV_3A.eot",
       "fontFamily": "'Six Caps'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/sixcaps/v11/6ae_4KGrU7VR7bNmaYcV_3Q.woff2",
       "local": [
         "Six Caps",
         "SixCaps"
       ],
-      "eot": "https://fonts.gstatic.com/s/sixcaps/v10/6ae_4KGrU7VR7bNmaYcV_3A.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=6ae_4KGrU7VR7bNmaYcV_3M&skey=71e00ad30dbb0507&v=v10#SixCaps",
-      "ttf": "https://fonts.gstatic.com/s/sixcaps/v10/6ae_4KGrU7VR7bNmaYcV_3E.ttf",
-      "woff2": "https://fonts.gstatic.com/s/sixcaps/v10/6ae_4KGrU7VR7bNmaYcV_3Q.woff2",
+      "ttf": "https://fonts.gstatic.com/s/sixcaps/v11/6ae_4KGrU7VR7bNmaYcV_3E.ttf",
+      "woff": "https://fonts.gstatic.com/s/sixcaps/v11/6ae_4KGrU7VR7bNmaYcV_3I.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=6ae_4KGrU7VR7bNmaYcV_3M&skey=71e00ad30dbb0507&v=v11#SixCaps",
       "errored": false
     }
   ],
@@ -23,9 +23,9 @@
     "latin"
   ],
   "category": "sans-serif",
-  "version": "v10",
-  "lastModified": "2019-07-16",
-  "popularity": 458,
+  "version": "v11",
+  "lastModified": "2020-09-02",
+  "popularity": 399,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

@@ -4,23 +4,23 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/charmonman/v3/MjQDmiR3vP_nuxDv47jiaJiiuA.ttf",
+      "eot": "https://fonts.gstatic.com/s/charmonman/v4/MjQDmiR3vP_nuxDv47jiaJiiuQ.eot",
       "fontFamily": "'Charmonman'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/charmonman/v4/MjQDmiR3vP_nuxDv47jiaJiivQ.woff2",
       "local": [
         "Charmonman Regular",
         "Charmonman-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/charmonman/v3/MjQDmiR3vP_nuxDv47jiaJiiuw.woff",
-      "eot": "https://fonts.gstatic.com/s/charmonman/v3/MjQDmiR3vP_nuxDv47jiaJiiuQ.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=MjQDmiR3vP_nuxDv47jiaJiiug&skey=ec7d9de60d8da527&v=v3#Charmonman",
-      "woff2": "https://fonts.gstatic.com/s/charmonman/v3/MjQDmiR3vP_nuxDv47jiaJiivQ.woff2",
+      "ttf": "https://fonts.gstatic.com/s/charmonman/v4/MjQDmiR3vP_nuxDv47jiaJiiuA.ttf",
+      "woff": "https://fonts.gstatic.com/s/charmonman/v4/MjQDmiR3vP_nuxDv47jiaJiiuw.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=MjQDmiR3vP_nuxDv47jiaJiiug&skey=ec7d9de60d8da527&v=v4#Charmonman",
       "errored": false
     },
     {
       "id": "700",
-      "woff": "https://fonts.gstatic.com/s/charmonman/v3/MjQAmiR3vP_nuxDv47jiYC2HqLZA8w.woff",
+      "woff": "https://fonts.gstatic.com/s/charmonman/v4/MjQAmiR3vP_nuxDv47jiYC2HqLZA8w.woff",
       "fontFamily": "'Charmonman'",
       "fontStyle": "normal",
       "fontWeight": "700",
@@ -28,30 +28,30 @@
         "Charmonman Bold",
         "Charmonman-Bold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/charmonman/v3/MjQAmiR3vP_nuxDv47jiYC2HqLZA9Q.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=MjQAmiR3vP_nuxDv47jiYC2HqLZA8g&skey=b984f529c1aa8e40&v=v3#Charmonman",
-      "ttf": "https://fonts.gstatic.com/s/charmonman/v3/MjQAmiR3vP_nuxDv47jiYC2HqLZA8A.ttf",
-      "eot": "https://fonts.gstatic.com/s/charmonman/v3/MjQAmiR3vP_nuxDv47jiYC2HqLZA8Q.eot",
+      "eot": "https://fonts.gstatic.com/s/charmonman/v4/MjQAmiR3vP_nuxDv47jiYC2HqLZA8Q.eot",
+      "woff2": "https://fonts.gstatic.com/s/charmonman/v4/MjQAmiR3vP_nuxDv47jiYC2HqLZA9Q.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=MjQAmiR3vP_nuxDv47jiYC2HqLZA8g&skey=b984f529c1aa8e40&v=v4#Charmonman",
+      "ttf": "https://fonts.gstatic.com/s/charmonman/v4/MjQAmiR3vP_nuxDv47jiYC2HqLZA8A.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "thai",
     "latin",
-    "vietnamese",
-    "latin-ext"
+    "latin-ext",
+    "thai",
+    "vietnamese"
   ],
   "category": "handwriting",
-  "version": "v3",
-  "lastModified": "2019-11-05",
-  "popularity": 812,
+  "version": "v4",
+  "lastModified": "2020-09-02",
+  "popularity": 814,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "thai": false,
     "latin": true,
-    "vietnamese": false,
-    "latin-ext": true
+    "latin-ext": true,
+    "thai": false,
+    "vietnamese": false
   },
   "storeID": "latin-ext_latin"
 }

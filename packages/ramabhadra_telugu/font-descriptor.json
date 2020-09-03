@@ -4,33 +4,33 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/ramabhadra/v9/EYq2maBOwqRW9P1SQ83LSghMXg.woff2",
+      "woff2": "https://fonts.gstatic.com/s/ramabhadra/v10/EYq2maBOwqRW9P1SQ83LSghMXg.woff2",
       "fontFamily": "'Ramabhadra'",
       "fontStyle": "normal",
       "fontWeight": "400",
       "local": [
         "Ramabhadra"
       ],
-      "woff": "https://fonts.gstatic.com/s/ramabhadra/v9/EYq2maBOwqRW9P1SQ83LSghMWA.woff",
-      "ttf": "https://fonts.gstatic.com/s/ramabhadra/v9/EYq2maBOwqRW9P1SQ83LSghMWw.ttf",
-      "eot": "https://fonts.gstatic.com/s/ramabhadra/v9/EYq2maBOwqRW9P1SQ83LSghMWg.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=EYq2maBOwqRW9P1SQ83LSghMWQ&skey=e9d5795f78cdacfa&v=v9#Ramabhadra",
+      "eot": "https://fonts.gstatic.com/s/ramabhadra/v10/EYq2maBOwqRW9P1SQ83LSghMWg.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=EYq2maBOwqRW9P1SQ83LSghMWQ&skey=e9d5795f78cdacfa&v=v10#Ramabhadra",
+      "ttf": "https://fonts.gstatic.com/s/ramabhadra/v10/EYq2maBOwqRW9P1SQ83LSghMWw.ttf",
+      "woff": "https://fonts.gstatic.com/s/ramabhadra/v10/EYq2maBOwqRW9P1SQ83LSghMWA.woff",
       "errored": false
     }
   ],
   "subsets": [
-    "telugu",
-    "latin"
+    "latin",
+    "telugu"
   ],
   "category": "sans-serif",
-  "version": "v9",
-  "lastModified": "2019-07-16",
-  "popularity": 498,
+  "version": "v10",
+  "lastModified": "2020-09-02",
+  "popularity": 182,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "telugu": true,
-    "latin": true
+    "latin": true,
+    "telugu": true
   },
-  "storeID": "latin_telugu"
+  "storeID": "telugu_latin"
 }

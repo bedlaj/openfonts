@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/capriola/v7/wXKoE3YSppcvo1PDlk_1JeU.eot",
+      "woff2": "https://fonts.gstatic.com/s/capriola/v8/wXKoE3YSppcvo1PDlk_1JeE.woff2",
       "fontFamily": "'Capriola'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/capriola/v7/wXKoE3YSppcvo1PDlk_1Jec.woff",
       "local": [
         "Capriola Regular",
         "Capriola-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/capriola/v7/wXKoE3YSppcvo1PDlk_1JeQ.ttf",
-      "woff2": "https://fonts.gstatic.com/s/capriola/v7/wXKoE3YSppcvo1PDlk_1JeE.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=wXKoE3YSppcvo1PDlk_1JeY&skey=83aefc9bb99aedde&v=v7#Capriola",
+      "ttf": "https://fonts.gstatic.com/s/capriola/v8/wXKoE3YSppcvo1PDlk_1JeQ.ttf",
+      "woff": "https://fonts.gstatic.com/s/capriola/v8/wXKoE3YSppcvo1PDlk_1Jec.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=wXKoE3YSppcvo1PDlk_1JeY&skey=83aefc9bb99aedde&v=v8#Capriola",
+      "eot": "https://fonts.gstatic.com/s/capriola/v8/wXKoE3YSppcvo1PDlk_1JeU.eot",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "sans-serif",
-  "version": "v7",
-  "lastModified": "2019-07-16",
-  "popularity": 413,
+  "version": "v8",
+  "lastModified": "2020-09-02",
+  "popularity": 320,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

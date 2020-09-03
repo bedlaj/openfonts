@@ -4,33 +4,33 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/fondamento/v10/4UaHrEJGsxNmFTPDnkaJ96rp4w.eot",
+      "woff": "https://fonts.gstatic.com/s/fondamento/v11/4UaHrEJGsxNmFTPDnkaJ96rp4Q.woff",
       "fontFamily": "'Fondamento'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/fondamento/v10/4UaHrEJGsxNmFTPDnkaJ96rp5w.woff2",
       "local": [
         "Fondamento Regular",
         "Fondamento-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/fondamento/v10/4UaHrEJGsxNmFTPDnkaJ96rp4g.ttf",
-      "woff": "https://fonts.gstatic.com/s/fondamento/v10/4UaHrEJGsxNmFTPDnkaJ96rp4Q.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=4UaHrEJGsxNmFTPDnkaJ96rp4A&skey=33bcda47da77a40b&v=v10#Fondamento",
+      "eot": "https://fonts.gstatic.com/s/fondamento/v11/4UaHrEJGsxNmFTPDnkaJ96rp4w.eot",
+      "ttf": "https://fonts.gstatic.com/s/fondamento/v11/4UaHrEJGsxNmFTPDnkaJ96rp4g.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=4UaHrEJGsxNmFTPDnkaJ96rp4A&skey=33bcda47da77a40b&v=v11#Fondamento",
+      "woff2": "https://fonts.gstatic.com/s/fondamento/v11/4UaHrEJGsxNmFTPDnkaJ96rp5w.woff2",
       "errored": false
     },
     {
       "id": "italic",
-      "ttf": "https://fonts.gstatic.com/s/fondamento/v10/4UaFrEJGsxNmFTPDnkaJ96_Z5bt0.ttf",
+      "woff2": "https://fonts.gstatic.com/s/fondamento/v11/4UaFrEJGsxNmFTPDnkaJ96_Z5btx.woff2",
       "fontFamily": "'Fondamento'",
       "fontStyle": "italic",
       "fontWeight": "400",
       "local": [
         "Fondamento-Italic"
       ],
-      "woff": "https://fonts.gstatic.com/s/fondamento/v10/4UaFrEJGsxNmFTPDnkaJ96_Z5bt3.woff",
-      "woff2": "https://fonts.gstatic.com/s/fondamento/v10/4UaFrEJGsxNmFTPDnkaJ96_Z5btx.woff2",
-      "eot": "https://fonts.gstatic.com/s/fondamento/v10/4UaFrEJGsxNmFTPDnkaJ96_Z5bt1.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=4UaFrEJGsxNmFTPDnkaJ96_Z5bt2&skey=456138419774c965&v=v10#Fondamento",
+      "svg": "https://fonts.gstatic.com/l/font?kit=4UaFrEJGsxNmFTPDnkaJ96_Z5bt2&skey=456138419774c965&v=v11#Fondamento",
+      "woff": "https://fonts.gstatic.com/s/fondamento/v11/4UaFrEJGsxNmFTPDnkaJ96_Z5bt3.woff",
+      "eot": "https://fonts.gstatic.com/s/fondamento/v11/4UaFrEJGsxNmFTPDnkaJ96_Z5bt1.eot",
+      "ttf": "https://fonts.gstatic.com/s/fondamento/v11/4UaFrEJGsxNmFTPDnkaJ96_Z5bt0.ttf",
       "errored": false
     }
   ],
@@ -39,9 +39,9 @@
     "latin-ext"
   ],
   "category": "handwriting",
-  "version": "v10",
-  "lastModified": "2019-07-16",
-  "popularity": 514,
+  "version": "v11",
+  "lastModified": "2020-09-02",
+  "popularity": 586,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

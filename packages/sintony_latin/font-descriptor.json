@@ -4,22 +4,22 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/sintony/v7/XoHm2YDqR7-98cVUETMtvA.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=XoHm2YDqR7-98cVUETMtvQ&skey=426d22ccedcca3b&v=v8#Sintony",
       "fontFamily": "'Sintony'",
       "fontStyle": "normal",
       "fontWeight": "400",
       "local": [
         "Sintony"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=XoHm2YDqR7-98cVUETMtvQ&skey=426d22ccedcca3b&v=v7#Sintony",
-      "woff2": "https://fonts.gstatic.com/s/sintony/v7/XoHm2YDqR7-98cVUETMtug.woff2",
-      "eot": "https://fonts.gstatic.com/s/sintony/v7/XoHm2YDqR7-98cVUETMtvg.eot",
-      "ttf": "https://fonts.gstatic.com/s/sintony/v7/XoHm2YDqR7-98cVUETMtvw.ttf",
+      "woff": "https://fonts.gstatic.com/s/sintony/v8/XoHm2YDqR7-98cVUETMtvA.woff",
+      "eot": "https://fonts.gstatic.com/s/sintony/v8/XoHm2YDqR7-98cVUETMtvg.eot",
+      "woff2": "https://fonts.gstatic.com/s/sintony/v8/XoHm2YDqR7-98cVUETMtug.woff2",
+      "ttf": "https://fonts.gstatic.com/s/sintony/v8/XoHm2YDqR7-98cVUETMtvw.ttf",
       "errored": false
     },
     {
       "id": "700",
-      "woff": "https://fonts.gstatic.com/s/sintony/v7/XoHj2YDqR7-98cVUGYgIr9AJlQ.woff",
+      "woff": "https://fonts.gstatic.com/s/sintony/v8/XoHj2YDqR7-98cVUGYgIr9AJlQ.woff",
       "fontFamily": "'Sintony'",
       "fontStyle": "normal",
       "fontWeight": "700",
@@ -27,10 +27,10 @@
         "Sintony Bold",
         "Sintony-Bold"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=XoHj2YDqR7-98cVUGYgIr9AJlA&skey=902240db7073dc70&v=v7#Sintony",
-      "woff2": "https://fonts.gstatic.com/s/sintony/v7/XoHj2YDqR7-98cVUGYgIr9AJkw.woff2",
-      "ttf": "https://fonts.gstatic.com/s/sintony/v7/XoHj2YDqR7-98cVUGYgIr9AJlg.ttf",
-      "eot": "https://fonts.gstatic.com/s/sintony/v7/XoHj2YDqR7-98cVUGYgIr9AJlw.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=XoHj2YDqR7-98cVUGYgIr9AJlA&skey=902240db7073dc70&v=v8#Sintony",
+      "eot": "https://fonts.gstatic.com/s/sintony/v8/XoHj2YDqR7-98cVUGYgIr9AJlw.eot",
+      "woff2": "https://fonts.gstatic.com/s/sintony/v8/XoHj2YDqR7-98cVUGYgIr9AJkw.woff2",
+      "ttf": "https://fonts.gstatic.com/s/sintony/v8/XoHj2YDqR7-98cVUGYgIr9AJlg.ttf",
       "errored": false
     }
   ],
@@ -39,9 +39,9 @@
     "latin-ext"
   ],
   "category": "sans-serif",
-  "version": "v7",
-  "lastModified": "2019-07-16",
-  "popularity": 256,
+  "version": "v8",
+  "lastModified": "2020-09-02",
+  "popularity": 294,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/gochihand/v10/hES06XlsOjtJsgCkx1Pkfon__w.eot",
+      "woff": "https://fonts.gstatic.com/s/gochihand/v11/hES06XlsOjtJsgCkx1Pkfon__Q.woff",
       "fontFamily": "'Gochi Hand'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "ttf": "https://fonts.gstatic.com/s/gochihand/v10/hES06XlsOjtJsgCkx1Pkfon__g.ttf",
       "local": [
         "Gochi Hand",
         "GochiHand-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=hES06XlsOjtJsgCkx1Pkfon__A&skey=2623c44f4d0c9cf8&v=v10#GochiHand",
-      "woff": "https://fonts.gstatic.com/s/gochihand/v10/hES06XlsOjtJsgCkx1Pkfon__Q.woff",
-      "woff2": "https://fonts.gstatic.com/s/gochihand/v10/hES06XlsOjtJsgCkx1Pkfon_-w.woff2",
+      "woff2": "https://fonts.gstatic.com/s/gochihand/v11/hES06XlsOjtJsgCkx1Pkfon_-w.woff2",
+      "ttf": "https://fonts.gstatic.com/s/gochihand/v11/hES06XlsOjtJsgCkx1Pkfon__g.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=hES06XlsOjtJsgCkx1Pkfon__A&skey=2623c44f4d0c9cf8&v=v11#GochiHand",
+      "eot": "https://fonts.gstatic.com/s/gochihand/v11/hES06XlsOjtJsgCkx1Pkfon__w.eot",
       "errored": false
     }
   ],
@@ -23,9 +23,9 @@
     "latin"
   ],
   "category": "handwriting",
-  "version": "v10",
-  "lastModified": "2019-07-16",
-  "popularity": 249,
+  "version": "v11",
+  "lastModified": "2020-09-02",
+  "popularity": 244,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

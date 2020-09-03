@@ -3,40 +3,8 @@
   "family": "Halant",
   "variants": [
     {
-      "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/halant/v7/u-4-0qaujRI2PbsX2g.woff2",
-      "fontFamily": "'Halant'",
-      "fontStyle": "normal",
-      "fontWeight": "400",
-      "local": [
-        "Halant Regular",
-        "Halant-Regular"
-      ],
-      "woff": "https://fonts.gstatic.com/s/halant/v7/u-4-0qaujRI2PbsX3A.woff",
-      "eot": "https://fonts.gstatic.com/s/halant/v7/u-4-0qaujRI2PbsX3g.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=u-4-0qaujRI2PbsX3Q&skey=1d23a673749ae7ff&v=v7#Halant",
-      "ttf": "https://fonts.gstatic.com/s/halant/v7/u-4-0qaujRI2PbsX3w.ttf",
-      "errored": false
-    },
-    {
-      "id": "500",
-      "woff": "https://fonts.gstatic.com/s/halant/v7/u-490qaujRI2PbsvK_tCmA.woff",
-      "fontFamily": "'Halant'",
-      "fontStyle": "normal",
-      "fontWeight": "500",
-      "local": [
-        "Halant Medium",
-        "Halant-Medium"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/halant/v7/u-490qaujRI2PbsvK_tCng.woff2",
-      "eot": "https://fonts.gstatic.com/s/halant/v7/u-490qaujRI2PbsvK_tCmg.eot",
-      "ttf": "https://fonts.gstatic.com/s/halant/v7/u-490qaujRI2PbsvK_tCmw.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=u-490qaujRI2PbsvK_tCmQ&skey=156a3c14db18c3e0&v=v7#Halant",
-      "errored": false
-    },
-    {
       "id": "300",
-      "woff": "https://fonts.gstatic.com/s/halant/v7/u-490qaujRI2Pbsvc_pCmA.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=u-490qaujRI2Pbsvc_pCmQ&skey=9ff3b9b305c6e001&v=v8#Halant",
       "fontFamily": "'Halant'",
       "fontStyle": "normal",
       "fontWeight": "300",
@@ -44,42 +12,74 @@
         "Halant Light",
         "Halant-Light"
       ],
-      "eot": "https://fonts.gstatic.com/s/halant/v7/u-490qaujRI2Pbsvc_pCmg.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=u-490qaujRI2Pbsvc_pCmQ&skey=9ff3b9b305c6e001&v=v7#Halant",
-      "ttf": "https://fonts.gstatic.com/s/halant/v7/u-490qaujRI2Pbsvc_pCmw.ttf",
-      "woff2": "https://fonts.gstatic.com/s/halant/v7/u-490qaujRI2Pbsvc_pCng.woff2",
+      "eot": "https://fonts.gstatic.com/s/halant/v8/u-490qaujRI2Pbsvc_pCmg.eot",
+      "woff": "https://fonts.gstatic.com/s/halant/v8/u-490qaujRI2Pbsvc_pCmA.woff",
+      "woff2": "https://fonts.gstatic.com/s/halant/v8/u-490qaujRI2Pbsvc_pCng.woff2",
+      "ttf": "https://fonts.gstatic.com/s/halant/v8/u-490qaujRI2Pbsvc_pCmw.ttf",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "woff": "https://fonts.gstatic.com/s/halant/v8/u-4-0qaujRI2PbsX3A.woff",
+      "fontFamily": "'Halant'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "local": [
+        "Halant Regular",
+        "Halant-Regular"
+      ],
+      "eot": "https://fonts.gstatic.com/s/halant/v8/u-4-0qaujRI2PbsX3g.eot",
+      "woff2": "https://fonts.gstatic.com/s/halant/v8/u-4-0qaujRI2PbsX2g.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=u-4-0qaujRI2PbsX3Q&skey=1d23a673749ae7ff&v=v8#Halant",
+      "ttf": "https://fonts.gstatic.com/s/halant/v8/u-4-0qaujRI2PbsX3w.ttf",
+      "errored": false
+    },
+    {
+      "id": "500",
+      "woff": "https://fonts.gstatic.com/s/halant/v8/u-490qaujRI2PbsvK_tCmA.woff",
+      "fontFamily": "'Halant'",
+      "fontStyle": "normal",
+      "fontWeight": "500",
+      "local": [
+        "Halant Medium",
+        "Halant-Medium"
+      ],
+      "eot": "https://fonts.gstatic.com/s/halant/v8/u-490qaujRI2PbsvK_tCmg.eot",
+      "woff2": "https://fonts.gstatic.com/s/halant/v8/u-490qaujRI2PbsvK_tCng.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=u-490qaujRI2PbsvK_tCmQ&skey=156a3c14db18c3e0&v=v8#Halant",
+      "ttf": "https://fonts.gstatic.com/s/halant/v8/u-490qaujRI2PbsvK_tCmw.ttf",
       "errored": false
     },
     {
       "id": "600",
-      "eot": "https://fonts.gstatic.com/s/halant/v7/u-490qaujRI2PbsvB_xCmg.eot",
+      "woff2": "https://fonts.gstatic.com/s/halant/v8/u-490qaujRI2PbsvB_xCng.woff2",
       "fontFamily": "'Halant'",
       "fontStyle": "normal",
       "fontWeight": "600",
-      "woff": "https://fonts.gstatic.com/s/halant/v7/u-490qaujRI2PbsvB_xCmA.woff",
       "local": [
         "Halant SemiBold",
         "Halant-SemiBold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/halant/v7/u-490qaujRI2PbsvB_xCng.woff2",
-      "ttf": "https://fonts.gstatic.com/s/halant/v7/u-490qaujRI2PbsvB_xCmw.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=u-490qaujRI2PbsvB_xCmQ&skey=398f3452b33c6ab0&v=v7#Halant",
+      "woff": "https://fonts.gstatic.com/s/halant/v8/u-490qaujRI2PbsvB_xCmA.woff",
+      "eot": "https://fonts.gstatic.com/s/halant/v8/u-490qaujRI2PbsvB_xCmg.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=u-490qaujRI2PbsvB_xCmQ&skey=398f3452b33c6ab0&v=v8#Halant",
+      "ttf": "https://fonts.gstatic.com/s/halant/v8/u-490qaujRI2PbsvB_xCmw.ttf",
       "errored": false
     },
     {
       "id": "700",
-      "eot": "https://fonts.gstatic.com/s/halant/v7/u-490qaujRI2PbsvY_1Cmg.eot",
+      "eot": "https://fonts.gstatic.com/s/halant/v8/u-490qaujRI2PbsvY_1Cmg.eot",
       "fontFamily": "'Halant'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/halant/v7/u-490qaujRI2PbsvY_1CmA.woff",
+      "woff2": "https://fonts.gstatic.com/s/halant/v8/u-490qaujRI2PbsvY_1Cng.woff2",
       "local": [
         "Halant Bold",
         "Halant-Bold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/halant/v7/u-490qaujRI2PbsvY_1Cng.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=u-490qaujRI2PbsvY_1CmQ&skey=c35b97d69a3e339d&v=v7#Halant",
-      "ttf": "https://fonts.gstatic.com/s/halant/v7/u-490qaujRI2PbsvY_1Cmw.ttf",
+      "woff": "https://fonts.gstatic.com/s/halant/v8/u-490qaujRI2PbsvY_1CmA.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=u-490qaujRI2PbsvY_1CmQ&skey=c35b97d69a3e339d&v=v8#Halant",
+      "ttf": "https://fonts.gstatic.com/s/halant/v8/u-490qaujRI2PbsvY_1Cmw.ttf",
       "errored": false
     }
   ],
@@ -89,9 +89,9 @@
     "latin-ext"
   ],
   "category": "serif",
-  "version": "v7",
-  "lastModified": "2019-07-16",
-  "popularity": 394,
+  "version": "v8",
+  "lastModified": "2020-09-02",
+  "popularity": 389,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

@@ -4,36 +4,36 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/lexendexa/v1/UMBXrPdOoHOnxExyjdBeWis.eot",
+      "woff2": "https://fonts.gstatic.com/s/lexendexa/v2/UMBXrPdOoHOnxExyjdBeWi8.woff2",
       "fontFamily": "'Lexend Exa'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/lexendexa/v1/UMBXrPdOoHOnxExyjdBeWik.woff",
       "local": [
         "Lexend Exa Regular",
         "LexendExa-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/lexendexa/v1/UMBXrPdOoHOnxExyjdBeWi8.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=UMBXrPdOoHOnxExyjdBeWig&skey=2b8d663f338010ea&v=v1#LexendExa",
-      "ttf": "https://fonts.gstatic.com/s/lexendexa/v1/UMBXrPdOoHOnxExyjdBeWio.ttf",
+      "woff": "https://fonts.gstatic.com/s/lexendexa/v2/UMBXrPdOoHOnxExyjdBeWik.woff",
+      "ttf": "https://fonts.gstatic.com/s/lexendexa/v2/UMBXrPdOoHOnxExyjdBeWio.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=UMBXrPdOoHOnxExyjdBeWig&skey=2b8d663f338010ea&v=v2#LexendExa",
+      "eot": "https://fonts.gstatic.com/s/lexendexa/v2/UMBXrPdOoHOnxExyjdBeWis.eot",
       "errored": false
     }
   ],
   "subsets": [
     "latin",
-    "vietnamese",
-    "latin-ext"
+    "latin-ext",
+    "vietnamese"
   ],
   "category": "sans-serif",
-  "version": "v1",
-  "lastModified": "2020-03-03",
-  "popularity": 898,
+  "version": "v2",
+  "lastModified": "2020-09-02",
+  "popularity": 879,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "latin": true,
-    "vietnamese": true,
-    "latin-ext": true
+    "latin-ext": true,
+    "vietnamese": true
   },
-  "storeID": "latin-ext_vietnamese_latin"
+  "storeID": "vietnamese_latin-ext_latin"
 }

@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=OZpHg_txtzZKMuXLIVrx-0zg5Eo&skey=2b188dc93b25e0f1&v=v8#Oranienbaum",
+      "woff": "https://fonts.gstatic.com/s/oranienbaum/v9/OZpHg_txtzZKMuXLIVrx-0zg5Es.woff",
       "fontFamily": "'Oranienbaum'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,29 +12,29 @@
         "Oranienbaum",
         "Oranienbaum-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/oranienbaum/v8/OZpHg_txtzZKMuXLIVrx-0zg5Es.woff",
-      "eot": "https://fonts.gstatic.com/s/oranienbaum/v8/OZpHg_txtzZKMuXLIVrx-0zg5Ek.eot",
-      "ttf": "https://fonts.gstatic.com/s/oranienbaum/v8/OZpHg_txtzZKMuXLIVrx-0zg5Eg.ttf",
-      "woff2": "https://fonts.gstatic.com/s/oranienbaum/v8/OZpHg_txtzZKMuXLIVrx-0zg5E0.woff2",
+      "ttf": "https://fonts.gstatic.com/s/oranienbaum/v9/OZpHg_txtzZKMuXLIVrx-0zg5Eg.ttf",
+      "eot": "https://fonts.gstatic.com/s/oranienbaum/v9/OZpHg_txtzZKMuXLIVrx-0zg5Ek.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=OZpHg_txtzZKMuXLIVrx-0zg5Eo&skey=2b188dc93b25e0f1&v=v9#Oranienbaum",
+      "woff2": "https://fonts.gstatic.com/s/oranienbaum/v9/OZpHg_txtzZKMuXLIVrx-0zg5E0.woff2",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
-    "cyrillic-ext",
     "cyrillic",
+    "cyrillic-ext",
+    "latin",
     "latin-ext"
   ],
   "category": "serif",
-  "version": "v8",
-  "lastModified": "2019-07-16",
-  "popularity": 334,
+  "version": "v9",
+  "lastModified": "2020-09-02",
+  "popularity": 408,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
-    "cyrillic-ext": false,
     "cyrillic": false,
+    "cyrillic-ext": false,
+    "latin": true,
     "latin-ext": false
   },
   "storeID": "latin"

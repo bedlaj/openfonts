@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/volkhov/v11/SlGQmQieoJcKemNecTUEgw.woff",
+      "ttf": "https://fonts.gstatic.com/s/volkhov/v12/SlGQmQieoJcKemNecTUEgA.ttf",
       "fontFamily": "'Volkhov'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,31 +12,15 @@
         "Volkhov Regular",
         "Volkhov-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=SlGQmQieoJcKemNecTUEgg&skey=444dc578d18e6bac&v=v11#Volkhov",
-      "eot": "https://fonts.gstatic.com/s/volkhov/v11/SlGQmQieoJcKemNecTUEgQ.eot",
-      "ttf": "https://fonts.gstatic.com/s/volkhov/v11/SlGQmQieoJcKemNecTUEgA.ttf",
-      "woff2": "https://fonts.gstatic.com/s/volkhov/v11/SlGQmQieoJcKemNecTUEhQ.woff2",
-      "errored": false
-    },
-    {
-      "id": "700",
-      "eot": "https://fonts.gstatic.com/s/volkhov/v11/SlGVmQieoJcKemNeeY4hkHNSaQ.eot",
-      "fontFamily": "'Volkhov'",
-      "fontStyle": "normal",
-      "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/volkhov/v11/SlGVmQieoJcKemNeeY4hkHNSaw.woff",
-      "local": [
-        "Volkhov Bold",
-        "Volkhov-Bold"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/volkhov/v11/SlGVmQieoJcKemNeeY4hkHNSbQ.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=SlGVmQieoJcKemNeeY4hkHNSag&skey=974524461d5f6d87&v=v11#Volkhov",
-      "ttf": "https://fonts.gstatic.com/s/volkhov/v11/SlGVmQieoJcKemNeeY4hkHNSaA.ttf",
+      "woff2": "https://fonts.gstatic.com/s/volkhov/v12/SlGQmQieoJcKemNecTUEhQ.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=SlGQmQieoJcKemNecTUEgg&skey=444dc578d18e6bac&v=v12#Volkhov",
+      "eot": "https://fonts.gstatic.com/s/volkhov/v12/SlGQmQieoJcKemNecTUEgQ.eot",
+      "woff": "https://fonts.gstatic.com/s/volkhov/v12/SlGQmQieoJcKemNecTUEgw.woff",
       "errored": false
     },
     {
       "id": "italic",
-      "woff": "https://fonts.gstatic.com/s/volkhov/v11/SlGSmQieoJcKemNecTA0h1Rx.woff",
+      "woff": "https://fonts.gstatic.com/s/volkhov/v12/SlGSmQieoJcKemNecTA0h1Rx.woff",
       "fontFamily": "'Volkhov'",
       "fontStyle": "italic",
       "fontWeight": "400",
@@ -44,26 +28,42 @@
         "Volkhov Italic",
         "Volkhov-Italic"
       ],
-      "woff2": "https://fonts.gstatic.com/s/volkhov/v11/SlGSmQieoJcKemNecTA0h1R3.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=SlGSmQieoJcKemNecTA0h1Rw&skey=f879100610bfe100&v=v11#Volkhov",
-      "eot": "https://fonts.gstatic.com/s/volkhov/v11/SlGSmQieoJcKemNecTA0h1Rz.eot",
-      "ttf": "https://fonts.gstatic.com/s/volkhov/v11/SlGSmQieoJcKemNecTA0h1Ry.ttf",
+      "woff2": "https://fonts.gstatic.com/s/volkhov/v12/SlGSmQieoJcKemNecTA0h1R3.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=SlGSmQieoJcKemNecTA0h1Rw&skey=f879100610bfe100&v=v12#Volkhov",
+      "ttf": "https://fonts.gstatic.com/s/volkhov/v12/SlGSmQieoJcKemNecTA0h1Ry.ttf",
+      "eot": "https://fonts.gstatic.com/s/volkhov/v12/SlGSmQieoJcKemNecTA0h1Rz.eot",
       "errored": false
     },
     {
       "id": "700italic",
-      "eot": "https://fonts.gstatic.com/s/volkhov/v11/SlGXmQieoJcKemNecTA8PHFibxwU.eot",
+      "eot": "https://fonts.gstatic.com/s/volkhov/v12/SlGXmQieoJcKemNecTA8PHFibxwU.eot",
       "fontFamily": "'Volkhov'",
       "fontStyle": "italic",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/volkhov/v11/SlGXmQieoJcKemNecTA8PHFibxwW.woff",
+      "woff": "https://fonts.gstatic.com/s/volkhov/v12/SlGXmQieoJcKemNecTA8PHFibxwW.woff",
       "local": [
         "Volkhov Bold Italic",
         "Volkhov-BoldItalic"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=SlGXmQieoJcKemNecTA8PHFibxwX&skey=290e38931bde6fdd&v=v11#Volkhov",
-      "woff2": "https://fonts.gstatic.com/s/volkhov/v11/SlGXmQieoJcKemNecTA8PHFibxwQ.woff2",
-      "ttf": "https://fonts.gstatic.com/s/volkhov/v11/SlGXmQieoJcKemNecTA8PHFibxwV.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=SlGXmQieoJcKemNecTA8PHFibxwX&skey=290e38931bde6fdd&v=v12#Volkhov",
+      "ttf": "https://fonts.gstatic.com/s/volkhov/v12/SlGXmQieoJcKemNecTA8PHFibxwV.ttf",
+      "woff2": "https://fonts.gstatic.com/s/volkhov/v12/SlGXmQieoJcKemNecTA8PHFibxwQ.woff2",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/volkhov/v12/SlGVmQieoJcKemNeeY4hkHNSaQ.eot",
+      "fontFamily": "'Volkhov'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/volkhov/v12/SlGVmQieoJcKemNeeY4hkHNSaw.woff",
+      "local": [
+        "Volkhov Bold",
+        "Volkhov-Bold"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=SlGVmQieoJcKemNeeY4hkHNSag&skey=974524461d5f6d87&v=v12#Volkhov",
+      "ttf": "https://fonts.gstatic.com/s/volkhov/v12/SlGVmQieoJcKemNeeY4hkHNSaA.ttf",
+      "woff2": "https://fonts.gstatic.com/s/volkhov/v12/SlGVmQieoJcKemNeeY4hkHNSbQ.woff2",
       "errored": false
     }
   ],
@@ -71,9 +71,9 @@
     "latin"
   ],
   "category": "serif",
-  "version": "v11",
-  "lastModified": "2019-07-17",
-  "popularity": 141,
+  "version": "v12",
+  "lastModified": "2020-09-02",
+  "popularity": 147,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

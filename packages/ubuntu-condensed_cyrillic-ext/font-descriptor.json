@@ -4,42 +4,42 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/ubuntucondensed/v10/u-4k0rCzjgs5J7oXnJcM_0kACGMtT-3fqw.woff2",
+      "eot": "https://fonts.gstatic.com/s/ubuntucondensed/v11/u-4k0rCzjgs5J7oXnJcM_0kACGMtT-3frw.eot",
       "fontFamily": "'Ubuntu Condensed'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/ubuntucondensed/v11/u-4k0rCzjgs5J7oXnJcM_0kACGMtT-3frQ.woff",
       "local": [
         "Ubuntu Condensed",
         "UbuntuCondensed-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/ubuntucondensed/v10/u-4k0rCzjgs5J7oXnJcM_0kACGMtT-3frw.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=u-4k0rCzjgs5J7oXnJcM_0kACGMtT-3frA&skey=aeebafbe63d33be9&v=v10#UbuntuCondensed",
-      "ttf": "https://fonts.gstatic.com/s/ubuntucondensed/v10/u-4k0rCzjgs5J7oXnJcM_0kACGMtT-3frg.ttf",
-      "woff": "https://fonts.gstatic.com/s/ubuntucondensed/v10/u-4k0rCzjgs5J7oXnJcM_0kACGMtT-3frQ.woff",
+      "woff2": "https://fonts.gstatic.com/s/ubuntucondensed/v11/u-4k0rCzjgs5J7oXnJcM_0kACGMtT-3fqw.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=u-4k0rCzjgs5J7oXnJcM_0kACGMtT-3frA&skey=aeebafbe63d33be9&v=v11#UbuntuCondensed",
+      "ttf": "https://fonts.gstatic.com/s/ubuntucondensed/v11/u-4k0rCzjgs5J7oXnJcM_0kACGMtT-3frg.ttf",
       "errored": false
     }
   ],
   "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
     "greek",
     "greek-ext",
     "latin",
-    "cyrillic-ext",
-    "cyrillic",
     "latin-ext"
   ],
   "category": "sans-serif",
-  "version": "v10",
-  "lastModified": "2019-07-17",
-  "popularity": 82,
+  "version": "v11",
+  "lastModified": "2020-09-02",
+  "popularity": 121,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
+    "cyrillic": false,
+    "cyrillic-ext": true,
     "greek": false,
     "greek-ext": false,
     "latin": true,
-    "cyrillic-ext": true,
-    "cyrillic": false,
     "latin-ext": false
   },
-  "storeID": "cyrillic-ext_latin"
+  "storeID": "latin_cyrillic-ext"
 }

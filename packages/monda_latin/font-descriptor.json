@@ -4,34 +4,34 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/monda/v9/TK3tWkYFABsmjsphPh4.eot",
+      "eot": "https://fonts.gstatic.com/s/monda/v10/TK3tWkYFABsmjsphPh4.eot",
       "fontFamily": "'Monda'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "ttf": "https://fonts.gstatic.com/s/monda/v9/TK3tWkYFABsmjsphPh8.ttf",
+      "woff2": "https://fonts.gstatic.com/s/monda/v10/TK3tWkYFABsmjsphPho.woff2",
       "local": [
         "Monda Regular",
         "Monda-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/monda/v9/TK3tWkYFABsmjsphPho.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=TK3tWkYFABsmjsphPh0&skey=12b74b97e719c11d&v=v9#Monda",
-      "woff": "https://fonts.gstatic.com/s/monda/v9/TK3tWkYFABsmjsphPhw.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=TK3tWkYFABsmjsphPh0&skey=12b74b97e719c11d&v=v10#Monda",
+      "woff": "https://fonts.gstatic.com/s/monda/v10/TK3tWkYFABsmjsphPhw.woff",
+      "ttf": "https://fonts.gstatic.com/s/monda/v10/TK3tWkYFABsmjsphPh8.ttf",
       "errored": false
     },
     {
       "id": "700",
-      "ttf": "https://fonts.gstatic.com/s/monda/v9/TK3gWkYFABsmjsLaGw8Ene8.ttf",
+      "eot": "https://fonts.gstatic.com/s/monda/v10/TK3gWkYFABsmjsLaGw8Ene4.eot",
       "fontFamily": "'Monda'",
       "fontStyle": "normal",
       "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/monda/v10/TK3gWkYFABsmjsLaGw8Enew.woff",
       "local": [
         "Monda Bold",
         "Monda-Bold"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=TK3gWkYFABsmjsLaGw8Ene0&skey=4703d5044a52a024&v=v9#Monda",
-      "woff": "https://fonts.gstatic.com/s/monda/v9/TK3gWkYFABsmjsLaGw8Enew.woff",
-      "eot": "https://fonts.gstatic.com/s/monda/v9/TK3gWkYFABsmjsLaGw8Ene4.eot",
-      "woff2": "https://fonts.gstatic.com/s/monda/v9/TK3gWkYFABsmjsLaGw8Eneo.woff2",
+      "woff2": "https://fonts.gstatic.com/s/monda/v10/TK3gWkYFABsmjsLaGw8Eneo.woff2",
+      "ttf": "https://fonts.gstatic.com/s/monda/v10/TK3gWkYFABsmjsLaGw8Ene8.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=TK3gWkYFABsmjsLaGw8Ene0&skey=4703d5044a52a024&v=v10#Monda",
       "errored": false
     }
   ],
@@ -40,9 +40,9 @@
     "latin-ext"
   ],
   "category": "sans-serif",
-  "version": "v9",
-  "lastModified": "2019-07-17",
-  "popularity": 54,
+  "version": "v10",
+  "lastModified": "2020-09-02",
+  "popularity": 90,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

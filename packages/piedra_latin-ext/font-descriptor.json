@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=ke8kOg8aN0Bn7hTelUaB&skey=d83c4402d5b65d6a&v=v8#Piedra",
+      "ttf": "https://fonts.gstatic.com/s/piedra/v9/ke8kOg8aN0Bn7hTelUaD.ttf",
       "fontFamily": "'Piedra'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Piedra Regular",
         "Piedra-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/piedra/v8/ke8kOg8aN0Bn7hTelUaA.woff",
-      "ttf": "https://fonts.gstatic.com/s/piedra/v8/ke8kOg8aN0Bn7hTelUaD.ttf",
-      "eot": "https://fonts.gstatic.com/s/piedra/v8/ke8kOg8aN0Bn7hTelUaC.eot",
-      "woff2": "https://fonts.gstatic.com/s/piedra/v8/ke8kOg8aN0Bn7hTelUaG.woff2",
+      "woff2": "https://fonts.gstatic.com/s/piedra/v9/ke8kOg8aN0Bn7hTelUaG.woff2",
+      "woff": "https://fonts.gstatic.com/s/piedra/v9/ke8kOg8aN0Bn7hTelUaA.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=ke8kOg8aN0Bn7hTelUaB&skey=d83c4402d5b65d6a&v=v9#Piedra",
+      "eot": "https://fonts.gstatic.com/s/piedra/v9/ke8kOg8aN0Bn7hTelUaC.eot",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "display",
-  "version": "v8",
-  "lastModified": "2019-07-16",
-  "popularity": 859,
+  "version": "v9",
+  "lastModified": "2020-09-02",
+  "popularity": 536,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

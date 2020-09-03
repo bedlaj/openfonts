@@ -4,41 +4,41 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/didactgothic/v13/ahcfv8qz1zt6hCC5G4F_P4ASlUuYog.eot",
+      "woff2": "https://fonts.gstatic.com/s/didactgothic/v14/ahcfv8qz1zt6hCC5G4F_P4ASlUuYpg.woff2",
       "fontFamily": "'Didact Gothic'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/didactgothic/v13/ahcfv8qz1zt6hCC5G4F_P4ASlUuYoA.woff",
       "local": [
         "Didact Gothic Regular",
         "DidactGothic-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=ahcfv8qz1zt6hCC5G4F_P4ASlUuYoQ&skey=21ea6a7f9674c318&v=v13#DidactGothic",
-      "woff2": "https://fonts.gstatic.com/s/didactgothic/v13/ahcfv8qz1zt6hCC5G4F_P4ASlUuYpg.woff2",
-      "ttf": "https://fonts.gstatic.com/s/didactgothic/v13/ahcfv8qz1zt6hCC5G4F_P4ASlUuYow.ttf",
+      "woff": "https://fonts.gstatic.com/s/didactgothic/v14/ahcfv8qz1zt6hCC5G4F_P4ASlUuYoA.woff",
+      "eot": "https://fonts.gstatic.com/s/didactgothic/v14/ahcfv8qz1zt6hCC5G4F_P4ASlUuYog.eot",
+      "ttf": "https://fonts.gstatic.com/s/didactgothic/v14/ahcfv8qz1zt6hCC5G4F_P4ASlUuYow.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=ahcfv8qz1zt6hCC5G4F_P4ASlUuYoQ&skey=21ea6a7f9674c318&v=v14#DidactGothic",
       "errored": false
     }
   ],
   "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
     "greek",
     "greek-ext",
     "latin",
-    "cyrillic-ext",
-    "cyrillic",
     "latin-ext"
   ],
   "category": "sans-serif",
-  "version": "v13",
-  "lastModified": "2019-07-17",
-  "popularity": 147,
+  "version": "v14",
+  "lastModified": "2020-09-02",
+  "popularity": 151,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
+    "cyrillic": false,
+    "cyrillic-ext": false,
     "greek": false,
     "greek-ext": false,
     "latin": true,
-    "cyrillic-ext": false,
-    "cyrillic": false,
     "latin-ext": false
   },
   "storeID": "latin"

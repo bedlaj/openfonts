@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/arapey/v8/-W__XJn-UDDA2RCKYNoY.ttf",
+      "woff2": "https://fonts.gstatic.com/s/arapey/v9/-W__XJn-UDDA2RCKYNod.woff2",
       "fontFamily": "'Arapey'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,26 +12,26 @@
         "Arapey Regular",
         "Arapey-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/arapey/v8/-W__XJn-UDDA2RCKYNoZ.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=-W__XJn-UDDA2RCKYNoa&skey=72771e7dd1745eb0&v=v8#Arapey",
-      "woff": "https://fonts.gstatic.com/s/arapey/v8/-W__XJn-UDDA2RCKYNob.woff",
-      "woff2": "https://fonts.gstatic.com/s/arapey/v8/-W__XJn-UDDA2RCKYNod.woff2",
+      "woff": "https://fonts.gstatic.com/s/arapey/v9/-W__XJn-UDDA2RCKYNob.woff",
+      "ttf": "https://fonts.gstatic.com/s/arapey/v9/-W__XJn-UDDA2RCKYNoY.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=-W__XJn-UDDA2RCKYNoa&skey=72771e7dd1745eb0&v=v9#Arapey",
+      "eot": "https://fonts.gstatic.com/s/arapey/v9/-W__XJn-UDDA2RCKYNoZ.eot",
       "errored": false
     },
     {
       "id": "italic",
-      "eot": "https://fonts.gstatic.com/s/arapey/v8/-W_9XJn-UDDA2RCKZeofTkI.eot",
+      "eot": "https://fonts.gstatic.com/s/arapey/v9/-W_9XJn-UDDA2RCKZeofTkI.eot",
       "fontFamily": "'Arapey'",
       "fontStyle": "italic",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/arapey/v8/-W_9XJn-UDDA2RCKZeofTkA.woff",
+      "woff2": "https://fonts.gstatic.com/s/arapey/v9/-W_9XJn-UDDA2RCKZeofTkY.woff2",
       "local": [
         "Arapey Italic",
         "Arapey-Italic"
       ],
-      "woff2": "https://fonts.gstatic.com/s/arapey/v8/-W_9XJn-UDDA2RCKZeofTkY.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=-W_9XJn-UDDA2RCKZeofTkE&skey=681ef1f751ddde7&v=v8#Arapey",
-      "ttf": "https://fonts.gstatic.com/s/arapey/v8/-W_9XJn-UDDA2RCKZeofTkM.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=-W_9XJn-UDDA2RCKZeofTkE&skey=681ef1f751ddde7&v=v9#Arapey",
+      "woff": "https://fonts.gstatic.com/s/arapey/v9/-W_9XJn-UDDA2RCKZeofTkA.woff",
+      "ttf": "https://fonts.gstatic.com/s/arapey/v9/-W_9XJn-UDDA2RCKZeofTkM.ttf",
       "errored": false
     }
   ],
@@ -39,9 +39,9 @@
     "latin"
   ],
   "category": "serif",
-  "version": "v8",
-  "lastModified": "2019-07-16",
-  "popularity": 178,
+  "version": "v9",
+  "lastModified": "2020-09-02",
+  "popularity": 216,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

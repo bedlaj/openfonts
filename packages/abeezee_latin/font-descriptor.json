@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/abeezee/v13/esDR31xSG-6AGleN2tWkkA.woff2",
+      "ttf": "https://fonts.gstatic.com/s/abeezee/v14/esDR31xSG-6AGleN2tWklQ.ttf",
       "fontFamily": "'ABeeZee'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,26 +12,26 @@
         "ABeeZee Regular",
         "ABeeZee-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=esDR31xSG-6AGleN2tWklw&skey=abecda27d5b3409a&v=v13#ABeeZee",
-      "eot": "https://fonts.gstatic.com/s/abeezee/v13/esDR31xSG-6AGleN2tWklA.eot",
-      "woff": "https://fonts.gstatic.com/s/abeezee/v13/esDR31xSG-6AGleN2tWklg.woff",
-      "ttf": "https://fonts.gstatic.com/s/abeezee/v13/esDR31xSG-6AGleN2tWklQ.ttf",
+      "eot": "https://fonts.gstatic.com/s/abeezee/v14/esDR31xSG-6AGleN2tWklA.eot",
+      "woff": "https://fonts.gstatic.com/s/abeezee/v14/esDR31xSG-6AGleN2tWklg.woff",
+      "woff2": "https://fonts.gstatic.com/s/abeezee/v14/esDR31xSG-6AGleN2tWkkA.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=esDR31xSG-6AGleN2tWklw&skey=abecda27d5b3409a&v=v14#ABeeZee",
       "errored": false
     },
     {
       "id": "italic",
-      "svg": "https://fonts.gstatic.com/l/font?kit=esDT31xSG-6AGleN2tCUkp8E&skey=7e1629e194fe8b7a&v=v13#ABeeZee",
+      "eot": "https://fonts.gstatic.com/s/abeezee/v14/esDT31xSG-6AGleN2tCUkp8H.eot",
       "fontFamily": "'ABeeZee'",
       "fontStyle": "italic",
       "fontWeight": "400",
+      "svg": "https://fonts.gstatic.com/l/font?kit=esDT31xSG-6AGleN2tCUkp8E&skey=7e1629e194fe8b7a&v=v14#ABeeZee",
       "local": [
         "ABeeZee Italic",
         "ABeeZee-Italic"
       ],
-      "woff2": "https://fonts.gstatic.com/s/abeezee/v13/esDT31xSG-6AGleN2tCUkp8D.woff2",
-      "woff": "https://fonts.gstatic.com/s/abeezee/v13/esDT31xSG-6AGleN2tCUkp8F.woff",
-      "eot": "https://fonts.gstatic.com/s/abeezee/v13/esDT31xSG-6AGleN2tCUkp8H.eot",
-      "ttf": "https://fonts.gstatic.com/s/abeezee/v13/esDT31xSG-6AGleN2tCUkp8G.ttf",
+      "ttf": "https://fonts.gstatic.com/s/abeezee/v14/esDT31xSG-6AGleN2tCUkp8G.ttf",
+      "woff": "https://fonts.gstatic.com/s/abeezee/v14/esDT31xSG-6AGleN2tCUkp8F.woff",
+      "woff2": "https://fonts.gstatic.com/s/abeezee/v14/esDT31xSG-6AGleN2tCUkp8D.woff2",
       "errored": false
     }
   ],
@@ -39,9 +39,9 @@
     "latin"
   ],
   "category": "sans-serif",
-  "version": "v13",
-  "lastModified": "2019-07-17",
-  "popularity": 118,
+  "version": "v14",
+  "lastModified": "2020-09-02",
+  "popularity": 115,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

@@ -4,34 +4,34 @@
   "variants": [
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=EYqxmaNOzLlWtsZSScy6UzNu&skey=edf65b5a911839ad&v=v9#RopaSans",
+      "eot": "https://fonts.gstatic.com/s/ropasans/v10/EYqxmaNOzLlWtsZSScy6UzNt.eot",
       "fontFamily": "'Ropa Sans'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff2": "https://fonts.gstatic.com/s/ropasans/v10/EYqxmaNOzLlWtsZSScy6UzNp.woff2",
       "local": [
         "Ropa Sans Regular",
         "RopaSans-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/ropasans/v9/EYqxmaNOzLlWtsZSScy6UzNs.ttf",
-      "eot": "https://fonts.gstatic.com/s/ropasans/v9/EYqxmaNOzLlWtsZSScy6UzNt.eot",
-      "woff": "https://fonts.gstatic.com/s/ropasans/v9/EYqxmaNOzLlWtsZSScy6UzNv.woff",
-      "woff2": "https://fonts.gstatic.com/s/ropasans/v9/EYqxmaNOzLlWtsZSScy6UzNp.woff2",
+      "woff": "https://fonts.gstatic.com/s/ropasans/v10/EYqxmaNOzLlWtsZSScy6UzNv.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=EYqxmaNOzLlWtsZSScy6UzNu&skey=edf65b5a911839ad&v=v10#RopaSans",
+      "ttf": "https://fonts.gstatic.com/s/ropasans/v10/EYqxmaNOzLlWtsZSScy6UzNs.ttf",
       "errored": false
     },
     {
       "id": "italic",
-      "woff": "https://fonts.gstatic.com/s/ropasans/v9/EYq3maNOzLlWtsZSScy6WANle5A.woff",
+      "eot": "https://fonts.gstatic.com/s/ropasans/v10/EYq3maNOzLlWtsZSScy6WANle5I.eot",
       "fontFamily": "'Ropa Sans'",
       "fontStyle": "italic",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/ropasans/v10/EYq3maNOzLlWtsZSScy6WANle5A.woff",
       "local": [
         "Ropa Sans Italic",
         "RopaSans-Italic"
       ],
-      "eot": "https://fonts.gstatic.com/s/ropasans/v9/EYq3maNOzLlWtsZSScy6WANle5I.eot",
-      "woff2": "https://fonts.gstatic.com/s/ropasans/v9/EYq3maNOzLlWtsZSScy6WANle5Y.woff2",
-      "ttf": "https://fonts.gstatic.com/s/ropasans/v9/EYq3maNOzLlWtsZSScy6WANle5M.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=EYq3maNOzLlWtsZSScy6WANle5E&skey=c6198dadd1bf5d82&v=v9#RopaSans",
+      "woff2": "https://fonts.gstatic.com/s/ropasans/v10/EYq3maNOzLlWtsZSScy6WANle5Y.woff2",
+      "ttf": "https://fonts.gstatic.com/s/ropasans/v10/EYq3maNOzLlWtsZSScy6WANle5M.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=EYq3maNOzLlWtsZSScy6WANle5E&skey=c6198dadd1bf5d82&v=v10#RopaSans",
       "errored": false
     }
   ],
@@ -40,9 +40,9 @@
     "latin-ext"
   ],
   "category": "sans-serif",
-  "version": "v9",
-  "lastModified": "2019-07-17",
-  "popularity": 85,
+  "version": "v10",
+  "lastModified": "2020-09-02",
+  "popularity": 162,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

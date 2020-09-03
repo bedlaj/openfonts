@@ -4,36 +4,36 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/bangers/v12/FeVQS0BTqb0h60ACH55Q3A.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=FeVQS0BTqb0h60ACH55Q3w&skey=80f504448509eaf7&v=v13#Bangers",
       "fontFamily": "'Bangers'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/bangers/v12/FeVQS0BTqb0h60ACH55Q2A.woff2",
       "local": [
         "Bangers Regular",
         "Bangers-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=FeVQS0BTqb0h60ACH55Q3w&skey=80f504448509eaf7&v=v12#Bangers",
-      "woff": "https://fonts.gstatic.com/s/bangers/v12/FeVQS0BTqb0h60ACH55Q3g.woff",
-      "ttf": "https://fonts.gstatic.com/s/bangers/v12/FeVQS0BTqb0h60ACH55Q3Q.ttf",
+      "ttf": "https://fonts.gstatic.com/s/bangers/v13/FeVQS0BTqb0h60ACH55Q3Q.ttf",
+      "woff": "https://fonts.gstatic.com/s/bangers/v13/FeVQS0BTqb0h60ACH55Q3g.woff",
+      "eot": "https://fonts.gstatic.com/s/bangers/v13/FeVQS0BTqb0h60ACH55Q3A.eot",
+      "woff2": "https://fonts.gstatic.com/s/bangers/v13/FeVQS0BTqb0h60ACH55Q2A.woff2",
       "errored": false
     }
   ],
   "subsets": [
-    "vietnamese",
     "latin",
-    "latin-ext"
+    "latin-ext",
+    "vietnamese"
   ],
   "category": "display",
-  "version": "v12",
-  "lastModified": "2019-07-16",
-  "popularity": 150,
+  "version": "v13",
+  "lastModified": "2020-09-02",
+  "popularity": 194,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "vietnamese": false,
     "latin": true,
-    "latin-ext": false
+    "latin-ext": false,
+    "vietnamese": false
   },
   "storeID": "latin"
 }

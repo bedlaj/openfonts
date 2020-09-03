@@ -4,33 +4,33 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/suranna/v7/gokuH6ztGkFjWe58hBNTSA.woff",
+      "woff": "https://fonts.gstatic.com/s/suranna/v8/gokuH6ztGkFjWe58hBNTSA.woff",
       "fontFamily": "'Suranna'",
       "fontStyle": "normal",
       "fontWeight": "400",
       "local": [
         "Suranna"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=gokuH6ztGkFjWe58hBNTSQ&skey=a531c6ebfddfa1a3&v=v7#Suranna",
-      "woff2": "https://fonts.gstatic.com/s/suranna/v7/gokuH6ztGkFjWe58hBNTTg.woff2",
-      "ttf": "https://fonts.gstatic.com/s/suranna/v7/gokuH6ztGkFjWe58hBNTSw.ttf",
-      "eot": "https://fonts.gstatic.com/s/suranna/v7/gokuH6ztGkFjWe58hBNTSg.eot",
+      "ttf": "https://fonts.gstatic.com/s/suranna/v8/gokuH6ztGkFjWe58hBNTSw.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=gokuH6ztGkFjWe58hBNTSQ&skey=a531c6ebfddfa1a3&v=v8#Suranna",
+      "eot": "https://fonts.gstatic.com/s/suranna/v8/gokuH6ztGkFjWe58hBNTSg.eot",
+      "woff2": "https://fonts.gstatic.com/s/suranna/v8/gokuH6ztGkFjWe58hBNTTg.woff2",
       "errored": false
     }
   ],
   "subsets": [
-    "telugu",
-    "latin"
+    "latin",
+    "telugu"
   ],
   "category": "serif",
-  "version": "v7",
-  "lastModified": "2019-07-16",
-  "popularity": 384,
+  "version": "v8",
+  "lastModified": "2020-09-02",
+  "popularity": 382,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "telugu": false,
-    "latin": true
+    "latin": true,
+    "telugu": false
   },
   "storeID": "latin"
 }

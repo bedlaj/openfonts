@@ -4,58 +4,58 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/play/v11/6aez4K2oVqwIvto2Gw.eot",
+      "eot": "https://fonts.gstatic.com/s/play/v12/6aez4K2oVqwIvto2Gw.eot",
       "fontFamily": "'Play'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/play/v11/6aez4K2oVqwIvto2GQ.woff",
+      "woff": "https://fonts.gstatic.com/s/play/v12/6aez4K2oVqwIvto2GQ.woff",
       "local": [
         "Play Regular",
         "Play-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/play/v11/6aez4K2oVqwIvto2Hw.woff2",
-      "ttf": "https://fonts.gstatic.com/s/play/v11/6aez4K2oVqwIvto2Gg.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=6aez4K2oVqwIvto2GA&skey=b09c7c1d7347911b&v=v11#Play",
+      "woff2": "https://fonts.gstatic.com/s/play/v12/6aez4K2oVqwIvto2Hw.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=6aez4K2oVqwIvto2GA&skey=b09c7c1d7347911b&v=v12#Play",
+      "ttf": "https://fonts.gstatic.com/s/play/v12/6aez4K2oVqwIvto2Gg.ttf",
       "errored": false
     },
     {
       "id": "700",
-      "woff": "https://fonts.gstatic.com/s/play/v11/6ae84K2oVqwItm4TCp8y3A.woff",
+      "eot": "https://fonts.gstatic.com/s/play/v12/6ae84K2oVqwItm4TCp8y3g.eot",
       "fontFamily": "'Play'",
       "fontStyle": "normal",
       "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/play/v12/6ae84K2oVqwItm4TCp8y3A.woff",
       "local": [
         "Play Bold",
         "Play-Bold"
       ],
-      "eot": "https://fonts.gstatic.com/s/play/v11/6ae84K2oVqwItm4TCp8y3g.eot",
-      "woff2": "https://fonts.gstatic.com/s/play/v11/6ae84K2oVqwItm4TCp8y2g.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=6ae84K2oVqwItm4TCp8y3Q&skey=545b346b46c13d48&v=v11#Play",
-      "ttf": "https://fonts.gstatic.com/s/play/v11/6ae84K2oVqwItm4TCp8y3w.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=6ae84K2oVqwItm4TCp8y3Q&skey=545b346b46c13d48&v=v12#Play",
+      "woff2": "https://fonts.gstatic.com/s/play/v12/6ae84K2oVqwItm4TCp8y2g.woff2",
+      "ttf": "https://fonts.gstatic.com/s/play/v12/6ae84K2oVqwItm4TCp8y3w.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "greek",
-    "vietnamese",
-    "latin",
-    "cyrillic-ext",
     "cyrillic",
-    "latin-ext"
+    "cyrillic-ext",
+    "greek",
+    "latin",
+    "latin-ext",
+    "vietnamese"
   ],
   "category": "sans-serif",
-  "version": "v11",
-  "lastModified": "2019-07-17",
-  "popularity": 90,
+  "version": "v12",
+  "lastModified": "2020-09-02",
+  "popularity": 104,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "greek": false,
-    "vietnamese": true,
-    "latin": true,
-    "cyrillic-ext": false,
     "cyrillic": false,
-    "latin-ext": false
+    "cyrillic-ext": false,
+    "greek": false,
+    "latin": true,
+    "latin-ext": false,
+    "vietnamese": true
   },
-  "storeID": "latin_vietnamese"
+  "storeID": "vietnamese_latin"
 }

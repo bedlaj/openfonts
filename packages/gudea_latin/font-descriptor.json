@@ -4,38 +4,22 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/gudea/v9/neIFzCqgsI0mp9CI_oY.woff",
+      "woff": "https://fonts.gstatic.com/s/gudea/v10/neIFzCqgsI0mp9CI_oY.woff",
       "fontFamily": "'Gudea'",
       "fontStyle": "normal",
       "fontWeight": "400",
       "local": [
         "Gudea"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=neIFzCqgsI0mp9CI_oc&skey=cabc1f7b4ae0fcd9&v=v9#Gudea",
-      "woff2": "https://fonts.gstatic.com/s/gudea/v9/neIFzCqgsI0mp9CI_oA.woff2",
-      "eot": "https://fonts.gstatic.com/s/gudea/v9/neIFzCqgsI0mp9CI_oQ.eot",
-      "ttf": "https://fonts.gstatic.com/s/gudea/v9/neIFzCqgsI0mp9CI_oU.ttf",
-      "errored": false
-    },
-    {
-      "id": "700",
-      "eot": "https://fonts.gstatic.com/s/gudea/v9/neIIzCqgsI0mp9gz25WBFqg.eot",
-      "fontFamily": "'Gudea'",
-      "fontStyle": "normal",
-      "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/gudea/v9/neIIzCqgsI0mp9gz25WBFqo.woff",
-      "local": [
-        "Gudea Bold",
-        "Gudea-Bold"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=neIIzCqgsI0mp9gz25WBFqs&skey=61f6a66f0762939&v=v9#Gudea",
-      "ttf": "https://fonts.gstatic.com/s/gudea/v9/neIIzCqgsI0mp9gz25WBFqk.ttf",
-      "woff2": "https://fonts.gstatic.com/s/gudea/v9/neIIzCqgsI0mp9gz25WBFqw.woff2",
+      "woff2": "https://fonts.gstatic.com/s/gudea/v10/neIFzCqgsI0mp9CI_oA.woff2",
+      "eot": "https://fonts.gstatic.com/s/gudea/v10/neIFzCqgsI0mp9CI_oQ.eot",
+      "ttf": "https://fonts.gstatic.com/s/gudea/v10/neIFzCqgsI0mp9CI_oU.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=neIFzCqgsI0mp9CI_oc&skey=cabc1f7b4ae0fcd9&v=v10#Gudea",
       "errored": false
     },
     {
       "id": "italic",
-      "woff": "https://fonts.gstatic.com/s/gudea/v9/neILzCqgsI0mp9CNzoKmNQ.woff",
+      "woff2": "https://fonts.gstatic.com/s/gudea/v10/neILzCqgsI0mp9CNzoKmMw.woff2",
       "fontFamily": "'Gudea'",
       "fontStyle": "italic",
       "fontWeight": "400",
@@ -43,10 +27,26 @@
         "Gudea Italic",
         "Gudea-Italic"
       ],
-      "ttf": "https://fonts.gstatic.com/s/gudea/v9/neILzCqgsI0mp9CNzoKmNg.ttf",
-      "eot": "https://fonts.gstatic.com/s/gudea/v9/neILzCqgsI0mp9CNzoKmNw.eot",
-      "woff2": "https://fonts.gstatic.com/s/gudea/v9/neILzCqgsI0mp9CNzoKmMw.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=neILzCqgsI0mp9CNzoKmNA&skey=dba7fb2bf51a5d81&v=v9#Gudea",
+      "eot": "https://fonts.gstatic.com/s/gudea/v10/neILzCqgsI0mp9CNzoKmNw.eot",
+      "woff": "https://fonts.gstatic.com/s/gudea/v10/neILzCqgsI0mp9CNzoKmNQ.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=neILzCqgsI0mp9CNzoKmNA&skey=dba7fb2bf51a5d81&v=v10#Gudea",
+      "ttf": "https://fonts.gstatic.com/s/gudea/v10/neILzCqgsI0mp9CNzoKmNg.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/gudea/v10/neIIzCqgsI0mp9gz25WBFqg.eot",
+      "fontFamily": "'Gudea'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/gudea/v10/neIIzCqgsI0mp9gz25WBFqo.woff",
+      "local": [
+        "Gudea Bold",
+        "Gudea-Bold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/gudea/v10/neIIzCqgsI0mp9gz25WBFqw.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=neIIzCqgsI0mp9gz25WBFqs&skey=61f6a66f0762939&v=v10#Gudea",
+      "ttf": "https://fonts.gstatic.com/s/gudea/v10/neIIzCqgsI0mp9gz25WBFqk.ttf",
       "errored": false
     }
   ],
@@ -55,9 +55,9 @@
     "latin-ext"
   ],
   "category": "sans-serif",
-  "version": "v9",
-  "lastModified": "2019-07-16",
-  "popularity": 169,
+  "version": "v10",
+  "lastModified": "2020-09-02",
+  "popularity": 189,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/lexendtera/v1/RrQUbo98_jt_IXnBPwCWtahIT4Q.woff",
+      "woff": "https://fonts.gstatic.com/s/lexendtera/v2/RrQUbo98_jt_IXnBPwCWtahIT4Q.woff",
       "fontFamily": "'Lexend Tera'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,28 +12,28 @@
         "Lexend Tera Regular",
         "LexendTera-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/lexendtera/v1/RrQUbo98_jt_IXnBPwCWtahIT4Y.eot",
-      "woff2": "https://fonts.gstatic.com/s/lexendtera/v1/RrQUbo98_jt_IXnBPwCWtahIT4I.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=RrQUbo98_jt_IXnBPwCWtahIT4U&skey=509996dde9e9c13b&v=v1#LexendTera",
-      "ttf": "https://fonts.gstatic.com/s/lexendtera/v1/RrQUbo98_jt_IXnBPwCWtahIT4c.ttf",
+      "eot": "https://fonts.gstatic.com/s/lexendtera/v2/RrQUbo98_jt_IXnBPwCWtahIT4Y.eot",
+      "woff2": "https://fonts.gstatic.com/s/lexendtera/v2/RrQUbo98_jt_IXnBPwCWtahIT4I.woff2",
+      "ttf": "https://fonts.gstatic.com/s/lexendtera/v2/RrQUbo98_jt_IXnBPwCWtahIT4c.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=RrQUbo98_jt_IXnBPwCWtahIT4U&skey=509996dde9e9c13b&v=v2#LexendTera",
       "errored": false
     }
   ],
   "subsets": [
     "latin",
-    "vietnamese",
-    "latin-ext"
+    "latin-ext",
+    "vietnamese"
   ],
   "category": "sans-serif",
-  "version": "v1",
-  "lastModified": "2020-03-03",
-  "popularity": 966,
+  "version": "v2",
+  "lastModified": "2020-09-02",
+  "popularity": 937,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "latin": true,
-    "vietnamese": true,
-    "latin-ext": false
+    "latin-ext": false,
+    "vietnamese": true
   },
   "storeID": "vietnamese_latin"
 }

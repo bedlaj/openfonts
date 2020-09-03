@@ -4,54 +4,54 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/caveat/v7/Wnz6HAc5bAfYB2Q7YjYc.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Wnz6HAc5bAfYB2Q7YjYf&skey=7833cd5b856b60c9&v=v8#Caveat",
       "fontFamily": "'Caveat'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/caveat/v7/Wnz6HAc5bAfYB2Q7YjYe.woff",
       "local": [
         "Caveat Regular",
         "Caveat-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/caveat/v7/Wnz6HAc5bAfYB2Q7YjYY.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Wnz6HAc5bAfYB2Q7YjYf&skey=7833cd5b856b60c9&v=v7#Caveat",
-      "ttf": "https://fonts.gstatic.com/s/caveat/v7/Wnz6HAc5bAfYB2Q7YjYd.ttf",
+      "woff2": "https://fonts.gstatic.com/s/caveat/v8/Wnz6HAc5bAfYB2Q7YjYY.woff2",
+      "ttf": "https://fonts.gstatic.com/s/caveat/v8/Wnz6HAc5bAfYB2Q7YjYd.ttf",
+      "woff": "https://fonts.gstatic.com/s/caveat/v8/Wnz6HAc5bAfYB2Q7YjYe.woff",
+      "eot": "https://fonts.gstatic.com/s/caveat/v8/Wnz6HAc5bAfYB2Q7YjYc.eot",
       "errored": false
     },
     {
       "id": "700",
-      "eot": "https://fonts.gstatic.com/s/caveat/v7/Wnz5HAc5bAfYB2Qz3RMNoS7V.eot",
+      "woff": "https://fonts.gstatic.com/s/caveat/v8/Wnz5HAc5bAfYB2Qz3RMNoS7X.woff",
       "fontFamily": "'Caveat'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/caveat/v7/Wnz5HAc5bAfYB2Qz3RMNoS7X.woff",
       "local": [
         "Caveat Bold",
         "Caveat-Bold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/caveat/v7/Wnz5HAc5bAfYB2Qz3RMNoS7R.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Wnz5HAc5bAfYB2Qz3RMNoS7W&skey=23f4c72b4f49a52d&v=v7#Caveat",
-      "ttf": "https://fonts.gstatic.com/s/caveat/v7/Wnz5HAc5bAfYB2Qz3RMNoS7U.ttf",
+      "eot": "https://fonts.gstatic.com/s/caveat/v8/Wnz5HAc5bAfYB2Qz3RMNoS7V.eot",
+      "woff2": "https://fonts.gstatic.com/s/caveat/v8/Wnz5HAc5bAfYB2Qz3RMNoS7R.woff2",
+      "ttf": "https://fonts.gstatic.com/s/caveat/v8/Wnz5HAc5bAfYB2Qz3RMNoS7U.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Wnz5HAc5bAfYB2Qz3RMNoS7W&skey=23f4c72b4f49a52d&v=v8#Caveat",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
-    "cyrillic-ext",
     "cyrillic",
+    "cyrillic-ext",
+    "latin",
     "latin-ext"
   ],
   "category": "handwriting",
-  "version": "v7",
-  "lastModified": "2019-07-17",
-  "popularity": 119,
+  "version": "v8",
+  "lastModified": "2020-09-02",
+  "popularity": 93,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
-    "cyrillic-ext": false,
     "cyrillic": true,
+    "cyrillic-ext": false,
+    "latin": true,
     "latin-ext": false
   },
-  "storeID": "cyrillic_latin"
+  "storeID": "latin_cyrillic"
 }

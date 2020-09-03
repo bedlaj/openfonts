@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/scheherazade/v17/YA9Ur0yF4ETZN60keViq1kQQtZms.ttf",
+      "woff": "https://fonts.gstatic.com/s/scheherazade/v18/YA9Ur0yF4ETZN60keViq1kQQtZmv.woff",
       "fontFamily": "'Scheherazade'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,15 +12,15 @@
         "Scheherazade",
         "Scheherazade-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/scheherazade/v17/YA9Ur0yF4ETZN60keViq1kQQtZmv.woff",
-      "woff2": "https://fonts.gstatic.com/s/scheherazade/v17/YA9Ur0yF4ETZN60keViq1kQQtZmp.woff2",
-      "eot": "https://fonts.gstatic.com/s/scheherazade/v17/YA9Ur0yF4ETZN60keViq1kQQtZmt.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=YA9Ur0yF4ETZN60keViq1kQQtZmu&skey=7780c105dffad02f&v=v17#Scheherazade",
+      "woff2": "https://fonts.gstatic.com/s/scheherazade/v18/YA9Ur0yF4ETZN60keViq1kQQtZmp.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=YA9Ur0yF4ETZN60keViq1kQQtZmu&skey=7780c105dffad02f&v=v18#Scheherazade",
+      "eot": "https://fonts.gstatic.com/s/scheherazade/v18/YA9Ur0yF4ETZN60keViq1kQQtZmt.eot",
+      "ttf": "https://fonts.gstatic.com/s/scheherazade/v18/YA9Ur0yF4ETZN60keViq1kQQtZms.ttf",
       "errored": false
     },
     {
       "id": "700",
-      "svg": "https://fonts.gstatic.com/l/font?kit=YA9Lr0yF4ETZN60keViq1kQYC7y8jNfT&skey=6c19111046461d0d&v=v17#Scheherazade",
+      "woff2": "https://fonts.gstatic.com/s/scheherazade/v18/YA9Lr0yF4ETZN60keViq1kQYC7y8jNfU.woff2",
       "fontFamily": "'Scheherazade'",
       "fontStyle": "normal",
       "fontWeight": "700",
@@ -28,10 +28,10 @@
         "Scheherazade Bold",
         "Scheherazade-Bold"
       ],
-      "woff": "https://fonts.gstatic.com/s/scheherazade/v17/YA9Lr0yF4ETZN60keViq1kQYC7y8jNfS.woff",
-      "ttf": "https://fonts.gstatic.com/s/scheherazade/v17/YA9Lr0yF4ETZN60keViq1kQYC7y8jNfR.ttf",
-      "woff2": "https://fonts.gstatic.com/s/scheherazade/v17/YA9Lr0yF4ETZN60keViq1kQYC7y8jNfU.woff2",
-      "eot": "https://fonts.gstatic.com/s/scheherazade/v17/YA9Lr0yF4ETZN60keViq1kQYC7y8jNfQ.eot",
+      "woff": "https://fonts.gstatic.com/s/scheherazade/v18/YA9Lr0yF4ETZN60keViq1kQYC7y8jNfS.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=YA9Lr0yF4ETZN60keViq1kQYC7y8jNfT&skey=6c19111046461d0d&v=v18#Scheherazade",
+      "eot": "https://fonts.gstatic.com/s/scheherazade/v18/YA9Lr0yF4ETZN60keViq1kQYC7y8jNfQ.eot",
+      "ttf": "https://fonts.gstatic.com/s/scheherazade/v18/YA9Lr0yF4ETZN60keViq1kQYC7y8jNfR.ttf",
       "errored": false
     }
   ],
@@ -40,9 +40,9 @@
     "latin"
   ],
   "category": "serif",
-  "version": "v17",
-  "lastModified": "2019-07-16",
-  "popularity": 304,
+  "version": "v18",
+  "lastModified": "2020-09-02",
+  "popularity": 324,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/archivoblack/v9/HTxqL289NzCGg4MzN6KJ7eW6CYyF-A.woff",
+      "eot": "https://fonts.gstatic.com/s/archivoblack/v10/HTxqL289NzCGg4MzN6KJ7eW6CYyF-g.eot",
       "fontFamily": "'Archivo Black'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "svg": "https://fonts.gstatic.com/l/font?kit=HTxqL289NzCGg4MzN6KJ7eW6CYyF-Q&skey=f0fab067ca5e2347&v=v10#ArchivoBlack",
       "local": [
         "Archivo Black Regular",
         "ArchivoBlack-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/archivoblack/v9/HTxqL289NzCGg4MzN6KJ7eW6CYyF-g.eot",
-      "ttf": "https://fonts.gstatic.com/s/archivoblack/v9/HTxqL289NzCGg4MzN6KJ7eW6CYyF-w.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=HTxqL289NzCGg4MzN6KJ7eW6CYyF-Q&skey=f0fab067ca5e2347&v=v9#ArchivoBlack",
-      "woff2": "https://fonts.gstatic.com/s/archivoblack/v9/HTxqL289NzCGg4MzN6KJ7eW6CYyF_g.woff2",
+      "ttf": "https://fonts.gstatic.com/s/archivoblack/v10/HTxqL289NzCGg4MzN6KJ7eW6CYyF-w.ttf",
+      "woff2": "https://fonts.gstatic.com/s/archivoblack/v10/HTxqL289NzCGg4MzN6KJ7eW6CYyF_g.woff2",
+      "woff": "https://fonts.gstatic.com/s/archivoblack/v10/HTxqL289NzCGg4MzN6KJ7eW6CYyF-A.woff",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "sans-serif",
-  "version": "v9",
-  "lastModified": "2019-07-17",
-  "popularity": 128,
+  "version": "v10",
+  "lastModified": "2020-09-02",
+  "popularity": 129,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

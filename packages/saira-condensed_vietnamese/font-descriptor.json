@@ -4,55 +4,71 @@
   "variants": [
     {
       "id": "100",
-      "eot": "https://fonts.gstatic.com/s/sairacondensed/v5/EJRMQgErUN8XuHNEtX81i9TmEkrnwdtI0Iw.eot",
+      "woff": "https://fonts.gstatic.com/s/sairacondensed/v6/EJRMQgErUN8XuHNEtX81i9TmEkrnwdtI0I4.woff",
       "fontFamily": "'Saira Condensed'",
       "fontStyle": "normal",
       "fontWeight": "100",
-      "svg": "https://fonts.gstatic.com/l/font?kit=EJRMQgErUN8XuHNEtX81i9TmEkrnwdtI0I8&skey=a9f0cf68641a7444&v=v5#SairaCondensed",
       "local": [
         "Saira Condensed Thin",
         "SairaCondensed-Thin"
       ],
-      "woff2": "https://fonts.gstatic.com/s/sairacondensed/v5/EJRMQgErUN8XuHNEtX81i9TmEkrnwdtI0Ig.woff2",
-      "woff": "https://fonts.gstatic.com/s/sairacondensed/v5/EJRMQgErUN8XuHNEtX81i9TmEkrnwdtI0I4.woff",
-      "ttf": "https://fonts.gstatic.com/s/sairacondensed/v5/EJRMQgErUN8XuHNEtX81i9TmEkrnwdtI0I0.ttf",
-      "errored": false
-    },
-    {
-      "id": "300",
-      "eot": "https://fonts.gstatic.com/s/sairacondensed/v5/EJRLQgErUN8XuHNEtX81i9TmEkrnCclQ-K2b.eot",
-      "fontFamily": "'Saira Condensed'",
-      "fontStyle": "normal",
-      "fontWeight": "300",
-      "woff": "https://fonts.gstatic.com/s/sairacondensed/v5/EJRLQgErUN8XuHNEtX81i9TmEkrnCclQ-K2Z.woff",
-      "local": [
-        "Saira Condensed Light",
-        "SairaCondensed-Light"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/sairacondensed/v5/EJRLQgErUN8XuHNEtX81i9TmEkrnCclQ-K2f.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=EJRLQgErUN8XuHNEtX81i9TmEkrnCclQ-K2Y&skey=c36f62b42561cf19&v=v5#SairaCondensed",
-      "ttf": "https://fonts.gstatic.com/s/sairacondensed/v5/EJRLQgErUN8XuHNEtX81i9TmEkrnCclQ-K2a.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=EJRMQgErUN8XuHNEtX81i9TmEkrnwdtI0I8&skey=a9f0cf68641a7444&v=v6#SairaCondensed",
+      "eot": "https://fonts.gstatic.com/s/sairacondensed/v6/EJRMQgErUN8XuHNEtX81i9TmEkrnwdtI0Iw.eot",
+      "ttf": "https://fonts.gstatic.com/s/sairacondensed/v6/EJRMQgErUN8XuHNEtX81i9TmEkrnwdtI0I0.ttf",
+      "woff2": "https://fonts.gstatic.com/s/sairacondensed/v6/EJRMQgErUN8XuHNEtX81i9TmEkrnwdtI0Ig.woff2",
       "errored": false
     },
     {
       "id": "200",
-      "eot": "https://fonts.gstatic.com/s/sairacondensed/v5/EJRLQgErUN8XuHNEtX81i9TmEkrnbcpQ-K2b.eot",
+      "woff2": "https://fonts.gstatic.com/s/sairacondensed/v6/EJRLQgErUN8XuHNEtX81i9TmEkrnbcpQ-K2f.woff2",
       "fontFamily": "'Saira Condensed'",
       "fontStyle": "normal",
       "fontWeight": "200",
-      "svg": "https://fonts.gstatic.com/l/font?kit=EJRLQgErUN8XuHNEtX81i9TmEkrnbcpQ-K2Y&skey=67b73a3c5019716&v=v5#SairaCondensed",
       "local": [
         "Saira Condensed ExtraLight",
         "SairaCondensed-ExtraLight"
       ],
-      "ttf": "https://fonts.gstatic.com/s/sairacondensed/v5/EJRLQgErUN8XuHNEtX81i9TmEkrnbcpQ-K2a.ttf",
-      "woff": "https://fonts.gstatic.com/s/sairacondensed/v5/EJRLQgErUN8XuHNEtX81i9TmEkrnbcpQ-K2Z.woff",
-      "woff2": "https://fonts.gstatic.com/s/sairacondensed/v5/EJRLQgErUN8XuHNEtX81i9TmEkrnbcpQ-K2f.woff2",
+      "eot": "https://fonts.gstatic.com/s/sairacondensed/v6/EJRLQgErUN8XuHNEtX81i9TmEkrnbcpQ-K2b.eot",
+      "woff": "https://fonts.gstatic.com/s/sairacondensed/v6/EJRLQgErUN8XuHNEtX81i9TmEkrnbcpQ-K2Z.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=EJRLQgErUN8XuHNEtX81i9TmEkrnbcpQ-K2Y&skey=67b73a3c5019716&v=v6#SairaCondensed",
+      "ttf": "https://fonts.gstatic.com/s/sairacondensed/v6/EJRLQgErUN8XuHNEtX81i9TmEkrnbcpQ-K2a.ttf",
+      "errored": false
+    },
+    {
+      "id": "300",
+      "woff2": "https://fonts.gstatic.com/s/sairacondensed/v6/EJRLQgErUN8XuHNEtX81i9TmEkrnCclQ-K2f.woff2",
+      "fontFamily": "'Saira Condensed'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "local": [
+        "Saira Condensed Light",
+        "SairaCondensed-Light"
+      ],
+      "woff": "https://fonts.gstatic.com/s/sairacondensed/v6/EJRLQgErUN8XuHNEtX81i9TmEkrnCclQ-K2Z.woff",
+      "eot": "https://fonts.gstatic.com/s/sairacondensed/v6/EJRLQgErUN8XuHNEtX81i9TmEkrnCclQ-K2b.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=EJRLQgErUN8XuHNEtX81i9TmEkrnCclQ-K2Y&skey=c36f62b42561cf19&v=v6#SairaCondensed",
+      "ttf": "https://fonts.gstatic.com/s/sairacondensed/v6/EJRLQgErUN8XuHNEtX81i9TmEkrnCclQ-K2a.ttf",
+      "errored": false
+    },
+    {
+      "id": "500",
+      "eot": "https://fonts.gstatic.com/s/sairacondensed/v6/EJRLQgErUN8XuHNEtX81i9TmEkrnUchQ-K2b.eot",
+      "fontFamily": "'Saira Condensed'",
+      "fontStyle": "normal",
+      "fontWeight": "500",
+      "woff": "https://fonts.gstatic.com/s/sairacondensed/v6/EJRLQgErUN8XuHNEtX81i9TmEkrnUchQ-K2Z.woff",
+      "local": [
+        "Saira Condensed Medium",
+        "SairaCondensed-Medium"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/sairacondensed/v6/EJRLQgErUN8XuHNEtX81i9TmEkrnUchQ-K2f.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=EJRLQgErUN8XuHNEtX81i9TmEkrnUchQ-K2Y&skey=4bb1d270ea15a948&v=v6#SairaCondensed",
+      "ttf": "https://fonts.gstatic.com/s/sairacondensed/v6/EJRLQgErUN8XuHNEtX81i9TmEkrnUchQ-K2a.ttf",
       "errored": false
     },
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/sairacondensed/v5/EJROQgErUN8XuHNEtX81i9TmEkrvretD.woff",
+      "woff2": "https://fonts.gstatic.com/s/sairacondensed/v6/EJROQgErUN8XuHNEtX81i9TmEkrvretF.woff2",
       "fontFamily": "'Saira Condensed'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -60,108 +76,92 @@
         "Saira Condensed Regular",
         "SairaCondensed-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/sairacondensed/v5/EJROQgErUN8XuHNEtX81i9TmEkrvretF.woff2",
-      "eot": "https://fonts.gstatic.com/s/sairacondensed/v5/EJROQgErUN8XuHNEtX81i9TmEkrvretB.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=EJROQgErUN8XuHNEtX81i9TmEkrvretC&skey=7892c834700de0ca&v=v5#SairaCondensed",
-      "ttf": "https://fonts.gstatic.com/s/sairacondensed/v5/EJROQgErUN8XuHNEtX81i9TmEkrvretA.ttf",
-      "errored": false
-    },
-    {
-      "id": "700",
-      "woff": "https://fonts.gstatic.com/s/sairacondensed/v5/EJRLQgErUN8XuHNEtX81i9TmEkrnGc5Q-K2Z.woff",
-      "fontFamily": "'Saira Condensed'",
-      "fontStyle": "normal",
-      "fontWeight": "700",
-      "local": [
-        "Saira Condensed Bold",
-        "SairaCondensed-Bold"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/sairacondensed/v5/EJRLQgErUN8XuHNEtX81i9TmEkrnGc5Q-K2f.woff2",
-      "eot": "https://fonts.gstatic.com/s/sairacondensed/v5/EJRLQgErUN8XuHNEtX81i9TmEkrnGc5Q-K2b.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=EJRLQgErUN8XuHNEtX81i9TmEkrnGc5Q-K2Y&skey=483e7f4e39d2ddc1&v=v5#SairaCondensed",
-      "ttf": "https://fonts.gstatic.com/s/sairacondensed/v5/EJRLQgErUN8XuHNEtX81i9TmEkrnGc5Q-K2a.ttf",
-      "errored": false
-    },
-    {
-      "id": "500",
-      "eot": "https://fonts.gstatic.com/s/sairacondensed/v5/EJRLQgErUN8XuHNEtX81i9TmEkrnUchQ-K2b.eot",
-      "fontFamily": "'Saira Condensed'",
-      "fontStyle": "normal",
-      "fontWeight": "500",
-      "woff": "https://fonts.gstatic.com/s/sairacondensed/v5/EJRLQgErUN8XuHNEtX81i9TmEkrnUchQ-K2Z.woff",
-      "local": [
-        "Saira Condensed Medium",
-        "SairaCondensed-Medium"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=EJRLQgErUN8XuHNEtX81i9TmEkrnUchQ-K2Y&skey=4bb1d270ea15a948&v=v5#SairaCondensed",
-      "woff2": "https://fonts.gstatic.com/s/sairacondensed/v5/EJRLQgErUN8XuHNEtX81i9TmEkrnUchQ-K2f.woff2",
-      "ttf": "https://fonts.gstatic.com/s/sairacondensed/v5/EJRLQgErUN8XuHNEtX81i9TmEkrnUchQ-K2a.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=EJROQgErUN8XuHNEtX81i9TmEkrvretC&skey=7892c834700de0ca&v=v6#SairaCondensed",
+      "ttf": "https://fonts.gstatic.com/s/sairacondensed/v6/EJROQgErUN8XuHNEtX81i9TmEkrvretA.ttf",
+      "eot": "https://fonts.gstatic.com/s/sairacondensed/v6/EJROQgErUN8XuHNEtX81i9TmEkrvretB.eot",
+      "woff": "https://fonts.gstatic.com/s/sairacondensed/v6/EJROQgErUN8XuHNEtX81i9TmEkrvretD.woff",
       "errored": false
     },
     {
       "id": "600",
-      "eot": "https://fonts.gstatic.com/s/sairacondensed/v5/EJRLQgErUN8XuHNEtX81i9TmEkrnfc9Q-K2b.eot",
+      "eot": "https://fonts.gstatic.com/s/sairacondensed/v6/EJRLQgErUN8XuHNEtX81i9TmEkrnfc9Q-K2b.eot",
       "fontFamily": "'Saira Condensed'",
       "fontStyle": "normal",
       "fontWeight": "600",
-      "woff2": "https://fonts.gstatic.com/s/sairacondensed/v5/EJRLQgErUN8XuHNEtX81i9TmEkrnfc9Q-K2f.woff2",
+      "woff": "https://fonts.gstatic.com/s/sairacondensed/v6/EJRLQgErUN8XuHNEtX81i9TmEkrnfc9Q-K2Z.woff",
       "local": [
         "Saira Condensed SemiBold",
         "SairaCondensed-SemiBold"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=EJRLQgErUN8XuHNEtX81i9TmEkrnfc9Q-K2Y&skey=47c9d423d0a664fa&v=v5#SairaCondensed",
-      "ttf": "https://fonts.gstatic.com/s/sairacondensed/v5/EJRLQgErUN8XuHNEtX81i9TmEkrnfc9Q-K2a.ttf",
-      "woff": "https://fonts.gstatic.com/s/sairacondensed/v5/EJRLQgErUN8XuHNEtX81i9TmEkrnfc9Q-K2Z.woff",
+      "woff2": "https://fonts.gstatic.com/s/sairacondensed/v6/EJRLQgErUN8XuHNEtX81i9TmEkrnfc9Q-K2f.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=EJRLQgErUN8XuHNEtX81i9TmEkrnfc9Q-K2Y&skey=47c9d423d0a664fa&v=v6#SairaCondensed",
+      "ttf": "https://fonts.gstatic.com/s/sairacondensed/v6/EJRLQgErUN8XuHNEtX81i9TmEkrnfc9Q-K2a.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/sairacondensed/v6/EJRLQgErUN8XuHNEtX81i9TmEkrnGc5Q-K2b.eot",
+      "fontFamily": "'Saira Condensed'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/sairacondensed/v6/EJRLQgErUN8XuHNEtX81i9TmEkrnGc5Q-K2Z.woff",
+      "local": [
+        "Saira Condensed Bold",
+        "SairaCondensed-Bold"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=EJRLQgErUN8XuHNEtX81i9TmEkrnGc5Q-K2Y&skey=483e7f4e39d2ddc1&v=v6#SairaCondensed",
+      "ttf": "https://fonts.gstatic.com/s/sairacondensed/v6/EJRLQgErUN8XuHNEtX81i9TmEkrnGc5Q-K2a.ttf",
+      "woff2": "https://fonts.gstatic.com/s/sairacondensed/v6/EJRLQgErUN8XuHNEtX81i9TmEkrnGc5Q-K2f.woff2",
       "errored": false
     },
     {
       "id": "800",
-      "woff": "https://fonts.gstatic.com/s/sairacondensed/v5/EJRLQgErUN8XuHNEtX81i9TmEkrnBc1Q-K2Z.woff",
+      "eot": "https://fonts.gstatic.com/s/sairacondensed/v6/EJRLQgErUN8XuHNEtX81i9TmEkrnBc1Q-K2b.eot",
       "fontFamily": "'Saira Condensed'",
       "fontStyle": "normal",
       "fontWeight": "800",
+      "woff": "https://fonts.gstatic.com/s/sairacondensed/v6/EJRLQgErUN8XuHNEtX81i9TmEkrnBc1Q-K2Z.woff",
       "local": [
         "Saira Condensed ExtraBold",
         "SairaCondensed-ExtraBold"
       ],
-      "eot": "https://fonts.gstatic.com/s/sairacondensed/v5/EJRLQgErUN8XuHNEtX81i9TmEkrnBc1Q-K2b.eot",
-      "woff2": "https://fonts.gstatic.com/s/sairacondensed/v5/EJRLQgErUN8XuHNEtX81i9TmEkrnBc1Q-K2f.woff2",
-      "ttf": "https://fonts.gstatic.com/s/sairacondensed/v5/EJRLQgErUN8XuHNEtX81i9TmEkrnBc1Q-K2a.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=EJRLQgErUN8XuHNEtX81i9TmEkrnBc1Q-K2Y&skey=c71d299a12588708&v=v5#SairaCondensed",
+      "woff2": "https://fonts.gstatic.com/s/sairacondensed/v6/EJRLQgErUN8XuHNEtX81i9TmEkrnBc1Q-K2f.woff2",
+      "ttf": "https://fonts.gstatic.com/s/sairacondensed/v6/EJRLQgErUN8XuHNEtX81i9TmEkrnBc1Q-K2a.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=EJRLQgErUN8XuHNEtX81i9TmEkrnBc1Q-K2Y&skey=c71d299a12588708&v=v6#SairaCondensed",
       "errored": false
     },
     {
       "id": "900",
-      "eot": "https://fonts.gstatic.com/s/sairacondensed/v5/EJRLQgErUN8XuHNEtX81i9TmEkrnIcxQ-K2b.eot",
+      "eot": "https://fonts.gstatic.com/s/sairacondensed/v6/EJRLQgErUN8XuHNEtX81i9TmEkrnIcxQ-K2b.eot",
       "fontFamily": "'Saira Condensed'",
       "fontStyle": "normal",
       "fontWeight": "900",
-      "woff": "https://fonts.gstatic.com/s/sairacondensed/v5/EJRLQgErUN8XuHNEtX81i9TmEkrnIcxQ-K2Z.woff",
+      "woff": "https://fonts.gstatic.com/s/sairacondensed/v6/EJRLQgErUN8XuHNEtX81i9TmEkrnIcxQ-K2Z.woff",
       "local": [
         "Saira Condensed Black",
         "SairaCondensed-Black"
       ],
-      "woff2": "https://fonts.gstatic.com/s/sairacondensed/v5/EJRLQgErUN8XuHNEtX81i9TmEkrnIcxQ-K2f.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=EJRLQgErUN8XuHNEtX81i9TmEkrnIcxQ-K2Y&skey=30ff2a07e7354b85&v=v5#SairaCondensed",
-      "ttf": "https://fonts.gstatic.com/s/sairacondensed/v5/EJRLQgErUN8XuHNEtX81i9TmEkrnIcxQ-K2a.ttf",
+      "woff2": "https://fonts.gstatic.com/s/sairacondensed/v6/EJRLQgErUN8XuHNEtX81i9TmEkrnIcxQ-K2f.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=EJRLQgErUN8XuHNEtX81i9TmEkrnIcxQ-K2Y&skey=30ff2a07e7354b85&v=v6#SairaCondensed",
+      "ttf": "https://fonts.gstatic.com/s/sairacondensed/v6/EJRLQgErUN8XuHNEtX81i9TmEkrnIcxQ-K2a.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "vietnamese",
     "latin",
-    "latin-ext"
+    "latin-ext",
+    "vietnamese"
   ],
   "category": "sans-serif",
-  "version": "v5",
-  "lastModified": "2019-07-16",
-  "popularity": 339,
+  "version": "v6",
+  "lastModified": "2020-09-02",
+  "popularity": 208,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "vietnamese": true,
     "latin": true,
-    "latin-ext": false
+    "latin-ext": false,
+    "vietnamese": true
   },
-  "storeID": "latin_vietnamese"
+  "storeID": "vietnamese_latin"
 }

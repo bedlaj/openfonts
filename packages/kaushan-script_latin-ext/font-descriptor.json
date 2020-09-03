@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=vm8vdRfvXFLG3OLnsO15WYS5DG72wNU&skey=31e8905c8b129a4e&v=v8#KaushanScript",
+      "woff2": "https://fonts.gstatic.com/s/kaushanscript/v9/vm8vdRfvXFLG3OLnsO15WYS5DG72wNI.woff2",
       "fontFamily": "'Kaushan Script'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Kaushan Script",
         "KaushanScript-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/kaushanscript/v8/vm8vdRfvXFLG3OLnsO15WYS5DG72wNQ.woff",
-      "eot": "https://fonts.gstatic.com/s/kaushanscript/v8/vm8vdRfvXFLG3OLnsO15WYS5DG72wNY.eot",
-      "woff2": "https://fonts.gstatic.com/s/kaushanscript/v8/vm8vdRfvXFLG3OLnsO15WYS5DG72wNI.woff2",
-      "ttf": "https://fonts.gstatic.com/s/kaushanscript/v8/vm8vdRfvXFLG3OLnsO15WYS5DG72wNc.ttf",
+      "ttf": "https://fonts.gstatic.com/s/kaushanscript/v9/vm8vdRfvXFLG3OLnsO15WYS5DG72wNc.ttf",
+      "woff": "https://fonts.gstatic.com/s/kaushanscript/v9/vm8vdRfvXFLG3OLnsO15WYS5DG72wNQ.woff",
+      "eot": "https://fonts.gstatic.com/s/kaushanscript/v9/vm8vdRfvXFLG3OLnsO15WYS5DG72wNY.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=vm8vdRfvXFLG3OLnsO15WYS5DG72wNU&skey=31e8905c8b129a4e&v=v9#KaushanScript",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "handwriting",
-  "version": "v8",
-  "lastModified": "2019-07-17",
-  "popularity": 121,
+  "version": "v9",
+  "lastModified": "2020-09-02",
+  "popularity": 127,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

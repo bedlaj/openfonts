@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/lobstertwo/v12/BngMUXZGTXPUvIoyV6yN5-fN5qM.woff",
+      "woff": "https://fonts.gstatic.com/s/lobstertwo/v13/BngMUXZGTXPUvIoyV6yN5-fN5qM.woff",
       "fontFamily": "'Lobster Two'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,15 +12,15 @@
         "Lobster Two",
         "LobsterTwo"
       ],
-      "ttf": "https://fonts.gstatic.com/s/lobstertwo/v12/BngMUXZGTXPUvIoyV6yN5-fN5qA.ttf",
-      "woff2": "https://fonts.gstatic.com/s/lobstertwo/v12/BngMUXZGTXPUvIoyV6yN5-fN5qU.woff2",
-      "eot": "https://fonts.gstatic.com/s/lobstertwo/v12/BngMUXZGTXPUvIoyV6yN5-fN5qE.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=BngMUXZGTXPUvIoyV6yN5-fN5qI&skey=9608b5afa19726d9&v=v12#LobsterTwo",
+      "svg": "https://fonts.gstatic.com/l/font?kit=BngMUXZGTXPUvIoyV6yN5-fN5qI&skey=9608b5afa19726d9&v=v13#LobsterTwo",
+      "eot": "https://fonts.gstatic.com/s/lobstertwo/v13/BngMUXZGTXPUvIoyV6yN5-fN5qE.eot",
+      "ttf": "https://fonts.gstatic.com/s/lobstertwo/v13/BngMUXZGTXPUvIoyV6yN5-fN5qA.ttf",
+      "woff2": "https://fonts.gstatic.com/s/lobstertwo/v13/BngMUXZGTXPUvIoyV6yN5-fN5qU.woff2",
       "errored": false
     },
     {
       "id": "italic",
-      "woff": "https://fonts.gstatic.com/s/lobstertwo/v12/BngOUXZGTXPUvIoyV6yN5-fI1qeh4g.woff",
+      "woff2": "https://fonts.gstatic.com/s/lobstertwo/v13/BngOUXZGTXPUvIoyV6yN5-fI1qeh5A.woff2",
       "fontFamily": "'Lobster Two'",
       "fontStyle": "italic",
       "fontWeight": "400",
@@ -28,15 +28,31 @@
         "Lobster Two Italic",
         "LobsterTwo-Italic"
       ],
-      "eot": "https://fonts.gstatic.com/s/lobstertwo/v12/BngOUXZGTXPUvIoyV6yN5-fI1qeh4A.eot",
-      "ttf": "https://fonts.gstatic.com/s/lobstertwo/v12/BngOUXZGTXPUvIoyV6yN5-fI1qeh4Q.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=BngOUXZGTXPUvIoyV6yN5-fI1qeh4w&skey=12d377d29068b9b1&v=v12#LobsterTwo",
-      "woff2": "https://fonts.gstatic.com/s/lobstertwo/v12/BngOUXZGTXPUvIoyV6yN5-fI1qeh5A.woff2",
+      "ttf": "https://fonts.gstatic.com/s/lobstertwo/v13/BngOUXZGTXPUvIoyV6yN5-fI1qeh4Q.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=BngOUXZGTXPUvIoyV6yN5-fI1qeh4w&skey=12d377d29068b9b1&v=v13#LobsterTwo",
+      "woff": "https://fonts.gstatic.com/s/lobstertwo/v13/BngOUXZGTXPUvIoyV6yN5-fI1qeh4g.woff",
+      "eot": "https://fonts.gstatic.com/s/lobstertwo/v13/BngOUXZGTXPUvIoyV6yN5-fI1qeh4A.eot",
+      "errored": false
+    },
+    {
+      "id": "700italic",
+      "eot": "https://fonts.gstatic.com/s/lobstertwo/v13/BngTUXZGTXPUvIoyV6yN5-fI3hyE8R-ieg.eot",
+      "fontFamily": "'Lobster Two'",
+      "fontStyle": "italic",
+      "fontWeight": "700",
+      "woff2": "https://fonts.gstatic.com/s/lobstertwo/v13/BngTUXZGTXPUvIoyV6yN5-fI3hyE8R-ifg.woff2",
+      "local": [
+        "Lobster Two Bold Italic",
+        "LobsterTwo-BoldItalic"
+      ],
+      "svg": "https://fonts.gstatic.com/l/font?kit=BngTUXZGTXPUvIoyV6yN5-fI3hyE8R-ieQ&skey=eef0fabb91ce4c60&v=v13#LobsterTwo",
+      "woff": "https://fonts.gstatic.com/s/lobstertwo/v13/BngTUXZGTXPUvIoyV6yN5-fI3hyE8R-ieA.woff",
+      "ttf": "https://fonts.gstatic.com/s/lobstertwo/v13/BngTUXZGTXPUvIoyV6yN5-fI3hyE8R-iew.ttf",
       "errored": false
     },
     {
       "id": "700",
-      "woff": "https://fonts.gstatic.com/s/lobstertwo/v12/BngRUXZGTXPUvIoyV6yN5-92w7CGwRs.woff",
+      "woff": "https://fonts.gstatic.com/s/lobstertwo/v13/BngRUXZGTXPUvIoyV6yN5-92w7CGwRs.woff",
       "fontFamily": "'Lobster Two'",
       "fontStyle": "normal",
       "fontWeight": "700",
@@ -44,26 +60,10 @@
         "Lobster Two Bold",
         "LobsterTwo-Bold"
       ],
-      "eot": "https://fonts.gstatic.com/s/lobstertwo/v12/BngRUXZGTXPUvIoyV6yN5-92w7CGwRk.eot",
-      "woff2": "https://fonts.gstatic.com/s/lobstertwo/v12/BngRUXZGTXPUvIoyV6yN5-92w7CGwR0.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=BngRUXZGTXPUvIoyV6yN5-92w7CGwRo&skey=2e1deeaaffb8f661&v=v12#LobsterTwo",
-      "ttf": "https://fonts.gstatic.com/s/lobstertwo/v12/BngRUXZGTXPUvIoyV6yN5-92w7CGwRg.ttf",
-      "errored": false
-    },
-    {
-      "id": "700italic",
-      "woff": "https://fonts.gstatic.com/s/lobstertwo/v12/BngTUXZGTXPUvIoyV6yN5-fI3hyE8R-ieA.woff",
-      "fontFamily": "'Lobster Two'",
-      "fontStyle": "italic",
-      "fontWeight": "700",
-      "local": [
-        "Lobster Two Bold Italic",
-        "LobsterTwo-BoldItalic"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=BngTUXZGTXPUvIoyV6yN5-fI3hyE8R-ieQ&skey=eef0fabb91ce4c60&v=v12#LobsterTwo",
-      "woff2": "https://fonts.gstatic.com/s/lobstertwo/v12/BngTUXZGTXPUvIoyV6yN5-fI3hyE8R-ifg.woff2",
-      "eot": "https://fonts.gstatic.com/s/lobstertwo/v12/BngTUXZGTXPUvIoyV6yN5-fI3hyE8R-ieg.eot",
-      "ttf": "https://fonts.gstatic.com/s/lobstertwo/v12/BngTUXZGTXPUvIoyV6yN5-fI3hyE8R-iew.ttf",
+      "eot": "https://fonts.gstatic.com/s/lobstertwo/v13/BngRUXZGTXPUvIoyV6yN5-92w7CGwRk.eot",
+      "woff2": "https://fonts.gstatic.com/s/lobstertwo/v13/BngRUXZGTXPUvIoyV6yN5-92w7CGwR0.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=BngRUXZGTXPUvIoyV6yN5-92w7CGwRo&skey=2e1deeaaffb8f661&v=v13#LobsterTwo",
+      "ttf": "https://fonts.gstatic.com/s/lobstertwo/v13/BngRUXZGTXPUvIoyV6yN5-92w7CGwRg.ttf",
       "errored": false
     }
   ],
@@ -71,9 +71,9 @@
     "latin"
   ],
   "category": "display",
-  "version": "v12",
-  "lastModified": "2019-07-16",
-  "popularity": 140,
+  "version": "v13",
+  "lastModified": "2020-09-02",
+  "popularity": 138,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

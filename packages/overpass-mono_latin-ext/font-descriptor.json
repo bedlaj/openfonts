@@ -4,23 +4,55 @@
   "variants": [
     {
       "id": "300",
-      "eot": "https://fonts.gstatic.com/s/overpassmono/v5/_Xm3-H86tzKDdAPa-KPQZ-AC3oSWo_6XAg.eot",
+      "woff": "https://fonts.gstatic.com/s/overpassmono/v6/_Xm3-H86tzKDdAPa-KPQZ-AC3oSWo_6XAA.woff",
       "fontFamily": "'Overpass Mono'",
       "fontStyle": "normal",
       "fontWeight": "300",
-      "woff2": "https://fonts.gstatic.com/s/overpassmono/v5/_Xm3-H86tzKDdAPa-KPQZ-AC3oSWo_6XBg.woff2",
       "local": [
         "Overpass Mono Light",
         "OverpassMono-Light"
       ],
-      "woff": "https://fonts.gstatic.com/s/overpassmono/v5/_Xm3-H86tzKDdAPa-KPQZ-AC3oSWo_6XAA.woff",
-      "ttf": "https://fonts.gstatic.com/s/overpassmono/v5/_Xm3-H86tzKDdAPa-KPQZ-AC3oSWo_6XAw.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=_Xm3-H86tzKDdAPa-KPQZ-AC3oSWo_6XAQ&skey=b5911a1cd8c24d84&v=v5#OverpassMono",
+      "ttf": "https://fonts.gstatic.com/s/overpassmono/v6/_Xm3-H86tzKDdAPa-KPQZ-AC3oSWo_6XAw.ttf",
+      "woff2": "https://fonts.gstatic.com/s/overpassmono/v6/_Xm3-H86tzKDdAPa-KPQZ-AC3oSWo_6XBg.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=_Xm3-H86tzKDdAPa-KPQZ-AC3oSWo_6XAQ&skey=b5911a1cd8c24d84&v=v6#OverpassMono",
+      "eot": "https://fonts.gstatic.com/s/overpassmono/v6/_Xm3-H86tzKDdAPa-KPQZ-AC3oSWo_6XAg.eot",
+      "errored": false
+    },
+    {
+      "id": "600",
+      "woff2": "https://fonts.gstatic.com/s/overpassmono/v6/_Xm3-H86tzKDdAPa-KPQZ-AC3vCQo_6XBg.woff2",
+      "fontFamily": "'Overpass Mono'",
+      "fontStyle": "normal",
+      "fontWeight": "600",
+      "local": [
+        "Overpass Mono SemiBold",
+        "OverpassMono-SemiBold"
+      ],
+      "woff": "https://fonts.gstatic.com/s/overpassmono/v6/_Xm3-H86tzKDdAPa-KPQZ-AC3vCQo_6XAA.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=_Xm3-H86tzKDdAPa-KPQZ-AC3vCQo_6XAQ&skey=57c5bf40a8a0c45e&v=v6#OverpassMono",
+      "eot": "https://fonts.gstatic.com/s/overpassmono/v6/_Xm3-H86tzKDdAPa-KPQZ-AC3vCQo_6XAg.eot",
+      "ttf": "https://fonts.gstatic.com/s/overpassmono/v6/_Xm3-H86tzKDdAPa-KPQZ-AC3vCQo_6XAw.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/overpassmono/v6/_Xm3-H86tzKDdAPa-KPQZ-AC3pSRo_6XAg.eot",
+      "fontFamily": "'Overpass Mono'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff2": "https://fonts.gstatic.com/s/overpassmono/v6/_Xm3-H86tzKDdAPa-KPQZ-AC3pSRo_6XBg.woff2",
+      "local": [
+        "Overpass Mono Bold",
+        "OverpassMono-Bold"
+      ],
+      "woff": "https://fonts.gstatic.com/s/overpassmono/v6/_Xm3-H86tzKDdAPa-KPQZ-AC3pSRo_6XAA.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=_Xm3-H86tzKDdAPa-KPQZ-AC3pSRo_6XAQ&skey=71b6951fc3e22ad8&v=v6#OverpassMono",
+      "ttf": "https://fonts.gstatic.com/s/overpassmono/v6/_Xm3-H86tzKDdAPa-KPQZ-AC3pSRo_6XAw.ttf",
       "errored": false
     },
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/overpassmono/v5/_Xmq-H86tzKDdAPa-KPQZ-AC1iG0sA.woff",
+      "woff": "https://fonts.gstatic.com/s/overpassmono/v6/_Xmq-H86tzKDdAPa-KPQZ-AC1iG0sA.woff",
       "fontFamily": "'Overpass Mono'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -28,42 +60,10 @@
         "Overpass Mono Regular",
         "OverpassMono-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/overpassmono/v5/_Xmq-H86tzKDdAPa-KPQZ-AC1iG0sg.eot",
-      "woff2": "https://fonts.gstatic.com/s/overpassmono/v5/_Xmq-H86tzKDdAPa-KPQZ-AC1iG0tg.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=_Xmq-H86tzKDdAPa-KPQZ-AC1iG0sQ&skey=d1f5d4df18f8b025&v=v5#OverpassMono",
-      "ttf": "https://fonts.gstatic.com/s/overpassmono/v5/_Xmq-H86tzKDdAPa-KPQZ-AC1iG0sw.ttf",
-      "errored": false
-    },
-    {
-      "id": "600",
-      "eot": "https://fonts.gstatic.com/s/overpassmono/v5/_Xm3-H86tzKDdAPa-KPQZ-AC3vCQo_6XAg.eot",
-      "fontFamily": "'Overpass Mono'",
-      "fontStyle": "normal",
-      "fontWeight": "600",
-      "woff2": "https://fonts.gstatic.com/s/overpassmono/v5/_Xm3-H86tzKDdAPa-KPQZ-AC3vCQo_6XBg.woff2",
-      "local": [
-        "Overpass Mono SemiBold",
-        "OverpassMono-SemiBold"
-      ],
-      "woff": "https://fonts.gstatic.com/s/overpassmono/v5/_Xm3-H86tzKDdAPa-KPQZ-AC3vCQo_6XAA.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=_Xm3-H86tzKDdAPa-KPQZ-AC3vCQo_6XAQ&skey=57c5bf40a8a0c45e&v=v5#OverpassMono",
-      "ttf": "https://fonts.gstatic.com/s/overpassmono/v5/_Xm3-H86tzKDdAPa-KPQZ-AC3vCQo_6XAw.ttf",
-      "errored": false
-    },
-    {
-      "id": "700",
-      "eot": "https://fonts.gstatic.com/s/overpassmono/v5/_Xm3-H86tzKDdAPa-KPQZ-AC3pSRo_6XAg.eot",
-      "fontFamily": "'Overpass Mono'",
-      "fontStyle": "normal",
-      "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/overpassmono/v5/_Xm3-H86tzKDdAPa-KPQZ-AC3pSRo_6XAA.woff",
-      "local": [
-        "Overpass Mono Bold",
-        "OverpassMono-Bold"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=_Xm3-H86tzKDdAPa-KPQZ-AC3pSRo_6XAQ&skey=71b6951fc3e22ad8&v=v5#OverpassMono",
-      "ttf": "https://fonts.gstatic.com/s/overpassmono/v5/_Xm3-H86tzKDdAPa-KPQZ-AC3pSRo_6XAw.ttf",
-      "woff2": "https://fonts.gstatic.com/s/overpassmono/v5/_Xm3-H86tzKDdAPa-KPQZ-AC3pSRo_6XBg.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=_Xmq-H86tzKDdAPa-KPQZ-AC1iG0sQ&skey=d1f5d4df18f8b025&v=v6#OverpassMono",
+      "woff2": "https://fonts.gstatic.com/s/overpassmono/v6/_Xmq-H86tzKDdAPa-KPQZ-AC1iG0tg.woff2",
+      "ttf": "https://fonts.gstatic.com/s/overpassmono/v6/_Xmq-H86tzKDdAPa-KPQZ-AC1iG0sw.ttf",
+      "eot": "https://fonts.gstatic.com/s/overpassmono/v6/_Xmq-H86tzKDdAPa-KPQZ-AC1iG0sg.eot",
       "errored": false
     }
   ],
@@ -72,9 +72,9 @@
     "latin-ext"
   ],
   "category": "monospace",
-  "version": "v5",
-  "lastModified": "2019-07-16",
-  "popularity": 468,
+  "version": "v6",
+  "lastModified": "2020-09-02",
+  "popularity": 354,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

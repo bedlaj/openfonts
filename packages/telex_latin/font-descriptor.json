@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/telex/v8/ieVw2Y1fKWmIO-fUDV8.eot",
+      "ttf": "https://fonts.gstatic.com/s/telex/v9/ieVw2Y1fKWmIO-fUDV4.ttf",
       "fontFamily": "'Telex'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/telex/v8/ieVw2Y1fKWmIO-fUDV0.woff",
       "local": [
         "Telex Regular",
         "Telex-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/telex/v8/ieVw2Y1fKWmIO-fUDVs.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=ieVw2Y1fKWmIO-fUDVw&skey=f563425e95f7a3e2&v=v8#Telex",
-      "ttf": "https://fonts.gstatic.com/s/telex/v8/ieVw2Y1fKWmIO-fUDV4.ttf",
+      "eot": "https://fonts.gstatic.com/s/telex/v9/ieVw2Y1fKWmIO-fUDV8.eot",
+      "woff": "https://fonts.gstatic.com/s/telex/v9/ieVw2Y1fKWmIO-fUDV0.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=ieVw2Y1fKWmIO-fUDVw&skey=f563425e95f7a3e2&v=v9#Telex",
+      "woff2": "https://fonts.gstatic.com/s/telex/v9/ieVw2Y1fKWmIO-fUDVs.woff2",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "sans-serif",
-  "version": "v8",
-  "lastModified": "2019-07-16",
-  "popularity": 380,
+  "version": "v9",
+  "lastModified": "2020-09-02",
+  "popularity": 340,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

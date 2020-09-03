@@ -4,34 +4,34 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/badscript/v8/6NUT8F6PJgbFWQn47_x7pOskyA.eot",
+      "eot": "https://fonts.gstatic.com/s/badscript/v9/6NUT8F6PJgbFWQn47_x7pOskyA.eot",
       "fontFamily": "'Bad Script'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/badscript/v8/6NUT8F6PJgbFWQn47_x7pOskzA.woff2",
+      "woff2": "https://fonts.gstatic.com/s/badscript/v9/6NUT8F6PJgbFWQn47_x7pOskzA.woff2",
       "local": [
         "Bad Script Regular",
         "BadScript-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/badscript/v8/6NUT8F6PJgbFWQn47_x7pOskyg.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=6NUT8F6PJgbFWQn47_x7pOskyw&skey=bab4df51e3e7f1cf&v=v8#BadScript",
-      "ttf": "https://fonts.gstatic.com/s/badscript/v8/6NUT8F6PJgbFWQn47_x7pOskyQ.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=6NUT8F6PJgbFWQn47_x7pOskyw&skey=bab4df51e3e7f1cf&v=v9#BadScript",
+      "woff": "https://fonts.gstatic.com/s/badscript/v9/6NUT8F6PJgbFWQn47_x7pOskyg.woff",
+      "ttf": "https://fonts.gstatic.com/s/badscript/v9/6NUT8F6PJgbFWQn47_x7pOskyQ.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
-    "cyrillic"
+    "cyrillic",
+    "latin"
   ],
   "category": "handwriting",
-  "version": "v8",
-  "lastModified": "2019-07-16",
-  "popularity": 216,
+  "version": "v9",
+  "lastModified": "2020-09-02",
+  "popularity": 227,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
-    "cyrillic": false
+    "cyrillic": false,
+    "latin": true
   },
   "storeID": "latin"
 }

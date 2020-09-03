@@ -4,23 +4,39 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/anonymouspro/v13/rP2Bp2a15UIB7Un-bOeISG3pLl0.eot",
+      "woff": "https://fonts.gstatic.com/s/anonymouspro/v14/rP2Bp2a15UIB7Un-bOeISG3pLl8.woff",
       "fontFamily": "'Anonymous Pro'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/anonymouspro/v13/rP2Bp2a15UIB7Un-bOeISG3pLl8.woff",
       "local": [
         "Anonymous Pro Regular",
         "AnonymousPro-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=rP2Bp2a15UIB7Un-bOeISG3pLl4&skey=5f69fa382b387122&v=v13#AnonymousPro",
-      "woff2": "https://fonts.gstatic.com/s/anonymouspro/v13/rP2Bp2a15UIB7Un-bOeISG3pLlk.woff2",
-      "ttf": "https://fonts.gstatic.com/s/anonymouspro/v13/rP2Bp2a15UIB7Un-bOeISG3pLlw.ttf",
+      "eot": "https://fonts.gstatic.com/s/anonymouspro/v14/rP2Bp2a15UIB7Un-bOeISG3pLl0.eot",
+      "woff2": "https://fonts.gstatic.com/s/anonymouspro/v14/rP2Bp2a15UIB7Un-bOeISG3pLlk.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=rP2Bp2a15UIB7Un-bOeISG3pLl4&skey=5f69fa382b387122&v=v14#AnonymousPro",
+      "ttf": "https://fonts.gstatic.com/s/anonymouspro/v14/rP2Bp2a15UIB7Un-bOeISG3pLlw.ttf",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "eot": "https://fonts.gstatic.com/s/anonymouspro/v14/rP2fp2a15UIB7Un-bOeISG3pHl428Q.eot",
+      "fontFamily": "'Anonymous Pro'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/anonymouspro/v14/rP2fp2a15UIB7Un-bOeISG3pHl428w.woff",
+      "local": [
+        "Anonymous Pro Italic",
+        "AnonymousPro-Italic"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/anonymouspro/v14/rP2fp2a15UIB7Un-bOeISG3pHl429Q.woff2",
+      "ttf": "https://fonts.gstatic.com/s/anonymouspro/v14/rP2fp2a15UIB7Un-bOeISG3pHl428A.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=rP2fp2a15UIB7Un-bOeISG3pHl428g&skey=8184eb3e0bc66eda&v=v14#AnonymousPro",
       "errored": false
     },
     {
       "id": "700",
-      "woff": "https://fonts.gstatic.com/s/anonymouspro/v13/rP2cp2a15UIB7Un-bOeISG3pFuAT0Co.woff",
+      "woff": "https://fonts.gstatic.com/s/anonymouspro/v14/rP2cp2a15UIB7Un-bOeISG3pFuAT0Co.woff",
       "fontFamily": "'Anonymous Pro'",
       "fontStyle": "normal",
       "fontWeight": "700",
@@ -28,62 +44,46 @@
         "Anonymous Pro Bold",
         "AnonymousPro-Bold"
       ],
-      "eot": "https://fonts.gstatic.com/s/anonymouspro/v13/rP2cp2a15UIB7Un-bOeISG3pFuAT0Cg.eot",
-      "woff2": "https://fonts.gstatic.com/s/anonymouspro/v13/rP2cp2a15UIB7Un-bOeISG3pFuAT0Cw.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=rP2cp2a15UIB7Un-bOeISG3pFuAT0Cs&skey=64760cc364a151ce&v=v13#AnonymousPro",
-      "ttf": "https://fonts.gstatic.com/s/anonymouspro/v13/rP2cp2a15UIB7Un-bOeISG3pFuAT0Ck.ttf",
-      "errored": false
-    },
-    {
-      "id": "italic",
-      "woff": "https://fonts.gstatic.com/s/anonymouspro/v13/rP2fp2a15UIB7Un-bOeISG3pHl428w.woff",
-      "fontFamily": "'Anonymous Pro'",
-      "fontStyle": "italic",
-      "fontWeight": "400",
-      "local": [
-        "Anonymous Pro Italic",
-        "AnonymousPro-Italic"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/anonymouspro/v13/rP2fp2a15UIB7Un-bOeISG3pHl429Q.woff2",
-      "eot": "https://fonts.gstatic.com/s/anonymouspro/v13/rP2fp2a15UIB7Un-bOeISG3pHl428Q.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=rP2fp2a15UIB7Un-bOeISG3pHl428g&skey=8184eb3e0bc66eda&v=v13#AnonymousPro",
-      "ttf": "https://fonts.gstatic.com/s/anonymouspro/v13/rP2fp2a15UIB7Un-bOeISG3pHl428A.ttf",
+      "eot": "https://fonts.gstatic.com/s/anonymouspro/v14/rP2cp2a15UIB7Un-bOeISG3pFuAT0Cg.eot",
+      "ttf": "https://fonts.gstatic.com/s/anonymouspro/v14/rP2cp2a15UIB7Un-bOeISG3pFuAT0Ck.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=rP2cp2a15UIB7Un-bOeISG3pFuAT0Cs&skey=64760cc364a151ce&v=v14#AnonymousPro",
+      "woff2": "https://fonts.gstatic.com/s/anonymouspro/v14/rP2cp2a15UIB7Un-bOeISG3pFuAT0Cw.woff2",
       "errored": false
     },
     {
       "id": "700italic",
-      "eot": "https://fonts.gstatic.com/s/anonymouspro/v13/rP2ap2a15UIB7Un-bOeISG3pHl4OTCzc6Q.eot",
+      "eot": "https://fonts.gstatic.com/s/anonymouspro/v14/rP2ap2a15UIB7Un-bOeISG3pHl4OTCzc6Q.eot",
       "fontFamily": "'Anonymous Pro'",
       "fontStyle": "italic",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/anonymouspro/v13/rP2ap2a15UIB7Un-bOeISG3pHl4OTCzc6w.woff",
+      "woff": "https://fonts.gstatic.com/s/anonymouspro/v14/rP2ap2a15UIB7Un-bOeISG3pHl4OTCzc6w.woff",
       "local": [
         "Anonymous Pro Bold Italic",
         "AnonymousPro-BoldItalic"
       ],
-      "woff2": "https://fonts.gstatic.com/s/anonymouspro/v13/rP2ap2a15UIB7Un-bOeISG3pHl4OTCzc7Q.woff2",
-      "ttf": "https://fonts.gstatic.com/s/anonymouspro/v13/rP2ap2a15UIB7Un-bOeISG3pHl4OTCzc6A.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=rP2ap2a15UIB7Un-bOeISG3pHl4OTCzc6g&skey=eade76c5c69b9140&v=v13#AnonymousPro",
+      "ttf": "https://fonts.gstatic.com/s/anonymouspro/v14/rP2ap2a15UIB7Un-bOeISG3pHl4OTCzc6A.ttf",
+      "woff2": "https://fonts.gstatic.com/s/anonymouspro/v14/rP2ap2a15UIB7Un-bOeISG3pHl4OTCzc7Q.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=rP2ap2a15UIB7Un-bOeISG3pHl4OTCzc6g&skey=eade76c5c69b9140&v=v14#AnonymousPro",
       "errored": false
     }
   ],
   "subsets": [
+    "cyrillic",
     "greek",
     "latin",
-    "cyrillic",
     "latin-ext"
   ],
   "category": "monospace",
-  "version": "v13",
-  "lastModified": "2019-07-16",
-  "popularity": 386,
+  "version": "v14",
+  "lastModified": "2020-09-02",
+  "popularity": 341,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
+    "cyrillic": true,
     "greek": true,
     "latin": true,
-    "cyrillic": true,
     "latin-ext": true
   },
-  "storeID": "latin-ext_cyrillic_latin_greek"
+  "storeID": "latin-ext_latin_greek_cyrillic"
 }

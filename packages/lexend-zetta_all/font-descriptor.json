@@ -4,36 +4,36 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/lexendzetta/v1/ll87K2KYXje7CdOFnEWcU8solw.eot",
+      "eot": "https://fonts.gstatic.com/s/lexendzetta/v2/ll87K2KYXje7CdOFnEWcU8solw.eot",
       "fontFamily": "'Lexend Zetta'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/lexendzetta/v1/ll87K2KYXje7CdOFnEWcU8solQ.woff",
+      "ttf": "https://fonts.gstatic.com/s/lexendzetta/v2/ll87K2KYXje7CdOFnEWcU8solg.ttf",
       "local": [
         "Lexend Zetta Regular",
         "LexendZetta-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=ll87K2KYXje7CdOFnEWcU8solA&skey=4ce78d6ebb21fb74&v=v1#LexendZetta",
-      "ttf": "https://fonts.gstatic.com/s/lexendzetta/v1/ll87K2KYXje7CdOFnEWcU8solg.ttf",
-      "woff2": "https://fonts.gstatic.com/s/lexendzetta/v1/ll87K2KYXje7CdOFnEWcU8sokw.woff2",
+      "woff2": "https://fonts.gstatic.com/s/lexendzetta/v2/ll87K2KYXje7CdOFnEWcU8sokw.woff2",
+      "woff": "https://fonts.gstatic.com/s/lexendzetta/v2/ll87K2KYXje7CdOFnEWcU8solQ.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=ll87K2KYXje7CdOFnEWcU8solA&skey=4ce78d6ebb21fb74&v=v2#LexendZetta",
       "errored": false
     }
   ],
   "subsets": [
     "latin",
-    "vietnamese",
-    "latin-ext"
+    "latin-ext",
+    "vietnamese"
   ],
   "category": "sans-serif",
-  "version": "v1",
-  "lastModified": "2020-03-03",
-  "popularity": 977,
+  "version": "v2",
+  "lastModified": "2020-09-02",
+  "popularity": 759,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "latin": true,
-    "vietnamese": true,
-    "latin-ext": true
+    "latin-ext": true,
+    "vietnamese": true
   },
-  "storeID": "latin-ext_vietnamese_latin"
+  "storeID": "vietnamese_latin-ext_latin"
 }

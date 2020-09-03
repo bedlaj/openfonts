@@ -4,40 +4,40 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/pressstart2p/v8/e3t4euO8T-267oIAQAu6jDQyK0nT.eot",
+      "eot": "https://fonts.gstatic.com/s/pressstart2p/v9/e3t4euO8T-267oIAQAu6jDQyK0nT.eot",
       "fontFamily": "'Press Start 2P'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/pressstart2p/v8/e3t4euO8T-267oIAQAu6jDQyK0nR.woff",
+      "woff": "https://fonts.gstatic.com/s/pressstart2p/v9/e3t4euO8T-267oIAQAu6jDQyK0nR.woff",
       "local": [
         "Press Start 2P Regular",
         "PressStart2P-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/pressstart2p/v8/e3t4euO8T-267oIAQAu6jDQyK0nX.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=e3t4euO8T-267oIAQAu6jDQyK0nQ&skey=24cc298767068e24&v=v8#PressStart2P",
-      "ttf": "https://fonts.gstatic.com/s/pressstart2p/v8/e3t4euO8T-267oIAQAu6jDQyK0nS.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=e3t4euO8T-267oIAQAu6jDQyK0nQ&skey=24cc298767068e24&v=v9#PressStart2P",
+      "ttf": "https://fonts.gstatic.com/s/pressstart2p/v9/e3t4euO8T-267oIAQAu6jDQyK0nS.ttf",
+      "woff2": "https://fonts.gstatic.com/s/pressstart2p/v9/e3t4euO8T-267oIAQAu6jDQyK0nX.woff2",
       "errored": false
     }
   ],
   "subsets": [
+    "cyrillic",
+    "cyrillic-ext",
     "greek",
     "latin",
-    "cyrillic-ext",
-    "cyrillic",
     "latin-ext"
   ],
   "category": "display",
-  "version": "v8",
-  "lastModified": "2019-07-16",
-  "popularity": 204,
+  "version": "v9",
+  "lastModified": "2020-09-02",
+  "popularity": 201,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
+    "cyrillic": true,
+    "cyrillic-ext": true,
     "greek": true,
     "latin": true,
-    "cyrillic-ext": true,
-    "cyrillic": true,
     "latin-ext": true
   },
-  "storeID": "latin-ext_cyrillic_cyrillic-ext_latin_greek"
+  "storeID": "latin-ext_latin_greek_cyrillic-ext_cyrillic"
 }

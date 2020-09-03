@@ -1,0 +1,69 @@
+{
+  "id": "kumbh-sans",
+  "family": "Kumbh Sans",
+  "variants": [
+    {
+      "id": "300",
+      "woff": "https://fonts.gstatic.com/s/kumbhsans/v1/c4mm1n92AsfhuCq6tVsagit_7KWfWg.woff",
+      "fontFamily": "'Kumbh Sans'",
+      "fontStyle": "normal",
+      "fontWeight": "300",
+      "local": [
+        "Kumbh Sans Light",
+        "KumbhSans-Light"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/kumbhsans/v1/c4mm1n92AsfhuCq6tVsagit_7KWfXA.woff2",
+      "ttf": "https://fonts.gstatic.com/s/kumbhsans/v1/c4mm1n92AsfhuCq6tVsagit_7KWfWQ.ttf",
+      "eot": "https://fonts.gstatic.com/s/kumbhsans/v1/c4mm1n92AsfhuCq6tVsagit_7KWfWA.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=c4mm1n92AsfhuCq6tVsagit_7KWfWw&skey=7bb4b0e0382558ad&v=v1#KumbhSans",
+      "errored": false
+    },
+    {
+      "id": "regular",
+      "eot": "https://fonts.gstatic.com/s/kumbhsans/v1/c4ml1n92AsfhuCq6tVsaioBd_Q.eot",
+      "fontFamily": "'Kumbh Sans'",
+      "fontStyle": "normal",
+      "fontWeight": "400",
+      "ttf": "https://fonts.gstatic.com/s/kumbhsans/v1/c4ml1n92AsfhuCq6tVsaioBd_A.ttf",
+      "local": [
+        "Kumbh Sans Regular",
+        "KumbhSans-Regular"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/kumbhsans/v1/c4ml1n92AsfhuCq6tVsaioBd-Q.woff2",
+      "woff": "https://fonts.gstatic.com/s/kumbhsans/v1/c4ml1n92AsfhuCq6tVsaioBd_w.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=c4ml1n92AsfhuCq6tVsaioBd_g&skey=2eab798a80b69c4a&v=v1#KumbhSans",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/kumbhsans/v1/c4mm1n92AsfhuCq6tVsagjt47KWfWA.eot",
+      "fontFamily": "'Kumbh Sans'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/kumbhsans/v1/c4mm1n92AsfhuCq6tVsagjt47KWfWg.woff",
+      "local": [
+        "Kumbh Sans Bold",
+        "KumbhSans-Bold"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/kumbhsans/v1/c4mm1n92AsfhuCq6tVsagjt47KWfWQ.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=c4mm1n92AsfhuCq6tVsagjt47KWfWw&skey=c87e26352e8fb456&v=v1#KumbhSans",
+      "woff2": "https://fonts.gstatic.com/s/kumbhsans/v1/c4mm1n92AsfhuCq6tVsagjt47KWfXA.woff2",
+      "errored": false
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "category": "sans-serif",
+  "version": "v1",
+  "lastModified": "2020-09-02",
+  "popularity": 1002,
+  "defSubset": "latin",
+  "defVariant": "regular",
+  "subsetMap": {
+    "latin": true,
+    "latin-ext": false
+  },
+  "storeID": "latin"
+}

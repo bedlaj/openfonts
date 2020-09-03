@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/glegoo/v9/_Xmt-HQyrTKWaw2JiA.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=_Xmt-HQyrTKWaw2JiQ&skey=6551fc07d4130f4e&v=v10#Glegoo",
       "fontFamily": "'Glegoo'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,26 +12,26 @@
         "Glegoo",
         "Glegoo-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/glegoo/v9/_Xmt-HQyrTKWaw2Jjg.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=_Xmt-HQyrTKWaw2JiQ&skey=6551fc07d4130f4e&v=v9#Glegoo",
-      "eot": "https://fonts.gstatic.com/s/glegoo/v9/_Xmt-HQyrTKWaw2Jig.eot",
-      "ttf": "https://fonts.gstatic.com/s/glegoo/v9/_Xmt-HQyrTKWaw2Jiw.ttf",
+      "eot": "https://fonts.gstatic.com/s/glegoo/v10/_Xmt-HQyrTKWaw2Jig.eot",
+      "ttf": "https://fonts.gstatic.com/s/glegoo/v10/_Xmt-HQyrTKWaw2Jiw.ttf",
+      "woff2": "https://fonts.gstatic.com/s/glegoo/v10/_Xmt-HQyrTKWaw2Jjg.woff2",
+      "woff": "https://fonts.gstatic.com/s/glegoo/v10/_Xmt-HQyrTKWaw2JiA.woff",
       "errored": false
     },
     {
       "id": "700",
-      "eot": "https://fonts.gstatic.com/s/glegoo/v9/_Xmu-HQyrTKWaw2xN4a9CQ.eot",
+      "woff2": "https://fonts.gstatic.com/s/glegoo/v10/_Xmu-HQyrTKWaw2xN4a9DQ.woff2",
       "fontFamily": "'Glegoo'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "svg": "https://fonts.gstatic.com/l/font?kit=_Xmu-HQyrTKWaw2xN4a9Cg&skey=2a299c59145b3847&v=v9#Glegoo",
       "local": [
         "Glegoo Bold",
         "Glegoo-Bold"
       ],
-      "ttf": "https://fonts.gstatic.com/s/glegoo/v9/_Xmu-HQyrTKWaw2xN4a9CA.ttf",
-      "woff": "https://fonts.gstatic.com/s/glegoo/v9/_Xmu-HQyrTKWaw2xN4a9Cw.woff",
-      "woff2": "https://fonts.gstatic.com/s/glegoo/v9/_Xmu-HQyrTKWaw2xN4a9DQ.woff2",
+      "woff": "https://fonts.gstatic.com/s/glegoo/v10/_Xmu-HQyrTKWaw2xN4a9Cw.woff",
+      "eot": "https://fonts.gstatic.com/s/glegoo/v10/_Xmu-HQyrTKWaw2xN4a9CQ.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=_Xmu-HQyrTKWaw2xN4a9Cg&skey=2a299c59145b3847&v=v10#Glegoo",
+      "ttf": "https://fonts.gstatic.com/s/glegoo/v10/_Xmu-HQyrTKWaw2xN4a9CA.ttf",
       "errored": false
     }
   ],
@@ -41,9 +41,9 @@
     "latin-ext"
   ],
   "category": "serif",
-  "version": "v9",
-  "lastModified": "2019-07-16",
-  "popularity": 206,
+  "version": "v10",
+  "lastModified": "2020-09-02",
+  "popularity": 284,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

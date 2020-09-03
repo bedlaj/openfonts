@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/paytoneone/v12/0nksC9P7MfYHj2oFtYm2ChTigP0.woff",
+      "woff": "https://fonts.gstatic.com/s/paytoneone/v13/0nksC9P7MfYHj2oFtYm2ChTigP0.woff",
       "fontFamily": "'Paytone One'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,28 +12,28 @@
         "Paytone One Regular",
         "PaytoneOne-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/paytoneone/v12/0nksC9P7MfYHj2oFtYm2ChTigPs.woff2",
-      "eot": "https://fonts.gstatic.com/s/paytoneone/v12/0nksC9P7MfYHj2oFtYm2ChTigP8.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=0nksC9P7MfYHj2oFtYm2ChTigPw&skey=f6917b7c19023a20&v=v12#PaytoneOne",
-      "ttf": "https://fonts.gstatic.com/s/paytoneone/v12/0nksC9P7MfYHj2oFtYm2ChTigP4.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=0nksC9P7MfYHj2oFtYm2ChTigPw&skey=f6917b7c19023a20&v=v13#PaytoneOne",
+      "eot": "https://fonts.gstatic.com/s/paytoneone/v13/0nksC9P7MfYHj2oFtYm2ChTigP8.eot",
+      "woff2": "https://fonts.gstatic.com/s/paytoneone/v13/0nksC9P7MfYHj2oFtYm2ChTigPs.woff2",
+      "ttf": "https://fonts.gstatic.com/s/paytoneone/v13/0nksC9P7MfYHj2oFtYm2ChTigP4.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "vietnamese",
     "latin",
-    "latin-ext"
+    "latin-ext",
+    "vietnamese"
   ],
   "category": "sans-serif",
-  "version": "v12",
-  "lastModified": "2019-07-16",
-  "popularity": 258,
+  "version": "v13",
+  "lastModified": "2020-09-02",
+  "popularity": 195,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "vietnamese": true,
     "latin": true,
-    "latin-ext": false
+    "latin-ext": false,
+    "vietnamese": true
   },
-  "storeID": "latin_vietnamese"
+  "storeID": "vietnamese_latin"
 }

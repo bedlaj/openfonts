@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/allan/v12/ea8XadU7WuTxEubxNdU.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=ea8XadU7WuTxEubxNdI&skey=47bae38e791f0fba&v=v13#Allan",
       "fontFamily": "'Allan'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,15 +12,15 @@
         "Allan Regular",
         "Allan-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/allan/v12/ea8XadU7WuTxEubxNdE.eot",
-      "woff": "https://fonts.gstatic.com/s/allan/v12/ea8XadU7WuTxEubxNdM.woff",
-      "ttf": "https://fonts.gstatic.com/s/allan/v12/ea8XadU7WuTxEubxNdA.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=ea8XadU7WuTxEubxNdI&skey=47bae38e791f0fba&v=v12#Allan",
+      "woff2": "https://fonts.gstatic.com/s/allan/v13/ea8XadU7WuTxEubxNdU.woff2",
+      "woff": "https://fonts.gstatic.com/s/allan/v13/ea8XadU7WuTxEubxNdM.woff",
+      "ttf": "https://fonts.gstatic.com/s/allan/v13/ea8XadU7WuTxEubxNdA.ttf",
+      "eot": "https://fonts.gstatic.com/s/allan/v13/ea8XadU7WuTxEubxNdE.eot",
       "errored": false
     },
     {
       "id": "700",
-      "woff2": "https://fonts.gstatic.com/s/allan/v12/ea8aadU7WuTxEu5KEMCK02s.woff2",
+      "woff": "https://fonts.gstatic.com/s/allan/v13/ea8aadU7WuTxEu5KEMCK020.woff",
       "fontFamily": "'Allan'",
       "fontStyle": "normal",
       "fontWeight": "700",
@@ -28,10 +28,10 @@
         "Allan Bold",
         "Allan-Bold"
       ],
-      "ttf": "https://fonts.gstatic.com/s/allan/v12/ea8aadU7WuTxEu5KEMCK024.ttf",
-      "woff": "https://fonts.gstatic.com/s/allan/v12/ea8aadU7WuTxEu5KEMCK020.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=ea8aadU7WuTxEu5KEMCK02w&skey=67bf6cfd634a416d&v=v12#Allan",
-      "eot": "https://fonts.gstatic.com/s/allan/v12/ea8aadU7WuTxEu5KEMCK028.eot",
+      "woff2": "https://fonts.gstatic.com/s/allan/v13/ea8aadU7WuTxEu5KEMCK02s.woff2",
+      "eot": "https://fonts.gstatic.com/s/allan/v13/ea8aadU7WuTxEu5KEMCK028.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=ea8aadU7WuTxEu5KEMCK02w&skey=67bf6cfd634a416d&v=v13#Allan",
+      "ttf": "https://fonts.gstatic.com/s/allan/v13/ea8aadU7WuTxEu5KEMCK024.ttf",
       "errored": false
     }
   ],
@@ -40,9 +40,9 @@
     "latin-ext"
   ],
   "category": "display",
-  "version": "v12",
-  "lastModified": "2019-07-16",
-  "popularity": 331,
+  "version": "v13",
+  "lastModified": "2020-09-02",
+  "popularity": 373,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

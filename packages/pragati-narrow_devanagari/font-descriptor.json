@@ -4,23 +4,23 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/pragatinarrow/v5/vm8vdRf0T0bS1ffgsPB7WZ-mD275wNY.eot",
+      "woff": "https://fonts.gstatic.com/s/pragatinarrow/v6/vm8vdRf0T0bS1ffgsPB7WZ-mD275wNQ.woff",
       "fontFamily": "'Pragati Narrow'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/pragatinarrow/v5/vm8vdRf0T0bS1ffgsPB7WZ-mD275wNI.woff2",
       "local": [
         "Pragati Narrow",
         "PragatiNarrow-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=vm8vdRf0T0bS1ffgsPB7WZ-mD275wNU&skey=b6e4ea7fd62f73f&v=v5#PragatiNarrow",
-      "woff": "https://fonts.gstatic.com/s/pragatinarrow/v5/vm8vdRf0T0bS1ffgsPB7WZ-mD275wNQ.woff",
-      "ttf": "https://fonts.gstatic.com/s/pragatinarrow/v5/vm8vdRf0T0bS1ffgsPB7WZ-mD275wNc.ttf",
+      "eot": "https://fonts.gstatic.com/s/pragatinarrow/v6/vm8vdRf0T0bS1ffgsPB7WZ-mD275wNY.eot",
+      "woff2": "https://fonts.gstatic.com/s/pragatinarrow/v6/vm8vdRf0T0bS1ffgsPB7WZ-mD275wNI.woff2",
+      "ttf": "https://fonts.gstatic.com/s/pragatinarrow/v6/vm8vdRf0T0bS1ffgsPB7WZ-mD275wNc.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=vm8vdRf0T0bS1ffgsPB7WZ-mD275wNU&skey=b6e4ea7fd62f73f&v=v6#PragatiNarrow",
       "errored": false
     },
     {
       "id": "700",
-      "woff2": "https://fonts.gstatic.com/s/pragatinarrow/v5/vm8sdRf0T0bS1ffgsPB7WZ-mD2ZD5cd5EpI.woff2",
+      "woff": "https://fonts.gstatic.com/s/pragatinarrow/v6/vm8sdRf0T0bS1ffgsPB7WZ-mD2ZD5cd5EpQ.woff",
       "fontFamily": "'Pragati Narrow'",
       "fontStyle": "normal",
       "fontWeight": "700",
@@ -28,10 +28,10 @@
         "Pragati Narrow Bold",
         "PragatiNarrow-Bold"
       ],
-      "woff": "https://fonts.gstatic.com/s/pragatinarrow/v5/vm8sdRf0T0bS1ffgsPB7WZ-mD2ZD5cd5EpQ.woff",
-      "eot": "https://fonts.gstatic.com/s/pragatinarrow/v5/vm8sdRf0T0bS1ffgsPB7WZ-mD2ZD5cd5EpY.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=vm8sdRf0T0bS1ffgsPB7WZ-mD2ZD5cd5EpU&skey=94136af606b6a494&v=v5#PragatiNarrow",
-      "ttf": "https://fonts.gstatic.com/s/pragatinarrow/v5/vm8sdRf0T0bS1ffgsPB7WZ-mD2ZD5cd5Epc.ttf",
+      "woff2": "https://fonts.gstatic.com/s/pragatinarrow/v6/vm8sdRf0T0bS1ffgsPB7WZ-mD2ZD5cd5EpI.woff2",
+      "eot": "https://fonts.gstatic.com/s/pragatinarrow/v6/vm8sdRf0T0bS1ffgsPB7WZ-mD2ZD5cd5EpY.eot",
+      "ttf": "https://fonts.gstatic.com/s/pragatinarrow/v6/vm8sdRf0T0bS1ffgsPB7WZ-mD2ZD5cd5Epc.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=vm8sdRf0T0bS1ffgsPB7WZ-mD2ZD5cd5EpU&skey=94136af606b6a494&v=v6#PragatiNarrow",
       "errored": false
     }
   ],
@@ -41,9 +41,9 @@
     "latin-ext"
   ],
   "category": "sans-serif",
-  "version": "v5",
-  "lastModified": "2019-07-16",
-  "popularity": 259,
+  "version": "v6",
+  "lastModified": "2020-09-02",
+  "popularity": 221,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

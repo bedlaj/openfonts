@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/aldrich/v10/MCoTzAn-1s3IGyJMVacY2Q.woff",
+      "woff2": "https://fonts.gstatic.com/s/aldrich/v11/MCoTzAn-1s3IGyJMVacY3w.woff2",
       "fontFamily": "'Aldrich'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Aldrich Regular",
         "Aldrich-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/aldrich/v10/MCoTzAn-1s3IGyJMVacY3w.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=MCoTzAn-1s3IGyJMVacY2A&skey=b376a342fbff0b06&v=v10#Aldrich",
-      "ttf": "https://fonts.gstatic.com/s/aldrich/v10/MCoTzAn-1s3IGyJMVacY2g.ttf",
-      "eot": "https://fonts.gstatic.com/s/aldrich/v10/MCoTzAn-1s3IGyJMVacY2w.eot",
+      "ttf": "https://fonts.gstatic.com/s/aldrich/v11/MCoTzAn-1s3IGyJMVacY2g.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=MCoTzAn-1s3IGyJMVacY2A&skey=b376a342fbff0b06&v=v11#Aldrich",
+      "eot": "https://fonts.gstatic.com/s/aldrich/v11/MCoTzAn-1s3IGyJMVacY2w.eot",
+      "woff": "https://fonts.gstatic.com/s/aldrich/v11/MCoTzAn-1s3IGyJMVacY2Q.woff",
       "errored": false
     }
   ],
@@ -23,9 +23,9 @@
     "latin"
   ],
   "category": "sans-serif",
-  "version": "v10",
-  "lastModified": "2019-07-16",
-  "popularity": 277,
+  "version": "v11",
+  "lastModified": "2020-09-02",
+  "popularity": 352,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

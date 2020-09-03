@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Yq6V-LyURyLy-aKCqh5i&skey=87f93ede6042afc6&v=v7#Rufina",
+      "woff": "https://fonts.gstatic.com/s/rufina/v8/Yq6V-LyURyLy-aKCqh5j.woff",
       "fontFamily": "'Rufina'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,26 +12,26 @@
         "Rufina",
         "Rufina-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/rufina/v7/Yq6V-LyURyLy-aKCqh5j.woff",
-      "ttf": "https://fonts.gstatic.com/s/rufina/v7/Yq6V-LyURyLy-aKCqh5g.ttf",
-      "woff2": "https://fonts.gstatic.com/s/rufina/v7/Yq6V-LyURyLy-aKCqh5l.woff2",
-      "eot": "https://fonts.gstatic.com/s/rufina/v7/Yq6V-LyURyLy-aKCqh5h.eot",
+      "woff2": "https://fonts.gstatic.com/s/rufina/v8/Yq6V-LyURyLy-aKCqh5l.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Yq6V-LyURyLy-aKCqh5i&skey=87f93ede6042afc6&v=v8#Rufina",
+      "ttf": "https://fonts.gstatic.com/s/rufina/v8/Yq6V-LyURyLy-aKCqh5g.ttf",
+      "eot": "https://fonts.gstatic.com/s/rufina/v8/Yq6V-LyURyLy-aKCqh5h.eot",
       "errored": false
     },
     {
       "id": "700",
-      "woff": "https://fonts.gstatic.com/s/rufina/v7/Yq6W-LyURyLy-aKKHztwtcZZ.woff",
+      "eot": "https://fonts.gstatic.com/s/rufina/v8/Yq6W-LyURyLy-aKKHztwtcZb.eot",
       "fontFamily": "'Rufina'",
       "fontStyle": "normal",
       "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/rufina/v8/Yq6W-LyURyLy-aKKHztwtcZZ.woff",
       "local": [
         "Rufina Bold",
         "Rufina-Bold"
       ],
-      "woff2": "https://fonts.gstatic.com/s/rufina/v7/Yq6W-LyURyLy-aKKHztwtcZf.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Yq6W-LyURyLy-aKKHztwtcZY&skey=a6e00281bfb527ba&v=v7#Rufina",
-      "eot": "https://fonts.gstatic.com/s/rufina/v7/Yq6W-LyURyLy-aKKHztwtcZb.eot",
-      "ttf": "https://fonts.gstatic.com/s/rufina/v7/Yq6W-LyURyLy-aKKHztwtcZa.ttf",
+      "woff2": "https://fonts.gstatic.com/s/rufina/v8/Yq6W-LyURyLy-aKKHztwtcZf.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Yq6W-LyURyLy-aKKHztwtcZY&skey=a6e00281bfb527ba&v=v8#Rufina",
+      "ttf": "https://fonts.gstatic.com/s/rufina/v8/Yq6W-LyURyLy-aKKHztwtcZa.ttf",
       "errored": false
     }
   ],
@@ -40,9 +40,9 @@
     "latin-ext"
   ],
   "category": "serif",
-  "version": "v7",
-  "lastModified": "2019-07-16",
-  "popularity": 336,
+  "version": "v8",
+  "lastModified": "2020-09-02",
+  "popularity": 319,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

@@ -4,36 +4,36 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/bungee/v5/N0bU2SZBIuF2PU_0A3Rz.woff",
+      "eot": "https://fonts.gstatic.com/s/bungee/v6/N0bU2SZBIuF2PU_0A3Rx.eot",
       "fontFamily": "'Bungee'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/bungee/v6/N0bU2SZBIuF2PU_0A3Rz.woff",
       "local": [
         "Bungee",
         "Bungee-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=N0bU2SZBIuF2PU_0A3Ry&skey=2e93db42ee6e0e28&v=v5#Bungee",
-      "woff2": "https://fonts.gstatic.com/s/bungee/v5/N0bU2SZBIuF2PU_0A3R1.woff2",
-      "eot": "https://fonts.gstatic.com/s/bungee/v5/N0bU2SZBIuF2PU_0A3Rx.eot",
-      "ttf": "https://fonts.gstatic.com/s/bungee/v5/N0bU2SZBIuF2PU_0A3Rw.ttf",
+      "woff2": "https://fonts.gstatic.com/s/bungee/v6/N0bU2SZBIuF2PU_0A3R1.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=N0bU2SZBIuF2PU_0A3Ry&skey=2e93db42ee6e0e28&v=v6#Bungee",
+      "ttf": "https://fonts.gstatic.com/s/bungee/v6/N0bU2SZBIuF2PU_0A3Rw.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "vietnamese",
     "latin",
-    "latin-ext"
+    "latin-ext",
+    "vietnamese"
   ],
   "category": "display",
-  "version": "v5",
-  "lastModified": "2019-07-16",
-  "popularity": 375,
+  "version": "v6",
+  "lastModified": "2020-09-02",
+  "popularity": 305,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "vietnamese": false,
     "latin": true,
-    "latin-ext": true
+    "latin-ext": true,
+    "vietnamese": false
   },
   "storeID": "latin-ext_latin"
 }

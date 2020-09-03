@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=9Bt33CxNwt7aOctW2xjbCstzwVKsIBVV--StxbA&skey=e76684586970fdda&v=v9#FrederickatheGreat",
+      "woff": "https://fonts.gstatic.com/s/frederickathegreat/v10/9Bt33CxNwt7aOctW2xjbCstzwVKsIBVV--StxbE.woff",
       "fontFamily": "'Fredericka the Great'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,26 +12,26 @@
         "Fredericka the Great",
         "FrederickatheGreat"
       ],
-      "woff": "https://fonts.gstatic.com/s/frederickathegreat/v9/9Bt33CxNwt7aOctW2xjbCstzwVKsIBVV--StxbE.woff",
-      "eot": "https://fonts.gstatic.com/s/frederickathegreat/v9/9Bt33CxNwt7aOctW2xjbCstzwVKsIBVV--StxbM.eot",
-      "ttf": "https://fonts.gstatic.com/s/frederickathegreat/v9/9Bt33CxNwt7aOctW2xjbCstzwVKsIBVV--StxbI.ttf",
-      "woff2": "https://fonts.gstatic.com/s/frederickathegreat/v9/9Bt33CxNwt7aOctW2xjbCstzwVKsIBVV--Stxbc.woff2",
+      "eot": "https://fonts.gstatic.com/s/frederickathegreat/v10/9Bt33CxNwt7aOctW2xjbCstzwVKsIBVV--StxbM.eot",
+      "ttf": "https://fonts.gstatic.com/s/frederickathegreat/v10/9Bt33CxNwt7aOctW2xjbCstzwVKsIBVV--StxbI.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=9Bt33CxNwt7aOctW2xjbCstzwVKsIBVV--StxbA&skey=e76684586970fdda&v=v10#FrederickatheGreat",
+      "woff2": "https://fonts.gstatic.com/s/frederickathegreat/v10/9Bt33CxNwt7aOctW2xjbCstzwVKsIBVV--Stxbc.woff2",
       "errored": false
     }
   ],
   "subsets": [
-    "latin-ext",
-    "latin"
+    "latin",
+    "latin-ext"
   ],
   "category": "display",
-  "version": "v9",
-  "lastModified": "2019-07-26",
-  "popularity": 294,
+  "version": "v10",
+  "lastModified": "2020-09-02",
+  "popularity": 332,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin-ext": true,
-    "latin": true
+    "latin": true,
+    "latin-ext": true
   },
-  "storeID": "latin_latin-ext"
+  "storeID": "latin-ext_latin"
 }

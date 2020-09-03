@@ -4,37 +4,37 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/forum/v10/6aey4Ky-Vb8Ew_IX.eot",
+      "woff2": "https://fonts.gstatic.com/s/forum/v11/6aey4Ky-Vb8Ew_IT.woff2",
       "fontFamily": "'Forum'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "svg": "https://fonts.gstatic.com/l/font?kit=6aey4Ky-Vb8Ew_IU&skey=85e1828a547f7984&v=v10#Forum",
       "local": [
         "Forum"
       ],
-      "woff": "https://fonts.gstatic.com/s/forum/v10/6aey4Ky-Vb8Ew_IV.woff",
-      "woff2": "https://fonts.gstatic.com/s/forum/v10/6aey4Ky-Vb8Ew_IT.woff2",
-      "ttf": "https://fonts.gstatic.com/s/forum/v10/6aey4Ky-Vb8Ew_IW.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=6aey4Ky-Vb8Ew_IU&skey=85e1828a547f7984&v=v11#Forum",
+      "eot": "https://fonts.gstatic.com/s/forum/v11/6aey4Ky-Vb8Ew_IX.eot",
+      "ttf": "https://fonts.gstatic.com/s/forum/v11/6aey4Ky-Vb8Ew_IW.ttf",
+      "woff": "https://fonts.gstatic.com/s/forum/v11/6aey4Ky-Vb8Ew_IV.woff",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
-    "cyrillic-ext",
     "cyrillic",
+    "cyrillic-ext",
+    "latin",
     "latin-ext"
   ],
   "category": "display",
-  "version": "v10",
-  "lastModified": "2019-07-16",
-  "popularity": 269,
+  "version": "v11",
+  "lastModified": "2020-09-02",
+  "popularity": 345,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
-    "cyrillic-ext": true,
     "cyrillic": true,
+    "cyrillic-ext": true,
+    "latin": true,
     "latin-ext": true
   },
-  "storeID": "latin-ext_cyrillic_cyrillic-ext_latin"
+  "storeID": "latin-ext_latin_cyrillic-ext_cyrillic"
 }

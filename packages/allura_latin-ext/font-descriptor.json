@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/allura/v8/9oRPNYsQpS4zjuA_hQgS.eot",
+      "woff": "https://fonts.gstatic.com/s/allura/v9/9oRPNYsQpS4zjuA_hQgQ.woff",
       "fontFamily": "'Allura'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/allura/v8/9oRPNYsQpS4zjuA_hQgQ.woff",
       "local": [
         "Allura Regular",
         "Allura-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=9oRPNYsQpS4zjuA_hQgR&skey=79209908b474aec&v=v8#Allura",
-      "ttf": "https://fonts.gstatic.com/s/allura/v8/9oRPNYsQpS4zjuA_hQgT.ttf",
-      "woff2": "https://fonts.gstatic.com/s/allura/v8/9oRPNYsQpS4zjuA_hQgW.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=9oRPNYsQpS4zjuA_hQgR&skey=79209908b474aec&v=v9#Allura",
+      "woff2": "https://fonts.gstatic.com/s/allura/v9/9oRPNYsQpS4zjuA_hQgW.woff2",
+      "ttf": "https://fonts.gstatic.com/s/allura/v9/9oRPNYsQpS4zjuA_hQgT.ttf",
+      "eot": "https://fonts.gstatic.com/s/allura/v9/9oRPNYsQpS4zjuA_hQgS.eot",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "handwriting",
-  "version": "v8",
-  "lastModified": "2019-07-16",
-  "popularity": 245,
+  "version": "v9",
+  "lastModified": "2020-09-02",
+  "popularity": 237,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

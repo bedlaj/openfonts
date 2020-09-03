@@ -4,148 +4,116 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/cabin/v14/u-4x0qWljRw-Pd8-__0.woff2",
+      "eot": "https://fonts.gstatic.com/s/cabin/v15/u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkV2EH7ilww.eot",
       "fontFamily": "'Cabin'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "local": [
-        "Cabin",
-        "Cabin-Regular"
-      ],
-      "ttf": "https://fonts.gstatic.com/s/cabin/v14/u-4x0qWljRw-Pd8-__g.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=u-4x0qWljRw-Pd8-__o&skey=d53a2c61c6b52b74&v=v14#Cabin",
-      "woff": "https://fonts.gstatic.com/s/cabin/v14/u-4x0qWljRw-Pd8-__s.woff",
-      "eot": "https://fonts.gstatic.com/s/cabin/v14/u-4x0qWljRw-Pd8-__k.eot",
-      "errored": false
-    },
-    {
-      "id": "italic",
-      "woff2": "https://fonts.gstatic.com/s/cabin/v14/u-4_0qWljRw-Pd81z_FCng.woff2",
-      "fontFamily": "'Cabin'",
-      "fontStyle": "italic",
-      "fontWeight": "400",
-      "local": [
-        "Cabin Italic",
-        "Cabin-Italic"
-      ],
-      "woff": "https://fonts.gstatic.com/s/cabin/v14/u-4_0qWljRw-Pd81z_FCmA.woff",
-      "ttf": "https://fonts.gstatic.com/s/cabin/v14/u-4_0qWljRw-Pd81z_FCmw.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=u-4_0qWljRw-Pd81z_FCmQ&skey=72a025bcae5df692&v=v14#Cabin",
-      "eot": "https://fonts.gstatic.com/s/cabin/v14/u-4_0qWljRw-Pd81z_FCmg.eot",
+      "woff": "https://fonts.gstatic.com/s/cabin/v15/u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkV2EH7ilwQ.woff",
+      "woff2": "https://fonts.gstatic.com/s/cabin/v15/u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkV2EH7ilxw.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkV2EH7ilwA&skey=d53a2c61c6b52b74&v=v15#Cabin",
+      "ttf": "https://fonts.gstatic.com/s/cabin/v15/u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkV2EH7ilwg.ttf",
       "errored": false
     },
     {
       "id": "500",
-      "eot": "https://fonts.gstatic.com/s/cabin/v14/u-480qWljRw-PdfD3Ohruy0.eot",
+      "eot": "https://fonts.gstatic.com/s/cabin/v15/u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkW-EH7ilww.eot",
       "fontFamily": "'Cabin'",
       "fontStyle": "normal",
       "fontWeight": "500",
-      "woff": "https://fonts.gstatic.com/s/cabin/v14/u-480qWljRw-PdfD3Ohruy8.woff",
-      "local": [
-        "Cabin Medium",
-        "Cabin-Medium"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/cabin/v14/u-480qWljRw-PdfD3Ohruyk.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=u-480qWljRw-PdfD3Ohruy4&skey=f79bd67cc4cfa68b&v=v14#Cabin",
-      "ttf": "https://fonts.gstatic.com/s/cabin/v14/u-480qWljRw-PdfD3Ohruyw.ttf",
-      "errored": false
-    },
-    {
-      "id": "500italic",
-      "eot": "https://fonts.gstatic.com/s/cabin/v14/u-460qWljRw-Pd81xwxhiyVOeg.eot",
-      "fontFamily": "'Cabin'",
-      "fontStyle": "italic",
-      "fontWeight": "500",
-      "woff": "https://fonts.gstatic.com/s/cabin/v14/u-460qWljRw-Pd81xwxhiyVOeA.woff",
-      "local": [
-        "Cabin Medium Italic",
-        "Cabin-MediumItalic"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/cabin/v14/u-460qWljRw-Pd81xwxhiyVOfg.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=u-460qWljRw-Pd81xwxhiyVOeQ&skey=9f6d89d3a095f515&v=v14#Cabin",
-      "ttf": "https://fonts.gstatic.com/s/cabin/v14/u-460qWljRw-Pd81xwxhiyVOew.ttf",
-      "errored": false
-    },
-    {
-      "id": "600italic",
-      "eot": "https://fonts.gstatic.com/s/cabin/v14/u-460qWljRw-Pd81xyBmiyVOeg.eot",
-      "fontFamily": "'Cabin'",
-      "fontStyle": "italic",
-      "fontWeight": "600",
-      "woff": "https://fonts.gstatic.com/s/cabin/v14/u-460qWljRw-Pd81xyBmiyVOeA.woff",
-      "local": [
-        "Cabin SemiBold Italic",
-        "Cabin-SemiBoldItalic"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/cabin/v14/u-460qWljRw-Pd81xyBmiyVOfg.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=u-460qWljRw-Pd81xyBmiyVOeQ&skey=5564bd08dc7fbe67&v=v14#Cabin",
-      "ttf": "https://fonts.gstatic.com/s/cabin/v14/u-460qWljRw-Pd81xyBmiyVOew.ttf",
+      "woff": "https://fonts.gstatic.com/s/cabin/v15/u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkW-EH7ilwQ.woff",
+      "woff2": "https://fonts.gstatic.com/s/cabin/v15/u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkW-EH7ilxw.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkW-EH7ilwA&skey=d53a2c61c6b52b74&v=v15#Cabin",
+      "ttf": "https://fonts.gstatic.com/s/cabin/v15/u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkW-EH7ilwg.ttf",
       "errored": false
     },
     {
       "id": "600",
-      "woff2": "https://fonts.gstatic.com/s/cabin/v14/u-480qWljRw-Pdfv2-hruyk.woff2",
+      "woff2": "https://fonts.gstatic.com/s/cabin/v15/u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkYODH7ilxw.woff2",
       "fontFamily": "'Cabin'",
       "fontStyle": "normal",
       "fontWeight": "600",
-      "local": [
-        "Cabin SemiBold",
-        "Cabin-SemiBold"
-      ],
-      "ttf": "https://fonts.gstatic.com/s/cabin/v14/u-480qWljRw-Pdfv2-hruyw.ttf",
-      "eot": "https://fonts.gstatic.com/s/cabin/v14/u-480qWljRw-Pdfv2-hruy0.eot",
-      "woff": "https://fonts.gstatic.com/s/cabin/v14/u-480qWljRw-Pdfv2-hruy8.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=u-480qWljRw-Pdfv2-hruy4&skey=7553d1dffc73cbfc&v=v14#Cabin",
+      "woff": "https://fonts.gstatic.com/s/cabin/v15/u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkYODH7ilwQ.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkYODH7ilwA&skey=d53a2c61c6b52b74&v=v15#Cabin",
+      "ttf": "https://fonts.gstatic.com/s/cabin/v15/u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkYODH7ilwg.ttf",
+      "eot": "https://fonts.gstatic.com/s/cabin/v15/u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkYODH7ilww.eot",
       "errored": false
     },
     {
       "id": "700",
-      "eot": "https://fonts.gstatic.com/s/cabin/v14/u-480qWljRw-PdeL2uhruy0.eot",
+      "eot": "https://fonts.gstatic.com/s/cabin/v15/u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkbqDH7ilww.eot",
       "fontFamily": "'Cabin'",
       "fontStyle": "normal",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/cabin/v14/u-480qWljRw-PdeL2uhruy8.woff",
-      "local": [
-        "Cabin Bold",
-        "Cabin-Bold"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/cabin/v14/u-480qWljRw-PdeL2uhruyk.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=u-480qWljRw-PdeL2uhruy4&skey=bde0232fb97f4a72&v=v14#Cabin",
-      "ttf": "https://fonts.gstatic.com/s/cabin/v14/u-480qWljRw-PdeL2uhruyw.ttf",
+      "woff": "https://fonts.gstatic.com/s/cabin/v15/u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkbqDH7ilwQ.woff",
+      "woff2": "https://fonts.gstatic.com/s/cabin/v15/u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkbqDH7ilxw.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkbqDH7ilwA&skey=d53a2c61c6b52b74&v=v15#Cabin",
+      "ttf": "https://fonts.gstatic.com/s/cabin/v15/u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkbqDH7ilwg.ttf",
+      "errored": false
+    },
+    {
+      "id": "italic",
+      "eot": "https://fonts.gstatic.com/s/cabin/v15/u-4V0qWljRw-Pd815fNqc8T_wAFcX-c37MPiNYlWniJ2hJXHx_KVy0br.eot",
+      "fontFamily": "'Cabin'",
+      "fontStyle": "italic",
+      "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/cabin/v15/u-4V0qWljRw-Pd815fNqc8T_wAFcX-c37MPiNYlWniJ2hJXHx_KVy0bp.woff",
+      "woff2": "https://fonts.gstatic.com/s/cabin/v15/u-4V0qWljRw-Pd815fNqc8T_wAFcX-c37MPiNYlWniJ2hJXHx_KVy0bv.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=u-4V0qWljRw-Pd815fNqc8T_wAFcX-c37MPiNYlWniJ2hJXHx_KVy0bo&skey=72a025bcae5df692&v=v15#Cabin",
+      "ttf": "https://fonts.gstatic.com/s/cabin/v15/u-4V0qWljRw-Pd815fNqc8T_wAFcX-c37MPiNYlWniJ2hJXHx_KVy0bq.ttf",
+      "errored": false
+    },
+    {
+      "id": "500italic",
+      "woff": "https://fonts.gstatic.com/s/cabin/v15/u-4V0qWljRw-Pd815fNqc8T_wAFcX-c37MPiNYlWniJ2hJXH9fKVy0bp.woff",
+      "fontFamily": "'Cabin'",
+      "fontStyle": "italic",
+      "fontWeight": "500",
+      "eot": "https://fonts.gstatic.com/s/cabin/v15/u-4V0qWljRw-Pd815fNqc8T_wAFcX-c37MPiNYlWniJ2hJXH9fKVy0br.eot",
+      "woff2": "https://fonts.gstatic.com/s/cabin/v15/u-4V0qWljRw-Pd815fNqc8T_wAFcX-c37MPiNYlWniJ2hJXH9fKVy0bv.woff2",
+      "ttf": "https://fonts.gstatic.com/s/cabin/v15/u-4V0qWljRw-Pd815fNqc8T_wAFcX-c37MPiNYlWniJ2hJXH9fKVy0bq.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=u-4V0qWljRw-Pd815fNqc8T_wAFcX-c37MPiNYlWniJ2hJXH9fKVy0bo&skey=72a025bcae5df692&v=v15#Cabin",
+      "errored": false
+    },
+    {
+      "id": "600italic",
+      "woff": "https://fonts.gstatic.com/s/cabin/v15/u-4V0qWljRw-Pd815fNqc8T_wAFcX-c37MPiNYlWniJ2hJXHGfWVy0bp.woff",
+      "fontFamily": "'Cabin'",
+      "fontStyle": "italic",
+      "fontWeight": "600",
+      "eot": "https://fonts.gstatic.com/s/cabin/v15/u-4V0qWljRw-Pd815fNqc8T_wAFcX-c37MPiNYlWniJ2hJXHGfWVy0br.eot",
+      "woff2": "https://fonts.gstatic.com/s/cabin/v15/u-4V0qWljRw-Pd815fNqc8T_wAFcX-c37MPiNYlWniJ2hJXHGfWVy0bv.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=u-4V0qWljRw-Pd815fNqc8T_wAFcX-c37MPiNYlWniJ2hJXHGfWVy0bo&skey=72a025bcae5df692&v=v15#Cabin",
+      "ttf": "https://fonts.gstatic.com/s/cabin/v15/u-4V0qWljRw-Pd815fNqc8T_wAFcX-c37MPiNYlWniJ2hJXHGfWVy0bq.ttf",
       "errored": false
     },
     {
       "id": "700italic",
-      "eot": "https://fonts.gstatic.com/s/cabin/v14/u-460qWljRw-Pd81x0RniyVOeg.eot",
+      "eot": "https://fonts.gstatic.com/s/cabin/v15/u-4V0qWljRw-Pd815fNqc8T_wAFcX-c37MPiNYlWniJ2hJXHIPWVy0br.eot",
       "fontFamily": "'Cabin'",
       "fontStyle": "italic",
       "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/cabin/v14/u-460qWljRw-Pd81x0RniyVOeA.woff",
-      "local": [
-        "Cabin Bold Italic",
-        "Cabin-BoldItalic"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=u-460qWljRw-Pd81x0RniyVOeQ&skey=ebc162262801060b&v=v14#Cabin",
-      "ttf": "https://fonts.gstatic.com/s/cabin/v14/u-460qWljRw-Pd81x0RniyVOew.ttf",
-      "woff2": "https://fonts.gstatic.com/s/cabin/v14/u-460qWljRw-Pd81x0RniyVOfg.woff2",
+      "woff": "https://fonts.gstatic.com/s/cabin/v15/u-4V0qWljRw-Pd815fNqc8T_wAFcX-c37MPiNYlWniJ2hJXHIPWVy0bp.woff",
+      "woff2": "https://fonts.gstatic.com/s/cabin/v15/u-4V0qWljRw-Pd815fNqc8T_wAFcX-c37MPiNYlWniJ2hJXHIPWVy0bv.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=u-4V0qWljRw-Pd815fNqc8T_wAFcX-c37MPiNYlWniJ2hJXHIPWVy0bo&skey=72a025bcae5df692&v=v15#Cabin",
+      "ttf": "https://fonts.gstatic.com/s/cabin/v15/u-4V0qWljRw-Pd815fNqc8T_wAFcX-c37MPiNYlWniJ2hJXHIPWVy0bq.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "vietnamese",
     "latin",
-    "latin-ext"
+    "latin-ext",
+    "vietnamese"
   ],
   "category": "sans-serif",
-  "version": "v14",
-  "lastModified": "2019-07-22",
-  "popularity": 45,
+  "version": "v15",
+  "lastModified": "2020-09-02",
+  "popularity": 50,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "vietnamese": false,
     "latin": true,
-    "latin-ext": true
+    "latin-ext": true,
+    "vietnamese": false
   },
   "storeID": "latin-ext_latin"
 }

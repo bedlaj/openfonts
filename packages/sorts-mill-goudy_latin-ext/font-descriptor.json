@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Qw3GZR9MED_6PSuS_50nEaVrfzgEbHQEiA&skey=22cb687a970a0180&v=v9#SortsMillGoudy",
+      "woff2": "https://fonts.gstatic.com/s/sortsmillgoudy/v10/Qw3GZR9MED_6PSuS_50nEaVrfzgEbHQEjw.woff2",
       "fontFamily": "'Sorts Mill Goudy'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,15 +12,15 @@
         "Sorts Mill Goudy Regular",
         "SortsMillGoudy-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/sortsmillgoudy/v9/Qw3GZR9MED_6PSuS_50nEaVrfzgEbHQEjw.woff2",
-      "ttf": "https://fonts.gstatic.com/s/sortsmillgoudy/v9/Qw3GZR9MED_6PSuS_50nEaVrfzgEbHQEig.ttf",
-      "eot": "https://fonts.gstatic.com/s/sortsmillgoudy/v9/Qw3GZR9MED_6PSuS_50nEaVrfzgEbHQEiw.eot",
-      "woff": "https://fonts.gstatic.com/s/sortsmillgoudy/v9/Qw3GZR9MED_6PSuS_50nEaVrfzgEbHQEiQ.woff",
+      "woff": "https://fonts.gstatic.com/s/sortsmillgoudy/v10/Qw3GZR9MED_6PSuS_50nEaVrfzgEbHQEiQ.woff",
+      "eot": "https://fonts.gstatic.com/s/sortsmillgoudy/v10/Qw3GZR9MED_6PSuS_50nEaVrfzgEbHQEiw.eot",
+      "ttf": "https://fonts.gstatic.com/s/sortsmillgoudy/v10/Qw3GZR9MED_6PSuS_50nEaVrfzgEbHQEig.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Qw3GZR9MED_6PSuS_50nEaVrfzgEbHQEiA&skey=22cb687a970a0180&v=v10#SortsMillGoudy",
       "errored": false
     },
     {
       "id": "italic",
-      "woff2": "https://fonts.gstatic.com/s/sortsmillgoudy/v9/Qw3AZR9MED_6PSuS_50nEaVrfzgEbH80g7s_.woff2",
+      "woff2": "https://fonts.gstatic.com/s/sortsmillgoudy/v10/Qw3AZR9MED_6PSuS_50nEaVrfzgEbH80g7s_.woff2",
       "fontFamily": "'Sorts Mill Goudy'",
       "fontStyle": "italic",
       "fontWeight": "400",
@@ -28,10 +28,10 @@
         "Sorts Mill Goudy Italic",
         "SortsMillGoudy-Italic"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=Qw3AZR9MED_6PSuS_50nEaVrfzgEbH80g7s4&skey=f3a9910c3adf6761&v=v9#SortsMillGoudy",
-      "ttf": "https://fonts.gstatic.com/s/sortsmillgoudy/v9/Qw3AZR9MED_6PSuS_50nEaVrfzgEbH80g7s6.ttf",
-      "eot": "https://fonts.gstatic.com/s/sortsmillgoudy/v9/Qw3AZR9MED_6PSuS_50nEaVrfzgEbH80g7s7.eot",
-      "woff": "https://fonts.gstatic.com/s/sortsmillgoudy/v9/Qw3AZR9MED_6PSuS_50nEaVrfzgEbH80g7s5.woff",
+      "eot": "https://fonts.gstatic.com/s/sortsmillgoudy/v10/Qw3AZR9MED_6PSuS_50nEaVrfzgEbH80g7s7.eot",
+      "ttf": "https://fonts.gstatic.com/s/sortsmillgoudy/v10/Qw3AZR9MED_6PSuS_50nEaVrfzgEbH80g7s6.ttf",
+      "woff": "https://fonts.gstatic.com/s/sortsmillgoudy/v10/Qw3AZR9MED_6PSuS_50nEaVrfzgEbH80g7s5.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Qw3AZR9MED_6PSuS_50nEaVrfzgEbH80g7s4&skey=f3a9910c3adf6761&v=v10#SortsMillGoudy",
       "errored": false
     }
   ],
@@ -40,9 +40,9 @@
     "latin-ext"
   ],
   "category": "serif",
-  "version": "v9",
-  "lastModified": "2019-07-16",
-  "popularity": 228,
+  "version": "v10",
+  "lastModified": "2020-09-02",
+  "popularity": 276,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

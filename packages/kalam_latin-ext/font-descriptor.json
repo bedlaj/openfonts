@@ -4,50 +4,50 @@
   "variants": [
     {
       "id": "300",
-      "eot": "https://fonts.gstatic.com/s/kalam/v10/YA9Qr0Wd4kDdMtD6GjLCkiA.eot",
+      "woff2": "https://fonts.gstatic.com/s/kalam/v11/YA9Qr0Wd4kDdMtD6GjLCkiQ.woff2",
       "fontFamily": "'Kalam'",
       "fontStyle": "normal",
       "fontWeight": "300",
-      "woff": "https://fonts.gstatic.com/s/kalam/v10/YA9Qr0Wd4kDdMtD6GjLCkiI.woff",
       "local": [
         "Kalam Light",
         "Kalam-Light"
       ],
-      "woff2": "https://fonts.gstatic.com/s/kalam/v10/YA9Qr0Wd4kDdMtD6GjLCkiQ.woff2",
-      "ttf": "https://fonts.gstatic.com/s/kalam/v10/YA9Qr0Wd4kDdMtD6GjLCkiE.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=YA9Qr0Wd4kDdMtD6GjLCkiM&skey=160ea477ddf906aa&v=v10#Kalam",
-      "errored": false
-    },
-    {
-      "id": "700",
-      "woff": "https://fonts.gstatic.com/s/kalam/v10/YA9Qr0Wd4kDdMtDqHTLCkiI.woff",
-      "fontFamily": "'Kalam'",
-      "fontStyle": "normal",
-      "fontWeight": "700",
-      "local": [
-        "Kalam Bold",
-        "Kalam-Bold"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/kalam/v10/YA9Qr0Wd4kDdMtDqHTLCkiQ.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=YA9Qr0Wd4kDdMtDqHTLCkiM&skey=31f303804b29bb6c&v=v10#Kalam",
-      "ttf": "https://fonts.gstatic.com/s/kalam/v10/YA9Qr0Wd4kDdMtDqHTLCkiE.ttf",
-      "eot": "https://fonts.gstatic.com/s/kalam/v10/YA9Qr0Wd4kDdMtDqHTLCkiA.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=YA9Qr0Wd4kDdMtD6GjLCkiM&skey=160ea477ddf906aa&v=v11#Kalam",
+      "ttf": "https://fonts.gstatic.com/s/kalam/v11/YA9Qr0Wd4kDdMtD6GjLCkiE.ttf",
+      "eot": "https://fonts.gstatic.com/s/kalam/v11/YA9Qr0Wd4kDdMtD6GjLCkiA.eot",
+      "woff": "https://fonts.gstatic.com/s/kalam/v11/YA9Qr0Wd4kDdMtD6GjLCkiI.woff",
       "errored": false
     },
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/kalam/v10/YA9dr0Wd4kDdMthfOCM.eot",
+      "woff": "https://fonts.gstatic.com/s/kalam/v11/YA9dr0Wd4kDdMthfOCE.woff",
       "fontFamily": "'Kalam'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/kalam/v10/YA9dr0Wd4kDdMthfOCE.woff",
       "local": [
         "Kalam",
         "Kalam-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/kalam/v10/YA9dr0Wd4kDdMthfOCc.woff2",
-      "ttf": "https://fonts.gstatic.com/s/kalam/v10/YA9dr0Wd4kDdMthfOCI.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=YA9dr0Wd4kDdMthfOCA&skey=ac3d8b21325789a6&v=v10#Kalam",
+      "ttf": "https://fonts.gstatic.com/s/kalam/v11/YA9dr0Wd4kDdMthfOCI.ttf",
+      "woff2": "https://fonts.gstatic.com/s/kalam/v11/YA9dr0Wd4kDdMthfOCc.woff2",
+      "eot": "https://fonts.gstatic.com/s/kalam/v11/YA9dr0Wd4kDdMthfOCM.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=YA9dr0Wd4kDdMthfOCA&skey=ac3d8b21325789a6&v=v11#Kalam",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/kalam/v11/YA9Qr0Wd4kDdMtDqHTLCkiA.eot",
+      "fontFamily": "'Kalam'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/kalam/v11/YA9Qr0Wd4kDdMtDqHTLCkiI.woff",
+      "local": [
+        "Kalam Bold",
+        "Kalam-Bold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/kalam/v11/YA9Qr0Wd4kDdMtDqHTLCkiQ.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=YA9Qr0Wd4kDdMtDqHTLCkiM&skey=31f303804b29bb6c&v=v11#Kalam",
+      "ttf": "https://fonts.gstatic.com/s/kalam/v11/YA9Qr0Wd4kDdMtDqHTLCkiE.ttf",
       "errored": false
     }
   ],
@@ -57,9 +57,9 @@
     "latin-ext"
   ],
   "category": "handwriting",
-  "version": "v10",
-  "lastModified": "2019-07-17",
-  "popularity": 117,
+  "version": "v11",
+  "lastModified": "2020-09-02",
+  "popularity": 132,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

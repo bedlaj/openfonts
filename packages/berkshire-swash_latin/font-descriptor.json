@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/berkshireswash/v8/ptRRTi-cavZOGqCvnNJDl5m5XmN_qs43.eot",
+      "woff2": "https://fonts.gstatic.com/s/berkshireswash/v9/ptRRTi-cavZOGqCvnNJDl5m5XmN_qs4z.woff2",
       "fontFamily": "'Berkshire Swash'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "ttf": "https://fonts.gstatic.com/s/berkshireswash/v8/ptRRTi-cavZOGqCvnNJDl5m5XmN_qs42.ttf",
       "local": [
         "Berkshire Swash Regular",
         "BerkshireSwash-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/berkshireswash/v8/ptRRTi-cavZOGqCvnNJDl5m5XmN_qs41.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=ptRRTi-cavZOGqCvnNJDl5m5XmN_qs40&skey=6b24d6a69858ae6f&v=v8#BerkshireSwash",
-      "woff2": "https://fonts.gstatic.com/s/berkshireswash/v8/ptRRTi-cavZOGqCvnNJDl5m5XmN_qs4z.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=ptRRTi-cavZOGqCvnNJDl5m5XmN_qs40&skey=6b24d6a69858ae6f&v=v9#BerkshireSwash",
+      "eot": "https://fonts.gstatic.com/s/berkshireswash/v9/ptRRTi-cavZOGqCvnNJDl5m5XmN_qs43.eot",
+      "woff": "https://fonts.gstatic.com/s/berkshireswash/v9/ptRRTi-cavZOGqCvnNJDl5m5XmN_qs41.woff",
+      "ttf": "https://fonts.gstatic.com/s/berkshireswash/v9/ptRRTi-cavZOGqCvnNJDl5m5XmN_qs42.ttf",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "handwriting",
-  "version": "v8",
-  "lastModified": "2019-07-16",
-  "popularity": 283,
+  "version": "v9",
+  "lastModified": "2020-09-02",
+  "popularity": 315,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/staatliches/v3/HI_OiY8KO6hCsQSoAPmtMYeVvpY.woff",
+      "ttf": "https://fonts.gstatic.com/s/staatliches/v4/HI_OiY8KO6hCsQSoAPmtMYeVvpU.ttf",
       "fontFamily": "'Staatliches'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,10 +12,10 @@
         "Staatliches Regular",
         "Staatliches-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/staatliches/v3/HI_OiY8KO6hCsQSoAPmtMYeVvpA.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=HI_OiY8KO6hCsQSoAPmtMYeVvpc&skey=ebd2c3b134676d19&v=v3#Staatliches",
-      "eot": "https://fonts.gstatic.com/s/staatliches/v3/HI_OiY8KO6hCsQSoAPmtMYeVvpQ.eot",
-      "ttf": "https://fonts.gstatic.com/s/staatliches/v3/HI_OiY8KO6hCsQSoAPmtMYeVvpU.ttf",
+      "eot": "https://fonts.gstatic.com/s/staatliches/v4/HI_OiY8KO6hCsQSoAPmtMYeVvpQ.eot",
+      "woff2": "https://fonts.gstatic.com/s/staatliches/v4/HI_OiY8KO6hCsQSoAPmtMYeVvpA.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=HI_OiY8KO6hCsQSoAPmtMYeVvpc&skey=ebd2c3b134676d19&v=v4#Staatliches",
+      "woff": "https://fonts.gstatic.com/s/staatliches/v4/HI_OiY8KO6hCsQSoAPmtMYeVvpY.woff",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "display",
-  "version": "v3",
-  "lastModified": "2019-11-05",
-  "popularity": 169,
+  "version": "v4",
+  "lastModified": "2020-09-02",
+  "popularity": 238,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

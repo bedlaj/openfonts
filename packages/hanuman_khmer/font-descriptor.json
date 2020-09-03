@@ -4,23 +4,23 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/hanuman/v13/VuJxdNvD15HhpJJBSKrdPQ.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=VuJxdNvD15HhpJJBSKrdPg&skey=2fa0dfada2f365&v=v14#Hanuman",
       "fontFamily": "'Hanuman'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/hanuman/v13/VuJxdNvD15HhpJJBSKrdOQ.woff2",
       "local": [
         "Hanuman Regular",
         "Hanuman-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/hanuman/v13/VuJxdNvD15HhpJJBSKrdPA.ttf",
-      "woff": "https://fonts.gstatic.com/s/hanuman/v13/VuJxdNvD15HhpJJBSKrdPw.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=VuJxdNvD15HhpJJBSKrdPg&skey=2fa0dfada2f365&v=v13#Hanuman",
+      "woff": "https://fonts.gstatic.com/s/hanuman/v14/VuJxdNvD15HhpJJBSKrdPw.woff",
+      "ttf": "https://fonts.gstatic.com/s/hanuman/v14/VuJxdNvD15HhpJJBSKrdPA.ttf",
+      "eot": "https://fonts.gstatic.com/s/hanuman/v14/VuJxdNvD15HhpJJBSKrdPQ.eot",
+      "woff2": "https://fonts.gstatic.com/s/hanuman/v14/VuJxdNvD15HhpJJBSKrdOQ.woff2",
       "errored": false
     },
     {
       "id": "700",
-      "woff": "https://fonts.gstatic.com/s/hanuman/v13/VuJ0dNvD15HhpJJBQBr4LIVGYg.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=VuJ0dNvD15HhpJJBQBr4LIVGYw&skey=afb56254639a08e4&v=v14#Hanuman",
       "fontFamily": "'Hanuman'",
       "fontStyle": "normal",
       "fontWeight": "700",
@@ -28,10 +28,10 @@
         "Hanuman Bold",
         "Hanuman-Bold"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=VuJ0dNvD15HhpJJBQBr4LIVGYw&skey=afb56254639a08e4&v=v13#Hanuman",
-      "woff2": "https://fonts.gstatic.com/s/hanuman/v13/VuJ0dNvD15HhpJJBQBr4LIVGZA.woff2",
-      "eot": "https://fonts.gstatic.com/s/hanuman/v13/VuJ0dNvD15HhpJJBQBr4LIVGYA.eot",
-      "ttf": "https://fonts.gstatic.com/s/hanuman/v13/VuJ0dNvD15HhpJJBQBr4LIVGYQ.ttf",
+      "eot": "https://fonts.gstatic.com/s/hanuman/v14/VuJ0dNvD15HhpJJBQBr4LIVGYA.eot",
+      "woff": "https://fonts.gstatic.com/s/hanuman/v14/VuJ0dNvD15HhpJJBQBr4LIVGYg.woff",
+      "woff2": "https://fonts.gstatic.com/s/hanuman/v14/VuJ0dNvD15HhpJJBQBr4LIVGZA.woff2",
+      "ttf": "https://fonts.gstatic.com/s/hanuman/v14/VuJ0dNvD15HhpJJBQBr4LIVGYQ.ttf",
       "errored": false
     }
   ],
@@ -39,9 +39,9 @@
     "khmer"
   ],
   "category": "serif",
-  "version": "v13",
-  "lastModified": "2019-07-16",
-  "popularity": 320,
+  "version": "v14",
+  "lastModified": "2020-09-02",
+  "popularity": 347,
   "defSubset": "khmer",
   "defVariant": "regular",
   "subsetMap": {

@@ -4,36 +4,36 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/sigmarone/v10/co3DmWZ8kjZuErj9Ta3dk6I.eot",
+      "woff": "https://fonts.gstatic.com/s/sigmarone/v11/co3DmWZ8kjZuErj9Ta3dk6A.woff",
       "fontFamily": "'Sigmar One'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/sigmarone/v10/co3DmWZ8kjZuErj9Ta3dk6A.woff",
       "local": [
         "Sigmar One Regular",
         "SigmarOne-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/sigmarone/v10/co3DmWZ8kjZuErj9Ta3dk6Y.woff2",
-      "ttf": "https://fonts.gstatic.com/s/sigmarone/v10/co3DmWZ8kjZuErj9Ta3dk6M.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=co3DmWZ8kjZuErj9Ta3dk6E&skey=1faaf69a761e7c1&v=v10#SigmarOne",
+      "woff2": "https://fonts.gstatic.com/s/sigmarone/v11/co3DmWZ8kjZuErj9Ta3dk6Y.woff2",
+      "ttf": "https://fonts.gstatic.com/s/sigmarone/v11/co3DmWZ8kjZuErj9Ta3dk6M.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=co3DmWZ8kjZuErj9Ta3dk6E&skey=1faaf69a761e7c1&v=v11#SigmarOne",
+      "eot": "https://fonts.gstatic.com/s/sigmarone/v11/co3DmWZ8kjZuErj9Ta3dk6I.eot",
       "errored": false
     }
   ],
   "subsets": [
-    "vietnamese",
     "latin",
-    "latin-ext"
+    "latin-ext",
+    "vietnamese"
   ],
   "category": "display",
-  "version": "v10",
-  "lastModified": "2019-07-16",
-  "popularity": 190,
+  "version": "v11",
+  "lastModified": "2020-09-02",
+  "popularity": 232,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "vietnamese": true,
     "latin": true,
-    "latin-ext": true
+    "latin-ext": true,
+    "vietnamese": true
   },
-  "storeID": "latin-ext_latin_vietnamese"
+  "storeID": "vietnamese_latin-ext_latin"
 }

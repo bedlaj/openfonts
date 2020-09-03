@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/galada/v5/H4cmBXyGmcjXlUXO5yY_.woff2",
+      "ttf": "https://fonts.gstatic.com/s/galada/v6/H4cmBXyGmcjXlUXO5yY6.ttf",
       "fontFamily": "'Galada'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,26 +12,26 @@
         "Galada Regular",
         "Galada-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/galada/v5/H4cmBXyGmcjXlUXO5yY7.eot",
-      "woff": "https://fonts.gstatic.com/s/galada/v5/H4cmBXyGmcjXlUXO5yY5.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=H4cmBXyGmcjXlUXO5yY4&skey=de71fa94111f3d7d&v=v5#Galada",
-      "ttf": "https://fonts.gstatic.com/s/galada/v5/H4cmBXyGmcjXlUXO5yY6.ttf",
+      "woff2": "https://fonts.gstatic.com/s/galada/v6/H4cmBXyGmcjXlUXO5yY_.woff2",
+      "woff": "https://fonts.gstatic.com/s/galada/v6/H4cmBXyGmcjXlUXO5yY5.woff",
+      "eot": "https://fonts.gstatic.com/s/galada/v6/H4cmBXyGmcjXlUXO5yY7.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=H4cmBXyGmcjXlUXO5yY4&skey=de71fa94111f3d7d&v=v6#Galada",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
-    "bengali"
+    "bengali",
+    "latin"
   ],
   "category": "display",
-  "version": "v5",
-  "lastModified": "2019-07-16",
-  "popularity": 592,
+  "version": "v6",
+  "lastModified": "2020-09-02",
+  "popularity": 423,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
-    "bengali": true
+    "bengali": true,
+    "latin": true
   },
-  "storeID": "bengali_latin"
+  "storeID": "latin_bengali"
 }

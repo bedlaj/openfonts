@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/bevan/v11/4iCj6KZ0a9NXjG8dWCs.woff2",
+      "woff2": "https://fonts.gstatic.com/s/bevan/v12/4iCj6KZ0a9NXjG8dWCs.woff2",
       "fontFamily": "'Bevan'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,28 +12,28 @@
         "Bevan Regular",
         "Bevan-Regular"
       ],
-      "eot": "https://fonts.gstatic.com/s/bevan/v11/4iCj6KZ0a9NXjG8dWC8.eot",
-      "woff": "https://fonts.gstatic.com/s/bevan/v11/4iCj6KZ0a9NXjG8dWC0.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=4iCj6KZ0a9NXjG8dWCw&skey=7503fb07de04c1e8&v=v11#Bevan",
-      "ttf": "https://fonts.gstatic.com/s/bevan/v11/4iCj6KZ0a9NXjG8dWC4.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=4iCj6KZ0a9NXjG8dWCw&skey=7503fb07de04c1e8&v=v12#Bevan",
+      "ttf": "https://fonts.gstatic.com/s/bevan/v12/4iCj6KZ0a9NXjG8dWC4.ttf",
+      "woff": "https://fonts.gstatic.com/s/bevan/v12/4iCj6KZ0a9NXjG8dWC0.woff",
+      "eot": "https://fonts.gstatic.com/s/bevan/v12/4iCj6KZ0a9NXjG8dWC8.eot",
       "errored": false
     }
   ],
   "subsets": [
-    "vietnamese",
     "latin",
-    "latin-ext"
+    "latin-ext",
+    "vietnamese"
   ],
   "category": "display",
-  "version": "v11",
-  "lastModified": "2019-07-16",
-  "popularity": 261,
+  "version": "v12",
+  "lastModified": "2020-09-02",
+  "popularity": 353,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "vietnamese": false,
     "latin": true,
-    "latin-ext": false
+    "latin-ext": false,
+    "vietnamese": false
   },
   "storeID": "latin"
 }

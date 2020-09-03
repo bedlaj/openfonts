@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/unicaone/v7/DPEuYwWHyAYGVTSmalsRcd3a.eot",
+      "woff2": "https://fonts.gstatic.com/s/unicaone/v8/DPEuYwWHyAYGVTSmalsRcd3e.woff2",
       "fontFamily": "'Unica One'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/unicaone/v7/DPEuYwWHyAYGVTSmalsRcd3Y.woff",
       "local": [
         "Unica One",
         "UnicaOne-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/unicaone/v7/DPEuYwWHyAYGVTSmalsRcd3e.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=DPEuYwWHyAYGVTSmalsRcd3Z&skey=95c90eaca39f67c7&v=v7#UnicaOne",
-      "ttf": "https://fonts.gstatic.com/s/unicaone/v7/DPEuYwWHyAYGVTSmalsRcd3b.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=DPEuYwWHyAYGVTSmalsRcd3Z&skey=95c90eaca39f67c7&v=v8#UnicaOne",
+      "woff": "https://fonts.gstatic.com/s/unicaone/v8/DPEuYwWHyAYGVTSmalsRcd3Y.woff",
+      "eot": "https://fonts.gstatic.com/s/unicaone/v8/DPEuYwWHyAYGVTSmalsRcd3a.eot",
+      "ttf": "https://fonts.gstatic.com/s/unicaone/v8/DPEuYwWHyAYGVTSmalsRcd3b.ttf",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "display",
-  "version": "v7",
-  "lastModified": "2019-07-16",
-  "popularity": 166,
+  "version": "v8",
+  "lastModified": "2020-09-02",
+  "popularity": 205,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

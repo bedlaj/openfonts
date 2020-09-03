@@ -4,36 +4,36 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/forum/v10/6aey4Ky-Vb8Ew8IROpI.woff2",
+      "woff2": "https://fonts.gstatic.com/s/forum/v11/6aey4Ky-Vb8Ew8IROpI.woff2",
       "fontFamily": "'Forum'",
       "fontStyle": "normal",
       "fontWeight": "400",
       "local": [
         "Forum"
       ],
-      "eot": "https://fonts.gstatic.com/s/forum/v10/6aey4Ky-Vb8Ew8IROpY.eot",
-      "woff": "https://fonts.gstatic.com/s/forum/v10/6aey4Ky-Vb8Ew8IROpQ.woff",
-      "ttf": "https://fonts.gstatic.com/s/forum/v10/6aey4Ky-Vb8Ew8IROpc.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=6aey4Ky-Vb8Ew8IROpU&skey=85e1828a547f7984&v=v10#Forum",
+      "eot": "https://fonts.gstatic.com/s/forum/v11/6aey4Ky-Vb8Ew8IROpY.eot",
+      "woff": "https://fonts.gstatic.com/s/forum/v11/6aey4Ky-Vb8Ew8IROpQ.woff",
+      "ttf": "https://fonts.gstatic.com/s/forum/v11/6aey4Ky-Vb8Ew8IROpc.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=6aey4Ky-Vb8Ew8IROpU&skey=85e1828a547f7984&v=v11#Forum",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
-    "cyrillic-ext",
     "cyrillic",
+    "cyrillic-ext",
+    "latin",
     "latin-ext"
   ],
   "category": "display",
-  "version": "v10",
-  "lastModified": "2019-07-16",
-  "popularity": 269,
+  "version": "v11",
+  "lastModified": "2020-09-02",
+  "popularity": 345,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
-    "cyrillic-ext": false,
     "cyrillic": false,
+    "cyrillic-ext": false,
+    "latin": true,
     "latin-ext": false
   },
   "storeID": "latin"

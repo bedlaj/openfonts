@@ -4,40 +4,40 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/pattaya/v5/ea8ZadcqV_zkHY-XBdet8g.eot",
+      "eot": "https://fonts.gstatic.com/s/pattaya/v6/ea8ZadcqV_zkHY-XBdet8g.eot",
       "fontFamily": "'Pattaya'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/pattaya/v5/ea8ZadcqV_zkHY-XBdet8A.woff",
+      "ttf": "https://fonts.gstatic.com/s/pattaya/v6/ea8ZadcqV_zkHY-XBdet8w.ttf",
       "local": [
         "Pattaya",
         "Pattaya-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=ea8ZadcqV_zkHY-XBdet8Q&skey=16793223d51a74bc&v=v5#Pattaya",
-      "woff2": "https://fonts.gstatic.com/s/pattaya/v5/ea8ZadcqV_zkHY-XBdet9g.woff2",
-      "ttf": "https://fonts.gstatic.com/s/pattaya/v5/ea8ZadcqV_zkHY-XBdet8w.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=ea8ZadcqV_zkHY-XBdet8Q&skey=16793223d51a74bc&v=v6#Pattaya",
+      "woff2": "https://fonts.gstatic.com/s/pattaya/v6/ea8ZadcqV_zkHY-XBdet9g.woff2",
+      "woff": "https://fonts.gstatic.com/s/pattaya/v6/ea8ZadcqV_zkHY-XBdet8A.woff",
       "errored": false
     }
   ],
   "subsets": [
-    "vietnamese",
-    "latin",
-    "thai",
     "cyrillic",
-    "latin-ext"
+    "latin",
+    "latin-ext",
+    "thai",
+    "vietnamese"
   ],
   "category": "sans-serif",
-  "version": "v5",
-  "lastModified": "2019-07-16",
-  "popularity": 397,
+  "version": "v6",
+  "lastModified": "2020-09-02",
+  "popularity": 419,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "vietnamese": false,
-    "latin": true,
-    "thai": false,
     "cyrillic": false,
-    "latin-ext": false
+    "latin": true,
+    "latin-ext": false,
+    "thai": false,
+    "vietnamese": false
   },
   "storeID": "latin"
 }

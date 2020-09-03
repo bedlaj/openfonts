@@ -4,17 +4,17 @@
   "variants": [
     {
       "id": "regular",
-      "ttf": "https://fonts.gstatic.com/s/damion/v9/hv-XlzJ3KEUe_YZkamwz.ttf",
+      "woff": "https://fonts.gstatic.com/s/damion/v10/hv-XlzJ3KEUe_YZkamww.woff",
       "fontFamily": "'Damion'",
       "fontStyle": "normal",
       "fontWeight": "400",
       "local": [
         "Damion"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=hv-XlzJ3KEUe_YZkamwx&skey=cab2b817d665dc28&v=v9#Damion",
-      "eot": "https://fonts.gstatic.com/s/damion/v9/hv-XlzJ3KEUe_YZkamwy.eot",
-      "woff": "https://fonts.gstatic.com/s/damion/v9/hv-XlzJ3KEUe_YZkamww.woff",
-      "woff2": "https://fonts.gstatic.com/s/damion/v9/hv-XlzJ3KEUe_YZkamw2.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=hv-XlzJ3KEUe_YZkamwx&skey=cab2b817d665dc28&v=v10#Damion",
+      "woff2": "https://fonts.gstatic.com/s/damion/v10/hv-XlzJ3KEUe_YZkamw2.woff2",
+      "eot": "https://fonts.gstatic.com/s/damion/v10/hv-XlzJ3KEUe_YZkamwy.eot",
+      "ttf": "https://fonts.gstatic.com/s/damion/v10/hv-XlzJ3KEUe_YZkamwz.ttf",
       "errored": false
     }
   ],
@@ -22,9 +22,9 @@
     "latin"
   ],
   "category": "handwriting",
-  "version": "v9",
-  "lastModified": "2019-07-16",
-  "popularity": 250,
+  "version": "v10",
+  "lastModified": "2020-09-02",
+  "popularity": 245,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

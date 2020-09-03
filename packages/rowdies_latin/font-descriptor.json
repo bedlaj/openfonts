@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "300",
-      "woff2": "https://fonts.gstatic.com/s/rowdies/v1/ptRMTieMYPNBAK219hth1On4KA.woff2",
+      "woff2": "https://fonts.gstatic.com/s/rowdies/v2/ptRMTieMYPNBAK219hth1On4KA.woff2",
       "fontFamily": "'Rowdies'",
       "fontStyle": "normal",
       "fontWeight": "300",
@@ -12,31 +12,15 @@
         "Rowdies Light",
         "Rowdies-Light"
       ],
-      "ttf": "https://fonts.gstatic.com/s/rowdies/v1/ptRMTieMYPNBAK219hth1On4LQ.ttf",
-      "eot": "https://fonts.gstatic.com/s/rowdies/v1/ptRMTieMYPNBAK219hth1On4LA.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=ptRMTieMYPNBAK219hth1On4Lw&skey=be5e5dcd1c9e6f69&v=v1#Rowdies",
-      "woff": "https://fonts.gstatic.com/s/rowdies/v1/ptRMTieMYPNBAK219hth1On4Lg.woff",
-      "errored": false
-    },
-    {
-      "id": "700",
-      "eot": "https://fonts.gstatic.com/s/rowdies/v1/ptRMTieMYPNBAK219gtm1On4LA.eot",
-      "fontFamily": "'Rowdies'",
-      "fontStyle": "normal",
-      "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/rowdies/v1/ptRMTieMYPNBAK219gtm1On4Lg.woff",
-      "local": [
-        "Rowdies Bold",
-        "Rowdies-Bold"
-      ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=ptRMTieMYPNBAK219gtm1On4Lw&skey=dc3942e9051ae007&v=v1#Rowdies",
-      "woff2": "https://fonts.gstatic.com/s/rowdies/v1/ptRMTieMYPNBAK219gtm1On4KA.woff2",
-      "ttf": "https://fonts.gstatic.com/s/rowdies/v1/ptRMTieMYPNBAK219gtm1On4LQ.ttf",
+      "woff": "https://fonts.gstatic.com/s/rowdies/v2/ptRMTieMYPNBAK219hth1On4Lg.woff",
+      "eot": "https://fonts.gstatic.com/s/rowdies/v2/ptRMTieMYPNBAK219hth1On4LA.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=ptRMTieMYPNBAK219hth1On4Lw&skey=be5e5dcd1c9e6f69&v=v2#Rowdies",
+      "ttf": "https://fonts.gstatic.com/s/rowdies/v2/ptRMTieMYPNBAK219hth1On4LQ.ttf",
       "errored": false
     },
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=ptRJTieMYPNBAK21_rBDxg&skey=b958925ecc21120d&v=v1#Rowdies",
+      "woff2": "https://fonts.gstatic.com/s/rowdies/v2/ptRJTieMYPNBAK21_rBDwQ.woff2",
       "fontFamily": "'Rowdies'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -44,10 +28,26 @@
         "Rowdies Regular",
         "Rowdies-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/rowdies/v1/ptRJTieMYPNBAK21_rBDwQ.woff2",
-      "eot": "https://fonts.gstatic.com/s/rowdies/v1/ptRJTieMYPNBAK21_rBDxQ.eot",
-      "ttf": "https://fonts.gstatic.com/s/rowdies/v1/ptRJTieMYPNBAK21_rBDxA.ttf",
-      "woff": "https://fonts.gstatic.com/s/rowdies/v1/ptRJTieMYPNBAK21_rBDxw.woff",
+      "eot": "https://fonts.gstatic.com/s/rowdies/v2/ptRJTieMYPNBAK21_rBDxQ.eot",
+      "ttf": "https://fonts.gstatic.com/s/rowdies/v2/ptRJTieMYPNBAK21_rBDxA.ttf",
+      "woff": "https://fonts.gstatic.com/s/rowdies/v2/ptRJTieMYPNBAK21_rBDxw.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=ptRJTieMYPNBAK21_rBDxg&skey=b958925ecc21120d&v=v2#Rowdies",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/rowdies/v2/ptRMTieMYPNBAK219gtm1On4LA.eot",
+      "fontFamily": "'Rowdies'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/rowdies/v2/ptRMTieMYPNBAK219gtm1On4Lg.woff",
+      "local": [
+        "Rowdies Bold",
+        "Rowdies-Bold"
+      ],
+      "woff2": "https://fonts.gstatic.com/s/rowdies/v2/ptRMTieMYPNBAK219gtm1On4KA.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=ptRMTieMYPNBAK219gtm1On4Lw&skey=dc3942e9051ae007&v=v2#Rowdies",
+      "ttf": "https://fonts.gstatic.com/s/rowdies/v2/ptRMTieMYPNBAK219gtm1On4LQ.ttf",
       "errored": false
     }
   ],
@@ -57,9 +57,9 @@
     "vietnamese"
   ],
   "category": "display",
-  "version": "v1",
-  "lastModified": "2020-07-13",
-  "popularity": 996,
+  "version": "v2",
+  "lastModified": "2020-09-02",
+  "popularity": 830,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

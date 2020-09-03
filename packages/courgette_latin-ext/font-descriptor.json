@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/courgette/v7/wEO_EBrAnc9BLjLQAUk1WPoO.eot",
+      "woff": "https://fonts.gstatic.com/s/courgette/v8/wEO_EBrAnc9BLjLQAUk1WPoM.woff",
       "fontFamily": "'Courgette'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/courgette/v7/wEO_EBrAnc9BLjLQAUk1WPoM.woff",
       "local": [
         "Courgette Regular",
         "Courgette-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/courgette/v7/wEO_EBrAnc9BLjLQAUk1WPoK.woff2",
-      "ttf": "https://fonts.gstatic.com/s/courgette/v7/wEO_EBrAnc9BLjLQAUk1WPoP.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=wEO_EBrAnc9BLjLQAUk1WPoN&skey=427bdd45dca77eaa&v=v7#Courgette",
+      "eot": "https://fonts.gstatic.com/s/courgette/v8/wEO_EBrAnc9BLjLQAUk1WPoO.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=wEO_EBrAnc9BLjLQAUk1WPoN&skey=427bdd45dca77eaa&v=v8#Courgette",
+      "ttf": "https://fonts.gstatic.com/s/courgette/v8/wEO_EBrAnc9BLjLQAUk1WPoP.ttf",
+      "woff2": "https://fonts.gstatic.com/s/courgette/v8/wEO_EBrAnc9BLjLQAUk1WPoK.woff2",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "handwriting",
-  "version": "v7",
-  "lastModified": "2019-07-17",
-  "popularity": 113,
+  "version": "v8",
+  "lastModified": "2020-09-02",
+  "popularity": 128,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

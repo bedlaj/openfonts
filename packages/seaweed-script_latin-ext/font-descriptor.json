@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/seaweedscript/v7/bx6cNx6Tne2pxOATYE8C_Rsoe3WA8qI.eot",
+      "woff2": "https://fonts.gstatic.com/s/seaweedscript/v8/bx6cNx6Tne2pxOATYE8C_Rsoe3WA8qY.woff2",
       "fontFamily": "'Seaweed Script'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/seaweedscript/v7/bx6cNx6Tne2pxOATYE8C_Rsoe3WA8qY.woff2",
       "local": [
         "Seaweed Script",
         "SeaweedScript-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=bx6cNx6Tne2pxOATYE8C_Rsoe3WA8qE&skey=8084f236c925fbcc&v=v7#SeaweedScript",
-      "woff": "https://fonts.gstatic.com/s/seaweedscript/v7/bx6cNx6Tne2pxOATYE8C_Rsoe3WA8qA.woff",
-      "ttf": "https://fonts.gstatic.com/s/seaweedscript/v7/bx6cNx6Tne2pxOATYE8C_Rsoe3WA8qM.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=bx6cNx6Tne2pxOATYE8C_Rsoe3WA8qE&skey=8084f236c925fbcc&v=v8#SeaweedScript",
+      "woff": "https://fonts.gstatic.com/s/seaweedscript/v8/bx6cNx6Tne2pxOATYE8C_Rsoe3WA8qA.woff",
+      "eot": "https://fonts.gstatic.com/s/seaweedscript/v8/bx6cNx6Tne2pxOATYE8C_Rsoe3WA8qI.eot",
+      "ttf": "https://fonts.gstatic.com/s/seaweedscript/v8/bx6cNx6Tne2pxOATYE8C_Rsoe3WA8qM.ttf",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "display",
-  "version": "v7",
-  "lastModified": "2019-07-16",
-  "popularity": 480,
+  "version": "v8",
+  "lastModified": "2020-09-02",
+  "popularity": 432,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

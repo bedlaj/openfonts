@@ -4,18 +4,18 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/faunaone/v7/wlpzgwTPBVpjpCuwkuEB0EZK.woff2",
+      "eot": "https://fonts.gstatic.com/s/faunaone/v8/wlpzgwTPBVpjpCuwkuEB0EZO.eot",
       "fontFamily": "'Fauna One'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/faunaone/v8/wlpzgwTPBVpjpCuwkuEB0EZM.woff",
       "local": [
         "Fauna One",
         "FaunaOne-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/faunaone/v7/wlpzgwTPBVpjpCuwkuEB0EZP.ttf",
-      "eot": "https://fonts.gstatic.com/s/faunaone/v7/wlpzgwTPBVpjpCuwkuEB0EZO.eot",
-      "woff": "https://fonts.gstatic.com/s/faunaone/v7/wlpzgwTPBVpjpCuwkuEB0EZM.woff",
-      "svg": "https://fonts.gstatic.com/l/font?kit=wlpzgwTPBVpjpCuwkuEB0EZN&skey=3137b8e8ee7f1c9e&v=v7#FaunaOne",
+      "ttf": "https://fonts.gstatic.com/s/faunaone/v8/wlpzgwTPBVpjpCuwkuEB0EZP.ttf",
+      "woff2": "https://fonts.gstatic.com/s/faunaone/v8/wlpzgwTPBVpjpCuwkuEB0EZK.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=wlpzgwTPBVpjpCuwkuEB0EZN&skey=3137b8e8ee7f1c9e&v=v8#FaunaOne",
       "errored": false
     }
   ],
@@ -24,9 +24,9 @@
     "latin-ext"
   ],
   "category": "serif",
-  "version": "v7",
-  "lastModified": "2019-07-16",
-  "popularity": 306,
+  "version": "v8",
+  "lastModified": "2020-09-02",
+  "popularity": 409,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

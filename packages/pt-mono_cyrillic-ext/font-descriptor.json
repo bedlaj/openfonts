@@ -4,38 +4,38 @@
   "variants": [
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=9oRONYoBnWILk-9AnCIzNA&skey=a4defc8e382ed677&v=v7#PTMono",
+      "eot": "https://fonts.gstatic.com/s/ptmono/v8/9oRONYoBnWILk-9AnCIzNw.eot",
       "fontFamily": "'PT Mono'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/ptmono/v8/9oRONYoBnWILk-9AnCIzNQ.woff",
       "local": [
         "PT Mono",
         "PTMono-Regular"
       ],
-      "woff": "https://fonts.gstatic.com/s/ptmono/v7/9oRONYoBnWILk-9AnCIzNQ.woff",
-      "woff2": "https://fonts.gstatic.com/s/ptmono/v7/9oRONYoBnWILk-9AnCIzMw.woff2",
-      "eot": "https://fonts.gstatic.com/s/ptmono/v7/9oRONYoBnWILk-9AnCIzNw.eot",
-      "ttf": "https://fonts.gstatic.com/s/ptmono/v7/9oRONYoBnWILk-9AnCIzNg.ttf",
+      "woff2": "https://fonts.gstatic.com/s/ptmono/v8/9oRONYoBnWILk-9AnCIzMw.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=9oRONYoBnWILk-9AnCIzNA&skey=a4defc8e382ed677&v=v8#PTMono",
+      "ttf": "https://fonts.gstatic.com/s/ptmono/v8/9oRONYoBnWILk-9AnCIzNg.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
-    "cyrillic-ext",
     "cyrillic",
+    "cyrillic-ext",
+    "latin",
     "latin-ext"
   ],
   "category": "monospace",
-  "version": "v7",
-  "lastModified": "2019-07-16",
-  "popularity": 230,
+  "version": "v8",
+  "lastModified": "2020-09-02",
+  "popularity": 223,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
-    "cyrillic-ext": true,
     "cyrillic": false,
+    "cyrillic-ext": true,
+    "latin": true,
     "latin-ext": false
   },
-  "storeID": "cyrillic-ext_latin"
+  "storeID": "latin_cyrillic-ext"
 }

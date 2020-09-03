@@ -4,53 +4,53 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/ptsanscaption/v12/0FlMVP6Hrxmt7-fsUFhlFXNIlpcaeg_x.woff2",
+      "eot": "https://fonts.gstatic.com/s/ptsanscaption/v13/0FlMVP6Hrxmt7-fsUFhlFXNIlpcaeg_1.eot",
       "fontFamily": "'PT Sans Caption'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/ptsanscaption/v13/0FlMVP6Hrxmt7-fsUFhlFXNIlpcaeg_3.woff",
       "local": [
         "PT Sans Caption",
         "PTSans-Caption"
       ],
-      "woff": "https://fonts.gstatic.com/s/ptsanscaption/v12/0FlMVP6Hrxmt7-fsUFhlFXNIlpcaeg_3.woff",
-      "eot": "https://fonts.gstatic.com/s/ptsanscaption/v12/0FlMVP6Hrxmt7-fsUFhlFXNIlpcaeg_1.eot",
-      "ttf": "https://fonts.gstatic.com/s/ptsanscaption/v12/0FlMVP6Hrxmt7-fsUFhlFXNIlpcaeg_0.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=0FlMVP6Hrxmt7-fsUFhlFXNIlpcaeg_2&skey=3b791ca205af4a6f&v=v12#PTSansCaption",
+      "woff2": "https://fonts.gstatic.com/s/ptsanscaption/v13/0FlMVP6Hrxmt7-fsUFhlFXNIlpcaeg_x.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=0FlMVP6Hrxmt7-fsUFhlFXNIlpcaeg_2&skey=3b791ca205af4a6f&v=v13#PTSansCaption",
+      "ttf": "https://fonts.gstatic.com/s/ptsanscaption/v13/0FlMVP6Hrxmt7-fsUFhlFXNIlpcaeg_0.ttf",
       "errored": false
     },
     {
       "id": "700",
-      "svg": "https://fonts.gstatic.com/l/font?kit=0FlJVP6Hrxmt7-fsUFhlFXNIlpcSwSrkTA-o&skey=dca78bc6106fe068&v=v12#PTSansCaption",
+      "eot": "https://fonts.gstatic.com/s/ptsanscaption/v13/0FlJVP6Hrxmt7-fsUFhlFXNIlpcSwSrkTA-r.eot",
       "fontFamily": "'PT Sans Caption'",
       "fontStyle": "normal",
       "fontWeight": "700",
+      "woff2": "https://fonts.gstatic.com/s/ptsanscaption/v13/0FlJVP6Hrxmt7-fsUFhlFXNIlpcSwSrkTA-v.woff2",
       "local": [
         "PT Sans Caption Bold",
         "PTSans-CaptionBold"
       ],
-      "eot": "https://fonts.gstatic.com/s/ptsanscaption/v12/0FlJVP6Hrxmt7-fsUFhlFXNIlpcSwSrkTA-r.eot",
-      "woff2": "https://fonts.gstatic.com/s/ptsanscaption/v12/0FlJVP6Hrxmt7-fsUFhlFXNIlpcSwSrkTA-v.woff2",
-      "ttf": "https://fonts.gstatic.com/s/ptsanscaption/v12/0FlJVP6Hrxmt7-fsUFhlFXNIlpcSwSrkTA-q.ttf",
-      "woff": "https://fonts.gstatic.com/s/ptsanscaption/v12/0FlJVP6Hrxmt7-fsUFhlFXNIlpcSwSrkTA-p.woff",
+      "woff": "https://fonts.gstatic.com/s/ptsanscaption/v13/0FlJVP6Hrxmt7-fsUFhlFXNIlpcSwSrkTA-p.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=0FlJVP6Hrxmt7-fsUFhlFXNIlpcSwSrkTA-o&skey=dca78bc6106fe068&v=v13#PTSansCaption",
+      "ttf": "https://fonts.gstatic.com/s/ptsanscaption/v13/0FlJVP6Hrxmt7-fsUFhlFXNIlpcSwSrkTA-q.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
-    "cyrillic-ext",
     "cyrillic",
+    "cyrillic-ext",
+    "latin",
     "latin-ext"
   ],
   "category": "sans-serif",
-  "version": "v12",
-  "lastModified": "2019-07-17",
-  "popularity": 114,
+  "version": "v13",
+  "lastModified": "2020-09-02",
+  "popularity": 108,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
-    "cyrillic-ext": false,
     "cyrillic": false,
+    "cyrillic-ext": false,
+    "latin": true,
     "latin-ext": false
   },
   "storeID": "latin"
