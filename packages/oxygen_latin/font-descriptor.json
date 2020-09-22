@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "300",
-      "svg": "https://fonts.gstatic.com/l/font?kit=2sDcZG1Wl4LcnbuCJW8zaGW-&skey=e098d009b2bba6e9&v=v9#Oxygen",
+      "woff": "https://fonts.gstatic.com/s/oxygen/v10/2sDcZG1Wl4LcnbuCJW8zaGW_.woff",
       "fontFamily": "'Oxygen'",
       "fontStyle": "normal",
       "fontWeight": "300",
@@ -12,31 +12,31 @@
         "Oxygen Light",
         "Oxygen-Light"
       ],
-      "ttf": "https://fonts.gstatic.com/s/oxygen/v9/2sDcZG1Wl4LcnbuCJW8zaGW8.ttf",
-      "woff2": "https://fonts.gstatic.com/s/oxygen/v9/2sDcZG1Wl4LcnbuCJW8zaGW5.woff2",
-      "woff": "https://fonts.gstatic.com/s/oxygen/v9/2sDcZG1Wl4LcnbuCJW8zaGW_.woff",
-      "eot": "https://fonts.gstatic.com/s/oxygen/v9/2sDcZG1Wl4LcnbuCJW8zaGW9.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=2sDcZG1Wl4LcnbuCJW8zaGW-&skey=e098d009b2bba6e9&v=v10#Oxygen",
+      "woff2": "https://fonts.gstatic.com/s/oxygen/v10/2sDcZG1Wl4LcnbuCJW8zaGW5.woff2",
+      "eot": "https://fonts.gstatic.com/s/oxygen/v10/2sDcZG1Wl4LcnbuCJW8zaGW9.eot",
+      "ttf": "https://fonts.gstatic.com/s/oxygen/v10/2sDcZG1Wl4LcnbuCJW8zaGW8.ttf",
       "errored": false
     },
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=2sDfZG1Wl4LcnbuKjk0h&skey=65a128e59aae3226&v=v9#Oxygen",
+      "eot": "https://fonts.gstatic.com/s/oxygen/v10/2sDfZG1Wl4LcnbuKjk0i.eot",
       "fontFamily": "'Oxygen'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/oxygen/v10/2sDfZG1Wl4LcnbuKjk0g.woff",
       "local": [
         "Oxygen Regular",
         "Oxygen-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/oxygen/v9/2sDfZG1Wl4LcnbuKjk0j.ttf",
-      "woff": "https://fonts.gstatic.com/s/oxygen/v9/2sDfZG1Wl4LcnbuKjk0g.woff",
-      "woff2": "https://fonts.gstatic.com/s/oxygen/v9/2sDfZG1Wl4LcnbuKjk0m.woff2",
-      "eot": "https://fonts.gstatic.com/s/oxygen/v9/2sDfZG1Wl4LcnbuKjk0i.eot",
+      "woff2": "https://fonts.gstatic.com/s/oxygen/v10/2sDfZG1Wl4LcnbuKjk0m.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=2sDfZG1Wl4LcnbuKjk0h&skey=65a128e59aae3226&v=v10#Oxygen",
+      "ttf": "https://fonts.gstatic.com/s/oxygen/v10/2sDfZG1Wl4LcnbuKjk0j.ttf",
       "errored": false
     },
     {
       "id": "700",
-      "woff2": "https://fonts.gstatic.com/s/oxygen/v9/2sDcZG1Wl4LcnbuCNWgzaGW5.woff2",
+      "woff2": "https://fonts.gstatic.com/s/oxygen/v10/2sDcZG1Wl4LcnbuCNWgzaGW5.woff2",
       "fontFamily": "'Oxygen'",
       "fontStyle": "normal",
       "fontWeight": "700",
@@ -44,10 +44,10 @@
         "Oxygen Bold",
         "Oxygen-Bold"
       ],
-      "ttf": "https://fonts.gstatic.com/s/oxygen/v9/2sDcZG1Wl4LcnbuCNWgzaGW8.ttf",
-      "svg": "https://fonts.gstatic.com/l/font?kit=2sDcZG1Wl4LcnbuCNWgzaGW-&skey=43f73195f21e1cbf&v=v9#Oxygen",
-      "woff": "https://fonts.gstatic.com/s/oxygen/v9/2sDcZG1Wl4LcnbuCNWgzaGW_.woff",
-      "eot": "https://fonts.gstatic.com/s/oxygen/v9/2sDcZG1Wl4LcnbuCNWgzaGW9.eot",
+      "eot": "https://fonts.gstatic.com/s/oxygen/v10/2sDcZG1Wl4LcnbuCNWgzaGW9.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=2sDcZG1Wl4LcnbuCNWgzaGW-&skey=43f73195f21e1cbf&v=v10#Oxygen",
+      "ttf": "https://fonts.gstatic.com/s/oxygen/v10/2sDcZG1Wl4LcnbuCNWgzaGW8.ttf",
+      "woff": "https://fonts.gstatic.com/s/oxygen/v10/2sDcZG1Wl4LcnbuCNWgzaGW_.woff",
       "errored": false
     }
   ],
@@ -56,9 +56,9 @@
     "latin-ext"
   ],
   "category": "sans-serif",
-  "version": "v9",
-  "lastModified": "2019-07-22",
-  "popularity": 38,
+  "version": "v10",
+  "lastModified": "2020-09-10",
+  "popularity": 36,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {

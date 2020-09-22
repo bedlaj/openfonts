@@ -4,36 +4,36 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/anton/v11/1Ptgg87LROyAm3K8-Cs.eot",
+      "eot": "https://fonts.gstatic.com/s/anton/v12/1Ptgg87LROyAm3K8-Cs.eot",
       "fontFamily": "'Anton'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff2": "https://fonts.gstatic.com/s/anton/v11/1Ptgg87LROyAm3K8-C8.woff2",
+      "woff2": "https://fonts.gstatic.com/s/anton/v12/1Ptgg87LROyAm3K8-C8.woff2",
       "local": [
         "Anton Regular",
         "Anton-Regular"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=1Ptgg87LROyAm3K8-Cg&skey=3e16a04254d4c9b3&v=v11#Anton",
-      "woff": "https://fonts.gstatic.com/s/anton/v11/1Ptgg87LROyAm3K8-Ck.woff",
-      "ttf": "https://fonts.gstatic.com/s/anton/v11/1Ptgg87LROyAm3K8-Co.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=1Ptgg87LROyAm3K8-Cg&skey=3e16a04254d4c9b3&v=v12#Anton",
+      "woff": "https://fonts.gstatic.com/s/anton/v12/1Ptgg87LROyAm3K8-Ck.woff",
+      "ttf": "https://fonts.gstatic.com/s/anton/v12/1Ptgg87LROyAm3K8-Co.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "vietnamese",
     "latin",
-    "latin-ext"
+    "latin-ext",
+    "vietnamese"
   ],
   "category": "sans-serif",
-  "version": "v11",
-  "lastModified": "2019-07-17",
-  "popularity": 40,
+  "version": "v12",
+  "lastModified": "2020-09-10",
+  "popularity": 41,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "vietnamese": true,
     "latin": true,
-    "latin-ext": false
+    "latin-ext": false,
+    "vietnamese": true
   },
-  "storeID": "latin_vietnamese"
+  "storeID": "vietnamese_latin"
 }

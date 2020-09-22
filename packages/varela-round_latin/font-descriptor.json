@@ -4,38 +4,38 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/varelaround/v12/w8gdH283Tvk__Lua32TysjIfp8uL.eot",
+      "ttf": "https://fonts.gstatic.com/s/varelaround/v13/w8gdH283Tvk__Lua32TysjIfp8uK.ttf",
       "fontFamily": "'Varela Round'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/varelaround/v12/w8gdH283Tvk__Lua32TysjIfp8uJ.woff",
       "local": [
         "Varela Round Regular",
         "VarelaRound-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/varelaround/v12/w8gdH283Tvk__Lua32TysjIfp8uP.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=w8gdH283Tvk__Lua32TysjIfp8uI&skey=f4466053e3923597&v=v12#VarelaRound",
-      "ttf": "https://fonts.gstatic.com/s/varelaround/v12/w8gdH283Tvk__Lua32TysjIfp8uK.ttf",
+      "woff2": "https://fonts.gstatic.com/s/varelaround/v13/w8gdH283Tvk__Lua32TysjIfp8uP.woff2",
+      "woff": "https://fonts.gstatic.com/s/varelaround/v13/w8gdH283Tvk__Lua32TysjIfp8uJ.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=w8gdH283Tvk__Lua32TysjIfp8uI&skey=f4466053e3923597&v=v13#VarelaRound",
+      "eot": "https://fonts.gstatic.com/s/varelaround/v13/w8gdH283Tvk__Lua32TysjIfp8uL.eot",
       "errored": false
     }
   ],
   "subsets": [
     "hebrew",
-    "vietnamese",
     "latin",
-    "latin-ext"
+    "latin-ext",
+    "vietnamese"
   ],
   "category": "sans-serif",
-  "version": "v12",
-  "lastModified": "2019-07-17",
-  "popularity": 57,
+  "version": "v13",
+  "lastModified": "2020-09-10",
+  "popularity": 63,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
     "hebrew": false,
-    "vietnamese": false,
     "latin": true,
-    "latin-ext": false
+    "latin-ext": false,
+    "vietnamese": false
   },
   "storeID": "latin"
 }

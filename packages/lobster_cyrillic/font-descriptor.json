@@ -4,40 +4,40 @@
   "variants": [
     {
       "id": "regular",
-      "woff": "https://fonts.gstatic.com/s/lobster/v22/neILzCirqoswsqX9zoamNQ.woff",
+      "eot": "https://fonts.gstatic.com/s/lobster/v23/neILzCirqoswsqX9zoamNw.eot",
       "fontFamily": "'Lobster'",
       "fontStyle": "normal",
       "fontWeight": "400",
+      "woff": "https://fonts.gstatic.com/s/lobster/v23/neILzCirqoswsqX9zoamNQ.woff",
       "local": [
         "Lobster Regular",
         "Lobster-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/lobster/v22/neILzCirqoswsqX9zoamNg.ttf",
-      "eot": "https://fonts.gstatic.com/s/lobster/v22/neILzCirqoswsqX9zoamNw.eot",
-      "woff2": "https://fonts.gstatic.com/s/lobster/v22/neILzCirqoswsqX9zoamMw.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=neILzCirqoswsqX9zoamNA&skey=7ed805a363b4659c&v=v22#Lobster",
+      "woff2": "https://fonts.gstatic.com/s/lobster/v23/neILzCirqoswsqX9zoamMw.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=neILzCirqoswsqX9zoamNA&skey=7ed805a363b4659c&v=v23#Lobster",
+      "ttf": "https://fonts.gstatic.com/s/lobster/v23/neILzCirqoswsqX9zoamNg.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "vietnamese",
-    "latin",
-    "cyrillic-ext",
     "cyrillic",
-    "latin-ext"
+    "cyrillic-ext",
+    "latin",
+    "latin-ext",
+    "vietnamese"
   ],
   "category": "display",
-  "version": "v22",
-  "lastModified": "2019-07-17",
+  "version": "v23",
+  "lastModified": "2020-09-10",
   "popularity": 50,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "vietnamese": false,
-    "latin": true,
-    "cyrillic-ext": false,
     "cyrillic": true,
-    "latin-ext": false
+    "cyrillic-ext": false,
+    "latin": true,
+    "latin-ext": false,
+    "vietnamese": false
   },
-  "storeID": "cyrillic_latin"
+  "storeID": "latin_cyrillic"
 }

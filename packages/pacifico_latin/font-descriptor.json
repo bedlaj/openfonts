@@ -4,38 +4,38 @@
   "variants": [
     {
       "id": "regular",
-      "eot": "https://fonts.gstatic.com/s/pacifico/v16/FwZY7-Qmy14u9lezJ-6H6M0.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=FwZY7-Qmy14u9lezJ-6H6M4&skey=a336e4011ec32111&v=v17#Pacifico",
       "fontFamily": "'Pacifico'",
       "fontStyle": "normal",
       "fontWeight": "400",
-      "svg": "https://fonts.gstatic.com/l/font?kit=FwZY7-Qmy14u9lezJ-6H6M4&skey=a336e4011ec32111&v=v16#Pacifico",
       "local": [
         "Pacifico Regular",
         "Pacifico-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/pacifico/v16/FwZY7-Qmy14u9lezJ-6H6Mk.woff2",
-      "woff": "https://fonts.gstatic.com/s/pacifico/v16/FwZY7-Qmy14u9lezJ-6H6M8.woff",
-      "ttf": "https://fonts.gstatic.com/s/pacifico/v16/FwZY7-Qmy14u9lezJ-6H6Mw.ttf",
+      "woff": "https://fonts.gstatic.com/s/pacifico/v17/FwZY7-Qmy14u9lezJ-6H6M8.woff",
+      "eot": "https://fonts.gstatic.com/s/pacifico/v17/FwZY7-Qmy14u9lezJ-6H6M0.eot",
+      "woff2": "https://fonts.gstatic.com/s/pacifico/v17/FwZY7-Qmy14u9lezJ-6H6Mk.woff2",
+      "ttf": "https://fonts.gstatic.com/s/pacifico/v17/FwZY7-Qmy14u9lezJ-6H6Mw.ttf",
       "errored": false
     }
   ],
   "subsets": [
+    "cyrillic",
     "cyrillic-ext",
     "latin",
-    "cyrillic",
     "latin-ext",
     "vietnamese"
   ],
   "category": "handwriting",
-  "version": "v16",
-  "lastModified": "2019-09-17",
-  "popularity": 59,
+  "version": "v17",
+  "lastModified": "2020-09-10",
+  "popularity": 68,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
+    "cyrillic": false,
     "cyrillic-ext": false,
     "latin": true,
-    "cyrillic": false,
     "latin-ext": false,
     "vietnamese": false
   },

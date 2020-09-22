@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "svg": "https://fonts.gstatic.com/l/font?kit=EJRVQgYoZZY2vCFuvDFT&skey=e37119e9cd703ddf&v=v11#PTSerif",
+      "woff": "https://fonts.gstatic.com/s/ptserif/v12/EJRVQgYoZZY2vCFuvDFS.woff",
       "fontFamily": "'PT Serif'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,78 +12,78 @@
         "PT Serif",
         "PTSerif-Regular"
       ],
-      "woff2": "https://fonts.gstatic.com/s/ptserif/v11/EJRVQgYoZZY2vCFuvDFU.woff2",
-      "ttf": "https://fonts.gstatic.com/s/ptserif/v11/EJRVQgYoZZY2vCFuvDFR.ttf",
-      "woff": "https://fonts.gstatic.com/s/ptserif/v11/EJRVQgYoZZY2vCFuvDFS.woff",
-      "eot": "https://fonts.gstatic.com/s/ptserif/v11/EJRVQgYoZZY2vCFuvDFQ.eot",
-      "errored": false
-    },
-    {
-      "id": "700",
-      "eot": "https://fonts.gstatic.com/s/ptserif/v11/EJRSQgYoZZY2vCFuvAnt65qU.eot",
-      "fontFamily": "'PT Serif'",
-      "fontStyle": "normal",
-      "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/ptserif/v11/EJRSQgYoZZY2vCFuvAnt65qW.woff",
-      "local": [
-        "PT Serif Bold",
-        "PTSerif-Bold"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/ptserif/v11/EJRSQgYoZZY2vCFuvAnt65qQ.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=EJRSQgYoZZY2vCFuvAnt65qX&skey=f3f4fc2f289c7d5b&v=v11#PTSerif",
-      "ttf": "https://fonts.gstatic.com/s/ptserif/v11/EJRSQgYoZZY2vCFuvAnt65qV.ttf",
-      "errored": false
-    },
-    {
-      "id": "700italic",
-      "eot": "https://fonts.gstatic.com/s/ptserif/v11/EJRQQgYoZZY2vCFuvAFT9gaQVy8.eot",
-      "fontFamily": "'PT Serif'",
-      "fontStyle": "italic",
-      "fontWeight": "700",
-      "woff": "https://fonts.gstatic.com/s/ptserif/v11/EJRQQgYoZZY2vCFuvAFT9gaQVy0.woff",
-      "local": [
-        "PT Serif Bold Italic",
-        "PTSerif-BoldItalic"
-      ],
-      "woff2": "https://fonts.gstatic.com/s/ptserif/v11/EJRQQgYoZZY2vCFuvAFT9gaQVys.woff2",
-      "svg": "https://fonts.gstatic.com/l/font?kit=EJRQQgYoZZY2vCFuvAFT9gaQVyw&skey=8c21167c941ad566&v=v11#PTSerif",
-      "ttf": "https://fonts.gstatic.com/s/ptserif/v11/EJRQQgYoZZY2vCFuvAFT9gaQVy4.ttf",
+      "ttf": "https://fonts.gstatic.com/s/ptserif/v12/EJRVQgYoZZY2vCFuvDFR.ttf",
+      "eot": "https://fonts.gstatic.com/s/ptserif/v12/EJRVQgYoZZY2vCFuvDFQ.eot",
+      "woff2": "https://fonts.gstatic.com/s/ptserif/v12/EJRVQgYoZZY2vCFuvDFU.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=EJRVQgYoZZY2vCFuvDFT&skey=e37119e9cd703ddf&v=v12#PTSerif",
       "errored": false
     },
     {
       "id": "italic",
-      "eot": "https://fonts.gstatic.com/s/ptserif/v11/EJRTQgYoZZY2vCFuvAFTzrs.eot",
+      "woff2": "https://fonts.gstatic.com/s/ptserif/v12/EJRTQgYoZZY2vCFuvAFTzr8.woff2",
       "fontFamily": "'PT Serif'",
       "fontStyle": "italic",
       "fontWeight": "400",
-      "woff": "https://fonts.gstatic.com/s/ptserif/v11/EJRTQgYoZZY2vCFuvAFTzrk.woff",
       "local": [
         "PT Serif Italic",
         "PTSerif-Italic"
       ],
-      "svg": "https://fonts.gstatic.com/l/font?kit=EJRTQgYoZZY2vCFuvAFTzrg&skey=caf1b69f1774cae7&v=v11#PTSerif",
-      "ttf": "https://fonts.gstatic.com/s/ptserif/v11/EJRTQgYoZZY2vCFuvAFTzro.ttf",
-      "woff2": "https://fonts.gstatic.com/s/ptserif/v11/EJRTQgYoZZY2vCFuvAFTzr8.woff2",
+      "eot": "https://fonts.gstatic.com/s/ptserif/v12/EJRTQgYoZZY2vCFuvAFTzrs.eot",
+      "svg": "https://fonts.gstatic.com/l/font?kit=EJRTQgYoZZY2vCFuvAFTzrg&skey=caf1b69f1774cae7&v=v12#PTSerif",
+      "woff": "https://fonts.gstatic.com/s/ptserif/v12/EJRTQgYoZZY2vCFuvAFTzrk.woff",
+      "ttf": "https://fonts.gstatic.com/s/ptserif/v12/EJRTQgYoZZY2vCFuvAFTzro.ttf",
+      "errored": false
+    },
+    {
+      "id": "700",
+      "eot": "https://fonts.gstatic.com/s/ptserif/v12/EJRSQgYoZZY2vCFuvAnt65qU.eot",
+      "fontFamily": "'PT Serif'",
+      "fontStyle": "normal",
+      "fontWeight": "700",
+      "woff": "https://fonts.gstatic.com/s/ptserif/v12/EJRSQgYoZZY2vCFuvAnt65qW.woff",
+      "local": [
+        "PT Serif Bold",
+        "PTSerif-Bold"
+      ],
+      "ttf": "https://fonts.gstatic.com/s/ptserif/v12/EJRSQgYoZZY2vCFuvAnt65qV.ttf",
+      "woff2": "https://fonts.gstatic.com/s/ptserif/v12/EJRSQgYoZZY2vCFuvAnt65qQ.woff2",
+      "svg": "https://fonts.gstatic.com/l/font?kit=EJRSQgYoZZY2vCFuvAnt65qX&skey=f3f4fc2f289c7d5b&v=v12#PTSerif",
+      "errored": false
+    },
+    {
+      "id": "700italic",
+      "eot": "https://fonts.gstatic.com/s/ptserif/v12/EJRQQgYoZZY2vCFuvAFT9gaQVy8.eot",
+      "fontFamily": "'PT Serif'",
+      "fontStyle": "italic",
+      "fontWeight": "700",
+      "woff2": "https://fonts.gstatic.com/s/ptserif/v12/EJRQQgYoZZY2vCFuvAFT9gaQVys.woff2",
+      "local": [
+        "PT Serif Bold Italic",
+        "PTSerif-BoldItalic"
+      ],
+      "woff": "https://fonts.gstatic.com/s/ptserif/v12/EJRQQgYoZZY2vCFuvAFT9gaQVy0.woff",
+      "svg": "https://fonts.gstatic.com/l/font?kit=EJRQQgYoZZY2vCFuvAFT9gaQVyw&skey=8c21167c941ad566&v=v12#PTSerif",
+      "ttf": "https://fonts.gstatic.com/s/ptserif/v12/EJRQQgYoZZY2vCFuvAFT9gaQVy4.ttf",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
-    "cyrillic-ext",
     "cyrillic",
+    "cyrillic-ext",
+    "latin",
     "latin-ext"
   ],
   "category": "serif",
-  "version": "v11",
-  "lastModified": "2019-07-22",
-  "popularity": 21,
+  "version": "v12",
+  "lastModified": "2020-09-10",
+  "popularity": 22,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
-    "cyrillic-ext": true,
     "cyrillic": true,
+    "cyrillic-ext": true,
+    "latin": true,
     "latin-ext": true
   },
-  "storeID": "latin-ext_cyrillic_cyrillic-ext_latin"
+  "storeID": "latin-ext_latin_cyrillic-ext_cyrillic"
 }

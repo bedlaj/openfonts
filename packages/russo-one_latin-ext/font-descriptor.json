@@ -4,7 +4,7 @@
   "variants": [
     {
       "id": "regular",
-      "woff2": "https://fonts.gstatic.com/s/russoone/v8/Z9XUDmZRWg6M1LvRYsHOwcmJ.woff2",
+      "woff2": "https://fonts.gstatic.com/s/russoone/v9/Z9XUDmZRWg6M1LvRYsHOwcmJ.woff2",
       "fontFamily": "'Russo One'",
       "fontStyle": "normal",
       "fontWeight": "400",
@@ -12,27 +12,27 @@
         "Russo One",
         "RussoOne-Regular"
       ],
-      "ttf": "https://fonts.gstatic.com/s/russoone/v8/Z9XUDmZRWg6M1LvRYsHOwcmM.ttf",
-      "eot": "https://fonts.gstatic.com/s/russoone/v8/Z9XUDmZRWg6M1LvRYsHOwcmN.eot",
-      "svg": "https://fonts.gstatic.com/l/font?kit=Z9XUDmZRWg6M1LvRYsHOwcmO&skey=5cda4fb5bcbd2a2c&v=v8#RussoOne",
-      "woff": "https://fonts.gstatic.com/s/russoone/v8/Z9XUDmZRWg6M1LvRYsHOwcmP.woff",
+      "woff": "https://fonts.gstatic.com/s/russoone/v9/Z9XUDmZRWg6M1LvRYsHOwcmP.woff",
+      "ttf": "https://fonts.gstatic.com/s/russoone/v9/Z9XUDmZRWg6M1LvRYsHOwcmM.ttf",
+      "svg": "https://fonts.gstatic.com/l/font?kit=Z9XUDmZRWg6M1LvRYsHOwcmO&skey=5cda4fb5bcbd2a2c&v=v9#RussoOne",
+      "eot": "https://fonts.gstatic.com/s/russoone/v9/Z9XUDmZRWg6M1LvRYsHOwcmN.eot",
       "errored": false
     }
   ],
   "subsets": [
-    "latin",
     "cyrillic",
+    "latin",
     "latin-ext"
   ],
   "category": "sans-serif",
-  "version": "v8",
-  "lastModified": "2019-07-17",
-  "popularity": 144,
+  "version": "v9",
+  "lastModified": "2020-09-10",
+  "popularity": 143,
   "defSubset": "latin",
   "defVariant": "regular",
   "subsetMap": {
-    "latin": true,
     "cyrillic": false,
+    "latin": true,
     "latin-ext": true
   },
   "storeID": "latin-ext_latin"
