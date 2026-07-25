@@ -129,12 +129,14 @@ async function processPackage(ctx, descriptor, subsetKey) {
         reportStore.add(report, shortName, 'publish-deferred', 'new package 1.0.0')
         return
       }
+      // Claim the publish slot before the awaits so concurrent tasks cannot
+      // overshoot the --max-publish cap.
+      state.publishCount++
       const builtDir = path.join(workdir, 'built')
       await buildPackage({
         descriptor, subsetKey, version: '1.0.0', fingerprint: fp, builtAt: state.builtAt,
         dir: builtDir, licenseText: state.licenseText, downloadConcurrency: opts.downloadConcurrency,
       })
-      state.publishCount++
       await publishPackage(builtDir, {dryRun: !opts.publish, scope: opts.scope})
       if (opts.publish && !opts.scope) manifestStore.record(manifest, shortName, fp, '1.0.0')
       reportStore.add(report, shortName, 'new', `1.0.0${opts.publish ? '' : ' (dry run)'}`)
