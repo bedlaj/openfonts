@@ -115,7 +115,7 @@ jobs:
             exit 0
           fi
           git config user.name "openfonts-bot"
-          git config user.email "openfonts@janbednar.eu"
+          git config user.email "23356034+bedlaj@users.noreply.github.com"
           git add state/manifest.json
           git commit -m "Update manifest after publish run"
           git pull --rebase origin main
