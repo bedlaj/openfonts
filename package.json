@@ -1,0 +1,19 @@
+{
+  "name": "@openfonts/pipeline",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Update pipeline for the @openfonts npm packages (self-hosted Google Fonts)",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node --test",
+    "sync": "node src/cli.js sync"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "semver": "^7.6.0",
+    "tar": "^7.4.0"
+  }
+}

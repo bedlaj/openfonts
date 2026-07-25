@@ -1,0 +1,110 @@
+name: sync
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+    inputs:
+      publish:
+        description: "Really publish (requires PUBLISH_ENABLED repo variable)"
+        type: boolean
+        default: false
+      full_verify:
+        description: "Ignore fingerprint/manifest skips, re-verify everything"
+        type: boolean
+        default: false
+      only:
+        description: "Comma-separated font ids (e.g. abel,open-sans); empty = all"
+        type: string
+        default: ""
+      scope:
+        description: "Publish under a different npm scope (e.g. @openfonts-test)"
+        type: string
+        default: ""
+      max_publish:
+        description: "Max publishes this run"
+        type: string
+        default: "300"
+
+concurrency:
+  group: sync
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    services:
+      gwfh:
+        image: ghcr.io/majodev/google-webfonts-helper:latest
+        ports:
+          - 8080:8080
+        env:
+          GOOGLE_FONTS_API_KEY: ${{ secrets.GOOGLE_FONTS_API_KEY }}
+    env:
+      # Publishing requires BOTH the repo variable PUBLISH_ENABLED=true (the
+      # go-live switch) AND either a scheduled run or an explicit dispatch
+      # opt-in. Until the variable is set, every run is a dry run.
+      DO_PUBLISH: ${{ vars.PUBLISH_ENABLED == 'true' && (github.event_name == 'schedule' || inputs.publish == true) }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          registry-url: "https://registry.npmjs.org"
+
+      - run: npm ci
+
+      - run: npm test
+
+      - name: Wait for google-webfonts-helper
+        run: |
+          for i in $(seq 1 60); do
+            if curl -sf http://localhost:8080/api/fonts > /dev/null; then
+              echo "gwfh ready after ${i} attempts"
+              exit 0
+            fi
+            sleep 5
+          done
+          echo "gwfh service did not become ready" >&2
+          exit 1
+
+      - name: Sync
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+        run: |
+          node src/cli.js sync \
+            --api http://localhost:8080/api/fonts \
+            --publish=${DO_PUBLISH} \
+            --full-verify=${{ inputs.full_verify || false }} \
+            --only="${{ inputs.only || '' }}" \
+            --scope="${{ inputs.scope || '' }}" \
+            --max-publish "${{ inputs.max_publish || '300' }}"
+
+      - name: Upload report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: report
+          path: report.json
+          if-no-files-found: ignore
+
+      - name: Commit manifest
+        if: env.DO_PUBLISH == 'true'
+        run: |
+          if git diff --quiet -- state/manifest.json; then
+            echo "manifest unchanged"
+            exit 0
+          fi
+          git config user.name "openfonts-bot"
+          git config user.email "openfonts@janbednar.eu"
+          git add state/manifest.json
+          git commit -m "Update manifest after publish run"
+          git pull --rebase origin main
+          git push origin main
