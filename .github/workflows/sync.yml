@@ -50,11 +50,11 @@ jobs:
       # opt-in. Until the variable is set, every run is a dry run.
       DO_PUBLISH: ${{ vars.PUBLISH_ENABLED == 'true' && (github.event_name == 'schedule' || inputs.publish == true) }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
         with:
           fetch-depth: 1
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v6
         with:
           node-version: 22
           registry-url: "https://registry.npmjs.org"
@@ -76,15 +76,20 @@ jobs:
           exit 1
 
       - name: Check npm auth
-        if: env.DO_PUBLISH == 'true'
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
         run: |
-          if ! npm whoami; then
+          # Hard requirement on publish runs; early warning on dry runs so an
+          # expired token is noticed before go-live day, not on it.
+          if npm whoami; then
+            echo "npm auth OK"
+          elif [ "${DO_PUBLISH}" = "true" ]; then
             echo "::error::NPM_TOKEN is missing, expired, or invalid. Granular write tokens live max 90 days -" \
                  "generate a new one at npmjs.com (Access Tokens -> Granular, read/write on @openfonts)" \
                  "and run: gh secret set NPM_TOKEN -R bedlaj/openfonts" >&2
             exit 1
+          else
+            echo "::warning::NPM_TOKEN is missing or not valid (dry run continues). Rotate it before enabling publishing."
           fi
 
       - name: Sync
@@ -101,7 +106,7 @@ jobs:
 
       - name: Upload report
         if: always()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
           name: report
           path: report.json
