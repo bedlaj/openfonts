@@ -139,7 +139,8 @@ async function processPackage(ctx, descriptor, subsetKey) {
       } catch (error) {
         if (!error.isRateLimited) throw error
         noteRateLimitGiveUp(ctx)
-        reportStore.add(report, shortName, 'publish-deferred', `${latest} -> ${nextVersion}: npm rate limited, deferred`)
+        const ra = error.retryAfterMs ? ` (registry Retry-After ${Math.round(error.retryAfterMs / 1000)}s)` : ''
+        reportStore.add(report, shortName, 'publish-deferred', `${latest} -> ${nextVersion}: npm rate limited, deferred${ra}`)
         return
       }
       if (opts.publish && !opts.scope) manifestStore.record(manifest, shortName, fp, actualVersion)
@@ -178,7 +179,8 @@ async function processPackage(ctx, descriptor, subsetKey) {
         }
         if (!error.isRateLimited) throw error
         noteRateLimitGiveUp(ctx)
-        reportStore.add(report, shortName, 'publish-deferred', 'new package 1.0.0: npm rate limited, deferred')
+        const ra = error.retryAfterMs ? ` (registry Retry-After ${Math.round(error.retryAfterMs / 1000)}s)` : ''
+        reportStore.add(report, shortName, 'publish-deferred', `new package 1.0.0: npm rate limited, deferred${ra}`)
         return
       }
       if (opts.publish && !opts.scope) manifestStore.record(manifest, shortName, fp, '1.0.0')

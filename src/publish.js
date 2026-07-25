@@ -12,6 +12,10 @@ const BASE_BACKOFF_MS = Number(process.env.OPENFONTS_PUBLISH_BACKOFF_MS || 15000
 const MAX_BACKOFF_MS = 300000
 const MAX_GAP_MS = 20000
 const MIN_GAP_MS = 250
+// A Retry-After above this means the account is done for now, not briefly
+// throttled - defer the package instead of sleeping the job timeout away.
+const RETRY_AFTER_GIVE_UP_MS = Number(process.env.OPENFONTS_RETRY_AFTER_GIVE_UP_MS || 600000)
+const REGISTRY = process.env.OPENFONTS_REGISTRY || 'https://registry.npmjs.org'
 
 // npm rate-limits publishes per account, aggressively and without documented
 // numbers. Real PUTs are therefore serialized behind one queue with an adaptive
@@ -25,12 +29,29 @@ function isRateLimited(output) {
   return /\bE429\b|429 Too Many Requests/i.test(output)
 }
 
-// npm prints "Retry-After: <seconds>" only sometimes; honour it when present.
-function retryAfterMs(output) {
-  const m = /retry-?after[":\s]+(\d+)/i.exec(output)
-  if (!m) return null
-  const seconds = Number(m[1])
-  return Number.isFinite(seconds) && seconds > 0 ? Math.min(seconds * 1000, MAX_BACKOFF_MS) : null
+// The npm CLI never surfaces response headers, but the registry's 429 carries a
+// Retry-After header (served by Cloudflare's edge limiter, before npm's app sees
+// the request). Probe the same URL with an authenticated PUT whose body could
+// never be a valid publish - if the limiter is still active it answers 429 with
+// Retry-After; anything else means it has lifted.
+// Returns {limited, retryAfterMs} or null when the probe is unavailable/failed.
+async function probeRetryAfter(pkgName) {
+  const token = process.env.NODE_AUTH_TOKEN || process.env.NPM_TOKEN
+  if (!token || typeof globalThis.fetch !== 'function') return null
+  try {
+    const res = await globalThis.fetch(`${REGISTRY}/${pkgName.replace('/', '%2F')}`, {
+      method: 'PUT',
+      headers: {authorization: `Bearer ${token}`, 'content-type': 'application/json'},
+      body: '{}',
+      signal: AbortSignal.timeout(30000),
+    })
+    await res.arrayBuffer().catch(() => {})
+    if (res.status !== 429) return {limited: false, retryAfterMs: null}
+    const seconds = Number(res.headers.get('retry-after'))
+    return {limited: true, retryAfterMs: Number.isFinite(seconds) && seconds > 0 ? seconds * 1000 : null}
+  } catch {
+    return null
+  }
 }
 
 function enqueue(task) {
@@ -103,6 +124,7 @@ async function publishPackage(dir, {dryRun = true, scope = null} = {}) {
   }
 
   return enqueue(async () => {
+    const pkgName = JSON.parse(fs.readFileSync(path.join(dir, 'package.json'), 'utf8')).name
     let lastOutput = ''
     for (let attempt = 0; attempt <= RETRIES; attempt++) {
       await waitForSlot()
@@ -123,10 +145,29 @@ async function publishPackage(dir, {dryRun = true, scope = null} = {}) {
       }
       if (!isRateLimited(output) || attempt === RETRIES) break
       noteRateLimited()
-      const backoff = retryAfterMs(output) ?? Math.min(MAX_BACKOFF_MS, BASE_BACKOFF_MS * 2 ** attempt)
-      const jitter = Math.floor(backoff * 0.2 * ((started % 1000) / 1000))
-      console.log(`rate limited publishing ${path.basename(path.dirname(dir))}, backing off ${Math.round((backoff + jitter) / 1000)}s (attempt ${attempt + 1}/${RETRIES})`)
-      gate.nextAt = Date.now() + backoff + jitter
+
+      const probe = await probeRetryAfter(pkgName)
+      let backoff
+      if (probe && !probe.limited) {
+        // Limiter already lifted (the npm attempt raced its tail end).
+        backoff = 2000
+        console.log(`rate limit on ${pkgName} has lifted, retrying (attempt ${attempt + 1}/${RETRIES})`)
+      } else if (probe && probe.retryAfterMs != null) {
+        if (probe.retryAfterMs > RETRY_AFTER_GIVE_UP_MS) {
+          const err = publishError(dir, `${lastOutput}\nregistry Retry-After is ${Math.round(probe.retryAfterMs / 1000)}s - deferring instead of waiting`)
+          err.isRateLimited = true
+          err.retryAfterMs = probe.retryAfterMs
+          throw err
+        }
+        backoff = probe.retryAfterMs + 1000
+        console.log(`rate limited publishing ${pkgName}, registry says retry after ${Math.round(probe.retryAfterMs / 1000)}s (attempt ${attempt + 1}/${RETRIES})`)
+      } else {
+        backoff = Math.min(MAX_BACKOFF_MS, BASE_BACKOFF_MS * 2 ** attempt)
+        const jitter = Math.floor(backoff * 0.2 * ((started % 1000) / 1000))
+        backoff += jitter
+        console.log(`rate limited publishing ${pkgName}, backing off ${Math.round(backoff / 1000)}s (attempt ${attempt + 1}/${RETRIES})`)
+      }
+      gate.nextAt = Date.now() + backoff
     }
     throw publishError(dir, lastOutput)
   })

@@ -27,16 +27,25 @@ if [ "$n" -le ${failures} ]; then
 fi
 echo "+ @openfonts/x_latin@1.0.0"
 `, {mode: 0o755})
-  const oldPath = process.env.PATH
-  const oldBackoff = process.env.OPENFONTS_PUBLISH_BACKOFF_MS
-  process.env.PATH = `${bin}:${oldPath}`
+  const oldEnv = {
+    PATH: process.env.PATH,
+    OPENFONTS_PUBLISH_BACKOFF_MS: process.env.OPENFONTS_PUBLISH_BACKOFF_MS,
+    NODE_AUTH_TOKEN: process.env.NODE_AUTH_TOKEN,
+    NPM_TOKEN: process.env.NPM_TOKEN,
+  }
+  process.env.PATH = `${bin}:${oldEnv.PATH}`
   process.env.OPENFONTS_PUBLISH_BACKOFF_MS = '10'
+  // Without a token the Retry-After probe is skipped, keeping the pure
+  // exponential-backoff path deterministic for these tests.
+  delete process.env.NODE_AUTH_TOKEN
+  delete process.env.NPM_TOKEN
   delete require.cache[require.resolve('../src/publish')]
   const publish = require('../src/publish')
   const done = () => {
-    process.env.PATH = oldPath
-    if (oldBackoff === undefined) delete process.env.OPENFONTS_PUBLISH_BACKOFF_MS
-    else process.env.OPENFONTS_PUBLISH_BACKOFF_MS = oldBackoff
+    for (const [key, value] of Object.entries(oldEnv)) {
+      if (value === undefined) delete process.env[key]
+      else process.env[key] = value
+    }
     delete require.cache[require.resolve('../src/publish')]
     fs.rmSync(dir, {recursive: true, force: true})
   }
@@ -111,6 +120,65 @@ test('dry runs bypass the publish queue and do not retry', async () => {
   await withFakeNpm(1, async ({publish, pkgDir, attempts}) => {
     await assert.rejects(() => publish.publishPackage(pkgDir, {dryRun: true}))
     assert.equal(attempts(), 1, 'dry run must not burn retries on back-pressure')
+  })
+})
+
+// Run body with the probe enabled: token set and globalThis.fetch stubbed to
+// answer the raw PUT probe with the given status/headers.
+async function withProbe(probeResponse, fakeNpmFailures, body) {
+  const realFetch = globalThis.fetch
+  const probeCalls = []
+  globalThis.fetch = async (url, opts) => {
+    probeCalls.push({url: String(url), method: opts?.method})
+    return {
+      status: probeResponse.status,
+      headers: {get: name => (name.toLowerCase() === 'retry-after' ? probeResponse.retryAfter ?? null : null)},
+      arrayBuffer: async () => new ArrayBuffer(0),
+    }
+  }
+  try {
+    await withFakeNpm(fakeNpmFailures, async ctx => {
+      process.env.NODE_AUTH_TOKEN = 'test-token'
+      await body({...ctx, probeCalls})
+    })
+  } finally {
+    globalThis.fetch = realFetch
+  }
+}
+
+test('429 backoff obeys the registry Retry-After from the probe', async () => {
+  await withProbe({status: 429, retryAfter: '1'}, 1, async ({publish, pkgDir, attempts, probeCalls}) => {
+    const started = Date.now()
+    const result = await publish.publishPackage(pkgDir, {dryRun: false})
+    assert.equal(result.published, true)
+    assert.equal(attempts(), 2)
+    assert.equal(probeCalls.length, 1)
+    assert.match(probeCalls[0].url, /@openfonts%2Fx_latin$/i)
+    assert.equal(probeCalls[0].method, 'PUT')
+    assert.ok(Date.now() - started >= 1000, 'must wait at least the Retry-After second')
+  })
+})
+
+test('a Retry-After beyond the give-up threshold defers immediately', async () => {
+  await withProbe({status: 429, retryAfter: '1934'}, 99, async ({publish, pkgDir, attempts}) => {
+    await assert.rejects(
+      () => publish.publishPackage(pkgDir, {dryRun: false}),
+      error => {
+        assert.equal(error.isRateLimited, true)
+        assert.equal(error.retryAfterMs, 1934000)
+        assert.match(error.message, /Retry-After is 1934s/)
+        return true
+      },
+    )
+    assert.equal(attempts(), 1, 'no blind retries when the registry says the wait is 32 minutes')
+  })
+})
+
+test('probe seeing the limiter lifted retries promptly', async () => {
+  await withProbe({status: 401}, 1, async ({publish, pkgDir, attempts}) => {
+    const result = await publish.publishPackage(pkgDir, {dryRun: false})
+    assert.equal(result.published, true)
+    assert.equal(attempts(), 2)
   })
 })
 
