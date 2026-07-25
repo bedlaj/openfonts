@@ -51,6 +51,41 @@ test('publish retries through npm 429 back-pressure', async () => {
   })
 })
 
+test('a 429 whose write landed anyway counts as published, not a conflict', async () => {
+  // npm commits the version, then fails the response with 429; the retry sees
+  // its own upload as "cannot publish over".
+  const dir = fs.mkdtempSync(path.join(os.tmpdir(), 'openfonts-publish-late-'))
+  const bin = path.join(dir, 'bin')
+  const pkgDir = path.join(dir, 'pkg')
+  fs.mkdirSync(bin)
+  fs.mkdirSync(pkgDir)
+  fs.writeFileSync(path.join(pkgDir, 'package.json'), '{"name":"@openfonts/x_latin","version":"1.0.0"}\n')
+  const counter = path.join(dir, 'attempts')
+  fs.writeFileSync(counter, '')
+  fs.writeFileSync(path.join(bin, 'npm'), `#!/bin/bash
+echo x >> ${counter}
+n=$(wc -l < ${counter})
+if [ "$n" -eq 1 ]; then echo "npm error code E429" >&2; exit 1; fi
+echo "npm error 403 You cannot publish over the previously published versions: 1.0.0." >&2
+exit 1
+`, {mode: 0o755})
+  const oldPath = process.env.PATH
+  process.env.PATH = `${bin}:${oldPath}`
+  process.env.OPENFONTS_PUBLISH_BACKOFF_MS = '10'
+  delete require.cache[require.resolve('../src/publish')]
+  const publish = require('../src/publish')
+  try {
+    const result = await publish.publishPackage(pkgDir, {dryRun: false})
+    assert.equal(result.published, true)
+    assert.equal(result.landedOnEarlierAttempt, true)
+  } finally {
+    process.env.PATH = oldPath
+    delete process.env.OPENFONTS_PUBLISH_BACKOFF_MS
+    delete require.cache[require.resolve('../src/publish')]
+    fs.rmSync(dir, {recursive: true, force: true})
+  }
+})
+
 test('publish gives up after exhausting retries and flags rate limiting', async () => {
   const oldRetries = process.env.OPENFONTS_PUBLISH_RETRIES
   process.env.OPENFONTS_PUBLISH_RETRIES = '2'

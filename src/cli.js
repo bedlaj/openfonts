@@ -161,6 +161,21 @@ async function processPackage(ctx, descriptor, subsetKey) {
       try {
         await publishPackage(builtDir, {dryRun: !opts.publish, scope: opts.scope})
       } catch (error) {
+        if (error.isDuplicateVersion) {
+          // The packument said 404 but the version exists — a stale registry
+          // read, or an earlier attempt that landed. Re-read rather than guess:
+          // only claim it if what is published is what we just built, otherwise
+          // leave it for the next run's normal update path to version properly.
+          const fresh = await registry.fetchPackument(fullName)
+          const existing = fresh && registry.resolveLatest(fresh)
+          if (existing && registry.publishedFingerprint(fresh, existing) === fp) {
+            if (opts.publish && !opts.scope) manifestStore.record(manifest, shortName, fp, existing)
+            reportStore.add(report, shortName, 'new', `${existing} (already on the registry)`)
+          } else {
+            reportStore.add(report, shortName, 'publish-deferred', 'new package already exists with other content; updating next run')
+          }
+          return
+        }
         if (!error.isRateLimited) throw error
         noteRateLimitGiveUp(ctx)
         reportStore.add(report, shortName, 'publish-deferred', 'new package 1.0.0: npm rate limited, deferred')

@@ -114,6 +114,13 @@ async function publishPackage(dir, {dryRun = true, scope = null} = {}) {
         noteSuccess()
         return {published: true, dryRun: false, output}
       }
+      // npm can commit the write and still fail the response (429, dropped
+      // connection). The retry then sees its own upload as a duplicate — that
+      // is this attempt succeeding late, not a conflict with someone else.
+      if (attempt > 0 && /cannot publish over|previously published versions/i.test(output)) {
+        noteSuccess()
+        return {published: true, dryRun: false, output, landedOnEarlierAttempt: true}
+      }
       if (!isRateLimited(output) || attempt === RETRIES) break
       noteRateLimited()
       const backoff = retryAfterMs(output) ?? Math.min(MAX_BACKOFF_MS, BASE_BACKOFF_MS * 2 ** attempt)
