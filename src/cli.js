@@ -63,6 +63,20 @@ function parseArgs(argv) {
   return opts
 }
 
+// npm back-pressure is not a pipeline failure: the package is simply deferred to
+// the next run. If it keeps happening the account is being throttled hard, so
+// stop attempting publishes altogether rather than burn the job timeout on
+// backoff sleeps — everything left over is reported as deferred.
+function noteRateLimitGiveUp(ctx) {
+  const {state, opts} = ctx
+  state.rateLimitGiveUps++
+  if (state.rateLimitGiveUps >= 5 && !state.rateLimitHalted) {
+    state.rateLimitHalted = true
+    state.publishCount = opts.maxPublish
+    console.log('npm rate limiting persists after retries; halting further publish attempts this run')
+  }
+}
+
 async function processPackage(ctx, descriptor, subsetKey) {
   const {opts, manifest, report, state} = ctx
   const shortName = gwfh.packageName(descriptor.id, subsetKey)
@@ -110,16 +124,23 @@ async function processPackage(ctx, descriptor, subsetKey) {
       state.publishCount++
       let actualVersion = nextVersion
       try {
-        await publishPackage(builtDir, {dryRun: !opts.publish, scope: opts.scope})
+        try {
+          await publishPackage(builtDir, {dryRun: !opts.publish, scope: opts.scope})
+        } catch (error) {
+          if (!error.isDuplicateVersion) throw error
+          const fresh = await registry.fetchPackument(fullName)
+          actualVersion = semver.inc(registry.resolveLatest(fresh), 'patch')
+          const pkgPath = path.join(builtDir, 'package.json')
+          const pkg = JSON.parse(fs.readFileSync(pkgPath, 'utf8'))
+          pkg.version = actualVersion
+          fs.writeFileSync(pkgPath, JSON.stringify(pkg, null, 2) + '\n')
+          await publishPackage(builtDir, {dryRun: !opts.publish})
+        }
       } catch (error) {
-        if (!error.isDuplicateVersion) throw error
-        const fresh = await registry.fetchPackument(fullName)
-        actualVersion = semver.inc(registry.resolveLatest(fresh), 'patch')
-        const pkgPath = path.join(builtDir, 'package.json')
-        const pkg = JSON.parse(fs.readFileSync(pkgPath, 'utf8'))
-        pkg.version = actualVersion
-        fs.writeFileSync(pkgPath, JSON.stringify(pkg, null, 2) + '\n')
-        await publishPackage(builtDir, {dryRun: !opts.publish})
+        if (!error.isRateLimited) throw error
+        noteRateLimitGiveUp(ctx)
+        reportStore.add(report, shortName, 'publish-deferred', `${latest} -> ${nextVersion}: npm rate limited, deferred`)
+        return
       }
       if (opts.publish && !opts.scope) manifestStore.record(manifest, shortName, fp, actualVersion)
       reportStore.add(report, shortName, 'published', `${latest} -> ${actualVersion}${opts.publish ? '' : ' (dry run)'}: ${reasons.join('; ')}`)
@@ -137,7 +158,14 @@ async function processPackage(ctx, descriptor, subsetKey) {
         descriptor, subsetKey, version: '1.0.0', fingerprint: fp, builtAt: state.builtAt,
         dir: builtDir, licenseText: state.licenseText, downloadConcurrency: opts.downloadConcurrency,
       })
-      await publishPackage(builtDir, {dryRun: !opts.publish, scope: opts.scope})
+      try {
+        await publishPackage(builtDir, {dryRun: !opts.publish, scope: opts.scope})
+      } catch (error) {
+        if (!error.isRateLimited) throw error
+        noteRateLimitGiveUp(ctx)
+        reportStore.add(report, shortName, 'publish-deferred', 'new package 1.0.0: npm rate limited, deferred')
+        return
+      }
       if (opts.publish && !opts.scope) manifestStore.record(manifest, shortName, fp, '1.0.0')
       reportStore.add(report, shortName, 'new', `1.0.0${opts.publish ? '' : ' (dry run)'}`)
     }
@@ -172,6 +200,8 @@ async function sync(opts) {
   const state = {
     seen: new Set(),
     publishCount: 0,
+    rateLimitGiveUps: 0,
+    rateLimitHalted: false,
     builtAt: new Date().toISOString(),
     licenseText: fs.readFileSync(path.join(ROOT, 'LICENSE.md'), 'utf8'),
   }
