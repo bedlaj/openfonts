@@ -75,6 +75,18 @@ jobs:
           echo "gwfh service did not become ready" >&2
           exit 1
 
+      - name: Check npm auth
+        if: env.DO_PUBLISH == 'true'
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+        run: |
+          if ! npm whoami; then
+            echo "::error::NPM_TOKEN is missing, expired, or invalid. Granular write tokens live max 90 days -" \
+                 "generate a new one at npmjs.com (Access Tokens -> Granular, read/write on @openfonts)" \
+                 "and run: gh secret set NPM_TOKEN -R bedlaj/openfonts" >&2
+            exit 1
+          fi
+
       - name: Sync
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
