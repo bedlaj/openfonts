@@ -100,7 +100,7 @@ Two deliberate format changes, both excluded from the publish decision:
   failures are isolated (`failed` outcome + exit code 1, run continues).
 - Steady state: ~4.6 k gwfh calls (local container) + ~2.7 k packument GETs, near-zero
   downloads → well under 30 min. Backlog runs are bounded by `--max-publish` (default
-  300) — verification still covers everything, only publishes are deferred.
+  1000) — verification still covers everything, only publishes are deferred.
 - Failed packages retry naturally next run (no manifest entry is written for them).
 - Dry runs never write manifest entries for would-be publishes; verified-unchanged
   entries are always safe to record (they state registry facts, not publish facts).
@@ -110,7 +110,10 @@ Two deliberate format changes, both excluded from the publish decision:
 Google re-encoded virtually every font since 2020 (verified: even fonts with unchanged
 kit hashes serve different bytes under new version paths, e.g. numans v10 vs v16). The
 first publish-enabled runs will therefore legitimately republish most of the catalog,
-~300/day until drained. New subsets appeared as well (e.g. `open-sans_math`,
+~1000/day until drained. npm throttles sustained publishing: roughly 2,850 packages went
+out on 2026-07-25 before the registry stopped accepting them entirely for hours, so the
+daily cap is deliberately well under that. Back-pressure is absorbed as `publish-deferred`,
+never as a failure. New subsets appeared as well (e.g. `open-sans_math`,
 `open-sans_symbols`, `open-sans_hebrew` → new 1.0.0 packages). The old catalog also
 shrank: gwfh now lists 1,951 fonts vs 2,695 historical packages — the difference shows
 up as `removed` in reports and stays frozen on npm.

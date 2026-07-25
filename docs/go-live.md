@@ -45,7 +45,7 @@ repository **variable** is `true`, and locally nothing publishes without `--publ
 ## 5. Flip the switch
 
 - [ ] Set the Actions repository **variable** `PUBLISH_ENABLED` to `true`.
-- [ ] The next scheduled run publishes for real, capped at `--max-publish 300` per day
+- [ ] The next scheduled run publishes for real, capped at `--max-publish 1000` per day
       until the 2020→2026 backlog drains (expect most of the catalog — Google
       re-encoded nearly everything; see docs/architecture.md).
 - [ ] After the first real run, check that CI committed `state/manifest.json` back and

@@ -22,7 +22,7 @@ const DEFAULTS = {
   fullVerify: false,
   only: null,
   scope: null,
-  maxPublish: 300,
+  maxPublish: 1000,
   workdir: path.join(ROOT, '.work'),
   manifest: path.join(ROOT, 'state', 'manifest.json'),
   known: path.join(ROOT, 'state', 'known-packages.json'),

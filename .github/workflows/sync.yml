@@ -24,7 +24,7 @@ on:
       max_publish:
         description: "Max publishes this run"
         type: string
-        default: "300"
+        default: "1000"
 
 concurrency:
   group: sync
@@ -102,7 +102,7 @@ jobs:
             --full-verify=${{ inputs.full_verify || false }} \
             --only="${{ inputs.only || '' }}" \
             --scope="${{ inputs.scope || '' }}" \
-            --max-publish "${{ inputs.max_publish || '300' }}"
+            --max-publish "${{ inputs.max_publish || '1000' }}"
 
       - name: Upload report
         if: always()
