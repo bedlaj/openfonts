@@ -1,0 +1,2509 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "abel_latin": {
+      "fingerprint": "45f0d46c90155a943ba1dc3f94900d6722a3e937bd8f3c91017b080313421116",
+      "version": "1.44.2"
+    },
+    "akronim_latin": {
+      "fingerprint": "9619a85de00f991626957ea9b1c0e1b5c699891857d218b7b31f701ad83637d6",
+      "version": "1.44.2"
+    },
+    "akronim_latin-ext": {
+      "fingerprint": "68691d614c82289f8ae6560e6e7bdf5697acefbf3eaa7ba29899080c99ffd5cc",
+      "version": "1.44.2"
+    },
+    "alfa-slab-one_all": {
+      "fingerprint": "e3305fb6291e7da6da5a5dac630bbbe05bcfd71962b31f17d3fa9d2c1e89e339",
+      "version": "1.44.3"
+    },
+    "alfa-slab-one_latin": {
+      "fingerprint": "6bcde088c7018d6ce3e351c6a61c4ed322b97a5f761fb32f06e34c201a454223",
+      "version": "1.44.2"
+    },
+    "alfa-slab-one_latin-ext": {
+      "fingerprint": "afac3e3865f64cbe8091a004ca471522976b07d8e32d8c7d4bf9fc74a88360e5",
+      "version": "1.44.3"
+    },
+    "alfa-slab-one_vietnamese": {
+      "fingerprint": "c76b4e2f120eca949e798b79a7ee48fa08aed1dd65101863f957dfde3ee6ab09",
+      "version": "1.44.3"
+    },
+    "anek-telugu_all": {
+      "fingerprint": "0623f9302dffa596a991495d23ab9c91d138f1c073e3757e0f792c47b8b7c08c",
+      "version": "1.0.0"
+    },
+    "anek-telugu_latin": {
+      "fingerprint": "a3077d0075036106238af8db5c36bcaa6fdc631243b893109a43d1f90f9fa773",
+      "version": "1.0.0"
+    },
+    "anek-telugu_latin-ext": {
+      "fingerprint": "c26fbad218e9c4ee62707225eb5391ebbee395d41673d5db3c38d40f2d7d39a6",
+      "version": "1.0.0"
+    },
+    "anek-telugu_telugu": {
+      "fingerprint": "95353db31698760806ff8eba6e7cc8012c046def52c64b6a215b07afb24e2130",
+      "version": "1.0.0"
+    },
+    "anton_all": {
+      "fingerprint": "5d7b90e626b503155c6e6043eed78542d4207207f9bd70f6add8fe5a8c6e189d",
+      "version": "1.44.3"
+    },
+    "anton_latin": {
+      "fingerprint": "381254f6c66801e42775896d2063399c7a55b36b80371a1c37aa4cdca83de25c",
+      "version": "1.44.3"
+    },
+    "anton_latin-ext": {
+      "fingerprint": "65fb4fabe9b645afc855b2d9d1d655a428a6ead492bb5112df7258af3e04e14c",
+      "version": "1.44.3"
+    },
+    "anton_vietnamese": {
+      "fingerprint": "0c7c4185a45752b056f2614e40b73cef8cb353c8b7ac01a1cb016fde64cdb05a",
+      "version": "1.44.3"
+    },
+    "archivo-black_latin": {
+      "fingerprint": "bc7e2eacb7b7319e7e5db561d1b8dbb4a0815d6a7105f92a5af73ceb6aeb7790",
+      "version": "1.44.3"
+    },
+    "archivo-black_latin-ext": {
+      "fingerprint": "2399e7aeb4c0b5f21e71e14684a18660430b348732f07ef156c487ac4acb8b40",
+      "version": "1.44.3"
+    },
+    "archivo_all": {
+      "fingerprint": "5bd713294ffb0a5cda853fb2c16b7e6a60cbc3fc533bfae563e799c10f5ac1f6",
+      "version": "1.44.3"
+    },
+    "archivo_latin": {
+      "fingerprint": "8046596160c2389132973913492247107c26dabf3973579921772fdb85ee2db2",
+      "version": "1.44.3"
+    },
+    "archivo_latin-ext": {
+      "fingerprint": "94304c1b90256f4ef994113a9067c07bf5f70f876d11c89e9e094ef78935ae39",
+      "version": "1.44.3"
+    },
+    "archivo_vietnamese": {
+      "fingerprint": "ce4260c959a4415b68be357bbe1488be1a830cd59323f99e5eaa7bedb7e641a7",
+      "version": "1.44.3"
+    },
+    "arimo_all": {
+      "fingerprint": "ab5d3d6ee7aed1d14c9dab1c33e6863948d5563fbc6b37b939e579c66be0c9ce",
+      "version": "1.44.3"
+    },
+    "arimo_cyrillic": {
+      "fingerprint": "d70f14cbe9536bbf71845a6ce4ad1df968423d63d523b8fd14678da57dffd744",
+      "version": "1.44.3"
+    },
+    "arimo_cyrillic-ext": {
+      "fingerprint": "16cc1692a2ad9d89e5e1b3b1b00c762add8e70012c49b29e67d71b211eefde46",
+      "version": "1.44.3"
+    },
+    "arimo_greek": {
+      "fingerprint": "a0ea8a036a817111c62e765575be5de5597f0fa582e4e0bf3c78dc265f096a48",
+      "version": "1.44.3"
+    },
+    "arimo_greek-ext": {
+      "fingerprint": "8454cad77a083131a7aed2fbe72931c68762895baf9d58e76f47486d89d7203b",
+      "version": "1.44.3"
+    },
+    "arimo_hebrew": {
+      "fingerprint": "7e0059fc5fa906977dc816db2e6e452f7d9df4dcae0cc633b816146346146c72",
+      "version": "1.44.3"
+    },
+    "arimo_latin": {
+      "fingerprint": "11d6c04a95e7d12662b243122b3c60b140ce3501f293c59daf6416976a1fc21b",
+      "version": "1.44.3"
+    },
+    "arimo_latin-ext": {
+      "fingerprint": "47cf4c97801ee46ac824c43c1bd93061cd0dcf4cff6af142be54273c6013ae19",
+      "version": "1.44.3"
+    },
+    "arimo_vietnamese": {
+      "fingerprint": "bfb26ab513cb9dfa36a98b533f4fb13b8f9907f13f782babd7c94b2a6dda0140",
+      "version": "1.44.3"
+    },
+    "arvo_latin": {
+      "fingerprint": "7ae3d9ff70b2cbe5c4a0e0e4e8aa505589f793a27f0d97ddc0e20e9b71f8faec",
+      "version": "1.44.3"
+    },
+    "assistant_all": {
+      "fingerprint": "4704ba069dc394a52796a601f3e7910b55771de73953a0307778fa014529d176",
+      "version": "1.0.0"
+    },
+    "assistant_hebrew": {
+      "fingerprint": "80ccb863d93d932ed4ff2102ce382f84d0e47408aac90565dca26fb244ea8150",
+      "version": "1.44.3"
+    },
+    "assistant_latin": {
+      "fingerprint": "6175571d38e380daabff13f7cf60c34ecb135f245ce43c66037719a321337601",
+      "version": "1.44.3"
+    },
+    "assistant_latin-ext": {
+      "fingerprint": "066dbb09c7d3732c5a8829419a2d91a46aae123b87164bb00b7816bbbdbec10d",
+      "version": "1.0.0"
+    },
+    "averia-gruesa-libre_latin": {
+      "fingerprint": "a8d5e803e3ccd87c03af7e1aa0bfba4490bf4fa2b0ce9a4221d39a11aca6580b",
+      "version": "1.44.2"
+    },
+    "averia-gruesa-libre_latin-ext": {
+      "fingerprint": "ad0f3241a624892d8b2153a382ced545c393d75e98d7ac2972e2d4394ff2e1ca",
+      "version": "1.44.2"
+    },
+    "averia-libre_latin": {
+      "fingerprint": "a7d452b9538909379b893327a1c8a92ba92fb92feeced84d6f3ff40b396f2ac8",
+      "version": "1.44.2"
+    },
+    "barlow-condensed_all": {
+      "fingerprint": "5b293dc72f362e31de19de848b59c2de2d842592da60193eb3288c2018db7de5",
+      "version": "1.44.3"
+    },
+    "barlow-condensed_latin": {
+      "fingerprint": "6deeabfef852bd973f8861e1281d131f937fd816ad369dc3aec61d583ec0e5e5",
+      "version": "1.44.3"
+    },
+    "barlow-condensed_latin-ext": {
+      "fingerprint": "69862e04bc6372297d783edb4d695a3f09ce0cd4961d733e3b1e463fbdeb5cc8",
+      "version": "1.44.3"
+    },
+    "barlow-condensed_vietnamese": {
+      "fingerprint": "d6cefc090b1f6a84e42c23f4c273b45df07e435653433d18b016574d05e20784",
+      "version": "1.44.3"
+    },
+    "barlow-semi-condensed_all": {
+      "fingerprint": "b58eb8c61e5c9ae22fb54d6f7e6ff735b4e66ad2500a77c233a1cca3dfea223b",
+      "version": "1.44.3"
+    },
+    "barlow-semi-condensed_latin": {
+      "fingerprint": "136b3a1432701b21401a35a48abda30ab1048a4effc9afd8eb6c21dbfedb031e",
+      "version": "1.44.3"
+    },
+    "barlow-semi-condensed_latin-ext": {
+      "fingerprint": "92d8828cadb592f058324bdd5646cbcc3f7f45df16a953aa7333879c45656f98",
+      "version": "1.44.3"
+    },
+    "barlow-semi-condensed_vietnamese": {
+      "fingerprint": "e44c7957b648d3bcaebe5aac0d774f390f82e8c0e028dfa3f4c5628a003605e0",
+      "version": "1.44.3"
+    },
+    "barlow_all": {
+      "fingerprint": "e76a60b801e7918661c85802af811ded310b2ab5662ef75fb370f48cc02b9e02",
+      "version": "1.44.3"
+    },
+    "barlow_latin": {
+      "fingerprint": "672c10dc6071720c77756400a344c945b66f90d2672a079b53d98f4b196fc172",
+      "version": "1.44.3"
+    },
+    "barlow_latin-ext": {
+      "fingerprint": "ad724ef845b5205b4d5bff821f3fa95ebdf3b8886f674b30f796040455946317",
+      "version": "1.44.3"
+    },
+    "barlow_vietnamese": {
+      "fingerprint": "0fbf761520d05e6fc4f431c35e1fe57b0fcce7f4f1081deeba4f65af4a2c8896",
+      "version": "1.44.3"
+    },
+    "bebas-neue_latin": {
+      "fingerprint": "3bb48bb058f92bfc3778682d5822eadbba8586992e60674e955c9571523d6157",
+      "version": "1.0.3"
+    },
+    "bebas-neue_latin-ext": {
+      "fingerprint": "5d0b5693af5ba61209ae7faa2fe31ac8313c27ab07a598eaf29d3da22d7c479a",
+      "version": "1.0.3"
+    },
+    "bitter_all": {
+      "fingerprint": "51326dd304b43733f6bef5da2758fa4faa1e22866c41ad48bac9711603fcf91f",
+      "version": "0.0.8"
+    },
+    "bitter_cyrillic": {
+      "fingerprint": "d669ca6cc8e1e3cca8610b2f44e1d585ff4539b5ff36fad39848060abb745822",
+      "version": "0.0.8"
+    },
+    "bitter_cyrillic-ext": {
+      "fingerprint": "bfa0e5c585c7e2745699a0d1d9a5ea9285c369f5003617024d91307686800aa8",
+      "version": "0.0.8"
+    },
+    "bitter_latin": {
+      "fingerprint": "fd95298f9e75f84f1a27756a67a99bda036be037e9d9e3f9aa0eb4f1472ee6f5",
+      "version": "1.44.2"
+    },
+    "bitter_latin-ext": {
+      "fingerprint": "be0c1ea55f8eebcf9c602aa38a8ab72131b41d54e98c194d6d8be00830f34434",
+      "version": "1.44.2"
+    },
+    "bitter_vietnamese": {
+      "fingerprint": "dcf80833a5324c7affcc303989172f8cef89a811876a5e645d5bfc707e762066",
+      "version": "0.0.8"
+    },
+    "black-ops-one_all": {
+      "fingerprint": "6bd7f886a8159c7a01103be8726390fcb5907907b639e0573d86d237bb41bec1",
+      "version": "1.0.0"
+    },
+    "black-ops-one_cyrillic-ext": {
+      "fingerprint": "637fe1eac89490335efe8765a6a91fe42444baea87a2764c3ed13e28ba9643e6",
+      "version": "1.0.0"
+    },
+    "black-ops-one_latin": {
+      "fingerprint": "2efa5f76a3826178d2527bfa5ad4079cec8b93f6021b24ecd8d8b81a07402662",
+      "version": "1.44.3"
+    },
+    "black-ops-one_latin-ext": {
+      "fingerprint": "31c24b9cf4bd4b4aa4d39e9ed665293b52a2b838cd3d872d0cfe1474fcb2ccf3",
+      "version": "1.44.3"
+    },
+    "black-ops-one_vietnamese": {
+      "fingerprint": "8c96385fd2b225c2c5796aaffb9887d7e6e3d6cb19c232afffc2a103835af679",
+      "version": "1.0.0"
+    },
+    "bricolage-grotesque_all": {
+      "fingerprint": "d33e6e6c9171abf8e720f10284ecc1e013288f2d6486dd3a2606adee9be657e4",
+      "version": "1.0.0"
+    },
+    "bricolage-grotesque_latin": {
+      "fingerprint": "d50bd1406da4d70a3cd7f50530f79a2a9a5946457ab2e7f95e56d7d3c0b274be",
+      "version": "1.0.0"
+    },
+    "bricolage-grotesque_latin-ext": {
+      "fingerprint": "45a436a1c886f2a3253c7e2b6fdd2a34d33b4482e351769f331eefc36298aabd",
+      "version": "1.0.0"
+    },
+    "bricolage-grotesque_vietnamese": {
+      "fingerprint": "8a2d10bb9752b40cdd44fff0014b5d587b8ba66109a70ddbdda44d0ec0a7960a",
+      "version": "1.0.0"
+    },
+    "bungee_all": {
+      "fingerprint": "30e31edc8056908125c807fd95f1c4eb4d9dbd46101803acd13d69b489681087",
+      "version": "1.44.3"
+    },
+    "bungee_latin": {
+      "fingerprint": "d687d12db7a8eeadb4eadf4f4b1097ff70080c44b147ea3e0ea53cab742256e6",
+      "version": "1.44.3"
+    },
+    "bungee_latin-ext": {
+      "fingerprint": "20e82bd3e6e32fc3f22da997abaf2761df9c7a57f52cf3f36c58fe8849ad0c5b",
+      "version": "1.44.3"
+    },
+    "bungee_vietnamese": {
+      "fingerprint": "80ca307bd784ddd99b08886b68b18e186f06c02ae4c0ebd0bf7ea8a25a06f3e8",
+      "version": "1.44.3"
+    },
+    "cabin_all": {
+      "fingerprint": "3ac5ffdea090d070f99c63b6b4a5fcc663f2d64d4facdbd13afd8dfc02a78a4d",
+      "version": "1.44.3"
+    },
+    "cabin_latin": {
+      "fingerprint": "808df3177e41eeaeb49e07285a631912dc1d8e35d31804c39960553943c3b72e",
+      "version": "1.44.2"
+    },
+    "cabin_latin-ext": {
+      "fingerprint": "de219e072c8c62d728d05010568bfc12a20dd032de1e83135d63ad5dcf0d2d7f",
+      "version": "1.44.4"
+    },
+    "cabin_vietnamese": {
+      "fingerprint": "f3e2016da58aa5e3a22370b44a43aea9ce078b7052f352e3e13d6e4ea66cddcc",
+      "version": "1.44.4"
+    },
+    "cairo_all": {
+      "fingerprint": "b42e4cbacecf74c7807cab7e23d37ac4bd579c6d4a783a5e6cebde6857ba927c",
+      "version": "1.44.2"
+    },
+    "cairo_arabic": {
+      "fingerprint": "c45d4f1368e99ab559af0796d08e828747636a0404343a06cea9f86a447e79ac",
+      "version": "1.44.2"
+    },
+    "cairo_latin": {
+      "fingerprint": "71f3ec50a30417ebc06eacc7c4c7812b2d3e01441e6227565c913c7499336f97",
+      "version": "1.44.2"
+    },
+    "cairo_latin-ext": {
+      "fingerprint": "dc406851b511366b752a00c057a33d3b138dc91de587914cd922882d2e7115fc",
+      "version": "1.44.2"
+    },
+    "caveat_all": {
+      "fingerprint": "921b763fe27e924ecb050cf0ea92af93d7a587472965d14c9dce5aec50f5bd14",
+      "version": "1.44.3"
+    },
+    "caveat_cyrillic": {
+      "fingerprint": "3b91b6a8ce66dba48079525f47757be9e0227a96a74836c981a670f5e91d5444",
+      "version": "1.44.3"
+    },
+    "caveat_cyrillic-ext": {
+      "fingerprint": "83c01bda347c2bda1740683170e6e8ac7c12efdf9b433aefb1773a0ff0aa7454",
+      "version": "1.44.3"
+    },
+    "caveat_latin": {
+      "fingerprint": "114451d80bb1c814257fac28c2b661ecaa34a755992c2c3e829a74a7f2671116",
+      "version": "1.44.3"
+    },
+    "caveat_latin-ext": {
+      "fingerprint": "8114b913e08ad94fd66ef13efcbe8a8ea5deef33b1878a4796d49eaa4b4fe228",
+      "version": "1.44.3"
+    },
+    "changa-one_latin": {
+      "fingerprint": "f9c919d2e00c2f7cce6c43d188fc109a67b6f67aff8501a1d6b6586de051adc8",
+      "version": "1.44.3"
+    },
+    "cherry-cream-soda_latin": {
+      "fingerprint": "b7eb1a6182b6314f89baadcbb364b4b286257fa3daa2dcaac5915a718f972015",
+      "version": "1.44.2"
+    },
+    "chewy_latin": {
+      "fingerprint": "0d8c52197f77b3f65986d369550eea3cb241e0d43a31d480f422615b903d7aa8",
+      "version": "1.44.2"
+    },
+    "cinzel_latin": {
+      "fingerprint": "ba66c987f61ca5fd267c3dbdbaa9449a67eee4b331fd3d645af072a5ea53e39b",
+      "version": "1.44.2"
+    },
+    "cinzel_latin-ext": {
+      "fingerprint": "7257e843186b3351190ca4eda8e645b7eb430f781114f27fada5d282dcfefdca",
+      "version": "1.44.2"
+    },
+    "comfortaa_cyrillic": {
+      "fingerprint": "af43064d996a1c5bd5a608202d36983b338a96a0d683a663992c32c15e076b96",
+      "version": "1.44.5"
+    },
+    "comfortaa_cyrillic-ext": {
+      "fingerprint": "0c6a39c900b5bc2e8c1abf27241f63b69bf1d74bfc5f3ffb358f43d11e2bf1af",
+      "version": "1.44.5"
+    },
+    "comfortaa_greek": {
+      "fingerprint": "e749b4c4ee3881c45662aed5b5d7d11f403bdad324c255869327db0e640d6250",
+      "version": "1.44.5"
+    },
+    "comfortaa_latin": {
+      "fingerprint": "1cd7aa68d59b3e546a5e8f65b42badc48e617f2ba350e83e189d1002d0cd0ded",
+      "version": "1.44.5"
+    },
+    "cormorant-garamond_all": {
+      "fingerprint": "ff18b7baec4a1006709304e6af3b69bc177bdd10350fb1665367da465bba3318",
+      "version": "1.44.3"
+    },
+    "cormorant-garamond_cyrillic": {
+      "fingerprint": "eb0f5fed41be36924664ca2f878dc5f77b279be84f4666416f69e62b241c1228",
+      "version": "1.44.3"
+    },
+    "cormorant-garamond_cyrillic-ext": {
+      "fingerprint": "5e258b73f0bdf4cabb124dd817c438730959ebf92d8b5ee9f03009ca548addc2",
+      "version": "1.44.3"
+    },
+    "cormorant-garamond_latin": {
+      "fingerprint": "9385ee81457f079fe0726fb22824493a50846824d9aaf319aca253655cbd161e",
+      "version": "1.44.2"
+    },
+    "cormorant-garamond_latin-ext": {
+      "fingerprint": "c18a4f015cbdaa81e5955902adb9967f27fbfecda559c3eff2b3d00f06074e35",
+      "version": "1.44.3"
+    },
+    "cormorant-garamond_vietnamese": {
+      "fingerprint": "0f3ebd2999786db9083f1084324caa415dfc78efe6c6ee2792d8ef0b9906865e",
+      "version": "1.44.3"
+    },
+    "crafty-girls_latin": {
+      "fingerprint": "fdbf02424d1caad9af6e4dde7c4c840cc8e55f4c4bbe6e402a66db59e8373af3",
+      "version": "1.44.2"
+    },
+    "creepster_latin": {
+      "fingerprint": "e8fa27b78fd1af596898860cf3b5d45b3bf8c7278e9a3fb63c97c20faa2c7d07",
+      "version": "1.44.2"
+    },
+    "crimson-text_all": {
+      "fingerprint": "26b5c67cb89c06a4e5ee21c775b91de6bde3d769554d61c222cff93f6a3841ca",
+      "version": "1.0.0"
+    },
+    "crimson-text_latin": {
+      "fingerprint": "8f07deb945ad22eb20cbc655badce70d56fcde6e80b1d25fffa383bc5a8da978",
+      "version": "1.44.3"
+    },
+    "crimson-text_latin-ext": {
+      "fingerprint": "afaa2e5acf0e1df8cb173f969efe20ce4f74e371891104cb0959285a273450f3",
+      "version": "1.0.0"
+    },
+    "crimson-text_vietnamese": {
+      "fingerprint": "595ba4742a008b79012b1f41688fa35d0fef2ea2d741bd1555832708fd28700e",
+      "version": "1.0.0"
+    },
+    "dancing-script_all": {
+      "fingerprint": "c00e9dffbb0182b3916dcf06b59f329f7a8d5b72a47aa480968961c0b36055ae",
+      "version": "1.44.1"
+    },
+    "dancing-script_latin": {
+      "fingerprint": "5dc8635d08cde6fe3b1b13d221237d451015dae1dfce250e1bfd134fa357480d",
+      "version": "1.44.1"
+    },
+    "dancing-script_latin-ext": {
+      "fingerprint": "96dc53720685d4d8d2babb2cbcd8b1d361516c7ec1c499fcf3a4545dc116dbf7",
+      "version": "1.44.1"
+    },
+    "dancing-script_vietnamese": {
+      "fingerprint": "ad45747e7bf12df1f03afaeba657ff8009b8de9ef27988357a985959c2f36636",
+      "version": "1.44.1"
+    },
+    "dm-sans_latin": {
+      "fingerprint": "af63de9a34f3b842b06fab2779bfa1f7e3df7fcbd0e7832af5515736499491a8",
+      "version": "1.44.2"
+    },
+    "dm-sans_latin-ext": {
+      "fingerprint": "08e824ccb7039f97c34b49000fa6af2f419b72ea98d88c0dd20887e6bb07688e",
+      "version": "1.44.2"
+    },
+    "dm-serif-display_latin": {
+      "fingerprint": "99747922ac0d775696d1ece4074ec723cf7f4d36a35be848477c7357790953df",
+      "version": "1.44.2"
+    },
+    "dm-serif-display_latin-ext": {
+      "fingerprint": "ecafabb6fb0c1f3b461b78ae02fcb3501406b65c3ff26691c49c372d40f62597",
+      "version": "1.44.2"
+    },
+    "dosis_all": {
+      "fingerprint": "e3a07c9bd9e395c25cebed371ef9f6e40225f3f4fa24ad54e3dfb1de8482bb92",
+      "version": "1.44.5"
+    },
+    "dosis_latin": {
+      "fingerprint": "663a97b2036bcb19e0d43915a5b0026141d3739c28c9077998c2be0c5b8bba94",
+      "version": "1.44.5"
+    },
+    "dosis_latin-ext": {
+      "fingerprint": "a30836463df1054c3c467bbfe0b5d3f4f56f2dcd574a9bdc4856ad5f07f09a23",
+      "version": "1.44.5"
+    },
+    "dosis_vietnamese": {
+      "fingerprint": "09e7d9650609e503a661315139dc897b8df97befe9fa2647e66ed6b59bbdd3d0",
+      "version": "1.44.5"
+    },
+    "eb-garamond_all": {
+      "fingerprint": "75d9cf3f3a43c622a7d7dc1c7259c4461d3ba4716fa00c10ad955cc6e8a3a9b8",
+      "version": "1.44.1"
+    },
+    "eb-garamond_cyrillic": {
+      "fingerprint": "a982f482a0fecf30c57a7d63ac51686f5e326ff6e1b7318023a15792e986a275",
+      "version": "1.44.1"
+    },
+    "eb-garamond_cyrillic-ext": {
+      "fingerprint": "1e3ea81d00e4a3d67c5ab4e1e13d8c45374b1f3ac8df496f2eb1d3db94cbc397",
+      "version": "1.44.1"
+    },
+    "eb-garamond_greek": {
+      "fingerprint": "ce77f86788183581c96618f5492b6cefdb07f0e90e36d73dec387af430842673",
+      "version": "1.44.1"
+    },
+    "eb-garamond_greek-ext": {
+      "fingerprint": "9f5ac1cbc5118b5f0aa49d32cc08c7e52ba745095ebef2fecb7f1cf6d41675d7",
+      "version": "1.44.1"
+    },
+    "eb-garamond_latin": {
+      "fingerprint": "b42b2bb73ba744ed41ecf52111e40d3b4f6cf46f6df4884dd43e253a0893429f",
+      "version": "1.44.1"
+    },
+    "eb-garamond_latin-ext": {
+      "fingerprint": "9a86c2f4258fab4361b1087adbb3aff09d725041eed256975f4e1168ee00d9c8",
+      "version": "1.44.1"
+    },
+    "eb-garamond_vietnamese": {
+      "fingerprint": "e542d654a9c77e99613b0830017ab6a728089aee2ef50bd0e3322efb588971aa",
+      "version": "1.44.1"
+    },
+    "exo-2_all": {
+      "fingerprint": "323db6c18c0bf8033d7e91ac77f9e85396407a87b4097deb7084b3c17a0c189b",
+      "version": "1.44.3"
+    },
+    "exo-2_cyrillic": {
+      "fingerprint": "8db2b283aee26ccb4ec1e125bcb45ee81738399f16cd0e64587de89fc0be06d7",
+      "version": "1.44.3"
+    },
+    "exo-2_cyrillic-ext": {
+      "fingerprint": "1074c52b9e0ce24a52eabc1432d19814f0f57db7601acab51a7dd4bf78818a4b",
+      "version": "1.44.3"
+    },
+    "exo-2_latin": {
+      "fingerprint": "0fa5f98dcc8906edf4c09117d57932cf193cca1f48a7795af2c46c46824f283c",
+      "version": "1.44.3"
+    },
+    "exo-2_latin-ext": {
+      "fingerprint": "744b4082988c724620758277c617d6882e26aec8e066e4e4ed09766cc72e4029",
+      "version": "1.44.3"
+    },
+    "exo-2_vietnamese": {
+      "fingerprint": "1f7dc2a513e7026ae49f4065b77a69a9ed8aca0cf4d067736d47f1630a738a16",
+      "version": "1.44.3"
+    },
+    "figtree_latin": {
+      "fingerprint": "429d223b89ac90c86e1a3c07c74e7949e3acb5e184ae1e13378d77a3afb10dfe",
+      "version": "1.0.0"
+    },
+    "figtree_latin-ext": {
+      "fingerprint": "39ddeb24b95fa5bc8a46f272204880cab382ad7df28b574a8c518b1af9bf4b18",
+      "version": "1.0.0"
+    },
+    "fira-sans_all": {
+      "fingerprint": "036b346dc5ed5df4e75e2390e1a0f7781e8047e7153f0df3164d5ca3ec6e4fbe",
+      "version": "1.44.2"
+    },
+    "fira-sans_cyrillic": {
+      "fingerprint": "3f68961f2da3d9bc1dc71e64d0971fd91b693e13e703bcd4094adc3515c21334",
+      "version": "1.44.2"
+    },
+    "fira-sans_cyrillic-ext": {
+      "fingerprint": "589cccaa62a3e00dec3e72068e4c21c2eaa6ada3afefef413ba104ec8d2887af",
+      "version": "1.44.2"
+    },
+    "fira-sans_greek": {
+      "fingerprint": "56049a6f6c2f9b681e70a729349654093c313e9c3177479a8bac45b9d09caec5",
+      "version": "1.44.2"
+    },
+    "fira-sans_greek-ext": {
+      "fingerprint": "ac75bb85dd27397e217ec89ba779feb2729787c1b6f7a5fd3c088b7d855556c7",
+      "version": "1.44.2"
+    },
+    "fira-sans_latin": {
+      "fingerprint": "11f1245fadce6e0a15e54764acc34b066a15a4c6b67523c8e34f03a780720bda",
+      "version": "1.44.2"
+    },
+    "fira-sans_latin-ext": {
+      "fingerprint": "276595b47f958ef5e3dc41942328825250f45d2d62a8d37fa2443c6cb05f772a",
+      "version": "1.44.2"
+    },
+    "fira-sans_vietnamese": {
+      "fingerprint": "239bfef6b79d60117d93cc751d32462dd9f17be34f7adad4d534ee11abb6e6e5",
+      "version": "1.44.2"
+    },
+    "fjalla-one_all": {
+      "fingerprint": "54c89f755bd2b73e42e3d237a6580734232b029dbee5303046059fc82689081c",
+      "version": "1.0.0"
+    },
+    "fjalla-one_cyrillic-ext": {
+      "fingerprint": "651ebb66a44ab1ec04621043ab4ace79025f41f791349691a40d099fcd782c28",
+      "version": "1.0.0"
+    },
+    "fjalla-one_latin": {
+      "fingerprint": "c6923c047d3b842503c02a586521b4b1afecd17cb8a0aac0e9f503a20d6e74ea",
+      "version": "1.44.3"
+    },
+    "fjalla-one_latin-ext": {
+      "fingerprint": "e207c6bf315a4169f68d00f5392a45b94a60db9d96c54b2eeaf54a10d95ef897",
+      "version": "1.44.3"
+    },
+    "fjalla-one_vietnamese": {
+      "fingerprint": "2e504704e9a15e47a82c8e37532d340e04fbc34eea02ac6eede0b4fcfc4346d8",
+      "version": "1.0.0"
+    },
+    "fraunces_all": {
+      "fingerprint": "4256037285df397bab7b1970b38b4406d2f0001e6fa793912fd31803d575b467",
+      "version": "1.0.0"
+    },
+    "fraunces_latin": {
+      "fingerprint": "0b6e30410d19fd8a896b11b5199a14c3ed8dd0cf50139d50305c1a3b3ceb2f27",
+      "version": "1.0.0"
+    },
+    "fraunces_latin-ext": {
+      "fingerprint": "8b3390eb86a2491a099a8a4a42071dff50d85a0a60a03b79eb941425a7bcae07",
+      "version": "1.0.0"
+    },
+    "fraunces_vietnamese": {
+      "fingerprint": "11d5f78b64ea005d1afd9fa816825c074ac4c06d866e5e7068568ea238472d72",
+      "version": "1.0.0"
+    },
+    "fredoka_all": {
+      "fingerprint": "ab454d84739a423958593bc3ba16b7faf963b7f18308a7c40b5d2b82253c32f3",
+      "version": "1.0.0"
+    },
+    "fredoka_hebrew": {
+      "fingerprint": "902a556f006b345251aa2096639f04b4f6c7046eea3462b8ab2041bec00501a7",
+      "version": "1.0.0"
+    },
+    "fredoka_latin": {
+      "fingerprint": "10bb5d1b3c31d0a60a18d0f12e4d1d280d839de534edb24db3028f12bdf00922",
+      "version": "1.0.0"
+    },
+    "fredoka_latin-ext": {
+      "fingerprint": "853c76302154a7ad40fc5ff3626134a6aaea7543a86e1c34774545fae5c6520d",
+      "version": "1.0.0"
+    },
+    "geist_all": {
+      "fingerprint": "abb3ba6d70b9b9a848752247ed6c180f4811c4563e02d234948dab7645772d07",
+      "version": "1.0.0"
+    },
+    "geist_cyrillic": {
+      "fingerprint": "0aef87e8dbb416dec21252ad0f49be2044bd02efdfedcbc16eb404bec2472090",
+      "version": "1.0.0"
+    },
+    "geist_cyrillic-ext": {
+      "fingerprint": "3136a2059f455ecd749efe4330793b6c02a3de7eab0157f31a752446418c9816",
+      "version": "1.0.0"
+    },
+    "geist_latin": {
+      "fingerprint": "e6e7ccc38c54b1749805a34f944613984084127437cc1d40ca7b6ae9c3d05797",
+      "version": "1.0.0"
+    },
+    "geist_latin-ext": {
+      "fingerprint": "c1c230ad3cdc8181b688e819abfe84a26657a02baa14c7d9eeba10dbe4e021f4",
+      "version": "1.0.0"
+    },
+    "geist_vietnamese": {
+      "fingerprint": "ec9b848a4e24eb1540255c32d10c75525a79854a1b348f1b344301ef943cb02c",
+      "version": "1.0.0"
+    },
+    "google-sans-flex_canadian-aboriginal": {
+      "fingerprint": "d3de8809bf5eab716d92a47c04eaecb604eab1c8fd65a6d5575ce5842879fecf",
+      "version": "1.0.0"
+    },
+    "google-sans-flex_cherokee": {
+      "fingerprint": "341de34f328e53d3c9a40a984cfe0898c70ee899a8f4891db49db86a1509ecc1",
+      "version": "1.0.0"
+    },
+    "google-sans-flex_latin": {
+      "fingerprint": "2e69e24610896ed702e3e518851d5bb31c81299e53844142ce8d23f3652e79a0",
+      "version": "1.0.0"
+    },
+    "google-sans-flex_latin-ext": {
+      "fingerprint": "74c9450c155dee04c575f3dc443922d1c27f6a967891e2a842eb0138b8698757",
+      "version": "1.0.0"
+    },
+    "google-sans_all": {
+      "fingerprint": "c0ca3ee2acc67f4864c984806eab5bde6bfd442aa9784b49d0f4ce6f63cea994",
+      "version": "1.0.0"
+    },
+    "google-sans_armenian": {
+      "fingerprint": "ab9e0ceddd38f78e5b9b02bff5c3225b620a152d7bad49b621efb7f10cf6aa44",
+      "version": "1.0.0"
+    },
+    "google-sans_bengali": {
+      "fingerprint": "204b72282390732b377206b39066523269edb08d594fc8dcf1e80f9f775143d6",
+      "version": "1.0.0"
+    },
+    "google-sans_canadian-aboriginal": {
+      "fingerprint": "633eb6f8f5abb0df6644130acb0763197dfa98bb4a4823ad9e78e43399e175e4",
+      "version": "1.0.0"
+    },
+    "google-sans_cyrillic": {
+      "fingerprint": "1c75dcf0cdbcfdb4c8fb51039a39c66142cecfaf28df353ec323d12c6650e054",
+      "version": "1.0.0"
+    },
+    "google-sans_cyrillic-ext": {
+      "fingerprint": "fb1538546ca9fbf417f0be7127c24d5b7d50264e187d24c1178a16eef4e1de01",
+      "version": "1.0.0"
+    },
+    "google-sans_devanagari": {
+      "fingerprint": "04c5680cc6f593b06ec5e01b6062d7bdeaa0e214fe18a7a24f7fe5a2e551694b",
+      "version": "1.0.0"
+    },
+    "google-sans_ethiopic": {
+      "fingerprint": "7461ab29f74ebb7644f7181982e25f287511762ec890bda3f4927d07598109ae",
+      "version": "1.0.0"
+    },
+    "google-sans_georgian": {
+      "fingerprint": "11053b7b31f62fa5877c0db983cdf5916f8173906bbddc42b98157a90b0d5a90",
+      "version": "1.0.0"
+    },
+    "google-sans_greek": {
+      "fingerprint": "95bc4c88320673158c12093dd0dc66b9619b1985d4787b751584c7eab88d424f",
+      "version": "1.0.0"
+    },
+    "google-sans_greek-ext": {
+      "fingerprint": "cdff0feccdafd2b84c988e6d454955f7e067bb10ab92e0fd4599b9078d3bcc06",
+      "version": "1.0.0"
+    },
+    "google-sans_gujarati": {
+      "fingerprint": "784d0fdb6c42fd216e8a2cf9e7f8c075b6d5dd0640351951bf66d5b9076fa72d",
+      "version": "1.0.0"
+    },
+    "google-sans_gurmukhi": {
+      "fingerprint": "83e775b1c527a7adc4499bf4d62f3e29d2dfffc3bc6594826854ac62ddae3500",
+      "version": "1.0.0"
+    },
+    "google-sans_hebrew": {
+      "fingerprint": "8ebf0023818c9c225079fa0b8f2929413cae04b0d6691589232a56ffb07bfc96",
+      "version": "1.0.0"
+    },
+    "google-sans_khmer": {
+      "fingerprint": "c7773356a8055e4126f2e36a5132262152817a9fdb19dac4c4852f6454b23592",
+      "version": "1.0.0"
+    },
+    "google-sans_lao": {
+      "fingerprint": "28defb188dc8641cf6670a6c3aee57e0503e63384091127671d1d7c48aec3be3",
+      "version": "1.0.0"
+    },
+    "google-sans_latin": {
+      "fingerprint": "424f870e0ca5d040906994b0d91317012f9b039e5e55d2e8f2c0cd472862a91c",
+      "version": "1.0.0"
+    },
+    "google-sans_latin-ext": {
+      "fingerprint": "b9899ed23e9ba91bf83b55abf38212d4abc33eb264d8ac7969a21df99cf5e3cc",
+      "version": "1.0.0"
+    },
+    "google-sans_malayalam": {
+      "fingerprint": "0e7d1eb58aa68cdcfcf91e6e4bddbbc1b3fe1c4a5c482ae3ecd8dfc7d395eefd",
+      "version": "1.0.0"
+    },
+    "google-sans_oriya": {
+      "fingerprint": "e60f9e1e700dcfed4df2d9c3174aedf88b31171fc37f5552e3562fc0b8eeb074",
+      "version": "1.0.0"
+    },
+    "google-sans_sinhala": {
+      "fingerprint": "2c6f1d1dbec1ad468c32838df32fa6c713eb6b6f0ddec0493d77fefb0a12d6e1",
+      "version": "1.0.0"
+    },
+    "google-sans_symbols": {
+      "fingerprint": "17171924bdc003d4e96897c73d40d7fe7de052d54344671335ba31c853bab2cb",
+      "version": "1.0.0"
+    },
+    "google-sans_tamil": {
+      "fingerprint": "78feb3fb64e02268b212189892e7f9d9d901738973b3511e503eacddefb06893",
+      "version": "1.0.0"
+    },
+    "google-sans_telugu": {
+      "fingerprint": "4fbe3b0b6f785c2dd6892e9865bfcc8564fe7f4af5a2f8e76456209c0946f576",
+      "version": "1.0.0"
+    },
+    "google-sans_thai": {
+      "fingerprint": "3ea1cfce6286a78994634d36df444c12fee1ff512544bd7aef7f0a7304eea7cf",
+      "version": "1.0.0"
+    },
+    "google-sans_vietnamese": {
+      "fingerprint": "4bdead005770c039665e752a00b060c96da19e9ff18342f03bfae6a4db45333a",
+      "version": "1.0.0"
+    },
+    "heebo_all": {
+      "fingerprint": "7b8144f21dc6ddd3c7d7c3b0c9a9a602bfe18f497a7aafc7bd560482efa3906d",
+      "version": "1.0.0"
+    },
+    "heebo_hebrew": {
+      "fingerprint": "68612291ac601b63fb0132da081d897a6125da68c458b36493ed8d9ac51e1c88",
+      "version": "1.44.4"
+    },
+    "heebo_latin": {
+      "fingerprint": "7551817777d9b5d13645080786c075b2d6db5c5fe0c8542c8a63c19699a4bd47",
+      "version": "1.44.3"
+    },
+    "heebo_latin-ext": {
+      "fingerprint": "0b0fb66fa4f538acecadee7b245f8759c4ff05c022d0caa00889861088bdaebc",
+      "version": "1.0.0"
+    },
+    "heebo_math": {
+      "fingerprint": "bb7e7516686056c108eb9a91ea4410e29bb0c5d11029fe3f2653f4610d4cf09e",
+      "version": "1.0.0"
+    },
+    "heebo_symbols": {
+      "fingerprint": "3df2fa05d436b6df234c7747d8607337c3e4e4cae8f0d42fc1c172ca85e9be9b",
+      "version": "1.0.0"
+    },
+    "hind-siliguri_all": {
+      "fingerprint": "4a0db99879cef7c08eb7263720af2f9425c46a0e27eba70a181e94d5d3848a92",
+      "version": "1.44.3"
+    },
+    "hind-siliguri_bengali": {
+      "fingerprint": "83fdb942f2227b8876fdf77eb1731f8a20c937f0d6255bc7defd57c6b9749969",
+      "version": "1.44.3"
+    },
+    "hind-siliguri_latin": {
+      "fingerprint": "885208b016d56e548bcc1b067a132983be88843a28bd6d52c8d9986e511ce593",
+      "version": "1.44.3"
+    },
+    "hind-siliguri_latin-ext": {
+      "fingerprint": "c2ea4b2366256a9b56b39d4ef5aa199239b596fa65b957b15065538e81ea838a",
+      "version": "1.44.3"
+    },
+    "hind_all": {
+      "fingerprint": "72e8c2e6c698b561b76f9b3ce72a1ab9a1de109a82c587a886a740e7775aa7b5",
+      "version": "1.44.3"
+    },
+    "hind_devanagari": {
+      "fingerprint": "1f782b554fde96100d8aadadd268888003ea59d62c92844aede5b05266fced1f",
+      "version": "1.44.3"
+    },
+    "hind_latin": {
+      "fingerprint": "13adce17942dae4980cf62431987ff37d6c16689071f73a00ac7fb314a9bf9d3",
+      "version": "1.44.3"
+    },
+    "hind_latin-ext": {
+      "fingerprint": "0dbd66b241614b2f73d205649dcd5b46ec6136c15d03aa673e08e28ddb62b6dc",
+      "version": "1.44.3"
+    },
+    "ibm-plex-mono_all": {
+      "fingerprint": "f7c744969b460669467c2e196b6469b014ae0281fad5329bb3d802c5887ff8de",
+      "version": "1.44.3"
+    },
+    "ibm-plex-mono_cyrillic": {
+      "fingerprint": "4e8e60491b06669b2a1434b75e6c52d0f65ebdb3829af6b4352349724aeba393",
+      "version": "1.44.3"
+    },
+    "ibm-plex-mono_cyrillic-ext": {
+      "fingerprint": "1777c8683359c09194add0a1344e81d75f6387de2c96faf9f2d426ee8b87757c",
+      "version": "1.44.3"
+    },
+    "ibm-plex-mono_latin": {
+      "fingerprint": "6d0b69fd3f8fed3194908d4d628d475ab3fc3f7898dbbc460218d1a3e31035f1",
+      "version": "1.44.3"
+    },
+    "ibm-plex-mono_latin-ext": {
+      "fingerprint": "df1ff92775320c5e177038d2a11792352cbf5d92d5bbc6a67ed13ccf5748e760",
+      "version": "1.44.3"
+    },
+    "ibm-plex-mono_vietnamese": {
+      "fingerprint": "7e764133214e603672c7643864768bbd44d1fba158fe5e29b5ba4450a715edb2",
+      "version": "1.44.3"
+    },
+    "ibm-plex-sans_all": {
+      "fingerprint": "a8e7c738926f94136f5a08c1c4ef6607f4c1f0176312120cae106adec5e7995f",
+      "version": "1.44.3"
+    },
+    "ibm-plex-sans_cyrillic": {
+      "fingerprint": "81942cd3969ce28153dd9085b18122d84fbda303d8eeaffa1ac1f4cc3661d8d8",
+      "version": "1.44.3"
+    },
+    "ibm-plex-sans_cyrillic-ext": {
+      "fingerprint": "a1cc82945bd2aecae3bc0799e709b3adb96fb266220cb86b574eb72b52c9c299",
+      "version": "1.44.3"
+    },
+    "ibm-plex-sans_greek": {
+      "fingerprint": "760f066def978f5230a713eaa44bbd4cc32a560cf3628f9130aea6192055ae05",
+      "version": "1.44.3"
+    },
+    "ibm-plex-sans_latin": {
+      "fingerprint": "5e79c8ad81d33f6f6639b23eb2304ef44bda78ff6a9d4598fef7140729d589a5",
+      "version": "1.44.3"
+    },
+    "ibm-plex-sans_latin-ext": {
+      "fingerprint": "c101540e2657b6ca6697724941f477034fa87ea9728ef24a0332be73b50b8e97",
+      "version": "1.44.3"
+    },
+    "ibm-plex-sans_vietnamese": {
+      "fingerprint": "bd5b69f0e69f18a60fc66c56a788b8e533bfe562eb06789119ec0be69585ec31",
+      "version": "1.44.3"
+    },
+    "im-fell-double-pica-sc_latin": {
+      "fingerprint": "3674122f30d67a7d8e1728daf2a0a391da6621d9047aef4262cdd354266e2eb2",
+      "version": "1.44.2"
+    },
+    "im-fell-double-pica_latin": {
+      "fingerprint": "ab330e6fc177b8a132599a0f490342b6fc17195e935484fbab1bae4ffac84331",
+      "version": "1.44.2"
+    },
+    "im-fell-dw-pica-sc_latin": {
+      "fingerprint": "d07defdcd338c50bf40285731ed2b96c99054c31323b1b81189f92e42b08d3e2",
+      "version": "1.44.2"
+    },
+    "im-fell-dw-pica_latin": {
+      "fingerprint": "5d288c6850f006dd0a2dd5fbbb307c017334fb50da4d8f08a6d98f33e6d9510e",
+      "version": "1.44.2"
+    },
+    "im-fell-english-sc_latin": {
+      "fingerprint": "953f8f16890e18807fe7d792ebe244ddad7766a2cb8e02e1a77eb8c65f729bbb",
+      "version": "1.44.2"
+    },
+    "im-fell-english_latin": {
+      "fingerprint": "aad59677336edcd891a2c372dc2afafbd87ff07a986b5e78376ab76c2354ad0b",
+      "version": "1.44.2"
+    },
+    "im-fell-french-canon_latin": {
+      "fingerprint": "e2c02ef1725b0873f97dbb7acb00cb7d40f714ecdf5f9d353ab2136d61409673",
+      "version": "1.44.2"
+    },
+    "im-fell-great-primer-sc_latin": {
+      "fingerprint": "ffc72419d4ab389fcf73f0c022acb39596572463d1389845a9a548408461a75c",
+      "version": "1.44.2"
+    },
+    "im-fell-great-primer_latin": {
+      "fingerprint": "1a7ab5c6ebe19a2b52f77f7c33d6c733384148d7bdb32ea94b60188d1642a6b9",
+      "version": "1.44.2"
+    },
+    "inconsolata_all": {
+      "fingerprint": "a620bcbcbf5806a2705f7ba76e524be86d8f014feca790c9a8157e9dc55d2682",
+      "version": "1.44.3"
+    },
+    "inconsolata_latin": {
+      "fingerprint": "92381c5da26d9af96de7dd7eef89b4a24bfb95e791f49a93117e0e4b8c354bae",
+      "version": "1.44.3"
+    },
+    "inconsolata_latin-ext": {
+      "fingerprint": "0c416ae3e8ecad1eebde71c16e59d13be007089d6189cb039f3d494ae896439c",
+      "version": "1.44.3"
+    },
+    "inconsolata_vietnamese": {
+      "fingerprint": "8897bb87aa14eef3c893c638ab25ce422b30e30c1de703a7ceeac489269e66fd",
+      "version": "1.44.3"
+    },
+    "instrument-sans_latin": {
+      "fingerprint": "f9e0fb584f974470cd658039172188709ffe0051e344ac17c78f801e6295e575",
+      "version": "1.0.0"
+    },
+    "instrument-sans_latin-ext": {
+      "fingerprint": "ed9f2fb69f8e27b344f1a1f5c18b1f54d0d76f0b6d3039906dd5598c2cfc648e",
+      "version": "1.0.0"
+    },
+    "instrument-serif_latin": {
+      "fingerprint": "b67c9a25f9b1b818bccb2912e1f93ed98ac115f44816057cc53bbf74454060cd",
+      "version": "1.0.0"
+    },
+    "instrument-serif_latin-ext": {
+      "fingerprint": "e22631be5d394d04edcd7683875e47d11df54bcdac40503a5bdf9421f016d671",
+      "version": "1.0.0"
+    },
+    "inter-tight_all": {
+      "fingerprint": "9761fcd509fa6f7be34981e325a4dd7cd624d4888f05953dc325027de053ab56",
+      "version": "1.0.0"
+    },
+    "inter-tight_cyrillic": {
+      "fingerprint": "1a39aba7934adeb54ba26392b262b25e8f90b43e9f74ac02ba2203009356e846",
+      "version": "1.0.0"
+    },
+    "inter-tight_cyrillic-ext": {
+      "fingerprint": "a19c38a9ab127d2d20115a4999d5ea50aeefde50882fa6723d24f7fd2d4598f5",
+      "version": "1.0.0"
+    },
+    "inter-tight_greek": {
+      "fingerprint": "7146c349b2ac1aaa08e87ce54d5dbd1d83bcb5659a8185b9f347d5868436a925",
+      "version": "1.0.0"
+    },
+    "inter-tight_greek-ext": {
+      "fingerprint": "37b5aaebb110cf4e4552d36cb3cf5cdfe754f77a6babbeb279e871f857c9dfb4",
+      "version": "1.0.0"
+    },
+    "inter-tight_latin": {
+      "fingerprint": "24f338629620746fa2baaa23a576fd13d4433c7fd2416a7291d09e639a1be6c2",
+      "version": "1.0.0"
+    },
+    "inter-tight_latin-ext": {
+      "fingerprint": "b7a26700fa6efe8a3b30b18110961f44c503bdcd7fa016d8e403717715cb9972",
+      "version": "1.0.0"
+    },
+    "inter-tight_vietnamese": {
+      "fingerprint": "1bcf8f6123963c94ccedeaa6a908dc0a9f548ba3944238d729e9cd7998df8715",
+      "version": "1.0.0"
+    },
+    "inter_all": {
+      "fingerprint": "7a5ba6a4c26f74113de7643f1271a28fa14b8f496c8906e743a7300f4d09d4c8",
+      "version": "1.0.3"
+    },
+    "inter_cyrillic": {
+      "fingerprint": "87891496e132331c7fb4d2374d544117f32713edda3dbbea89f79148f500e2f0",
+      "version": "1.0.3"
+    },
+    "inter_cyrillic-ext": {
+      "fingerprint": "32666db9a0ab969d4ed4ff6939c13198c23efb4a4dd7588559a1ccf619a34c27",
+      "version": "1.0.3"
+    },
+    "inter_greek": {
+      "fingerprint": "75da0216f8b8d5c7b64d28c3eab25d367ac86c0a6df4e46f54216c7b08e828ec",
+      "version": "1.0.3"
+    },
+    "inter_greek-ext": {
+      "fingerprint": "0ff8763f60b91921bfffeccc02804ce3349a6ce819aacff1d86675daddcccac2",
+      "version": "1.0.3"
+    },
+    "inter_latin": {
+      "fingerprint": "7577ff46b1e049d5ba816af5a778ef811308ef8a2c1c9a392613244833fdf6ce",
+      "version": "1.0.3"
+    },
+    "inter_latin-ext": {
+      "fingerprint": "eb76c5ee80077aeb16371e38aee7882fe3662e4676c46a50a4f28bd44fc8d0e2",
+      "version": "1.0.3"
+    },
+    "inter_vietnamese": {
+      "fingerprint": "3a2e91f19e93ed77ac69c2818549ddef2c51440457bbc50346fae86ef9aed457",
+      "version": "1.0.3"
+    },
+    "irish-grover_latin": {
+      "fingerprint": "ed553529446a773da496e5ee3f3ecc71eab68c42c434f6160e597a6828d16b0c",
+      "version": "1.44.1"
+    },
+    "jetbrains-mono_all": {
+      "fingerprint": "8a4b72a9c5422428a79926c976339feb530785607b5a39db30bb94f506c9ee8d",
+      "version": "1.0.0"
+    },
+    "jetbrains-mono_cyrillic": {
+      "fingerprint": "072ef57dbe3357638777fd2db9b7bb90f841de22f89ab687afc1283585bd0349",
+      "version": "1.0.0"
+    },
+    "jetbrains-mono_cyrillic-ext": {
+      "fingerprint": "8720b2d26449f78744f5fbca9be713aac5d5388124d453a65457a67f3ff7a647",
+      "version": "1.0.0"
+    },
+    "jetbrains-mono_greek": {
+      "fingerprint": "6d38bca19c800291b08ae96214c71e883febe285e4b9871f55d7ed9313b1ccdb",
+      "version": "1.0.0"
+    },
+    "jetbrains-mono_latin": {
+      "fingerprint": "33c21d3e17c2fe1f7f752296c38961e0c5ebd72d27402e42763989cf93e00107",
+      "version": "1.0.0"
+    },
+    "jetbrains-mono_latin-ext": {
+      "fingerprint": "72b3c10d20db6d6043857ceb1d3c0b33f1e462bf5565224779da666808e90c5f",
+      "version": "1.0.0"
+    },
+    "jetbrains-mono_vietnamese": {
+      "fingerprint": "2cbf558c4fa08e6bac12ed03c7dda9e2afd8961d089524debaebfba9dd9cea05",
+      "version": "1.0.0"
+    },
+    "josefin-sans_all": {
+      "fingerprint": "9b50dee3464095f08d9dd8bcff83e9937319fcc995f22502c3d896dd368b1419",
+      "version": "1.44.1"
+    },
+    "josefin-sans_latin": {
+      "fingerprint": "94ea6c2b59526d686b6b63389b3652f18178ff0d15e2190e5174b26d399cf44c",
+      "version": "1.44.1"
+    },
+    "josefin-sans_latin-ext": {
+      "fingerprint": "95751ec2319995eecbbd09892ee0be17361ad676cd66b9760e2d1a13ab4d8211",
+      "version": "1.44.1"
+    },
+    "josefin-sans_vietnamese": {
+      "fingerprint": "9f1351ff85329c2a3442bc42745dbc834fac295974c1e9cd18b749d64ea830ad",
+      "version": "1.44.1"
+    },
+    "jost_all": {
+      "fingerprint": "5d852a5816a7f321092e463126dfdcf773ed3b4dc44983d857cbffeea2eacc76",
+      "version": "0.0.4"
+    },
+    "jost_cyrillic": {
+      "fingerprint": "7f49e332f40796b11e9411a680037034c3f07055149c2669ccb51b3d042d7a55",
+      "version": "0.0.3"
+    },
+    "jost_latin": {
+      "fingerprint": "35f3cb13e7249a0e630e8b32b86ccc5bb4e31f9ebeae9b7fc073e528d38a9077",
+      "version": "0.0.3"
+    },
+    "jost_latin-ext": {
+      "fingerprint": "15ef9ac765c8b25ee3651a91fb2454eda5f54577769223053607925902cfb434",
+      "version": "0.0.4"
+    },
+    "kanit_all": {
+      "fingerprint": "1d9f3064c89c2de6bb71f4e1859b753d63acd78dd48cb04587dc5959fa11c8df",
+      "version": "1.44.2"
+    },
+    "kanit_latin": {
+      "fingerprint": "e142cf9445b69fe6cf44028de74474a4b5ac70af22331037f733aa451699fe0c",
+      "version": "1.44.2"
+    },
+    "kanit_latin-ext": {
+      "fingerprint": "8f4677df6af7e2e7ed28acb2f2d5800473de5c9bfca3993e7ee9e38a41fa47fe",
+      "version": "1.44.2"
+    },
+    "kanit_thai": {
+      "fingerprint": "974d0239123f683da7f07be8d5ff9ceade759d2c11a1aa04f09beabe5145c0c4",
+      "version": "1.44.2"
+    },
+    "kanit_vietnamese": {
+      "fingerprint": "6abf2c4507363274c966ee623bbd2fc9995cd3ed313c67d784496eb0b68ffb80",
+      "version": "1.44.2"
+    },
+    "karla_latin": {
+      "fingerprint": "6c86a3d1a3f155b70e53dfc5d227ecdbdbad42c7292975dc2c4edb8c88f78070",
+      "version": "1.44.1"
+    },
+    "karla_latin-ext": {
+      "fingerprint": "c2d0269b6e3d15813c37149bf492562f61d25b7fbe104534387f82905180424e",
+      "version": "1.44.1"
+    },
+    "lato_latin": {
+      "fingerprint": "b9c91960528c8fabf35235d306fd97bed749c2b0b98523a72c05d5bbc3c3fe49",
+      "version": "1.44.3"
+    },
+    "lato_latin-ext": {
+      "fingerprint": "1a5e13340e08edda26ab755f859e9def9fee2e97eb1fec998a90d984b218962e",
+      "version": "1.44.3"
+    },
+    "lexend_all": {
+      "fingerprint": "9dedee497cb2f0f6bb8881f6caed0139651539296b3491822ee0ba321d64cc9e",
+      "version": "1.0.0"
+    },
+    "lexend_latin": {
+      "fingerprint": "889940505850480ebc1eb08ef924fc83bf0b2bb3d282e1a7bd805187f2aaec48",
+      "version": "1.0.0"
+    },
+    "lexend_latin-ext": {
+      "fingerprint": "2f82e3af787d64e8edec6877e5c6e8609ab7185a3edb9bd9973da0ffd059f7f3",
+      "version": "1.0.0"
+    },
+    "lexend_vietnamese": {
+      "fingerprint": "e6f346694a84d5726205d93bd85294bd1c6ef860f2740bb5c288943564d9932e",
+      "version": "1.0.0"
+    },
+    "libre-baskerville_latin": {
+      "fingerprint": "0e28c973e8f9682710ea647939cd1945ba9d3f7564b989d2f8fd289fb50ae235",
+      "version": "1.44.3"
+    },
+    "libre-baskerville_latin-ext": {
+      "fingerprint": "57321d208a2f6072402551a1162916b5816621d0ddadb463ec75e9bc3a5499a7",
+      "version": "1.44.3"
+    },
+    "libre-franklin_all": {
+      "fingerprint": "7717fb44c0ad7035fc485651f44fd208a468733227e2b0cdf34fada210c7f220",
+      "version": "1.0.0"
+    },
+    "libre-franklin_cyrillic": {
+      "fingerprint": "d43b36ea43c67fab98d534ee34eba40cfaf1453e77d16a3be0c16efd5cd41229",
+      "version": "1.0.0"
+    },
+    "libre-franklin_cyrillic-ext": {
+      "fingerprint": "95165327c7ce6d18b24c40da0c2ea10abdf157c68feb06da1622fe9c61eba47a",
+      "version": "1.0.0"
+    },
+    "libre-franklin_latin": {
+      "fingerprint": "16b74e7849dbdfe51b379f4ca2c6bab731a75556b3eaa458f5db59e390c63af9",
+      "version": "1.44.3"
+    },
+    "libre-franklin_latin-ext": {
+      "fingerprint": "358110dc3fe2cfec52f791a21e60803dba44d2cd7d43951cd6810a6dc764c7d7",
+      "version": "1.44.3"
+    },
+    "libre-franklin_vietnamese": {
+      "fingerprint": "585902d26bb8fd7abe07408709f4933f899bdff0565e834bdc4fc851056e3ced",
+      "version": "1.0.0"
+    },
+    "lilita-one_latin": {
+      "fingerprint": "82e38ff34231ce88645ad6d7be31de4b91ec5b4e59a13469082e32f00e00711e",
+      "version": "1.44.3"
+    },
+    "lilita-one_latin-ext": {
+      "fingerprint": "92a74c9ffd5891721ac373ed2521f14c010bbefb4a420a7bbe6a9f5a30d8b4b4",
+      "version": "1.44.3"
+    },
+    "lobster-two_latin": {
+      "fingerprint": "36992914007b578d7120108d49943b2f2d1ab6cdac2315fd5938e996ab790e71",
+      "version": "1.44.3"
+    },
+    "lobster_cyrillic": {
+      "fingerprint": "fe23cdb9fda5369b39e1fb1d362a8f474f3a013e6c244c973d3b18b7ff0313bd",
+      "version": "1.44.3"
+    },
+    "lobster_cyrillic-ext": {
+      "fingerprint": "5076694f4912e8e7ebc9fb118a411b2969829ba7c4b06ad9cce99609a44b1234",
+      "version": "1.44.3"
+    },
+    "lobster_latin": {
+      "fingerprint": "70fe62bfab1614b55069c610bf97dad17b1d7ea2779b7050a6ac714599ace8d3",
+      "version": "1.44.3"
+    },
+    "lora_all": {
+      "fingerprint": "c1c246a0456debb1d4efbf512e6e97ef26226f1e8dde0b2ecc1d6bd10022268a",
+      "version": "1.44.3"
+    },
+    "lora_cyrillic": {
+      "fingerprint": "e33c6e962d052c36203aec8a75a8c3aedeec8cb68c469119b58cf7ffc5a048c3",
+      "version": "1.44.3"
+    },
+    "lora_cyrillic-ext": {
+      "fingerprint": "5f9982a3f9f7b6adbf5f3cee69acbffaa33aca105ede632dbab5d2a1693b0003",
+      "version": "1.44.3"
+    },
+    "lora_latin": {
+      "fingerprint": "d9a51e024bb81ed37af6dfe963faef33b25ec15a04e2d078dac7e20f7d4586d3",
+      "version": "1.44.3"
+    },
+    "lora_latin-ext": {
+      "fingerprint": "e2325151cf93984c7ac573fc46d8b50e704004d9118056ac2a18fdb1bce53216",
+      "version": "1.44.3"
+    },
+    "lora_math": {
+      "fingerprint": "69aa1beb2075abe4675505c6a77a1a7b8a3cd448093485e8e95ce0bc276eefa3",
+      "version": "1.0.0"
+    },
+    "lora_symbols": {
+      "fingerprint": "13abd856cc79801cdf02825a17f3e3b2d9314e9860e7749767bad050411dc606",
+      "version": "1.0.0"
+    },
+    "lora_vietnamese": {
+      "fingerprint": "55f3327310bb7a4877b965c5751708c733144a53248db22d22482068341e0b57",
+      "version": "1.44.3"
+    },
+    "m-plus-rounded-1c_all": {
+      "fingerprint": "79850366d867925de83aa08d1e41f85ae35f9000ea4d2773890f6517ba6571f6",
+      "version": "1.44.3"
+    },
+    "m-plus-rounded-1c_cyrillic": {
+      "fingerprint": "fd7b80019f38c1209eecd0a414c8aada34e0d47061aed70e5ff7cfc505e75402",
+      "version": "1.44.3"
+    },
+    "m-plus-rounded-1c_cyrillic-ext": {
+      "fingerprint": "52f3b3423fa18c85d9fdd1b9ce72a3024502a487bdc5d21688c4d35a07a413ce",
+      "version": "1.44.3"
+    },
+    "m-plus-rounded-1c_greek": {
+      "fingerprint": "b87f578fa0ad8c2dcdd52795b553801ec50c9439c4f87594dbfae7badd4785fe",
+      "version": "1.44.3"
+    },
+    "m-plus-rounded-1c_greek-ext": {
+      "fingerprint": "ad2827cb0161006b1b0e8a579c4b4251abed617b9a052a61c1a83cd6b074610d",
+      "version": "1.44.3"
+    },
+    "m-plus-rounded-1c_hebrew": {
+      "fingerprint": "ac184692a9f021a819b6c484fa2c705dc80e172accd0243b808eff24352e82c9",
+      "version": "1.44.3"
+    },
+    "m-plus-rounded-1c_japanese": {
+      "fingerprint": "ad55a8f6b387ad230665bff22ea1a9f1cb8211030e7db2d71cce6e8527fe4612",
+      "version": "1.44.3"
+    },
+    "m-plus-rounded-1c_latin": {
+      "fingerprint": "05e3d61d610252776782e0b2b243a628168e743156a56f75f5ad5c8dd4f92b8c",
+      "version": "1.44.3"
+    },
+    "m-plus-rounded-1c_latin-ext": {
+      "fingerprint": "e095f233d9ed4c8c6df613b2351c5541c5cd8a2f6af68cea7344ed590b5bc4bc",
+      "version": "1.44.3"
+    },
+    "m-plus-rounded-1c_vietnamese": {
+      "fingerprint": "c22b5c0c90be213837b8b4d7086964254b941ca80ce9309c77a547d265c9f0d4",
+      "version": "1.44.3"
+    },
+    "manrope_all": {
+      "fingerprint": "a9cb141968820097d5cfd4d5127c861dd6fee1307696b965efa814400bcdc942",
+      "version": "1.0.3"
+    },
+    "manrope_cyrillic": {
+      "fingerprint": "78bad6a306235a9b0626311b685a6fcfec62565906c34ada61ebddda94397afd",
+      "version": "1.0.3"
+    },
+    "manrope_cyrillic-ext": {
+      "fingerprint": "78e9419e9d34d6afc339a5090e882740025bddae9e2585b8b3aea940ff1c8645",
+      "version": "1.0.0"
+    },
+    "manrope_greek": {
+      "fingerprint": "a7434733cfe4464605356cfa6305c5f3ab894b6b2b23462786fb95e1533e00c9",
+      "version": "1.0.3"
+    },
+    "manrope_latin": {
+      "fingerprint": "efd500d9e8a78c6a1fc03d68e2f870510f8f4a10f7264e412918c7056a5c66df",
+      "version": "1.0.3"
+    },
+    "manrope_latin-ext": {
+      "fingerprint": "9104b993167a443294628f3ea5036cc8dbd0c5fbe3d4f858eb1118bbceb9a138",
+      "version": "1.0.3"
+    },
+    "manrope_vietnamese": {
+      "fingerprint": "2740b9766769267e997b2045d192b904b100d8d7da4330d1cd8eabadee14a40f",
+      "version": "1.0.0"
+    },
+    "material-icons-outlined_latin": {
+      "fingerprint": "634e99167ae8c6bf9cb161be9ca0f98af997fefdbc5a41aeed865ffe0728a60c",
+      "version": "1.0.0"
+    },
+    "material-icons-round_latin": {
+      "fingerprint": "e7e35804854c98efa4cee65732db9ce38dbed009f586e8ee53dd774c53d6f470",
+      "version": "1.0.0"
+    },
+    "material-icons-sharp_latin": {
+      "fingerprint": "f4f2913a0d4ce65e1d908666a416cbfe6abfcc6e7df0bf4841bba61975a91896",
+      "version": "1.0.0"
+    },
+    "material-icons-two-tone_latin": {
+      "fingerprint": "9bfb3ba19e87907fa56427f7cd7f4d3f9a7ab28912121c297ce6738f6fe42578",
+      "version": "1.0.0"
+    },
+    "material-icons_latin": {
+      "fingerprint": "33e831cf99b4958a8a12eabd4657442355daa770b0a9e24158d410a696dc80d5",
+      "version": "1.0.0"
+    },
+    "material-symbols-outlined_latin": {
+      "fingerprint": "d87eb030db134ad111842b081b5e4b8df5bfed99b4d6138d205128a04d419998",
+      "version": "1.0.0"
+    },
+    "material-symbols-rounded_latin": {
+      "fingerprint": "821b3319e7c20f799b252cd2c36e393600ad7b04e084d068cca66a8cfec898df",
+      "version": "1.0.0"
+    },
+    "merriweather-sans_cyrillic-ext": {
+      "fingerprint": "56bd0ba23137e302338c57cd76c00d9b76396d89ee3752d583b098c25b600c08",
+      "version": "0.0.3"
+    },
+    "merriweather-sans_latin": {
+      "fingerprint": "b6f5dbd8bdfb75127e535710597a159f4667a49008bca2443e170256b07455bb",
+      "version": "1.44.2"
+    },
+    "merriweather-sans_latin-ext": {
+      "fingerprint": "0f323aac65deb31c2b4330013a4be5b00f8326050b2e5746129871a18a9d8df7",
+      "version": "1.44.2"
+    },
+    "merriweather_all": {
+      "fingerprint": "d8d19ddc4b59a5082892add9d3a7b8585d63c0ff604329e55e676c9c7fc3672f",
+      "version": "1.44.3"
+    },
+    "merriweather_cyrillic": {
+      "fingerprint": "888aa7e1a6ab72990205a18f2c82b3e7027fcc0191e34d62b302438145d1b3df",
+      "version": "1.44.3"
+    },
+    "merriweather_cyrillic-ext": {
+      "fingerprint": "8c00bfb6f578818e3f3b2f7510e06b1aa095ef5f9be7a08d9392fe579ef8807f",
+      "version": "1.44.3"
+    },
+    "merriweather_latin": {
+      "fingerprint": "6920024c12ad1d6f22fd0c7b21c0f8ac1a569e8bbaa97ae1b28ffe6047efe277",
+      "version": "1.44.3"
+    },
+    "merriweather_latin-ext": {
+      "fingerprint": "9938d11a8c5a8e249aa336322ebd5c5dcffbfc398f4715067b61a442dd6a48b2",
+      "version": "1.44.3"
+    },
+    "merriweather_vietnamese": {
+      "fingerprint": "f1574563ccaba8bfedf3dff2ba068c9b743999a4c94b5b748e59174496d972f2",
+      "version": "1.44.3"
+    },
+    "montserrat_all": {
+      "fingerprint": "efa94f821ad6835a99f75223cc42d7f043ee6733797ed51aeee97f1b099c9886",
+      "version": "1.44.3"
+    },
+    "montserrat_cyrillic": {
+      "fingerprint": "52f45d65c49d8e39fcea3bf11b9427e9b82789bca7898c4e0e3c9cd48070c027",
+      "version": "1.44.3"
+    },
+    "montserrat_cyrillic-ext": {
+      "fingerprint": "57eff798e021dae8bae6f930600ee6548a11f324856eb086e90a0c25c2309698",
+      "version": "1.44.3"
+    },
+    "montserrat_latin": {
+      "fingerprint": "6c122a2fa302c8cf46be8e07f266d26aa1d18e4dd9e3eb92248d3f2bb15adee2",
+      "version": "1.44.3"
+    },
+    "montserrat_latin-ext": {
+      "fingerprint": "53d9c62cd61fefd46fae598ffc92c3bd6eca26bd21d61a48a3b7e3320f4004fb",
+      "version": "1.44.3"
+    },
+    "montserrat_vietnamese": {
+      "fingerprint": "df428cb4637bc4efc0e44204754d746bd617f1785d20bcc7c867d06065298d06",
+      "version": "1.44.3"
+    },
+    "mukta_all": {
+      "fingerprint": "483099f8517951b02cceaa7bff2b010ae8b3e43e64347a38bc95352859ef6378",
+      "version": "1.44.2"
+    },
+    "mukta_devanagari": {
+      "fingerprint": "4c1d3f3d516883a20442f3c713c1471572626c75b9212b3e085c3abd93dbf0af",
+      "version": "1.44.2"
+    },
+    "mukta_latin": {
+      "fingerprint": "52079d665aee1433c961ed7860cb31c44a3e99d4667b69775f76de540dbf6142",
+      "version": "1.44.2"
+    },
+    "mukta_latin-ext": {
+      "fingerprint": "574af86fc94b4d05f910e6c505e7c183ba931cd6d5e015a9f1d658af42464dfe",
+      "version": "1.44.2"
+    },
+    "mulish_all": {
+      "fingerprint": "23de20786df474b17a02417d3c6a4d7877ee4b58b76ac2f5001c38090db7c2af",
+      "version": "0.0.2"
+    },
+    "mulish_cyrillic": {
+      "fingerprint": "6a3b917900df5f0edf114858ab435be330ef2c164258978f4479495e02e729fe",
+      "version": "1.0.0"
+    },
+    "mulish_cyrillic-ext": {
+      "fingerprint": "4e1eff78aa412b980d9e063793ea6972e8ec84038706f0f6e74a90fc72fe00da",
+      "version": "1.0.0"
+    },
+    "mulish_latin": {
+      "fingerprint": "d3e846f2ce58dc1e0e6a1bd4851a07373e1cb24f101af2412fb4c548f3bff723",
+      "version": "0.0.2"
+    },
+    "mulish_latin-ext": {
+      "fingerprint": "893c9278105db7d4579e9a0ea00d1a7f559744295d322c641d90ce8518359a34",
+      "version": "0.0.2"
+    },
+    "mulish_vietnamese": {
+      "fingerprint": "80f650c73c41a0283e749d91de2e6650b62ceaa52e8856c220f6deb429cd2f8d",
+      "version": "0.0.2"
+    },
+    "nanum-gothic_korean": {
+      "fingerprint": "314685200510eec99db397b26db538c40ebcadf17751e97938b1bbab9cf9a327",
+      "version": "1.44.2"
+    },
+    "nanum-gothic_latin": {
+      "fingerprint": "36dc88b478ded2b2f45e5b0e4dbc84ad55fce66b2185dcd291f08c9bf6e1da62",
+      "version": "1.44.2"
+    },
+    "noto-color-emoji_emoji": {
+      "fingerprint": "5b177d3ea907ac3ad0deee349e08ccd7bad85edbfb541b285899a6d3425967f7",
+      "version": "1.0.0"
+    },
+    "noto-sans-jp_all": {
+      "fingerprint": "7f2cd9c36347a07a604ff428b4a24ed98b6fec76e95d26da24b5cfeef867a79f",
+      "version": "1.0.0"
+    },
+    "noto-sans-jp_cyrillic": {
+      "fingerprint": "c564e6233db74cc4779b0ef12111f01fa464a21532aabc0db6c9f06072e7fac3",
+      "version": "1.0.0"
+    },
+    "noto-sans-jp_japanese": {
+      "fingerprint": "b9ab0d25f65f86e0ca010d0ab574832d962b1b312b8d8fa07cc0f744c5e1a722",
+      "version": "1.44.6"
+    },
+    "noto-sans-jp_latin": {
+      "fingerprint": "27a2b86b1b804f7f9ac777a0eb68093627f3a21b050946b8a7af983b4302c8a0",
+      "version": "1.44.6"
+    },
+    "noto-sans-jp_latin-ext": {
+      "fingerprint": "50fb7cf5e4d2be7e8d3580be72c6f5bb3793542cb3e224710e712d6dc6c12cac",
+      "version": "1.0.0"
+    },
+    "noto-sans-jp_vietnamese": {
+      "fingerprint": "5fe75ffa4a237d5af69216f0d1dc42c674f4cf1007ede618bf8cdb3e035e5f23",
+      "version": "1.0.0"
+    },
+    "noto-sans-khmer_all": {
+      "fingerprint": "a282afe23f36f2ddb2e3647cb8dd74f15d4d78df1a23e7848e3126a87b6cf0db",
+      "version": "1.0.0"
+    },
+    "noto-sans-khmer_khmer": {
+      "fingerprint": "20c95119b268d2868e2cab0ebf244d978bb1d871bdcefa7e5e4bba90ab4cba2f",
+      "version": "1.0.0"
+    },
+    "noto-sans-khmer_latin": {
+      "fingerprint": "86f16009ed7bc0537abacf001bc821740bfb2c61c2f77dfcacec7aadff605be9",
+      "version": "1.0.0"
+    },
+    "noto-sans-khmer_latin-ext": {
+      "fingerprint": "2deadf68b93e4508809511ec77b625408635237c3c9770d1ac67062dc2daa657",
+      "version": "1.0.0"
+    },
+    "noto-sans-kr_all": {
+      "fingerprint": "cca84c46013b7a013684244bb9dfa3463ac4ebddb7eab0da01ebd68656a0b933",
+      "version": "1.0.0"
+    },
+    "noto-sans-kr_cyrillic": {
+      "fingerprint": "c7e5c8040360937bc4bab93d3a3289d824d01d20486a5d9db72bec1aaebf75d1",
+      "version": "1.0.0"
+    },
+    "noto-sans-kr_korean": {
+      "fingerprint": "3ae52b75a2aa2f51e742490e589fa311c1058511817bd7ff490fa5b03ecc4240",
+      "version": "1.44.2"
+    },
+    "noto-sans-kr_latin": {
+      "fingerprint": "f2fb48989c24f0c65290017cf6b322fea5d6fbddceba41dce83788540c020234",
+      "version": "1.44.2"
+    },
+    "noto-sans-kr_latin-ext": {
+      "fingerprint": "e2cb636c80fd37e4ff1e9cce25e4f87086233d172bc3a7a232f792a73d999f38",
+      "version": "1.0.0"
+    },
+    "noto-sans-kr_vietnamese": {
+      "fingerprint": "aca806232d2f58d93f0ff35a29da7d6746ca46c835d48eacacfcc8a956a164e1",
+      "version": "1.0.0"
+    },
+    "noto-sans-sc_all": {
+      "fingerprint": "bd3b55f88d966a76a4dea5b71ca2452b50cb19964e417a437a03bc39b6ec802f",
+      "version": "1.44.1"
+    },
+    "noto-sans-sc_chinese-simplified": {
+      "fingerprint": "4eaa9652a45e45b5f6d8e312621f6a254660576710a770860e6cfa625058884e",
+      "version": "1.44.10"
+    },
+    "noto-sans-sc_cyrillic": {
+      "fingerprint": "b4c098f807141480082f061742a37af305b14e4870b9910f2ad869798d90f25a",
+      "version": "1.44.1"
+    },
+    "noto-sans-sc_latin": {
+      "fingerprint": "c9c688097aa20ffbf1d08d22c970441a7643289e59b94f71b80ec4a0876db031",
+      "version": "1.44.10"
+    },
+    "noto-sans-sc_latin-ext": {
+      "fingerprint": "2e9df108f65ca35889881cbefd777eefb57f04926ae8c9f71bca0d567d9c47b5",
+      "version": "1.0.0"
+    },
+    "noto-sans-sc_vietnamese": {
+      "fingerprint": "be29b57ee961b778403811a545cf1b6bc7d130efe95ea3cf269ed33befd71c27",
+      "version": "1.44.1"
+    },
+    "noto-sans-tc_all": {
+      "fingerprint": "4d9acb16d3f236e2ea7cb9df141945a8cffbcc113a9e7945bccf42282f69a2ee",
+      "version": "1.0.0"
+    },
+    "noto-sans-tc_chinese-traditional": {
+      "fingerprint": "66d03f06fb2001b643fc89abf71c8b91be401f6d08e27ed60c7029c581f0314e",
+      "version": "1.44.9"
+    },
+    "noto-sans-tc_cyrillic": {
+      "fingerprint": "1c90154a8d394e17953fb7a6f06e3cc826e41029e867c4670c6427d34c0e9f6a",
+      "version": "1.0.0"
+    },
+    "noto-sans-tc_latin": {
+      "fingerprint": "f569c780aaf99b6cb6e8ff5eeb6c8286408c8ec332a4ff53bc37e15b855fc892",
+      "version": "1.44.9"
+    },
+    "noto-sans-tc_latin-ext": {
+      "fingerprint": "e0cf7c1614e62a3cf1cbeb312430e8fe8e2230367412e2cf38f628244593e4fb",
+      "version": "1.0.0"
+    },
+    "noto-sans-tc_vietnamese": {
+      "fingerprint": "7a16335645546894d7b0d958a2480e2add7d3a3bdf45d83824ecf1c069a20907",
+      "version": "1.0.0"
+    },
+    "noto-sans-telugu_all": {
+      "fingerprint": "319863f5d545ff0cebd0c28386880082944484c982f8d8fbdf7b22fe8a75875a",
+      "version": "1.0.0"
+    },
+    "noto-sans-telugu_latin": {
+      "fingerprint": "4364fb65226c4d1664e3c68c2e7cac0ac3069c32abc547e384db97a96f1e1dc5",
+      "version": "1.0.0"
+    },
+    "noto-sans-telugu_latin-ext": {
+      "fingerprint": "f9e0198a7951cec0c3ece9d4fdc3e6f1beabfd8648e3e23ea656d67f1ed88b23",
+      "version": "1.0.0"
+    },
+    "noto-sans-telugu_telugu": {
+      "fingerprint": "f7620fecdd2aa5f9c356b28d15b76792b1397e8ceb4f251efa39869ded5bda09",
+      "version": "1.0.0"
+    },
+    "noto-sans_all": {
+      "fingerprint": "37be302feb936c2b51ba44ab7a066c156688f0985d2203fe949af5bf6b5942b6",
+      "version": "1.44.3"
+    },
+    "noto-sans_cyrillic": {
+      "fingerprint": "57a00dfe71a2e2920e48b6ea4bc21f70162fcece1c97ebeca8fae0f0e502010c",
+      "version": "1.44.3"
+    },
+    "noto-sans_cyrillic-ext": {
+      "fingerprint": "8aeda1be966f533deb86bd86244125db6eccee6960efcdccaf3a966bab4a3a35",
+      "version": "1.44.3"
+    },
+    "noto-sans_devanagari": {
+      "fingerprint": "321f7bd9ea5871857a3f66e3b7f75ab12fed841b1705aadf91e3f7a30a46cecf",
+      "version": "1.44.3"
+    },
+    "noto-sans_greek": {
+      "fingerprint": "64a658fd226c3c50bfc3437a1155cc8cc2762e048419074b4b3a08824afb61ca",
+      "version": "1.44.3"
+    },
+    "noto-sans_greek-ext": {
+      "fingerprint": "67401687fc39816eead3ea71bb33e1641fd3860d930f375cafdbaecca9ad53ef",
+      "version": "1.44.3"
+    },
+    "noto-sans_latin": {
+      "fingerprint": "c3f5670e722ec5b0b7ed6ce34aef86f5e832aea37e8ab41e27cb5f1cc9b77bdb",
+      "version": "1.44.3"
+    },
+    "noto-sans_latin-ext": {
+      "fingerprint": "9ae5d087e962ae46b1137c2d7f9eb08f3f958b9137bc11e06a9524184dc92d5e",
+      "version": "1.44.3"
+    },
+    "noto-sans_vietnamese": {
+      "fingerprint": "36e4bd3eeb3694d97a1930b2306849c28a1f8b3b19f595fa8b71e4f00240dbae",
+      "version": "1.44.3"
+    },
+    "noto-serif-jp_all": {
+      "fingerprint": "bc8122242db1a9bfc682830dfe584dda5951aa3c150d830122072b5ed060e1c2",
+      "version": "1.0.0"
+    },
+    "noto-serif-jp_cyrillic": {
+      "fingerprint": "1a352e5ac9588e3e3f253c188a8d8a68b2fa21b09268a3ca516d2e0dedf48461",
+      "version": "1.0.0"
+    },
+    "noto-serif-jp_japanese": {
+      "fingerprint": "42a6fcd30350bcf0f9d2973a7e1aba58dbd95f802c5ea9256abb28d4bfa48d85",
+      "version": "1.44.2"
+    },
+    "noto-serif-jp_latin": {
+      "fingerprint": "be64699dfc76935528c1073c00ce2901237768c302ebe91f350a1cb9775d694d",
+      "version": "1.44.2"
+    },
+    "noto-serif-jp_latin-ext": {
+      "fingerprint": "ef666ef2d66299d850facb52e91e5b8434ce73bd746ecc5ab81b613a79517096",
+      "version": "1.0.0"
+    },
+    "noto-serif-jp_vietnamese": {
+      "fingerprint": "05ed5f98fb662c6f53c00a84b07fe518a3613b07f19f45b169b5ca5db97e2cb8",
+      "version": "1.0.0"
+    },
+    "noto-serif_all": {
+      "fingerprint": "064ca3e1d9419edc5a718972c49026741e691f91daf5330a511f45e15438b9f9",
+      "version": "1.44.3"
+    },
+    "noto-serif_cyrillic": {
+      "fingerprint": "88852f60494f04de0ab0bbabfdae2643c002673e89011f917101f21fc8b6bfc0",
+      "version": "1.44.3"
+    },
+    "noto-serif_cyrillic-ext": {
+      "fingerprint": "2bca21b2dbb31a204309a1153cbca5e1f06223322bb59f0893d40cd5466ae05d",
+      "version": "1.44.3"
+    },
+    "noto-serif_greek": {
+      "fingerprint": "613d1369c697623080d72334faba88e238b3c114d0cb55f5e4f1faa1c6703d0e",
+      "version": "1.44.3"
+    },
+    "noto-serif_greek-ext": {
+      "fingerprint": "f165708caeaffc6a6a74adc181d4711e3db1b5381b45427ee31eef2c3ffb1522",
+      "version": "1.44.3"
+    },
+    "noto-serif_latin": {
+      "fingerprint": "c30d9d77be24cf13ab4e015430dc6fe65f21c5c9e04511e9b50ef985657c40e7",
+      "version": "1.44.3"
+    },
+    "noto-serif_latin-ext": {
+      "fingerprint": "4999c4210a470832a0194c0fead57716ecf4a050204e53d5647755965b31c38f",
+      "version": "1.44.3"
+    },
+    "noto-serif_math": {
+      "fingerprint": "2e8d8746ddf80fc7eb108f5600e56107bb802f9d513c4c6371f1c4900c21ed23",
+      "version": "1.0.0"
+    },
+    "noto-serif_vietnamese": {
+      "fingerprint": "d95389101379d21b3ddf1ba40625fae9213ae35ab6d9cb536aa34b539d5e9ec8",
+      "version": "1.44.3"
+    },
+    "nunito-sans_all": {
+      "fingerprint": "5ccd65e29c9563d3e05773d1eb9947fc4d60e0e7620e6569beff457ba3b2e81e",
+      "version": "1.44.3"
+    },
+    "nunito-sans_cyrillic": {
+      "fingerprint": "d6e84de9502011b5ba6b131f464a340e603a2ea529d5fde761dd8c9bafa8468c",
+      "version": "1.0.0"
+    },
+    "nunito-sans_cyrillic-ext": {
+      "fingerprint": "32c171698f0f36f72206145fde6eb01907cb3f1fd2a56774b3e0429650255ef8",
+      "version": "1.0.0"
+    },
+    "nunito-sans_latin": {
+      "fingerprint": "056cd04fb629741573cdf76841e32dfc9bd710539fa98d0a68b06d1cc613dac1",
+      "version": "1.44.3"
+    },
+    "nunito-sans_latin-ext": {
+      "fingerprint": "eff18eb6be478f2c888c1134ff54ce66692b7593bbf4a950b826537962631236",
+      "version": "1.44.3"
+    },
+    "nunito-sans_vietnamese": {
+      "fingerprint": "1fa71f6ff5fe9a4e7b768c2a41cca2f1320003d9ad0dc1ff4a77f7a090a22608",
+      "version": "1.44.3"
+    },
+    "nunito_all": {
+      "fingerprint": "de4e86e3eab121b10b8acf39b63ef832e51b374aac83cd14c6a9c6c21955cc25",
+      "version": "1.44.2"
+    },
+    "nunito_cyrillic": {
+      "fingerprint": "dbdc70b6fb5f0e32a5359386c3d88195422e4c9acf8d714f4f5e277293c9fff7",
+      "version": "1.0.2"
+    },
+    "nunito_cyrillic-ext": {
+      "fingerprint": "cd701e2ba2b56059a0299c79016d2d865d7ae62a1ab6a015079975cd3905b87d",
+      "version": "1.0.2"
+    },
+    "nunito_latin": {
+      "fingerprint": "6a723e0a4c46284faf8f8a97d8428bcc221ae9281e79b1535ad896cccf4859b0",
+      "version": "1.44.1"
+    },
+    "nunito_latin-ext": {
+      "fingerprint": "5c93121ad51c8faf0657f7e42db4404dfb6f1c9bdc681c8251a8d6bc3e1189f3",
+      "version": "1.44.2"
+    },
+    "nunito_vietnamese": {
+      "fingerprint": "5856cdac90556cba31da333ab7bb819256508b014b38d3dc3fb4361897d9bb23",
+      "version": "1.44.2"
+    },
+    "open-sans_all": {
+      "fingerprint": "8a84208c00218a56c65a7f215ed291d6f7e151b87f22bb999ed12d0a6f863137",
+      "version": "1.44.3"
+    },
+    "open-sans_cyrillic": {
+      "fingerprint": "abff2f47e89051538e9d90f717e6bcfd2fed36268117f5047f4659e7c3a5d6e0",
+      "version": "1.44.3"
+    },
+    "open-sans_cyrillic-ext": {
+      "fingerprint": "820a5d8dedb37d6c7eba41b6b9d9db02667703688110b3890779fdb044dff261",
+      "version": "1.44.3"
+    },
+    "open-sans_greek": {
+      "fingerprint": "da2739cca0c060059630a0bc10edab1426af5d80c5ec443127a104642fb5e28f",
+      "version": "1.44.3"
+    },
+    "open-sans_greek-ext": {
+      "fingerprint": "9a3224599fa500b1fd962ceabee2f0918182b9197263e4f8765a9717f3fba33c",
+      "version": "1.44.3"
+    },
+    "open-sans_hebrew": {
+      "fingerprint": "31c8b51d90f8b2da2b0f4516ea39bf1fdc24ad690985554adc8f3268bc798607",
+      "version": "1.0.0"
+    },
+    "open-sans_latin": {
+      "fingerprint": "be9ff9d9d5a83e0258868a07a415cf257f39d5e0700d6063aca3156c6cf9a990",
+      "version": "1.44.3"
+    },
+    "open-sans_latin-ext": {
+      "fingerprint": "2e418bf33e3d69c8c6fed9c044228336de4323904632f86a33eaba0da3bf8af8",
+      "version": "1.44.3"
+    },
+    "open-sans_math": {
+      "fingerprint": "1ae4672986aba9b53dffd146961094aa22883d4b75e5a258b1ad430e6670aa6a",
+      "version": "1.0.0"
+    },
+    "open-sans_symbols": {
+      "fingerprint": "ee2da29e8068b6068e36ae0973f13c8d538750d17dfcff1ade5f62f987fe87b4",
+      "version": "1.0.0"
+    },
+    "open-sans_vietnamese": {
+      "fingerprint": "fe9cd89864e30887e302cd605dafdaa2ef1c8a5ef0b03023211e7129b009b55a",
+      "version": "1.44.3"
+    },
+    "orbitron_latin": {
+      "fingerprint": "4d1d62221beab783c615159ac663669e2700fb4582cc51116a747d48f100c511",
+      "version": "1.44.1"
+    },
+    "oswald_all": {
+      "fingerprint": "e1a7371d44476d9f4d6c882cea336c3b2d6b14241c634342c93e14198e13aa08",
+      "version": "1.44.6"
+    },
+    "oswald_cyrillic": {
+      "fingerprint": "23fea0bd9926b2945509c42ff853ecb646ffe7489d8a8d0941a1193410fa4da1",
+      "version": "1.44.7"
+    },
+    "oswald_cyrillic-ext": {
+      "fingerprint": "d1856d3169a3092a1e3a1de18cd5d093eb3efb77e84fc4e3d4c9599c602aa99a",
+      "version": "1.44.7"
+    },
+    "oswald_latin": {
+      "fingerprint": "f2fa31b6bcf6499243889459ba88b2d32c6cb952ecd0b257f5a75b08a9b5d6ec",
+      "version": "1.44.7"
+    },
+    "oswald_latin-ext": {
+      "fingerprint": "23ea0783c6daaf7efdb9e3bd7b92baefd90f1c4dd5d4d87d50aa798624f699ea",
+      "version": "1.44.7"
+    },
+    "oswald_vietnamese": {
+      "fingerprint": "aa65f2bcede9081de2d4005417cc7445b29a933b4de9a896b9e6c3db3d788619",
+      "version": "1.44.7"
+    },
+    "outfit_latin": {
+      "fingerprint": "7f493fb2b89ae1e0a7f7b2c29f0052d8234275ac05d865595561080437421088",
+      "version": "1.0.0"
+    },
+    "outfit_latin-ext": {
+      "fingerprint": "c7cb0f9b87655478163276395a85e7a00198524e27eae376e7e2249a903301ab",
+      "version": "1.0.0"
+    },
+    "overpass_all": {
+      "fingerprint": "b9782f020362c9d52d20899724ab9a29f383c6cc7084255791fb1c6374284d2e",
+      "version": "1.0.0"
+    },
+    "overpass_cyrillic": {
+      "fingerprint": "e158b4683026a2f18fbd7c6f8a1b6ae55dfc4a3d1e91ce1b3b60b3212ea35ea8",
+      "version": "1.0.0"
+    },
+    "overpass_cyrillic-ext": {
+      "fingerprint": "784861689e048d0181aeb2c13ee0584d15972c659d16bc52bb23c4001f581854",
+      "version": "1.0.0"
+    },
+    "overpass_latin": {
+      "fingerprint": "97b0967d176be9d94a7f5a1fa60ae51dbf00837791e3059667ab860179453d7e",
+      "version": "1.44.3"
+    },
+    "overpass_latin-ext": {
+      "fingerprint": "8fcf408c82212499e72a1899cb6b3184186e687c69d35fb51ef0d19cf833b8c2",
+      "version": "1.44.3"
+    },
+    "overpass_vietnamese": {
+      "fingerprint": "121de7a1b162d0f511b0b55d6759ae01bc662d1d77f8dd09c65cc09fe9bceab6",
+      "version": "1.0.0"
+    },
+    "oxygen_latin": {
+      "fingerprint": "a0603273bad5877dbbdccf533b79f8b77b1f34d5c7cca22d6e67d5c47bdbc9c3",
+      "version": "1.44.3"
+    },
+    "oxygen_latin-ext": {
+      "fingerprint": "731880a3cd0ec296784a3d2dadcb9c412a86c81eb56f970ab8a3e678aaa4ff4a",
+      "version": "1.44.3"
+    },
+    "pacifico_all": {
+      "fingerprint": "9e01d64f30569e510d975834f0674c4a5e57945b2ed65151c0005565dc9beabd",
+      "version": "1.44.3"
+    },
+    "pacifico_cyrillic": {
+      "fingerprint": "a9865cec56963a67009dbbb1c87c241e072f00adb4a083f6f6680a6ba17e5a86",
+      "version": "1.44.3"
+    },
+    "pacifico_cyrillic-ext": {
+      "fingerprint": "59bf501829bb02df1f57336c00adb3ec665755b3388b4718ff1ffd8e1ce7e3ff",
+      "version": "1.44.3"
+    },
+    "pacifico_latin": {
+      "fingerprint": "a00b8b7a62c09c5c26b0ef08349290574263352c5102f5bdd473de1948a1913e",
+      "version": "1.44.3"
+    },
+    "pacifico_latin-ext": {
+      "fingerprint": "4bca3f03c65b71a443fc22d76186fff20158451aa52a0e14f1b8f0703e3e09fa",
+      "version": "1.44.3"
+    },
+    "pacifico_vietnamese": {
+      "fingerprint": "e33a218a68c213ba3e9fb44dc3d6a43c571acabf5d7ca649db3ee6b9bf45aa15",
+      "version": "1.44.3"
+    },
+    "permanent-marker_latin": {
+      "fingerprint": "c5a61c754b4f322e4f7a1c6cee5f337da2fc33ed24b75e135750f78eb02e0d2d",
+      "version": "1.44.1"
+    },
+    "playfair-display_all": {
+      "fingerprint": "f672c41a2863e8f03dc08b1a32415d479ae1204321c70d309e350eb21cca5960",
+      "version": "1.44.1"
+    },
+    "playfair-display_cyrillic": {
+      "fingerprint": "03c6c521540f5127fb4da1234a4ab3e88ce84233d1b6b7018143d17c64b8782e",
+      "version": "1.44.1"
+    },
+    "playfair-display_latin": {
+      "fingerprint": "a8d46ca91b313597b7c5d8797e098011d1eec66013b43d1023707134d758bff9",
+      "version": "1.44.1"
+    },
+    "playfair-display_latin-ext": {
+      "fingerprint": "cc1346d30b29c034b605e6801afc980d69c25ab64d60b238ecfb9275a512f60e",
+      "version": "1.44.1"
+    },
+    "playfair-display_vietnamese": {
+      "fingerprint": "b536161bde8bae199bfbb1a3225425f3617bd12b77ba6aeb19762d2246b01978",
+      "version": "1.44.1"
+    },
+    "plus-jakarta-sans_all": {
+      "fingerprint": "a29491d3aefc6b3d9e17ed5c453d5fb535a0f8a672dd7f7e471ac162d932181b",
+      "version": "1.0.0"
+    },
+    "plus-jakarta-sans_cyrillic-ext": {
+      "fingerprint": "598f2e393cda81a31f340ce85d0a84d0cb28f53cf01da626b9dfe3bf1eb59c82",
+      "version": "1.0.0"
+    },
+    "plus-jakarta-sans_latin": {
+      "fingerprint": "bb96bea2571cf2584b49f06e3fea581a7459cddd544f91bc1deb45dedccd4753",
+      "version": "1.0.0"
+    },
+    "plus-jakarta-sans_latin-ext": {
+      "fingerprint": "f8bdbb04fae46c790107372ae6accc62f7e666fedda3882d316e525d83633a09",
+      "version": "1.0.0"
+    },
+    "plus-jakarta-sans_vietnamese": {
+      "fingerprint": "87433c3a240d0a92ec85f08cb77a7a5fa8940eba609fa4821e5e7b458a39faf0",
+      "version": "1.0.0"
+    },
+    "poppins_all": {
+      "fingerprint": "ed676ab8556ebee29539e3a9ead29ae9fdb7d42c16e29005032ac592ef883c5c",
+      "version": "1.44.8"
+    },
+    "poppins_devanagari": {
+      "fingerprint": "508f67ede7a22a39f931af23fa2eda2d6a67e30919a9f81ebb24cbf8ef0597ac",
+      "version": "1.44.8"
+    },
+    "poppins_latin": {
+      "fingerprint": "cc532d7572a3201f5aeb11905177cba50702859989a5387afcaa11343177f3f3",
+      "version": "1.44.6"
+    },
+    "poppins_latin-ext": {
+      "fingerprint": "1d168e0985305a7c66f03bfbcaad0011af43eebe59c528f182c9ea153b39ae51",
+      "version": "1.44.6"
+    },
+    "prompt_all": {
+      "fingerprint": "2a89d2c1070b3587f983a7472efe3a16715c0578f8921c950f216eb43e9c9529",
+      "version": "1.44.2"
+    },
+    "prompt_latin": {
+      "fingerprint": "ed8511f4cbabc65e1931aecfc72c316abd6bcdd7f68e359f12980d436cee8a52",
+      "version": "1.44.2"
+    },
+    "prompt_latin-ext": {
+      "fingerprint": "6409e8c348de41dd5f78d15462bf59131ad6d7274ad82515ff5a312e65ef3667",
+      "version": "1.44.2"
+    },
+    "prompt_thai": {
+      "fingerprint": "60901c89b41d11358f20ca54c67955f220615e3bf32e79faca6c3a4b4c389621",
+      "version": "1.44.2"
+    },
+    "prompt_vietnamese": {
+      "fingerprint": "b87ac4f6548417a23e87d118d43ac153d67b28113bd433bf1a5d4a33e6324695",
+      "version": "1.44.2"
+    },
+    "proza-libre_latin": {
+      "fingerprint": "f780bcb0c7aff880bbb5b33ca64ee75ba4667f204d6cc5b9d5b28ac7ef14a7b8",
+      "version": "1.44.2"
+    },
+    "proza-libre_latin-ext": {
+      "fingerprint": "15d900dc1480cc9ba494e3aee0066a240db448ff103a6767b11a9526842525db",
+      "version": "1.44.2"
+    },
+    "pt-sans-narrow_all": {
+      "fingerprint": "f5f2674b816185cbaee4dc53982ba22b2049a8807680f26866601405ea01c1cf",
+      "version": "1.44.3"
+    },
+    "pt-sans-narrow_cyrillic": {
+      "fingerprint": "19357355919a844179a938bd136a353c3a748cf68d54ff4eb92c14e6d433f038",
+      "version": "1.44.3"
+    },
+    "pt-sans-narrow_cyrillic-ext": {
+      "fingerprint": "7d9a70732886e9aa65c95f393f89ec6b72d2f92cdcf293bb11689a9477f76de6",
+      "version": "1.44.3"
+    },
+    "pt-sans-narrow_latin": {
+      "fingerprint": "d8fbbae33175c9435ba3b602d952feeac6e3e12214f36cd9efbc10e54dee16b2",
+      "version": "1.44.3"
+    },
+    "pt-sans-narrow_latin-ext": {
+      "fingerprint": "9cbea402bec4d5f7696044c1a576d4c3a7807ed7f6b32efd8f6f8aaa6102832a",
+      "version": "1.44.3"
+    },
+    "pt-sans_all": {
+      "fingerprint": "3c6f053e0ab93a605cfd96be7d5507337af24f78944c9089f61bdcf01daefaaa",
+      "version": "1.44.3"
+    },
+    "pt-sans_cyrillic": {
+      "fingerprint": "3226fddaabbe2a9497a5dee308d37e851f7f7503a5cb123e91660cacd7edf0b6",
+      "version": "1.44.3"
+    },
+    "pt-sans_cyrillic-ext": {
+      "fingerprint": "abde090a0178684ded53fee3523a6b79c673fda66325317b3f93f4db1917e9e8",
+      "version": "1.44.3"
+    },
+    "pt-sans_latin": {
+      "fingerprint": "05aec5ae983abc682eafbe9201caf7cb8ee895555ac50bab253e2a767a9ae6e7",
+      "version": "1.44.3"
+    },
+    "pt-sans_latin-ext": {
+      "fingerprint": "5246b24b18e37ffe86d557d2dbb7a23c1aa9540bba289fb18a28a2763b51139b",
+      "version": "1.44.3"
+    },
+    "pt-serif_all": {
+      "fingerprint": "974b2289ca68c24a6c0ea2c34d67e7a28aebdca940d077ff4ee1fa07fa86928d",
+      "version": "1.44.3"
+    },
+    "pt-serif_cyrillic": {
+      "fingerprint": "4691c2711226a58d290ecd591f14708715455f4bde733ff564954da0a571b019",
+      "version": "1.44.3"
+    },
+    "pt-serif_cyrillic-ext": {
+      "fingerprint": "ce6e7cd174bbaa55bf88011307e0e1d425c96bdc6ba8a0d3a78cdcd1eb53ee90",
+      "version": "1.44.3"
+    },
+    "pt-serif_latin": {
+      "fingerprint": "6d045e1e83f5bc739e8e28b8fc67654e9517cb3ffb1158c2b88517901343628d",
+      "version": "1.44.3"
+    },
+    "pt-serif_latin-ext": {
+      "fingerprint": "f3df64eba1cfe64b8906c82377f46cd79fc76fe9e402625f08028ac5e666403f",
+      "version": "1.44.3"
+    },
+    "public-sans_all": {
+      "fingerprint": "088ebae23747f02d713b2b1b296d425c79e9cb0248c350408968fd9d4e4f3799",
+      "version": "1.0.0"
+    },
+    "public-sans_latin": {
+      "fingerprint": "990db0e4712f9866d9b48556ed010b7767fbdf92a466e2d40f3b5639dc5fa85d",
+      "version": "1.0.3"
+    },
+    "public-sans_latin-ext": {
+      "fingerprint": "946f5e2ebc7eb8b110845098e197ae7c4e9296d3665230623346d594668ac437",
+      "version": "1.0.3"
+    },
+    "public-sans_vietnamese": {
+      "fingerprint": "b15b28e6eebeafc31f3cc09c635f8534b59609b04655c1b982c8b05c1d1dd6d8",
+      "version": "1.0.0"
+    },
+    "quicksand_all": {
+      "fingerprint": "d5c7072eeb2e00a194312e758a353f5a6dc8782326e375b4e6e58d1f0cc4a3c7",
+      "version": "1.44.5"
+    },
+    "quicksand_latin": {
+      "fingerprint": "d11870fb83f3422a0b05ff1eaeac360061935797cb412c7103acfcaece41c513",
+      "version": "1.44.5"
+    },
+    "quicksand_latin-ext": {
+      "fingerprint": "ad60f46b96b2abbbbbbbf9620444f90ab14913750f989c86713ed2793726e0a0",
+      "version": "1.44.5"
+    },
+    "quicksand_vietnamese": {
+      "fingerprint": "f1af9e9265d3d904df2d25c973f700a1c7bb3807ce31ad078e261f8f65148ec3",
+      "version": "1.44.5"
+    },
+    "rajdhani_all": {
+      "fingerprint": "e1262597bf717fa7948e747981772dc744d819cc31135dc1fb6086753df6ed19",
+      "version": "1.44.3"
+    },
+    "rajdhani_devanagari": {
+      "fingerprint": "e93c13620d24a0dd2afca9a2da547668d5611a515292b532f47fb4a6eb127d9a",
+      "version": "1.44.3"
+    },
+    "rajdhani_latin": {
+      "fingerprint": "4a05592f6f1d5b7f2b62da0b6de5763705dbd58a23381da3fd7c137abd839d07",
+      "version": "1.44.3"
+    },
+    "rajdhani_latin-ext": {
+      "fingerprint": "e3bf998aeeb29424d606f64c450ca5cfaa00159f61295863340d9abedf8b20ea",
+      "version": "1.44.3"
+    },
+    "raleway_all": {
+      "fingerprint": "9fb1436e17083fb3db310530d07c97609589066d1c1d6ed6cbf8131179c4a175",
+      "version": "0.0.2"
+    },
+    "raleway_cyrillic": {
+      "fingerprint": "94a469a8d11f75c2be6639ff2bbb5dab4fe9e07e275f79e3e633278b5171fd91",
+      "version": "0.0.2"
+    },
+    "raleway_cyrillic-ext": {
+      "fingerprint": "18d38be1d2abd13186344ef35b3c184af391e02c94148bc48a0a7f841bad55fa",
+      "version": "0.0.2"
+    },
+    "raleway_latin": {
+      "fingerprint": "f818a507368fc5c42092ec97f378a603cda4550bca85f44f29b2ba1d80017268",
+      "version": "1.44.2"
+    },
+    "raleway_latin-ext": {
+      "fingerprint": "4e0872f4118dbf749cb256c3f276ec0610f6cb2c0a0b222453fe2a0488ea9bfa",
+      "version": "1.44.2"
+    },
+    "raleway_vietnamese": {
+      "fingerprint": "cbc72682cf63bdb80ee80c550b14f2d2d6de1a1f6bf316140b96a82f597e1ffe",
+      "version": "0.0.2"
+    },
+    "ramabhadra_latin": {
+      "fingerprint": "f4dd1a5e65172b3366b70b9c923d128909656c284840585e73b4ce9e6c464931",
+      "version": "1.44.3"
+    },
+    "ramabhadra_telugu": {
+      "fingerprint": "5222c0b4b2610d0d775058e6055a9574c4e622c4cf958f73f4c0916a73de7071",
+      "version": "1.44.3"
+    },
+    "red-hat-display_latin": {
+      "fingerprint": "6abeaa84371d64567f7d7fced2e3673d8821998afc746fd9a7c885b8d15cbd20",
+      "version": "1.44.4"
+    },
+    "red-hat-display_latin-ext": {
+      "fingerprint": "8259073a8dba20a503184bbd4aac1d1c195a6781ebe7159e981a4fce8dae05a2",
+      "version": "1.44.4"
+    },
+    "roboto-condensed_all": {
+      "fingerprint": "a23b9a4512f9fa5d910f19adc8f1222d736e9cca4dc71b63622f32af0826263c",
+      "version": "1.44.3"
+    },
+    "roboto-condensed_cyrillic": {
+      "fingerprint": "6acca5cc1c6efc8e5e19a15d0dd6e0259625132573337f5eeb1eeda19cef12da",
+      "version": "1.44.3"
+    },
+    "roboto-condensed_cyrillic-ext": {
+      "fingerprint": "63ec4644ee87d0e2fbd2c608e6b2514e51704164acc17771c292889026cec645",
+      "version": "1.44.3"
+    },
+    "roboto-condensed_greek": {
+      "fingerprint": "ab75fcbee77e7863d158dadc01da2f704082ab4826556d8f81128feca41a0372",
+      "version": "1.44.3"
+    },
+    "roboto-condensed_greek-ext": {
+      "fingerprint": "fa06505bcaf5da4f55bf8be425f4ae2dfadc8af5b6487fda08df4f518903d43e",
+      "version": "1.44.3"
+    },
+    "roboto-condensed_latin": {
+      "fingerprint": "365f56907c8fc54b63851317281b3af4759f3e4065953b11cec8873d6236991d",
+      "version": "1.44.3"
+    },
+    "roboto-condensed_latin-ext": {
+      "fingerprint": "9612358dcad1eabf445d29de8e5c2ebfdb100458d222b36bae92a2071524ffdb",
+      "version": "1.44.3"
+    },
+    "roboto-condensed_vietnamese": {
+      "fingerprint": "2fcafca1ba66fe778034acd8a171c99aa5c2c2b2ca0d078e768d28db2e96056c",
+      "version": "1.44.3"
+    },
+    "roboto-flex_all": {
+      "fingerprint": "350d9fac83506446a714fdd3ab512c0ca2f5f97dff37644bbb241be759b34a17",
+      "version": "1.0.0"
+    },
+    "roboto-flex_cyrillic": {
+      "fingerprint": "90cdb85a44270d9ebfcb5b399bee6b6f605bb362155efa502cb25b8f23709ad4",
+      "version": "1.0.0"
+    },
+    "roboto-flex_cyrillic-ext": {
+      "fingerprint": "7d6dc6e243f0c837fde3604da5459cc66998bdeb390488db9fa2c9b7ad3fdec9",
+      "version": "1.0.0"
+    },
+    "roboto-flex_greek": {
+      "fingerprint": "71be178b7b6a202d3aecff32641f3d2126d0fa3185f68cc2fd7322913807268c",
+      "version": "1.0.0"
+    },
+    "roboto-flex_latin": {
+      "fingerprint": "048ed15821976b4fa94851e626cdccc58162e528e48a709a8eb7649a2a6d52e9",
+      "version": "1.0.0"
+    },
+    "roboto-flex_latin-ext": {
+      "fingerprint": "f1a6d9da0c1ed8ada3fdb6462eeb7f089aaeef64e2b662185acdf413fdb0ea14",
+      "version": "1.0.0"
+    },
+    "roboto-flex_vietnamese": {
+      "fingerprint": "b3f9ce4338e326c09648d2fa5f9ddea91c77fafc36ae86240a0028d87fd31d4f",
+      "version": "1.0.0"
+    },
+    "roboto-mono_all": {
+      "fingerprint": "f0547076912a058dfaadceaac5c9e7ce321df718e8a6d59625aef173435b8726",
+      "version": "1.44.2"
+    },
+    "roboto-mono_cyrillic": {
+      "fingerprint": "8e87fe9eac36c5d1a9e7b6bcbae21ccef65625248b6d04f77650572aecc4ef0f",
+      "version": "1.44.2"
+    },
+    "roboto-mono_cyrillic-ext": {
+      "fingerprint": "117cd314182d331f673dced893057c6d62ea8ad3e78c713c4a5d194dafaf7549",
+      "version": "1.44.2"
+    },
+    "roboto-mono_greek": {
+      "fingerprint": "908fd5cdf3b56a016556c271404ead51dfc7bd24e3a66e9b5da78af2a1c4f853",
+      "version": "1.44.2"
+    },
+    "roboto-mono_latin": {
+      "fingerprint": "2fbb7c4da2eb378b96026d09936ceb9515f40f47f90ee43d55db31f4b524ed90",
+      "version": "1.44.2"
+    },
+    "roboto-mono_latin-ext": {
+      "fingerprint": "7f25ddeab2499bafec481fa59289ec55b00c7ce8d439e511e01eddc146a47325",
+      "version": "1.44.2"
+    },
+    "roboto-mono_vietnamese": {
+      "fingerprint": "713c9309f226c89206e09dc3f1fedc214bca812068ea0a584f7720c80845d37b",
+      "version": "1.44.2"
+    },
+    "roboto-slab_all": {
+      "fingerprint": "11ae43b67943dd39a9e8c90c2bc4a516ac9a9d40fd056f208b300c9a37e1d0f6",
+      "version": "1.44.1"
+    },
+    "roboto-slab_cyrillic": {
+      "fingerprint": "585dcd83f4bf5c6e53a69990195cc1ca123bd14e024a6e3b627fb2f8b44a6a94",
+      "version": "1.44.1"
+    },
+    "roboto-slab_cyrillic-ext": {
+      "fingerprint": "3abdc37ebe25f27e600147a8f9aefdcb52af95a839efd831b4f05d4419cf22ff",
+      "version": "1.44.1"
+    },
+    "roboto-slab_greek": {
+      "fingerprint": "38b72a15accc3493a745d809996012223f825d306eb63d898f8726e005f455d8",
+      "version": "1.44.1"
+    },
+    "roboto-slab_greek-ext": {
+      "fingerprint": "f4c8380a85da11fec79a13860b0bb1efcc04388a6546f5e89e1f70fa376af6d2",
+      "version": "1.44.1"
+    },
+    "roboto-slab_latin": {
+      "fingerprint": "aee4d96bb696ed42866145385c9047aab140253d0db825323dda9c72f779ee26",
+      "version": "1.44.1"
+    },
+    "roboto-slab_latin-ext": {
+      "fingerprint": "d9df7e457566d64b247908fd4c0238a9fe401092251801ad299b7ed20d45ee3d",
+      "version": "1.44.1"
+    },
+    "roboto-slab_vietnamese": {
+      "fingerprint": "572d737be08973a5f4c42fa9cfe2e499f2afabe6d71bcdcfa0f7ee8f0421a8eb",
+      "version": "1.44.1"
+    },
+    "roboto_all": {
+      "fingerprint": "4e86a44545b0f3157ffc2ac6e919a67b90d5f126ad48509b5a52252dfb83a74d",
+      "version": "1.44.2"
+    },
+    "roboto_cyrillic": {
+      "fingerprint": "87673ca5c1c80d6c273dbfede86c5eeb1b31f4ead625e08ac51f218bb1eadeb9",
+      "version": "1.44.2"
+    },
+    "roboto_cyrillic-ext": {
+      "fingerprint": "2b8613ad32253be3d39d8c4c3179c8614c007e8224341018ac2ddce465c138ec",
+      "version": "1.44.2"
+    },
+    "roboto_greek": {
+      "fingerprint": "19efe81f2d43674e27724941c64970d3557d9a537a39a0ccd0eef9bba23fb2dc",
+      "version": "1.44.2"
+    },
+    "roboto_greek-ext": {
+      "fingerprint": "3c20a72fa81c2c0ef97bfbe85924c61c480e1d9932ee745fe80dd8cb2646670b",
+      "version": "1.44.2"
+    },
+    "roboto_latin": {
+      "fingerprint": "46b06e67e3a1d0d9c8c17f645889506319f6084c14cf33e5df38dc5c52a00aea",
+      "version": "1.44.2"
+    },
+    "roboto_latin-ext": {
+      "fingerprint": "a56c36f07fc2393e37f7a4f9df672e561a06dbc2281ff28cc4b5aadb2ceae2b0",
+      "version": "1.44.2"
+    },
+    "roboto_math": {
+      "fingerprint": "35baae30c0e6b1592a467458eeb5968687c03e58ccf8295d31e75fec4d1fd0ad",
+      "version": "1.0.0"
+    },
+    "roboto_symbols": {
+      "fingerprint": "a138546784d689f3452442b9b7d3ef2200fadaefefdc1a69a19ba96f236aa3b1",
+      "version": "1.0.0"
+    },
+    "roboto_vietnamese": {
+      "fingerprint": "98b3accd61ba6f38d26d7780d093f0f776f6cf73756d2353dcf96a8de95c1ba1",
+      "version": "1.44.2"
+    },
+    "rubik_all": {
+      "fingerprint": "8f17484d620f2af05edb2d78de25e9e0f2029f4841e86144e6f9bae79351a349",
+      "version": "1.44.2"
+    },
+    "rubik_arabic": {
+      "fingerprint": "763fcdccef7f7b81d299ea34f02c8a09d0a03aebadd081a055792fe5593f8664",
+      "version": "1.0.0"
+    },
+    "rubik_cyrillic": {
+      "fingerprint": "3fd1c73ad77e9e35a101ebd29b2fdfaebfd6ac23f4a742e198025de1ac428e0e",
+      "version": "1.44.2"
+    },
+    "rubik_cyrillic-ext": {
+      "fingerprint": "855689792bc25a9eef432dd51fb4cb08f165bebe500c8f24dcced225c42484b2",
+      "version": "0.0.2"
+    },
+    "rubik_hebrew": {
+      "fingerprint": "26a6b43e29151508ed329bb017d72d61bf50c25081d67aefbbf4eeae665a055e",
+      "version": "1.44.2"
+    },
+    "rubik_latin": {
+      "fingerprint": "142a66bcd447e5767ff5aa7a3bbec6ffb34c45b189aa3dd7e1e72a71c11e4d9b",
+      "version": "1.44.2"
+    },
+    "rubik_latin-ext": {
+      "fingerprint": "3968fad33f93727194e61d462781d03b91201e8ea0f071dbe42a22a83cd23f69",
+      "version": "1.44.2"
+    },
+    "saira_all": {
+      "fingerprint": "788c03918534e6e5e96e4b23203ae9660a4376b6798346320b282f06ae70c29d",
+      "version": "1.44.3"
+    },
+    "saira_latin": {
+      "fingerprint": "45e5701d695280d00cd25e17974f93ff093b0162353dde36d87b60ca6707370d",
+      "version": "1.44.3"
+    },
+    "saira_latin-ext": {
+      "fingerprint": "5e8d27ab3a457acb4e5d1464db83f53d890c04e13d8fdd5041234890d49d70f8",
+      "version": "1.44.3"
+    },
+    "saira_vietnamese": {
+      "fingerprint": "3e0059e8801717924b0b12c48e5af4a931700eb5a76bcc2e4b048ca0017afc68",
+      "version": "1.44.3"
+    },
+    "schibsted-grotesk_latin": {
+      "fingerprint": "05eb0786b2b74248b8d95bdae0a50f5d09b2b12308d08103c9eee4fb6ba0adc7",
+      "version": "1.0.0"
+    },
+    "schibsted-grotesk_latin-ext": {
+      "fingerprint": "455bbc7a72f535cf2b660e6e348b42a1df6abf002d8edf019fa2544dfe46113d",
+      "version": "1.0.0"
+    },
+    "schoolbell_latin": {
+      "fingerprint": "272c3bc1f3036d352017be2809dd2582a107dd9acd0fded6b101b1a444892335",
+      "version": "1.44.2"
+    },
+    "share-tech_latin": {
+      "fingerprint": "2db20295663591188875855136278929f415edaeb7c77e8efa0417f22c0922b3",
+      "version": "1.44.3"
+    },
+    "slabo-27px_latin": {
+      "fingerprint": "c96797cb531782b1931d851661886261c0b3dceebd936e6d9e565ff75402e450",
+      "version": "1.44.3"
+    },
+    "slabo-27px_latin-ext": {
+      "fingerprint": "215bae78a6e5424c415660f179aec3854d3c7a1f5a0d631c0f20ac7189a3ac1f",
+      "version": "1.44.3"
+    },
+    "smooch-sans_all": {
+      "fingerprint": "ce977329c8aa62afc60c267cd025a149824f3968a5456686ffede2ebf7172b41",
+      "version": "1.0.0"
+    },
+    "smooch-sans_latin": {
+      "fingerprint": "1aa08f95f2fde2dbee99be26de7a1233333aa9329c8d9af0baafbfee0042d204",
+      "version": "1.0.0"
+    },
+    "smooch-sans_latin-ext": {
+      "fingerprint": "b7c9c1855fe1a6f5f85f7c5283c353ccf64e215e6e4998f6aedba80eb11ace9f",
+      "version": "1.0.0"
+    },
+    "smooch-sans_vietnamese": {
+      "fingerprint": "9874491c33fc28b5098540f7a5f9f36fe287b60044819bc528b218a415fbeac9",
+      "version": "1.0.0"
+    },
+    "snippet_latin": {
+      "fingerprint": "a352dd19756bc3e67fb0c745afb8543029e82053cf7be868592d5be6a7babbc0",
+      "version": "1.44.2"
+    },
+    "sora_latin": {
+      "fingerprint": "ca55b46d40e3bdf2306f2526d4d5c9bcc461c4b57313c0ef5357235ff512c97e",
+      "version": "0.0.2"
+    },
+    "sora_latin-ext": {
+      "fingerprint": "8e033ac8dd7445f645e44c978035e94ae5166c0c1707b5085a018696b0e50b3a",
+      "version": "0.0.2"
+    },
+    "source-code-pro_all": {
+      "fingerprint": "f26250ee2566ea3f08dc4a20911fca024ab12291d709778269e9fd0822e599f1",
+      "version": "1.44.3"
+    },
+    "source-code-pro_cyrillic": {
+      "fingerprint": "e84adb05eb4917ba5ff034295009d019160503570f95c7052c4298ad8def331b",
+      "version": "1.44.3"
+    },
+    "source-code-pro_cyrillic-ext": {
+      "fingerprint": "acd6d135f89ce9360380ba1fb60d8cd520e2477e2cff40b981b25225b33eb202",
+      "version": "1.44.3"
+    },
+    "source-code-pro_greek": {
+      "fingerprint": "9f391a789a38317b8a387309f4f0fe70686d2a7ef583f5be2ab284c6d6efbc7b",
+      "version": "1.44.3"
+    },
+    "source-code-pro_greek-ext": {
+      "fingerprint": "620e2870fe2ffc24ae429627894b0bc821db236f65524ac35865ef667395073c",
+      "version": "1.0.0"
+    },
+    "source-code-pro_latin": {
+      "fingerprint": "1a67619b69a20dc589f357057cba0000dfec3f6fb008d08dc7deae599fa4ee37",
+      "version": "1.44.3"
+    },
+    "source-code-pro_latin-ext": {
+      "fingerprint": "c7dcee01c9b4db5a505b682d0e9aab45238afdd095b89ec5c40b6c7265338d22",
+      "version": "1.44.3"
+    },
+    "source-code-pro_vietnamese": {
+      "fingerprint": "b79d712b066deaec567475e70d25edd6f54a3006d0c32d31b5d7e9a7c7959d8a",
+      "version": "1.44.3"
+    },
+    "source-sans-3_all": {
+      "fingerprint": "ff2ceaff9a1c60e3bc1903253154a5ae9bd97c5ffddfb8bebcc0c5e636b6ef31",
+      "version": "1.0.0"
+    },
+    "source-sans-3_cyrillic": {
+      "fingerprint": "80c4540e1e82db94d84b4767ec92392530bd545eb5ed365c699d2c258b84d0fc",
+      "version": "1.0.0"
+    },
+    "source-sans-3_cyrillic-ext": {
+      "fingerprint": "28df3c690cba0578ebf2a96cc0058ed1ebb7dd86bd1cf0347955286c341705b3",
+      "version": "1.0.0"
+    },
+    "source-sans-3_greek": {
+      "fingerprint": "f572179fa9f9defdb7ca7807c853e344c961f760f8c4b8027c2f549b3be9aee6",
+      "version": "1.0.0"
+    },
+    "source-sans-3_greek-ext": {
+      "fingerprint": "b7dbed478d0601b1e3459b6b2591e28fa67732bb6275738bc9f1c2ff455aaceb",
+      "version": "1.0.0"
+    },
+    "source-sans-3_latin": {
+      "fingerprint": "8e74b8a704fbe031fce24bb1e8144459ce8000e613c652a74c3615306a22bbc5",
+      "version": "1.0.0"
+    },
+    "source-sans-3_latin-ext": {
+      "fingerprint": "99849b2d99b84570eaff58c75e27a0be593c7abfa914726d65dca341d151ce02",
+      "version": "1.0.0"
+    },
+    "source-sans-3_vietnamese": {
+      "fingerprint": "edb1cbeb1cd8f75373153119dc085059a01b12143b2979695a88dba43e7a62b6",
+      "version": "1.0.0"
+    },
+    "source-serif-4_all": {
+      "fingerprint": "6953da9bac38874504ba8ab120f5503b2b5c276897cd9ba1888f63309eec21f4",
+      "version": "1.0.0"
+    },
+    "source-serif-4_cyrillic": {
+      "fingerprint": "e3ee81636935a039cac579a68cff10da600e3705754baeaa80523c91c289ae04",
+      "version": "1.0.0"
+    },
+    "source-serif-4_cyrillic-ext": {
+      "fingerprint": "47c7519322b99a80b32dc8e370a715776a872d65ff14448326662b5ba509ed0c",
+      "version": "1.0.0"
+    },
+    "source-serif-4_greek": {
+      "fingerprint": "84a65ca34b51747bd59db9e3fc8d74e1577a5610bc63197602b92002021c4b6c",
+      "version": "1.0.0"
+    },
+    "source-serif-4_latin": {
+      "fingerprint": "d585a0cbb47e5c0056e744b02e2f6f8f580cad7f80d81aeb7928d188e167512a",
+      "version": "1.0.0"
+    },
+    "source-serif-4_latin-ext": {
+      "fingerprint": "24d343173fd9a8124a8921a7be597f710022305ddfaf5c9d3338aa70ba35c55c",
+      "version": "1.0.0"
+    },
+    "source-serif-4_vietnamese": {
+      "fingerprint": "9524c3e5ca29c961dcd1f906ee2af3717b66472d01a6f8de9fb7084dd0bd588e",
+      "version": "1.0.0"
+    },
+    "space-grotesk_all": {
+      "fingerprint": "13482a6be28915720e420b2d832b7c02c2fde7d191ad218ef85ff6b88e2d4c8d",
+      "version": "1.0.0"
+    },
+    "space-grotesk_latin": {
+      "fingerprint": "e8480f4b6f84b0cfa49d4c9855eb9cefe93542927d6e1da095a55bbd2e9d48be",
+      "version": "1.0.0"
+    },
+    "space-grotesk_latin-ext": {
+      "fingerprint": "82888a8faf5e6d747f08787a81f83b2a5803d6f68d3aa89dd7a03150f3ceaacd",
+      "version": "1.0.0"
+    },
+    "space-grotesk_vietnamese": {
+      "fingerprint": "91344d9306e8b719aa07c87e5e076768835657b23860b6d8d98a8312f3134ed9",
+      "version": "1.0.0"
+    },
+    "stardos-stencil_latin": {
+      "fingerprint": "3c69a10ee4401141734ddfcb95f34beeac5bdad5e0eacfeb791a0d29b89f5ef4",
+      "version": "1.44.2"
+    },
+    "sunshiney_latin": {
+      "fingerprint": "f652b72adc4b8dfe91db60c6d0c98b221623abd7df3f7cf73b187e03fcceda56",
+      "version": "1.44.2"
+    },
+    "tajawal_arabic": {
+      "fingerprint": "fcc6e91540f135efee6433eab3a6894a57def391dd14af57f4370f80d12567ab",
+      "version": "1.44.2"
+    },
+    "tajawal_latin": {
+      "fingerprint": "08815f911bfeaa771d35a2a5c5bf9ffd83897e655c389f546d1d1f0c3858acef",
+      "version": "1.44.2"
+    },
+    "teko_devanagari": {
+      "fingerprint": "b49245d5a2e2cddef81051b2ca333cb4c48cbfa956dc44b00937fa2375b4ff2d",
+      "version": "1.44.3"
+    },
+    "teko_latin": {
+      "fingerprint": "1d18e535ca420a93d1d9229ff46187cb8a1c60ba9dd18be21b8335c9d1b7b6c0",
+      "version": "1.44.3"
+    },
+    "titillium-web_latin": {
+      "fingerprint": "3a7a629139467511d2161df687fe7554464868f573a6af2c0e7a392cf7c81082",
+      "version": "1.44.3"
+    },
+    "titillium-web_latin-ext": {
+      "fingerprint": "9983c739add1d463fb9fd254d9b7cab045afa95f7f22cc58acbadf016389a861",
+      "version": "1.44.3"
+    },
+    "ubuntu_all": {
+      "fingerprint": "bc3d2dfc5657b721cf62bbc2e931b14c1e7495d88a02c921422a5e468878f6fc",
+      "version": "1.44.3"
+    },
+    "ubuntu_cyrillic": {
+      "fingerprint": "9c3bfdbbc6d5a238e5144e5b079f3f9a2d36eb08e712af54c91aaee9c50b1023",
+      "version": "1.44.3"
+    },
+    "ubuntu_cyrillic-ext": {
+      "fingerprint": "0a5ada8ac2021e139a6c423c58ee969d9b7b76bb560dd5417933541132abf08a",
+      "version": "1.44.3"
+    },
+    "ubuntu_greek": {
+      "fingerprint": "cca3ba29dd40db4c862d87b761c61e8e6e471618f7cd48d8ca37e13e9a166b71",
+      "version": "1.44.3"
+    },
+    "ubuntu_greek-ext": {
+      "fingerprint": "6c5e0ee2138a1bd127a6b7ca0850a3c5038be0810fa5cd090adb265a9a8865c9",
+      "version": "1.44.3"
+    },
+    "ubuntu_latin": {
+      "fingerprint": "eb2ad3cec6f333e1dab1c52f10f93c6f8e19352fb90d0fed996ef098df517bf9",
+      "version": "1.44.3"
+    },
+    "ubuntu_latin-ext": {
+      "fingerprint": "6829f8559402a5393807b73544d7024aa807404c528ac1f19d9a630b65789bd0",
+      "version": "1.44.3"
+    },
+    "urbanist_latin": {
+      "fingerprint": "dad38299c9db555880e759996b3e4314973ae4c56d0c131d3d21b15fd92a737f",
+      "version": "1.0.0"
+    },
+    "urbanist_latin-ext": {
+      "fingerprint": "338c4bc086395ad39124c5c2655e7c3da23cc22516be3ceaafedf333e394390f",
+      "version": "1.0.0"
+    },
+    "work-sans_all": {
+      "fingerprint": "68bc6f832e5a656bae13f36de4020950a1a0b9c5241c47556c6485913781d80f",
+      "version": "1.0.2"
+    },
+    "work-sans_latin": {
+      "fingerprint": "890e9af7b325d0b3bd1842760e0057537e137fba00b70895cf886ba7f2aeffc1",
+      "version": "1.44.1"
+    },
+    "work-sans_latin-ext": {
+      "fingerprint": "ca43ad975ac398affea2fdab5fb9e947da088b4cf98bf6e637af6f967fdd8c12",
+      "version": "1.44.1"
+    },
+    "work-sans_vietnamese": {
+      "fingerprint": "411d68d381660dd010c16431e7fa4e4841deede4cb8a611a674df9ad4d6aa365",
+      "version": "1.0.2"
+    }
+  }
+}
